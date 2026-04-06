@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SpaccaScuola — Setup Guide</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0c0f14;
+  --surface: #151921;
+  --surface2: #1c2230;
+  --border: #2a3142;
+  --text: #e8eaf0;
+  --text-muted: #8891a5;
+  --accent: #f0a43a;
+  --accent-dim: #f0a43a22;
+  --green: #4ade80;
+  --green-dim: #4ade8022;
+  --blue: #60a5fa;
+  --blue-dim: #60a5fa22;
+  --red: #f87171;
+  --purple: #c084fc;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+  overflow-x: hidden;
+}
+
+.hero {
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 4rem 2rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(ellipse at 30% 50%, var(--accent-dim) 0%, transparent 50%),
+              radial-gradient(ellipse at 70% 50%, var(--blue-dim) 0%, transparent 50%);
+  animation: pulse 8s ease-in-out infinite alternate;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1) rotate(0deg); opacity: 0.6; }
+  100% { transform: scale(1.1) rotate(2deg); opacity: 1; }
+}
+
+.hero-content { position: relative; z-index: 1; max-width: 700px; }
+
+.hero h1 {
+  font-family: 'DM Serif Display', serif;
+  font-size: clamp(2.5rem, 6vw, 4.5rem);
+  letter-spacing: -0.02em;
+  margin-bottom: 0.5rem;
+  background: linear-gradient(135deg, var(--accent) 0%, #fcd34d 50%, var(--accent) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 200% 200%;
+  animation: shimmer 4s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+.hero .subtitle {
+  font-size: 1.15rem;
+  color: var(--text-muted);
+  max-width: 500px;
+  margin: 1rem auto 2rem;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.35rem 0.9rem;
+  border-radius: 99px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.badge-time { background: var(--accent-dim); color: var(--accent); border: 1px solid var(--accent); }
+.badge-cost { background: var(--green-dim); color: var(--green); border: 1px solid var(--green); }
+
+.badges { display: flex; gap: 0.8rem; justify-content: center; flex-wrap: wrap; }
+
+.container { max-width: 860px; margin: 0 auto; padding: 0 2rem 6rem; }
+
+/* Navigation */
+.nav-bar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  padding: 0.8rem 2rem;
+  display: flex;
+  gap: 0.5rem;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.nav-btn {
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  padding: 0.4rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.82rem;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: all 0.2s;
+}
+
+.nav-btn:hover { border-color: var(--accent); color: var(--text); }
+.nav-btn.active { background: var(--accent); color: var(--bg); border-color: var(--accent); font-weight: 700; }
+
+/* Sections */
+.section {
+  margin-top: 4rem;
+  animation: fadeUp 0.5s ease-out both;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.section-num {
+  font-family: 'DM Serif Display', serif;
+  font-size: 2.5rem;
+  color: var(--accent);
+  opacity: 0.4;
+  line-height: 1;
+}
+
+.section-title {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.6rem;
+  letter-spacing: -0.01em;
+}
+
+.section-time {
+  margin-left: auto;
+  font-size: 0.78rem;
+  color: var(--accent);
+  font-weight: 600;
+  padding: 0.3rem 0.7rem;
+  background: var(--accent-dim);
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+/* Cards */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.8rem;
+  margin-bottom: 1.2rem;
+  transition: border-color 0.2s;
+}
+
+.card:hover { border-color: var(--accent); }
+
+.card h3 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.card p, .card li {
+  color: var(--text-muted);
+  font-size: 0.92rem;
+  line-height: 1.8;
+}
+
+.card ul { list-style: none; padding: 0; }
+.card li { padding-left: 1.4rem; position: relative; }
+.card li::before {
+  content: '→';
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* Code blocks */
+.code-block {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.2rem 1.4rem;
+  margin: 1rem 0;
+  overflow-x: auto;
+  position: relative;
+}
+
+.code-block code {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.82rem;
+  line-height: 1.9;
+  color: var(--green);
+}
+
+.code-block .comment { color: var(--text-muted); }
+.code-block .cmd { color: var(--accent); }
+.code-block .flag { color: var(--blue); }
+.code-block .str { color: var(--purple); }
+
+.copy-btn {
+  position: absolute;
+  top: 0.6rem;
+  right: 0.6rem;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.72rem;
+  font-family: 'DM Sans', sans-serif;
+  transition: all 0.2s;
+}
+
+.copy-btn:hover { color: var(--accent); border-color: var(--accent); }
+
+/* File tree */
+.file-tree {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.2rem 1.4rem;
+  margin: 1rem 0;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  line-height: 2;
+}
+
+.file-tree .folder { color: var(--accent); }
+.file-tree .file { color: var(--blue); }
+.file-tree .desc { color: var(--text-muted); font-style: italic; font-size: 0.75rem; }
+
+/* Pipeline diagram */
+.pipeline {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+  justify-content: center;
+}
+
+.pipe-step {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  font-size: 0.82rem;
+  font-weight: 500;
+  text-align: center;
+  min-width: 100px;
+}
+
+.pipe-arrow { color: var(--accent); font-weight: 700; font-size: 1.2rem; }
+
+/* Checklist */
+.checklist { list-style: none; padding: 0; }
+.checklist li {
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: flex-start;
+  gap: 0.8rem;
+  cursor: pointer;
+}
+.checklist li:last-child { border-bottom: none; }
+
+.check-box {
+  width: 20px;
+  height: 20px;
+  border: 2px solid var(--border);
+  border-radius: 4px;
+  flex-shrink: 0;
+  margin-top: 2px;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.checklist li.done .check-box {
+  background: var(--green);
+  border-color: var(--green);
+}
+
+.checklist li.done .check-box::after {
+  content: '✓';
+  color: var(--bg);
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.checklist li.done span { color: var(--text-muted); text-decoration: line-through; }
+
+/* Tip callout */
+.tip {
+  border-left: 3px solid var(--accent);
+  padding: 1rem 1.2rem;
+  margin: 1rem 0;
+  background: var(--accent-dim);
+  border-radius: 0 8px 8px 0;
+  font-size: 0.88rem;
+}
+
+.tip strong { color: var(--accent); }
+
+.warn {
+  border-left: 3px solid var(--red);
+  padding: 1rem 1.2rem;
+  margin: 1rem 0;
+  background: #f8717122;
+  border-radius: 0 8px 8px 0;
+  font-size: 0.88rem;
+}
+
+.warn strong { color: var(--red); }
+
+/* Comparison table */
+.compare-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.85rem;
+}
+
+.compare-table th {
+  text-align: left;
+  padding: 0.8rem;
+  border-bottom: 2px solid var(--accent);
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.compare-table td {
+  padding: 0.8rem;
+  border-bottom: 1px solid var(--border);
+  color: var(--text-muted);
+}
+
+.compare-table tr:hover td { color: var(--text); }
+
+.tag-free { color: var(--green); font-weight: 600; }
+.tag-cheap { color: var(--accent); font-weight: 600; }
+.tag-good { color: var(--blue); font-weight: 600; }
+
+/* Responsive */
+@media (max-width: 640px) {
+  .section-header { flex-direction: column; align-items: flex-start; }
+  .section-time { margin-left: 0; }
+  .pipeline { flex-direction: column; }
+  .pipe-arrow { transform: rotate(90deg); }
+}
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-content">
+    <h1>SpaccaScuola</h1>
+    <p class="subtitle">Trasforma registrazioni vocali di lezioni in materiale di studio strutturato. Una guida passo-passo per la sessione di setup.</p>
+    <div class="badges">
+      <span class="badge badge-time">⏱ 4 ore di sessione</span>
+      <span class="badge badge-cost">💰 costo quasi zero</span>
+    </div>
+  </div>
+</div>
+
+<nav class="nav-bar" id="nav">
+  <button class="nav-btn active" onclick="scrollToSection('overview')">Overview</button>
+  <button class="nav-btn" onclick="scrollToSection('prereqs')">Pre-requisiti</button>
+  <button class="nav-btn" onclick="scrollToSection('hour1')">Ora 1</button>
+  <button class="nav-btn" onclick="scrollToSection('hour2')">Ora 2</button>
+  <button class="nav-btn" onclick="scrollToSection('hour3')">Ora 3</button>
+  <button class="nav-btn" onclick="scrollToSection('hour4')">Ora 4</button>
+  <button class="nav-btn" onclick="scrollToSection('costs')">Costi</button>
+  <button class="nav-btn" onclick="scrollToSection('future')">Futuro</button>
+</nav>
+
+<div class="container">
+
+  <!-- OVERVIEW -->
+  <div class="section" id="overview">
+    <div class="section-header">
+      <span class="section-num">00</span>
+      <h2 class="section-title">La Pipeline</h2>
+    </div>
+
+    <div class="pipeline">
+      <div class="pipe-step">🎙 Registrazione<br><small>Voice Memo / telefono</small></div>
+      <span class="pipe-arrow">→</span>
+      <div class="pipe-step">📝 Trascrizione<br><small>Whisper (gratis)</small></div>
+      <span class="pipe-arrow">→</span>
+      <div class="pipe-step">🤖 Elaborazione<br><small>Claude Code</small></div>
+      <span class="pipe-arrow">→</span>
+      <div class="pipe-step">📚 Output<br><small>4 formati di studio</small></div>
+    </div>
+
+    <div class="card">
+      <h3>📋 I 4 output generati</h3>
+      <ul>
+        <li><strong>Riassunto breve</strong> — versione condensata della lezione (1-2 pagine max)</li>
+        <li><strong>Bullet points</strong> — concetti chiave in punti elenco gerarchici</li>
+        <li><strong>Tabella concetti</strong> — contenuto organizzato in tabelle (concetto | definizione | collegamento)</li>
+        <li><strong>Mappa mentale</strong> — struttura temi + relazioni pronta per essere disegnata a mano</li>
+      </ul>
+    </div>
+
+    <div class="tip">
+      <strong>Filosofia:</strong> L'obiettivo NON è sostituire lo studio, ma dare una struttura chiara da cui partire. Ridisegnare le mappe mentali a mano è il vero atto di apprendimento.
+    </div>
+  </div>
+
+  <!-- PREREQUISITES -->
+  <div class="section" id="prereqs">
+    <div class="section-header">
+      <span class="section-num">00</span>
+      <h2 class="section-title">Pre-requisiti (prima della sessione)</h2>
+    </div>
+
+    <div class="card">
+      <h3>✅ Checklist preparazione</h3>
+      <ul class="checklist" id="prereq-list">
+        <li onclick="toggleCheck(this)"><span class="check-box"></span><span>macOS aggiornato (Sonoma o più recente consigliato)</span></li>
+        <li onclick="toggleCheck(this)"><span class="check-box"></span><span>Installare Homebrew: aprire Terminal e incollare il comando sotto</span></li>
+        <li onclick="toggleCheck(this)"><span class="check-box"></span><span>Avere una registrazione audio di prova (anche 5 minuti bastano)</span></li>
+        <li onclick="toggleCheck(this)"><span class="check-box"></span><span>Creare un account su anthropic.com (serve per l'API key di Claude)</span></li>
+        <li onclick="toggleCheck(this)"><span class="check-box"></span><span>Opzionale: creare un account GitHub (per backup e collaborazione futura)</span></li>
+      </ul>
+    </div>
+
+    <div class="code-block">
+      <button class="copy-btn" onclick="copyCode(this)">copia</button>
+      <code>
+<span class="comment"># Installa Homebrew (gestore pacchetti per macOS)</span>
+<span class="cmd">/bin/bash</span> <span class="flag">-c</span> <span class="str">"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</span>
+      </code>
+    </div>
+  </div>
+
+  <!-- HOUR 1 -->
+  <div class="section" id="hour1">
+    <div class="section-header">
+      <span class="section-num">01</span>
+      <h2 class="section-title">Setup dell'ambiente</h2>
+      <span class="section-time">⏱ ~60 min</span>
+    </div>
+
+    <div class="card">
+      <h3>🔧 Step 1: Installa gli strumenti base</h3>
+      <p>Apri Terminal (Cmd+Spazio → scrivi "Terminal") e copia questi comandi uno alla volta:</p>
+      <div class="code-block">
+        <button class="copy-btn" onclick="copyCode(this)">copia</button>
+        <code>
+<span class="comment"># 1. Installa Node.js (serve per Claude Code)</span>
+<span class="cmd">brew</span> install node
+
+<span class="comment"># 2. Installa Whisper (trascrizione vocale gratuita)</span>
+<span class="cmd">brew</span> install openai-whisper
+<span class="comment"># oppure la versione più veloce:</span>
+<span class="cmd">pip3</span> install whisper-ctranslate2 <span class="flag">--break-system-packages</span>
+
+<span class="comment"># 3. Installa ffmpeg (necessario per elaborare audio)</span>
+<span class="cmd">brew</span> install ffmpeg
+
+<span class="comment"># 4. Installa Claude Code</span>
+<span class="cmd">npm</span> install <span class="flag">-g</span> @anthropic-ai/claude-code
+        </code>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>📁 Step 2: Crea la struttura del progetto</h3>
+      <div class="code-block">
+        <button class="copy-btn" onclick="copyCode(this)">copia</button>
+        <code>
+<span class="comment"># Crea la cartella del progetto</span>
+<span class="cmd">mkdir</span> <span class="flag">-p</span> ~/SpaccaScuola/{audio,trascrizioni,output,archivio}
+<span class="cmd">cd</span> ~/SpaccaScuola
+        </code>
+      </div>
+      <div class="file-tree">
+        <span class="folder">📂 SpaccaScuola/</span><br>
+        ├── <span class="folder">📂 audio/</span> <span class="desc">← registrazioni originali</span><br>
+        ├── <span class="folder">📂 trascrizioni/</span> <span class="desc">← testo trascritto da Whisper</span><br>
+        ├── <span class="folder">📂 output/</span> <span class="desc">← materiale di studio generato</span><br>
+        ├── <span class="folder">📂 archivio/</span> <span class="desc">← lezioni precedenti (contesto)</span><br>
+        ├── <span class="file">CLAUDE.md</span> <span class="desc">← istruzioni personalizzate per Claude</span><br>
+        ├── <span class="file">trascrivi.sh</span> <span class="desc">← script trascrizione</span><br>
+        └── <span class="file">elabora.sh</span> <span class="desc">← script elaborazione</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>🔑 Step 3: Configura l'API key</h3>
+      <p>Vai su <strong>console.anthropic.com</strong> → API Keys → Create Key, poi:</p>
+      <div class="code-block">
+        <button class="copy-btn" onclick="copyCode(this)">copia</button>
+        <code>
+<span class="comment"># Salva la chiave nel tuo profilo (da fare una volta sola)</span>
+<span class="cmd">echo</span> <span class="str">'export ANTHROPIC_API_KEY="sk-ant-la-tua-chiave-qui"'</span> >> ~/.zshrc
+<span class="cmd">source</span> ~/.zshrc
+        </code>
+      </div>
+      <div class="warn">
+        <strong>Attenzione:</strong> La chiave API è come una password. Non condividerla e non metterla in file pubblici.
+      </div>
+    </div>
+  </div>
+
+  <!-- HOUR 2 -->
+  <div class="section" id="hour2">
+    <div class="section-header">
+      <span class="section-num">02</span>
+      <h2 class="section-title">Configura la pipeline</h2>
+      <span class="section-time">⏱ ~60 min</span>
+    </div>
+
+    <div class="card">
+      <h3>📄 Step 4: Crea il file CLAUDE.md</h3>
+      <p>Questo file è il <em>cervello</em> del sistema — dice a Claude come elaborare le tue lezioni. Copialo nella cartella del progetto.</p>
+      <div class="tip">
+        <strong>Importante:</strong> Questo file è già incluso nel pacchetto starter che puoi scaricare. Lo personalizzeremo insieme durante la sessione.
+      </div>
+      <p>Il file CLAUDE.md contiene:</p>
+      <ul>
+        <li>Il contesto della materia (es. Scienze Politiche, Sociologia, ecc.)</li>
+        <li>Le istruzioni per ogni tipo di output</li>
+        <li>I comandi rapidi (/riassumi, /bullet, /tabella, /mappa)</li>
+        <li>Il collegamento con lezioni precedenti</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3>🎙 Step 5: Lo script di trascrizione</h3>
+      <p>Questo script automatizza la trascrizione. Basta trascinare il file audio nel Terminal.</p>
+      <div class="code-block">
+        <button class="copy-btn" onclick="copyCode(this)">copia</button>
+        <code>
+<span class="comment"># Uso quotidiano — un solo comando:</span>
+<span class="cmd">./trascrivi.sh</span> audio/lezione-2024-03-15.m4a
+
+<span class="comment"># Output: trascrizioni/lezione-2024-03-15.txt</span>
+        </code>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>🤖 Step 6: Lo script di elaborazione con Claude</h3>
+      <p>Dopo la trascrizione, un secondo comando genera tutto il materiale di studio:</p>
+      <div class="code-block">
+        <button class="copy-btn" onclick="copyCode(this)">copia</button>
+        <code>
+<span class="comment"># Elabora e genera tutti i 4 formati:</span>
+<span class="cmd">./elabora.sh</span> trascrizioni/lezione-2024-03-15.txt
+
+<span class="comment"># Output generati in output/lezione-2024-03-15/:</span>
+<span class="comment">#   riassunto.md</span>
+<span class="comment">#   bullet-points.md</span>
+<span class="comment">#   tabella-concetti.md</span>
+<span class="comment">#   mappa-mentale.md</span>
+        </code>
+      </div>
+    </div>
+
+    <div class="tip">
+      <strong>Flusso quotidiano completo:</strong> Registra → <code>./trascrivi.sh audio/file.m4a</code> → <code>./elabora.sh trascrizioni/file.txt</code> → studia! Due comandi e basta.
+    </div>
+  </div>
+
+  <!-- HOUR 3 -->
+  <div class="section" id="hour3">
+    <div class="section-header">
+      <span class="section-num">03</span>
+      <h2 class="section-title">Test con lezione reale</h2>
+      <span class="section-time">⏱ ~60 min</span>
+    </div>
+
+    <div class="card">
+      <h3>🧪 Step 7: Esegui la pipeline completa</h3>
+      <ul>
+        <li>Usa una registrazione vera di una sua lezione</li>
+        <li>Fai girare la pipeline end-to-end</li>
+        <li>Esamina ogni output — è utile? Manca qualcosa?</li>
+        <li>Modifica il CLAUDE.md per calibrare la qualità</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3>🎯 Step 8: Calibrazione dei prompt</h3>
+      <p>Questa è la fase più importante. Per le scienze sociali, gli aggiustamenti tipici sono:</p>
+      <ul>
+        <li>Aggiungere istruzioni per catturare <strong>nomi di autori e teorie</strong></li>
+        <li>Differenziare tra <strong>fatti, opinioni del professore, e dibattito aperto</strong></li>
+        <li>Collegare i nuovi concetti con le <strong>lezioni precedenti</strong></li>
+        <li>Adattare il livello di dettaglio delle tabelle</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3>🔄 Step 9: Impara ad usare Claude Code interattivamente</h3>
+      <p>Oltre agli script, Claude Code si può usare in modo conversazionale:</p>
+      <div class="code-block">
+        <button class="copy-btn" onclick="copyCode(this)">copia</button>
+        <code>
+<span class="comment"># Apri Claude Code nella cartella del progetto</span>
+<span class="cmd">cd</span> ~/SpaccaScuola
+<span class="cmd">claude</span>
+
+<span class="comment"># Ora sei in modalità interattiva. Prova:</span>
+> Leggi la trascrizione in trascrizioni/lezione-01.txt e fammi un riassunto
+> Confronta questa lezione con la precedente in archivio/
+> Quali temi si ripetono tra le ultime 3 lezioni?
+        </code>
+      </div>
+    </div>
+  </div>
+
+  <!-- HOUR 4 -->
+  <div class="section" id="hour4">
+    <div class="section-header">
+      <span class="section-num">04</span>
+      <h2 class="section-title">Manutenzione e autonomia</h2>
+      <span class="section-time">⏱ ~60 min</span>
+    </div>
+
+    <div class="card">
+      <h3>📖 Step 10: Documenta e spiega il sistema</h3>
+      <ul>
+        <li>Il flusso completo: registra → trascrivi → elabora → studia</li>
+        <li>Come modificare CLAUDE.md per migliorare i risultati</li>
+        <li>Come aggiungere contesto dalle lezioni passate</li>
+        <li>Troubleshooting: cosa fare se qualcosa non funziona</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3>💾 Step 11: Backup con Git (versione minima)</h3>
+      <p>Solo 3 comandi da ricordare, niente di più:</p>
+      <div class="code-block">
+        <button class="copy-btn" onclick="copyCode(this)">copia</button>
+        <code>
+<span class="comment"># Primo setup (da fare una volta)</span>
+<span class="cmd">cd</span> ~/SpaccaScuola
+<span class="cmd">git</span> init
+<span class="cmd">git</span> add .
+<span class="cmd">git</span> commit <span class="flag">-m</span> <span class="str">"setup iniziale"</span>
+
+<span class="comment"># Ogni volta che vuoi salvare il progresso:</span>
+<span class="cmd">git</span> add .
+<span class="cmd">git</span> commit <span class="flag">-m</span> <span class="str">"aggiunta lezione del 15 marzo"</span>
+
+<span class="comment"># Per backup su GitHub (opzionale):</span>
+<span class="cmd">git</span> push
+        </code>
+      </div>
+      <div class="tip">
+        <strong>Per ora basta questo.</strong> Branching, merge e pull request possono aspettare. L'obiettivo è non perdere il lavoro.
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>🔮 Step 12: Piano per il futuro</h3>
+      <ul>
+        <li><strong>Settimana 1-2:</strong> Usa il sistema per 4-5 lezioni. Annota cosa va migliorato.</li>
+        <li><strong>Settimana 3:</strong> Sessione di 1h con te per calibrare CLAUDE.md.</li>
+        <li><strong>Mese 2:</strong> Aggiungere il confronto automatico tra lezioni per preparazione esami.</li>
+        <li><strong>Futuro:</strong> Automazione completa con Automator/shortcut macOS.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- COSTS -->
+  <div class="section" id="costs">
+    <div class="section-header">
+      <span class="section-num">💰</span>
+      <h2 class="section-title">Analisi dei costi</h2>
+    </div>
+
+    <div class="card">
+      <table class="compare-table">
+        <tr>
+          <th>Componente</th>
+          <th>Costo</th>
+          <th>Note</th>
+        </tr>
+        <tr>
+          <td>Whisper (locale)</td>
+          <td><span class="tag-free">GRATIS</span></td>
+          <td>Gira sul Mac, nessun costo</td>
+        </tr>
+        <tr>
+          <td>Claude Code / API</td>
+          <td><span class="tag-cheap">~€0.10-0.30/lezione</span></td>
+          <td>Dipende dalla lunghezza (~5-15k token per lezione)</td>
+        </tr>
+        <tr>
+          <td>GitHub</td>
+          <td><span class="tag-free">GRATIS</span></td>
+          <td>Repo privati gratuiti</td>
+        </tr>
+        <tr>
+          <td>Homebrew, Node, ffmpeg</td>
+          <td><span class="tag-free">GRATIS</span></td>
+          <td>Open source</td>
+        </tr>
+        <tr>
+          <td><strong>Totale mensile (10 lezioni)</strong></td>
+          <td><strong><span class="tag-cheap">~€1-3/mese</span></strong></td>
+          <td></td>
+        </tr>
+      </table>
+    </div>
+
+    <div class="card">
+      <h3>🆓 Alternativa a costo zero</h3>
+      <p>Se anche €1-3/mese è troppo, può usare <strong>claude.ai</strong> (piano gratuito) e incollare manualmente la trascrizione nel chat. Meno automatizzato, ma funziona. Basta salvare i prompt in un file di testo da copiare-incollare.</p>
+    </div>
+  </div>
+
+  <!-- FUTURE -->
+  <div class="section" id="future">
+    <div class="section-header">
+      <span class="section-num">🚀</span>
+      <h2 class="section-title">Framework replicabile</h2>
+    </div>
+
+    <div class="card">
+      <h3>♻️ Per replicare con altri studenti</h3>
+      <p>Il setup è pensato per essere clonabile. Per un nuovo studente basta:</p>
+      <ul>
+        <li>Copiare la cartella SpaccaScuola</li>
+        <li>Modificare CLAUDE.md con la sua materia e preferenze</li>
+        <li>Configurare la sua API key</li>
+        <li>Fatto — stesso flusso, contesto diverso</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3>📈 Evoluzione possibile</h3>
+      <ul>
+        <li><strong>Fase 2:</strong> macOS Shortcut / Automator — drag & drop del file audio genera tutto</li>
+        <li><strong>Fase 3:</strong> Web app locale con interfaccia semplice</li>
+        <li><strong>Fase 4:</strong> Quiz generator basato sulle lezioni precedenti</li>
+        <li><strong>Fase 5:</strong> Confronto multi-lezione per preparazione esami</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
+
+<script>
+function scrollToSection(id) {
+  document.getElementById(id).scrollIntoView({ behavior: 'smooth', block: 'start' });
+  document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+}
+
+function toggleCheck(li) {
+  li.classList.toggle('done');
+}
+
+function copyCode(btn) {
+  const code = btn.parentElement.querySelector('code').textContent;
+  navigator.clipboard.writeText(code.trim());
+  btn.textContent = '✓ copiato';
+  setTimeout(() => btn.textContent = 'copia', 2000);
+}
+
+// Intersection observer for nav highlighting
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      const id = entry.target.id;
+      document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+      const active = document.querySelector(`[onclick="scrollToSection('${id}')"]`);
+      if (active) active.classList.add('active');
+    }
+  });
+}, { threshold: 0.3, rootMargin: '-80px 0px 0px 0px' });
+
+document.querySelectorAll('.section').forEach(s => observer.observe(s));
+</script>
+</body>
+</html>
