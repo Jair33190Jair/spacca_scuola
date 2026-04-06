@@ -1,10 +1,8 @@
 # 📚 SpaccaScuola
 
-**Trasforma registrazioni vocali di lezioni universitarie in materiale di studio strutturato.**
+##
 
-## Cosa fa
-
-Prendi una registrazione audio della tua lezione e ottieni automaticamente:
+**Mette asieme registratzioni + Risorsi della lezione e crea:**
 
 1. **Riassunto breve** — la lezione in 500 parole
 2. **Bullet points** — concetti gerarchici pronti per il ripasso
