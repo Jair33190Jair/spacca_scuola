@@ -1,1 +1,7 @@
 openai-whisper
+
+# PDF text extraction (src/estrai_pdf.py)
+PyMuPDF
+Pillow
+pytesseract
+pdf2image
