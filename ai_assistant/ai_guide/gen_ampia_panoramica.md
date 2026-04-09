@@ -90,7 +90,7 @@ percorso complessivo}
 - **Mappa dei temi** all'inizio: tabella rapida
   che dice cosa si trova in ogni lezione.
 - **Riferimenti alla lezione di origine**
-  tra parentesi: `(Lez. 03)` — così Jony sa
+  tra parentesi: `(Lez. 03)` — così sa
   dove approfondire.
 - **Nessun contenuto nuovo.** Solo ciò che è
   presente negli schematici/riassunti.
@@ -109,6 +109,7 @@ percorso complessivo}
 ## Tono
 
 Minimo. Puoi permetterti:
+
 - La frase introduttiva (caldo, motivazionale)
 - Il filo conduttore finale (narrativo ma breve)
 - Il resto è pura struttura.
