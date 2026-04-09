@@ -7,8 +7,8 @@ Hybrid strategy:
   2. If a page has no text -> OCR with Tesseract
 
 Usage:
-  python src/estrai_pdf.py path/to/file.pdf
-  python src/estrai_pdf.py path/to/file.pdf --dpi 400
+  python src/S1_extractor.py path/to/file.pdf
+  python src/S1_extractor.py path/to/file.pdf --dpi 400
 """
 
 import argparse
@@ -78,38 +78,38 @@ def extract_pdf(pdf_path: str, dpi: int = 300) -> str:
     direct extraction or OCR.
     """
     doc = fitz.open(pdf_path)
-    tesseract_available = None  # lazy check
     result = []
 
     for i, page in enumerate(doc):
-        num = i + 1
+        page_num = i + 1
         text = extract_direct_text(page)
 
         if len(text) >= MIN_CHARS:
             print(
-                f"  Page {num}/{len(doc)}: "
+                f"  Page {page_num}/{len(doc)}: "
                 f"direct text ({len(text)} characters)"
             )
             result.append(text)
             continue
 
         # Page without text -> OCR required
-        print(
-            f"  Page {num}/{len(doc)}: "
-            f"SKIP (scan, Tesseract required)"
-        )
-        result.append(
-            f"[Page {num}: scan - "
-            f"install tesseract-ocr]"
-        )
-        continue
+        if not check_tesseract():
+            print(
+                f"  Page {page_num}/{len(doc)}: "
+                f"SKIP (scan, Tesseract required)"
+            )
+            result.append(
+                f"[Page {page_num}: scan - "
+                f"install tesseract-ocr]"
+            )
+            continue
 
-    print(
-        f"  Page {num}/{len(doc)}: "
-        f"OCR (Tesseract, {dpi} DPI)..."
-    )
-    ocr_text = extract_ocr_text(pdf_path, num, dpi)
-    result.append(ocr_text)
+        print(
+            f"  Page {page_num}/{len(doc)}: "
+            f"OCR (Tesseract, {dpi} DPI)..."
+        )
+        ocr_text = extract_ocr_text(pdf_path, page_num, dpi)
+        result.append(ocr_text)
 
     doc.close()
     return "\n\n---\n\n".join(result)
