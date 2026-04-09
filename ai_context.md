@@ -33,7 +33,8 @@ spacca_scuola/
 │   └── template_materia/       ← template vuoto da copiare
 │
 ├── ai_assistant/               ← configurazione assistente AI
-│   ├── ai_context.md           ← (da completare)
+│   ├── ai_context.md           ← personalità e regole dell'AI
+│   ├── profilo_studente.md     ← profilo dello studente (analogie, tono, motivazione)
 │   └── ai_guide/               ← istruzioni per i formati di output
 │       ├── 01_riassunto_dettagliato.md
 │       ├── 02_riassunto_breve.md

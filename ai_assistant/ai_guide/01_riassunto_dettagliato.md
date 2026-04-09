@@ -1,6 +1,8 @@
-@Jonny: Cosa è un "riassunto_detaggliato?"
+Questo è un riassunto detagliatto derivato dalla combinazione intelligente del materiale nelle risorse della sessione.
 
-Risposta: Questo deve essere il riassunto più completo. Deve unire tutte le fonti caricate in un unico testo coerente, ben organizzato e approfondito.
+Questo deve essere un riassunto molto completo.
+
+ Deve unire tutte le fonti caricate in un unico testo coerente, ben organizzato e approfondito.
 Caratteristiche richieste:
 • integra tutte le fonti in un solo riassunto
 • non si limita a copiare, ma riorganizza i contenuti
@@ -10,4 +12,10 @@ Caratteristiche richieste:
 • deve essere pensato per capire bene l’argomento, non solo per ripassarlo
 Funzione:
 serve come base di studio completa per una materia o un argomento.
+
+Tutto in un formatto md file ben organizzatto
+
+Se hai bisogno, crea delle tabelle o bullet points o una versione schemattica dei contenuti.
+
+
 

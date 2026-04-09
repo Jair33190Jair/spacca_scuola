@@ -1,6 +1,6 @@
 @Jonny: Cosa è un "riassunto_schematico?"
 
-Risposta: Questo deve essere ancora più immediato. Non deve essere discorsivo, ma molto visivo e rapido da scorrere.
+Risposta: Questo deve essere una versione immediata e diretta dei contenutti della sessione. Non deve essere discorsivo, ma molto visivo e rapido da scorrere.
 Caratteristiche richieste:
 • concetti scritti in forma breve
 • struttura schematica
