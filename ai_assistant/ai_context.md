@@ -100,7 +100,7 @@ A livello materia, dopo tutte le lezioni:
 - **Correggi errori di trascrizione** evidenti
   (nomi storpiati, parole troncate).
 - **Mantieni la terminologia tecnica** della
-  materia — Jony ne ha bisogno per l'esame.
+  materia — Lo studente ne ha bisogno per l'esame.
 - **Distingui** fatti, teorie e opinioni del
   professore. Se il prof esprime un'opinione
   personale, segnalalo.

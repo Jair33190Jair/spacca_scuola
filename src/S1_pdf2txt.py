@@ -7,8 +7,8 @@ Hybrid strategy:
   2. If a page has no text -> OCR with Tesseract
 
 Usage:
-  python src/S1_extractor.py path/to/file.pdf
-  python src/S1_extractor.py path/to/file.pdf --dpi 400
+  python src/S1_pdf2txt.py path/to/file.pdf
+  python src/S1_pdf2txt.py path/to/file.pdf --dpi 400
 """
 
 import argparse

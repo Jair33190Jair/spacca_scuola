@@ -99,6 +99,12 @@ sono in `ai_assistant/ai_guide/`:
 - Segnala ambiguità con [?].
 - Collega a lezioni precedenti se il contesto
   è disponibile.
+- **Conflitti tra fonti:** in caso di
+  informazioni contrastanti tra la trascrizione
+  e un file `manuale_<numero>.txt`, il manuale
+  ha sempre la precedenza. Segnala il conflitto
+  con una nota inline, es:
+  _[Trascrizione dice X — manuale corregge in Y]_
 
 ## Documenti chiave
 
