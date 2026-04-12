@@ -3,9 +3,9 @@ Salute Mentale · Sessione 01
 
 ## Struttura del modulo
 
-- **Tre tappe** → clinica, mondo, corpo
-- **Quattro dimensioni** → spazio, tempo,
-  identità, incontro
+- **Tre tappe** → clinica · mondo · corpo
+- **Quattro dimensioni trasversali** → spazio ·
+  tempo · identità · incontro
 - **Ruolo operatore sociale** → trait d'union
   tra discipline specialistiche
 
@@ -17,14 +17,14 @@ Salute Mentale · Sessione 01
 - **Trattamento medico** → né necessario né
   sufficiente per definire malattia
 - **Norma statistica** → fuori dalla media ≠ malato
-- **Sofferenza** → malattie asintomatiche e
-  dolori non patologici esistono
-- **Disabilità** → non-abilità ≠ malattia
-  (neonati, sonno)
-- **Adattamento** → l'uomo adatta l'ambiente,
-  non solo sé stesso
+- **Sofferenza** → malattie asintomatiche e dolori
+  fisiologici esistono
+- **Disabilità** → non-abilità ≠ malattia (neonati,
+  sonno)
+- **Adattamento** → l'uomo adatta l'ambiente a sé,
+  non solo il contrario
 - **Omeostasi** → la vita richiede perdita e
-  riconquista di equilibrio
+  riconquista continua di equilibrio
 
 ⚠️ Nessuna condizione è sufficiente da sola
 
@@ -36,20 +36,21 @@ Salute Mentale · Sessione 01
 |---|---|---|
 | **Disease** | Biomedica | Parametri clinici |
 | **Illness** | Soggettiva | Vissuto personale |
-| **Sickness** | Sociale | Stigma/riconoscimento |
+| **Sickness** | Sociale | Stigma / riconoscimento |
 
-- 6 combinazioni possibili + 1 (tutte presenti)
 - Le tre dimensioni possono non coincidere
+- Lo stigma (*sickness* negativa) peggiora
+  l'andamento della malattia
 
 ---
 
-## Benessere — 6 dimensioni di Ryff (2014)
+## Benessere — 6 dimensioni di Ryff
 
 - **Autonomia** → autodeterminazione senza
   condizionamenti esterni
 - **Controllo ambientale** → valorizzare risorse
   e possibilità
-- **Relazioni positive** → calore, fiducia,
+- **Relazioni positive** → calore · fiducia ·
   reciprocità
 - **Autoaccettazione** → consapevolezza qualità
   e limiti
@@ -61,28 +62,13 @@ Salute Mentale · Sessione 01
 
 ---
 
-## Continuum di Fulcheri (2005)
-
-1. **Benessere psichico** → soddisfazione,
-   qualità di vita, accettazione
-2. **Disagio psichico** → sofferenza senza sintomi
-   specifici
-3. **Malessere psichico** → intensità maggiore,
-   consapevolezza, sensazioni fisiche
-4. **Disturbo psichico** → sofferenza intensa,
-   sintomi clinici, comportamento alterato
-5. **Malattia mentale** → alterazioni persistenti,
-   cure assenti/inefficaci
-
----
-
 ## Normalità — 3 tipi
 
 | Tipo | Definizione | Rischio |
 |---|---|---|
 | **Statistica** | Nella media della popolazione | Stigma per chi devia |
 | **Di valore** | Ideale da raggiungere | Irraggiungibile → sofferenza perpetua |
-| **Personale** | Rispetto al funzionamento precedente | Idealizzazione del passato |
+| **Personale** | Rispetto al funzionamento precedente | Idealizzare il passato; la normalità precedente può essere la causa della malattia |
 
 ---
 
@@ -90,12 +76,28 @@ Salute Mentale · Sessione 01
 
 |  | Non si identifica | Si identifica |
 |---|---|---|
-| **Agentivo** | Guarigione (espellere) | Cura (benessere nella malattia) |
-| **Passivo** | Delega ("faccia lei") | Delega assistenziale |
+| **Agentivo** | Guarigione → eliminare la condizione | Cura → benessere dentro la condizione |
+| **Passivo** | Delega → "guariscimi" | Delega assistenziale |
 
-- **Guarigione** → eliminare la condizione
-- **Cura** → stare meglio dentro la condizione
-- *To cure* ≠ *to care*: la cura è sempre possibile
+- **To cure** → terapia: non sempre possibile
+- **To care** → cura del benessere: sempre possibile
+- *"Non tutto si può guarire, ma tutto può essere
+  curato"*
+
+---
+
+## La tragedia greca
+
+- **5 tragedie** → Aiace · Andromaca · Agamennone ·
+  Le Troiane · Le Trachinie
+- **Tre tragediografi** →
+  - Eschilo: la follia viene dagli dèi (forza esterna)
+  - Sofocle: il tragico è la vita stessa
+  - Euripide: il tragico nasce dalle relazioni
+- **Catarsi** → far emergere ed elaborare emozioni
+  difficili attraverso la sofferenza altrui
+- **Esercizio pedagogico** →
+  leggere → condividere → sintetizzare → mettere in scena
 
 ---
 
@@ -103,15 +105,12 @@ Salute Mentale · Sessione 01
 
 | Chi | Cosa | Quando |
 |---|---|---|
-| Erwin Straus | Malattia come minaccia naturale | 2010 (orig. XX sec.) |
 | Christopher Boorse | 7 condizioni della salute | 1977 |
-| Carol Ryff | 6 dimensioni del benessere | 2014 |
-| Giovanni Jervis | Manuale critico di psichiatria | 1984 |
-| Fulcheri | Continuum benessere → malattia | 2005 |
-| Cosmacini | To cure vs to care | 2013 |
-| Biondi | Normalità e comportamento | 1996 |
-| Leff | Studio Kenya: segni di malattia mentale | 1992 |
-| Hoffman / Maturo | Combinazioni disease/illness/sickness | 2002 / 2005 |
+| Carol Ryff | 6 dimensioni del benessere | — |
+| Callieri & C. | Definizione di clinica | 1999 |
+| Tiziano Terzani | *L'ultimo giro di giostra* | — |
+| Nadia Murad | Attivista, Premio Nobel per la Pace | — |
+| Guidorizzi | Follia nella tragedia greca | 2010 |
 
 ### Parole chiave
 
@@ -119,5 +118,5 @@ Salute Mentale · Sessione 01
 · `illness` · `sickness` · `Boorse` · `Ryff` ·
 `agentività` · `omeostasi` · `norma statistica`
 · `norma di valore` · `norma personale` ·
-`catarsi` · `guarigione` · `cura` · `Fulcheri`
-· `tragedia greca`
+`catarsi` · `guarigione` · `cura` · `to cure`
+· `to care` · `tragedia greca` · `clinica`
