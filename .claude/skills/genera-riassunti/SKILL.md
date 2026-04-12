@@ -34,14 +34,29 @@ Il path ha sempre questa struttura:
 
 ### 1. Controlla file esistenti
 
-Verifica se `<path>/gen/` contiene già file generati
-(uno qualsiasi tra `01_`, `02_`, `03_riassunto_*.md`).
+Usa `Bash ls` (non Glob) per verificare se `<path>/gen/`
+contiene file generati (uno qualsiasi tra
+`01_`, `02_`, `03_riassunto_*.md`).
 
-- Se esistono e il flag **non** è `super-forza`:
-  chiedi all'utente se vuole rigenerarli. Se risponde no,
-  **interrompi**.
-- Se esistono e il flag è `super-forza`: procedi senza chiedere.
-- Se non esistono: procedi.
+Per quelli trovati, considera **non vuoto** solo un file
+che supera entrambe le soglie: più di 3 righe **e**
+più di 100 parole. Verifica con:
+
+```bash
+for f in <path>/gen/*riassunto*.md; do
+  [ -f "$f" ] \
+    && [ "$(wc -l < "$f")" -gt 3 ] \
+    && [ "$(wc -w < "$f")" -gt 100 ] \
+    && echo "non-vuoto: $f"
+done
+```
+
+- Se **nessun file non vuoto** è trovato: procedi.
+- Se almeno un file è **non vuoto** e il flag **non** è
+  `super-forza`: chiedi all'utente se vuole rigenerarli.
+  Se risponde no, **interrompi**.
+- Se almeno un file è non vuoto e il flag è `super-forza`:
+  procedi senza chiedere.
 
 ### 2. Pre-processing
 
@@ -97,12 +112,25 @@ Esempio: `genera-riassunti 02_semestre/salute_mentale forza`
 
 ### 1. Controlla file esistenti (solo con `forza`)
 
-Se il flag è `forza`, verifica quali lezioni hanno già
-file generati in `gen/`. Se almeno una ne ha, elenca le
-lezioni coinvolte e chiedi all'utente se vuole rigenerarle.
-Se risponde no, **interrompi**.
-
 Se il flag è `super-forza`, salta questo controllo.
+
+Se il flag è `forza`, per ogni cartella lezione usa
+`Bash ls` (non Glob) e considera **non vuoto** solo un
+file che supera entrambe le soglie: più di 3 righe **e**
+più di 100 parole:
+
+```bash
+for f in <percorso-lezione>/gen/*riassunto*.md; do
+  [ -f "$f" ] \
+    && [ "$(wc -l < "$f")" -gt 3 ] \
+    && [ "$(wc -w < "$f")" -gt 100 ] \
+    && echo "non-vuoto: $f"
+done
+```
+
+Se almeno una lezione ha file non vuoti, elenca le
+lezioni coinvolte e chiedi all'utente se vuole
+rigenerarle. Se risponde no, **interrompi**.
 
 ### 2. Pre-processing di tutte le lezioni
 
