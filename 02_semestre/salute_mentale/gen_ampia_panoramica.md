@@ -1,400 +1,423 @@
 # Salute Mentale — Panoramica completa
 Semestre 02 · 7 lezioni
 
-> Il modulo parte da una domanda semplice e difficilissima: cosa vuol
-> dire essere "sani"? Poi costruisce gli strumenti per capire la sofferenza
-> mentale — definendola, raccontando come l'umanità l'ha interpretata nel
-> tempo, scendendo nella biologia delle emozioni, imparando a leggere i
-> comportamenti e i sintomi, e infine nominando le patologie. Il filo che
-> tiene tutto insieme è il rapporto tra chi soffre e chi cerca di aiutare.
-
----
+> Un viaggio che parte dalle definizioni base (cos'è salute,
+> malattia, normalità) e arriva al cuore della clinica: come
+> si guarda, si ascolta, si comprende chi soffre. In mezzo:
+> la storia della follia, le emozioni, le difese, i quadri
+> clinici maggiori. Il filo rosso è sempre lo stesso —
+> l'incontro tra due persone, non la classificazione di un
+> oggetto.
 
 ## Mappa dei temi
 
-| # | Lezione | Tema centrale |
-|---|---------|--------------|
-| 01 | Introduzione al modulo | Salute, benessere, normalità, posizione del soggetto |
-| 02 | Storia della follia | Due paradigmi storici: organicista vs. psicologico |
-| 03 | Empatie | Empatia: modelli, sviluppo, bias, compassione |
-| 04 | Dalla paura alle difese | Emozioni di base, ansia, angoscia e meccanismi di difesa |
-| 05 | Dispercepire il mondo | Semiologia, percezione, memoria, psicofarmacologia |
-| 06 | Sindromi affettive e ansiose | Depressioni, disturbi bipolari, disturbi d'ansia |
-| 07 | Le nevrosi | Struttura nevrotica, DOC, isteria, egodistonico/egosintonico |
+| #  | Lezione | Tema centrale |
+|----|---------|---------------|
+| 01 | Intro al modulo | Salute, benessere, normalità, cura vs. guarigione |
+| 02 | Storia della follia | Paradigmi storici: organico vs. passionale |
+| 03 | Le empatie | Empatia come costrutto multi-componente e evolutivo |
+| 04 | Dalla paura alle difese | Filiera emotiva e meccanismi di difesa |
+| 05 | Dispercepire il mondo | Semiologia, funzioni cognitive, psicofarmaci |
+| 06 | Sindromi affettive e ansiose | Depressioni, bipolari, disturbi d'ansia |
+| 07 | Le nevrosi | DOC e isteria: conflitto egodistonico |
 
 ---
 
-## Macro-tema 1 — Definire la salute e la malattia
+## Cornice concettuale: salute, malattia, normalità
 
-- **Salute (Boorse, 1977)** → 7 condizioni, nessuna sufficiente
+Il modulo si apre definendo i termini che stanno alla base
+di tutto il resto.
+
+- **Salute** → 7 condizioni di **Boorse** (1977): valore,
+  trattamento medico, norma statistica, sofferenza,
+  disabilità, adattamento, omeostasi · nessuna sufficiente
   da sola · (Lez. 01)
-  - Valore · trattamento medico · norma statistica · sofferenza ·
-    disabilità · adattamento · omeostasi
-- **Disease / Illness / Sickness** → tre dimensioni che non
-  coincidono · (Lez. 01)
-  - **Disease** → biologica (parametri clinici)
-  - **Illness** → soggettiva (vissuto personale)
-  - **Sickness** → sociale (stigma, riconoscimento)
-  - Lo stigma (*sickness* negativa) peggiora l'andamento della malattia
-- **Normalità** → tre tipi, tre rischi diversi (Lez. 01)
-  - Statistica → deviare dalla media ≠ essere malati
-  - Di valore → ideale irraggiungibile → sofferenza perpetua
-  - Personale → rispetto al proprio funzionamento precedente
-    - Attenzione: la normalità precedente può essere la causa della malattia
-- **Benessere** → 6 dimensioni di Ryff (Lez. 01)
-  - Autonomia · controllo ambientale · relazioni positive ·
-    autoaccettazione · percezione di crescita · scopo nella vita
-  - Salute ≠ benessere (possono non coincidere)
-- **Patologia vs. normalità** → 3 criteri clinici (Lez. 07)
-  - **Durata** → sintomi persistenti (es. ≥ 6 mesi)
-  - **Intensità** → frequenza elevata, non sporadica
-  - **Compromissione** → impatto su lavoro, relazioni, vita quotidiana
+- **Disease / Illness / Sickness** → dimensione biomedica,
+  soggettiva, sociale · possono non coincidere · lo stigma
+  peggiora il decorso · (Lez. 01)
+- **Benessere** → 6 dimensioni di **Ryff**: autonomia,
+  controllo ambientale, relazioni positive, autoaccettazione,
+  crescita, scopo · salute ≠ benessere · (Lez. 01)
+- **Normalità** → statistica · di valore · personale · ogni
+  tipo ha il suo rischio di stigma o sofferenza · (Lez. 01)
+- **To cure vs. to care** → guarire non sempre possibile,
+  curare sì · *"Non tutto si può guarire, ma tutto può
+  essere curato"* · (Lez. 01)
+- **Posizione del soggetto** → agentivo/passivo ×
+  identificato/non identificato con la malattia · (Lez. 01)
+- **Patologia vs. normalità** → 3 criteri: durata,
+  intensità, compromissione · (Lez. 07)
 
 ---
 
-## Macro-tema 2 — I due sguardi sulla follia
+## I due paradigmi della follia
 
-- **Gehirnpsychiatrie** → follia = malattia organica del
-  cervello · (Lez. 02)
-  - Es. clinico: Donizetti (sifilide → paralisi progressiva)
-  - Da Ippocrate a Griesinger a Kraepelin
-  - Somatiker vs. Psychiker
-- **Geistespsychiatrie** → follia = prodotto di passioni/vita/traumi (Lez. 02)
-  - Pinel, Esquirol, approccio relazionale → trattamento morale
-- **Comprensibilità** (Jaspers, Lez. 02):
-  - Follia passionale → comprensibile (ci riconosciamo)
-  - Follia organica → incomprensibile
+Tema centrale in Lez. 02, riecheggia in tutte le altre.
+
+- **Gehirnpsychiatrie** → follia = malattia organica
+  del cervello (Donizetti, sifilide) · (Lez. 02)
+- **Geistespsychiatrie** → follia = passioni, traumi,
+  vita (Lucia di Lammermoor) · (Lez. 02)
+- **Comprensibilità (Jaspers)** → follia passionale
+  comprensibile · follia organica incomprensibile · (Lez. 02)
+- **Somatiker vs. Psychiker** → declinazione ottocentesca
+  del dualismo (Griesinger) · (Lez. 02)
 - **Alienazione** → essere "altrove", fuori dal proprio
   mondo · (Lez. 02)
+- **Avere vs. essere la malattia** → non-identificazione
+  vs. identificazione identitaria → paradigmi di cura
+  diversi · (Lez. 01, 02)
+- **Nevrosi** nasce qui (Cullen, 1777) e riemerge come
+  tema centrale in Lez. 07
 
 ---
 
-## Macro-tema 3 — Evoluzione del pensiero psichiatrico
+## Evoluzione storica della psichiatria
 
-- **Grecia arcaica** → follia come possessione divina (Lez. 02)
-- **Ippocrate** (~460 a.C.) → teoria degli umori; emancipazione dalla religione (Lez. 02)
-  - Bile nera → melanconico · Sangue → sanguigno · Flegma → flemmatico · Bile gialla → collerico
-- **1600–1700** → meccanicismo; nervi; nasce il termine "nevrosi" (Cullen, 1777) (Lez. 02)
-- **Pinel** (1793) → trattamento morale; 4 principi fondamentali (Lez. 02)
-  - **Guaribilità** · **Patoplastica** · **Parzialità della follia** · **Trattamento morale**
-  - La parzialità della follia: ci si rivolge alla parte sana — fondamentale per il lavoro sociale
-- **Positivismo** (XIX sec.) → degenerazione, nosologia, misurazioni (Lez. 02)
-  - Morel → degenerazione; delirio paranoico come primo segnale
-    - *Parà* (di fianco) + *noos* (pensiero) → pensiero parallelo; premessa non universale + auto-riferimento
-  - Kraepelin → esogene vs. endogene; demenza precoce + psicosi maniaco-depressiva
-- **Bleuler** (1911) → schizofrenia; sintomi primari (organici) + secondari (psicologici, variabili) (Lez. 02)
-  - Recupera il principio patoplastico di Pinel
-- **Pellagra** → caso emblematico: malattia da povertà (carenza B3) trattata come follia; internamento in manicomio (Lez. 02)
-- **Nevrosi** → termine introdotto da Cullen (fine '700); abbandonato dal DSM-III in poi (Lez. 07)
-  - Frammentata in categorie diagnostiche specifiche: disturbi d'ansia, DOC, PTSD, disturbi somatici
-
----
-
-## Macro-tema 4 — Empatia
-
-- **Critica alla versione popolare** → "mettersi nei panni" toglie identità all'altro (Lez. 03)
-  - Ricoeur: stare accanto, non al posto; Pezzoli: empatia come passepartout = fuorviante
-- **Origine** → *Einfühlung* (sentire dentro); Lipps 1905; Gallese 2003 → neuroni specchio, simulazione incarnata (Lez. 03)
-- **Modello Feshbach (1987)** → 3 componenti (Lez. 03):
-  - **Cognitiva 1** → assunzione di prospettiva (superamento egocentrismo, Piaget)
-  - **Cognitiva 2** → decodifica degli stati emotivi
-  - **Affettiva** → risonanza emotiva ("il sale dell'empatia")
-  - Precondizione chiave: distinzione sé/altro
-- **Theory of Mind** (~4 anni) → 5 dimensioni: DD · DB · KA · FB · HE (Wellman, 2018) (Lez. 03)
-- **Modello Hoffman (2000)** → evolutivo + motivazionale (Lez. 03)
-  - 5 stadi: da distress globale (0–12 mesi) a empatia oltre la situazione (adolescenza)
-  - Regola: le empatie più evolute richiedono le precondizioni cognitive
-  - Nell'adulto: cognitivo cresce, emotivo viene mediato
-- **Empatia / Simpatia / Compassione** (Lez. 03):
-  - Simpatia → condivisione spontanea
-  - Empatia → *feeling with* (sentire con)
-  - Compassione → *feeling for* (sentire per) + motivazione proattiva (Way & Tracy, 2012)
-
-### I 6 Bias dell'Empatia (Pezzoli, Lez. 03)
-
-| # | Nome | Rischio professionale |
-|---|------|-----------------------|
-| 1 | Non empatizziamo ugualmente | Trascurare utenti molto diversi da noi |
-| 2 | Brutti, sporchi, colpevoli | Discriminare chi è "responsabile" della propria condizione |
-| 3 | Inganno e invidia | Difficoltà con utenti manipolatori |
-| 4 | Non sensibile ai numeri | Favoritismi verso utenti più conosciuti |
-| 5 | Non rende più buoni | Empatia ≠ garanzia di comportamento prosociale |
-| 6 | Faticosa e dolorosa | Burnout, allontanamento, incapacità di dire di no |
+- **Grecia → Ippocrate** → emancipazione dalla religione ·
+  teoria degli umori · fluidisti · (Lez. 02)
+- **Medioevo** → religione domina; nessuna novità · (Lez. 02)
+- **1500–1700** → rinascita scientifica · "Homme machine" ·
+  nevrosi (Cullen) · nevrastenia (Beard) · (Lez. 02)
+- **Pinel** → Bicêtre 1793 · **guaribilità**, **patoplastica**,
+  **parzialità della follia**, **trattamento morale** ·
+  (Lez. 02, ripreso in Lez. 07)
+- **Esquirol** → passionale curabile vs. organica
+  incurabile · idiozia vs. demenza · (Lez. 02)
+- **Positivismo XIX sec.** → Griesinger · Morel
+  (degenerazione, delirio paranoico) · Lombroso
+  (atavismo) · Krafft-Ebing · (Lez. 02)
+- **Kraepelin** → nosologia · endogene/esogene · psicosi
+  maniaco-depressiva vs. demenza precoce · (Lez. 02, base
+  per Lez. 06)
+- **Bleuler 1911** → schizofrenia · sintomi primari/
+  secondari · recupera la patoplastica · (Lez. 02)
+- **Charcot → Freud** → passaggio dall'ipnosi alla dinamica
+  inconscia · (Lez. 07)
+- **DSM-III in poi** → abbandono del termine "nevrosi",
+  frammentazione in diagnosi specifiche · (Lez. 07)
 
 ---
 
-## Macro-tema 5 — Emozioni, ansia e angoscia
+## Emozioni: filiera, paura, ansia, umore
 
-- **Emozione** → reazione affettiva acuta, breve, da evento stimolo (Galimberti, 1999) (Lez. 06)
-- **Umore** → disposizione affettiva di fondo, persistente (Delay, 1946) (Lez. 06)
-- **Struttura universale dell'emozione** (Lez. 04):
-  - Evento stimolo → valutazione protocognitiva → reazione soggettiva → risposta comportamentale → scopo
-- **Emozioni di base** (Lez. 06):
-  - Ekman & Friesen (1971) → 6: gioia · tristezza · paura · disgusto · rabbia · sorpresa
-  - Plutchik (2017) → 8 primarie + combinazioni; modello a fiore (intensificazione/attenuazione al centro/periferia del petalo)
-- **Paura** → emozione con oggetto specifico nel presente (Lez. 04)
-  - Risposte etologiche: **fuga** · **attacco** · **mimetismo (freezing)**
-  - Malfunzionamento: troppo arousal → freezing · durata eccessiva → esaurimento
-  - Schema contesto × minaccia (Pezzoli): familiare/non familiare × minaccia presente/assente
-- **Ansia** → paura + anticipazione, senza oggetto specifico, proiettata nel futuro (Lez. 04, 06)
-  - Amigdala (paura) vs. BNST (ansia) — zone cerebrali diverse
-  - Ansia normale: limitata, gestibile, proporzionata
-  - Ansia patologica: intensa, frequente, compromette funzionalità
-  - **Stato** → episodica, legata a situazione; **Tratto** → modalità stabile e costante (Sims & Snaith, 1988)
-- **Sorpresa** → evento inaspettato · domanda "che cos'è?" · se "è una minaccia" → parte la paura (Lez. 04)
-- **Angoscia** → stato psichico profondo; genera i meccanismi di difesa (Lez. 04)
-  - Tre fonti (Freud, *Il disagio della civiltà*, 1930): corpo · natura · **gli altri** (la più importante)
-  - Metafora dei porcospini (Schopenhauer): distanza giusta — né troppo fredda né troppo pungente
-- **Rimuginio ansioso vs. ruminazione depressiva** (Lez. 06):
-  - Rimuginio → orientato al futuro; alimenta l'ansia; caratteristica del DAG
-  - Ruminazione → orientata al passato; prolunga lo stato depressivo
+Lez. 04 e Lez. 06 condividono tutta la filiera emotiva.
 
----
-
-## Macro-tema 6 — Meccanismi di difesa
-
-- **Definizione** → automatici, inconsci; scopo: ridurre l'angoscia (non risolvere il problema) (Lez. 04)
-  - Diventano problematici quando: rigidi · inadeguati per l'età · sempre uguali
-  - 3 criteri (Anna Freud): **age adequateness** · **intensity** · **balance**
-- **Continuum primitivi ↔ maturi** (Lez. 04)
-  - Primitivi → alta distorsione della realtà, bassa complessità
-  - Maturi → bassa distorsione, alta complessità
-- **Regola operativa** → MDD primitivi in un adulto = alta angoscia del soggetto
-
-### Meccanismi primitivi
-
-- **Ritiro primitivo** → disattivazione del sensorio; dormire, sostanze, realtà parallele; dominanza → personalità schizoide
-- **Diniego** → non si percepisce qualcosa di angoscioso evidente (più radicale della rimozione)
-- **Proiezione** → sentimenti inaccettabili attribuiti all'altro
-- **Introiezione** → mettere dentro di sé qualcosa dell'altro; forma estrema: identificazione con l'aggressore
-- **Identificazione proiettiva** → proiezione + comportamento che induce l'altro a identificarsi con essa
-- **Scissione** → tutto-buono / tutto-cattivo; superamento = posizione depressiva (Klein)
-- **Idealizzazione / Svalutazione** → coppia inevitabile: quando crolla l'ideale, arriva la svalutazione
-- **Controllo onnipotente** → nasconde la fragilità; base: narcisismo primitivo + egocentrismo (Piaget)
-
-### Meccanismi secondari/maturi
-
-- **Rimozione** → spostamento inconscio nell'inconscio (dopo contatto iniziale); difesa principale nella nevrosi
-- **Dissociazione** → discontinuità dell'esperienza mnestica/sensoriale; tipica nei traumi
-- **Formazione reattiva** → affetto inaccettabile trasformato nel suo opposto esagerato
-- **Spostamento** → rabbia spostata su bersaglio meno pericoloso; presente nel DOC e nelle fobie
-- **Capovolgimento** → inversione passivo/attivo ("vorrei ricevere → do")
-- **Isolamento degli affetti** → parte emotiva messa da parte; si funziona senza sentire; presente nel DOC
-- **Intellettualizzazione / Razionalizzazione / Moralizzazione** → uso del pensiero per evitare il contatto emotivo
-- **Annullamento retroattivo** → comportamento che cancella simbolicamente pensieri/azioni precedenti; tipico del DOC
-- **Compartimentalizzazione** → due sistemi cognitivi incompatibili che non comunicano mai
-- **Umorismo** → mantiene contatto col problema; trasforma l'angoscia in ironia condivisibile (difesa matura)
-
-### Scala di maturità dei MDD (Perrotta 2020, adatt. Pezzoli)
-
-| Livello | Tipo | Esempi |
-|---------|------|--------|
-| 7° | Difese mature | Altruismo, umorismo, sublimazione, affiliazione |
-| 6° | Difese ossessive | Annullamento retroattivo, intellettualizzazione, isolamento affetti |
-| 5° | Difese nevrotiche | Rimozione, formazione reattiva, spostamento |
-| 4° | Difese narcisistiche | Idealizzazione, svalutazione, onnipotenza |
-| 3° | Difese di disconoscimento | Diniego, proiezione, denegazione |
-| 2° | Difese borderline | Scissione, identificazione proiettiva |
-| 1° | Difese di azione istintiva | Acting-out |
-| 0 | Rottura con la realtà | Negazione psicotica, distorsione psicotica, proiezione delirante |
-
-### Meccanismi di difesa e psicopatologia
-
-| Psicopatologia | Angoscia tipica | Meccanismi prevalenti |
-|---|---|---|
-| **Nevrosi** | Castrazione (limite, prestazione) | Secondari complessi |
-| **Psicosi** | Frammentazione (identità, unità del sé) | Molto primitivi |
-| **Borderline** | Abbandono | Primitivi situazionali |
+- **Emozione** → reattiva, acuta, con oggetto (Galimberti) ·
+  **Umore** → disposizione di fondo (Delay) · (Lez. 06)
+- **Emozioni di base** → Ekman & Friesen (6) · Plutchik
+  (8 + fiore: intensità, attenuazione, combinazioni) ·
+  (Lez. 06)
+- **Filiera della paura** → minaccia → valutazione
+  protocognitiva → paura → fuga / attacco / mimetismo ·
+  (Lez. 04)
+- **Paura vs. ansia** → oggetto presente (amigdala) vs.
+  futuro ipotetico (BNST) · ansia = paura + anticipazione
+  (Plutchik) · (Lez. 04, 06)
+- **Freezing** → intensità eccessiva supera soglia di
+  arousal · (Lez. 04)
+- **Ansia normale vs. patologica** (Biondi) · **ansia di
+  stato vs. di tratto** (Sims & Snaith) · (Lez. 04, 06)
+- **Rimuginio ansioso vs. ruminazione depressiva** → futuro
+  vs. passato · alimenta ansia vs. prolunga depressione ·
+  (Lez. 06)
+- **Sorpresa · Angoscia** → angoscia reale = paura;
+  angoscia nevrotica = ansia (Freud) · (Lez. 04)
+- **Fonti di angoscia (Freud 1930)** → corpo · natura ·
+  relazioni (porcospini di Schopenhauer) · (Lez. 04)
 
 ---
 
-## Macro-tema 7 — Semiologia: leggere il comportamento e lo stato mentale
+## Meccanismi di difesa e struttura della personalità
 
-- **Segni** → oggettivi (rilevati dal curante) · **Sintomi** → soggettivi (riferiti dal paziente) (Lez. 05)
-- **2 aree**: semiologia del comportamento · semiologia dello stato mentale attuale
+Ponte tra Lez. 04 (classificazione) e Lez. 07 (applicazione
+clinica alle nevrosi).
 
-### Comportamento
-
-- **Apparenza** → ipertimia (mania) · amimia (depressione/Parkinson) · mimica discordante (schizofrenia)
-- **Condotte istintuali** → cura sé, sonno (risvegli precoci = umore · insonnia iniziale = ansia), alimentazione
-- **Passaggi all'atto** → auto-aggressivi · etero-aggressivi · fuga dissociativa
-- **Funzioni psicomotorie** → agitazione · catatonia · tic · paracinesi · stereotipie
-
-### Stato mentale attuale
-
-- **Coscienza** → alterazioni quantitative (lucidità → coma) · qualitative (delirium, mania à potu, stato oniroide, stupore, fenomeni dissociativi)
-- **Orientamento** → 3 domini: tempo (alta labilità) · spazio · persona (bassa labilità, massima gravità se compromessa)
-- **Memoria** → sensoriale · breve termine · lavoro · lungo termine (implicita/esplicita episodica/semantica)
-  - Disturbi quantitativi: ipomnesia · amnesia anterograda · amnesia retrograda · ipermnesia
-  - Disturbi qualitativi: falsi ricordi · confabulazioni (Korsakoff) · déjà vu
-- **Attenzione** → selettiva · divisa · sostenuta (sensibile all'invecchiamento)
-- **Percezione** → sensazione (dato grezzo) + rielaborazione cerebrale → percezione
-  - Illusione → stimolo reale + interpretazione erronea (non patologica di per sé)
-  - Allucinazione → percezione senza stimolo, vissuta come reale
-  - Agnosie: prosopagnosia (volti) · anosognosia (proprio stato di malattia)
-
----
-
-## Macro-tema 8 — Le sindromi affettive
-
-### Depressioni
-
-- **Nucleo semiologico comune** (Lez. 06):
-  - Umore depresso · rallentamento psicomotorio · **anedonia** (assenza piacere) · apatia (assenza motivazione) · rallentamento psichico
-  - *Alfa privativo*: "a-" = quella cosa non c'è (a-nedonia, a-patia, a-bulia)
-- **Classificazione** (Lalli, 2002) (Lez. 06):
-  - **Primarie** → originate dal carattere depressivo (bassa autostima → dipendenza → rabbia repressa)
-    - Tipi: reattiva, nevrotica, maggiore, mascherata, esistenziale
-  - **Secondarie** → origine organica (malattie somatiche, farmaci, fase depressiva del bipolare)
-- **Tre gruppi clinici** (Lez. 06):
-  - **Psicogene** → causa comprensibile; paziente si sente vittima; reattivo all'ambiente
-  - **Endogene** → causa non identificabile; paziente si sente colpevole; non reattivo
-  - **Somatiche** → causa organica
-- **Disturbi DSM-5-TR** (Lez. 06):
-  - **Disturbo depressivo maggiore** → episodi distinti ≥ 2 settimane; non sospendere terapia all'eutimia
-  - **Disturbo depressivo persistente** → cronico ≥ 2 anni; no ritorno a eutimia
-  - **Depressione mascherata** → malessere espresso solo via sintomi somatici (≠ ipocondria = ansia per la salute)
-
-### Disturbi bipolari
-
-- **Pendolo timico** → oscillazione repentina tra depressione e mania; eutimia al centro (Lez. 06)
-- **Episodio maniacale** → euforia prolungata · insonnia senza stanchezza · logorrea · fuga di idee · deliri di grandezza · perdita contatto con la realtà
-  - ⚠️ Non trattare la fase depressiva con antidepressivi → rischio di scatenare la mania
-- **Tipi** (Lez. 06):
-  - **Bipolare I** → depressione ↔ mania
-  - **Bipolare II** → depressione ↔ ipomania (non più lieve del tipo I)
-  - **Ciclotimico** → fluttuazione continua ≥ 2 anni, senza raggiungere criteri pieni
-- **Terapia** → stabilizzatori dell'umore (litio, monitoraggio ematico) + psicoeducazione
+- **MDD** → risposta automatica, inconscia, dell'Io contro
+  l'angoscia (≠ coping) · (Lez. 04)
+- **3 criteri Anna Freud** → age adequateness · intensity ·
+  balance · (Lez. 04)
+- **Primitivi** → ritiro · diniego · proiezione · introiezione ·
+  identificazione proiettiva · scissione · idealizzazione ·
+  svalutazione · controllo onnipotente · (Lez. 04)
+- **Maturi / secondari** → rimozione · dissociazione ·
+  formazione reattiva · spostamento · capovolgimento ·
+  isolamento affetti · intellettualizzazione ·
+  razionalizzazione · moralizzazione ·
+  compartimentalizzazione · umorismo · (Lez. 04)
+- **Scala di Perrotta (adatt. Pezzoli)** → 7 livelli da
+  rottura con la realtà a difese mature · (Lez. 04)
+- **Angosce per area clinica** → nevrosi = castrazione ·
+  psicosi = frammentazione · borderline = abbandono ·
+  (Lez. 04, ripresa in Lez. 07 per la nevrosi)
+- **Struttura nevrotica (Bergeret)** → Super-Io dominante ·
+  conflitto edipico · difesa = rimozione · relazione
+  genitale · diagnosi solo da adulti · (Lez. 07)
+- **Linea di divisione (Abraham)** → sotto-stadio anale
+  evacuazione (psicotico) / ritenzione (nevrotico) · (Lez. 07)
+- **Difese nel DOC** → rimozione · formazione reattiva ·
+  spostamento · isolamento · annullamento retroattivo ·
+  tutte già viste in Lez. 04 · (Lez. 07)
 
 ---
 
-## Macro-tema 9 — Le sindromi ansiose e le nevrosi
+## Empatia e relazione di cura
 
-### Disturbi d'ansia (DSM-5-TR)
-
-- **DAG** → ansia su molti ambiti; rimuginio come elemento centrale (Lez. 06)
-- **Ansia sociale** → timore del giudizio; emozione centrale: vergogna (Lez. 06)
-- **Disturbo di panico** → attacchi ricorrenti inaspettati; picco in pochi minuti; ≥ 4 sintomi (Lez. 06)
-  - Accoglienza senza giudizio = strumento principale
-- **Agorafobia** → evitamento situazioni in cui la fuga è difficile (Lez. 06)
-- **Fobia specifica** → paura irrazionale di oggetto/situazione (Lez. 06, 07)
-  - Nel quadro della nevrosi isterica: isterica d'angoscia → ansia spostata su oggetto simbolico esterno
-- ⚠️ DOC e PTSD → non nei disturbi d'ansia; capitoli propri nel DSM-5-TR
-
-### Nevrosi
-
-- **Conflitto** → tra desiderio (Es) e regola (Super-Io), inconscio e non risolto → sintomo (Lez. 07)
-- **Sintomo egodistonico** → il paziente sa che è irrazionale, soffre, chiede aiuto (Lez. 07)
-  - ≠ **egosintonico** (disturbi di personalità): lo vive come parte di sé, difficile da trattare
-- **Struttura nevrotica** (Bergeret) → organizzazione profonda della personalità; diagnosi solo da adulti (Lez. 07)
-  - Istanza dominante: Super-Io · Conflitto: edipico · Angoscia: di castrazione · Difesa: rimozione
-
-### DOC — Disturbo Ossessivo-Compulsivo
-
-- **Luogo del sintomo** → il pensiero (Lez. 07)
-- **Ossessioni** → pensieri/impulsi non voluti, incontrollabili, incongruenti coi valori
-  - Categorie: contagio · responsabilità del danno · simmetria/ordine · sessuali · violenza · religione
-- **Compulsioni** → rituali per ridurre l'ansia; danno **sollievo** (≠ piacere); > 1 ora/giorno (DSM-5-TR)
-- **MDD nel DOC** → rimozione · formazione reattiva · spostamento · isolamento · annullamento retroattivo
-
-### Nevrosi isterica
-
-- **Luogo del sintomo** → il corpo (Lez. 07)
-- **Conversione** → conflitto psichico irrisolto trasferito sul piano somatico
-- **Isterica di conversione** → paralisi, anestesie, disturbi motori
-- **Isterica d'angoscia** → fobia; meccanismo: spostamento
-- Nel DSM-5-TR: disturbi dissociativi + disturbi somatici + disturbi d'ansia (fobia specifica)
+- **Einfühlung** → "sentire dentro" · Lipps (1905) ·
+  (Lez. 03)
+- **Critica del "mettersi nei panni"** → stare accanto,
+  non al posto dell'altro (Ricoeur, Pezzoli) · (Lez. 03)
+- **Simulazione incarnata** → Gallese · neuroni specchio ·
+  automatica, pre-riflessiva · (Lez. 03)
+- **Modello Feshbach** → 3 componenti: assunzione di
+  prospettiva · decodifica emotiva · risonanza · TOM
+  (Wellman: DD/DB/KA/FB/HE) · precondizione sé/altro · (Lez. 03)
+- **Modello Hoffman** → empatie al plurale · evolutive ·
+  motivazionali · 5 stadi dal distress globale all'empatia
+  oltre la situazione · (Lez. 03)
+- **Contagio emotivo** → imitazione motoria (Ekman 1992) ·
+  reazione circolare primaria · (Lez. 03)
+- **Empatia / simpatia / compassione** → feeling with vs.
+  feeling for (Singer & Klimecki) · (Lez. 03)
+- **6 bias empatici (Pezzoli)** → similarità · giudizio
+  morale · inganno/invidia · insensibilità numerica ·
+  non rende più buoni · faticosa · → burnout · (Lez. 03)
+- **Empatia egocentrica** → aiutare con ciò che consola
+  sé: la "lezione 3" del mito di Medusa riprende il tema ·
+  (Lez. 03, 04)
+- **To care** come cura sempre possibile si poggia
+  sull'empatia matura · (Lez. 01, 03)
 
 ---
 
-## Macro-tema 10 — La posizione del soggetto e il ruolo dell'operatore
+## Semiologia: come si guarda il paziente
 
-- **Agentività** del soggetto verso la propria malattia (Lez. 01)
-  - Agentivo + non identificato → guarigione (espellere la condizione)
-  - Agentivo + identificato → cura (stare meglio nella condizione)
-  - Passivo → delega
-- **To cure ≠ to care** (Lez. 01)
-  - *Cure* → terapia: non sempre possibile
-  - *Care* → cura del benessere: sempre possibile
-  - *"Non tutto si può guarire, ma tutto può essere curato"*
-- **Ambiguità della clinica** (Cargnello, Lez. 02):
-  - "Essere con qualcuno" vs. "avere qualcosa di fronte"
-  - Tensione irriducibile che il lavoro sociale abita ogni giorno
-- **Mito di Perseo e Medusa** (Lez. 04) — metafora del ruolo dell'operatore:
-  - Medusa = paura che pietrifica; non guardarla direttamente
-  - Scudo di Atena = mediazione, strumento dell'operatore (sapienza come mezzo)
-  - Perseo = chi si è attrezzato e ha affrontato le proprie paure prima di affrontare quelle altrui
-  - Punto di vista di Medusa (Ovidio): il "mostro" spesso è chi ha subito — non chi aggredisce
-  - Le paure elaborate diventano capitale per sé e per gli altri (non empatia egocentrica)
-- **Catarsi** (tragedia greca, Lez. 01) → far emergere ed elaborare emozioni difficili attraverso la sofferenza altrui
-  - Eschilo: la follia viene dagli dèi · Sofocle: il tragico è la vita · Euripide: il tragico nasce dalle relazioni
-- **Psicofarmacologia** — avvertenze per l'operatore (Lez. 05):
-  - Non dedurre la diagnosi dalla terapia farmacologica
-  - Il farmaco è una parte della cura, non la soluzione
+Lez. 05 è la cassetta degli attrezzi clinici.
+
+- **Segni vs. sintomi** → oggettivi / soggettivi · (Lez. 05)
+- **Semiologia del comportamento** → apparenza (ipertimia,
+  amimia, mimica discordante) · discorso · condotte
+  istintuali · passaggi all'atto · funzioni psicomotorie
+  (catatonia, tic, stereotipie) · (Lez. 05)
+- **Semiologia dello stato mentale** →
+  - **Coscienza** → quantitative (lucidità → coma) /
+    qualitative (delirium, oniroide, crepuscolare, mania à
+    potu) · (Lez. 05)
+  - **Orientamento** → tempo, spazio, persona · persona
+    alterata = massima gravità · (Lez. 05)
+  - **Memoria** → sensoriale, breve, lavoro, lungo termine ·
+    disturbi quantitativi (amnesie, ipo/ipermnesia) e
+    qualitativi (confabulazioni, déjà vu) · (Lez. 05)
+  - **Attenzione** → selettiva, divisa, sostenuta · (Lez. 05)
+  - **Percezione** → sensazione vs. percezione · illusione
+    vs. allucinazione · agnosie, prosopagnosia, anosognosia ·
+    (Lez. 05)
+- **Funzioni cognitive** → memoria, attenzione, esecutive,
+  linguaggio, prassie, gnosie, emozioni · (Lez. 05)
+- **Neurotrasmettitori** → dopamina, serotonina,
+  noradrenalina, GABA, glutammato, acetilcolina · (Lez. 05)
 
 ---
 
-### Autori e riferimenti principali
+## Quadri clinici maggiori
+
+### Sindromi affettive (Lez. 06)
+
+- **Nucleo depressivo comune (Klein)** → umore depresso ·
+  rallentamento psicomotorio e psichico · anedonia · apatia ·
+  alfa privativo
+- **Classificazione Lalli (2002)** → primarie (carattere
+  depressivo) vs. secondarie (organiche)
+- **Tre gruppi clinici** → psicogene (vittima, reattivo) ·
+  endogene (colpevole, non reattivo) · somatiche
+- **DSM-5-TR** → disturbo depressivo maggiore (≥ 2 sett.) ·
+  persistente (≥ 2 anni) · depressione mascherata (≠
+  ipocondria)
+- **Disturbi bipolari** → pendolo timico · bipolare I /
+  II / ciclotimico · episodio maniacale (insonnia senza
+  stanchezza, fuga di idee, perdita contatto con realtà) ·
+  ⚠️ no antidepressivi in solitaria
+- **Terapia** → stabilizzatori · litio (monitoraggio
+  ematico) · psicoeducazione
+
+### Sindromi ansiose (Lez. 06)
+
+- **Sintomi** → cognitivi, affettivi, fisiologici,
+  comportamentali
+- **Disturbi d'ansia DSM-5-TR** → DAG (rimuginio) · ansia
+  sociale (vergogna) · panico · agorafobia · fobia specifica ·
+  ansia da separazione · mutismo selettivo
+- **Attacco di panico** → picco in pochi minuti · ≥ 4 su
+  13 sintomi · accoglienza senza giudizio
+- **DOC e PTSD** → non più nei disturbi d'ansia nel DSM-5-TR
+
+### Nevrosi (Lez. 07)
+
+- **Definizione** → disturbo psichico senza causa organica ·
+  conflitto desiderio/regola non risolto → sintomo · non
+  è malattia
+- **Sintomo egodistonico** (nevrosi) vs. **egosintonico**
+  (disturbi personalità) → consapevolezza, sofferenza,
+  richiesta di aiuto
+- **Fenomenologia** → bassa autostima, colpa, vergogna ·
+  ansia dominante · sintomi somatici · esame di realtà
+  mantenuto (≠ psicosi)
+- **DOC** → luogo del sintomo = pensiero · ossessioni
+  (non desiderate, incongruenti, si resiste) · compulsioni
+  (sollievo ≠ piacere) · evitamento
+- **Isteria** → luogo del sintomo = corpo · hystéra = utero ·
+  Ippocrate → Charcot (4 fasi) → Freud · **conversione** del
+  conflitto sul piano somatico · isterica di conversione vs.
+  d'angoscia (fobia, spostamento)
+- **Nel DSM-5-TR** → le nevrosi classiche si sono
+  frammentate in disturbi d'ansia, DOC, traumatici,
+  somatici, dissociativi
+
+---
+
+## Psicofarmacologia (Lez. 05)
+
+- **Emivita · farmacodinamica · farmacocinetica** → base
+- **Antipsicotici** → tipici (1952) vs. atipici (anni '90) ·
+  sintomi positivi
+- **Antidepressivi** → bifasici · rischio suicidale prime
+  settimane
+- **Ansiolitici** → benzodiazepine: effetto immediato,
+  dipendenza
+- **Stabilizzatori** → litio, monitoraggio ematico
+- ⚠️ Non dedurre la diagnosi dalla terapia · ⚠️ terapia
+  sempre integrata
+
+---
+
+## Dimensione identitaria e incontro clinico
+
+Filo che attraversa tutto il modulo.
+
+- **4 dimensioni trasversali** → spazio · tempo · identità ·
+  incontro · (Lez. 01)
+- **Crisi identitaria della follia** → chi sono? dove sono?
+  in che tempo vivo? · vocabolario spaziale popolare · (Lez. 02)
+- **Cargnello** → ambiguità irriducibile della psichiatria:
+  "essere con qualcuno" vs. "avere qualcosa di fronte" ·
+  clinica = incontro · (Lez. 02)
+- **Operatore sociale** → trait d'union tra discipline
+  specialistiche · (Lez. 01)
+- **Mito di Medusa (Ovidio)** → i "mostri" sono spesso
+  vittime trasformate da ciò che hanno subito · (Lez. 04)
+
+---
+
+## Autori e riferimenti principali
 
 | Chi | Contributo | Lezione |
-|-----|-----------|---------|
+|-----|------------|---------|
 | Boorse | 7 condizioni della salute (1977) | 01 |
 | Ryff | 6 dimensioni del benessere | 01 |
+| Callieri | Definizione di clinica (1999) | 01 |
 | Guidorizzi | Follia nella tragedia greca (2010) | 01 |
 | Ippocrate | Teoria degli umori; emancipazione dalla religione | 02 |
-| Pinel | Trattamento morale; parzialità della follia (1793) | 02 |
-| Esquirol | Follia passionale (curabile) vs. organica (incurabile) | 02 |
-| Griesinger | "Follia = malattia del cervello"; Somatiker/Psychiker | 02 |
-| Morel | Teoria della degenerazione; delirio paranoico | 02 |
-| Kraepelin | Nosologia; esogene/endogene; demenza precoce | 02 |
+| Empedocle | Equilibrio tra poli contrari | 02 |
+| Pinel | Trattamento morale; Bicêtre 1793; guaribilità, patoplastica, parzialità | 02, 07 |
+| Esquirol | Follia passionale vs. organica; idiozia vs. demenza | 02 |
+| Cullen | Conia "nevrosi" (1777) | 02, 07 |
+| Beard | Nevrastenia | 02 |
+| Griesinger | Follia = malattia del cervello; Somatiker/Psychiker | 02 |
+| Morel | Degenerazione; demenza precoce | 02 |
+| Lombroso | Antropologia criminale; atavismo | 02 |
+| Kraepelin | Nosologia endogene/esogene; psicosi MD; demenza precoce | 02 |
 | Bleuler | Schizofrenia (1911); sintomi primari/secondari | 02 |
 | Jaspers | Comprensibilità vs. incomprensibilità | 02 |
-| Cargnello | Ambiguità della psichiatria | 02 |
-| Theodor Lipps | Einfühlung; imitazione interiore (1905) | 03 |
-| Norma Feshbach | Modello multidimensionale empatia (1987) | 03 |
-| Martin Hoffman | Modello evolutivo; empatie al plurale (2000) | 03 |
-| Vittorio Gallese | Simulazione incarnata; neuroni specchio (2003) | 03 |
-| Serge Tisseron | Empatia intersoggettiva; empatia verso sé (2013) | 03 |
-| Lorenzo Pezzoli | 6 bias empatici; schema contesto × minaccia; filiera emotiva | 03, 04 |
-| Sigmund Freud | Tre fonti angoscia · *Il disagio della civiltà* (1930); Es/Super-Io | 04, 07 |
-| Anna Freud | Codifica sistematica dei meccanismi di difesa (1936) | 04 |
-| Melanie Klein | Scissione; posizione schizoide e depressiva; nucleo semiologico depressioni | 04, 06 |
-| Schopenhauer | Metafora dei porcospini (*Parerga e paralipomena*, 1851) | 04 |
-| Plutchik | Modello delle emozioni (ansia = paura + anticipazione); fiore emozionale | 04, 06 |
-| Grillon | Sistemi neurali: amigdala (paura) vs. BNST (ansia) | 04 |
-| Vaillant | MDD come processi regolatori involontari (1994) | 04 |
-| Perrotta | Scala di maturità dei MDD (2020) | 04 |
-| Ekman & Friesen | 6 emozioni di base universali (1971) | 06 |
-| Galimberti | Definizione di emozione (1999) | 06 |
-| Delay | Definizione di umore (1946) | 06 |
+| Cargnello | Ambiguità della psichiatria; clinica come incontro | 02 |
+| Charcot | Isteria; ipnosi; Salpêtrière | 07 |
+| Freud | Difese (1894); disagio della civiltà (1930); dinamica inconscia; conversione | 04, 07 |
+| Anna Freud | L'Io e i meccanismi di difesa (1936); 3 criteri | 04 |
+| Klein | Posizione schizoide/depressiva; nucleo semiologico depressioni | 04, 06 |
+| Abraham | Linea di divisione nevrotico/psicotico | 07 |
+| Bergeret | Struttura nevrotica/psicotica; scompenso | 07 |
+| McWilliams | "Nevrotico" = alto livello di funzionamento | 07 |
+| Lipps | Einfühlung (1905) | 03 |
+| Feshbach | Modello multidimensionale dell'empatia | 03 |
+| Hoffman | Empatie al plurale; modello evolutivo | 03 |
+| Gallese | Simulazione incarnata; neuroni specchio | 03 |
+| Tisseron | Empatia intersoggettiva; verso sé stessi | 03 |
+| Bloom | Contro l'empatia; bias | 03 |
+| Singer & Klimecki | Compassione = feeling for | 03 |
+| Pezzoli | 6 bias empatici; schema contesto × minaccia | 03, 04 |
+| Ekman & Friesen | 6 emozioni di base (1971) | 04, 06 |
+| Plutchik | Modello multidimensionale; fiore delle emozioni | 04, 06 |
+| Galimberti / Delay | Definizioni di emozione / umore | 06 |
 | Lalli | Depressioni primarie vs. secondarie (2002) | 06 |
-| Sims & Snaith | Ansia di stato vs. ansia di tratto (1988) | 06 |
-| Jean-Martin Charcot | Isteria; ipnosi; Salpêtrière (1825–1893) | 07 |
-| Karl Abraham | Linea di divisione nevrotico/psicotico nello sviluppo | 07 |
-| Jean Bergeret | Struttura nevrotica/psicotica; scompenso (1923–2016) | 07 |
+| Sims & Snaith | Ansia di stato vs. di tratto | 06 |
+| Biondi | Ansia normale vs. patologica | 04 |
+| Grillon | Amigdala (paura) vs. BNST (ansia) | 04 |
+| Perrotta | Scala potenziale disadattivo dei MDD (2020) | 04 |
+| Schopenhauer | Porcospini → distanza relazionale | 04 |
+| Ovidio | Metamorfosi; mito di Medusa | 04 |
 | APA | DSM-5-TR (2023) | 06, 07 |
+| Pewzner / Sims / Baddeley / Faravelli / Stahl | Semiologia, memoria, psicofarmaci | 05 |
 
 ---
 
-### Parole chiave della materia
+## Parole chiave della materia
 
-`salute` · `benessere` · `normalità` · `disease` · `illness` · `sickness` · `agentività` · `to cure` · `to care` · `Gehirnpsychiatrie` · `Geistespsychiatrie` · `Somatiker` · `Psychiker` · `teoria degli umori` · `trattamento morale` · `parzialità della follia` · `patoplastica` · `guaribilità` · `degenerazione` · `delirio paranoico` · `demenza precoce` · `schizofrenia` · `psicosi maniaco-depressiva` · `alienazione` · `comprensibilità` · `Pellagra` · `Einfühlung` · `empatia cognitiva` · `empatia affettiva` · `simulazione incarnata` · `neuroni specchio` · `Theory of Mind` · `bias empatico` · `compassione` · `paura` · `ansia` · `angoscia` · `sorpresa` · `emozione` · `umore` · `valutazione protocognitiva` · `arousal` · `freezing` · `BNST` · `amigdala` · `meccanismi di difesa` · `age adequateness` · `diniego` · `proiezione` · `identificazione proiettiva` · `scissione` · `idealizzazione` · `svalutazione` · `rimozione` · `dissociazione` · `isolamento degli affetti` · `annullamento retroattivo` · `formazione reattiva` · `spostamento` · `umorismo` · `acting-out` · `semiologia` · `segni` · `sintomi` · `catatonia` · `allucinazione` · `illusione` · `anosognosia` · `amnesia anterograda` · `amnesia retrograda` · `confabulazione` · `eutimia` · `anedonia` · `apatia` · `alfa privativo` · `pendolo timico` · `depressione mascherata` · `bipolare I` · `bipolare II` · `ciclotimico` · `rimuginio` · `ruminazione` · `DAG` · `disturbo di panico` · `attacco di panico` · `litio` · `nevrosi` · `egodistonico` · `egosintonico` · `struttura nevrotica` · `scompenso` · `esame di realtà` · `ossessioni` · `compulsioni` · `DOC` · `conversione` · `angoscia di castrazione` · `angoscia di frammentazione` · `angoscia di abbandono` · `catarsi` · `Medusa` · `Perseo`
+`salute` · `benessere` · `normalità` · `disease` ·
+`illness` · `sickness` · `to cure` · `to care` ·
+`agentività` · `clinica` · `Gehirnpsychiatrie` ·
+`Geistespsychiatrie` · `Somatiker` · `Psychiker` ·
+`teoria degli umori` · `trattamento morale` ·
+`patoplastica` · `parzialità della follia` ·
+`degenerazione` · `nosologia` · `schizofrenia` ·
+`psicosi maniaco-depressiva` · `alienazione` ·
+`comprensibilità` · `pellagra` · `Einfühlung` ·
+`empatia cognitiva` · `empatia affettiva` ·
+`simulazione incarnata` · `neuroni specchio` ·
+`Theory of Mind` · `decentramento` · `compassione` ·
+`bias empatico` · `sovrattivazione empatica` ·
+`paura` · `ansia` · `angoscia` · `freezing` · `arousal` ·
+`amigdala` · `BNST` · `filiera emotiva` ·
+`meccanismi di difesa` · `ritiro primitivo` · `diniego` ·
+`proiezione` · `scissione` · `idealizzazione` ·
+`rimozione` · `dissociazione` · `formazione reattiva` ·
+`spostamento` · `isolamento affetti` ·
+`intellettualizzazione` · `umorismo` ·
+`angoscia di castrazione` · `angoscia di frammentazione` ·
+`angoscia di abbandono` · `semiologia` · `segni` ·
+`sintomi` · `catatonia` · `coscienza` · `orientamento` ·
+`amnesia` · `confabulazione` · `illusione` ·
+`allucinazione` · `agnosia` · `anosognosia` ·
+`farmacodinamica` · `farmacocinetica` · `antipsicotici` ·
+`antidepressivi` · `ansiolitici` · `stabilizzatori` ·
+`litio` · `emozione` · `umore` · `eutimia` · `anedonia` ·
+`apatia` · `alfa privativo` · `pendolo timico` ·
+`depressione mascherata` · `bipolare I` · `bipolare II` ·
+`ciclotimico` · `rimuginio` · `ruminazione` · `DAG` ·
+`attacco di panico` · `nevrosi` · `egodistonico` ·
+`egosintonico` · `struttura nevrotica` · `scompenso` ·
+`esame di realtà` · `ossessioni` · `compulsioni` ·
+`sollievo vs. piacere` · `conversione` · `isteria` ·
+`DOC` · `conflitto edipico`
 
 ---
 
-### Filo conduttore
+## Filo conduttore
 
-Il modulo costruisce una mappa della sofferenza psichica su più livelli che si intrecciano.
-Il primo è concettuale: cos'è la salute, cos'è la normalità, come si vive la malattia (Lez. 01).
-Il secondo è storico: la psichiatria non ha una risposta unica — oscilla da sempre tra chi vede nel cervello
-la causa di tutto e chi guarda alla vita, ai traumi, alle relazioni (Lez. 02).
-Il terzo è relazionale: capire come funziona l'empatia — strumento fondamentale dell'operatore —
-con i suoi limiti, le sue trappole e i suoi bias (Lez. 03).
-Il quarto è emotivo e difensivo: sotto ogni disagio psichico c'è un'emozione non elaborata, e
-sotto ogni comportamento c'è quasi sempre un meccanismo di difesa che serve a tenere a bada l'angoscia (Lez. 04).
-Il quinto è clinico: leggere il comportamento e lo stato mentale per orientarsi nel disagio (Lez. 05).
-Il sesto e il settimo scendono nelle diagnosi: le sindromi affettive e ansiose prima, le strutture nevrotiche poi.
-Il filo che unisce tutto è il ruolo dell'operatore sociale: incontrare la persona nella sua parte sana,
-capire cosa sta difendendo e perché, prendersi cura anche quando non si può guarire.
-Come Perseo con Medusa — prima ci si attrezza, poi si affronta la paura di riflesso, e le paure
-elaborate diventano risorse per aiutare gli altri.
+Si parte chiedendo cosa sia la salute e si scopre subito che
+non c'è una risposta unica: salute, malattia, normalità e
+benessere sono costrutti che non coincidono mai del tutto
+(Lez. 01). La storia della follia mostra che la psichiatria
+ha sempre oscillato tra due paradigmi — organico e
+passionale — e che ogni epoca ha riscritto il confine tra
+ciò che è curabile e ciò che non lo è (Lez. 02). Per stare
+davvero accanto a chi soffre servono strumenti: l'empatia,
+nelle sue diverse forme e con i suoi bias (Lez. 03); la
+capacità di leggere le emozioni e le difese che il soggetto
+mette in campo contro l'angoscia (Lez. 04); una semiologia
+precisa per osservare comportamento, coscienza, memoria,
+percezione (Lez. 05). Con questi strumenti si arriva ai
+grandi quadri clinici — sindromi affettive, ansiose e
+nevrosi (Lez. 06–07) — non come etichette da applicare ma
+come modi concreti in cui si esprime il conflitto tra
+desiderio, regola e realtà. Il filo rosso, ribadito da
+Cargnello, resta uno solo: la clinica è l'incontro con
+qualcuno, mai la gestione di qualcosa.
