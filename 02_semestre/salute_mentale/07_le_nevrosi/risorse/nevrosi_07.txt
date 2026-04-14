@@ -1,0 +1,850 @@
+Nevrosi | Numero 7
+
+01.04.2026
+
+Responsabile del modulo
+
+Lorenzo Pezzoli
+Psicologo e psicoterapeuta FSP
+
+Cinzia Campello
+Psicologa FSP
+
+Elisa Milani
+Psicologa e psicoterapeuta FSP
+
+Natalia Perucchi
+
+Campopiano
+Psicologa e psicoterapeuta FSP
+
+Paola Blumer
+Psicologa e psicoterapeuta FSP
+
+Alessia Ceroni
+Docente assistente
+
+Regista per la messa in scena
+Fabrizio Rosso
+
+SALUTE MENTALE
+
+“Finché la nevrosi presenta vantaggi, l'Io è senz'altro d'accordo con essa, ma essa non presenta soltanto vantaggi. È
+solito diviene ben presto evidente che l'Io ha fatto un cattivo affare a mettersi con la nevrosi. Ha comperato a troppo
+caro prezzo un alleviamento del conflitto, e le sofferenze legate ai sintomi sono forse un sostituto che equivale a
+tormenti del conflitto, ma probabilmente con un sovrappiù di dispiacere. L'Io vorrebbe liberarsi da questo dispiacere
+dei sintomi, ma non rinunciare al tornaconto della malattia, ed è appunto questo che non gli riesce.”
+
+Freud, S. (1992). Introduzione alla psicoanalisi. Universale Bollati Boringhieri, pag. 346
+
+PER INIZIARE
+
+Cara studentessa, caro studente,
+
+la lezione sulle nevrosi ci porterà in un viaggio tra passato e presente, scopriremo come le
+nevrosi sono state un punto di riferimento per il pensiero psicoanalitico e questo lo faremo
+avvicinandoci ad alcuni elementi storici. Verremo traghettati verso un presente, nel quale le
+nevrosi non compaiono più nelle classificazioni, nei manuali, ma ciononostante sono ancora
+presenti nella nostra societa, in questi ultimi decenni si è deciso di approcciarle in un modo
+diverso, potremmo dire un po'scorporandole in una serie di disturbi specifici, come il disturbo
+ossessivo compulsivo che andremo a vedere. Cercheremo però di cogliere il loro nucleo, un
+nucleo che non ci è così lontano, un nucleo che in qualche modo si può comprendere, perché
+come ci viene ricordato, trattasi di “emozioni normali, ma eccessive” (Faravelli, 2022, p.184).
+
+Ma non solo, la comprensione di un funzionamento nevrotico ci permetterà anche di avvicinarci
+ai prossimi mondi, quelli dei disturbi di personalità e quelli delle psicosi, mondi ben lontani e in
+contrapposizione con quello delle nevrosi, Un legame invece importante è presente con quelle
+che abbiamo visto essere le sindromi ansiose, infatti quello che domina il mondo nevrotico è
+
+soprattutto l'ansia.
+
+Dedicheremo anche un momento per riprendere alcuni concetti gia trattati in altre lezioni, per
+applicarli alle nevrosi, per cui vedremo quali sono i meccanismi di difesa utilizzati e come
+
+applicare quanto appreso nella lezione sulla semiologia.
+
+Natalia Perucchi
+
+---
+
+INTRODUZIONE
+
+Il termine nevrosi ha caratterizzato la storia della psicoanalisi, tanto che, si dice che la teoria
+delle nevrosi coincida proprio con la psicoanalisi stessa. Ad oggi però, il termine nevrosi non
+compare più nella nosografia psichiatrica contemporanea, sembra confinato a una terminologia
+antica, di un tempo lontano. Nel Manuale Diagnostico e Statistico dei disturbi mentali (DSM-S-
+TR) il termine nevrosi risulta assente dalle intestazioni dei capitoli, dal testo e persino dagli
+indici. Questo implica allora che le nevrosi siano scomparse? È un disturbo che non ci riguarda
+più? A queste domande non possiamo che rispondere in modo negativo, in quanto il termine
+nevrosi ha una storia molto importante ed è legato al mondo psicoanalitico. Il termine nevrosi
+possiede appunto chiare connotazioni psicodinamiche con l'implicita presenza di un conflitto
+inconscio, la psichiatria statunitense ha reagito con un progressivo smantellamento di una
+terminologia troppo ancorata ad una corrente di pensiero. Al giorno d'oggi, in psichiatria, come
+nella società in cui viviamo, siamo confrontati con il fatto che quanto appare in superficie conta
+di più di ciò che invece agisce in profondità, privilegiando quanto di manifesto rispetto a quanto
+di latente. Nella terza edizione del DSM l’espressione “nevrosi” è stata abbandonata. Al suo
+posto si parla di disturbi d'ansia, disturbo di panico, disturbi ossessivi compulsivi, disturbo da
+stress post-traumatico, disturbi somatoformi, ecc., si sono sviluppate all'interno dei manuali
+diagnostici una serie di classificazioni per ogni disturbo specifico. Questa modalità, che in
+qualche modo porta a una frammentazione e a una nuova classificazione, fa emergere come
+conseguenza il termine “comorbilità”, con il quale si è indicata la possibilità di individuare nello
+stesso soggetto la presenza, contemporanea o in successione, di differenti patologie: la
+possibilita cioè di formulare diagnosi multiple. Questo aspetto, indubbiamente oggetto di
+grandi discussioni, ci porta a riflettere intorno alla coesistenza di più problematiche
+psicopatologiche nello stesso soggetto solo come alla coesistenza di più disturbi; senza pensare
+invece a come questi disturbi siano tra loro collegati e interdipendenti, a come siano parte della
+stessa storia di vita, senza chiedersi quale funzione svolgano nell'economia interiore e nella vita
+della persona stessa. (Rossi Monti in Pewzner, 2002)
+
+In alcuni testi, il termine nevrosi viene ancora utilizzato in contrapposizione al termine psicosi,
+di cui ha un significato opposto, nel senso che la psicosi è presente in quei disturbi dove il
+giudizio di realtà è significativamente disturbato, laddove si parla di nevrosi invece nella
+maggioranza dei casi non interviene questa compromissione, questo aspetto lo
+approfondiremo nel corso della lezione, quando faremo riferimento al termine nevrotico come
+struttura che rappresenta l'organizzazione più profonda dell'individuo, a partire dalla quale si
+organizzano sia le sistemazioni funzionali dette “normali”, sia le vicende patologiche” (Bergeret,
+1996, p.3).
+
+Nel corso della storia, diverse sono state le classificazioni che hanno riguardato il termine
+‘nevrosi’, quello che è stato definito, nel passato, come il cuore delle nevrosi sono state la
+nevrosi ossessiva e la nevrosi isterica, Per quanto riguarda la nevrosi ossessiva, ad oggi nei
+diversi manuali si parla di disturbo ossessivo compulsivo (DOC), una lettura a parte va fatta per
+quanto riguarda la nevrosi isterica, che non solamente ha appunto visto l'abbandono del
+termine nevrosi, ma anche quello di isteria, in quanto non sembrerebbe essere più attuale ai
+nostri tempi. Sims (1999) ci aiuta in questa riflessione definendo la nevrosi come camaleontica,
+proprio nel modo di presentarsi, perché assorbirebbe le caratteristiche della cultura e della
+società in cui si verifica, infatti, ad oggi, difficilmente abbiamo la possibilità di vedere quelle che
+sono state le manifestazioni eclatanti dell’isteria che invece ai tempi di Charcot presso
+
+l'Ospedale della Salpétrière sembravano essere comuni.
+
+---
+
+Con nevrosi si intende un
+disturbo psichico senza causa
+organica. La psicoanalisi
+interpreta i sintomi nevrotici
+come l'espressione simbolica
+di un conflitto fra desiderio e
+regola o bisogno e possibilità
+
+Le nevrosi
+
+Con nevrosi si intende un disturbo psichico senza causa organica. La psicoanalisi interpreta i
+sintomi nevrotici come l’espressione simbolica di un conflitto fra desiderio e regola o bisogno e
+possibilità, un conflitto che ha le sue radici nella storia biografica, culturale, sociale, genetica
+della persona. Più nello specifico possiamo affermare che la persona vive quotidianamente uno
+sfibrante stato d'ansia legato ad una situazione di conflitto largamente inconscio, fra desideri e
+difese contro di essi. Attualmente pare corretto affermare che la nevrosi non sia una malattia
+bensì uno scorretto modo di affrontare e risolvere la dinamica conflittuale interiore che fa parte
+del quotidiano vivere.
+
+Il termine nevrosi fu introdotto verso la fine del 1700 da un medico scozzese di nome William
+Cullen, che lo utilizzò per poter classificare tutte quelle malattie che non avevano origine
+somatica, ovvero che erano “senza infiammazione della struttura”, ma che si manifestavano in
+sedi organiche precise, come la nevrosi digestiva, quella cardiaca o quella uterina nei casi che
+vedremo chiamati di isteria. Per queste malattie non si riusciva a stabilire una causa organica
+precisa, infatti, gli organi menzionati non ne erano colpiti e si presentavano con “mancanza di
+febbre e di alterazioni organiche”.
+
+Possiamo ricordare tre fondamentali tappe di carattere storico-scientifico che hanno
+contribuito allo sviluppo del concetto di nevrosi.
+
+La prima tappa vede come protagonista Philippe Pinel, psichiatra francese (1745-1826), il quale
+aveva messo in evidenza in queste malattie quella che era l'assenza di un possibile substrato
+organico e ne aveva sancito la loro guaribilità attraverso quello che lui aveva definito il
+“trattamento morale”, ricordiamo che si trattava di un approccio terapeutico che si concentrava
+sull'uso di cure e metodi non invasivi, in alternativa alle pratiche inumane spesso utilizzate nelle
+istituzioni psichiatriche dell’epoca e vedevano l’importanza di trattare i pazienti con dignità e
+rispetto in un ambiente sicuro e umano. La seconda tappa ha come protagonista Jean-Martin
+Charcot, neurologo francese (1825-1893), noto per i suoi studi sull'isteria all'ospedale della
+Salpétrière a Parigi. Egli aveva stabilito la natura solamente psicologica delle nevrosi. La terza
+ed ultima tappa vede come protagonista Sigmund Freud, neurologo austriaco e fondatore della
+psicoanalisi (1856-1939) che aveva illustrato gli aspetti dinamici delle nevrosi, considerandole
+come il risultato di conflitti inconsci tra desideri repressi e le difese che vengono attivate per
+
+tenerli nascosti.
+
+Nel corso della storia, come abbiamo visto, il concetto di nevrosi si è sviluppato, diverse sono
+state le classificazioni, eccone alcune: nevrosi isterica, nevrosi ossessiva, nevrosi d'angoscia,
+nevrosi di conversione, nevrosi attuale.
+
+Nel linguaggio psicoanalitico contemporaneo, la McWilliams (1999) ci porta a vedere come:
+
+“il termine “nevrotico” viene oggi riservato a persone talmente sane sul piano emotivo da
+essere considerati clienti rari e insolitamente gratificanti. Al tempo di Freud invece il termine
+designava prevalentemente i pazienti affetti da disturbi non organici, non schizofrenici, non
+psicopatici, né maniaco-depressivi, cioè un'ampia gamma di persone con disturbi emotivi non
+psicotici. Molte persone a cui Freud attribuiva una nevrosi avevano in realtà organizzazioni di
+carattere borderline e alcune attraversavano periodi di decompensazione psicotica (l'isteria
+comprendeva anche esperienze allucinatorie). Quanto più si impara sulla profondità di certi
+problemi e sulla loro duratura iscrizione nella matrice caratteriale di una persona, tanto più
+riserviamo il termine “nevrotico” a un livello molto alto di funzionamento, nonostante le
+sofferenze emotive”, (Mc Williams, 1999, pag. 73). La fenomenologia del disturbo nevrotico è
+particolarmente comprensibile malgrado le caratteristiche di inappropriatezza e contro-
+produttività. Noi tutti possiamo immaginare che in circostanze particolari, potremmo provare
+gli stessi sentimenti, o agire allo stesso modo. Fra gli esseri umani essa genera quasi
+
+spontaneamente uno stato di empatia.
+
+---
+
+Sintomo egodistonico
+
+In situazioni esistenziali
+eccezionali una persona può
+manifestare una
+sintomatologia nevrotica,
+anche se ciò non significa che
+siamo in presenza di una
+modalità di comportamento
+che denota una patologia.
+
+Sims (2009) ci ricorda di come i disturbi nevrotici siano la sintomatologia psichiatrica più
+comune per i medici di base o per tutti gli specialisti ospedalieri che non siano psichiatri. Infatti,
+la nevrosi può essere vista come un modo di vivere sproporzionato rispetto alle problematiche
+quotidiane. Frasi che sovente pronuncia chi soffre di un disturbo nevrotico suonano perlopiù
+così: non ce la faccio più; ce la faccio ma mi costa troppa fatica, mi stresso, mi deprimo, resto
+senza energie psichiche; mi capita sempre così, va sempre a finire così, ancora una volta mi
+trovo nella stessa condizione malgrado tutti i miei sforzi. Se da un punto di vista soggettivo,
+come riferisce Sims (2009), la persona nevrotica si descrive incapace di farcela o di farcela
+solamente attraverso uno sforzo estremo e uno stress, in qualche modo, tutti noi
+occasionalmente possiamo manifestare un comportamento nevrotico e avere pensieri
+nevrotici. Quello che fa la differenza è il fatto che nello stato nevrotico, vero e proprio, questi
+pensieri e comportamenti inappropriati sono diventati abituali, quelle che saranno le risposte
+alle situazioni saranno sproporzionate rispetto allo stimolo. Tutte le azioni assumeranno allora
+la tinta dell’insufficienza nevrotica, dove la persona vede tutti i suoi problemi attraverso occhi
+nevrotici per cui tutte le difficoltà assumono i toni dell'insormontabilità, di quella che viene
+chiamata “la tirannia dell’inevitabile”. Da un punto di vista invece oggettivo, il comportamento
+nevrotico si sviluppa come risposta alla presenza di un problema o di un conflitto che necessita
+una risoluzione, ciononostante il comportamento che si rende manifesto risulta inappropriato
+per la soluzione del problema.
+
+La persona ben sa che la schiavitù di cui è afflitta non ha nulla di ragionevole e sensato e per
+questo a maggior ragione ne soffre. In questo caso il sintomo presentato è egodistonico ovvero
+la persona ha consapevolezza dell’irrazionalità dei suoi sintomi, è dunque in grado di
+riconoscere le ossessioni come esagerate, il disturbo crea disagio e sofferenza. Preda di rituali
+che divengono con il tempo del tutto autonomi, ecco che il bisogno compulsivo dì ripetere
+diviene disturbo e si svela in tutta la sua incapacità di contenere l'ansia, ragione per la quale era
+stato inizialmente adottato dalla persona. Nei quadri nevrotici, si parla quindi del sintomo come
+egodistonico a differenza invece di altri quadri psicopatologici, soprattutto nei disturbi di
+personalità in cui i sintomi sono invece detti egosintonici dove la persona non vivrebbe conflitti
+interiori a causa del suo modo di comportarsi o sentire, per esempio la persona sente che
+determinati aspetti di sé siano giusti, in linea con la propria idea di sé, non riconoscendone la
+loro disfunzionalità, questo comporta la minor presenza di sofferenza soggettiva rispetto alla
+malattia, ma non solo, anche una minor richiesta di aiuto e possibile presa a carico.
+
+Non dobbiamo trascurare il fatto che in situazioni esistenziali eccezionali una persona può
+manifestare una sintomatologia nevrotica, anche se ciò non significa che siamo in presenza di
+una modalità di comportamento che denota una patologia. In questo caso, possiamo affermare
+che la persona è in grado di affrontare l’avversità repentina, eccezionale, abnorme, critica o
+catastrofica attingendo in modo proporzionalmente abnorme ed eccezionale alle proprie
+riserve difensive. Questo naturalmente implica un acuirsi dei conflitti interiorì e delle relative
+manifestazioni sintomatiche. Si tratta in questo caso di un modo “sano” per affrontare una
+situazione che potremmo definire malsana, eccezionale. In questo caso una volta superato lo
+
+sconvolgimento che le ha prodotte, queste difese e conflittualità esacerbate si
+ridimensioneranno al quotidiano equilibrio di sempre.
+
+Diverso invece, quando questo ridimensionamento non avviene e la persona si confronta con
+un quadro patologico. | criteri guida che possono essere utili per riconoscere una situazione di
+patologia, sono i seguenti, e come vedrete valgono per i diversi disturbi:
+
+>» Durata: osservare la persistenza dei sintomi (per indicazioni specifiche sulla durata si
+può far riferimento al DSM)
+
+» Gravità: intesa come intensità (nell'arco di una giornata con che intensità si presenta)
+
+|
+
+|
+
+---
+
+AI
+
+> Profondità: osservare come e quanto i sintomi possono influenzare gli aspetti del
+funzionamento quotidiano della persona (lavoro, studio, relazioni interpersonali,
+attività quotidiane), vedere il loro impatto, vedere quanto è pervasivo.
+
+La vita di una persona può subire delle scosse a causa di fattori avversi che possono scatenare
+
+un disturbo nevrotico, quali ad esempio:
+
+la precipitazione delle condizioni di vita a causa di problemi familiari, professionali, sessuali
+o sociali
+
+un'improvvisa calamità
+
+una lunga malattia
+
+una grave malattia in giovane età
+
+Fenomenologia del disturbo nevrotico
+
+Il quotidiano, Milano 2022 — Foto di Lorenzo Pezzoli
+
+Osserviamo in generale quelle che sono le aree che vengono colpite dal disturbo nevrotico e
+che lo caratterizzano. La fenomenologia tende a delineare il mondo interno, l'esperienza
+
+soggettiva del paziente nevrotico (Sims, 1999):
+
+> Esperienza delsé: bassa autostima che porta a una cronica indecisione, sentimenti di colpa,
+
+vergogna, perdita di fiducia in sé stessi. Si entra in un ciclo di “demoralizzazione” (Frank, in
+Sims, 1999, p.522)
+
+Disturbi dell'umore: un'alterazione emotiva è sempre stata riconosciuta come una parte
+importante dei disturbi nevrotici, specialmente per quanto riguarda l'ansia, la depressione
+e l'irritabilità. Questo comporta delle conseguenze rispetto al sonno, che è una funzione
+quasi sempre alterata con la presenza di un sonno agitato, poco riposante e una difficoltà
+a prendere sonno.
+
+Sintomi somatici: disturbi motori, anestesie e altri disturbi della sensibilità, ma anche
+ipocondria, dolori somatoformi e dismorfofobia.
+
+Esperienze relazionali: nella condizione nevrotica è fondamentale un'alterazione delle
+relazioni del modo in cui il paziente le vive. Tutte le aree della vita sono colpite incluso il
+lavoro, la relazione coniugale, la famiglia, le relazioni sociali,... .
+
+---
+
+Le strutture sono organizzate
+in modo tale da mantenere un
+equilibrio, fintanto che non
+avviene una rottura, definita
+anche come scompenso,
+
+affermare che la persona affetta da un disturbo nevrotico è consapevole
+ende l'inadeguatezza del proprio pensiero e del proprio agire
+a realtà quotidiana come tirannica e immutabilmente
+
+In generale possiamo
+di ciò che sta provando, compr
+
+ciononostante continua a vivere la propri
+inevitabile. All’interno dei disturbi nmevrotici non esiste un'alterazione di quella che viene
+
+definita la capacità di esame di realtà, questa capacità infatti viene mantenuta (a differenza di
+
+quanto invece avviene nei quadri psicotici).
+
+La struttura nevrotica
+
+Un tassello importante che ci permette di addentrarci in questo mondo e comprendere j
+funzionamenti più profondi, è quello di soffermarci sul concetto di struttura della personalità,
+Questa tematica è stata ampiamente studiata dal medico e psicoanalista francese Jean Bergeret
+(1923-2016) il quale partendo proprio dalla nozione di una struttura personologica di base,
+definirà le caratteristiche delle condizioni di normalità e di malattia. Con struttura mentale si
+intende la condizione di fondo che contraddistingue e differenzia ogni uomo e che lo rende più
+o meno stabile, funzionale, prevedibile, equilibrato. Bergeret (1996) definisce la struttura
+psichica della personalità come “l’organizzazione permanente più profonda dell'individuo, a
+partire dalla quale si organizzano sia le sistemazioni funzionali dette “normali”, sia le vicende
+
+patologiche” (Bergeret, 1996, pag.3).
+
+Struttura logorata, toto L. Pezzoli (2020)
+
+Egli caratterizza la struttura mentale contrapponendo quelle che chiama vere strutture,
+riferendosi alla struttura nevrotica da una parte e a quella psicotica dall'altra. Nel mezzo si
+trovano quelle che definisce organizzazioni, meno solide, rispetto alle strutture e che non
+approfondiremo in questo scritto. Le strutture sono Organizzate in modo tale da mantenere un
+equilibrio, fintanto che non avviene una rottura di tale equilibrio, definita anche come
+scompenso. La persona può mantenere un equilibrio funzionale anche all’interno dì una
+struttura, sia essa nevrotica che psicotica. Questo comporta che una persona può funzionare
+nella propria quotidianità sia che possegga una struttura nevrotica o psicotica, fintanto che
+queste siano stabili, senza scompensi. È lo scompenso di un equilibrio che porta allo sviluppo di
+un funzionamento disfunzionale. Bergeret (1999) richiama l’attenzione sull'utilizzo dei termini,
+infatti quando ci si riferisce a determinati sintomi, che possono essere classificati come “sintomi
+nevrotici” (come conversione isterica, rituali ossessivi, comportamento fobico) o “sintomi
+psicotici” (come comportamenti deliranti, manifestazioni allucinatorie, fenomeni di
+depersonalizzazione), questi non permetterebbero a priori di porre una diagnosi in merito
+all'organizzazione strutturale e profonda della personalità, egli è molto attento:
+
+‘lesperienza clinica ci porta a riconoscere che un episodio delirante può anche non
+corrispondere a un'organizzazione del soggetto a livello profondo di natura psicotica; la
+molteplicità di manifestazioni fobiche osservate ci obbliga a distinguere un certo numero di
+fobie che non hanno nulla di realmente nevrotico”. (Bergeret, 1996, pag.40)
+
+---
+
+| peroni possono allora essere trasversali alle strutture, questo implica che una diagnosi non
+RO essere posta unicamente basandosi solo sui sintomi, vi è la necessità di avere uno sguardo
+PIÙ profondo, che prenda in considerazione elementi come: la natura dell'angoscia, il livello di
+regressione, la modalità relazionale, la natura del conflitto e le difese principali, ovvero quelle
+che sono le vere e proprie caratteristiche della struttura nevrotica.
+
+Vediamo ora alcune caratteristiche che ci permettono di comprendere come si forma una
+struttura nevrotica, per fare questo ci appoggeremo alla teoria dello sviluppo psicosessuale di
+Freud, attraversando i vari stadi. Karl Abraham, psichiatra e psicoanalista tedesco, individua una
+linea di divisione che funziona da frontiera, quindi che separa le fissazioni e le regressioni di tipo
+psicotico da quelle di tipo nevrotico. Questa linea riguarda il punto di vista dello sviluppo
+
+pulsionale. Essa si situa fra il primo sotto-stadio anale di evacuazione e il secondo sotto-stadio
+anale di ritenzione:
+
+STRUTTURE PSICOTICHE
+
+sottostadio anale
+
+2% evacuazione (2/3 anni)
+
+UNCADUDIVISIONE: ureteri creredecazione alain ae larerccnenee item ii
+
+(DIVIDED-LINE)
+iaia anale
+
+di ritenzione (3/4 anni)
+
+STRUTTURE NEVROTICHE
+
+Per quanto riguarda l’organizzazione nevrotica possiamo dire che in un primo tempo lo stadio
+anale e i successivi stadi vengono superati senza troppe difficoltà, invece, tutte le fissazioni e
+regressioni collocate a monte di questa linea di divisione si presenterebbero nelle strutture
+psicotiche.
+
+Ne consegue che per quanto riguarda la possibilità di formulare in età adulta, mai prima, sia una
+diagnosi che una prognosi riguardanti la possibile presenza di una forma di nevrosi patologica,
+vanno tenute in considerazione le caratteristiche peculiari e distinte di tre diversi momenti
+dell'età evolutiva della persona:
+
+> Durante l'infanzia occorre essere cauti: ogni sintomo di natura nevrotica che il bambino
+mostra non necessariamente depone in favore di una futura patologia nevrotica. Molti
+sintomi sono legati alla fatica causata dallo sviluppo evolutivo. Solo l'osservazione ripetuta
+neltempo permette la giusta valutazione sia degli aspetti funzionali che di quellì relazionali
+del bambino.
+
+> Il periodo di latenza pur operando un momentaneo arresto dello sviluppo pulsionale non
+corrisponde all'annullamento dell'energia genitale. Questa fase è caratterizzata dalla
+stabilità dell'organizzazione psichica sin qui raggiunta, in questo periodo della vita il
+bambino vive le proprie vicissitudini esistenziali in modo comunque intenso. Bergeret
+(1999) usa una metafora efficace affermando che, l'assenza di progresso strutturale
+equivale ad una “ruminazione” delle faticose e diversificate acquisizioni raggiunte nel corso
+degli stadi precedenti. Il suo prolungamento e irrigidimento corrisponde alla pseudo-
+latenza che caratterizza i futuri stati limite,
+
+l'adolescenza con i suoi tumulti pulsionali rimette in discussione la raggiunta
+organizzazione genitale e dunque la categoria strutturale originaria. Corrisponde ad un
+periodo della vita in cui è possibile ancora e per l'ultima volta cambiare struttura grazie alla
+potenza del vortice pulsionale e conflittuale che la caratterizza. Cambiamenti in questo
+senso sono assai rari ma comunque possibili. Va sottolineato che giunti a questo punto
+della vita, l'o dell'adolescente ha qualche minima possibilità di cambiare asse strutturale
+passando da quello delle psicosi a quello delle nevrosi, unicamente a seguito di ragioni
+
+w
+
+---
+
+FIFTH EDITION
+TEXT REVISION
+
+DSM-5-TR°
+
+profonde ed in particolare a seguito di un percorso di psicoterapia con risultati positivi,
+intrapreso proprio durante l'adolescenza nel momento in cui i sintomi di natura psicotica
+si sono mostrati. L'altra possibilità, ancor più remota, riguarda il ristabilirsi di una situazione
+affettiva tanto positiva che permetta di riparare le ferite narcisistiche, sia sul piano interno
+che su quello esterno. Si tratta di una possibilità assai remota vista anche la fase turbolenta
+dell'adolescenza che mal si presta a stabilire profonde, immediate, significative e
+ribonificanti relazioni con il mondo adulto. Va invece detto che il passaggio contrario,
+ovvero da una categoria nevrotica preorganizzata a una strutturazione psicotica definitiva
+è sfortunatamente più frequente e più facile del passaggio invece appena descritto in senso
+inverso. Bergeret (1999) riferisce come basterebbe un trauma o un conflitto
+particolarmente intensi per dar luogo a un tale cambiamento irreversibile. Va comunque
+anche sottolineato, che nella maggior parte dei casi, durante l'adolescenza, la
+preorganizzazione nevrotica evolve verso una struttura nevrotica definitiva.
+
+Caratteristiche della struttura nevrotica
+
+Natura dell'angoscia: di castrazione
+Natura del conflitto: edipico (tra Super-lo ed Es)
+Livello regressione: parziale
+
+Relazione oggettuale: genitale (altro vissuto in quanto tale)
+Difesa: rimozione (la realtà viene elaborata, trasformata, ma mai negata)
+
+Le nevrosi declinate all'interno dei manuali
+
+Fino ad ora si è cercato di sviluppare un discorso che permettesse di comprendere dove ci si
+colloca quando si parla di nevrosi e di una struttura nevrotica. Si è messo in evidenza come il
+nevrotico ha una modalità di comportamento, di espressione del suo mondo interiore e di
+rapporto interpersonale che è diversa dalla media. Diversità che non è costituita da fenomeni
+incomprensibili, ma piuttosto da un’accentuazione, da una ripetitività e da una rigidità di atti o
+modalità di rapporto, piuttosto frequenti e comuni (Lalli, 1999). Ad esempio, molti possono
+sentire la necessità di controllare se hanno spento la luce, chi soffre di una nevrosi ossessiva
+(oggi chiamata come vedremo disturbo ossessivo-compulsivo, DOC) lo farà decine di volte, o
+ancora, molti possono provare una sensazione di paura nel salire in ascensore, ma la persona
+che soffre di una fobia si rifiuterà sistematicamente di entrarci, anche a costo di dover salire
+decine di piani a piedi.
+
+Come è già stato riferito, ad oggi nei principali manuali, come nel Manuale diagnostico e
+statistico dei disturbi mentali (DSM-5-TR) il termine nevrosi non compare, ma quanto invece nel
+passato faceva parte di questo quadro è stato scomposto in altre classificazioni, per cui una
+parte dei disturbi nevrotici riguarda ora in generale:
+
+- la classificazione dei disturbi d'ansia, all'interno di questo cappello sono presenti diverse
+declinazioni: disturbo d'ansia generalizzato, fobia specifica, disturbo d'ansia sociale,
+disturbo di panico, agorafobia,...;
+
+- laclassificazione specifica per il disturbo ossessivo-compulsivo e disturbì correlati: disturbo
+ossessivo-compulsivo, disturbo di dismorfismo corporeo, disturbo da accumulo,
+tricotillomania, disturbo da escoriazione,...;
+
+- la classificazione dei disturbi correlati a eventi traumatici e stressanti: disturbo da stress
+post-traumatico, disturbo da stress acuto,...:
+
+- laclassificazione come disturbo da sintomi somatici e disturbi correlati: disturbo da sintomi
+somatici, disturbo da ansia di malattia,....
+
+Possiamo ritrovare anche altri quadri nevrotici all’interno di altre classificazioni nel DSM-5-TR.
+
+---
+
+P—P————————_—_—_————_———
+
+Le ossessioni
+
+fe_
+
+È
+i
+|
+;
+Mm.
+h
+
+Ù
+
+Le compulsioni
+
+RS A
+
+)
+
+Ci soff I | |
+ermeremo nelle prossime righe sul disturbo ossessivo-compulsivo che come abbiamo
+PRENA Visto, ad oggi ha la propria classificazione, e che nel passato rappresentava, assieme alla
+Nnev | i i . . % , - Di La
+OS! ISterica il cuore delle nevrosi, dove nella nevrosi ossessiva il luogo del sintomo è il
+
+Pensiero e invece nella nevrosi isterica di cui parleremo successivamente, il luogo del sintomo
+é il corpo.
+
+Il disturbo ossessivo-compulsivo (DOC)
+
+Il disturbo ossessivo compulsivo è caratterizzato dalla presenza di due sintomi predominanti: le
+ossessioni e le compulsioni.
+
+Le ossessioni sono definite come pensieri, idee, immagini o impulsi non desiderati che vengono
+vissuti come ripugnanti, minacciosi, osceni, blasfemi, privi di senso. Il loro contenuto è specifico
+per ogni persona e può variare in funzione delle esperienze personali dell'individuo, sebbene |
+temi generali possano essere raggruppati in categorie come: “contagio”, “responsabilità del
+danno”, “violenza”, “sesso”, “religione” e “necessità di ordine e simmetria”.
+
+Vediamo lo schema ripreso dal testo di Castonguay e Oltmanns (2023) nel quale classificano le
+ossessioni ritenute più comuni:
+
+COCOS CAI IE
+
+Contagio - = Timore di sviluppare un cancro per aver utilizzato un fertilizzante da
+
+giardino.
+
+Timore di ammalarsi per aver toccato vestiti sporchi.
+Dubbi rispetto al fatto di aver chiuso o meno la porta o di aver spento
+il forno o averlo lasciato acceso.
+
+Timore di aver investito un pedone senza rendersene conto.
+
+Responsabilità del
+danno
+
+Simmetria/ordine Necessità di “equilibrare” l’ambiente circostante producendo una
+certa simmetria tra destra e sinistra.
+
+- Pensarecheunfamiliare potrebbe morire se i libri non vengono riposti
+
+negli scaffali in ordine alfabetico.
+Sessuali - = Impulsodibaciare il proprio capo.
+- Dubbirispetto al fatto di essere omosessuale o eterosessuale.
+Violenza/aggressione - Impulso di aggredire una persona cara o una persona vulnerabile
+(come un anziano o un bambino).
+Religione - Immagini blasfeme di Gesù.
+- Dubbirispetto all'essere “sufficientemente credenti”.
+
+Per poter formulare la diagnosi è necessario che le ossessioni provochino nel soggetto un
+
+estremo disagio.
+Tre sono le caratteristiche che differenziano le ossessioni cliniche da altri tipi di pensieri ripetitivi
+
+(come, per esempio, le preoccupazioni) (Castonguay e Oltmanns, 2023):
+
+1) le ossessioni sono vissute dalle persone come non desiderate e incontrollabili, invadono la
+coscienza, spesso scatenate da qualche stimolo presente nell'ambiente;
+
+2) il contenuto delle ossessioni, sebbene sia significativo per la persona, è incongruente con
+il suo sistema di valori e non rientra nel tipo di pensieri che la persona si aspetta di avere;
+
+3) le persone tentano di resistere alle ossessioni.
+
+uanto riguarda invece le compulsioni, queste sì presentano con rituali (Comportamenti o
+come per esempio lavarsi le mani, riordinare, controllare) o azioni mentali (come
+
+Per Q
+
+cerimoniali,
+per esempio pregare, contare, ripetere parole mentalmente) ripetitive; questi rappresentano
+
+una delle manifestazioni più evidenti del disturbo ossessivo-complusivo. Il DSM specifica come
+le compulsioni siano motivate e intenzionali e non costituiscano un comportamento meccanico
+e involontario. Le compulsioni sono realizzate dalla persona in risposta alle ossessioni e più
+atamente, per ridurre l'ansia associata ai pensieri ossessivi. Va comunque specificato
+non sono agite per piacere, anche se chi le esegue può trarre
+
+specific
+che le compulsioni
+te sollievo dall’ansia 0 dal disagio.
+
+temporaneamen
+
+---
+
+10
+
+Nel DSM-5-TR tra i criteri diagnostici del disturbo ossessivo-compulsivo adietnne i criterio
+secondo il quale “le ossessioni o compulsioni fanno consumare tempo (per es., più di lora al
+
+giorno) o causano disagio clinicamente significativo 0 compromissione del funzionamento in
+
+ambito sociale, lavorativo o in altre aree importanti”, questo criterio permette di distinguere il
+
+disturbo da occasionali pensieri intrusivi o comportamenti ripetitivi che possono essere comuni
+
+nella popolazione generale (per es., controllare ripetutamente che una porta sia chiusa). Un
+altro criterio è quello che specifica come “i sintomi ossessivi-compulsivi non sono attribuibili
+agli effetti fisiologici di una sostanza (per es., una droga, un farmaco) o a una condizione
+medica”.
+
+Castonguay e Oltmanns (2023) riportano in una tabella un riassunto di alcuni rituali compulsivi
+
+tipici:
+
+Decontaminazione
+
+Controllo
+
+Ripetizione
+
+Lavarsi le mani per 15 minuti.
+- Farsi la doccia seguendo un rituale specifico, che può includere
+
+anche lavare la doccia stessa.
+Pulire la posta ricevuta e articoli comprati, prima di portarli a casa.
+
+Serrature, finestre, interruttori, documenti.
+Formulare più volte le stesse domande per ottenere rassicurazioni.
+
+Salire e scendere le scale finché viene eliminato il pensiero non
+
+desiderato.
+- Vestirsi e svestirsi più volte finché la persona ha la sensazione di
+
+averlo fatto “correttamente”.
+
+Rituali mentali - Ripetere preghiere, parole o frasi per neutralizzare il pensiero non
+desiderato.
+
+Spesso risulta difficile distinguere in modo netto e chiaro a quale di queste dimensioni
+
+appartenga un sintomo concreto, va anche tenuto in considerazione il fatto che, una stessa
+persona, può presentare contemporaneamente sintomi appartenenti a più di una dimensione.
+Altri pazienti invece soffrono di diverse ossessioni in diversi momenti nel corso del disturbo.
+
+Un altro elemento non da sottovalutare in questo quadro è l’evitamento, il DSM-5-TR indica
+come sia comune l'evitamento di persone, di luoghi e cose che innescano ossessioni e
+compulsioni e descrive l'esempio di persone con preoccupazioni di contaminazione che
+possono evitare situazioni pubbliche (come ristoranti o bagni pubblici) per ridurre l'esposizione
+ai contaminanti temuti; persone invece con pensieri intrusivi relativi al causare danno possono
+evitare le interazioni sociali.
+
+Il decorso del DOC se non viene trattato, è solitamente cronico, spesso con delle oscillazioni
+della sintomatologia, senza un trattamento però, i tassi di remissione sono bassi (DSM-5-TR). Le
+persone che soffrono di DOC corrono un rischio maggiore di soffrire anche dì altrì disturbi
+psicopatologici, tra cui i più frequenti sono i disturbi di un quadro depressivo, ma può
+presentarsi in comorbilità con altri disturbi d'ansia.
+
+Se parliamo in termini di struttura, possiamo affermare che la struttura ossessiva è la struttura
+nevrotica più regressiva, che si situa nelle vicinanze della struttura psicotica (riprendiamo lo
+schema a p.7). Nel corso dell'età evolutiva potremmo dire che i genitorì della persona affetta
+da nevrosi ossessiva hanno valorizzato il controllo, le inibizioni e il divieto delle eccitazioni. Di
+conseguenza l'organizzazione genitale della libido si dimostra debole e carente. All’lo non
+rimane che affidarsi alla regressione allo stadio sadico-anale nel quale la questione fra desiderio
+e limite, piacere e regola si gioca sul crinale del trattenere ed espellere.
+
+La difesa caratteristica è la rimozione, la realtà viene elaborata ma mai negata o massicciamente
+frammentata. Siamo confrontati con processi difensivi secondari (originati nel corso dello
+sviluppo durante un adattamento, al contrario di quelli primari formati invece nei primi anni di
+vita), meccanismi maturi ovvero funzionali e adattivi. Con la rimozione siamo nell'ordine del
+dimenticare, è un processo inconscio e automatico che si attiva come reazione all’angoscia in
+
+E n € pui Pi n —_
+
+---
+
+i ei—àî.-—
+Difese:
+
+. rimozione
+
+- formazione reattiva
+- spostamento
+
+- isolamento
+
+ie: —" ala E
+
+STUDIEN
+
+YSTERIE
+
+Urge 13» Cw
+FRANE DEUTFICK E
+
+di re ea i una reazione a fantasie e.inpuie PRE inaccettabili
+Mine Di aistireria "Rive alla coscienza. Accanto a questa difesa, si può fare vepelto mi
+ili COMRONO cal e questa parce ” efficacia, ne nisi altre, impre di nrstne
+Trisnini a na lizzate munzae si confronta con un caturha RENEIRIPE ETRO
+Ha l'ordine de ; 0 Lie e l'isolamento. La armazione reattiva e lo \POSEArTAO
+
+cambiare posizione, con la formazione reattiva la persona è capace di
+citta Qualcosa nel suo polo opposto per renderlo meno minaccioso, la McWilliams
+(1999) riferisce che implica la conversione di un affetto negativo in positivo o viceversa. Per
+eSEMPIO, quelle che sono le esigenze di pulizia in un DOC, come formazione reattiva contro il
+suo desiderio di sporcare. Lo spostamento fa in modo che una pulsione, un'emozione, una
+preoccupazione o un comportamento venga diretto dal suo oggetto iniziale verso un altro, che
+Sla meno minaccioso. Infine, con l'isolamento siamo nell'ordine del separare, dove la
+componente affettiva è separata in quanto potenzialmente portatrice di angoscia, per cui
+“l'aspetto affettivo di un'esperienza o di un’idea viene separato dalla sua dimensione cognitiva”.
+
+La nevrosi isterica dal passato ad oggi
+
+La nevrosi isterica rappresenta la più antica ed anche la più conosciuta delle sindromi di
+Interesse psichiatrico: questo fatto ha contribuito però a far usare questo termine troppo
+spesso in maniera estensiva ed imprecisa. L'aggettivo isterico viene frequentemente attribuito
+a persone che nulla hanno a che fare con l’isteria, denotando, in questo caso, solamente un
+giudizio di valore (Lalli, 1999).
+
+Il termine isteria deriva dal greco hystéra che significa utero, venivano descritte già nel XX a. C.
+delle manifestazioni verosimilmente isteriche, attribuite a movimenti dell'utero che,
+spostandosi comprimeva gli altri organi. Nell'opera di Ippocrate (V sec. a.C.) appaiono le prime
+descrizioni cliniche dell’isteria, dove la parola “isterico” è usata soprattutto per segnalare
+difficoltà respiratorie o la sensazione di “bolo esofageo”. | Greci la giudicavano come una
+malattia tipica delle donne prive di rapporti sessuali, dove l’utero si sarebbe prosciugato e
+sarebbe andato in cerca dell’umidità che gli mancava, notiamo già che la parentela stretta tra
+la sessualità e l’isteria è stata riconosciuta da molto tempo. Con l'avvento del cristianesimo,
+l'astinenza sessuale verrà considerata una virtù, per cui dal Seicento in poi, la teoria uterina
+lascerà il posto alla teoria cerebrale dell’isteria. Arriviamo alla fine dell'Ottocento con i lavori di
+Charcot e successivamente di Freud dove si assegna alla malattia mentale un'origine psichica
+(Pewzner, 2002). Freud mantenne l’idea che essa fosse connessa con la sessualità. A partire
+dall’impossibilità, con l'ipnosi di aiutare le giovani donne che erano affette da isteria, Freud
+elaborò il metodo delle libere associazioni, ossia della cura attraverso le parole. Inizialmente
+egli individuò l'origine dell'isteria nella mancata scarica delle cariche affettive legate ad una
+situazione traumatica quale seduzione paterna. In seguito, comprese che le pazienti definite
+isteriche, soffrivano di traumi avvenuti nell'immaginario e non nella realtà quotidiana.
+
+Lalli (1999) ricorda come spesso il termine isteria è stato usato come sostituto di simulazione,
+3 volte è stato anche usato come una diagnosi di ripiego quando, di fronte a sintomi di tipo
+organico, non si riusciva a trovare nulla di organico. Anche in psichiatria, molto spesso pazienti
+ritenuti petulanti, fastidiosi vengono definiti isterici,
+
+Quando si parlava di reazioni isteriche si intendeva un comportamento complesso, ma
+abbastanza stereotipato, che interessava l'apparato motorio e che poteva andare da un'intensa
+agitazione psicomotoria ad atteggiamenti di arresto motorio simili a stati di catalessia. Erano
+situazioni di tipo improvviso e in genere transitorie. Le manifestazioni sono spettacolari: crisi
+espressivo-emotive, tremori, a volte fughe tipo panico, a volte movimenti tipo crisì di grande
+male: rimane fondamentale la relativa brevità della crisi. Non sì può non ricordare nelle
+immagini dell'epoca la posizione ad arco che assumevano le pazienti con questa diagnosi, ma
+lo, anche delle manifestazioni di tipo epilettico, facilmente riconoscibili però da vere e
+si epilettiche per l'estrema teatralità, per il fatto che il paziente non si facesse alcun
+
+non so
+proprie cri
+male, per l'asse
+
+nza di perdita di coscienza e per la conservazione della reazione pupillare alla
+
+---
+
+12538
+
+luce (Lalli, 1999). Troviamo anche frequenti disturbi riguardanti i sensi, soprattutto la vista e
+l'udito.
+
+Il conflitto viene spostato sul corpo e in questo modo viene in gran parte distanziato. Quando
+si parla di conversione si intende la capacità di trasferire sul piano somatico un determinato
+conflitto che trova, come dice Lalli (1999), nella drammatizzazione corporea un relativo e
+parziale esaudimento; infatti il sintomo diventa un compromesso tra la possibilità di emergenza
+di una certa pulsione ed il timore che questo avvenga. La scelta del sintomo è legata sia alla
+
+storia personale del paziente, sia ad un'eventuale compiacenza somatica (nel senso che magari
+si tratta di un organo già malato e per questo allora privilegiato), ma comunque la scelta avviene
+sempre tramite una precisa motivazione inconscia.
+
+Bergeret (1996) riferisce come la struttura isterica costituisca l'anello più elaborato in direzione
+della maturità. La caratteristica principale della struttura isterica è la forza della componente
+erotica, che in tutti i suoi aspetti domina la vita dell’isterico e le diverse esperienze relazionali.
+Anche in questa struttura il meccanismo difensivo prevalente è quello della rimozione.
+
+La struttura isterica si suddivide in due diverse sotto-strutture: la struttura isterica d'angoscia e
+la struttura isterica di conversione.
+
+Ad oggi, nel DSM-5-TR, il quadro appena presentato e che ritrovavamo nelle classificazioni del
+
+passato, ha preso altre strade, scomponendosi e riadattandosi ad altre classificazioni, come per
+esempio:
+
+- Disturbi dissociativi: disturbo dissociativo dell'identità, amnesia dissociativa,...
+- Disturbo da sintomi somatici e disturbi correlati: disturbo da sintomi somatici, disturbo da
+ansia di malattia, disturbo da sintomi neurologici funzionali (Disturbo di conversione),...
+
+Conclusione
+
+In questa lezione ci siamo addentrati nei territori delle nevrosi, dove il conflitto psichico ne
+determina l'andamento. Nevrosi come la struttura più evoluta, che utilizza processi difensivi
+secondari di ordine superiore. La funzione del reale rimane integra e la consapevolezza critica
+permette al soggetto di cogliere l'insensatezza di alcuni suoi modi di fare, come anche
+dell'eccessivo tasso di ansia ad essi correlato, che svela la presenza di un conflitto interiore (per
+questo un paziente affetto da un disturbo nevrotico è più portato alla richiesta di aiuto, essendo
+i suoì sintomi egodistonici). Il conflitto che è il nucleo della sofferenza, sì è sviluppato proprio a
+partire dalla questione della “scelta” fra gratificazione del desiderio e rispetto delle regole.
+
+BIBLIOGRAFIA
+
+American Psychiatric Association (2023). Manuale Diagnostico e Statistico dei Disturbi Mentali DSM-5-TR.
+Raffaello Cortina Editore,
+
+Bergeret J. (1996). La personalità normale e patologica. Raffaello Cortina Editore.
+
+Castonguay L.G., Oltmanns T.F. (2023). Psicologia clinica e psicopatologia. Raffaello Cortina Editore.
+Cortellazzo M., Zolli P. (1988). Dizionario etimologico della lingua italiana. Zanichelli.
+
+Faravelli C. (2022). La psichiatria con MacDonald. Astrolabio.
+
+Frank! V.E. (2021). Teoria e terapia delle nevrosi. Morcelliana,
+
+Gabbard G. O. (2015). Psichiatria psicodinamica. Quinta edizione basata sul DSM-5. Raffaello Cortina
+Editore,
+
+Galimberti U. (1999), Dizionario di Psicologia. Garzanti.
+
+Lalli N. (1999). Manuale di psichiatria e psicoterapia. Liguori editore.
+
+Laplanche e Pontalis (2000). Enciclopedia della psicoanalisi. Editori Laterza.
+
+Mc Williams N. (1999). La diagnosi psicoanalitica. Casa Editrice Astrolabio.
+
+Pewzner E. (2002). Introduzione alla psicopatologia dell'adulto. Einaudi.
+
+Sims A. (2009). Introduzione alla psicopatologia descrittiva. Quarta edizione. Raffaello Cortina Editore.
+
+Stanghellini G e Rossi Monti M. (2009). Psicologia del patologico. Raffaello Cortina Editore.

@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//usr/bin/**)",
+      "Bash(/home/jairj/dev/projects/social/spacca_scuola/.venv/bin/python -c \"import ensurepip\")",
+      "Bash(/home/jairj/dev/projects/social/spacca_scuola/.venv/bin/pip install:*)",
+      "Bash(python3 -m venv /home/jairj/dev/projects/social/spacca_scuola/.venv)",
+      "Bash(dpkg -l)",
+      "Bash(make preprocess *)",
+      "Bash(*)",
+      "Read",
+      "Write",
+      "Edit"
+    ]
+  },
+  "effortLevel": "medium"
+}
