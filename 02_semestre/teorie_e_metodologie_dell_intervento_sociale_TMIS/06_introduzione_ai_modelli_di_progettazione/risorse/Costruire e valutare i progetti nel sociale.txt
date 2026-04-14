@@ -1,0 +1,935 @@
+Gli psicologi, i sociologi, gli assistenti sociali, gli educatori, i coordinatori e i
+responsabili dei servizi, gli assistenti domiciliari, ma anche i medici e il
+personale paramedico che lavorano nei servizi territoriali delle Asl, nei
+comuni, nel privato sociale (cooperative, volontariato, associazioni ricreative,
+culturali, ecc.) ma anche nelle aziende, nella scuola o come liberi Ì
+professionisti, sempre più spesso sono chiamati a lavorare per, o su progetti.
+
+La costruzione, la stesura, il coordinamento di progetti, la
+valutazione di progetti elaborati da altri, il monitoraggio e la
+valutazione dei risultati sono competenze già importanti, ma che lo
+diverranno ancor di più nei prossimi anni. Esse sono indispensabili, tra
+l’altro, per accedere a molte fonti di finanziamento (vedi ad es. fondi
+Commissione Europea, fondi legge Turco 285/1997). A fronte di queste
+necessità, la formazione di base degli operatori sociali è stata finora carente e
+gli operatori hanno cercato di porvi rimedio attraverso l’esperienza e
+l’approfondimento personale. i a
+
+Il volume si rivolge sia agli studenti sia agli operatori che già stanno
+lavorando su progetti; per questi ultimi può costituire un’occasione per
+approfondire o sistematizzare le conoscenze e riflettere sulle proprie
+esperienze.
+
+Pur privilegiando la dimensione metodologica, lungo tutti i capitoli
+l’attenzione viene focalizzata anche sulle altre dimensioni del processo di
+progettazione e valutazione: su quella valoriale, cognitiva ed emotiva, su
+quella organizzativa ed interorganizzativa e sugli aspetti relazionali e
+negoziali.
+
+Il volume nasce dalla collaborazione dei due autori, che unendo un
+approccio più teorico, tipico degli universitari ed uno più pragmatico legato
+all’operare come consulente nel sociale, hanno cercato una sintesi ed
+un’integrazione.
+
+t
+
+Liliana Leone, si occupa di valutazione e consulenza organizzativa per
+organismi della Pubblica Amministrazione e del no-profit. Anche in
+collaborazione con altri professionisti, realizza valutazioni di policy,
+programmi, progetti, piani e servizi nell’ambito delle politiche sociali e
+sanitarie e delle politiche del lavoro. L’Autrice è responsabile di Studio
+CEVAS (Roma - www.cevas.it), Vice Presidente e Segretario Nazionale AIV
+Associazione Italiana di Valutazione.
+
+Miretta Prezza, docente di Psicologia di comunità presso la Facoltà di
+psicologia dell’Università “La Sapienza” di Roma, si interessa da diversi anni
+ai temi della valutazione e progettazione degli interventi di prevenzione e
+promozione della salute. i i
+
+ISBN 88-464-1190-0
+
+464-1
+46411
+
+£ 20.00 mi OT Mivars0a 907
+
+a
+(Sa)
+m
+Si
+m
+&
+:
+î
+m
+=
+
+31V190S TAN LLL390Ud | 3UVLM
+
+Liliana Leone
+Miretta Prezza
+
+COSTRUIRE E VALUTARE
+I PROGETTI
+
+NEL SOCIALE
+
+Manuale operativo per chi lavora
+su progetti In campo sanitario,
+sociale, educativo e culturale
+
+FrancoAngeli
+
+---
+
+Ta edizione Copyright © 1999, 2003 by FrancoAngeli s.r.l., Milano, Italy
+
+È "ez ADDO. ii n
+2003. 2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+tocopia un libro,
+chi mette a disposizione i m per furlo, chi comunque favorisce questa pratica
+commette un reato e opera ai danni della cultura.
+
+Stampa: Tipomonza. via Merano 18, Milano.
+
+Liliana Leone
+Miretta Prezza
+
+COSTRUIRE E VALUTARE
+I PROGETTI
+NEL SOCIALE.
+
+Manuale operativo per chi lavora
+su progetti Im campo sanitario, sociale,
+educativo e culturale
+
+FrancoAngeli
+
+---
+
+2. Approcci e modelli della progettazione
+
+2.1. Tappe di un progetto di intervento
+
+A prescindere dal tipo di progetto realizzato (di prevenzione, for-
+mazione, sviluppo di comunità, ecc.), dal contesto (comunità o grup-
+po classe), dalla durata, dai destinatari o da altri elementi, possiamo
+rappresentare il percorso di un qualsiasi progetto di intervento attra-
+verso cinque tappe. Il termine “progetto” può generare ambiguità per-
+ché è frequentemente utilizzato con un doppio significato: progetto
+come percorso complessivo di realizzazione di un intervento e pro-
+getto come prodotto cartaceo e stesura concreta di un disegno di in-
+tervento. Nella prima accezione si usa dire: “Abbiamo quasi termina-
+to il progetto X e a dicembre iniziamo la fase I di ricerca-azione del
+progetto Y”. Nella seconda accezione si usa, invece, dire: “Abbiamo
+presentato un progetto alla Regione...” o anche “ Vuoi leggere il no-
+stro progetto?”.
+
+Per evitare fraintendimenti utilizzeremo il termine “progetto” ri-
+ferendoci al processo complessivo di ideazione, realizzazione e ge-
+stione, a meno che non stiamo riferendoci alla “stesura del proget-
+to”: in tal caso il termine rimanderà al prodotto “cartaceo” i cui re-
+quisiti, per una corretta formulazione, verranno analizzati nel quarto
+capitolo.
+
+Nella figura 1 vi proponiamo uno schema estremamente semplifi-
+cato che utilizzeremo in seguito per approfondire il discorso sui di-
+versi approcci di progettazione.
+
+Fig.1. Le tappe di un progetto
+
+1° TAPPA 2° TAPPA 3° TAPPA 4° TAPPA 5°TAPPA
+IDEAZIONE ||ATTIVAZIONE||PROGETTAZIONE| [REALIZZAZIONE Î VERIFICA
+
+*. La prima tappa corrisponde all’ideazione, al momento in cui una
+O più persone ipotizzano di realizzare un progetto, di attivare un'i-
+niziativa, di fare o proporre qualcosa.
+
+* La seconda tappa corrisponde a quella dell'attivazione.
+
+Una volta avviata una propria ipotesi di progetto bisogna cerca-
+
+re di verificare quali sono le risorse (umane, finanziarie e stru-
+
+mentali...) disponibili, identificare meglio il proprio ruolo e
+
+quello degli altri soggetti coinvolti in queste prime fasi, identifi-
+
+care il problema e le strategie d'intervento, ottenere il consenso
+più o meno allargato e analizzare la domanda della committen-
+za.
+
+* Segue la terza tappa dell’elaborazione di un progetto cartaceo,
+dell’identificazione e programmazione delle diverse fasi dell’inter-
+vento.
+
+Si cerca di prevedere quali saranno le esigenze di personale, i tem-
+
+pi, le necessità tecniche e materiali per garantire l'operatività.
+
+* La quarta tappa corrisponde alla realizzazione dell'intervento.
+Attraverso l'avvio delle prime attività si verificano le proprie ipo-
+tesi, si attuano gli interventi ed i cambiamenti necessari per soste-
+nere il progetto, si sviluppano processi di confronto e verifica in iti-
+nere per produrre gli aggiustamenti necessari.
+
+* L'ultima, la quinta tappa, è quella della verifica conclusiva e del-
+la riformulazione, ridefinizione o conclusione del progetto stesso.
+Esiste una logica sequenzialità tra le diverse tappe che tuttavia, si
+
+accavallano e talvolta sovrappongono.
+
+La verifica è posta come ultima tappa anche se processi di mo-
+nitoraggio e valutazione più o meno formalizzati ed espliciti si atti-
+vano lungo il percorso ad ogni tappa, così pure il processo di atti-
+vazione può proseguire parallelamente alla realizzazione dell’inter-
+vento.
+
+Esistono più modi di intendere la progettazione e a seconda del
+modello di riferimento utilizzato, esplicitamente o più spesso implici-
+
+33
+
+---
+
+tamente, troveremo che queste cinque tappe di un intervento vengono
+intese e si concretizzano in modo diverso.
+
+Da come si configurano le prime tappe dell’intervento capiremo
+quale approccio viene utilizzato e agito. Intendiamo il progetto come
+prodotto conclusivo o come strumento all’interno di un percorso più
+ampio?
+
+È in questo momento che si delimitano degli spazi di apertura e
+flessibilità del futuro progetto, che si sceglie quanto predefinire in an-
+ticipo, quanto tollerare modificazioni di rotta e incertezze.
+
+2.2. Approcci della progettazione
+
+Possiamo riassumere in tre tipologie gli approcci e gli orientamen-
+ti esistenti in merito alla progettazione di interventi nel sociale.
+
+Chiameremo questi tre approcci ‘“’sinottico-razionale”, ‘’concertati-
+vo 0 partecipato” ed “euristico” (fig.2) e li porremo lungo un conti-
+nuum dalla massima pre-strutturazione alla massima apertura.
+
+Fig. 2. Tre approcci alla progettazione
+
+Sinottico-razionale Concertativo o partecipato Euristico
+Max pre-strutturazione  ««—____—_———_—————————__te=_ Min pre-strutturazione
+
+In ciascun approccio, le cinque tappe logiche di un intervento sono
+sempre presenti ma, come vedremo in seguito, assumono pesi e rile-
+vanze diverse.
+
+Approccio sinottico-razionale
+
+L'approccio ‘“sinottico-razionale’’ è direttamente mutuato dalla
+programmazione sinottico-razionale di cui parleremo nell’ultimo ca-
+pitolo (v. cap.7). Si tratta di un approccio ‘“meccanicista” che rimanda
+
+ad una causalità di tipo lineare, i cui assunti sottostanti sono:
+
+34
+
+» è possibile circoscrivere i fattori causali alla base di disturbi e de-
+vianze individuali e sociali;
+
+e è possibile realizzare progetti che modifichino tali fattori e così
+prevenire effetti indesiderati;
+
+* è possibile modificare i comportamenti e gli atteggiamenti delle
+persone in funzione di disegni predeterminati.
+
+In altri termini, s’ipotizza che sia possibile individuare nessi di
+causalità lineare relativamente alle problematiche sociali e, in base a
+questi, programmare e prevedere il cambiamento sociale.
+
+Di solito l'utilizzo di tale modello si accompagna anche ad un’en-
+fasi su aspetti connessi all’utilizzo di programmi molto strutturati e
+“strumenti” predefiniti.
+
+L'approccio razionale è stato sviluppato nell’ambito del classico
+modello della scelta razionale elaborato principalmente dalle scienze
+economiche.
+
+Per tale approccio il problema della progettazione può essere così
+formulato:
+
+“in condizioni ambientali date trovare i mezzi migliori per rag-
+giungere obiettivi dati giudicati desiderabili secondo criteri di valuta-
+zione stabiliti.
+
+Queste formulazioni — scrive Lanzara — contengono tutta una serie
+di presupposti:
+
+a) innanzi tutto l’ambiente è predeterminato, ed è descritto da vinco-
+li e parametri che restano fissi nel corso della procedura;
+
+b) si dà per scontato che il problema sia chiaro e non ambiguo, che gli
+obiettivi siano esplicitamente dati fin dall'inizio, e in più siano tra-
+sparenti e non soggetti a interpretazioni; essi non possono essere
+modificati o ridiscussi nel corso della progettazione:
+
+c) i mezzi alternativi — le opzioni di scelta — per conseguire i fini e i
+criteri di valutazione della prestazione sono dati in modo distinto
+dai fini;
+
+d) infine, perché si possa effettivamente trovare una soluzione coin-
+cidente con il valore massimo dell’utilità (o col minimo costo),
+sì presuppone che sia data una struttura ordinata di preferenze
+relative alle conseguenze della scelta, che non viene modificata
+nel corso del processo di scelta stesso.” (Lanzara, 1985, p. 340).
+Una tale impostazione comporta una forte stilizzazione e sem-
+
+E)
+
+---
+
+plificazione delle situazioni che invece “il progettista si trova ad af-
+frontare: situazioni in cui i problemi non sono chiaramente definiti,
+l’ambiente è incerto e confuso, gli obiettivi sono espressi in modo va-
+go e approssimativo, o sono variabili, o conflittuali, o non chiaramen-
+te distinguibili dai mezzi”, dal come si fanno le cose (Lanzara, 1985,
+p.341).
+
+Un'altra caratteristica del modello del problem-solving, che rientra
+nell’approccio razionale, è quello di riferirsi ad un progettista solitario
+e di dare una rappresentazione individualista del processo di progetta-
+zione.
+
+All’interno delle cinque tappe di un intervento (fig.3) questo mo-
+dello considera come cruciale ai fini della riuscita dell’intervento la
+tappa della progettazione: a questa vengono riconosciute attenzioni e
+date cospicue risorse; le altre tappe connesse alla realizzazione del
+progetto si presume debbano seguire di riflesso.
+
+Fig.3. Le tappe del progetto nell'approccio “sinottico-razionale”
+
+|Ideazione — Attivazione — [Progettazione > (Realizzazione> Verifica
+
+In tale approccio, infatti, la centratura è sul prodotto da realizzare,
+inteso come risultato previsto a priori.
+
+È scarsa la presenza della tappa “attivazione”; quando è presente si
+riferisce alla ricerca di finanziamenti e all’attivazione di reti di rela-
+zioni e risorse materiali necessarie all'approvazione del progetto e a
+creare una sufficiente alleanza con il committente.
+
+Non vi sono processi di reale partecipazione dei destinatari o dei
+diversi soggetti coinvolti nel progetto.
+
+Per elaborare il “progetto” inteso come prodotto cartaceo in cui so-
+no indicati gli obiettivi e disegnati tutti i passaggi del futuro interven-
+to, si attivano comitati di esperti a livello nazionale, si tengono nume-
+rose riunioni e s’impegnano ingenti risorse in termini economici e di
+tempo.
+
+La tappa della realizzazione viene posta in secondo piano, dovreb-
+be essere una conseguenza del progetto: l’implementazione, così sono
+chiamate quell’insieme di attività che accompagnano e sostengono la
+
+36
+
+realizzazione del progetto, va monitorata, seguita ma non si sospetta
+che, di fatto, è lì, nell'incontro con i destinatari, nella fase di contatto,
+che si svilupperanno i “giochi” più significativi ai fini dell’efficacia di
+un progetto.
+
+Le alleanze, le sponsorizzazioni ed i processi di negoziazione e di
+gestione dei conflitti realizzati a livelli “alti” assorbono tutte le energie.
+
+Nei servizi sappiamo che “l’ultimo anello della catena” determina
+la qualità del servizio stesso, eppure, ad es., nella formazione spesso
+vengono determinati in modo dettagliatissimo obiettivi specifici, tempi
+di ciascun contenuto, temporalizzazioni, funzioni e macro funzioni che
+dei soggetti astratti dovranno andare a svolgere, pesi assegnati a cia-
+scuna materia-area di contenuto e si tralasciano altri elementi critici.
+
+Con che criteri verranno selezionate le persone, che attese svilup-
+peranno? Chi farà formazione, che condivisione del progetto vi è?
+
+In un approccio di tipo “sinottico” il progetto viene costruito a par-
+tire da una comprensione “a priori” dei bisogni, o comunque estranea
+e lontana dai soggetti “portatori del problema”, e il processo di pro-
+gettazione non viene allargato a diversi soggetti ma rimane una com-
+petenza specifica dell’esperto (operatore, consulente, educatore, ecc.).
+
+La valutazione si riferisce essenzialmente ad un processo di con-
+fronto tra “output previsti ed output ottenuti”, in una logica di ricerca
+dello “scarto” della “mancanza”.
+
+Questo modo di intendere la valutazione è consono al modello che,
+come detto, riguarda attività sufficientemente standardizzate da preve-
+derne gli esiti.
+
+Difficilmente si andranno ad evidenziare i processi di apprendi-
+mento spontaneo realizzatisi tra gli attori in gioco o gli impatti impre-
+visti.
+
+Anche relativamente al concetto di efficacia e risultato ottenuto,
+più frequentemente si verificherà il livello di produttività. Si eviden-
+zieranno indicatori connessi non tanto ai risultati intesi come vantag-
+gi e aumento della qualità della vita dei destinatari, quanto indicatori
+connessi alle attività prodotte (n. di persone che hanno frequentato, n.
+e tipologia di utenza in carico, n. nuovi casi, n. di colloqui, n. di riu-
+nioni...) lasciando implicitamente intendere che il “fare” certe attività
+implichi che le stesse attività siano davvero utili per i destinatari fina-
+li (gli utenti-clienti).
+
+37
+
+---
+
+Un esempio di progetto educativo di tipo “sinottico-razionale” può
+essere dato anche da un certo tipo di programmazione didattica.
+
+Gli insegnanti tra loro riuniti, all’inizio dell’anno scolastico, trac-
+ciano il programma didattico: si tratta di inviduare obiettivi didattici e
+educativi generali, di scomporli in obiettivi specifici (od operativi) ed
+infine, di individuare i criteri di verifica. Gli obiettivi vengono indivi-
+duati “a priori”, in un certo senso a prescindere dalle specifiche carat-
+teristiche sia dei futuri alunni ( e genitori), sia delle dinamiche di clas-
+se che si svilupperanno. Si prevede un percorso rettilineo: non si la-
+sciano porte aperte alle incertezze, alle varianze connesse alla sogget-
+tività, ad eventuali diramazioni nel cammino ed a sperimentazioni
+flessibili, non si accolgono e valorizzano risorse impreviste 0 possibi-
+lità emergenti.
+
+Tanto più il contesto in cui si realizza l'intervento ha caratteristiche
+di complessità, di incertezza e imprevedibilità, tanto più quest’ap-
+proccio risulta inadeguato o fuorviante perché non riesce ad accettare
+le variazioni provenienti dall'ambiente, a modellarsi con velocità ai
+cambiamenti che insorgono.
+
+Detto questo bisogna ammettere che, sebbene sia il meno adatto ad
+orientare interventi di tipo sociale (in particolare quelli che prevedono
+una realizzazione all’esterno delle istituzioni, a livello di comunità),
+tale approccio “piace” e in un certo senso ha successo!
+
+Piace perché è attraente e rassicurante anche per i clienti, i desti-
+natari: è molto tranquillizzante sentirsi dire ‘“se seguirete questo pro-
+gramma di 5 giornate vi aiuteremo a risolvere il problema che vi af-
+fligge, ne hanno già beneficiato altre centinaia di persone”.
+
+Ha successo dal punto di vista commerciale: è ben codificato. È il
+modello “forte” per definizione, è consolidato nella nostra cultura, ri-
+manda all'idea di razionale e di ordine, di cambiamento programmato
+e controllabile: è così consolidato che spesso l’idea di progettazione si
+associa automaticamente a tale approccio.
+
+Le distorsioni dell'approccio sinottico-razionale
+
+Gli assunti su cui si basa l’approccio sinottico-razionale sono alla
+base di una serie di distorsioni frequentemente rilevabili nei processi
+
+38
+
+di progettazione. Analizziamoli in ordine a partire da quelle relative al
+ruolo del decisore ed alla definizione dell'obiettivo.
+
+Il modello razionale assume che vi sia un ipotetico decisore in gra-
+do di individuare il problema, definire gli obiettivi, vagliare le ipoisti.
+che alternative, scegliere la soluzione più adatta. i
+
+Un problema cruciale nell’area dei servizi (e gran parte delle poli-
+tiche pubbliche si concretizzano in servizi) è quello della motivazione
+del personale e della condivisione degli obiettivi.
+
+In una società di servizi colui che eroga direttamente il servizio ha
+un notevole potere nel rapporto diretto con l’utente ed ha un margine
+di interpretazione dell’obiettivo tale da modificarlo o talvolta strato]
+gerlo. i
+
+Ipotizziamo che una cooperativa sociale gestisca, in convenzione
+con un comune, un servizio di assistenza domiciliare per anziani; im-
+maginiamo che il progetto di intervento per ogni singolo anziano è in-
+dividuato dall’assistente sociale del comune e che questo sia poi di-
+scusso con l’assistente sociale della cooperativa. Si avvia l'assistenza
+domiciliare ad un’anziana e due assistenti domiciliari si recano a cior-
+ni alterni per due ore dalla signora. i
+
+Chi decide l’obiettivo dell’intervento?
+
+Prevarrà l’obiettivo dell’assistente sociale del comune, quello del-
+l'assistente sociale della cooperativa, quello del primo o del secondo
+operatore assistente domiciliare, quello dell’anziana signora 0 quello
+dei figli della signora?
+
+In realtà l’obiettivo dell’intervento risente di ancora altri livelli. è
+influenzato dalle leggi nazionali e regionali in materia e dalla conven-
+zione che regola il servizio e che definisce gli obiettivi del servizio nel
+suo complesso.
+
+Non esiste un unico decisore in grado di orientare e controllare un
+Intervento senza processi di negoziazione, co-decisione, corresponsa-
+bilità con altri soggetti.
+
+L'assistente domiciliare ha tuttavia un ruolo privilegiato nell’orien-
+tare l'intervento: se è convinto che quella persona non ha alcuna pos-
+sibilità di mantenersi autonomamente a domicilio, si porrà in modo da
+non favorire il ripristino o il mantenimento delle capacità funzionali.
+ci a Ones de di riv anche Atena le semplici cu-
+
+f a essaggi che rafforzano l’autonomia
+
+39
+
+---
+
+delle persone o che rinforzano, viceversa, i processi di dipendenza e lo
+stabilizzarsi di bassi livelli di autosufficienza.
+
+Questo semplice esempio mette in evidenza come in realtà quando
+parliamo di “obiettivi” non possiamo immaginare un processo di sem-
+plice elencazione e fissazione di ciò che si prevede di raggiungere in
+tempi definiti. L'individuazione di un obiettivo si realizza grazie a pro-
+cessi di negoziazione tra i diversi attori coinvolti (v. fig. 4).
+
+Fig.4. Individuazione di un obiettivo
+
+Mission servizio
+
+Obiettivo assistente sociale
+pe ili
+
+OBIETTIVO ? ) «——T__ Obiettivo parenti
+
+life O
+
+Obiettivo assistente domiciliare
+
+Obiettivo anziana
+
+Esiste, inoltre, sempre uno spazio di interpretazione ed una di-
+stanza tra obiettivo dichiarato e obiettivo perseguito.
+
+La distanza tra decisore ed esecutore rappresenta quindi un punto
+critico: man mano che si frappongono attori diversi, livelli organizza-
+tivi, enti, ruoli e gerarchie tra momento decisionale e momento esecu-
+tivo, tanto più è probabile che si riduca la possibilità di orientare e pre-
+vedere cosa sarà realizzato.
+
+Il nesso tra programmazione a livello centrale e la realizzazione di
+singoli progetti può diventare quasi nullo: gli obiettivi di partenza pos-
+sono essere stravolti e il progetto può essere utilizzato unicamente a
+scopo strumentale per accedere alle risorse, per aumentare la propria
+influenza o per altre ragioni. Così pure il nesso tra progetto e singolo
+intervento può affievolirsi se non vi è una forte condivisione dell’o-
+biettivo ed una vicinanza tra ruolo decisionale e ruolo operativo, tra
+chi definisce un progetto e chi lo realizza.
+
+“Nella maggior parte delle situazioni della vita — e soprattutto
+
+40
+
+nelle organizzazioni — la progettazione è un processo d’indagine e di
+strutturazione collettiva che avviene mediante transazioni e conver-
+sazioni tra più attori in interazione. (...)”. Può darsi che progettisti
+diversi non solo diano soluzioni diverse allo stesso problema ma che
+“non si trovino d'accordo su quale sia il problema. Si deve di conse-
+guenza ammettere che una dimensione fondamentale e costitutiva
+dei processi di progettazione sia costituita dal conflitto, dalla dispu-
+ta, e dalla divergenza tra strategie e soluzioni diverse ‘* (Lanzara,
+1985, p. 347).
+
+Una fonte d’incertezza è dunque rappresentata proprio dai diversi
+attori-progettisti che non hanno necessariamente interessi, obiettivi e
+potere d'influenza coincidenti, il cosiddetto task environment, o am-
+biente relativo al compito, non è un dato a sé stante ma è influenzato
+e prodotto dalle relazioni sociali degli stessi progettisti.
+
+Un artefatto progettuale, il prodotto cioè del processo di progetta-
+zione (ad es.il progetto di assistenza domiciliare sul singolo caso), è
+sempre la risultante di una serie d’interazioni tra i diversi attori impe-
+gnati in tale processo. Com'è definito un problema, ed anzi quale pro-
+blema diventa oggetto d’indagine e quale no, ha a che fare con i tipi di
+rappresentazioni e i tipi d’interazioni realizzate tra i diversi soggetti.
+
+Un altro punto critico presente nell’approccio sinottico-razionale è
+l’assunto che sia possibile sempre effettuare una comparazione tra le
+diverse opzioni o strategie e scegliere in base ad un'ipotesi di massi-
+mizzazione dei benefici.
+
+Nei casi in cui il settore d'intervento è ancora “immaturo”, come
+poteva essere una quindicina di anni fa l’intervento per le tossicodi-
+pendenze e come può essere oggi il problema della creazione di nuo-
+ve forme di lavoro, il decisore in realtà non possiede ancora adeguate
+conoscenze per individuare le metodologie d’intervento più efficaci.
+
+In questi casi è fuorviante identificare tutte le tappe della progetta-
+zione lasciando pochi spazi di sperimentazione, di verifica e cambia-
+mento lungo il percorso.
+
+L'approccio sinottico-razionale non aiuta a pensare il progetto co-
+me uno strumento flessibile capace di adattarsi lungo il processo, di
+riorientare i processi decisionali, di definire a tappe successive altri
+elementi; ci si aspetta che il progettista-decisore debba in un certo sen-
+so predire il futuro e permanere nelle proprie scelte.
+
+41
+
+---
+
+Approccio “concertativo o partecipato"
+
+Dall’approccio “concertativo” derivano i modelli di progettazione
+partecipata.
+
+Quest’approccio si muove da una critica dell’approccio “sinottico-
+razionale” in quanto tale modello ha tralasciato proprio la dimensione
+processuale, il livello dell'interazione sociale ed il livello cognitivo ed
+emotivo.
+
+Considerare la dimensione dell’interazione sociale ci rimanda — se-
+condo Pozzobon (Pozzobon, 1994) — alle questioni del “punto di vi-
+sta” e a quella del “potere”.
+
+“La prima questione sottolinea la necessità di tener conto del fatto
+che durante il processo di progettazione interagiscono diverse pro-
+spettive da cui si definisce il problema e si struttura l’ambiente in mo-
+do non sempre coincidente (...). Ciò si traduce in una serie di interro-
+gativi del tipo: chi definisce le risorse e i vincoli? Chi individua le stra-
+tegie? Chi realizza concretamente quanto stabilito? A chi serve e chi
+deve effettuare la valutazione?
+
+In stretta connessione con questi problemi si colloca la questione del
+potere. Il processo di progettazione appare, infatti, costellato di decisio-
+ni che ne orientano il corso successivo e che sono anch’esse frutto di
+processi di negoziazione condotti tra i diversi attori implicati in funzio-
+ne della loro posizione nell’organizzazione” (Pozzobon, 1994, p. 14).
+
+Le decisioni sono di diverso genere — strategiche, operative, ecc. —
+e i diversi attori hanno potere di influenza diverso sul tipo di decisio-
+ne a seconda del proprio ruolo e posizione organizzativa.
+
+L'approccio cui facciamo riferimento quando parliamo di “approccio
+concertativo-partecipato”, e cui fanno riferimento Pozzobon ed altri au-
+tori, rappresenta un insieme piuttosto eterogeneo di impostazioni teori-
+che provenienti da diversi ambiti disciplinari che condividono l’assunto
+secondo il quale la conoscenza non si basa sulla corrispondenza con la
+realtà esterna, ma sempre solo sulle “costruzioni” di un osservatore.
+
+Non trattandosi di un approccio fortemente codificato diversi au-
+teri utilizzano terminologie e definizioni non omogenee per identifi-
+care o sottolineare aspetti diversi di questo approccio alla progetta-
+zione. In un recente articolo riferito alla progettualità come produ-
+zione di inter-conoscenze o anche “progettualità dialogica” si affer-
+
+42
+
+(2
+
+ma che: “...un modo per affrontare l'incertezza, l’ambiguità e la
+frammentazione che attraversano i contesti lavorativi è quello di atti-
+vare una progettualità intesa come processo di comunicazione volto a
+produrre conoscenze intersoggettive contestuali. Tali conoscenze de-
+vono offrire la possibilità di costruire dei significati almeno parziali
+delle azioni o delle decisioni intraprese” (Brunod, d’ Angella, Orseni-
+go, 1998, p. 37).
+
+Siamo abituati a pensare che la realtà può essere “scoperta”. Il co-
+struttivismo, al contrario, sostiene che ciò che definiamo realtà è un
+costrutto personale, un’interpretazione, un modo particolare di osser-
+vare, spiegare e rappresentarsi il mondo che è costruito attraverso l’e-
+sperienza e la comunicazione. Secondo tale approccio la realtà non sa-
+rebbe scoperta ma “inventata” (Watzlawick, 1988).
+
+Sul piano del processo di progettazione le conseguenze sono che:
+e il problema e l’ambiente non sono dati a priori come fatti oggettivi;
+e il processo di interazione tra i diversi attori coinvolti nel processo
+
+di progettazione prosegue in tutte le sue tappe;
+
+e pur condividendo un impianto logico comune, ogni attore continua
+ad essere portatore di aspettative, presupposti cognitivi, posizioni
+
+di potere diverse e ad avere ampi margini di autodeterminazione e
+
+negoziazione.
+
+In questo secondo approccio si parte da un’ipotesi di cambiamen-
+to di una data realtà che è confrontata, negoziata, concertata con i de-
+stinatari; troviamo, infatti, che rispetto all'approccio precedente, vie-
+ne data maggiore rilevanza alla tappa dell’attivazione (fig. 5). Le frec-
+ce nei due sensi tra una tappa e l’altra indicano che esiste un’influen-
+za reciproca tra le diverse tappe.
+
+Fig.5. Le tappe del progetto nell'approccio concertativo
+
+Ideazione | +|Attivazione| 7. | Progettazione |2.| Realizzazione Verifica
+
+il
+
+Nello schema viene rappresentato, in modo più dettagliato, il per-
+corso di un intervento realizzato secondo un approccio concertativo.
+Si tratta di una rielaborazione di modelli di progettazione utilizzati
+nell’ambito della progettazione di interventi di prevenzione delle tos-
+sicodipendenze (Regogliosi 1986, 1992).
+
+43
+
+---
+
+Percorso di un progetto di intervento
+realizzato secondo un approccio concertativo
+
+1° tappa: Ideazione
+Iniziativa interna al servizio:
+e Decodifica delle motivazioni
+e. Analisi delle relazioni
+e. Analisi dei dati
+Se viene accolta una richiesta esterna:
+e. Decodifica della domanda
+e. Analisi dei dati
+
+2° tappa: Attivazione
+
+e Consolidamento e allargamento della committenza
+Prima lettura del contesto locale
+
+e Definizione del “contratto” tra i diversi soggetti: ruoli e funzioni
+
+e. Analisi del bisogno
+
+e Analisi della comunità locale (storia e cultura locale, profilo demo-
+grafico ed economico ecc.) e delle relazioni tra i soggetti interessati
+
+e Individuazione di ipotesi comuni di interpretazione del disagio
+
+e Individuazione delle finalità di un intervento e dei destinatari
+
+3° tappa: Progettazione
+
+® Stesura di una prima bozza di progetto
+
+* Condivisione tra diversi soggetti coinvolti della bozza di progetto
+e Stesura progetto definitivo
+
+4° tappa: Realizzazione
+* Realizzazione dell'intervento
+
+5° tappa: Valutazione
+e Verifiche periodiche del progetto
+e. Riprogettazione eventuale di ulteriori interventi
+
+Come si potrà notare, la stesura di una prima bozza del progetto
+rappresenta, in un approccio ‘‘concertativo”, solo una tappa del per-
+corso complessivo e non il momento iniziale.
+
+Nel prossimo capitolo analizzeremo più in dettaglio le prime tappe
+della progettazione esposte in questa tabella, tuttavia, per quanto ri-
+
+44
+
+guarda ora il nostro discorso, si osservi come una serie di elementi co-
+
+stitutivi di un progetto diventino oggetto di analisi e condivisione di
+
+più soggetti promotori del progetto.
+
+Alla base di questo approccio c’è la convinzione che:
+
+- i “problemi” sociali non sono caratterizzati da una causalità lineare;
+
+- esistono sempre più letture dei bisogni e più ipotesi interpretative;
+
+- il ruolo dei servizi e degli operatori non è quello di distribuire ri-
+cette e soluzioni ma di aiutare ad “aiutarsi”, quello di promuovere
+empowerment a livello di individui e di comunità;
+
+- le persone hanno grandi potenzialità e sono in grado di auto orga-
+nizzarsi, di attivare risorse e di impegnarsi in azioni e progetti del-
+le/dei quali sentano l’utilità ed il significato.
+
+Questo approccio rifiuta una lettura dei bisogni dell’utenza “a prio-
+ri”, un’interpretazione tecnica non condivisa da parte dei destinatari.
+L'interazione tra i diversi attori impegnati in un progetto caratterizza
+tutte le tappe, da quella di attivazione in cui si costruiscono ipotesi
+condivise di spiegazione e interpretazione dei fenomeni a quella vera
+e propria della progettazione, in cui si individuano insieme alcuni
+obiettivi dell’intervento, a quella della valutazione, in cui si verifica-
+no, secondo i punti di vista dei diversi soggetti, i risultati.
+
+Scambiare e confrontare le reciproche percezioni del “problema”,
+confrontare i dati in possesso sulla cui base gli operatori esprimono
+dei giudizi e definire con chiarezza i ruoli e le funzioni di diversi sog-
+getti coinvolti in un progetto, sono alcuni passaggi indispensabili che
+si collocano a monte di un progetto.
+
+Fa parte di questo approccio il modello di progettazione a cerchi
+concentrici elaborato dall’animazione socio-culturale (Regogliosi,
+1986: 1997).
+
+Il modo e il momento in cui coinvolgere esplicitamente — in molti
+casi lo sono, di fatto, a prescindere dalla volontà del progettista — altri
+attori nel processo di progettazione non sono indifferenti in questo ap-
+proccio.
+
+Ciascuno dei soggetti facenti parte della rete dei servizi potrebbe
+essere coinvolto nel progetto sin dalle tappe iniziali o solo in seguito,
+a progetto avviato.
+
+Il momento e le modalità con cui coinvolgere altri soggetti sono
+cruciali ai fini della riuscita di un progetto; talvolta prevale una prati-
+
+45
+
+---
+
+ca di lavoro per compartimenti stagni che spinge gli operatori a consi-
+derare come risorsa solamente 11 proprio lavoro “diretto”. Le persone
+vengono chiamate a collaborare sulla base di progetti predefiniti,
+“chiusi”, senza spazi di contrattazione, sulla base di scelte già fatte.
+
+Avere un ruolo attivo all’interno di un progetto significa necessa-
+riamente, almeno in parte, co-progettare, essere partecipi anche nella
+elaborazione di alcune scelte strategiche od operative, senza confon-
+dere l’acconsentire con un partecipe coinvolgimento, la collaborazio-
+ne con l’adesione.
+
+Co-progettare significa attivare confronti e negoziazioni, ma anche
+allungare i tempi di una decisione, superare situazioni di stallo, gesti-
+re conflitti e dinamiche di potere tra servizi e persone, rinunciare a di-
+segni lineari e preordinati, stabilire ruoli, funzioni e modalità di coor-
+dinamento.
+
+Approccio “euristico”
+
+Nell’approccio “euristico” (da eurisko= ricerco) si rinuncia a con-
+seguire degli obiettivi predeterminati a monte dagli operatori-proget-
+tisti.
+
+Esiste un fine, un’individuazione di strategie, uno specifico conte-
+sto e poi esiste un processo condiviso di ricerca partecipata attraverso
+cui si definiranno, con i soggetti, “destinatari”, obiettivi specifici, in-
+terventi e ipotesi trasformative più mirate.
+
+Mentre l’approccio “concertativo” realizzava una progettazione
+flessibile in cui si definivano alcuni obiettivi e altri rimanevano “aper-
+ti”, questo terzo approccio non individua proprio obiettivi specifici a
+priori.
+
+L’assunto alla base di questo approccio è che la centratura sul ‘pro-
+dotto”, sulla riuscita di un risultato predefinito può indurre a porre in
+secondo piano l’attenzione ai “processi”, ai modi con cui si realizzano
+le cose, al come e cioè ai reali risultati di un intervento sociale.
+
+Altra motivazione alla base di questo approccio è la constatazione
+che molti progetti pensati per “aiutare” hanno prodotto effetti indesi-
+derati, dipendenza degli “assistiti” dai servizi, assistenzialismo e squa-
+lifiche dei destinatari stessi.
+
+46
+
+È a tutti noto il processo di “’etichettamento” che si realizza nel mo-
+mento in cui un servizio socio-educativo esplicitamente e pubblica-
+mente si rivolge ad un gruppo di ragazzi “deboli”: tale identificazione
+confermerà e svilupperà identità negative, svilupperà appartenenza a
+sottogruppi sociali emarginati ed emarginanti e rischierà di preclude-
+re l’instaurarsi di relazioni sociali tra pari e con altre figure adulte ba-
+sate sulla reciprocità.
+
+Molti progetti pensati per contesti marginali hanno continuato a ri-
+confermare modelli emarginanti.
+
+La spiegazione di tali effetti indesiderati secondo molti non va ri-
+cercata nell’inadeguatezza del progetto o nella sua scorretta realizza-
+zione e applicazione ma nello stesso modello di progettazione; in altri
+termini nel modello di cambiamento sociale implicitamente assunto
+dai responsabili del progetto.
+
+Questa è la ragione per cui, in alcuni progetti di intervento nel so-
+ciale, vengono scelte delle metodologie, come la ricerca-intervento
+partecipante, che privilegiano proprio processi di tipo partecipativo, di
+sviluppo della conoscenza, piuttosto che la raccolta di dati fruibili s0-
+lo da pochi esperti.
+
+Fig.6. Le tappe della progettazione nell'approccio euristico
+
+7.| Progettazione 2.| Realizzazione 2. Verifica
+
+1
+
+7. |Progettazione| | Realizzazione Ti Verifica I
+
+Ideazione|-+ | Attivazione
+
+L'approccio euristico (v. fig. 6) pone al centro del processo di in-
+tervento nel sociale la tappa dell’attivazione; la progettazione di uno
+specifico intervento è intesa come prodotto di percorso e non come
+luogo di partenza. A seguito della tappa denominata attivazione pos-
+siamo constatare che possono svilupparsi molteplici sotto-progetti.
+Come si può osservare dal grafico, possono svilupparsi diversi nuclei
+progettuali tra loro connessi, caratterizzati da un proprio percorso di
+progettazione, realizzazione e verifica.
+
+Il primo progetto realizzato secondo un approccio euristico lo co-
+nobbi quando intervistai un’esperta di cooperazione internazionale
+
+47
+
+---
+
+che per un'ONG (Organizzazione non governativa per la cooperazio-
+ne internazionale) aveva lavorato oltre 10 anni in Burundi (v. scheda
+capitolo 2).
+
+Le chiesi un'intervista sul tema della progettazione e poi le propo-
+si di rappresentarmi graficamente il concetto di “progetto”.
+
+Si trattava di un espediente che mi aiutava ad esplicitare la ‘“map-
+pa cognitiva” esistente su quel concetto. Lei prese carta e penna, trac-
+ciò una lunga linea continua e dietro al foglio pose la parola: “proget-
+to”. Mi spiegò in seguito che era molto contrariata e che secondo lei
+molti progetti si erano rilevati poco utili.
+
+Si riferiva ai progetti calati dall’alto, irrispettosi delle comunità e
+pensati secondo logiche meccaniciste. Secondo la sua esperienza di
+cooperazione internazionale, un percorso di attivazione di una comu-
+nità locale doveva nascere da un percorso comune di analisi dei biso-
+gni e delle risorse a seguito del quale potevano prodursi dei micropro-
+getti, basati sulle iniziative che autonomamente la gente in loco orga-
+nizzava.
+
+Negli ultimi anni in Italia sono stati realizzati diversi progetti che,
+a partire dall'analisi dei dati relativi ad un certo fenomeno (ad es.: mi-
+nori in difficoltà), intendevano promuovere una presa in carico da par-
+te della comunità locale dei problemi di alcuni soggetti (ad es.: sog-
+getti in età evolutiva). Una di queste esperienze è rappresentata dal
+“Progetto nazionale per la sperimentazione coordinata di progetti ado-
+lescenti nel mezzogiorno” promosso dal Ministero dell’interno (Mini-
+stero dell’interno, 1994) e dalla Fondazione E. Zancan.
+
+In tali esperienze l’elaborazione di specifici progetti di intervento
+rappresentava una delle ultime tappe del processo.
+
+La prima tappa di questi progetti, che utilizzano una metodologia
+partecipante. di solito consiste in un'analisi condivisa del contesto,
+delle risorse e dei dati relativi al disagio adolescenziale. La tappa se-
+guente riguarda l’individuazione di ulteriori soggetti ed istituzioni da
+coinvolgere affinché la comunità si faccia realmente carico dei bisogni
+dei soggetti in età adolescenziale e l’avvio di un processo di coinvol-
+gimento a partire da riflessioni e confronti sulle diverse “letture” del
+disagio presenti nei servizi pubblici e del privato sociale.
+
+Solo in seguito, di solito, si realizzano scelte operative, protocolli
+di intesa tra istituzioni e si avviano specifici progetti di intervento.
+
+48
+
+L'ipotesi sottostante a tale impostazione è che fare prevenzione si-
+gnifica “ridare dignità al contesto” e valorizzare le risorse informali e
+formali presenti nel territorio.
+
+Anche se tracciate in brevi linee si può notare che il contenuto fon-
+damentale di tali esperienze consiste nella rilevanza data alle fasi di ana-
+lisi del problema, del contesto, della comunità ed alla presenza di ricer-
+che basate sulla metodologia della ricerca-azione (action-research).
+
+Quando il successo di un intervento dipende dalla mobilitazione di
+iniziative della popolazione o dall’operare integrato di molteplici sog-
+getti organizzativi, per loro natura poco connessi tra loro, allora il pro-
+getto inteso come strumento di una razionalità lineare, risulta ineffica-
+ce ed anzi gravemente disturbante.

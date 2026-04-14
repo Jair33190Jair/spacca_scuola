@@ -1,0 +1,284 @@
+Metodologia
+della progettazione
+educativa
+
+Competenza, strumenti e contesti
+
+Andrea Traverso
+
+Carocci editore (@ Studi Superiori
+
+---
+
+1° ristampa, novembre 2016
+1* edizione, gennaio 2016
+© copyright 2016 by Carocci editore S.p.A., Roma
+È; le) .,
+
+Realizzazione editoriale: Progedit Srl, Bari
+
+Finito di stampare nel novembre 2016
+
+da Grafiche VD srl, Città di Castello (PG)
+
+ISBN 978-88-430-7939-I
+
+Riproduzione vietata ai sensi di legge
+(art. 171 della legge 22 aprile 1941, n. 633)
+
+Senza regolare autorizzazione,
+
+è vietato riprodurre questo volume
+anche parzialmente e con qualsiasi mezzo,
+compresa la fotocopia, anche per uso interno
+o didattico.
+
+---
+
+puro
+
+LII
+
+vanisodsa EZzaIeIyo e] tu ‘(on19801d un Ip aUoIzem]tA ? auorzenuassId
+eau Epiouy tImDLIOS E]PP enpenb e] aypue ammddas) orme 3 enILIO9
+SEIUINI CIMINNIOS PUN AIUIUTE]OS OUTETPUIIUI UOU IU 9IATISS, 191
+‘a19piatpuo? ond/a49p IS 0] tend 1 U09 010]
+-09 è ‘aus mIo duros ‘o LIOItan]UA Ipigissod © 0n9801d | apiqmiz apuoi
+‘olTepuozas UOU ‘I iprenSen Ip > sLTOnaTEN 9]PP auorzen9I]dsa pe ‘ez
+-292919U09 efje 0591 apennaSo1d oddnjras oun 9[qissod apual 1IAn191Q0
+1] aU9q 319AH9S ‘OANEINPI 0119301d uonq un a19nSUnSIpP dA9P 3YP VI
+“1921 eapend e] 19d aypUE CUI ‘0119801d |9p FUOIZEM[EA 3 FUOIZEZZI][B3I
+IP IUTUII9I UT OUUEY 1SSO dYP EMPrOL tY 19d 0]OS UOU ‘[eIlUdI IUIOI
+331919 1A MI91GO 1]Î9p ewtdI 1 310N198 Ip EMICI9N] |P istjeue Je
+‘(p191) «omuawmpuordde rp rut=II9I UI nunisZea neInsi
+1 9TEIMSJUI Tp 704204552552 TP SAVIO UI 3 a]en219S01d cIepurui je onadsi
+©ZU91O1YJI pa EISCSNO IP I[[PAI] SIENPIAIPUI IP COYHSA IP DAETYI UT ‘93
+-enSape cos LOU 0 OUOS INOPUOI TUOIZE 3] 9$ aida Ip ‘0138110 UOLI
+Ip dAETYP UT ‘OpuzzUIsUoI 0SS9901d [3p BApijeA E]je OIIAUI UT LIOIEIIPUI
+QUOISIUIOF> 1Am191go 18 oquend ul tAnEINIEA FUO:ZUMZ PUN ‘9UIFU]
+‘aZU9pat9 aLido1d 9] aTtIOIUE MO è TDUEIOCUIII TYIIE.NIE FUIO9 1ANI9]GO
+1]8 ezzijnn ‘a[euoIs199p 21930d c2sanb Ip mana ur ‘9 319pioap 3AIP ©3512298
+-o1d ql (219?) «0n9S01d ji auttII9I © axezIod 3 SYPNTI IUOIZENNS E 33
+-UO1] Tp dITUIAIDIUI IUIOI 31IPIOIP 1ad nn AuozenITo1do19ILI Tp ast]
+e]> 10d 01892ens /31S0]opor9w 9] ‘osIosuI 9] “dura 1 opuruseduosoe
+‘0s9IdENUI 0S109I9d [I OpuestpuI tI]osse 9 a[euoIsi9ap FUOIZUNz PI
+‘(P191) <IQUIE MO]e UT PILIAAE I]rUIS Ijen19So1d 1UOIZE è 0IUOIY
+‘09 UN 19d 3 VALAMIE 3][Pp SUOIZEIUIUMIOP tI] 1od a1erYo IUOIZELLIOJUT
+OpUdUIo] 2IUIUIEUI9ISI LIS ‘visodord vaname app 10g1ads 1119880 131
+ogaw UT TUOTUIdO 3][ap cIUOIFUOI JI 9 919$19U19 ] assAonwIOIÀ Ip opeis
+UI FUNWIOI CISM UT OUSTI9I UN OPuzUIoJ (1[PAT] ISIBATP È DJOAUTOI
+11037? ISIDAIP 1 LI) AIUIWUEUIIIUI VISD on9Z01d [ns sUOIZEN UNO? IP
+AUIIO] SIEANIE PE F9SMQuIUoI ‘F99AUT ‘CANEITUNUIOI 3UOIZUN] ET
+(Pigi) « 1aneoiusis oddnias tp Ipou te ouITONIE 1jennaSo1d ruoIZE 9]
+OPuzUzIUOI 3 OPUEZZITPUI ANBIMPa TATUMIIO9 V| SAONUI 1$ IN> OIIUI LIO]
+-BA IP SIUOZZIIO |> ATENPIAIPUI è OUEMIE TAIM9IGO 18 ‘oseo owmid PN
+*CADUM]EA 3 9]eu
+-OISTOAP ‘PANEOTUNUWIOI ‘PANEIUILIO (OT-617 ‘dd ‘7107 “Ie IIAJ ‘S) QUOIZ
+“un eun è ouoA]osse ‘ofenn1aSo1d eonty tun Ip OUI9IUT [e ‘1A19199 ur)
+
+1ANIIIGO qò DIDALIOS 3 ITEUOISUIMUTP ‘O IVITNUIP]
+TS
+
+IAILVONCA INDOSIAI A VLITVNIA AT TUVOLILNICI ‘$
+
+---
+
+GII
+
+(AIVIDOSSE ISSI È EIS9ICNIS V] > ENAIME ]
+fUOIZE ] IU prao oddon eI9IuetI UT AIELTETYOLI UOU tod OSIBALIME,
+<9ITUIEI, SUIOI Iegioa IuoIssoIdsa alezzijmn uou o1[8aur aqqpgies (7
+
+:(9-+8 «dd ‘6007 ‘eueiddong) muown9Ss8ns runI[e dIep
+apigissod 2 ‘oonsmSur ans o] ELIO è[[e 3nJo ‘epren$u omuend 19q
+‘(amigeanjea eInany e] 2) enqigisuoid
+-UO9 ESS9IS E[[ms Impreoli ey 3 TuezoId 1Y950 © oursIad 23uUapiao quod
+3 07192 ji 3 0IemUassId 0AmI2IGO OWwtId | èII EZUITZIIP VT ‘0SS999NS Ip
+DIOIETPUI ][Ip ezuesuetI e] 19d a (041M39IGO,[]9P auoIsuaIdUIO9 3 èINI
+-29] TP E21I9Y} E] 219NIWOIKUIOI 349 UOU 3YI) 0IS9I [IU OIUALULIASUI, p
+ta]ootzzip e[[op esneo è cIsanb :oquounSuniSSe1 pi eoidsne su as ajenb
+i omua oduwoi [ap suoIssaIdsa | tIUELI 1AN19IGO 1]3 on 3 Mm U]
+‘OILIZUEISOD.II) OPOUI
+ut 3 FUIT 2101$St1 UOI cUTEUIJAP LHorepur 1] 3Y9 antosouo?
+LIEUIIS E 2IUO LUCIE OUEPUELULI aredoned, 3 2renoddns, 1194 1
+‘999AUI ‘TAMIATGO aNp 1nje 1[B9p ost> JPN ‘(OU/1s OLTEUIq 0IISI UM dIezzA
+“Odi 3]Iqissod CUI LUILIAUI 2 UOU FUOTZEMULIOZ EAU 3 OSSIIINS IP 310IVI
+-IpUT ] IFIZUAPIA? Q UOU) BAfIGUINSIUI Ip ‘(e>NsIUIOP FUOIZEMPI IP
+EIIANIY  MOIdso 22S9IYONI ene IS SOI Ip :3uoIzeluasdIddeI Ip vato
+-OATUN BUN E PpUELUTI UOU 3 EZUIPIAI BIETYI IP 2 UOU 3IE2NDA][OS,, OQIIA
+TI) vaot[duras è EzzaTeIYyo IP NUIUT]P OUEIUELI CAMIZIGO owrid |y
+‘(1° VI) LUVWS taniadsord e] opuosss IAN
+-29190 1YPOd asEzzI[eUE pe OUTETAOId 3UOIZEINIIISI IUUOI IIUILUT]OS
+‘eUEq UOU LIZIIUOI IUOISTA 3 0SS9901d [pp 0][onuoI ‘ezzajoA9desuo9
+Ip OtZIOI9SI UM 9 9II1I9S9P tIdos IYPNSHNEIEI 3] UOI 0AMI9IGO UN al
+-enpiaiput ‘eamadso1d epuosas tun Ut ayoue Apuonje, ‘9198|oAs ep
+EIAMIE IP OAMESIPUI 2IUIUICAISN]9SO O OAMIMPII ‘ossa]dwio9 01Z191953
+un IsTejpALI Qnd IMVINS 1AMI9IGO UT QuoIzEITI[duaso po suorzeid
+-tr9s 010] €] Ipumb 3 o]Yod 0Ijè Ip I]ELIO]EA TUOISUIWI]P è OJUILILIOS
+-n1 arduras OUUE] 1AIN2IGO 1[$ ‘IUOIZE]91 aus af]op ‘tata ens E[op mmadse
+TUM9]E Ip ‘cus ue IOduIO9 Ons JPp ‘tuosiad [jap 1uOIZIpPUO? 3]ppp 03
+-UawuEIO]]S n [ap 310A€J UT Opueiado ‘o3t] Un EC ‘OIUPAI9IUT [[AP ESS9IS
+tImIEu Eppep eomso nId Es9I 9 (FOOT *E[joseyy MIO] ‘0661 ‘s811g ‘9u8
+cen) (6g61 SroSepyy (SL6I ‘SoyPIN ‘ST[OYPIN ‘£961 “ala]pq ‘T961 Spa
+-edry) suoIzeonpI Ul 1AMI9IGO 13 UOI 3IVIOAY],, IP vI]OIHFP ET
+‘(tewI “ea]oa aYpfenb ‘siduwas ordwiasa pe) ezuonb
+91] p a]eos ‘Loumu ‘penzuasiad Ip osn ] uo3 amddo ou/ts oJapuodsu
+ossod 1enb afpe ruo1zenas ajponbd ‘ouoprose uou/ouopeost 349 NUA?
+1]$ MINI 0$S999NIS Tp LIOIEIIPur QUOG ‘ajiqiSuniSSeI (231uawIEMSI[ta1) èIS
+3Y9 a alapesse essod 03119dst IU OI 9YP ATI :0IUIUILIAJII IP piepueas o]
+
+TATLVONCTI INDOSITIA VLITYNII IT AUVOLITINACI ‘6
+
+gII
+
+opueatoidsa ‘TA1maIgo 18 oremsitU È tante 1uI 9YS cAntInUEnD c1U9wI
+-9]9.] FUIOI AfrqroynuapI 3? (T007 ‘alesag ‘6661 SEO ‘6661 «mez
+‘9661 ‘UIOY ‘#661 quimy ‘0661 an] (0661 LIM) 2I0IVIIPUI ]
+‘ojen310S01d 3 cAntInpa 31181 odord ms 3uOISSA]II
+Tp 9ULIO] 19A OIUILUTIAZLI SUTOI 0IEZZI[NN 3I9SSI ond ‘eameogiu$is ou
+-19.1N[e CIOTUEUI UI “Eu (SUTUTI9I OSUN] è 1AMI9IqO 19d ayoUE UOIZENPUI
+Ijea © 1s1Odsa aftomgpip uoq 3 AreuiseitIi qnd Is aUI0I uorzinpa ur)
+aeuoIsIAdId varoeded E[]ap eoIgiIoA IP 0IUITINIS Ep a2UIUIROS uou 38
+-UNJ ‘OSS3INS IP FIOIVPUI [PP Efponb attico 1809 UOIZENPUI EI
+‘Muni BEI OUUELIAA 1869 9Y9 apoagId Is M5 UT odutaa [Ir aYPUE ELI ‘11029
+-Tpur TANE]9I 1 UOI 319$UNI8SEI ep 1amI9Igo 173 orepur mUIUOS uou
+IQGIIAOP ‘TIDEpNE Ip asop è2199 tun è 3 eoISOSEpod ezuordes e][e “ezuoni
+-adsa {re isopuepige ‘easniaBo1d [] ‘(1) odura: pu a]Iqea0][03 219559 (a
+‘ezuaua1Iedde
+Ip E2IUNUIOI E[[Pp ouImUT Je vIou3S civ unSUnIF SEI ons pi 3YP 19IPU
+-9Q TEP 3 EZZAIIIIUOI E][Ep ONNIAFUOI 9 FI[ESI IP ONVp ns [] ‘OQUIWILIAZII
+IP [EIDOS 0IS9IUOI JU IITIAjFE 3 OIBUOISUIUIPONOS O OIVUOISUIUMPEIA
+-OS 3lassa eZuas iqiSuni$sea IU UICATIAJJS ‘(U) 0ONSITESI 219SSI (P
+‘9|eLIO]eA 9 o[eIma[no ‘ajeros O[[oAj] © aigeordsne ‘tpumb ‘9 epoautoo va
+“TUNUIOI E[[Ep IYPUE OSTATPUO9I 319869 ESSOd 3YP 0AMI9IGO UM Tp osuss pu
+LIS AJIQUZZI]EaI 9 afrqiSunisSeI rp osuas ppu eIs ‘(v) ajiqeordsne a1assa (2
+‘(QUOIZEN[EA0INE Tp 1889901d aTtAmIE Tad ayouE apiqezzinn) au
+-OISIAdId Ip OTZIOIISI UN 3 0ATMNIAIGO ][Pp NMUOIJuO9 TU 0919 UT esoTd
+©] SUIKSI CANILITIUSIS CIMUBILI FUATA IYI IIOIENPUI JP IUOISIAIPUOI
+€] SUOIZENIBOId IP ast} Uf ‘EDIJIDA IP FUOIZIPUOI SUOI ELI ‘OUISIDIU
+-392 Ip 0$$2999 Ip o tANTONPa pIIiqUIuoI, Ip 0IUZIUI UN UOI AUIUIYOS
+UOU “E IMSIUI Tp IDTPUI 3 LIOTEDIPUI Opuezziznn (1) ofrquansit 21989 (4
+‘(osso59ns [e n10d 349 ossa901d un aIez
+CZI]E9I 9 SIDALIOSAp Tp a9uEYo nid oy 3193UNI8St1 01804 es09 ezzaIeryo
+LOI OS 35) ONEJSIPpos 319589 Ip taljigissod 210188tu eun ayoue areu
+-1ULI9I9P ‘O Mjout ‘aqganod ezzorenyo ens ET ‘3IEIUOIYE APuozuI Is 3YP
+EW9[qoid 3uOIZen:Is E[[ap o a[enniaSord tapi [pop cmuswIpuojordde mm
+ep ossads tALIap taoI[dwros e] ;,19IU991 UOU, 1 aYoUE ‘IONI rserspend
+È aTIQISUAI CLIO 3 IUOIZIUIFAP ENS Efpou orEIY9 ‘(S) soduros 319559 (7
+19QgoIAOp ‘ari a19sso 1ad ‘pub <(g007 ‘poon
+-259A\ ‘Foo? Dprury Tauaary ‘561 Tp) IIYWS OATMIIgO UN
+‘ajesoduroa easta Ip
+2und Jep RIUIJIP 319869 OUESSOd 3Y9 VISSIIIU E[Ep 3 VIIPIISI]eAI t21]1q
+-eoidsne “vaigeinsiui «t2191]duras ip rdivunid ep tae]oSa1 *tamorgo 11$5p
+
+VALIVONTI INOIZYLIIDOYd VITIA VIDOTOCOLHIN
+
+---
+
+ICI
+
+‘IoAUIO5 2 ISIMI
+
+UI FUOIZENAS TP 9 euosiod SYPIISLIINIVIVI TP ast ©][ns IjiQUULA c1eduo> osIUnN
+Un 2UIO3 ISUIG ‘eannaed CIITUELU Ul O auIwLIE]OSuts TIZIOpIiSsUo? 219S$9 QUOAIP uou ns
+
+“1p visanb ip omuawrEIZUAI0d ]] ‘0AIMI9IGO 3 FUOIZENIIS ‘eur9|qord/ous
+“ostq osta janb ur :1rejoBuenn ammim ns J9d anonuw js PANEINPa IUOIZE |
+‘(100120]94 2]]2u 019304d 71 :1959109 1 24v2ZI]DUp”) ajenn1oS01d ezuarsd
+“UO E[[PP FUOISUIISI EUMIC Eppu al9poA cmod ei owerqqe awd
+
+1A}39IGO 3 azuAIadwIO9 È mopoid a
+ewId[qord ruUoIZEDIS 21eS9]jod5
+£S
+
+‘(091 ‘d ‘6007 ‘e[piedeg) «tanEtIO] tisodosd [pp ouIs2uI Je
+muas9Id eZUI1309 IP IUOISEI a] MUIPIAI QUOPUII 3 OANIIIGO UNISTIO È
+ezueuSaId 2101$SE11 0UOISI1IFUOI YI OSUIS TP IUOISSIUUOIIIIUT Ep 3UI
+-9ISU] IINUII [PANEONPI O] FANVULIOJ TUOIZUAIVI Ip rjoddes3» :427577) UI
+Ipreddn188e1 aigissod 3 ‘(orezzifenpiatpui cantonpo on9801g) Rd un
+o eimamns eun Ip caneompo 019F01d un 059 tIS ‘OIOAY] Ip ouerd [op
+
+lE I lee]
+O11031119I Ms
+
+OIUSAI/IUOTZETDOSSE  NUISIS Iemamno 3 sanIods ‘I[e1pos ‘9Y9
+Ip eiojodn run cuzwITE Ip ajeuewmmios  -Ipu] varumizoddo 9] a1tzzIgun 3 ajerDos
+OMUODUI UM OUILUITE pe aledipalIeg  RATUMWUIOD. E[PP_taA èIe a1ed19911eg
+
+OLIOINIT9I [PP ApuUolze pe
+OVIUA UNnILLIMI anburo QUIUIE SIGIAU]
+01
+
+-0At] Ip oinbo][oo un cuaumge 2198]046
+OIUIUIEI  OIOAR]|PP OPUOLU pu DIUFUITTSSUI 2jeni
+
+CUALIO Ip onuooz>uI un QUILITE 919$[04 -U9A9 ]]E 2 ONIIUICIUOLIO, [[E arenioddns
+
+ozu2n 3|PPp
+
+cIuIwIeSed jpp azuapros app omadsni
+9I9SN 2]jap 3 a7eNUa afpop oms1Ba1
+
+UN IP 0 FUNUIOI ESSEI PUN Ip SUOIZMINS]  ]I 3.M1s9$ pu eruouoIne [e 3IENIA][OS
+sn n e ———_——————
+
+LOIENPU] 1AIDIGO
+
+ESEI E] 9 OICUIP
+
+1102VTPUt 1]St cAmaIgo JT
+t$ WVITZEIVI
+Ei
+
+IALLVONOCA INDOSIN I A VIITWVNIA IT AUVOIILLNACI "$
+
+OTI
+
+MO ‘(£-+21 "dd 141) tamumuo9 Ip ouSosig ‘suorzedivaned Ip ouSostq ‘tonpiy Ip ou$
+-0sIq ‘ezuaniSuOO Tp OUSOSIq ‘(eneduro) epuoJord suoIsUdIdUIO9 Ip ouSostq ‘eanisod
+AfeuoIZOLII UOTZUINE Ip ouSosiq ‘suoIzeredos 1p ouSosiq ‘o1U9UEIIETI p aufost
+‘ezuuanIedde 1p 3 I]eros nioddei Ip oudosiq ‘ov1ueSIo 219SSAUAq Tp ouSostq cata
+1A 1 EN 29S0UOOTI ‘atmunfoa 0ss9Is o]pu siduras ‘ione ] ‘£21 “d ‘007 CIO] ce
+
+OUI9IUT [Je 1A1229IGO 1]B9p suoIzezzIUESIO 2I01]S1U1 LUN Tag ‘,< 21UE209
+ID NU UE ] 3 01198808 fr en 0AmMIEIAUI 0Ss9901d sUI05 ‘ODIUEUTP
+QUIOI BUI» FUOIZEZZIYOIEI9S 3]IGISSOd eun è 01198805 3 oeuIpio91d ‘09
+THEIS OIUILUA]9 IUIOI CIVIIPISUOI 3I9SSI RIAOP UOU 0A1219IGO USO
+“ta]igissod eun ‘vafowr © ei]9os eun
+2 ‘€2180[0po39w auorzeIsodun 19d 3 eISo]odra 19d TIUSI9TFIP LIOIENPUI
+VISUIUTI9IAP IUOISSOHI EE 3YP 0ISOvINIA voneId ve OIEIUALO nd op
+-1en8s cu ‘ew9]qord jp SIOIENPa, [[9P IUOISIA E[[ep 2 uereumIsop rep
+‘OA[2391G0, [Ep EIE]ODUIA 2 IIOIEANPUI [[9p eI9oS E] 3YI 22U9pra> 1
+‘(©'S *EVvI ‘19) ezuapass1d ur nEIUSSAId TAMI9IGO 31 TOP 088999NS IP
+HOXEIput runoje arezznodi 9jtqrssod 3 ‘TuossruIp af Opueraae ens Is "i
+“onu tun/un apenb efpou tIrUnLIO9 Ip 3UOIZENIIS eum opueu:Seunu]
+‘oAnIsod oT9ISUAd Je eIta
+-20101d èmanios eun osezzizan 9Jiquajoid pumb a rua[qord rep assa1dsa
+EIANESIU 9] SILUOIZUIUI IP_IIAI 99 SUOIZENULIOF eun aTezzipan (0
+‘( QIUIWEQIIA
+0]1tp9188t ezuas 09UE1905 UN UCI 033I]uoo Ip 2uoIzenaIs eun a.1ms98 Ip
+asedeo 3 owrqueg pr, ‘ordurasa pe) suorsanb Ur 01198808 Jr ereryo ew
+2104 UT ‘IATEDOSSE 3iquazoid a pa oss9901d un Ip UOU 3 ATTI Ip ozund
+Un Ip emen IS PYPI9d ‘ONUUI [e oquoa I aJezzian uo 0rS9w è (9
+
+DINAR,
+
+OLIONI19I ns MU93S]S9 IeImano a DAN
+-10ds “Jetos ‘YIpn] tarunioddo 2] osezzijun
+- x x x Xx 9 A[eiDos BIUNWIOI Ep eaA èj[e a1edDanteg
+
+OI0AT] [PP Opuowi jpu cIUIUNISS
+- x x & Xx UP a]enIUAAD ][E 2 CIUIURUALIO [e aTerIoddng
+
+USED E] 3
+- x x _ OICUAp JI aIMSII JpU eruoUOmME ]e 3IEN99[]OS
+
+= rr rr r_———_—t@su1upiuifi 600 0, © ele
+L Bi W W S 0AMIGO
+
+IUYNS 0412910]
+
+IS WITIAVI
+—_ __ _  “ EeLL\EE)l::e:3858AONNASWIAIN
+
+VALLVONCI INOIZVILIDOYd VTTIIC VIDOTOTOLIN

@@ -1,384 +1,269 @@
-# Introduzione al modulo di Salute Mentale
-Salute Mentale · Sessione 01 · 18.02.2026
+# Evoluzione storica e sviluppo psico-sociale secondo Erikson
+I tempi della vita · Sessione 01 · A.A. 2025/2026
 
-> Questa prima lezione mette sul tavolo le fondamenta
-> di tutto il modulo: che cos'è davvero la salute?
-> Cos'è il benessere? E la normalità? Spoiler: nessuna
-> di queste domande ha una risposta semplice — e
-> proprio da qui parte il bello. Si parla anche della
-> tragedia greca come strumento per avvicinarsi alla
-> sofferenza umana. Roba potente, vedrai.
+> Questa lezione è il punto di partenza del modulo: capire *come* e *perché* gli studiosi hanno cambiato il modo di guardare la vita umana — da una semplice "collina" da salire e scendere, fino a un fiume che scorre e modella il paesaggio. E poi entra Erikson, con la sua teoria degli otto stadi, uno degli strumenti più usati nel lavoro sociale.
 
 ---
 
-## Il modulo: struttura e filosofia
+## Parte 1 — Come è cambiata la psicologia dello sviluppo
 
-Il modulo di Salute Mentale si articola su **tre
-tappe fondanti**, ispirate alla scuola fenomenologica:
+### Da psicologia dell'età evolutiva a psicologia dello sviluppo
 
-1. **La clinica** — l'universo dell'incontro con
-   chi soffre. Si esplorano i concetti di salute
-   e malattia, normalità e patologia, l'incontro
-   empatico con l'altro e i meccanismi di difesa.
+Storicamente, il primo grande campo di indagine psicologica era la **psicologia dell'età evolutiva**: si studiava lo sviluppo dalla nascita fino all'adolescenza, come se dopo quella fase la storia finisse.
 
-2. **Il mondo** — le funzioni psichiche e le loro
-   alterazioni (coscienza, percezione, pensiero,
-   affettività...), per poi passare alla dimensione
-   nosografica: sindromi affettive, ansiose, nevrosi,
-   disturbi di personalità, psicosi.
+L'**età adulta** era vista come un punto di arrivo — un momento di stabilità. L'**anzianità** era considerata il momento del declino, del "decadimento". Questa visione era rappresentata dalla **metafora della collina**: si sale fino all'apice (circa 50 anni), poi si scende. Era anche una visione **adultocentrica**: il centro dello studio era l'adulto, e il bambino era visto come "un adulto a cui mancava qualcosa", l'anziano come "un adulto che aveva perso competenze".
 
-3. **Il corpo** — teatro della sofferenza: violenza,
-   aggressività, dimensioni anoressico-bulimiche,
-   sessualità come luogo di disagio, alessitimia.
+> Il prof ha mostrato un'immagine storica di inizio '900 chiamata "La scala della vita": bambini e anziani erano raffigurati *fuori* dalla scala, perché non si riteneva avessero un ruolo sociale. Anche la donna compariva quasi solo in ruoli di cura.
 
-Queste tre tappe sono attraversate da quattro
-dimensioni esistenziali: **spazio, tempo, identità
-e incontro**. La clinica va calata in uno spazio
-e in un tempo, l'identità va declinata nella
-relazione, e prima della relazione viene l'incontro
-— senza il quale la relazione non sussiste.
+La **psicologia dello sviluppo** (termine più recente) ha ribaltato questa visione: studia i **cambiamenti sistematici** che caratterizzano l'evoluzione psicologica di ogni individuo nel corso dell'**intera vita**, fino alla morte. Lo sviluppo non è un prodotto finale — è un **processo continuo**.
 
-Il prof sottolinea un punto chiave: l'operatore
-sociale non è un tecnico di una sola disciplina,
-ma un **trait d'union** tra le specializzazioni.
-Per questo serve una conoscenza delle aree
-psicopatologiche — non per fare diagnosi, ma per
-comunicare con le altre figure professionali e
-per accompagnare la persona nella sua interezza.
+> **Sviluppo** (def.): processo attraverso il quale un organismo acquista la capacità di affrontare con sempre maggior successo il proprio ambiente, modificandosi e differenziandosi nelle strutture, nelle funzioni e nei comportamenti, grazie alla maturazione biologica e all'influenza degli stimoli esterni. *(Castelli & Sbattella, 2008)*
+
+Parallelamente, dopo la seconda guerra mondiale è nata la **gerontologia**: lo studio scientifico dell'invecchiamento e degli adulti in età avanzata.
 
 ---
 
-## Salute, benessere, normalità: tre concetti
-da non confondere
+### La metafora del fiume
 
-Uno dei messaggi centrali della lezione: **salute,
-benessere e normalità sono tre cose diverse** che
-spesso vengono confuse o sovrapposte. Vediamole
-una per una.
+La collina è stata sostituita da una metafora molto più ricca: il **fiume**.
 
-### Salute: più complessa di quanto sembra
+Il fiume scorre verso valle, modella il terreno su cui scorre — e a sua volta è modificato dal terreno. Ha affluenti che aumentano la portata (= esperienze, persone, apprendimenti incontrati nel percorso). Può scorrere veloce o lento, può uscire dagli argini in momenti difficili, può ricevere pioggia — eventi che a volte arricchiscono, a volte destabilizzano.
 
-Il prof parte da una domanda semplice: "Chi di voi
-sta bene?" Poi mostra quanto sia difficile rispondere.
-Due paradigmi diversi: puoi andare a fare gli esami
-del sangue e la TAC (approccio biomedico, *disease*),
-oppure puoi rispondere "mi sento bene" senza nessun
-esame (approccio soggettivo, *illness*). Non sono la
-stessa cosa.
+Questa metafora ci dice tre cose fondamentali:
+1. Ogni persona si adatta al contesto (come il fiume al suo letto).
+2. Ma la persona modifica anche il contesto (il fiume trasforma il paesaggio).
+3. Il percorso è unico per ognuno — non esiste un "apice" seguito da un declino obbligatorio.
 
-Introduce il lavoro di **Christopher Boorse (1977)**,
-che nel suo articolo ha tentato di definire la salute
-esaminando sette possibili condizioni — dimostrando
-che **nessuna da sola regge**:
-
-| Condizione | Perché non basta |
-|---|---|
-| **Salute come valore** | Non tutto ciò che è desiderabile è salute; ci sono contesti dove non essere in salute può essere preferibile (es. durante guerre) |
-| **Malattia come ciò che il medico cura** | La medicina ha "colonizzato" ambiti non patologici (gravidanza, adolescenza); molte malattie non vengono trattate |
-| **Salute come norma statistica** | Fuori dalla media ≠ malattia (l'omosessualità è stata classificata come patologia a lungo) |
-| **Malattia come sofferenza** | Malattie asintomatiche e dolori normali (ciclo mestruale, coliche neonatali, dentizione) |
-| **Malattia come disabilità** | Tutti attraversiamo fasi di "non abilità" (un neonato non cammina, ma non è malato) |
-| **Salute come adattamento** | L'essere umano adatta anche l'ambiente a sé. Pensate alle neurodivergenze: a volte è l'ambiente che va cambiato |
-| **Salute come omeostasi** | Il funzionamento umano si basa su un continuo perdere e riacquistare equilibrio. L'equilibrio statico è rigidità |
-
-L'ultimo punto merita attenzione. Il prof insiste:
-**l'equilibrio statico non è salute, è rigidità**.
-La metafora è bellissima: camminare richiede di
-rompere continuamente l'equilibrio. Per fare un
-passo devi sbilancarti. La vita è movimento, e il
-movimento richiede di perdere e ritrovare l'equilibrio.
-"Le persone troppo equilibrate sono spesso molto
-rigide, poco disposte a rischiare."
-
-> *"Non c'è movimento senza perdere l'equilibrio,
-> e siccome la vita è costante movimento, occorre
-> mettersi nell'ottica di capire e accompagnare
-> la perdita e la riconquista dell'equilibrio —
-> non impedirla."*
-> — Il professore
-
-### La triade anglosassone: disease, illness, sickness
-
-Per ordinare le idee sulla salute, il prof introduce
-la distinzione in tre dimensioni:
-
-- **Disease** — la malattia in senso biomedico,
-  misurabile (esami, parametri clinici)
-- **Illness** — il vissuto soggettivo: come la
-  persona *si sente*
-- **Sickness** — la dimensione sociale: come la
-  società riconosce (o stigmatizza) quella condizione
-
-Queste tre dimensioni **possono non coincidere**.
-Una malattia può essere tale per il medico (disease)
-ma non vissuta come tale dal soggetto (illness),
-oppure può essere vista dalla società come un vizio
-(sickness negativa) anche se è una malattia vera.
-
-Questo è importante per il lavoro sociale: lo sguardo
-della società su una condizione ha effetti reali sul
-benessere della persona. Se hai una malattia che viene
-giudicata come "vizio" o "colpa", la stigmatizzazione
-peggiora tutto — come mostrava già il racconto
-di apertura della lezione.
+Pensaci: i tuoi studi in botanica, i tuoi lavori precedenti, le arti marziali, il servizio militare — sono tutti affluenti che hanno aumentato la portata del tuo fiume. Ognuno porta qualcosa.
 
 ---
 
-## Il benessere: un concetto multidimensionale
+### La Life Span Psychology — Paul Baltes
 
-**Salute e benessere non coincidono.** Il prof porta
-l'esempio di **Tiziano Terzani** e del suo libro
-*L'ultimo giro di giostra*: un giornalista gravemente
-malato di cancro che attraverso la malattia ha trovato
-una pace e una ricchezza interiore che non aveva quando
-stava "bene". Paradossale? No, profondamente umano.
+Il cambio di paradigma è stato formalizzato dalla **Life Span Psychology** (psicologia del ciclo di vita), di cui **Paul Baltes** è stato uno dei maggiori rappresentanti (fine anni '70–'80).
 
-Il benessere è un concetto **polisemico e
-multidimensionale**. **Carol Ryff** è una psicologa
-che ha risposto alla domanda: "Quando diciamo che
-una persona sta bene, di *cosa* esattamente stiamo
-parlando?" La risposta: di sei dimensioni distinte.
+> «Si tratta di un approccio allo studio del comportamento umano che enfatizza lo sviluppo e il cambiamento della persona lungo l'intero arco della vita, rappresentandoli come sequenza di eventi strettamente intrecciati tra loro e con il contesto biologico, sociale, storico e culturale ove l'individuo opera.»
+> *(Palmonari A., a cura di, 2011, p. 41)*
 
-| Dimensione | Cosa significa in concreto |
-|---|---|
-| **Autonomia** | Capacità di determinarsi senza dipendere dagli altri per le proprie scelte |
-| **Controllo ambientale** | Capacità di cogliere, sfruttare e valorizzare le risorse e le possibilità disponibili |
-| **Relazioni positive** | Avere relazioni calde, fiduciose, contraddistinte da affetto e reciprocità |
-| **Autoaccettazione** | Consapevolezza delle proprie qualità e limiti, senza negare né l'uno né l'altro |
-| **Percezione di crescita** | Sentire che la propria vita è un processo continuo di sviluppo |
-| **Scopo nella vita** | Avere mete, riuscire a dare senso a ciò che si fa |
-
-Questo modello è prezioso per l'operatore sociale
-perché rende il lavoro sul benessere **concreto**.
-Invece di un generico "lavoro per il benessere",
-puoi esplorare *quale* dimensione è più critica
-e intervenire lì. Il prof fa un esempio: se lavori
-sull'autonomia di qualcuno (aiutarlo a fare scelte
-proprie), quello starà meglio — anche senza sapere
-perché. Il prodotto è quello che conta.
-
-Se in un momento la persona non riesce a lavorare
-sulle relazioni, si compensa sulle altre dimensioni.
-È un gioco di variabili, non tutto insieme.
-
-Il prof aggiunge: **vale anche per noi**, non solo
-per i nostri utenti. Se guardiamo indietro alla
-nostra vita e vediamo solo disastri, non stiamo bene.
-Se riusciamo a vedere crescita e senso, anche nelle
-difficoltà, il benessere aumenta.
+In sostanza: lo sviluppo dipende sia da quello che siamo dentro, sia dal contesto storico e culturale in cui viviamo. Un adolescente di oggi non è uguale a un adolescente di 30 anni fa — non è un luogo comune, è un fatto che la teoria riconosce.
 
 ---
 
-## La normalità: quale normalità?
+### I 7 principi fondamentali della Life Span Psychology
 
-Il prof introduce tre tipi di normalità — tutti
-rilevanti per il lavoro con le persone.
+Questi 7 punti sono il cuore teorico della prima parte della lezione. Sono le **radici dell'albero**: senza di esse, nessuna delle teorie del modulo regge.
 
-### 1. Norma statistica
+**1. Lo sviluppo dura tutta la vita**
+Non finisce con l'adolescenza. In ogni fase ci sono crisi (= cambiamenti di equilibrio), e ogni crisi richiede un nuovo adattamento.
 
-La "normalità" come conformità alla media della
-popolazione. Sembra neutro, ma non lo è: essere
-fuori dalla norma statistica può provocare stigma,
-isolamento, discriminazione. L'omosessualità è stata
-a lungo classificata come patologia proprio su base
-statistica — e solo quando la comunità scientifica
-ha cambiato i criteri ne è uscita.
+**2. È multidimensionale e multidirezionale**
+Comprende sviluppo fisico, cognitivo, sociale ed emotivo-affettivo. Questi non vanno tutti nella stessa direzione né alla stessa velocità.
 
-Il contesto è fondamentale: qualsiasi comportamento,
-senza contesto, può sembrare "anormale".
+**3. È caratterizzato da plasticità**
+Le condizioni e le esperienze di vita possono modificare, entro certi limiti, le traiettorie di sviluppo già avviate. Non siamo "bloccati" da come siamo partiti.
 
-### 2. Norma di valore (ideale)
+**4. Implica guadagni e perdite**
+In ogni fase ci sono entrambi. Guadagno l'autonomia, ma perdo il fatto che i genitori pensavano a tutto per me. Vado in pensione, ma perdo un ruolo sociale significativo. L'equilibrio cambia a seconda della fase, ma nessuna fase è solo guadagno o solo perdita.
 
-Uno standard ideale che si pone come riferimento.
-Se il mio ideale è un certo tipo di corpo, starò
-male finché non ci corrispondo. Ed è un ideale
-*irraggiungibile*, quindi la sofferenza è perpetua.
+**5. È interattivo**
+Lo sviluppo nasce dall'interazione tra individuo e ambiente. Cambia l'ambiente, cambia la persona — e viceversa. Questa è la **prospettiva interazionista sistemica**: tutte le parti del sistema sono interconnesse.
 
-**Attenzione**: la norma ideale incide anche sugli
-operatori. Abbiamo ideali su come dovrebbe essere
-un utente, come dovrebbe comportarsi, cosa dovrebbe
-raggiungere. Se quella norma ideale diventa il metro
-di lavoro, rischia di diventare penalizzante per
-la relazione.
+**6. È calato nella realtà storica e culturale**
+Per capire una persona bisogna considerare l'epoca in cui vive, la cultura, il contesto. Non si può leggere un anziano di oggi con gli occhi di chi è cresciuto in un'epoca in cui "non si chiedeva aiuto".
 
-### 3. Norma personale (individuale)
-
-La normalità *rispetto a come funzionavo prima*.
-Se mi rompo una gamba, non sono più "normale" rispetto
-al mio funzionamento precedente. Questa dimensione
-è importante clinicamente: capire com'era il soggetto
-prima dell'evento permette di comprendere il
-cambiamento.
-
-Ma il prof aggiunge un avvertimento cruciale:
-**la normalità personale non è sempre da riconquistare**.
-A volte è proprio quella "normalità" precedente che
-ha causato il problema. Esempio: "Lavoravo 10 ore
-al giorno, gestivo tutto, poi mi sono ammalato —
-voglio tornare come prima." Forse no. Se torni come
-eri prima, tra un mese ci rivediamo peggio.
-
-C'è anche il rischio di **idealizzare il passato**:
-"Prima stavo bene" — ma siamo sicuri? O è solo che
-in confronto a oggi sembra il paradiso?
+**7. È multidisciplinare**
+Accanto alla psicologia entrano antropologia, storia, sociologia, biologia, filosofia, neuroscienze, economia. Lo sviluppo umano è così complesso da richiedere sguardi multipli.
 
 ---
 
-## La posizione del soggetto davanti alla malattia
+### Tecniche di indagine valorizzate
 
-L'ultima parte della lezione introduce un modello
-pratico a due assi per capire come il soggetto si
-pone rispetto alla propria condizione.
+La Life Span Psychology ha messo in evidenza due approcci di ricerca:
 
-**Asse 1 — Identificazione:**
-- *Non mi identifico* con la malattia: "Io non sono
-  la mia malattia, è qualcosa di estraneo"
-- *Mi identifico*: "La mia condizione fa parte di me"
-
-**Asse 2 — Agentività** (termine tecnico dal greco):
-- *Agentivo* (attivo): affronto la situazione,
-  mi muovo, cerco alleati
-- *Passivo*: subisco, aspetto che qualcuno intervenga
-
-Incrociando i due assi si ottengono quattro posizioni:
-
-| | Non si identifica | Si identifica |
-|---|---|---|
-| **Passivo** | **Delega**: "Faccia lei, risolva lei" | Passivo nella propria condizione |
-| **Agentivo** | **Guarigione**: combatte per eliminare la condizione | **Cura**: lavora sul proprio benessere dentro la condizione |
-
-Il passaggio chiave: quando il soggetto si identifica
-con la propria condizione e diventa agentivo, il
-paradigma passa dalla **guarigione** alla **cura**.
-Non si tratta più di eliminare la malattia (che a
-volte non è possibile), ma di aumentare il benessere
-*dentro* la condizione.
-
-> *"Non tutto si può guarire. Ma tutto può essere
-> curato."*
-> — Il professore
-
-La differenza tra *to cure* (terapia) e *to care*
-(cura) è fondamentale per il lavoro sociale: la
-terapia non è sempre possibile, ma la cura — nel
-senso di prendersi cura del benessere della persona
-— è sempre praticabile.
-
-Nella realtà le persone si muovono tra i quadranti,
-soprattutto all'inizio della malattia. L'operatore
-accompagna questo movimento.
+- **Studi trasversali**: si prendono gruppi di persone a età diverse *nello stesso momento* e si studia un determinato elemento. Vantaggio: rapidi. Svantaggio: le differenze individuali tra i gruppi rendono difficile il confronto puro.
+- **Studi longitudinali**: si segue la *stessa persona* nel tempo, nelle varie fasi di vita. Vantaggio: si monitora il percorso individuale. Svantaggio: richiedono molto tempo e si rischia di perdere partecipanti nel corso degli anni.
 
 ---
 
-## La tragedia greca: passioni e follia
+## Parte 2 — Erik Erikson e lo sviluppo psico-sociale
 
-Parallelamente allo studio teorico, il modulo
-include un lavoro su **cinque tragedie greche**.
+### Chi era Erikson? La storia conta.
 
-### Perché la tragedia?
+**Erik Erikson** (1902–1994) ha una storia di vita che spiega molto della sua teoria. Vale la pena conoscerla.
 
-La tragedia greca nasce insieme alla medicina antica
-(Ippocrate) e mette in scena la sofferenza umana —
-quella difficile da spiegare e a volte da comprendere.
-Assistere alla tragedia faceva emergere emozioni e
-sentimenti che, attraverso la **catarsi**, potevano
-uscire e liberare.
+Nasce a Francoforte come **Erik Homburg**, figlio di una relazione extraconiugale. Non ha mai conosciuto il padre biologico. Cresce con la madre e il patrigno, porta il cognome del patrigno. Vuole studiare arte e viaggiare, ma la famiglia lo spinge verso la medicina.
 
-La tragedia parla dei **confini dell'umano**: la
-morte, la malattia, la follia. Il prof distingue
-gli approcci dei tre grandi tragediografi:
+Si oppone, studia arte, viaggia molto — soprattutto in Italia, dove vive una vera e propria **crisi d'identità**. Poi arriva a Vienna, dove insegna arte e conosce **Anna Freud**, figlia di Sigmund. Inizia il suo percorso nella psicoanalisi.
 
-- **Eschilo** — il più arcaico: la follia arriva
-  dagli dèi, è una forza esterna che schiaccia
-- **Sofocle** — il tragico non arriva dagli dèi,
-  è la vita stessa che è tragica
-- **Euripide** — il più moderno: il tragico nasce
-  dalle relazioni tra le persone
+Nel 1933 si trasferisce a Boston, dove diventa il primo psicanalista infantile della città. Quando acquisisce la cittadinanza americana, cambia cognome: da Homburg ad **Erikson** — letteralmente "figlio di Erik". Una scelta identitaria molto precisa per chi ha costruito una teoria sull'identità.
 
-A secoli di distanza, la tragedia "resta fedele
-a se stessa" — perché tocca qualcosa di profondo
-nell'umano che non cambia nei secoli.
+Lavora come psicoanalista e docente universitario fino al 1994.
 
-### L'esercizio pedagogico
+> Capire la sua biografia aiuta a capire *perché* Erikson si sia interessato così profondamente allo sviluppo dell'identità e all'interazione individuo-società.
 
-Gli studenti sono divisi in **5 gruppi**, ciascuno
-con una tragedia assegnata per estrazione. Il lavoro
-prevede:
+---
 
-1. **Leggere** la tragedia — esporsi a un linguaggio
-   non familiare della sofferenza, proprio come
-   accade quando si incontra un paziente che parla
-   una "lingua" diversa dalla nostra
-2. **Condividere** nel gruppo — cosa ti ha parlato?
-   Quali temi ti hanno colpito?
-3. **Sintetizzare** — trovare un messaggio comune,
-   con le inevitabili rinunce individuali (esercizio
-   di équipe reale)
-4. **Andare in scena** — non uno "spettacolino",
-   ma portare temi salienti a una platea
+### La teoria: basi e differenze con Freud
 
-Il prof insiste: quello che deve arrivare al pubblico
-deve essere *vero* — deve essere passato attraverso
-l'umanità di chi lo porta in scena. Se non c'è quella
-verità, si sente.
+Erikson condivide le basi della **teoria psicoanalitica di Freud**, ma aggiunge una dimensione che ritiene mancante: quella **psico-sociale**.
 
-### Le tragedie di quest'anno
+Freud si era concentrato sullo sviluppo psicosessuale e sul mondo interno. Erikson — anche grazie ai viaggi e al confronto tra culture — allarga lo sguardo: come l'individuo si relaziona con il contesto sociale, e come la società influenza lo sviluppo.
 
-Le docenti hanno scelto — indipendentemente —
-tragedie che convergono su un tema comune: la
-**violenza sulle donne nei conflitti armati**.
+> **Sviluppo umano secondo Erikson:** continuo processo di integrazione tra la maturazione biologica e l'appartenenza al sistema sociale.
 
-- **Agamennone** (Eschilo) — Cassandra, prigioniera
-  di guerra e bottino sessuale
-- **Le Troiane** (Euripide) — Ecuba, Cassandra,
-  Andromaca: tre donne schiavizzate dopo la caduta
-  di Troia
-- **Andromaca** (Euripide) — la vittima di guerra
-  per eccellenza
-- **Le Trachinie** (Sofocle) — donne umiliate
-  e "rese mute" dalla violenza
-- **Aiace** (Sofocle) — la fragilità dietro
-  l'eroismo apparente
+La maturazione fisica porta con sé nuove possibilità, ma anche nuove **richieste da parte della società**. Un bambino che impara a parlare, per esempio, viene poi atteso a chiedere verbalmente ciò che vuole — non più a piangere. Nuove competenze = nuove aspettative sociali. Erikson chiama questo meccanismo **"cicli di vita come ingranaggio perfetto"**: idealmente c'è un bambino che ha bisogno di cure e un adulto che ha bisogno di prendersi cura di qualcuno.
 
-Il prof collega esplicitamente queste storie ai dati
-odierni sulla violenza sessuale nei conflitti armati
-(Congo, Iraq, Rwanda), citando **Nadia Murad**,
-Premio Nobel per la Pace e sopravvissuta alla
-schiavitù sessuale dell'ISIS. La tragedia greca
-non è storia lontana: è cronaca con un linguaggio
-di 2500 anni fa.
+Il **metodo** di Erikson si basa su:
+- Osservazione diretta dei bambini
+- Confronti tra culture diverse
+- **Psicobiografie**: biografie di personaggi storici analizzate da un punto di vista psicologico
+
+---
+
+### Il meccanismo centrale: il conflitto bipolare
+
+Questo è il pezzo più importante della teoria. Il prof lo ha ribadito più volte — e lo chiederà all'esame.
+
+Per ogni fase c'è un **compito evolutivo** che mette la persona di fronte a una **crisi** (= cambio di equilibrio). La crisi ha **due poli**:
+- Un **polo positivo**
+- Un **polo negativo**
+
+**Lo sviluppo ottimale** = uscire dalla fase **sbilanciati sul polo positivo**, avendo però **integrato la parte positiva del polo negativo**.
+
+Esempio con la prima fase (fiducia vs sfiducia):
+- Polo positivo = fiducia (imparo a fidarmi di chi mi cura)
+- Polo negativo = sfiducia (non mi fido di nessuno)
+- Integrazione ottimale = mi fido di chi si prende cura di me, **ma** so anche che nel mondo non possiamo fidarci di tutti indistintamente → mi proteggo
+
+Questo meccanismo vale per tutti gli otto stadi. Una volta capito il principio, gli stadi diventano molto più comprensibili.
+
+> Nota di ottimismo pratico: Erikson dice che anche se una fase non viene superata in modo ottimale, è ancora possibile recuperare nelle fasi successive, grazie ai rapporti e alle esperienze che costruiamo nel tempo. Questo è fondamentale per il lavoro sociale.
+
+---
+
+### Gli otto stadi dello sviluppo psico-sociale
+
+#### Stadio 1 — Fiducia vs Sfiducia *(0–1 anno)*
+
+**Compito evolutivo:** imparare a fidarsi dell'altro.
+
+Il bambino dipende completamente dalla figura di accudimento. La qualità di questa relazione — nutrizione, cura, risposta ai bisogni — costruisce o meno un senso di **fiducia di base**.
+
+**Integrazione ottimale:** fidarsi di chi si prende cura, ma non fidarsi ciecamente di chiunque.
+
+---
+
+#### Stadio 2 — Autonomia vs Vergogna e Dubbio *(1–3 anni)*
+
+**Compito evolutivo:** imparare il controllo corporeo e l'autonomia.
+
+Il bambino inizia a camminare, parlare, controllare gli sfinteri, fare piccole scelte ("faccio io!"). Quando non riesce, sperimenta vergogna e dubbio.
+
+**Integrazione ottimale:** sperimentare piccole frustrazioni senza essere bloccato. Imparare che si può fallire e riprovare.
+
+> Per il lavoro: reprimere troppo il desiderio di autonomia porta il bambino a sviluppare prevalentemente il polo del dubbio e della vergogna.
+
+---
+
+#### Stadio 3 — Iniziativa vs Senso di Colpa *(3–5 anni)*
+
+**Compito evolutivo:** esplorare il contesto, sviluppare il gioco creativo, avere iniziativa.
+
+Il bambino propone giochi, esplora, vuole fare. Se continuamente bloccato o punito, sviluppa senso di colpa.
+
+**Integrazione ottimale:** avere iniziativa e imparare a accettare il "no" degli altri. Inizia l'assunzione di responsabilità per le proprie azioni.
+
+---
+
+#### Stadio 4 — Industriosità vs Inferiorità *(6–10 anni)*
+
+**Compito evolutivo:** focalizzarsi sull'apprendimento (inizia la scuola).
+
+Il bambino investe energia nel fare e imparare cose nuove. Se si sente costantemente inferiore, sviluppa un senso di inadeguatezza.
+
+**Integrazione ottimale:** capire che non siamo tutti bravi nelle stesse cose. Le difficoltà in un'area diventano spinta a migliorarsi o a valorizzare i propri punti di forza altrove. Inizia la capacità di collaborare, mettendo insieme le competenze di ognuno.
+
+---
+
+#### Stadio 5 — Identità dell'Ego vs Confusione dei Ruoli *(adolescenza)*
+
+**Compito evolutivo:** definire la propria identità personale e sociale.
+
+L'adolescente si chiede: *"Chi sono? Qual è il mio ruolo?"*. Erikson sottolinea l'importanza che l'adolescente possa **esplorare liberamente** vari ruoli, senza che gli venga imposto un percorso unico.
+
+Se questa esplorazione è impedita → **confusione dei ruoli**.
+
+**Integrazione ottimale:** esplorare, sperimentare, anche fallire — ma con un adulto che offre direzione senza chiudere le possibilità.
+
+> Il prof usa l'esempio della chitarra: se lasci l'adolescente provare vari strumenti, forse trova il violoncello che ama davvero. Se imponi subito "suoni la chitarra perché la suona tutta la famiglia", stai riducendo la sua possibilità di capire chi è.
+
+---
+
+#### Stadio 6 — Intimità vs Isolamento *(prima età adulta)*
+
+**Compito evolutivo:** costruire relazioni intime e durature.
+
+Non solo relazioni romantiche: amicizie profonde, relazioni lavorative significative. L'individuo porta qualcosa di sé nell'incontro con l'altro.
+
+**Polo negativo:** paura di perdersi nell'altro → isolamento, evitamento delle relazioni.
+
+**Integrazione ottimale:** vivere relazioni profonde, ma mantenere spazi e momenti propri. Condividere la vita con qualcuno senza perdere la propria individualità.
+
+---
+
+#### Stadio 7 — Creatività vs Stagnazione *(età adulta)*
+
+**Compito evolutivo:** lasciare qualcosa alle generazioni future.
+
+Erikson aveva inizialmente chiamato questo stadio **generatività** (legato alla genitorialità). Poi ha ampliato: si può trasmettere saperi, competenze, valori alle generazioni successive anche senza essere genitori — sul lavoro, nelle relazioni, nell'insegnamento.
+
+**Polo negativo:** stagnazione — routine immutabile, nessun interesse per ciò che viene dopo.
+
+**Integrazione ottimale:** la noia della routine diventa spinta al cambiamento. La cosiddetta "crisi di mezza età" si colloca spesso in questa fase.
+
+> Il prof nota che molti ricercatori contemporanei propongono di unire gli stadi 6 e 7, perché nella vita reale intimità e creatività coesistono in tutta l'età adulta, non in fasi separate.
+
+---
+
+#### Stadio 8 — Integrità dell'Ego vs Disperazione *(età senile, ~60+ anni)*
+
+**Compito evolutivo:** riflettere sulla propria vita e accettarla per quello che è stata.
+
+L'anziano fa un bilancio. Se riesce a integrare le frustrazioni, le cose non realizzate, raggiunge un senso di **integrità** — pace con il proprio percorso.
+
+Se rimane ancorato ai rimpianti → **disperazione**.
+
+**Integrazione ottimale:** "Avrei voluto fare quella cosa, ma per motivi non sempre dipesi da me non ho potuto. Ho fatto tante altre cose — le integro nella mia storia."
+
+> Il prof nota che questo processo di bilancio non è esclusivo dell'anzianità: lo facciamo già prima, ogni volta che ci fermiamo a riflettere sul nostro percorso.
 
 ---
 
 ## Concetti chiave
 
 | Termine | Significato |
-|---|---|
-| **Disease** | Malattia in senso biomedico, misurabile con parametri clinici |
-| **Illness** | Vissuto soggettivo della malattia, come la persona si sente |
-| **Sickness** | Dimensione sociale della malattia, riconoscimento/stigma |
-| **Benessere** | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo |
-| **Norma statistica** | Normalità come conformità alla media della popolazione |
-| **Norma di valore** | Normalità come conformità a un ideale |
-| **Norma personale** | Normalità rispetto al proprio funzionamento precedente |
-| **Agentività** | Atteggiamento attivo del soggetto verso la propria condizione |
-| **Catarsi** | Purificazione emotiva attraverso la partecipazione alla tragedia |
-| **Omeostasi** | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio |
-| **To cure** | Terapia: eliminare la malattia |
-| **To care** | Cura: prendersi cura del benessere, sempre praticabile |
+|---------|-------------|
+| **Psicologia dell'età evolutiva** | Studio dello sviluppo dalla nascita all'adolescenza (visione storica) |
+| **Psicologia dello sviluppo** | Studio dei cambiamenti psicologici nell'intero arco di vita |
+| **Gerontologia** | Studio scientifico dell'invecchiamento e degli adulti in età avanzata |
+| **Metafora della collina** | Visione storica: si cresce fino all'apice, poi si decade |
+| **Metafora del fiume** | Visione attuale: sviluppo continuo, interazione con il contesto |
+| **Life Span Psychology** | Approccio che studia lo sviluppo lungo l'intero arco di vita (Baltes) |
+| **Plasticità** | Capacità di modificare le traiettorie di sviluppo grazie a esperienze e contesto |
+| **Sviluppo psico-sociale** | Integrazione tra maturazione biologica e appartenenza al sistema sociale (Erikson) |
+| **Conflitto bipolare** | Ogni stadio ha un polo positivo e uno negativo; lo sviluppo ottimale integra entrambi |
+| **Compito evolutivo** | Sfida specifica di ogni stadio che la persona deve affrontare |
+| **Crisi** | Perdita di equilibrio che richiede un adattamento — non una catastrofe |
+| **Generatività / Creatività** | Desiderio dell'adulto di trasmettere qualcosa alle generazioni future (stadio 7) |
+| **Studi longitudinali** | Seguire la stessa persona nel tempo attraverso le varie fasi di vita |
+| **Studi trasversali** | Confrontare gruppi di persone a età diverse nello stesso momento |
+| **Adultocentrismo** | Visione storica in cui l'adulto era il punto di riferimento di tutto lo sviluppo |
+
+---
 
 ## Collegamenti
 
-- **Autori citati:** Christopher Boorse (1977),
-  Carol Ryff, Tiziano Terzani (*L'ultimo giro di
-  giostra*), Callieri & C. (1999), Nadia Murad
-- **Lezioni successive:** Storia della follia
-  (25.02), L'incontro con l'alienità (4.03), Dal
-  modello psicoanalitico alle difese (11.03)
-- **Temi aperti:** Come cambiano le categorie
-  diagnostiche nel tempo? Come si costruisce una
-  diagnosi psichiatrica? (L'omosessualità come
-  esempio storico sarà ripreso)
-- **Da ricordare:** il vademecum del modulo
-  contiene i contenuti in forma scritta con i
-  riferimenti bibliografici precisi
+- **Lezioni successive:** sviluppo fisico e sociale, sviluppo cognitivo (Piaget), teoria di Freud (parallelismi con Erikson), adolescenza, anzianità (Prof. Cavalli).
+- **Collegamento con salute mentale:** la confusione dei ruoli nell'adolescenza verrà ripresa nel modulo di salute mentale.
+- **Temi aperti:** critica contemporanea agli stadi 6 e 7 di Erikson (proposta di unificarli); non-linearità delle fasi della vita adulta oggi (persone che studiano e lavorano e sono genitori contemporaneamente).
+- **Nota metodologica:** le fasi non hanno confini rigidi — vanno sempre lette tenendo conto della specificità individuale e del contesto storico-culturale.

@@ -1,0 +1,307 @@
+REGIONE
+REGIONE Ea
+
+FSE
+
+MARCHE,
+POR 2014-2020
+
+È Comunità di Capodarco
+
+UNIVERSITÀ DEGLI STUDI DI MACERATA
+
+DIPARTIMENTO DI SCIENZE DELLA FORMAZIONE, DEI BENI CULTURALI E DEL
+TURISMO
+
+CORSO DI DOTTORATO DI RICERCA IN
+HUMAN SCIENCES, CURRICULUM EDUCATION
+
+CICLO XXIX
+
+Leggere la Qualità della Vita dell’adulto con disabilità fisica:
+dall’osservazione dell’ambiente di vita alla rilevazione delle percezioni.
+Nella Struttura residenziale della Comunità di Capodarco di Fermo.
+
+RELATORE DOTTORANDA
+Chiar.ma Prof.ssa Catia Giaconi Dott.ssa Michela Carbonari
+COORDINATORE
+
+Chiar.mo Prof. Michele Corsi
+
+ANNO 2017
+
+---
+
+Tab. 1
+I quadri teorici della QdV
+
+Autori Dimensioni della Qualità della Vita
+Schalock, Keith e Soddisfazione, produttività,
+Hoffman (1990)
+World Health Condizioni fisiche, condizioni
+Organization (WHO, psicologiche, ambiente, relazioni sociali,
+1995) livello di indipendenza, credenze
+spirituali/personali/religiose;
+Felce e Perry (1995) benessere fisico, benessere emotivo,
+benessere materiale, benessere sociale,
+benessere produttivo;
+
+empowerment e appartenenza sociale;
+
+Cummins (1997) salute, benessere emotivo, benessere
+materiale, intimità, posizione nella
+
+comunità, sicurezza e produttività;
+
+Schalock e Verdugo benessere fisico, benessere emotivo,
+(2002) benessere materiale, relazioni
+interpersonali, inclusione sociale,
+sviluppo personale, autodeterminazione
+e diritti.
+
+Fonte: Adatt. Conner (2015)
+
+I cinque quadri concettuali di Schalock, Keith e Hoffman (1990), della WHO (1995),
+di Felce e Perry (1995), di Cummins (1997) e di Schalock e Verdugo (2002) sono
+ampiamente riconosciuti dal consenso internazionale, essendo i riferimenti teorici
+principali alla base delle ricerche e degli strumenti di valutazione della QdV, si veda
+p. 26. Questa visione congiunta di più prospettive testimonia quanto, negli ultimi
+
+trent'anni, la ricerca sul costrutto di QdV sia stata tesa ad approdare della
+
+multidimensionalità del costrutto di QdV (Verdugo et al., 2012).
+
+1.3 I sette principi e gli scopi
+
+Alla luce ricostruzione storica del paradigma e della disamina dei maggiori
+
+contribuiti scientifici, abbiamo estrapolato i principi alla base della concezione
+
+odierna del paradigma della Qualità della Vita (Fig.1).
+
+Il primo risulta essere la multidimensionalità (domains theory). Come
+abbiamo visto è stata superata la dicotomia degli approcci unidimensionali e quelli
+
+multidimensionali, a favore di quelli multidimensionali. Gli studiosi sono concordi,
+
+19
+
+---
+
+ad oggi, alla presa in esame congiunta di dimensioni pluralistiche tese ad indagare
+non solo gli aspetti prettamente materiali della vita, ma anche le aree sommerse ad
+una rilevazione statistica ed economica, quali le condizioni psicofisiche, relazionali,
+contestuali.
+
+A questo principio si aggancia il secondo inerente la visione olistica del
+costrutto della Qualità della Vita (Schalock, Verdugo, 2002, 2010).Gli autori
+convengono sulla stretta interconnessione esistente tra i vari aspetti o dimensioni di
+vita della persona, ciò significa che essi si influenzano reciprocamente (olistic
+approach). La QdV di una persona non può essere spiegata, considerata o misurata
+mediante una visione approssimativa di una sola dimensione (ad esempio il
+benessere fisico) e senza assumere la consapevolezza che ogni nuovo elemento (ad
+esempio l’introduzione di una nuova attività) che si inserisce nella vita della persona
+abbia effetti, non solo sulla dimensione che si vuole potenziare (ad esempio il
+benessere fisico) ma anche sulle altre (ad esempio il benessere emotivo, l’inclusione
+ecc.) in modo trasversale”.
+
+Il terzo principio è la necessità di cogliere sia gli elementi soggetti sia gli
+elementi oggettivi che connotano e determinano la Qualità della Vita, come abbiamo
+visto*(subjective and objective elements). L'ambiente di vita, le attività ricreative, la
+comunità di appartenenza, il reddito ecc. ci danno informazioni importanti sulla QdV
+di una persona, ma da sole non sono in grado di spiegare la percezione personale,
+ovvero il grado di soddisfazione e di benessere della persona. Allo stesso tempo,
+” Facciamo un esempio, se il professionista intenzionato a sviluppare nella persona con disabilità
+l'aspetto dell’inclusione sociale predispone una serie di interventi atti a far partecipare la persona,
+appassionata al teatro, ad un corso di recitazione, ciò avrà effetti non solo sul dominio inclusione
+sociale, ma a cascata su tutti gli altri: autodeterminazione, benessere emotivo, relazioni
+interpersonale ecc.
+
+8 L'assunzione di una delle due prospettive di analisi ha ricadute dirette sulle modalità attraverso le
+quali valutare o misurare la QdV, come vedremo, e come anticipato da Gasper (2010) evidenzia
+diversi livelli di contrapposizione: la misurazione dello stato di benessere può focalizzarsi sia sullo
+stato soggettivo di una persona sia sulle reali condizioni e circostanze di vita; la misurazione può
+basarsi sui valori e sulle preferenze personali o su valori che scaturiscono da visioni pubbliche; i
+giudizi sulla Qualità della Vita, quindi la sua valutazione, può essere effettuata mediante self-report o
+tramite osservatori esterni.
+
+L'orientamento soggettivo o oggettivo ha inoltre ovvie conseguenze sulla metodologia di analisi e
+valutazione della QdV, tanto dar luce alla contrapposizione di approcci qualitativi e di approcci
+quantitativi di ricerca, che approfondiremo in seguito. | primi tengono conto di variabili espresse in
+forma numerica, si basano su protocolli molto strutturati e questionari a risposte predefinite. Sono
+volti allo studio di ampi campioni d'indagine e assicurano la rappresentatività del campione. |
+secondi usano categorie associate a qualificazioni verbali ponendo l’enfasi sui processi, i significati e
+il vissuto esperienziale. Utilizzano tecniche di raccolta dati come l’intervista, il focus group e
+
+l'osservazione. In questo caso l'aspetto più importante non è la quantità o la significatività statistica
+ma la qualità e la profondità d’indagine sulla Qualità della Vita.
+
+20
+
+---
+
+conoscere solamente il racconto soggettivo della propria vita non può, in
+considerazione degli inevitabili processi di adattamento, delle dinamiche
+psicologiche ricorrenti (il paradosso “il povero felice”)? e delle limitazioni che
+implicano, darci informazioni scientificamente significative (Kahn e Juster, 2002).
+
+Il quarto principio è l’estendibilità e la validità scientifica delle dimensioni
+della Qualità della Vita a tutte le persone. Le fonti internazionali sono unanimi
+nell’affermare, dagli anni 2000, che il costrutto della QdV debba essere applicabile a
+tutte le persone, ciò sta a significare che, a prescindere dalle caratteristiche della
+persona, la composizione degli aspetti della QdV è la stessa (same components for
+all). Autori come Wolfensberger (1994) e Cummins (1997) sottolineano le loro
+perplessità infatti nel definire la QdV come un insieme di dimensioni individuabili
+ad hoc per ogni gruppo di minoranza (sub-populations), come ad esempio le persone
+con disabilità. Il rischio concerne la selezione di uno standard di QdV per una sotto-
+popolazione che sarebbe non rappresentativo per la popolazione generale (Cummins,
+1997), poiché molti gruppi di minoranza hanno un tenore di vita inferiore rispetto la
+popolazione generale. Cummins (2005a), in ragione di una maggiore equità, sostiene
+che vi è un insieme identificabile di dimensioni (core building-blocks) della QdV,
+che è comune a tutte le persone. L'utilizzo di queste dimensioni, dal punto di vista
+metodologico, permette di impiegare strumenti di valutazione con qualsiasi gruppo
+sociale senza distinzione di cultura, sfatus socio-economico o condizione di
+disabilità. A tal proposito Brown, Hatton, ed Emerson (2013), quando parlano delle
+dimensioni della Qualità della Vita mettono in evidenza che devono rappresentare gli
+aspetti della vita che sono comuni a tutti gli esseri umani.
+
+Il quinto principio concerne la variabilità inter e intrapersonale (inter and
+intrapersonal variability). Per variabilità gli autori intendono la diversa
+significatività e interpretazione che si attribuisce alle dimensioni della QdV. In altri
+termini, ogni persona attribuisce un valore o considera importante, o meno, un
+determinato ambito o aspetto della propria vita in base al proprio modello sociale e
+culturale di appartenenza (variabilità intrapersonale). Inoltre, la significatività e
+l’interpretazione sono dipendenti anche dalle caratteristiche personali, abitudini,
+credenze, valori e contesto di vita (variabilità interpersonale). Pertanto, ne consegue
+
+che “una buona qualità della vita” assuma significati diversi per persone diverse.
+
+A maggior ragione se si parla di persone con disabilità come vedremo.
+
+21
+
+---
+
+Le dimensioni della Qualità della Vita risultano essere, in base alle
+concettualizzazioni che si adottano, le medesime per ogni soggetto ma variano
+significativamente in termini valoriali, d’importanza e di percezione (Giaconi, 2015,
+p. 27).
+
+La variazione della composizione, o meglio, del “contenuto” (Giaconi, 2015, p.27) è
+da attribuire alla percezione individuale della propria condizione di vita, alle
+differenze culturali e sociali che indirettamente influenzano la QdV di una persona
+(Cummins, 2005a). La Qualità della Vita è definita in tal senso come “la misura in
+cui una persona in base al suo profilo di funzionamento, ai deficit, alle abilità e alle
+competenze, tenendo conto del contesto di vita, dei supporti e delle barriere in esso
+presenti, è in grado di soddisfare aspettative, desideri e bisogni personalmente
+significativi” (Fedeli, 2016, p.29).
+
+È altresì da sottolineare che il “valore” attribuito ad domini di QdV dipenda dai
+contesti, esperienze e sistemi che influenzano la vita di ognuno (Schalock e Verdugo
+Alonso, 2002; Petry, Maes, Vlaskamp, 2009; Schalock, Keith, Verdugo Alonso,
+Gomez, 2010; Giaconi, 2015; Conner, 2015), sia soggetto alla percezione e alla
+rilevanza attribuita dal singolo e muti durante l’arco di vita (Schalock e Verdugo
+Alonso, 2006; Campo, Sharpton, Thompson, Sexton, 1997; Giaconi, 2015).
+
+Il sesto principio fortemente connesso al precedente è la valenza di una
+prospettiva longitudinale della Qualità della Vita. Il valore attribuito dalla persona
+alle diverse dimensioni della QdV è connesso al periodo della vita e cambia nel corso
+di essa. Gli studiosi parlano di “/ifespain aspect of QOL”(Brown & Brown, 2005)
+inteso come mutamento del costrutto della QdV durante l’arco di vita del soggetto.
+“La Qualità della Vita, infatti, è sensibile alla dimensione spazio-temporale, poiché
+essa e la sua percezione cambiano potenzialmente sull’asse diacronico, nei diversi
+spazi e tempi della vita e, sull’asse sincronico, nei tempi e negli spazi attuali
+dell’esistenza della persona” (Giaconi, 2015, p.27).
+
+La prospettiva longitudinale (life-span perspective) della QdV ne evidenzia la
+progettualità e l’intento di dare forma ad un progetto di vita personalizzato. Il
+paradigma della QdV è un approccio che vede il suo inizio con l’inizio della vita
+della persona, con o senza disabilità, e si conclude con essa in una logica sistemica
+finalizzata a valorizzare le opportunità della persona, all’autodeterminazione e alla
+
+vita indipendente.
+
+22
+
+---
+
+1.approccio
+multidimensionale- teorie
+dei domini
+
+2.approccio olistico
+
+7.empowerment
+
+3. elementi oggettivi
+e soggettivi
+
+6. prospettiva
+longitudinale
+
+4.stessi
+componenti per
+ogni persona
+
+5. variabilità
+inter e
+intrapersonale
+
+Fig. 1 I principi della Qualità della Vita
+
+Il settimo principio è stato enucleato in questi termini “immagine di sé, valori,
+scelte, controllo personale ed empowerment” (Conner, 2013). Secondo noi è
+possibile sintetizzarlo nel concetto di empowerment, poichè la QdV può essere letta
+come un costrutto che emancipa la persona (empowerment), a partire dalla propria
+espressione personale, dall’accettazione e la consapevolezza delle scelte e dal
+riconoscimento dei propri valori, in una prospettiva di continuo miglioramento delle
+condizioni di vita e di crescita personale.
+Possiamo mettere in luce gli scopi del paradigma della Qualità della Vita. Le ragioni
+che hanno spinto i ricercatori a cercare un costrutto sociale, un concetto
+sensibilizzante e un tema unificante (Schalock, Brown, Brown, Cummins, et al.,
+2002) come quello della Qualità della Vita sono plurime. La prima è la netta
+convinzione che i progressi scientifici, medici e tecnologici dovrebbero tradursi
+
+come un migliore stato di benessere generale per tutti i cittadini del pianeta e per
+
+23
+
+---
+
+farlo è necessario indagare aspetti e dinamiche personali, familiari, comunitari; nella
+certezza che la società del benessere possa emergere solo da complesse combinazioni
+tra i progressi scientifici e i valori, le percezioni e le condizioni ambientali personali.
+La seconda ragione è l'aumento negli ultimi anni del potere dei consumatori dei
+servizi, i quali sono intenzionati ad analizzare e comprendere cosa e come
+effettivamente migliorare la loro condizione di vita. Questo fenomeno è il risultato
+dei movimenti per i diritti civili, l'enfasi sulla pianificazione di servizi centrati sulla
+persona, il concetto di autodeterminazione e la volontà di essere attori sociali attivi e
+consapevoli. Il terzo motivo è che i processi e le pratiche di inclusione hanno portato
+a riflettere non solo sulla gestione e l’organizzazione dei servizi alla persona nella
+comunità, ma anche sulla prospettiva della persona disabile presa come fonte di
+valutazione dei servizi offerti dalla comunità.
+
+Il paradigma della Qualità della Vita vede la sua più completa realizzazione
+se si pone come criterio di orientamento delle pratiche educative e delle politiche
+sociali. È un approccio che vede il suo inizio con l’inizio della vita della persona e si
+conclude con essa in una logica sistemica finalizzata a valorizzare le opportunità
+della persona, l’autodeterminazione e la vita indipendente. È un costrutto che vede la
+sua applicazione nelle politiche pubbliche e nei servizi alla persona chiamati a:
+valutare i livelli di QdV, attuare interventi mirati al potenziamento dei livelli di QdV
+e monitorare nel tempo i processi in una logica progettuale di perenne di
+miglioramento.
+
+In conclusione, lo scopo ultimo di qualsiasi intervento orientato alla Qualità
+della Vita deve essere quello di migliorare l'immagine di sé della persona e fornire
+ambienti potenzianti che aumentino le opportunità del soggetto di controllare gli
+aspetti della sua vita che sono a loro volta influenzati dai valori della persona. La
+QdV tuttavia si riferisce alle scelte compiute dalle persone e, ove possibile, al
+controllo personale sui propri interessi, attività, interventi e ambienti di vita. La QdV
+per tali ragioni può essere letta come un costrutto che emancipa la persona
+(empowerment), a partire dalla propria espressione personale, dall’accettazione e la
+consapevolezza delle scelte e dal riconoscimento dei propri valori fino a giungere al
+controllo che la persona esercita sul suo ambiente di vita (‘porre al centro la
+
+persona”).
+
+24

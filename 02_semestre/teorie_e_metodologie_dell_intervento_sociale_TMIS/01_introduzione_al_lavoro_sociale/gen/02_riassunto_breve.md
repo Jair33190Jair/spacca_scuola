@@ -1,107 +1,98 @@
-# Introduzione al modulo di Salute Mentale — Sintesi
-Salute Mentale · Sessione 01
+# Evoluzione storica e sviluppo psico-sociale secondo Erikson — Sintesi
+I tempi della vita · Sessione 01
 
-> Salute, benessere e normalità: tre parole che
-> sembrano semplici, ma non lo sono per niente.
-> Questa lezione smonta le certezze e costruisce
-> basi solide per tutto il modulo.
-
-## Struttura del modulo
-
-- Tre tappe: **clinica**, **mondo**, **corpo**
-- Attraversate da: spazio, tempo, identità,
-  incontro
-- L'operatore sociale come ponte tra discipline
-  specialistiche, non specialista di una sola
-
-## Salute: le 7 condizioni di Boorse (1977)
-
-Nessuna delle sette regge da sola:
-- **Valore** — non universale: contesti in cui
-  la malattia è "preferibile" esistono
-- **Trattamento medico** — la medicina colonizza
-  ambiti non patologici
-- **Norma statistica** — fuori dalla media ≠ malato
-- **Sofferenza** — malattie asintomatiche e
-  dolori fisiologici esistono
-- **Disabilità** — fasi di "non abilità" sono
-  normali nella vita (neonato, sonno)
-- **Adattamento** — l'uomo adatta anche l'ambiente
-  a sé, non solo il contrario
-- **Omeostasi** — la vita si fonda sulla rottura
-  e riconquista dell'equilibrio, non sull'equilibrio
-  statico
-
-## Disease, illness, sickness
-
-- **Disease** → dimensione biomedica (misurabile)
-- **Illness** → vissuto soggettivo della persona
-- **Sickness** → riconoscimento/stigma sociale
-- Le tre dimensioni possono non coincidere — e lo
-  stigma sociale peggiora l'andamento della malattia
-
-## Benessere: le 6 dimensioni di Ryff
-
-- **Autonomia** — autodeterminarsi senza dipendere
-  dagli altri per ogni scelta
-- **Controllo ambientale** — valorizzare le risorse
-  disponibili
-- **Relazioni positive** — relazioni calde, fiduciose,
-  reciproche
-- **Autoaccettazione** — consapevolezza di qualità
-  e limiti
-- **Percezione di crescita** — sentire di evolvere
-- **Scopo nella vita** — avere mete e dare senso
-
-Salute ≠ benessere. Si può stare bene senza essere
-in salute (Terzani) e male pur essendo "sani".
-Per l'operatore: queste dimensioni rendono il lavoro
-sul benessere *concreto e operativo*.
-
-## Tre tipi di normalità
-
-- **Statistica** — nella media; fuori dalla norma
-  porta stigma
-- **Di valore** — ideale irraggiungibile → sofferenza
-  perpetua; attenzione: anche i *nostri* ideali sugli
-  utenti possono diventare penalizzanti
-- **Personale** — rispetto a come funzionavo prima;
-  attenzione a non idealizzare il passato, e a non
-  considerare quella normalità come obiettivo se era
-  proprio lei la causa del problema
-
-## Posizione del soggetto verso la malattia
-
-Due assi: **identificazione** con la condizione ×
-**agentività** (attivo/passivo)
-
-- Passivo + non identificato → **delega** ("guariscimi")
-- Agentivo + non identificato → **guarigione** come
-  unico obiettivo
-- Agentivo + identificato → **cura**: lavora sul
-  benessere dentro la condizione
-
-Passaggio chiave: dalla guarigione alla cura.
-*To cure* ≠ *to care*: la cura è sempre possibile,
-anche quando la guarigione non lo è.
-
-## La tragedia greca
-
-- Dispositivo pedagogico parallelo al modulo
-- 5 gruppi, 5 tragedie per estrazione
-- Tappe: leggere → condividere → sintetizzare →
-  mettere in scena (~20 min)
-- Allena: ascolto di linguaggi non familiari, lavoro
-  di équipe, sintesi, capacità di rinuncia
-- Quest'anno tutte le tragedie convergono sulla
-  violenza sulle donne nei conflitti armati —
-  tema antico e attualissimo (Nadia Murad, Congo,
-  Iraq)
+> Hai già il quadro completo — qui trovi i punti essenziali per non perderli prima dell'esame.
 
 ---
 
-**Da ricordare:** salute, benessere e normalità
-sono tre concetti distinti ma intrecciati. La cura
-è sempre possibile, anche quando la guarigione non
-lo è. Il contesto è fondamentale per interpretare
-qualsiasi comportamento.
+## Evoluzione storica della psicologia dello sviluppo
+
+- **Psicologia dell'età evolutiva** (visione storica): studia solo dalla nascita all'adolescenza; l'adulto è il punto di arrivo, l'anziano è il declino → **metafora della collina**
+- **Psicologia dello sviluppo** (visione attuale): studia i cambiamenti psicologici nell'**intero arco di vita**, fino alla morte → **metafora del fiume**
+- **Gerontologia**: studio scientifico dell'invecchiamento e degli adulti in età avanzata (nasce dopo la WWII)
+- Il cambio di paradigma: dallo sviluppo come "prodotto" allo sviluppo come **processo continuo**
+
+---
+
+## Metafora del fiume
+
+- Il fiume modella il terreno su cui scorre **e** viene modificato dal terreno
+- Affluenti = esperienze, persone, apprendimenti incontrati nel percorso
+- Uscire dagli argini = momenti di crisi o eventi destabilizzanti
+- Ogni fiume è unico — non esiste un "apice" obbligatorio seguito da declino
+
+---
+
+## Life Span Psychology (Paul Baltes)
+
+Approccio che studia lo sviluppo lungo l'intero arco di vita, intrecciato con contesto biologico, sociale, storico e culturale.
+
+**7 principi fondamentali:**
+
+1. Lo sviluppo **dura tutta la vita**
+2. È **multidimensionale e multidirezionale** (fisico, cognitivo, sociale, emotivo)
+3. È caratterizzato dalla **plasticità** (le traiettorie possono modificarsi)
+4. Implica **guadagni e perdite** in ogni fase
+5. È **interattivo** (individuo ↔ ambiente, prospettiva interazionista sistemica)
+6. È calato nella **realtà storica e culturale**
+7. È **multidisciplinare**
+
+**Tecniche di indagine:**
+- **Studi trasversali**: gruppi a età diverse, stesso momento → rapidi, ma meno precisi sull'individuo
+- **Studi longitudinali**: stessa persona nel tempo → precisi sull'individuo, ma lunghi e con rischio di abbandono
+
+---
+
+## Erik Erikson — Biografia essenziale
+
+- Nasce 1902 a Francoforte come **Erik Homburg** (figlio di relazione extraconiugale, padre biologico mai conosciuto)
+- Vuole fare arte e viaggiare; famiglia lo spinge alla medicina → si oppone
+- Crisi d'identità → viaggia in Italia → Vienna → conosce **Anna Freud** → psicoanalisi
+- 1933: si trasferisce a Boston, diventa primo psicanalista infantile della città
+- Cambia cognome in **Erikson** al momento della cittadinanza americana
+- Muore nel 1994
+
+---
+
+## Teoria dello sviluppo psico-sociale
+
+- Parte dalla base freudiana, ma aggiunge la **dimensione sociale**
+- Sviluppo = integrazione tra **maturazione biologica** e **appartenenza al sistema sociale**
+- La maturazione fisica porta nuove possibilità **e** nuove richieste sociali
+- Metodo: osservazione diretta, confronti tra culture, **psicobiografie**
+
+### Meccanismo centrale — Conflitto bipolare
+
+**Da sapere a memoria:**
+
+> In ogni stadio c'è un **polo positivo** e un **polo negativo**. Lo sviluppo ottimale = uscire dallo stadio **sbilanciati sul polo positivo**, avendo **integrato la parte positiva del polo negativo**.
+
+Esempio (stadio 1): mi fido di chi mi cura (polo positivo) + so che non posso fidarmi di tutti (parte positiva del polo negativo = mi proteggo).
+
+---
+
+## Gli otto stadi
+
+| Stadio | Età | Conflitto | Compito evolutivo |
+|--------|-----|-----------|-------------------|
+| 1 | 0–1 anno | Fiducia vs Sfiducia | Imparare a fidarsi dell'altro |
+| 2 | 1–3 anni | Autonomia vs Vergogna e Dubbio | Controllo corporeo e autonomia |
+| 3 | 3–5 anni | Iniziativa vs Senso di Colpa | Esplorare, giocare, avere iniziativa |
+| 4 | 6–10 anni | Industriosità vs Inferiorità | Apprendimento e collaborazione |
+| 5 | Adolescenza | Identità dell'Ego vs Confusione dei Ruoli | Definire la propria identità |
+| 6 | Prima età adulta | Intimità vs Isolamento | Costruire relazioni intime e durature |
+| 7 | Età adulta | Creatività vs Stagnazione | Trasmettere qualcosa alle generazioni future |
+| 8 | Età senile | Integrità dell'Ego vs Disperazione | Riflettere e accettare il proprio percorso di vita |
+
+**Note importanti:**
+- Le fasi non hanno confini rigidi — sempre da leggere con la specificità individuale
+- Lo stadio 7 era inizialmente chiamato **generatività** (genitorialità); poi ampliato a tutto ciò che si trasmette alle generazioni future
+- Ricercatori contemporanei propongono di **unire gli stadi 6 e 7** (nella vita reale coesistono)
+- Se una fase non è superata in modo ottimale, è ancora possibile recuperare in quelle successive
+
+---
+
+**Da ricordare:**
+1. **Metafora del fiume** vs metafora della collina — lo sviluppo è un processo continuo, non un'ascesa seguita da declino
+2. **7 principi della Life Span Psychology** — plasticità, guadagni e perdite, multidimensionalità, interazione con il contesto...
+3. **Conflitto bipolare di Erikson** — sviluppo ottimale = polo positivo + integrazione della parte positiva del polo negativo

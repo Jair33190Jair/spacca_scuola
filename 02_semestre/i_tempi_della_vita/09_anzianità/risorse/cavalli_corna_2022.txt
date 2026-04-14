@@ -1,0 +1,843 @@
+Si ringrazia per il sostegno: 
+Banca dello Stato del Cantone Ticino 
+Gruppo Multi SA 
+L'incertezza demografica 
+Il Canton Ticino 
+fra denatalità e invecchiamento 
+In collaborazione con il 
+Gruppo di studio e di informazione 
+i 
+i 
+A cu 
+i 
+Coscienza svizzera 
+rad 
+Ivano Dandrea e Edoardo Slerca 
+© 2022 - Armando Dadò editore 
+CH-6600 Locarno, via Orelli 29, www.editore.ch 
+La casa editrice Armando Dadò editore beneficia di un sostegno strutturale 
+dell’Ufficio federale della cultura per gli anni 2021-2024 
+ISBN: 978-88-8281-609-4 
+| 
+ARMANDO DADÒ EDITORE
+
+---
+
+CAPITOLO 5 
+L’invecchiamento della popolazione: 
+tra sfide e opportunità 
+Stefano Cavalli e Laurie Corna 
+Il Ticino, è noto a 
+tutti, sta invecchiando e 
+il fenomeno si accentuerà 
+nei prossimi anni. In questo capitolo discutiamo le principali sfide che 
+il Cantone deve affrontare per far fronte all’evoluzione della struttura 
+demografica, ma anche le opportunità di tale trasformazione. 
+L’invecchiamento della popolazione non dipende solo dall’au- 
+mento del numero di persone anziane, ma è anche il risultato di uno 
+squilibrio tra i diversi gruppi di età. Una società invecchia se cresce la 
+proporzione di persone anziane e contemporaneamente diminuisce 
+quella dei più giovani. All’apparenza sembra tutto molto semplice, 
+ma occorre ancora accordarsi su quando si diventa anziani. Il modo 
+in cui definiamo l’anzianità si riflette infatti sull’invecchiamento della 
+popolazione. Di solito consideriamo anziane le persone che raggiun- 
+gono 
+i 65 anni, ma si tratta di una soglia arbitraria, che in Svizzera 
+corrisponde all’età di pensionamento ordinaria per gli uomini. Gli sce- 
+nari sarebbero ben diversi se, ad esempio, ritenessimo anziane solo le 
+persone che hanno superato l’aspettativa di vita. 
+Fenomeno rilevante su scala globale, l’invecchiamento demogra- 
+fico è un processo dinamico e in continua evoluzione (Borioli 2021). 
+Le sue cause sono da ricercare nelle tendenze passate e attuali di fe- 
+condità, mortalità e migrazioni. Una contrazione della natalità è all’o- 
+rigine di quello che è stato denominato «invecchiamento dal basso», 
+un innalzamento dell’aspettativa di vita provoca un «invecchiamento 
+dall’alto». In Europa, 
+i movimenti migratori internazionali compen- 
+sano in parte il calo delle nascite. Altri spostamenti della popolazione 
+possono invece rafforzare l’invecchiamento in determinati contesti — 
+si pensi ai confederati che varcano il Gottardo per trascorrere gli anni 
+della pensione a sud delle Alpi. 
+101
+
+---
+
+La Svizzera è tra i Paesi più vecchi al mondo e, al suo interno, il Can- 
+ton Ticino vanta gli indici di anzianità e di grande anzianità più elevati. 
+Diamo uno sguardo ad alcuni dati chiave grazie ai lavori dell’USTAT, 
+l’ufficio cantonale di statistica (Borioli 2021; Ufficio di statistica 2022; 
+http://www.ti.ch/ustat). Nel 1910, in Ticino, vivevano poco più di dieci- 
+mila persone di 65 anni e oltre, nel 2020 erano 81’011. L'evoluzione è 
+ancora più impressionante se consideriamo gli ultraottantenni, il cui 
+numero si è moltiplicato per venti (da 1’300 a 25’256). A fine 2021 il 
+nostro Cantone contava 142 centenari; solo Basilea Città ne registra- 
+va una concentrazione maggiore. La popolazione anziana è cresciuta 
+tanto in termini assoluti che relativi: all’inizio del secolo scorso, poco 
+più di sette persone su cento avevano già festeggiato il loro sessanta- 
+cinquesimo compleanno, nel 2020 erano quasi una su quattro (23,1%) 
+— e sette su cento (72%) erano ultraottantenni; detto altrimenti, la 
+percentuale di over 80 odierna è simile a quella degli over 65 nel 1910. 
+L'aspettativa di vita alla nascita è passata da 50,6 anni per gli uomini 
+e 53,8 anni per le donne nel 1910 a rispettivamente 81,5 e 85,8 anni 
+nel 2019-20”. 
+Cosa ci riserva il futuro? Stando allo scenario demografico «me- 
+dio», ovvero 
+il più probabile, nel 2050 la popolazione residente in 
+Ticino ammonterà a 358’683 unità, in aumento del 2% rispetto alla 
+situazione attuale (Bruno 2021). Il saldo naturale diventerà sempre 
+più negativo, mentre per quel che riguarda 1 flussi migratori il numero 
+di arrivi dovrebbe mantenersi superiore a quello delle partenze. Il pro- 
+cesso di invecchiamento è destinato a proseguire nei prossimi decenni 
+quando tutti i baby boomer entreranno nell’anzianità: nel 2050 le per- 
+sone di 65 anni e oltre rappresenteranno il 34,2% della popolazione, 
+la quota di ultraottantenni raggiungerà il 16,0%. 
+19. Nel 2018-19 l’aspettativa di vita era di 82,7 anni per gli uomini e di 86,5 anni per 
+le donne. Secondo i calcoli dell'Ufficio federale di statistica, a causa della pandemia di 
+COVID-19, in Ticino l’aspettativa di vita è calata di 2,3 anni per gli uomini e di circa 
+un anno per le donne (Kohli 2021). 
+102 
+ 
+Le sfide legate all’invecchiamento della popolazione 
+L’invecchiamento della popolazione è generalmente descritto in ter- 
+mini negativi, come un problema, un malessere, una minaccia, un ri- 
+schio, uno «tsunami grigio» (Charise 2012). Si sottolineano, a ragion 
+veduta, le sfide legate al finanziamento del sistema pensionistico e ai 
+costi del settore sociosanitario, si paventano potenziali conflitti tra le 
+generazioni per la ridistribuzione di risorse sempre più scarse. Si ten- 
+de, per contro, a sorvolare sugli aspetti positivi. In primis, il fatto che la 
+vita si allunghi, che sempre più persone raggiungano un’età avanzata, è 
+una delle conquiste più straordinarie della nostra società. Una visione 
+più equilibrata deve anche riconoscere il contributo della popolazione 
+anziana in favore della collettività. 
+Il finanziamento del sistema pensionistico 
+In Svizzera il sistema pensionistico si fonda su tre pilastri, vale a dire 
+l’assicurazione vecchiaia e superstiti (AVS), la previdenza professio- 
+nale (LPP) e il risparmio privato facoltativo incentivato con agevola- 
+zioni fiscali. Di questi, il primo è particolarmente sensibile all’anda- 
+mento demografico. Introdotta a furor di popolo nel 1948, VAVS ha per 
+obiettivo di garantire un minimo vitale una volta raggiunta l’età della 
+pensione. Si basa sul principio della solidarietà (tra le generazioni e tra 
+i più benestanti e 
+i meno abbienti) ed è sovvenzionata attraverso un 
+sistema di ripartizione, in cui le generazioni attive finanziano i benefi- 
+ciari di rendite?0. Pertanto, se il numero di persone potenzialmente at- 
+tive diminuisce e quello dei pensionati aumenta, si crea uno squilibrio 
+finanziario. La tesi ricorrente è che in futuro i lavoratori non saranno 
+più in grado di sostenere il peso di una società che invecchia. 
+L’indice di dipendenza permette di misurare il rapporto tra la po- 
+polazione generalmente inattiva (0-14 anni, 65 anni e oltre) e quella 
+in età lavorativa (15-64 anni). Può essere scomposto in un indice di 
+dipendenza dei giovani (persone di meno di 15 anni ogni 100 di 15-64 
+anni) e uno degli anziani (persone di 65 anni e oltre ogni 100 di 15-64 
+20. Contribuiscono al finanziamento dell'AVS anche la Confederazione, una parte 
+dell’imposta sul valore aggiunto (il cosiddetto «percento demografico») e la tassa sulle 
+case da gioco. 
+103
+
+---
+
+anni). Nella classifica intercantonale il Ticino ha il peggior indice di 
+dipendenza degli anziani (36,1 nel 2020) e il terzultimo valore com- 
+plessivo (56,5), davanti solo a Giura e Basilea Campagna (Ufficio di 
+Statistica 2022: 44). 
+Dal 1910 ad oggi l’indice di dipendenza è calato leggermente (Figu- 
+ra 1). Ciò è dovuto alla diminuzione, soprattutto nella prima parte del 
+secolo scorso, del tasso dei giovani. Il rapporto tra anziani e persone 
+in età lavorativa, invece, è cresciuto in modo costante fin dagli anni 
+Quaranta e in modo più sostenuto negli ultimi due decenni. 
+Figura 1: 
+Evoluzione degli indici di dipendenza in Ticino dal 1910 al 2020 
+70 
+60 
+50 
+40 
+30 
+20 
+10 
+0 
+1910 
+1920 
+1930 
+1941 
+1950 
+1960 
+1970 
+1980 
+1990 
+2000 
+2010 
+2020 
+giovani 
+= anziani 
+«st 
+totale 
+Fonte: Ufficio di statistica 2022: 45 (elaborazione degli autori). 
+Nei prossimi decenni, stando alle proiezioni dell’Ufficio federa- 
+le di statistica (scenario medio), l'indice di dipendenza giovanile si 
+manterrà pressoché stabile, mentre quello degli anziani continuerà 
+a crescere, anche se in misura più blanda a partire dal 2035 (Bruno 
+2021). Nel 2050, in Ticino, ci saranno 64 ultrasessantacinquenni ogni 
+100 persone in età lavorativa, il che corrisponde a un incremento del 
+78% rispetto alla situazione attuale. Una pressione potenzialmente 
+104 
+ 
+insostenibile per AVS, che ne mette a repentaglio il finanziamento. 
+Secondo l’Ufficio federale delle assicurazioni sociali, la spesa federale 
+per AVS crescerà notevolmente da qui al 2035, per poi rallentare una 
+volta andati in pensione 
+i baby boomer: un aumento dell’1,1% del 
+prodotto interno lordo tra il 2019 e il 2035, ma solo un ulteriore 0,3% 
+fino al 2050 (Baur et al. 2021: 37). 
+Quali soluzioni adottare per far fronte all’invecchiamento demo- 
+grafico? Con la riforma AVS 21, che mira a mantenere in equilibrio 
+il finanziamento del primo pilastro fino al 2030, il Consiglio federale 
+prevede degli incentivi per prolungare l’attività lavorativa, l’innal- 
+zamento dell’età pensionabile delle donne a 65 anni e un aumento 
+dell’imposta sul valore aggiunto. I contrari sostengono che si voglia 
+far pagare alle donne 
+il prezzo di uno smantellamento dello Stato 
+sociale e ritengono un'illusione pensare di far lavorare le persone più 
+a lungo. Un’altra soluzione consiste nell’aumentare il numero di per- 
+sone occupate, per esempio grazie all’arrivo di manodopera straniera 
+o a una maggiore partecipazione delle donne al mercato del lavoro. 
+Anche l’andamento economico gioca il suo ruolo: se aumentano i sa- 
+lari, crescono pure 
+i contributi. Oppure si può pensare a delle forme 
+alternative di finanziamento, come l’utilizzo di parte degli utili della 
+Banca nazionale. Infine, vanno ricordati alcuni limiti dell’indice di di- 
+pendenza, che presuppone che tutte le persone di 65 anni e oltre non 
+siano più attive professionalmente — nel 2020, in Ticino, circa seimila 
+over 65 erano occupati a tempo pieno o parziale (Ufficio di statistica 
+2022: 96) — ed è calcolato sulla popolazione residente permanente, 
+senza tener conto di fenomeni come il frontalierato. In conclusione, 
+l'aumento dell’indice che misura il rapporto tra anziani e persone in 
+età lavorativa deve essere preso molto sul serio. Eppure, come mostra 
+la Figura 1, non si tratta di una novità: l’indice di dipendenza degli 
+anziani è cresciuto del 56% negli ultimi trent'anni (passando da 23,2 
+a 36,1), del 29% tra il 1960 e il 1990 (da 18,0 a 23,2). 
+Le pressioni sul sistema sociosanitario 
+L’invecchiamento della popolazione pone anche enormi sfide al set- 
+tore delle cure di lunga durata, in termini di capacità, costi e orga- 
+nizzazione dei servizi. La scienza non è ancora riuscita a chiarire se 
+l'aumento della longevità comporti una compressione o un’espansio- 
+105
+
+---
+
+ne della morbilità (Chatterji et al. 2015). È però certo che l’arrivo dei 
+baby boomerin età avanzata aumenterà la domanda di cure ambulato- 
+riali e stazionarie. Lo conferma un recente rapporto dell’Osservatorio 
+svizzero della salute (Pellegrini et al. 2022). Secondo gli autori dello 
+studio, in Svizzera, il fabbisogno di cure di lunga durata crescerà del 
+56% entro il 2040. Per soddisfare la domanda serviranno 54’000 nuovi 
+posti letto in casa per anziani (+69%), l'equivalente di 900 istituti di 
+medie dimensioni; i servizi di cure a domicilio dovranno farsi carico di 
+100’000 clienti in più (+52%), gli aiuti a domicilio di ulteriori 477000 
+persone (+54%); nelle strutture intermedie l’aumento sarà del 63% 
+per 
+i soggiorni brevi e del 43% per gli alloggi destinati agli anziani. 
+Numeri impressionanti che solo in parte potrebbero essere mitigati 
+da un’evoluzione epidemiologica favorevole (ad es., una diminuzione 
+della durata del bisogno di cure) o da cambiamenti nelle politiche del- 
+la vecchiaia (ad es., la presa in carico domiciliare per tutte le persone 
+che necessitano di cure leggere o lo sviluppo di servizi d’appoggio). 
+L’aumento dei bisogni di cure di lunga durata non è nuovo, ma 
+la velocità e le dimensioni del fenomeno sono del tutto inediti e non 
+possono lasciare indifferenti. Tali previsioni rispecchiano quelle della 
+nuova pianificazione cantonale, con orizzonte 2030, delle politiche de- 
+stinate agli anziani (Dipartimento della sanità e della socialità 2021). 
+La strategia del Canton Ticino riconosce la centralità della persona 
+anziana, coerentemente con quanto adottato in altri Cantoni latini 
+da alcuni decenni favorisce e rafforza la presa in carico domiciliare, e 
+soprattutto punta a una maggiore integrazione dei servizi e alla costi- 
+tuzione di reti di cure integrate. Lo scenario proposto come obiettivo 
+pianificatorio prevede di creare 1’180 nuovi posti letto in casa per an- 
+ziani e compensare il fabbisogno scoperto (circa 800 posti letto) con 
+un ulteriore sviluppo del settore ambulatoriale: aumento sostanziale 
+delle ore per l’assistenza e le cure a domicilio (+62% per le cure LA- 
+Mal, +33% per l’economia domestica), realizzazione di 135 posti nei 
+Reparti acuti di minore intensità (RAMI) e potenziamento dei servizi 
+di appoggio (centri diurni, servizio pasti a domicilio e trasporti, aiuti 
+diretti, ecc.). 
+Tutto ciò comporterà dei costi ingenti: in Ticino si prevede che nel 
+2030 
+i contributi annuali dell’ente pubblico ammonteranno a 3578 
+milioni di franchi; a livello svizzero si stima che i costi raddoppieranno 
+entro il 2045, quando rappresenteranno il 3,4% del prodotto interno 
+lordo. Al tempo stesso, l'invecchiamento della popolazione richiederà 
+106 
+ 
+un sostanziale aumento del personale curante: nel nostro Cantone il 
+fabbisogno è stimato in 1’200 persone nelle case per anziani e tra 
+i 
+400 e 
+i 1°000 professionisti nei servizi d’aiuto e cura a domicilio; sul 
+piano nazionale saranno necessari 54’000 infermieri supplementari. 
+Maggiori costi quindi, ma anche nuove e interessanti opportunità di 
+lavoro per i giovani — crescendo la complessità assistenziale degli uten- 
+ti, servirà personale altamente qualificato (ad es., specialisti clinici). 
+Le relazioni tra le generazioni 
+Le relazioni intergenerazionali sono condizionate dai rapporti di po- 
+tere economici e politici, dando origine a norme e regolamenti, usi e 
+costumi (Liischer et al. 2017). La loro organizzazione è orientata alla 
+gestione delle interazioni tra le generazioni così come delle modalità 
+di ripartizione e trasmissione delle risorse. Le relazioni intergenera- 
+zionali possono essere conflittuali o solidali e in genere si fondano 
+sul concetto di reciprocità. Modi e tempi della restituzione possono 
+però variare e gli attori coinvolti non essere gli stessi. La reciprocità 
+può essere differita nel tempo, come nel caso dei figli che, accuditi da 
+piccoli, si prendono cura degli anziani genitori decenni più tardi. A 
+volte si assiste a una trasposizione delle controprestazioni ai membri 
+delle generazioni successive. Il sistema di ripartizione dellAVS ne è 
+un buon esempio: la generazione attiva finanzia le rendite degli at- 
+tuali beneficiari, nella convinzione che le generazioni future faranno 
+lo stesso. Infine, non è da escludere che alcuni individui (o gruppi 
+di individui) diano o ricevano più di altri, richiamando questioni di 
+equità e di giustizia. 
+Scambi e rapporti tra le generazioni possono essere analizzati sia 
+dal punto di vista macro-sociale (ad es., per quanto riguarda la distri- 
+buzione delle risorse della società), sia da quello micro-sociale (ad es., 
+interessandosi alle interazioni su scala ridotta). A livello macro, non è 
+raro imbattersi in slogan quali «guerra tra le generazioni», «necessità 
+di un dialogo tra le generazioni» o «fossato tra le generazioni». Tali 
+espressioni riflettono una retorica generazionale, costruita attorno a 
+una «struttura antagonistica tra idealizzazione (solidarietà) e pericolo 
+(conflitto)» (Liischer et al. 2017: 104). In realtà, la questione genera- 
+zionale è spesso rappresentata in modo eccessivamente drammatico: 
+la tesi di un conflitto in atto tra le generazioni appare esagerata e non 
+107
+
+---
+
+suffragata dai fatti, ma pure l’idea di una solidarietà volta a garantire 
+la coesione sociale e promuovere il sentimento di appartenenza e di 
+benessere rischia di essere romanticizzata. 
+Se puntiamo la lente sugli individui, è bene ricordare che gli anziani 
+non sono solo destinatari di aiuti e utenti di servizi, ma costituiscono 
+una risorsa per le famiglie e la società. Le persone anziane forniscono 
+un prezioso sostegno ai propri cari — a livello pratico, finanziario e 
+soprattutto emotivo —, apportano esperienza e sono sempre più impe- 
+gnate in attività di volontariato; forme di solidarietà spesso silenziose 
+e non ancora pienamente riconosciute. Quantificare tale contributo 
+non è semplice; dei ricercatori australiani e statunitensi l'hanno stima- 
+to in svariati milioni di dollari all’anno (Bloom et al. 2020). Ma al di là 
+del valore economico, le persone anziane hanno un ruolo importante 
+all’interno delle loro famiglie e comunità. 
+In Ticino, nel 2011, quasi tutte le persone di età compresa tra i 65 e 
+gli 84 anni, e il 70% degli over 85, fornivano almeno un aiuto a membri 
+della famiglia o ad amici, vicini e conoscenti (senza tener conto dei 
+conviventi). Gli anziani prestano soprattutto dei servizi di natura re- 
+lazionale — tenere compagnia, offrire sostegno morale, accompagnare 
+qualcuno a fare una passeggiata, badare ai nipoti, ecc. — e i destinatari 
+sono in prevalenza membri della famiglia — figli 0, per i più giovani, un 
+genitore ancora in vita (Cavalli et al. 2015). 
+I dati dello studio Corona Immunitas Ticino?! mostrano che anche 
+durante la pandemia di COVID-19 gli anziani hanno continuato a 
+fornire numerosi aiuti ai familiari (vedi Figura 2), e questo malgrado le 
+misure di confinamento e le esortazioni delle autorità a evitare i con- 
+tatti intergenerazionali. Il 37% dichiara di fornire un sostegno morale 
+o emotivo ai membri della propria famiglia, poco meno di un terzo 
+cucina per loro o 
+si occupa della spesa, una percentuale analoga accu- 
+disce 
+i nipoti. In generale, il 60% delle persone anziane elargisce uno 
+O più aiuti, tra quelli presi in considerazione, almeno una volta ogni 
+quindici giorni. Rispetto al periodo precedente l’avvento del corona- 
+virus, il calo è contenuto (erano il 64%) e riguarda soprattutto la cura 
+dei nipoti (dal 38 al 29%) e la preparazione dei pasti (dal 36 al 31%). 
+21. Il progetto Corona Immunitas Ticino, condotto dall'Università della Svizzera 
+italiana e dalla Scuola universitaria professionale della Svizzera italiana, in collabora- 
+zione con l’Ente Ospedaliero Cantonale, ha l’obiettivo di determinare l’impatto del 
+coronavirus, la sua diffusione e lo sviluppo dell’immunità nella popolazione ticinese. 
+Per maggiori informazioni: https://www2.supsi.ch/cms/corona-immunitas-ticino/ 
+108 
+Figura 2: 
+Aiuti forniti ai familiari almeno una volta ogni 15 giorni, 
+prima e durante la pandemia di COVID-19 
+Gesti essenziali della vita quotidiana 
+Preparazione dei pasti 
+Fare la spesa 
+Lavori domestici 
+Pratiche amministrative 
+Gestione dei servizi formali 
+Riparazione/giardinaggio 
+Trasporto 
+Supporto morale 
+Sorveglianza 
+Accudimento dei nipoti 
+i 
+0% 
+10% 
+20% 
+30% 
+40% 
+prima della pandemia 
+@ durante la pandemia 
+Fonte: Corona Immunitas Ticino; 2021, 
+N = 577 (elaborazione degli autori). 
+Qui ci siamo concentrati sui servizi forniti a membri della famiglia 
+che non vivono sotto lo stesso tetto. Non dobbiamo pero dimentica- 
+re l’apporto del coniuge, in particolare delle mogli che con la loro 
+presenza costante permettono a molti uomini di rimanere al proprio 
+domicilio malgrado la perdita di autonomia. E nemmeno la solidarie- 
+tà extra-familiare va sottovalutata: un anziano su tre si è occupato di 
+amici e conoscenti durante la pandemia. 
+Le caratteristiche delle persone anziane 
+Un rischio, quando si parla di invecchiamento della popolazione, è 
+quello di ragionare per categorie — 
+i giovani, gli adulti in età lavora- 
+tiva, gli anziani — senza considerare la composizione di ciascuna di 
+esse, come se si trattasse di gruppi omogenei e immutabili nel corso 
+del tempo. La persona anziana è ancora troppo spesso descritta come 
+un essere fragile, malato, che necessita di cure e dipende dall’aiuto di 
+terzi per svolgere 
+i gesti essenziali della vita quotidiana. Dal punto di
+
+---
+
+vista dei legami e dei ruoli sociali, la si racconta come isolata, a forte 
+rischio di solitudine. Usciti dal mondo del lavoro, gli anziani sono con- 
+siderati inutili, un peso (e un costo) per la collettività. Difficile che la 
+persona anziana sia associata a termini quali innovazione o crescita, 
+raro che sia dipinta come aperta e ben disposta verso 
+i giovani e le 
+nuove generazioni. 
+Metamorfosi di un gruppo eterogeneo 
+Ma è davvero così? Chi sono in realtà gli anziani? Si tratta innanzitutto 
+di una popolazione in continua trasformazione. Le caratteristiche, le 
+risorse, i bisogni, gli interessi e i desideri, i valori e gli stili di vita delle 
+persone anziane mutano nel corso del tempo, sull’onda dei principali 
+cambiamenti sociali. Gli anziani di oggi sono molto diversi da quelli 
+del passato, e quelli di domani lo saranno rispetto a quelli di oggi. 
+Questo perché hanno vissuto in periodi distinti. Infatti, fin dagli anni 
+Settanta del secolo scorso, la sociologia ha mostrato che le epoche e 
+i luoghi attraversati, così come gli eventi storici vissuti, influenzano e 
+modellano il percorso di vita di un individuo. 
+Gli ultraottantenni di oggi, che compongono 
+la maggior parte 
+dell’utenza dei servizi destinati alla popolazione anziana, apparten- 
+gono a quella che è stata denominata la «generazione silenziosa». Nati 
+tra il 1920 e lo scoppio della Seconda guerra mondiale, sono stati te- 
+stimoni di buona parte del secolo scorso. Cresciuti in un contesto di 
+privazioni, crisi e belligeranza, sono stati socializzati secondo i valori 
+del lavoro, del rigore e del risparmio. Da adulti hanno approfittato 
+dell'enorme miglioramento delle condizioni di vita, che hanno con- 
+tribuito a rendere possibile. Hanno raggiunto l’età pensionabile negli 
+anni in cui il secondo pilastro (previdenza professionale) diventava 
+obbligatorio e, in età avanzata, beneficiano di un sistema sociosanita- 
+rio senza precedenti. 
+Ben diverso è 
+il percorso seguito dai baby boomer, che stanno ar- 
+rivando in massa nell’anzianità. Nati tra il 1945 e il 1965, non hanno 
+vissuto la guerra, se non nei ricordi dei loro genitori, e sono cresciuti 
+nella società dell'abbondanza. È la generazione delle rivoluzioni gio- 
+vanili, del pacifismo, del femminismo, della pillola anticoncezionale 
+e della musica rock. Molti hanno iniziato a utilizzare il computer du- 
+rante la vita lavorativa e oggi passano il tempo su Facebook, mentre 
+110 
+ 
+la maggior parte dei membri della generazione precedente era già in 
+pensione quando si è diffuso l’utilizzo della posta elettronica. Hanno 
+favorito l'aumento della domanda di beni di consumo, ma anche visto 
+lo Stato sociale entrare in crisi. 
+Quindi, la popolazione anziana si trasforma nel corso del tempo. 
+In secondo luogo, gli anziani sono molto diversi tra loro e costituisco- 
+no un gruppo estremamente eterogeneo. Un mondo separa il «giova- 
+ne anziano» appena andato in pensione da un «grande anziano», ad 
+esempio la novantenne residente in una casa medicalizzata. Queste 
+differenze di età si traducono in stati di salute e situazioni familiari 
+diversi (tra l’altro, il primo potrebbe essere figlio della seconda), ma 
+anche — l’abbiamo visto — in termini di appartenenza generazionale. 
+Per rendere conto di queste realta, da alcuni decenni distinguiamo due 
+tappe dell’anzianita: la terza eta, fase della vita ricca di potenzialita 
+durante la quale si è a beneficio della pensione ma non si è ancora 
+vecchi, e la quarta età, che alcuni autori hanno descritto come gli «anni 
+della fragilità» (Lalive d’Epinay e Spini 2008). Permane la difficoltà 
+nel delimitare il confine, a volte invisibile, tra un’età e l’altra, e non si 
+deve cadere nell’errore di credere che tutti i giovani anziani siano in 
+buona salute, attivi e desiderosi di approfittare di quanto la vita e il 
+mondo moderno hanno da offrire, contrapponendoli ai grandi anziani 
+affetti da polipatologie e confinati ai margini della società. 
+Inoltre, anche tra persone della stessa età c’è una grande eteroge- 
+neità. La ricerca scientifica ha appurato che non ci sono altri periodi 
+della vita in cui le disparità tra gli individui — in termini di salute, 
+economiche, relazionali, ecc. — sono così marcate. Come ci rammenta 
+il geriatra Marco Trabucchi, una grande variabilità «caratterizza i volti 
+delle persone anziane: nessuno è uguale all’altro e il tempo che passa è 
+un fattore di differenziazione» (2016: 11). Vale a dire che gli individui, 
+man mano che invecchiano, tendono ad assomigliarsi sempre meno. 
+La crescente eterogeneità è il risultato di percorsi di vita diversamente 
+contrassegnati da opportunità ed eventi avversi, scelte e costrizioni, 
+e di processi attraverso 
+i quali 
+i vantaggi si accumulano per alcuni e 
+gli svantaggi per altri: chi parte da una posizione favorevole tende a 
+moltiplicare i privilegi, mentre chi lo fa da una situazione di difficoltà 
+rischia di rimanere sempre più indietro (vedi Dannefer 2020). 
+111
+
+---
+
+L’anziano di domani 
+Quali saranno le caratteristiche delle persone anziane di domani, che 
+apparterranno in gran parte alla generazione del baby boom, oltre al 
+fatto di essere particolarmente numerose? Nel corso dei lavori prepa- 
+ratori per la nuova pianificazione cantonale del settore sociosanitario, 
+abbiamo provato a tracciare un ritratto degli anziani nel 2030 (Cavalli 
+e Corna 2020)??. 
+Gli anziani di domani saranno sempre più istruiti e meno nume- 
+rosi ad aver esercitato dei lavori manuali, ossia con un trascorso da 
+operai, piccoli commercianti o artigiani. Nell'insieme beneficeranno 
+di una situazione economica relativamente confortevole, anche se 
+non di rado avranno avuto delle traiettorie professionali interrotte da 
+periodi di disoccupazione o segnate da impieghi precari. La maggior 
+parte delle persone anziane continuerà a vivere a domicilio. Attual- 
+mente, in Ticino, meno di un ultraottantenne su sei risiede in casa per 
+anziani e l’intenzione delle autorità è di ridurre ancora il tasso d’isti- 
+tuzionalizzazione, a favore della presa in carico domiciliare pur valo- 
+rizzando la complementarità con l’ambito stazionario. Molti anziani 
+avranno un passato migratorio: soprattutto italiani, anche se aumen- 
+teranno le persone originarie dei Balcani, del Portogallo e in generale 
+del Sud del mondo. Il numero di Svizzero tedeschi che si trasferiscono 
+a sud delle Alpi per trascorrere gli anni della pensione sembra invece 
+in calo. 
+L’estensione della longevità ha come effetto di allungare la vita 
+di coppia. Nel contempo, la famiglia dell’anziano si diversificherà a 
+seguito dell’incremento di separazioni, divorzi e ricomposizioni fa- 
+miliari. Vivere con il coniuge rimarrà la condizione più diffusa tra 
+i 
+giovani anziani, ma con l’avanzare dell’età la probabilità di abitare da 
+soli cresce sensibilmente, soprattutto per le donne. Avranno meno figli 
+rispetto agli anziani di oggi — che sono gli artefici del baby boom - e, 
+se le tendenze osservate nel recente passato si confermeranno, anche 
+meno contatti diretti con 
+i membri della famiglia. Malgrado ciò, non 
+dovrebbe venire a mancare il sostegno dei propri cari (Complementare 
+22. Salvo indicazioni contrarie, 
+i dati riportati di seguito sono tratti dal rapporto 
+«Il ritratto dell’anziano di domani», scaricabile dal sito del Dipartimento della sanità 
+e della socialità del Cantone Ticino (https://www4.ti.ch/dss/dasf/temi/anziani/pianifica- 
+zione/pianificazione-integrata-lanz-lacd/). 
+112 
+agli aiuti formali) in caso di necessità. Gli anziani di domani attri- 
+buiranno un'importanza maggiore ai legami extra-familiari: gli amici 
+stretti, in particolare, diventeranno una risorsa preziosa su cui contare. 
+Contrariamente a quanto si tende a pensare, la solitudine costituisce 
+un fenomeno minoritario nella popolazione anziana, e tale dovrebbe 
+rimanere nei prossimi anni. 
+In linea di principio, l'anziano di domani godrà di buona salute. 
+Fragilità, malattie e limitazioni funzionali continueranno a riguardare 
+per lo più gli ultraottantenni. In Svizzera, nel corso degli ultimi decen- 
+ni, non è aumentata solo l’aspettativa di vita, ma anche il numero di 
+anni trascorsi senza gravi problemi di salute o incapacità. È pure di- 
+minuita la proporzione di persone che necessita dell’aiuto di terzi per 
+svolgere le attività della vita quotidiana, è cresciuta la quota di coloro 
+che valutano la propria salute in modo positivo, e perfino la prevalen- 
+za di demenza parrebbe essersi ridotta. Alcuni segnali destano però 
+preoccupazione per ciò che concerne le nuove generazioni; torneremo 
+sull’argomento più avanti. 
+La seconda metà del secolo scorso ha visto una profonda trasfor- 
+mazione degli stili di vita: maggiore importanza accordata al tempo 
+libero e allo sviluppo personale, consumismo, progresso tecnologico e 
+turismo di massa. Questi cambiamenti non hanno risparmiato la po- 
+polazione anziana, tanto che i significati stessi dell’età della pensione 
+sono mutati radicalmente: da periodo di meritato riposo dopo una vita 
+dedicata al lavoro, a momento di libertà atteso e desiderato durante il 
+quale realizzare i propri sogni. Gli anziani di domani saranno sempre 
+più attivi. La partecipazione sociale sarà diversificata e coniugherà 
+attività ricreative e culturali, edonistiche e altruiste. 
+L'utilizzo delle tecnologie dell’informazione e della comunicazio- 
+ne è cresciuto in maniera spettacolare a partire dagli anni duemila. 
+In Svizzera, la percentuale di 60-69enni che si connettono a Internet 
+più volte alla settimana è passata dall’8% nel 1999/2000 al 76% nel 
+2016/2017, quella degli ultrasettantenni dall’1 al 46% durante lo stes- 
+so periodo (Hépflinger et al. 2019). La pandemia di COVID-19 ha 
+spinto ancora più anziani ad avvicinarsi 
+a queste tecnologie. L’uso 
+della rete facilita la ricerca di informazioni — circa due terzi dei par- 
+tecipanti allo studio Corona Immunitas Ticino lo fa quotidianamente 
+(vedi Figura 3) — e, grazie 
+a messaggi, videochiamate e posta elet- 
+tronica, permette di comunicare con modalità inimmaginabili alcuni 
+decenni orsono. Più di un quarto dei giovani anziani (65-74 anni) si 
+113
+
+---
+
+connette a un social network almeno una volta alla settimana e uno 
+su cinque effettua degli acquisti online. L’uso di Internet dipende 
+dall’appartenenza generazionale — sono soprattutto 
+i giovani anzia- 
+ni, confrontati a questa innovazione già in età lavorativa, a farne uso 
+nella loro vita quotidiana — ma anche dal livello di formazione e dal 
+reddito. 
+Figura 3: 
+Utilizzo di Internet nel corso dell’ultimo mese, 
+secondo il tipo di attività, persone di 65 anni e più 
+Pratiche 
+65-74 
+5 
+Mn 
+burocratiche 
+754 RI 
+n 
+65-74. Fe 
+Acquisti 
+7+ 
+a 
+i 
+65-74 RM Tie 
+Video 
+DS er 
+. 
+65-74 Meet 
+O 
+Informazione 
+7+ Eee 
+. 
+C4 ie 
+E-mail 
++ i 
+. 
+65-74 
+I 
+n 
+Social network 
+75+ RSI 
+. 
+65-74 Is: 
+ssssesesei; 
+0 
+OO 
+Messaggi, chat 
++ Es 
+O 
+. 
+. 
+674 i 
+TT) 
+Videochiamate 
+73+ 
+st 
+0% 
+20% 
+40% 
+60% 
+80% 
+100% 
+mgiornaliero 
+mM settimanale 
+mensile 
+Fonte: Corona Immunitas Ticino; 2020-21, N = 874 (elaborazione degli autori). 
+La secolarizzazione è un fenomeno che si è esteso a tutte le fa- 
+sce d’età. Sebbene, a sud delle Alpi, anche in futuro la maggior parte 
+degli anziani apparterranno alla Chiesa cattolica, quelli che non si 
+indentificano in una confessione religiosa sono in costante aumento e i 
+praticanti in ribasso. Le religioni tradizionali attraggono sempre meno, 
+ma si continua ad attribuire una grande importanza alla spiritualità, 
+individualizzata e vissuta in privato. Gli anziani di domani mostreran- 
+no una maggiore apertura a temi considerati tabù in passato, come 
+l’affettività e la sessualità in età avanzata o le scelte riguardanti il fine 
+vita. Accorderanno una grande importanza a valori quali l'autonomia 
+e l’autodeterminazione, il benessere e la realizzazione personale. La 
+114 
+parità di genere si imporrà nelle mentalità. Infine, i loro gusti alimen- 
+tari, musicali o nel vestirsi rifletteranno la storia di una generazione 
+cresciuta tra gli anni Sessanta e Settanta del secolo scorso. 
+Verso un aumento delle disuguaglianze sociali 
+Nell’insieme, le condizioni di vita degli anziani residenti in Ticino sono 
+soddisfacenti e dovrebbero continuare a migliorare nei prossimi anni. 
+Attenzione però, non si tratta di conquiste definitive. I processi di cre- 
+scita osservati in passato non rappresentano un destino irrevocabile, 
+ma sono il frutto di determinati cambiamenti sociali. Nello specifico, 
+sono stati resi possibili dall’innalzamento del livello d’istruzione e dal- 
+la trasformazione della struttura socioprofessionale, dal miglioramen- 
+to delle condizioni materiali di esistenza, dall’adozione di stili di vita 
+più sani, dai progressi della medicina e della salute pubblica. In caso 
+d’involuzione in questi campi — ad esempio, precarizzazione del lavo- 
+ro, smantellamento dello Stato sociale, cattive abitudini alimentari e 
+sedentarieta — delle conseguenze negative sulla popolazione anziana 
+non sono da escludere. 
+Inoltre, come abbiamo già avuto modo di sottolineare, gli anzia- 
+ni costituiscono un gruppo eterogeneo. Non tutti sono benestanti, in 
+buona salute, attorniati da una famiglia numerosa, impegnati in at- 
+tività stimolanti e variegate, a proprio agio con le nuove tecnologie. 
+Malgrado il sistema previdenziale e misure come le prestazioni com- 
+plementari allAVS, ancora troppe persone anziane versano in condi- 
+zioni di povertà: stimiamo che, nel nostro Cantone, potrebbero essere 
+più di 10°000 nel 2030 (Cavalli e Corna 2020: 40). Pur trattandosi di 
+un fenomeno minoritario, la solitudine interesserà all’incirca 15’000 
+ultrasessantacinquenni, un problema tanto più grave in quanto ad oggi 
+non disponiamo di politiche pubbliche per farvi fronte, e nemmeno 
+si lanciano campagne di sensibilizzazione o di prevenzione (Cavalli 
+et al. 2021). Ma è soprattutto nel campo della salute che si osservano 
+grandi differenze, con alcuni che giungono alla pensione in cattive 
+condizioni, spesso dopo aver svolto dei lavori gravosi e usuranti, e altri 
+che si mantengono in forma e indipendenti fino in età molto avanzata. 
+Guardando al futuro, l’ipotesi che avanziamo è che non andremo 
+incontro a un deterioramento generalizzato delle condizioni di vita 
+della popolazione anziana, quanto piuttosto a un aumento delle di- 
+115
+
+---
+
+suguaglianze sociali. Prendiamo il caso della salute. Come mostra la 
+Figura 4, in Svizzera, la percentuale di persone che non riescono a 
+svolgere da sole le attività della vita quotidiana (alimentarsi, lavarsi, 
+vestirsi, ecc.) varia a seconda dell’età così come del livello di istruzio- 
+ne. Nel 2017, se confrontiamo le persone che si sono fermate alle scuo- 
+le dell’obbligo con quelle che hanno effettuato degli studi superiori, 
+notiamo una proporzione maggiore di dipendenti nei meno istruiti: il 
+quadruplo tra i giovani anziani (65-74 anni) e più del doppio tra i gran- 
+di anziani (75 anni e 
+oltre). Delle differenze, la letteratura scientifica 
+e altri dati raccolti nel nostro Paese ce lo insegnano, che si osservano 
+anche in funzione della professione esercitata o del reddito, che si con- 
+siderino le limitazioni nelle attività strumentali della vita quotidiana 
+(preparare un pasto, usare il telefono, prendere i mezzi pubblici, ecc.), 
+i sintomi depressivi, il rischio di cadute o la percezione della salute. 
+Figura 4: 
+Persone con limitazioni nelle attività della vita quotidiana 
+secondo il livello di istruzione 
+25% 
+m 2012 
+2017 
+20% 
+15% 
+10% 
+5% 
+O 
+«O 
+@ 
+O 
+© 
+@ 
+SO 
+eo 
+S 
+SS 
+eo 
+© 
+L 
+N 
+Le 
+SY 
+N 
+& 
+we 
+> 
+È 
+> 
+65-74 anni 
+75 anni e oltre 
+Fonte: Indagine sulla salute in Svizzera; 2012 e 2017, N = 4°805 e 5°115 (elaborazione degli autori). 
+1146 
+Ancor piu allarmante é l’evoluzione tra il 2012 e il 2017 (Figura 4): 
+se tra gli ultrasettantacinquenni la percentuale di dipendenti è diminu- 
+ita, quale che sia il livello di formazione, la situazione è peggiorata tra 
+i giovani anziani che non hanno frequentato studi superiori. Anche 
+i 
+casi di diabete, ipertensione e colesterolo alto, tra i principali fattori di 
+rischio cardiovascolare, sono aumentati nel corso del tempo, scavando 
+un divario sempre maggiore tra le persone con un livello di formazio- 
+ne basso o intermedio e quelle più istruite. Delle tendenze preoccu- 
+panti, che andranno messe alla prova con l’ausilio di nuovi dati. 
+Trasformare un problema in un’opportunità 
+L'invecchiamento della popolazione porta con sé diverse sfide, che 
+mettono potenzialmente in discussione 
+il sistema pensionistico, che 
+rischiano di pregiudicare le nostre capacità a far fronte al «peso della 
+cura» e che hanno delle conseguenze sulla società in termini di rappor- 
+ti intergenerazionali. In queste pagine abbiamo cercato di illustrarle 
+ma anche di trasmettere un messaggio più positivo e, speriamo, co- 
+struttivo. L'invecchiamento della popolazione non può essere com- 
+preso senza un’attenta analisi di caratteristiche, bisogni e risorse delle 
+persone che invecchiano, così come dei contesti sociali in cui le loro 
+vite si svolgono. Persone diverse le une dalle altre: se una parte di esse 
+è affetta da polipatologie e necessita di una presa in carico continua- 
+tiva, nell’insieme le persone anziane di oggi godono di condizioni di 
+vita soddisfacenti e forniscono un contributo notevole alla collettività. 
+In futuro la situazione dovrebbe continuare a migliorare, ma abbiamo 
+anche condiviso delle preoccupazioni riguardo a un possibile aumento 
+delle disuguaglianze sociali. 
+L’universo anziani 
+è problematico, ma 
+è anche un universo di 
+opportunità da cogliere. Invece di limitarsi 
+a sottolineare 
+i proble- 
+mi legati all’invecchiamento della popolazione, perché non provare 
+a riconoscere e valorizzare le numerose risorse di cui dispongono gli 
+anziani? Perché non tentare di trasformare quelli che sembrano a 
+tutti 
+gli effetti degli svantaggi — avere gli indici di anzianità più elevati in 
+uno dei Paesi più vecchi del pianeta, essere confrontati al fenomeno 
+dell’invecchiamento prima di altri — in un'opportunità, creando una 
+sorta di laboratorio per promuovere in modo innovativo il ruolo delle 
+persone anziane nella nostra società? Non si tratta, modificando il ti- 
+117
+
+---
+
+tolo del celebre romanzo di Cormac McCarthy, di fare del Ticino «un 
+paese per vecchi», quanto piuttosto di sviluppare dei progetti pionie- 
+ristici — nel campo della cura dell’altro, dell’innovazione tecnologica 
+al servizio dell’uomo, della valorizzazione del nostro territorio e del 
+turismo, della cultura — in un’ottica intergenerazionale. Creare, insom- 
+ma, una società che permetta a persone di ogni età, a giovani e ad an- 
+ziani, di contribuire secondo le proprie esigenze e capacità, traendone 
+beneficio in termini di qualità della vita e benessere. 
+Bibliografia 
+Baur, M., Brandle, 
+T., Bruchez, P.A., Colombier, C. e Hohl, L.,2021, Prospetti- 
+ve alungo termine per le finanze pubbliche in Svizzera 2021. Crisi pandemi- 
+ca, evoluzione demografica e cambiamenti climatici, Berna, Dipartimento 
+federale delle finanze. 
+Bloom, D.E., Khoury, A., Algur, E. e Sevilla, J.P., 2020, «Valuing Productive 
+Non-market Activities of Older Adults in Europe and the US», Economist, 
+168(2), 153-181. 
+Borioli, M., 2021, «Invecchiamento: una questione di equilibrio», presenta- 
+zione al Convegno sulla sfida demografica: il malessere del Canton Ticino, 
+Coscienza svizzera, Lugano, 22 ottobre 2021. 
+Bruno, D., 2021, Scenari demografici per il Cantone Ticino e 
+i suoi distretti, 
+2020-2050, Giubiasco, Ustat. 
+Cavalli, S., Cereghetti, S., Pusterla, E.e Zaccaria D., 2021, «Isolamento sociale 
+e solitudine nell’anzianità», Iride. Rivista di economia, sanità e sociale, 11, 
+11-13. 
+Cavalli, S. e Corna, L., 2020, Il ritratto dell’anziano di domani, Manno, Centro 
+competenze anziani Supsi. 
+Cavalli, S., Dasoki, N., Dus, D., Masotti, B. e Rosciano, A., 2015, «Condizioni di 
+salute, benessere e scambi di servizi nella popolazione anziana residente 
+in Ticino», in Giudici, F., Cavalli, S., Egloff, M. e Masotti, B. (eds), Fragilità 
+e risorse della popolazione anziana in Ticino, Giubiasco, Ustat, 47-66. 
+Charise, A. 2012, «“Let the Reader Think of the Burden”: Old Age and the 
+Crisis of Capacity», Occasion: Interdisciplinary Studies in the Humanities, 
+4, 1-16. 
+Chatterji, S., Byles, J., Cutler, D., Seeman, 
+T. e Verdes, E., 2015, «Health, Fun- 
+ctioning and Disability in Older Adults — Current Status and Future Im- 
+plications», Lancet, 385 (9967), 563-575. 
+118 
+Dannefer, D.,2020, «Systemic and Reflexive: Foundations of Cumulative Dis/ 
+Advantage and Life-Course Processes», The Journals of Gerontology: Se- 
+ries B,75 (6), 1249-1263. 
+Dipartimento della sanita 
+e della socialita, 2021, Pianificazione integrata 
+LANZ- LACD 2021-2030 (Rapporto finale), Bellinzona, DSS. 
+Hòpflinger, F., Hugentobler, V. e Spini, D. (eds), 2019, Age Report IV. Habitat 
+et vieillissement. Réalités et enjeux de la diversité, Ziirich, Seismo. 
+Kohli, R., 2021, Mortalità e speranza di vita nel 2020. L’impatto della pande- 
+mia di cov1p/19 sulla mortalità in Svizzera, Neuchatel, Ufficio federale di 
+statistica. 
+Lalive d’Epinay, C. e Spini, D. (eds), 2008, Les années fragiles. La vie au-delà 
+de quatre-vingts ans, Québec, Les Presses de l’Université Laval. 
+Liischer, K., Hoff, A., Viry, G., Widmer, E., Sanchez, M., Lamura, G. e Wang, 
+X., 2017, Generazioni, relazioni intergenerazionali, politica generazionale. 
+Un compendio multilingue, Costanza, Universitat Konstanz. 
+Pellegrini, S., Dutoit, L., Pahud, O. e Dorn, M., 2022, Bedarf an Alters- und 
+Langzeitpflege in der Schweiz. Prognosen bis 2040, Neuchatel, Schweize- 
+risches Gesundheitsobservatorium. 
+Trabucchi, M., 2016, / volti dell’invecchiare, Cinisello Balsamo, San Paolo. 
+Ufficio di Statistica, 2022, Annuario Statistico Ticinese 2022, Giubiasco, Ustat. 
+119
