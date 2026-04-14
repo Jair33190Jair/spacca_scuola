@@ -1,0 +1,2350 @@
+Il ritratto dell'anziano di domani 
+ 
+Rapporto per il Dipartimento della sanità e della socialità 
+ 
+ 
+ 
+ 
+Stefano Cavalli & Laurie Corna 
+ 
+Manno, 29 febbraio 2020 
+(Versione corretta del 24 marzo 2020)
+
+---
+
+2/48 
+Impressum 
+ 
+ 
+ 
+Mandato di ricerca: 
+Risoluzione del Consiglio di Stato n. 6235 dell'11 dicembre 2019 
+ 
+Indirizzo di corrispondenza: 
+Stefano Cavalli 
+stefano.cavalli@supsi.ch  
+Tel. +41 (0)58 666 64 22 
+ 
+Centro competenze anziani 
+Dipartimento economia aziendale, sanità e sociale 
+Scuola universitaria professionale della Svizzera italiana – SUPSI 
+Via Violino 11 
+CH-6928 Manno 
+http://www.supsi.ch/cca 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ringraziamenti: 
+Gli autori ringraziano Matteo Borioli (Ustat) per l'elaborazione dei dati di statistica pubblica, Barbara 
+Masotti (SUPSI) per la collaborazione nell'analisi dei dati, Daniele Zaccaria (SUPSI) per l'attenta 
+rilettura. 
+Gli autori sono responsabili dei contenuti presentati nel presente rapporto.
+
+---
+
+3/48 
+Indice 
+ 
+1. 
+Contesto e mandato 
+4 
+2. 
+Considerazioni preliminari 
+5 
+     2.1. 
+Cambiamenti sociali ed evoluzione della popolazione anziana 
+5 
+     2.2. 
+Eterogeneità della popolazione anziana 
+7 
+3. 
+Nota sulle fonti dei dati 
+9 
+4. 
+La popolazione anziana di ieri, di oggi e di domani 
+12 
+     4.1. 
+Caratteristiche socio-demografiche 
+12 
+ 
+  Età e genere 
+12 
+ 
+  Formazione e professione 
+13 
+ 
+  Situazione economica 
+14 
+ 
+  Situazione abitativa 
+16 
+ 
+  Nazionalità e percorso migratorio 
+17 
+     4.2. 
+Famiglia e vita relazionale 
+19 
+ 
+  Stato civile e economie domestiche 
+19 
+ 
+  Rete famigliare 
+21 
+ 
+  Relazioni sociali e solitudine 
+22 
+     4.3. 
+Stato di salute 
+25 
+ 
+  Evoluzione della salute della popolazione anziana 
+25 
+ 
+  Disuguaglianze di salute 
+27 
+     4.4. 
+Attività, stili di vita e forme di partecipazione 
+30 
+ 
+  Attività ricreative 
+30 
+ 
+  Uso delle tecnologie 
+32 
+ 
+  Partecipazione sociale e prestazione di servizi 
+34 
+     4.5. 
+Religione e valori 
+36 
+ 
+  Appartenenza e pratiche religiose 
+36 
+ 
+  Visioni del mondo e valori 
+37 
+5. 
+Conclusioni: uno sguardo verso il futuro 
+40 
+Bibliografia 
+43
+
+---
+
+4/48 
+1. Contesto e mandato 
+ 
+Il presente rapporto fa parte delle attività svolte in preparazione della pianificazione cantonale 
+integrata 2021-2030 dei settori strutture per anziani, assistenza e cure a domicilio e servizi di 
+mantenimento a domicilio. Esso è stato redatto sulla base del mandato conferito alla SUPSI con 
+risoluzione del Consiglio di Stato n. 6235 dell'11 dicembre 2019. Più specificamente, tale mandato 
+prevedeva l'approfondimento di tre aspetti: 
+i) 
+il ritratto dell'anziano di domani nel Canton Ticino; 
+ii) 
+la definizione del concetto e dei vantaggi di una pianificazione integrata rispetto a quella 
+settoriale; 
+iii) la valutazione dell'adeguatezza dell'attuale sistema di gestione della qualità finalizzato 
+all'elaborazione di una proposta di miglioramento del medesimo. 
+Il presente rapporto si propone di delineare alcuni tratti dell'anziano di domani (punto i). 
+Come da proposta fatta dalla SUPSI e poi adottata con la risoluzione governativa, il rapporto descrive, 
+sulla base dello stato dell'arte e dei dati disponibili a livello cantonale e nazionale, le principali 
+trasformazioni della popolazione anziana nel corso degli ultimi decenni, al fine di avanzare delle 
+ipotesi sulle caratteristiche degli anziani di domani. 
+Sono presi in considerazione i seguenti temi: caratteristiche socio-demografiche, situazione 
+economica, situazione abitativa, nazionalità e percorsi migratori, famiglia e vita relazionale, 
+sentimento di solitudine, stato di salute, attività ricreative, uso delle tecnologie, partecipazione 
+sociale, religione e valori. 
+La descrizione del profilo dell'anziano di domani ha come scopo di capire chi saranno i potenziali 
+utenti che usufruiranno nel prossimo decennio dei servizi e delle strutture per gli anziani. Tutto ciò 
+servirà da base per ulteriormente sviluppare la riflessione in seno ai servizi cantonali, che potranno 
+ad esempio valutare quali saranno in futuro i profili professionali richiesti, identificandone se 
+necessario di nuovi.
+
+---
+
+5/48 
+2. Considerazioni preliminari 
+ 
+2.1. Cambiamenti sociali ed evoluzione della popolazione anziana 
+Le scienze sociali hanno, paradossalmente, a lungo trascurato l'impatto della storia e dei cambiamenti 
+sociali sulla vita degli individui. Nel 1959, C. Wright Mills insisteva sul fatto che "l'esistenza di un 
+individuo e la storia della società non si possono comprendere che insieme" (p. 3). Uno dei principali 
+compiti di quella che definisce "l'immaginazione sociologica" consiste nel "cogliere le relazioni – 
+all'interno di una società – tra la Storia e la biografia" (p. 6). Si tratta di uno degli obiettivi principali 
+della prospettiva dei percorsi di vita (Elder, 1998; Elder, Kirkpatrick Johnson, & Crosnoe, 2003; 
+Lalive d'Epinay, Bickel, Cavalli, & Spini, 2005), a cui tanto deve lo studio dell'invecchiamento. Uno 
+dei suoi principi paradigmatici afferma che i percorsi di vita degli individui si inseriscono in una 
+successione di tempi storici e luoghi che ne influenzano il corso. 
+La ricerca sull'invecchiamento si spesso è focalizzata sull'individuo, sulla sua età anagrafica, sulle 
+sue caratteristiche biologiche, perdendo di vista i mondi sociali in cui la vita si svolge. Ma "per 
+comprendere l'invecchiamento personale, occorre guardare oltre il personale" (Settersten, 2017, p. 6). 
+Se, ad esempio, studiamo un ultraottantenne, abbiamo di fronte un anziano, magari con degli 
+acciacchi o dei problemi di salute, ma anche una persona che ha una lunga vita alle spalle, una storia 
+personale che è parte di una storia collettiva. 
+La Figura 2.1, che prende spunto da quello che in demografia è conosciuto come il diagramma di 
+Lexis, permette di situare il flusso delle vite umane (diagonali) in funzione dell'età degli individui 
+(asse delle ordinate) e del calendario della storia (asse delle ascisse). Questa rappresentazione grafica 
+suscita alcune riflessioni. 
+Prima considerazione, la situazione presente di un individuo dipende dalle esperienze vissute in 
+precedenza. Ogni fase della vita non può essere compresa adeguatamente se isolata dalle altre, senza 
+tener conto del percorso di vita passato. Detto altrimenti, situazioni e cambiamenti esperiti in tenera 
+età, durante l'adolescenza o la vita adulta hanno delle conseguenze sull'invecchiamento. Di recente, 
+ad esempio, Boris Cheval e colleghi (2018) hanno documentato il legame tra condizioni socio-
+economiche durante l'infanzia e stato di salute attorno ai 65 anni. 
+Seconda considerazione, le epoche e gli spazi attraversati, così come gli eventi socio-storici vissuti, 
+influenzano e modellano il percorso di vita di un individuo. Ne consegue che le caratteristiche, i 
+bisogni e le risorse delle persone anziane mutano nel corso del tempo, sull'onda dei principali 
+cambiamenti sociali. Essere anziano nel 2020 non è la stessa cosa che esserlo stato nel 1930 o nel 
+1970. Allo stesso modo, gli anziani del futuro avranno esigenze, stili di vita, interessi e desideri 
+diversi rispetto a coloro che conosciamo oggi.
+
+---
+
+6/48 
+Figura 2.1.  Traiettoria storica delle coorti formatesi nel 1920-38 e nel 1945-65 
+ 
+ 
+La Figura 2.1 ci aiuta a seguire il destino di persone (o gruppi di persone) nate in epoche diverse. 
+Vediamo l'esempio di due coorti di nascita.1 In verde, le persone che nel 2020 hanno già superato gli 
+80 anni e che compongono la maggior parte dell'utenza dei servizi. Nati tra il 1920 e lo scoppio della 
+seconda guerra mondiale, sono stati testimoni di buona parte del secolo scorso e corrispondono più o 
+meno a quella che negli Stati Uniti è stata definita la "generazione silenziosa" ("Silent generation"). 
+Cresciuti in un contesto di privazioni, crisi e belligeranza, i membri di questa coorte hanno vissuto la 
+trasformazione della società moderna: socializzati secondo i valori della vita dura, del lavoro e del 
+risparmio, sono poi stati integrati nel nuovo mondo apparso a partire dagli anni cinquanta, che hanno 
+contribuito ad edificare, approfittando a loro volta dell'enorme miglioramento delle condizioni di vita. 
+I più anziani hanno raggiunto l'età pensionabile, dopo una vita attiva svoltasi in un contesto di piena 
+occupazione, quando il "secondo pilastro" diventava obbligatorio. I più giovani, invece, hanno dovuto 
+affrontare il ritorno delle incertezze, con la preoccupazione di trovarsi senza impiego proprio sul 
+finale di carriera. Arrivati in età avanzata, i membri di questa coorte beneficiano di un sistema socio-
+sanitario senza precedenti. 
+                                               
+1 Per coorte intendiamo un insieme di individui che vivono uno stesso evento – in questo caso il fatto di venire al mondo – 
+in un periodo predefinito.
+
+---
+
+7/48 
+Completamente diverso è il percorso seguito dai figli del baby boom (in rosso nella Figura 2.1). Nati 
+tra il 1945 e il 1965, non hanno vissuto la guerra, se non nei ricordi dei loro genitori, e sono cresciuti 
+nella società dell'abbondanza. È la generazione delle rivoluzioni culturali, della rivoluzione sessuale, 
+del pacifismo, del femminismo e della musica rock. Hanno festeggiato i vent'anni tra la fine degli 
+anni sessanta – magari durante l'occupazione di un edificio scolastico o in concomitanza del primo 
+sbarco dell'uomo sulla Luna – e la prima metà degli anni settanta. Molti hanno iniziato ad utilizzare 
+il computer durante la vita lavorativa e oggi passano il tempo su Facebook, mentre la maggior parte 
+dei membri della coorte precedente era già in pensione quando si è diffusa la posta elettronica. Hanno 
+contribuito notevolmente all'aumento della domanda di beni di consumo, ma anche visto lo Stato 
+sociale entrare in crisi. Stanno arrivando in massa all'età pensionabile e nel 2030 tutti avranno 
+superato i 65 anni, andando a formare la maggior parte della popolazione anziana. 
+Giunti a questo stadio, è facile cogliere come delle storie così diverse si traducano, in età avanzata, 
+in condizioni di vita, bisogni e desideri totalmente differenti. 
+ 
+2.2. Eterogeneità della popolazione anziana 
+Sarebbe però sbagliato pensare che tutti i membri di una determinata coorte siano uguali. In generale, 
+gli anziani non formano un gruppo omogeneo. 
+L'anzianità fa riferimento a un periodo della vita sempre più lungo, che inizia con l'età del 
+pensionamento e si estende fino alla morte. Al momento dell'introduzione dell'AVS (1° gennaio 
+1948), la speranza di vita degli uomini in Svizzera era all'incirca di 65 anni e l'uscita dal mondo del 
+lavoro coincideva con l'ingresso nella vecchiaia (Lalive d'Epinay, 1994). Nel corso della seconda 
+metà del secolo scorso, l'aspettativa di vita ha continuato a crescere e si è assistito alla progressiva 
+dissociazione tra l'età della pensione e il momento in cui di manifestano i segni della senescenza. Tra 
+pensionamento e vecchiaia, è emersa una nuova fase dell'esistenza, ovvero la "terza età" (Laslett, 
+1992; Lenoir, 1979). Ai giorni nostri, la terza età si presenta come una fase della vita ricca di 
+potenzialità, mentre la quarta corrisponde all'età della fragilità (Lalive d'Epinay & Cavalli, 2013; 
+Lalive d'Epinay & Spini, 2008). 
+Un mondo separa il "giovane anziano" appena andato in pensione da un "grande anziano"2, ad 
+esempio la novantenne residente in una casa per anziani. Non solo in termini di età e salute, ma anche 
+– torniamo alla Figura 2.1 – di appartenenza generazionale. Evitiamo però di cadere nell'errore di 
+credere che tutti i giovani anziani siano in buona salute, attivi e desiderosi di approfittare di quanto 
+la vita e il mondo moderno offrono loro, contrapponendoli a dei grandi anziani affetti da poli-
+patologie e confinati ai margini della società (P. B. Baltes & Smith, 2003). 
+                                               
+2 Queste espressioni rimandano alla distinzione, introdotta in America del Nord, tra "young old" e "old old" (Neugarten, 
+1974).
+
+---
+
+8/48 
+Anche tra persone della stessa età vi è una grande eterogeneità. È ormai assodato che non vi sono 
+altri periodi della vita, come la terza e la quarta età, in cui le disparità tra gli individui – in termini di 
+salute, economiche, relazionali, ecc. – sono così marcate. Come ci rammenta Marco Trabucchi, una 
+grande variabilità "caratterizza i volti delle persone anziane: nessuno è uguale all'altro e il tempo che 
+passa è un fattore di differenziazione" (2016, p. 11). Gli individui, man mano che invecchiano, 
+tendono ad assomigliarsi sempre meno. 
+La crescente eterogeneità nel corso della vita è dovuta a numerosi fattori (genere, istruzione, 
+professione, etc.), che interagiscono tra loro in determinati contesti sociali. Prendiamo l'esempio 
+dell'educazione, una risorsa che si acquisisce soprattutto nelle prime fasi della vita. È risaputo che un 
+buon livello di istruzione favorisce lo sviluppo di competenze personali e cognitive, ad esempio la 
+capacità di far fronte a degli eventi avversi o l'auto-efficacia (Hoffmann, Kröger, Tarkiainen, & Pekka 
+Martikainen, 2019; Mirowsky & Ross, 2003). Il grado di scolarizzazione è anche legato 
+all'acquisizione di risorse materiali (su tutte, il salario) e accresce le possibilità di ottenere un impiego 
+gratificante o privo di rischi per la salute (Ross & Wu, 1996). In poche parole, una risorsa come 
+l'educazione agisce su vari aspetti dell'esistenza, influenzandone il corso. 
+L'aumento delle differenze può essere il risultato di processi durante i quali i vantaggi si accumulano 
+per gli uni e gli svantaggi per gli altri (Dannefer, 2003; Ferraro & Shippee, 2009; O'Rand, 2002). La 
+logica è la seguente: chi parte da una situazione favorevole tende a moltiplicare opportunità e 
+privilegi, mentre chi parte svantaggiato ha difficoltà a recuperare e rischia di rimanere sempre più 
+indietro. Torniamo all'esempio dell'educazione. Di solito, le persone più istruite possono contare su 
+una rete sociale più vasta, hanno maggiori probabilità di guadagnare bene, e così via. Tutto ciò può 
+ripercuotersi positivamente, ad esempio, sulla salute ed il benessere. 
+L'abbiamo visto, i più favoriti tendono ad aumentare i vantaggi sui loro contemporanei e, di 
+conseguenza, i loro percorsi di vita si diversificano. A questo punto occorre essere chiari: non esiste 
+un unico profilo di anziano. Anzi, non esiste nemmeno la "persona anziana" al singolare!
+
+---
+
+9/48 
+3. Nota sulle fonti dei dati 
+ 
+Chi scrive non è munito di una sfera di cristallo e non dispone nemmeno di particolari doti di 
+chiaroveggenza. Precisiamo anche che il mandato non prevedeva la raccolta di dati primari (sarebbe 
+stato impossibile, visti i tempi). Ci siamo quindi dovuti limitare ad una parziale revisione della 
+letteratura e all'analisi di dati secondari. 
+In un mondo ideale disporremmo di dati che riguardano il Canton Ticino, recenti, che offrono la 
+possibilità di confronti con il passato, sull'insieme della popolazione anziana residente o perlomeno 
+su campioni rappresentativi e sufficientemente vasti, ma anche sui nuovi anziani di domani. La realtà, 
+è facile immaginarlo, è ben diversa. L'analisi che segue si basa su dati esistenti di statistica pubblica, 
+gentilmente elaborati dall'Ufficio di statistica (Ustat), e sui dati di indagini condotte a livello 
+cantonale e nazionale (gli studi sono presentati, in ordine alfabetico, nella Tabella 3.1). 
+Negli ultimi anni, due vaste indagini sono state condotte sulla popolazione anziana residente in Ticino 
+(o parte di essa). La prima è la ricerca VLV, sulle condizioni di vita e di salute degli over 65, realizzata 
+tra il 2011 e il 2012 dall'Università di Ginevra, in collaborazione con il Centro competenze anziani 
+della SUPSI. La seconda è lo studio che qui chiameremo Tiresia, sui bisogni e le necessità dei giovani 
+anziani, realizzato su mandato del DSS. Purtroppo, i risultati delle due indagini sono difficilmente 
+comparabili, poiché sono differenti sia la costruzione del campione che la formulazione delle 
+domande. 
+Abbiamo pure ripreso i dati di tre studi trasversali, condotti dall'Università di Ginevra (VLV è l'ultimo 
+della serie), che permettono di scrutare l'evoluzione della popolazione anziana, a Ginevra e in Vallese, 
+sull'arco di più di tre decenni. Infine, abbiamo analizzato i dati dell'Indagine sulla salute in Svizzera 
+(ISS) e, per i temi della religione e dei valori, della European Social Survey (ESS). 
+Nella maggior parte dei casi, presentiamo i risultati suddividendo la popolazione anziana in tre fasce 
+d'età: 65-74 anni, 75-84 anni, 85 anni e oltre. Quando è stato possibile (dati Ustat, ISS e ESS), 
+abbiamo aggiunto un quarto gruppo, composto da persone di 55-64 anni. Ad eccezione di Tiresia, 
+tutti i dati presentati sono stati ponderati. 
+Concludiamo questa nota invitando le lettrici e i lettori ad interpretare con cautela i risultati per la 
+fascia più anziana (85-94 anni) dello studio GUG79, a causa del numero limitato di persone 
+intervistate. Nel caso dell'ISS, un sovra-campionamento permette in teoria di svolgere delle analisi 
+soltanto per il Canton Ticino. Data la ristrettezza dei campioni, abbiamo però preferito presentare i 
+risultati per l'insieme della Svizzera, segnalando nel testo alcune tendenze per il Ticino.
+
+---
+
+10/48 
+Tabella 3.1.  Tabella sinottica degli studi considerati 
+ESS 
+"European Social Survey" / https://forscenter.ch/projects/european-social-survey  
+Direzione: Centre for Comparative Social Surveys (City University di Londra) / per la Svizzera, FORS  
+Finanziamento: i paesi coinvolti contribuiscono ai costi di coordinamento / per la Svizzera, FNS 
+Raccolta dati: più di una ventina di paesi europei / ogni 2 anni dal 2002 al 2018 
+Popolazione: persone di 15 anni e oltre, a domicilio, in grado di partecipare allo studio / N > 36'000 
+Analisi: Svizzera; 2002, 2010 e 2018; 55 anni e oltre, persone a domicilio e in grado di partecipare allo 
+studio 
+N 2002/2010/2018: 55-64 anni = 337/246/238, 65-74 anni = 233/175/190, 75+ anni = 146/137/133 
+ISS 
+"Indagine sulla salute in Svizzera" / https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/rilevazioni/sgb.html  
+Ufficio federale di statistica (UST) 
+Raccolta dati: Svizzera; 1992, 1997, 2002, 2007, 2012 e 2017 
+Popolazione: persone di 15 anni e oltre, a domicilio, metodo proxy3 / N > 18'000 
+Analisi: Svizzera; 2002, 2007, 2012 e 2017; 55 anni e oltre, persone a domicilio e in grado di partecipare 
+allo studio 
+N 2002/2007/2012/2017: 55-64 anni = 3'244/3'118/3'263/3'673, 65-74 anni = 2'538/2'496/2'847/2'963,  
+75+ anni = 1'824/2'008/1'958/2'152 
+Studi Unige  
+- GUG79 
+"Mise à l'écart et dépendance des personnes âgées" (Lalive d'Epinay et al., 1983) 
+Direzione: C. Lalive d'Epinay / Università di Ginevra / Finanziamento: FNS (PNR3) 
+Raccolta dati: Ginevra e Vallese Centrale; 1979 
+Popolazione: persone di 65 anni e oltre, a domicilio, in grado di partecipare allo studio / N = 1'519 
+Analisi: 65-94 anni, persone a domicilio e in grado di partecipare allo studio 
+N: 65-74 anni = 1'012, 75-84 anni = 435, 85-94 anni = 72 
+- CIG94 
+"Autonomie de la personne âgée et environnement socioculturel"  
+(Lalive d'Epinay, Bickel, Maystre, & Vollenwyder, 2000) 
+Direzione: C. Lalive d'Epinay / Università di Ginevra / Finanziamento: FNS (PNR32) 
+Raccolta dati: Ginevra e Vallese Centrale; 1994 
+Popolazione: persone di 60-94 anni, a domicilio e in casa per anziani, metodo proxy / N = 2'101 
+Analisi: 65-94 anni, persone a domicilio e in grado di partecipare allo studio 
+N: 65-74 anni = 661, 75-84 anni = 600, 85-94 anni = 140 
+ 
+                                               
+3 Metodo che prevede che un famigliare (o un conoscente stretto) risponda a un questionario al posto del diretto 
+interessato. Questa procedura permette di raccogliere delle informazioni anche sulle persone che presentano dei deficit di 
+memoria importanti o soffrono di una forma di demenza.
+
+---
+
+11/48 
+Tabella 3.1.  Tabella sinottica degli studi considerati (continuazione) 
+Studi Unige  
+- VLV 
+"Vivre / Leben / Vivere – Old age democratization? Progress and inequalities in Switzerland" 
+(Ludwig, Cavalli, & Oris, 2014) 
+Direzione: M. Oris / Università di Ginevra / Finanziamento: FNS (Sinergia & NCCR LIVES) 
+(Ticino: in collaborazione con SUPSI; contributo DSS) 
+Raccolta dati: Ginevra, Vallese Centrale, Basilea (Città e Campagna), Berna e Ticino; 2011-12 
+Popolazione: persone di 65 anni e oltre, a domicilio e in casa per anziani, metodo proxy / N = 3'634 
+Analisi (GE-VS): 65-94 anni, persone a domicilio e in grado di partecipare allo studio 
+N: 65-74 anni = 450, 75-84 anni = 399, 85-94 anni = 220 
+Analisi (TI): 65-94 anni, persone a domicilio e in grado di partecipare allo studio 
+N: 65-74 anni = 220, 75-84 anni = 194, 85-94 anni = 145 
+Tiresia 
+"Bisogni e necessità della popolazione residente nel Cantone Ticino con un'età fra i 60 e gli 80 anni" 
+Direzione: D. Medici e R. Stoppa, Tiresia (Savosa), S. Schwab Cammarano, INFRAS (Zurigo) 
+Finanziamento: DSS 
+Raccolta dati: Ticino; 2018 
+Popolazione: persone di 60-80 anni, a domicilio, in grado di partecipare allo studio / N = 6'305 
+Analisi: 60-80 anni, persone a domicilio e in grado di partecipare allo studio / N = 6'305 
+Ustat 
+Censimenti federali della popolazione (CFP) e Rilevazioni strutturali (RS) 
+Ufficio federale di statistica (UST) 
+Raccolta dati: Svizzera; ogni 10 anni dal 1850 al 2000 (CFP); ogni anno dal 2010 (RS) 
+Popolazione: tutta la popolazione (CFP); campioni di almeno 200'000 persone di 15 anni e oltre che 
+vivono a domicilio (RS) 
+Analisi: Ticino; dati elaborati dall'Ufficio di statistica (Ustat); 1990 e 2000 (CFP), 2010 e 2017 (RS) 
+55 anni e oltre; persone a domicilio e in collettività (CFP), a domicilio (RS)
+
+---
+
+12/48 
+4. La popolazione anziana di ieri, di oggi e di domani 
+ 
+4.1. Caratteristiche socio-demografiche 
+Età e genere 
+L'invecchiamento della popolazione, in Ticino come in Svizzera, è una realtà ben nota (Egloff, 2015). 
+Secondo le proiezioni dell'Ufficio di statistica, nel 2040 gli ultraottantenni saranno quasi il doppio 
+rispetto a oggi e rappresenteranno l'11% della popolazione residente (Tabella 4.1, scenario di 
+riferimento). Anche i 65-79enni continueranno a crescere a ritmo sostenuto, al punto che tra vent'anni 
+quasi un terzo della popolazione residente in Ticino sarà costituito da persone di 65 anni e oltre. 
+ 
+Tabella 4.1. Popolazione residente permanente, secondo lo scenario e il gruppo d'età (Ticino) 
+ 
+2018  
+2040  
+ 
+Osservazioni 
+Scenario di 
+riferimento 
+Scenario alto 
+Scenario basso 
+Totale 
+353'343 
+416'413 
+455'080 
+378'185 
+0-19 
+78'050 
+68'778 
+79'095 
+59'006 
+20-39 
+64'098 
+83'594 
+93'054 
+74'319 
+40-64 
+131'300 
+133'160 
+146'479 
+119'971 
+65-79 
+55'724 
+84'839 
+88'285 
+81'282 
+80+ 
+24'171 
+46'043 
+48'167 
+43'607 
+Fonte: Rilevazione strutturale, UST; Scenari demografici, Ustat (ripreso e adattato da Bruno, 2017) 
+Nota:  Lo "scenario di riferimento" prevede per il 2040 un numero di residenti in Ticino pari a quasi 420'000 persone, 
+con un incremento di circa 70'000 individui rispetto al 2015. Una crescita dettata essenzialmente da un saldo 
+migratorio favorevole sull'intero arco temporale. Le nascite rimarranno stabili, mentre i decessi subiranno un forte 
+aumento, portando così il saldo naturale a cifre sempre più negative (Bruno, 2017, p. 9). 
+ 
+Anche in futuro le donne continueranno ad essere sovra-rappresentate in età avanzata. Nel 2016, si 
+contavano 110 donne per 100 uomini a 65 anni, rapporto che passava a 291 donne per 100 uomini 
+all'età di 90 anni (Ustat, 2018). Questo divario è dovuto alla differenza dell'aspettativa di vita tra i 
+sessi, che peraltro si sta progressivamente riducendo. Per quel che riguarda il futuro, la speranza di 
+vita dovrebbe passere dagli 81.8 anni del 2018 a 85.8 anni nel 2040 per gli uomini, da 85.8 anni a 
+89.6 anni nello stesso periodo per le donne (Bruno, 2017).
+
+---
+
+13/48 
+Formazione e professione 
+La struttura socio-professionale della popolazione anziana è profondamente mutata nel corso degli 
+ultimi decenni. Per prima cosa, il livello di formazione è sensibilmente cresciuto nelle nuove coorti. 
+In uno studio condotto nel 1982, delle 955 persone in età AVS residenti in Ticino intervistate ben il 
+63% non era andato oltre la scuola dell'obbligo e solamente il 3% aveva frequentato l'università 
+(Gerosa, 1988). Nel 2017, secondo i dati Ustat, circa il 40% delle persone di 65 anni e oltre aveva 
+frequentato solo la scuola dell'obbligo, poco meno di un terzo degli uomini e la metà delle donne. La 
+diminuzione della quota di persone con un basso livello d'istruzione è stata particolarmente marcata 
+– di circa un terzo – tra i giovani anziani (65-74): tra il 1990 e il 1997, si è passati dal 63 al 40% per 
+le donne, dal 38 al 24% per gli uomini (Figura 4.1). Allo stesso tempo, la proporzione di anziani che 
+ha portato a termine una formazione superiore è cresciuta parecchio. Ad esempio, la proporzione di 
+uomini di 65-74 anni in possesso di un diploma universitario o di scuola superiore è raddoppiata (dal 
+15 al 31%), addirittura triplicata tra le donne (dal 4 al 13%). L'evoluzione tra il 1990 e il 2017 per i 
+55-64enni segue lo stesso andamento. È quindi facile prevedere che gli anziani del futuro saranno 
+sempre più formati. 
+ 
+Figura 4.1.  Persone che hanno frequentato solo le scuole dell'obbligo, per gruppo d'età, genere e 
+periodo (Ticino, %) 
+ 
+Fonte: Ustat (Censimenti 1990 e 2000; Rilevazioni Strutturali 2010 e 2017) 
+ 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+1990
+2000
+2010
+2017
+1990
+2000
+2010
+2017
+Uomini
+Donne
+55-64
+65-74
+75-84
+85+
+
+---
+
+14/48 
+Per quanto concerne la professione (dati VLV), diminuiscono nelle nuove coorti coloro che in passato 
+hanno esercitato dei lavori manuali (operai, piccoli commercianti e artigiani), a beneficio dei quadri 
+superiori (dirigenti, liberi professionisti e intellettuali). Gli over 65 professionalmente attivi 
+rappresentano un'esigua minoranza anche se, a partire dagli anni duemila, si osserva un leggero 
+aumento del tasso di partecipazione al mercato di lavoro. Nel 2017, esercitavano una professione il 
+15% degli uomini e il 5% delle donne tra i 65 e i 74 anni (dati Ustat). L'uscita dal mondo del lavoro 
+appare sempre meno legata al raggiungimento dell'età AVS: tra i giovani anziani (65-79) intervistati 
+nell'ambito di VLV, il 64% è andato in pensione anticipatamente o ha protratto la propria attività 
+professionale oltre la soglia legale; nelle coorti più vecchie (intervistati over 80) la quota scende al 
+43% (Cavalli, Dasoki, Dus, Masotti, & Rosciano, 2015). Aggiungiamo che tra i 55-64enni, la 
+partecipazione femminile al mercato del lavoro è raddoppiata nello spazio di trent'anni: nel 2017, una 
+donna su due di questa fascia d'età svolgeva un'attività lavorativa (dati Ustat). 
+ 
+Situazione economica 
+Nel passato "vecchiaia" era spesso sinonimo di "povertà". Nella seconda metà del XX secolo, grazie 
+all'aumento delle rendite AVS, allo sviluppo della previdenza professionale (il secondo pilastro è 
+obbligatorio dal 1985 per chi raggiunge una determinata soglia di reddito annuo) e all'introduzione 
+della previdenza privata (terzo pilastro), la situazione economica della popolazione anziana è 
+sensibilmente migliorata (Lalive d'Epinay et al., 2000; Wanner & Gabadinho, 2008). Ciò non 
+significa che tutti i pensionati vivano nell'opulenza ma, come l'ha illustrato uno studio di Pro 
+Senectute Svizzera, permangono delle sacche di povertà (Pilgram & Seifert, 2009). Una 
+pubblicazione recente dell'Ufficio federale di statistica (Kucera et al., 2018) mostra che, se i tassi di 
+povertà e di rischio di povertà degli over 65 ammontano a circa il doppio rispetto a quelli della 
+popolazione in età lavorativa, le persone anziane soffrono raramente di deprivazioni materiali (p. es., 
+avere dei pagamenti in arretrato o non essere in grado di far fronte a una spesa imprevista) e tendono 
+a giudicare positivamente la propria situazione economica. Le ragioni di questa discrepanza tra i vari 
+indicatori si spiega con la disponibilità di un patrimonio superiore alla media, il fatto di essere più 
+spesso proprietari della propria abitazione e la diminuzione delle spese, in particolare a seguito 
+dell'acquisizione dell'indipendenza economica dei figli; è anche possibile che i membri delle 
+generazioni più anziane abbiano meno pretese. 
+Gli studi dell'Università di Ginevra confermano il miglioramento generale delle condizioni materiali 
+di esistenza della popolazione anziana e la riduzione nel corso del tempo della percentuale di persone 
+in situazione di povertà (Figura 4.2). Il tasso di povertà si è dimezzato tra il 1979 e il 1994, mentre 
+l'evoluzione nel periodo seguente giova ai grandi anziani (85+) ma è meno favorevole per i più 
+giovani. Se consideriamo insieme le situazioni di povertà e di precarietà, la proporzione di 65-74enni 
+che versano in condizioni economiche difficoltose passa dal 30 al 22% tra il 1994 e il 2011, quella 
+dei 75-84enni scende dal 45 al 33%.
+
+---
+
+15/48 
+Figura 4.2.  Tasso di povertà, per gruppo d'età e periodo (Ginevra e Vallese, %) 
+ 
+Fonte: Studi Unige (GUG79, CIG94, VLV) 
+Nota:  Per determinare la condizione economica in cui versano gli anziani si è fatto ricorso a tre indicatori: il reddito 
+mensile lordo individuale, il patrimonio e il fatto di essere proprietario o meno della propria abitazione. Sono 
+considerate povere le persone con un reddito inferiore all'importo massimo della rendita AVS (1'000 franchi nel 
+1979, 2'000 franchi nel 1994, 2'400 franchi nel 2011), che non possiedono una casa e dispongono di un patrimonio 
+limitato (meno di 60'000 franchi nel 2011). 
+ 
+Le cifre per il Ticino sono grossomodo le stesse: nel 2011, poco meno di un 65-84enne su dieci e 
+all'incirca un grande anziano (85+) su sette versavano in una condizione di povertà. Se applichiamo 
+questi tassi al numero di persone di 65 anni e oltre che risiedono attualmente nel nostro cantone, 
+possiamo stimare che 8-9'000 anziani sono poveri. Segnaliamo infine che, sebbene il numero di 
+anziani in situazioni precarie aumenti da un gruppo d'età all'altro, sono i 65-74enni a dichiarare più 
+spesso di avere difficoltà a sbarcare il lunario (22%, contro il 18% negli altri gruppi). 
+Il bilancio è quindi in chiaroscuro: da un lato, le coorti più recenti di anziani hanno beneficiato dello 
+sviluppo della sicurezza sociale – in particolare della generalizzazione del secondo pilastro per un 
+periodo più lungo della loro traiettoria professionale – e di un contesto economico globalmente 
+favorevole; dall'altro, malgrado il sistema previdenziale e misure come le prestazioni complementari 
+all'AVS, migliaia di anziani vivono in una condizione di povertà. Le donne, specialmente quelle 
+restate al di fuori del campo di applicazione della legge federale sulla previdenza professionale (LPP), 
+incorrono in un rischio maggiore di dover affrontare delle ristrettezze economiche. Occorrerà anche 
+seguire da vicino l'evoluzione futura: gli anziani di domani saranno verosimilmente più numerosi ad 
+aver conosciuto dei periodi di disoccupazione e ad aver esercitato dei lavori precari nel corso della 
+loro vita professionale rispetto a chi li ha preceduti. In questo senso, la stagnazione della percentuale 
+di giovani anziani poveri tra il 1994 e il 2011 (Figura 4.2), rappresenta un campanello di allarme. 
+ 
+0%
+10%
+20%
+30%
+40%
+1979
+1994
+2011
+65-74
+75-84
+85-94
+
+---
+
+16/48 
+Situazione abitativa 
+La maggior parte delle persone anziane vive a domicilio e il tasso d'istituzionalizzazione è in leggero 
+declino, grazie soprattutto allo sviluppo degli aiuti e delle cure a domicilio. Ciò detto, secondo una 
+pubblicazione recente dell'Osservatorio svizzero della salute (Füglister-Dousse & Pellegrini, 2019), 
+la metà delle persone anziane decedute nel 2016 sono transitate in una casa per anziani nel corso 
+dell'ultimo anno. In Ticino, la proporzione di chi risiede in istituto è inferiore alla media nazionale 
+(Dutoit, Füglister-Dousse, & Pellegrini, 2016): all'incirca il 15% degli ultraottantenni vive in casa per 
+anziani. 
+Nel 2011 (dati VLV), due terzi dei giovani anziani (65-79) che abitavano a domicilio, e poco più di 
+due quinti dei grandi anziani (80+), erano proprietari di una casa o di un appartamento (Cavalli et al., 
+2015). La situazione abitativa degli over 55 è abbastanza stabile nel corso del tempo (dati Ustat). Una 
+situazione che sembra soddisfare quasi tutti. Secondo i dati Tiresia, il 97% dei giovani anziani (60-
+80) ticinesi dichiarano di sentirsi bene nella loro abitazione. Pochissimi (2%) sono coloro che 
+esprimono il desiderio di traslocare entro l'anno per trasferirsi in un alloggio più piccolo, meno 
+costoso o più vicino a un centro cittadino e ai servizi (posta, negozi, ecc.).4 
+In Svizzera, la proporzione di persone anziane che dispongono di almeno quattro locali (senza contare 
+la cucina) è cresciuta nel corso del tempo (Figura 4.3). Paradossalmente, questo fenomeno riguarda 
+anche le persone che vivono sole (circa un terzo di esse nel 2011). Mediamente, gli anziani occupano 
+degli alloggi più spaziosi rispetto alle persone in età lavorativa e pagano degli affitti inferiori (Bérard 
+Bourban, 2018). Questo spiega, in parte, il fatto che siano restii a trasferirsi in una dimora di 
+dimensioni più ridotte, sebbene un anziano su cinque giudichi il proprio alloggio troppo grande 
+(Höpflinger et al., 2019, p. 115). 
+Lo studio Tiresia ha indagato anche le preferenze abitative future. La maggior parte degli intervistati 
+ha espresso il desiderio di continuare a vivere nell'attuale abitazione – da solo/a (45%) o con i propri 
+famigliari (32%), in una casa o in un appartamento, di proprietà o in affitto. Uno su cinque è tentato 
+dalle abitazioni a misura di anziano, mentre uno su quattro sarebbe disposto a considerare l'eventualità 
+di un ingresso in casa per anziani qualora non ci fossero altre soluzioni. L'idea di trasferirsi da un/a 
+figlio/a non raccoglie molti consensi (2%). 
+Questi risultati avvalorano il desiderio di invecchiare sul posto ("aging in place"; Scharlach & Diaz 
+Moore, 2016). Interessante anche il fatto che il 20% degli intervistati nell'ambito dello studio Tiresia 
+si dica attratto da nuove soluzioni quali gli appartamenti a misura di anziano, sempre più numerosi 
+sul nostro territorio, ma che a volte stentano a trovare dei locatari. L'idea di un'abitazione sicura e 
+senza barriere architettoniche, che permetta di mantenere una certa indipendenza pur beneficiando di 
+                                               
+4 Per un'analisi più dettagliata, a livello nazionale, rinviamo alla nuova edizione dell'Age Report (Höpflinger, Hugentobler, 
+& Spini, 2019).
+
+---
+
+17/48 
+alcuni servizi, è ottima. Purtroppo, non sempre i promotori di queste iniziative si prendono il tempo 
+di sondare i reali bisogni e le aspettative dei potenziali futuri inquilini. 
+ 
+Figura 4.3.  Persone che vivono in abitazioni di almeno 4 locali, per gruppo d'età e periodo (Ginevra 
+e Vallese, %) 
+ 
+Fonte: Studi Unige (GUG79, CIG94, VLV) 
+Nota:  Persone che dispongono di almeno 4 locali, senza contare la cucina e i servizi. 
+ 
+Nazionalità e percorso migratorio 
+In Svizzera, la popolazione straniera è in media più giovane di quella autoctona, ma il numero di 
+anziani con un passato migratorio è in costante aumento. Si tratta, in parte, di un fenomeno 
+generazionale: negli anni cinquanta e sessanta sono giunti nel nostro paese centinaia di migliaia di 
+lavoratori, soprattutto giovani italiani e spagnoli. Molti membri di queste coorti sono giunti all'età 
+della pensione tra gli anni novanta e duemila. Più tardive sono state le ondate migratorie in 
+provenienza da Portogallo, Turchia e ex-Jugoslavia e infatti l'invecchiamento di queste popolazioni 
+è un fenomeno recente (Bolzman, Poncioni-Derigo, & Vial, 2003). 
+Gli studi sulla relazione tra invecchiamento e migrazione hanno messo in evidenza che una 
+proporzione crescente di immigrati trascorre la vecchiaia nel paese in cui ha lavorato, che questa 
+popolazione – appartenente soprattutto alla classe operaia – arriva alla pensione in condizioni di vita 
+più precarie (reddito inferiore, rischio maggiore d'infortuni e malattie), e che gli immigrati più anziani 
+non utilizzano appieno i servizi di assistenza, ad esempio poiché non hanno accesso alle dovute 
+informazioni (Bolzman, 2012; Ikels, 2007). 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+1979
+1994
+2011
+65-74
+75-84
+85-94
+
+---
+
+18/48 
+La stragrande maggioranza della popolazione anziana residente in Ticino possiede la nazionalità 
+elvetica. La quota di stranieri è però in aumento, soprattutto tra gli over 75 (Tabella 4.2). Se agli 
+anziani che non posseggono il passaporto rossocrociato sommiamo quelli che sono passati per il 
+processo di naturalizzazione (anch'essi in crescita tra il 2000 e il 2017), notiamo che tra il 35 e il 45% 
+della popolazione anziana ha un passato migratorio, mentre la percentuale sale a quasi la metà tra i 
+giovani anziani di domani (55-64). 
+ 
+Tabella 4.2.  Nazionalità, per gruppo d'età e periodo (Ticino, %) 
+ 
+ 
+2000 
+2017 
+Svizzeri 
+55-64 
+59 
+52 
+ 
+65-74 
+64 
+60 
+ 
+75-84 
+73 
+55 
+ 
+85+ 
+76 
+65 
+Naturalizzati 
+55-64 
+16 
+22 
+ 
+65-74 
+17 
+19 
+ 
+75-84 
+13 
+23 
+ 
+85+ 
+10 
+17 
+Stranieri 
+55-64 
+25 
+27 
+ 
+65-74 
+19 
+20 
+ 
+75-84 
+14 
+22 
+ 
+85+ 
+13 
+17 
+Fonte: Ustat (Rilevazioni Strutturali 2010 e 2017) 
+Nota:  Le persone con doppio passaporto sono considerate svizzere. 
+ 
+Lo studio VLV ci fornisce alcune informazioni supplementari sulla provenienza e le condizioni di 
+vita degli anziani stranieri residenti in Ticino (i detentori di un doppio passaporto sono considerati 
+come Svizzeri). In nove casi su dieci si tratta di persone di nazionalità italiana e i rimanenti sono 
+quasi tutti germanici. Quasi certamente, nei prossimi anni aumenteranno gli anziani di nazionalità 
+portoghese e in provenienza dai Balcani. I dati di VLV confermano anche che le persone anziane di 
+origine straniera hanno un rischio maggiore di essere vulnerabili dal punto di vista economico e della 
+salute, poiché spesso hanno esercitato delle professioni più usuranti e meno remunerate. 
+Un altro tipo di migrazione, interna e tardiva, riguarda i confederati che si sono stabiliti a sud delle 
+Alpi, e in particolare nel Locarnese, a ridosso del pensionamento. Gli anziani svizzero tedeschi che 
+hanno scelto di invecchiare in Ticino sono numerosi, eppure disponiamo di scarse informazioni su
+
+---
+
+19/48 
+questo gruppo della popolazione (Borioli, 2015; Torricelli, Garlandini, & Mombelli, 2014).5 
+Possiamo ipotizzare che si tratti prevalentemente di coppie, con una situazione economica 
+confortevole, arrivati in Ticino quando godevano di buona salute. Come vivono la fragilizzazione o 
+la vedovanza? Sono riusciti ad integrarsi nella comunità locale? Relativamente privilegiati al 
+momento del loro approdo a sud del Gottardo, è possibile che incontrino delle difficoltà specifiche in 
+età avanzata. 
+ 
+4.2. Famiglia e vita relazionale 
+Ancor oggi, quando si pensa al ruolo dell'anziano nella famiglia, grande è la tentazione di idealizzare 
+un passato in cui i figli amavano e condividevano lo stesso tetto con i loro vecchi genitori, mentre 
+oggi, presi nella spirale di un individualismo e un egoismo crescenti, gli anziani sarebbero 
+abbandonati dai propri cari. Lo sviluppo della società urbana e la modernità avrebbero affievolito il 
+senso del dovere e la solidarietà, moltiplicando le situazioni di isolamento. Demografi e storici 
+(Laslett, 1992; Lépine & Nobécourt, 1988) hanno tuttavia mostrato che, prima del XX secolo, la 
+coabitazione intergenerazionale non era frequente – l'aspettativa di vita era inferiore ai 50 anni e la 
+presenza di un anziano genitore nella famiglia rara e di breve durata – e non era sempre idilliaca – le 
+tensioni erano all'ordine del giorno per questioni di eredità e di trasmissione delle attività famigliari. 
+ 
+Stato civile e economie domestiche 
+Lo stato civile è fortemente legato all'età e al genere (Figura 4.4): gli uomini sono in maggioranza 
+coniugati, tra le donne la proporzione di vedove cresce con l'avanzare dell'età, fino a costituire la 
+condizione più comune nella quarta età. Le differenze di genere sono dovute alla maggiore longevità 
+delle donne e al fatto che queste sono di solito più giovani rispetto al partner. 
+In una prospettiva storica, vanno sottolineate due evoluzioni. In primo luogo, soprattutto tra le donne, 
+l'aumento della proporzione di persone sposate a spese di quelle vedove: ad esempio, nel 1990 un 
+quarto (24%) delle 75-84enni erano coniugate, erano due su cinque (42%) nel 2017. L'aumento della 
+longevità ha come effetto di allungare la vita di coppia. In secondo luogo, nelle nuove coorti ci sono 
+sempre più persone separate o divorziate: tra i 65-74enni, si è passati dal 3% nel 1990 al 12% nel 
+2017 per gli uomini, dal 4% al 15% per le donne. I dati non permettono di quantificare le rotture 
+coniugali in età avanzata, i cosiddetti "divorzi grigi", un fenomeno che tuttavia sembra in aumento. 
+Vivere con il coniuge è la condizione più diffusa, soprattutto tra i giovani anziani (Cavalli et al., 
+2015), ma con l'avanzare dell'età la probabilità di vivere soli aumenta sensibilmente (più della metà 
+degli over 65 secondo i dati Ustat). Il fenomeno, che riguarda in particolare le donne, ha conosciuto 
+                                               
+5 Stando a delle analisi presentate recentemente da Elio Venturelli, dal 2015 il Ticino non sarebbe più ambito dai 
+pensionati confederati (vedi: www.laregione.ch/demografia).
+
+---
+
+20/48 
+un'espansione nella seconda metà del XX secolo (Sauvain-Dugerdil et al., 1997), per poi stabilizzarsi 
+negli anni novanta (studi Unige). Recentemente, la tendenza si è invertita per i grandi anziani (85+): 
+la proporzione di coloro che abitano da soli è in calo, dal 58% nel 2010 al 51% nel 2017 (dati Ustat). 
+La coabitazione intergenerazionale, dal canto suo, è in costante diminuzione e, in Ticino, riguarda un 
+giovane anziano su sette e una persona di 80 anni ed oltre su dieci (Cavalli et al., 2015, p. 51). 
+ 
+Figura 4.4.  Stato civile, per gruppo d'età, periodo e genere (Ticino, %) 
+ 
+Fonte: Ustat (Censimenti 1990 e 2000; Rilevazioni Strutturali 2010 e 2017) 
+ 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+1990
+2000
+2010
+2017
+1990
+2000
+2010
+2017
+1990
+2000
+2010
+2017
+1990
+2000
+2010
+2017
+55-64
+65-74
+75-84
+85+
+a) Uomini
+Celibi
+Sposati
+Vedovi
+Separati/divorziati
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+1990
+2000
+2010
+2017
+1990
+2000
+2010
+2017
+1990
+2000
+2010
+2017
+1990
+2000
+2010
+2017
+55-64
+65-74
+75-84
+85+
+b) Donne
+Nubili
+Sposate
+Vedove
+Separate/divorziate
+
+---
+
+21/48 
+Rete famigliare 
+Contrariamente a quanto si potrebbe pensare, la proporzione di anziani senza figli non è cresciuta nel 
+corso del tempo. La probabilità, per una coorte di anziani, di avere dei figli in vita dipende dalla 
+natalità all'epoca in cui i suoi componenti erano in età di procreare e dalla mortalità – i grandi anziani 
+incorrono in un rischio non trascurabile di dover far fronte al decesso di discendenti adulti o a loro 
+volta anziani (Lalive d'Epinay, Cavalli, & Guillet, 2009-10). In Svizzera, il tasso di natalità è sceso 
+in modo significativo nella prima metà del secolo scorso, per risalire nei due decenni che hanno 
+seguito la Seconda Guerra mondiale (baby boom) e diminuire ulteriormente tra la metà degli anni 
+sessanta e la metà degli anni settanta. 
+Di fatto, gli ultraottantenni e, soprattutto, gli ultranovantenni di oggi, nati prima del 1940, sono i 
+genitori dei "baby boomers". Sono quindi particolarmente numerosi coloro che hanno avuto figli, più 
+che tra le persone nate all'inizio del Novecento. La Figura 4.5 mostra la percentuale di anziani con 
+almeno un figlio in vita, secondo la coorte di nascita, in tre cantoni. Il contrasto è notevole tra la 
+regione alpina (Vallese), che ha avuto un tasso di natalità relativamente stabile, e la regione 
+metropolitana (Ginevra), dove poco più della metà degli anziani nati all'inizio del secolo avevano 
+figli nel 1994. Successivamente, nella città di Calvino, la percentuale di persone senza discendenti è 
+diminuita, passando dal 45 a circa il 20% nelle coorti formatesi dopo il 1920. In Ticino, più di quattro 
+anziani su cinque hanno (ancora) dei figli. Da notare che erano solo il 69%, a fronte del 27% che non 
+avevano mai avuto discendenti diretti, in un'indagine condotta all'inizio degli anni ottanta (Gerosa, 
+1988). Con l'arrivo nella terza e nella quarta età dei "baby boomers" (vedi Figura 2.1), la proporzione 
+di anziani senza figli è destinata a crescere. 
+ 
+Figura 4.5.  Persone anziane con almeno un/a figlio/a, secondo la coorte di nascita e il cantone (%) 
+ 
+Fonte: Studi Unige (GUG79, CIG94, VLV) 
+50%
+55%
+60%
+65%
+70%
+75%
+80%
+85%
+90%
+1885 1890 1895 1900 1905 1910 1915 1920 1925 1930 1935 1940 1945
+Coorte di nascita
+VS
+GE
+TI
+
+---
+
+22/48 
+Longevità e baby boom sono anche all'origine dell'estensione verticale delle famiglie: se nel 1979 
+poco più della metà degli anziani aveva dei nipoti (abiatici), nel 2011 sette su dieci erano membri di 
+una rete famigliare composta da almeno tre generazioni. Stabile la presenza di fratelli e sorelle tra i 
+65-84enni, mentre sono sempre più numerosi, quasi due terzi, i grandi anziani (85+) che hanno 
+almeno un fratello o una sorella ancora in vita. 
+ 
+Relazioni sociali e solitudine 
+L'isolamento sociale fa riferimento a una situazione oggettiva, vale a dire avere pochi contatti con 
+altre persone ("essere soli"), mentre la solitudine è un sentimento che riflette uno stato soggettivo, 
+derivante dal modo in cui viene vissuta una mancanza o perdita di relazioni sociali ("sentirsi soli"). 
+Isolamento e solitudine sono spesso identificati come problemi insiti alla vecchiaia, ma diversi studi 
+hanno dimostrato che il fenomeno è meno diffuso di quanto si creda (Jylhä & Saarenheimo, 2010; 
+Wenger, Davies, Shahtahmasebi, & Scott, 1996). Ad esempio, secondo i dati più recenti dell'Indagine 
+sulla salute in Svizzera, i giovani ticinesi (15-34 anni) sono più numerosi a soffrire di solitudine 
+rispetto agli anziani (Pahud & Roth, 2019). 
+Tra il 1979 e il 1994, si è osservata un'intensificazione della vita relazionale e affettiva (Figura 4.6). 
+La percentuale di anziani che hanno scambi regolari (almeno una volta alla settimana) con la famiglia 
+è aumentata in modo significativo, soprattutto tra i 65-84enni (Figura 4.6a). I contatti con amici e 
+conoscenti sono invece rimasti stabili nei primi due gruppi d'età, per crescere tra i grandi anziani: le 
+persone di 85 anni e oltre che ricevono o rendono visite ad amici e conoscenti sono passate dal 24% 
+al 37%. Nello stesso periodo, il legame di amicizia si è generalizzato (Figura 4.6b). 
+ 
+Figura 4.6.  Contatti famigliari e amicizie, per gruppo d'età e periodo (Ginevra e Vallese, %) 
+ 
+Fonte: Studi Unige (GUG79, CIG94, VLV) 
+Nota:  Contatti famigliari: ricevere o recarsi a casa di membri della famiglia almeno una volta alla settimana. Amicizie: 
+avere tra gli amici e conoscenti almeno una persona a cui si è particolarmente affezionati. 
+ 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+1979
+1994
+2011
+a) Contatti con la famiglia
+65-74
+75-84
+85-94
+0%
+20%
+40%
+60%
+80%
+100%
+1979
+1994
+2011
+b) Avere amico/a intimo/a
+65-74
+75-84
+85-94
+
+---
+
+23/48 
+Di senso inverso è l'evoluzione tra il 1994 e il 2011, quando si osserva una rarefazione delle visite 
+famigliari (e in parte amicali), che tornano grossomodo al livello del 1979 (Figura 4.6a). Allo stato 
+attuale, non abbiamo una spiegazione per questa diminuzione dei contatti sociali. Segnaliamo però 
+che le persone che vivono da sole sembrano risparmiate dal declino degli scambi famigliari. 
+I contatti sono più frequenti in Ticino rispetto al resto della Svizzera. A sud delle Alpi (dati VLV), 
+circa il 60% dei 65-84enni e il 70% dei grandi anziani (85+) ha delle relazioni settimanali con membri 
+della famiglia e, nella metà dei casi, le visite sono quotidiane. A questo aggiungiamo che il 43% degli 
+anziani ticinesi ha degli scambi telefonici con dei parenti tutti i giorni e un altro 35% almeno una 
+volta alla settimana. Anche le relazioni amicali sono più intense in Ticino: più di un terzo degli anziani 
+riceve o rende visite ad amici e conoscenti su base settimanale. 
+Non disponiamo di informazioni sulla qualità delle relazioni e la sua evoluzione nel corso del tempo. 
+Grazie allo studio Tiresia sappiamo però che il 76% dei giovani anziani ticinesi sono soddisfatti delle 
+loro relazioni sociali. Tra coloro che esprimono un certo malcontento, il 35% desidererebbe avere 
+scambi più frequenti con gli amici, il 28% con i famigliari e il 13% vorrebbe istaurare delle relazioni 
+più strette con i vicini di casa. 
+La percentuale di persone che soffrono di solitudine si è dimezzata tra il 1979 e il 1994 (Figura 4.7). 
+Il dato si è in seguito stabilizzato per i più giovani (65-74) e i più anziani (85+), mentre per i 75-
+84enni la diminuzione della proporzione di persone che si sentono sole, meno netta tra le prime due 
+indagini, è proseguita nel 2011. 
+ 
+Figura 4.7.  Persone che si sentono sole, per gruppo d'età e periodo (Ginevra e Vallese, %) 
+ 
+Fonte: Studi Unige (GUG79, CIG94, VLV) 
+Nota:  Risposte "spesso" e "sempre" all'affermazione "Mi sento un po' solo/a, isolato/a, anche tra amici" (le altre modalità 
+di risposta erano "mai" e "raramente"). 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+1979
+1994
+2011
+65-74
+75-84
+85-94
+
+---
+
+24/48 
+In Ticino, le percentuali sono leggermente più elevate: dichiarano di sentirsi soli il 10% delle persone 
+tra i 65 e gli 84 anni e il 20% degli over 85. Il problema è più marcato tra chi ha uno status 
+professionale basso rispetto a quadri superiori e dirigenti, mentre essere sposati, avere dei figli e dei 
+nipoti contribuisce ad arginare il rischio di solitudine. Ancor più interessante è notare come non ci 
+sia alcun legame tra isolamento sociale e sentimento di solitudine per i giovani anziani e solo una 
+debole correlazione in età molto avanzata. La solitudine sembra piuttosto essere associata a uno stato 
+di salute precario. Di solito l'anziano è felice di vivere da solo, quasi sempre lo preferisce 
+all'eventualità di un trasferimento in casa per anziani, ne fa un principio di autonomia e indipendenza. 
+Quando però l'essere solo da scelta diventa costrizione – "non posso uscire di casa come e quando lo 
+desidero, visitare degli amici, svolgere delle attività in società" –, ecco che l'isolamento può diventare 
+un peso insopportabile e sfociare in un sentimento di solitudine (Cavalli & Dus, 2015). 
+Diversamente da quanto siamo portati a credere, la solitudine rimane un fenomeno minoritario nella 
+popolazione anziana (vedi anche: Höpflinger et al., 2019), ma un fenomeno che in Ticino riguarda 
+potenzialmente più di 12'000 persone di 65 anni e oltre. Se gli scenari demografici dell'Ustat si 
+riveleranno corretti e la prevalenza di persone che si sentono sole resterà invariata per i prossimi dieci 
+anni, nel 2030 potrebbero essere circa 15'000 gli anziani ticinesi a soffrire di solitudine. I dati ISS6 
+mostrano una sostanziale stabilità nell'ultimo decennio della proporzione di persone che si sentono 
+sole, ma anche una diffusione di questo sentimento tra i 55-64enni, in particolare tra coloro che hanno 
+un basso livello di scolarizzazione. 
+In conclusione, se la maggior parte delle persone anziane è attorniata da numerosi famigliari ed amici, 
+ha una vita relazionale intensa e non si sente sola, ci sono alcune tendenze che destano preoccupazione 
+e dovranno essere seguite da vicino. Cosa accadrà quando la popolazione anziana sarà composta 
+prevalentemente dai "baby boomers", che mediamente hanno avuto meno figli? La rarefazione dei 
+contatti con i famigliari osservata tra il 1994 e il 2011 è destinata a proseguire anche in futuro? Tra i 
+giovani anziani di domani (persone che hanno attualmente 55-64 anni) i meno istruiti saranno 
+particolarmente a rischio di esclusione sociale e solitudine? Tra gli aspetti positivi, sottolineiamo che, 
+ad oggi, non si osserva nessun declino della solidarietà famigliare. In caso di necessità, la rete 
+informale si mette in moto e anche se, con il sorgere di gravi problemi di salute, alcune mansioni 
+sono delegate a dei professionisti, la famiglia garantisce un monitoraggio a distanza e un importante 
+supporto di tipo relazionale (Masotti & Oris, 2015). Anche dal territorio arrivano segnali 
+incoraggianti. Negli ultimi anni, molte iniziative interessanti sono state prese con lo scopo di favorire 
+l'inclusione sociale delle persone anziane: apertura di centri diurni socio-assistenziali, introduzione 
+della figura del custode sociale, creazione di servizi comunali per anziani soli, senza dimenticare tutta 
+la gamma di attività di socializzazione proposte da ATTE, Pro Senectute e le altre associazioni che 
+operano a favore della popolazione anziana (vedi http://www.consiglioanziani.ch/). 
+                                               
+6 Le domanda posta ("Con quale frequenza le succede di sentirsi solo/a") e, soprattutto, le risposte considerate ("qualche 
+volta", "abbastanza spesso" e "molto spesso") sono diverse e i risultati purtroppo non sono confrontabili.
+
+---
+
+25/48 
+4.3. Stato di salute 
+Fin dagli anni settanta, la questione delle conseguenze del costante aumento dell'aspettativa di vita 
+sulla salute della popolazione anziana è al centro del dibattito scientifico. Per alcuni (Gruenberg, 
+1977), ciò porta inevitabilmente ad un incremento degli anni da convivere con malattie croniche e 
+incapacità severe. Secondo un'argomentazione più ottimista, conosciuta come la tesi della 
+"compressione della morbilità" (Fries, 1980), all'aumento della speranza di vita corrisponde una 
+riduzione, almeno relativa, del numero di anni trascorsi in cattive condizioni di salute. 
+Quarant'anni più tardi, la risposta a questa controversia è "dipende". Dipende dalla misura della salute 
+considerata, dalla popolazione interessata e dal contesto. La capacità, rispettivamente l'incapacità, a 
+svolgere determinate attività della vita quotidiana (ADL; Katz, Ford, Moskowitz, Jackson, & Jaffe, 
+1963) – lavarsi, mangiare, vestirsi, ecc. – o le cosiddette attività strumentali della vita quotidiana 
+(IADL; Lawton & Brody, 1969) – preparare un pasto, usare il telefono, prendere i mezzi pubblici, 
+ecc. –, è spesso considerata un indicatore dei problemi di salute o della morbilità. Altre misure 
+considerate sono la prevalenza di fattori di rischio (p. es., inattività) o di malattie croniche. Ognuno 
+di questi indicatori fornisce un'informazione importante ma parziale del processo che può portare 
+dalla presenza di fattori di rischio, alla malattia, alla perdita di funzionalità, alla vera e propria 
+incapacità, fino alla mortalità (Chatterji, Byles, Cutler, Seeman, & Verdes, 2015). 
+La maggior parte degli studi che hanno affrontato la questione della compressione versus espansione 
+della morbilità provengono dagli Stati Uniti. Se per il periodo che va dagli anni ottanta ai primi anni 
+duemila c'è un sostanziale accordo sulla diminuzione delle incapacità nelle IADL, meno chiara invece 
+è la tendenza per le ADL (Chatterji et al., 2015; Freedman, Martin, & Schoeni, 2002; Schoeni, 
+Freedman, Wallace, & Monica, 2001). Più recentemente, alcune ricerche hanno evidenziato un 
+aumento della prevalenza di malattie croniche (Chatterji et al., 2015; Freedman, Schoeni, Martin, & 
+Cornman, 2007), anche se la situazione per i grandi anziani non è certa, vista la scarsità di dati su 
+questa popolazione (Christensen, Doblhammer, Rau, & Vaupel, 2009). Alcuni autori suggeriscono 
+che la diminuzione delle limitazioni nelle ADL/IADL non è necessariamente il risultato di un declino 
+delle condizioni croniche, ma sia piuttosto dovuta ai miglioramenti delle cure sanitarie, della 
+medicina riabilitativa e della qualità degli alloggi (Chatterji et al., 2015; Crimmins & Beltrán-
+Sánchez, 2011). Infine, inizia a farsi strada la tesi di una possibile inversione di tendenza, per ciò che 
+concerne le incapacità nelle ADL/IADL, nelle nuove coorti di giovani anziani (Freedman, Wolf, & 
+Spillman, 2016). 
+ 
+Evoluzione della salute della popolazione anziana 
+In Svizzera, nel corso degli ultimi decenni, non è aumentata solo la speranza di vita, ma anche il 
+numero di anni trascorsi senza problemi di salute o incapacità (Kucera et al., 2018). Gli studi 
+dell'Università di Ginevra mettono in luce un sensibile miglioramento delle condizioni di salute della
+
+---
+
+26/48 
+popolazione anziana tra il 1979 e il 2011 (Lalive d'Epinay et al., 2000; Lalive d'Epinay & Cavalli, 
+2013). In poco più di trent'anni, la proporzione di persone che necessita dell'aiuto di terzi per svolgere 
+le attività della vita quotidiana (ADL) si è dimezzata. La Figura 4.8 mostra che, se la percentuale di 
+persone con delle limitazioni funzionali cresce da un gruppo d'età all'altro, nel corso del tempo la 
+curva si sposta verso destra, segno di un trend positivo – questo sia che si considerino solo le persone 
+a domicilio in grado di partecipare in prima persona all'intervista (Figura 4.8a) sia che si includano i 
+residenti in casa per anziani e le interviste con i proxy (Figura 4.8b). Ad esempio, tra gli 80-84enni, 
+la percentuale di dipendenti è passata dal 17% nel 1979 al 12% nel 1994 e al 7% nel 2011 (se 
+esaminiamo tutta la popolazione, si scende dal 27% del 1994 al 20% del 2011). 
+ 
+Figura 4.8.  Persone con delle limitazioni nelle attività della vita quotidiana (ADL), per gruppo d'età 
+e periodo (Ginevra e Vallese, %) 
+ 
+Fonte: Studi Unige (GUG79, CIG94, VLV) 
+ 
+Vediamo ora, grazie ai dati dell'Indagine sulla salute in Svizzera, qual è stata l'evoluzione delle 
+limitazioni nelle ADL/IADL nel corso nell'ultimo decennio (Tabella 4.3).7 I risultati sono coerenti 
+con quanto espresso dalla letteratura: tra il 2007 e il 2017, la percentuale di 65-74enni con delle 
+incapacità nelle IADL rimane piuttosto stabile, mentre si nota un leggero declino per gli over 75; 
+anche le limitazioni nelle ADL non mutano per i più giovani, ma qui il miglioramento per le persone 
+di 75 anni e oltre è più marcato. 
+Per quanto riguarda la percezione della salute, abbiamo la possibilità di includere le persone tra i 55 
+e i 64 anni e di prendere in considerazione un periodo più lungo. I risultati mostrano una sostanziale 
+stabilità della percentuale di coloro che valutano la propria salute in modo negativo. A lungo termine, 
+la tendenza pare in leggero miglioramento per i più anziani (75+) e lievemente in declino per i più 
+                                               
+7 Data la dimensione limitata del campione per il Ticino, le analisi riguardano l'insieme della Svizzera. 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+65-69 70-74 75-79 80-84 85-89 90-94
+a) Persone a domicilio in 
+grado di rispondere
+1979
+1994
+2011
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+65-69 70-74 75-79 80-84 85-89 90-94
+b) Con persone in casa per anziani e 
+intervistate tramite un proxy
+1994
+2011
+
+---
+
+27/48 
+giovani (55-64). Ne consegue che, nel 2017, la percentuale di 55-64enni che giudica la propria salute 
+in modo negativo è, seppur di poco, superiore a quella osservata tra gli over 75. 
+ 
+Tabella 4.3.  Limitazioni nelle ADL/IADL e percezione della salute, per gruppo d'età e periodo 
+(Svizzera, %) 
+ 
+2002 
+2007 
+2012 
+2017 
+Limitazioni IADL 
+ 
+ 
+ 
+ 
+  65-74 
+- 
+22 
+23 
+22 
+  75+ 
+- 
+48 
+52 
+45 
+Limitazioni ADL 
+ 
+ 
+ 
+ 
+  65-74 
+- 
+5 
+4 
+5 
+  75+ 
+- 
+16 
+15 
+12 
+Percezione della salute  
+(male/molto male) 
+ 
+ 
+ 
+ 
+  55-64 
+6 
+5 
+6 
+7 
+  65-74 
+5 
+6 
+5 
+5 
+  75+ 
+8 
+8 
+8 
+6 
+Fonte: ISS 
+Nota:  Le domande sulle limitazioni nelle ADL/IADL sono state poste in modo sistematico solo alle persone di 65 anni 
+e oltre e a partire dal 2007. 
+ 
+Disuguaglianze di salute 
+Un'analisi dell'evoluzione della salute nella popolazione anziana non può non tener conto della 
+notevole eterogeneità che la caratterizza (vedi Capitolo 2.2), in gran parte dovuta alla stratificazione 
+sociale che influenza le esperienze nel corso della vita (Corna, 2013). Anche alle nostre latitudini, il 
+grado d'istruzione è fonte di importanti disparità per quanto riguarda sia la speranza di vita 
+(Schumacher & Vilpert, 2011) che la speranza di vita in buona salute (Remund et al., 2019). Le 
+disuguaglianze sociali nella salute sono ben documentate, che si tratti di giovani o di grandi anziani 
+(Enroth, Raitanen, Hervonen, & Jylhä, 2013; Frytak, Harley, & Finch, 2003), che si considerino le 
+limitazioni nelle ADL/IADL o la percezione della salute (Lynch, 2003; Willson, Shuey, & Elder, 
+2007). 
+Gli studi dell'Università di Ginevra attestano che il miglioramento dello stato funzionale, osservato 
+tra il 1979 e il 2011, è in gran parte dovuto alla trasformazione della struttura socio-professionale 
+della popolazione anziana. Detto altrimenti, la diminuzione delle limitazioni nelle ADL si spiega in 
+buona parte con il declino delle classi manuali (Lalive d'Epinay et al., 2000, pp. 146-147). L'indagine 
+VLV conferma che anche in Ticino le traiettorie formative e lavorative, così come il reddito, sono
+
+---
+
+28/48 
+associati allo stato di salute della popolazione anziana: ad esempio, nella terza età, la proporzione di 
+persone fragili è più del doppio tra chi si è fermato alla scuola dell'obbligo (28%) rispetto a chi ha 
+intrapreso degli studi superiori (13%) (Cavalli, 2015). 
+I risultati dell'ultima Indagine sulla salute in Svizzera (2017) mettono in evidenza delle 
+disuguaglianze di salute secondo il grado di istruzione, sia a livello nazionale per gli over 55 (Kaeser, 
+2019), sia in Ticino per l'insieme della popolazione (Pahud & Roth, 2019). Esaminiamo ora 
+l'evoluzione della salute in Svizzera negli ultimi dieci/quindici anni, separatamente per le persone che 
+si sono fermate alle scuole dell'obbligo, quelle che hanno fatto un apprendistato o frequentato una 
+scuola secondaria (livello intermedio), e infine quelle con un livello di formazione terziario (Tabella 
+4.4). 
+ 
+Tabella 4.4.  Limitazioni nelle ADL/IADL e percezione della salute, per gruppo d'età, periodo e 
+livello di istruzione (Svizzera, %) 
+ 
+Livello di istruzione 
+ 
+obbligatorio 
+intermedio 
+terziario 
+ 
+2002 2007 2012 2017 2002 2007 2012 2017 2002 2007 2012 2017 
+Limitazioni IADL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  65-74 
+- 
+27 
+37 
+35 
+- 
+20 
+21 
+22 
+- 
+14 
+16 
+14 
+  75+ 
+- 
+50 
+64 
+55 
+- 
+41 
+48 
+45 
+- 
+31 
+43 
+28 
+Limitazioni ADL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  65-74 
+- 
+6 
+7 
+11 
+- 
+4 
+3 
+5 
+- 
+3 
+3 
+3 
+  75+ 
+- 
+15 
+22 
+17 
+- 
+10 
+12 
+11 
+- 
+9 
+11 
+7 
+Percezione salute 
+(male/molto male) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  55-64 
+11 
+8 
+14 
+17 
+4 
+4 
+6 
+5 
+5 
+2 
+3 
+3 
+  65-74 
+8 
+7 
+8 
+7 
+5 
+4 
+4 
+5 
+3 
+3 
+3 
+4 
+  75+ 
+11 
+8 
+12 
+8 
+8 
+4 
+6 
+7 
+3 
+3 
+6 
+4 
+Fonte: ISS 
+Nota:  Le domande sulle limitazioni nelle ADL/IADL sono state poste in modo sistematico solo alle persone di 65 anni 
+e oltre e a partire dal 2007. 
+ 
+Le limitazioni nelle ADL/IADL diminuiscono man mano che si allunga la durata degli studi, e questo 
+a prescindere dalla fascia d'età e dal periodo preso in esame. In una prospettiva storica, osserviamo 
+una tendenza al miglioramento per i più formati di 75 anni e oltre, un leggero declino per la categoria 
+intermedia e un deterioramento più marcato per le persone che hanno frequentato solo le scuole 
+dell'obbligo, in particolare per i 65-74enni.
+
+---
+
+29/48 
+Per quanto riguarda la percezione della salute, non si riscontrano dei cambiamenti significativi nel 
+corso del tempo per le persone che sono andate oltre la scolarità obbligatoria. Più interessanti i risultati 
+che riguardano i meno istruiti: se per gli over 75 si osserva un certo miglioramento, ben diversa è la 
+situazione dei 55-64enni. Tra di essi, la proporzione di persone che valuta negativamente la propria 
+salute ha subito un'impennata negli ultimi dieci anni (dall'8% nel 2007 al 17% nel 2017).8 
+Quest'ultimo dato invita ad interrogarsi sulle possibili conseguenze degli stili di vita adottati da una 
+parte degli appartenenti alle nuove coorti di anziani e futuri anziani (Olshansky et al., 2009). Per avere 
+maggiori elementi sulla salute degli ultrasessantacinquenni di domani, interessiamoci al diabete, 
+all'ipertensione e al colesterolo alto, tra i principali fattori di rischio cardiovascolare, nonché 
+all'inattività. I casi di diabete aumentano nel corso del tempo, con la sola eccezione degli over 75 con 
+un livello di scolarizzazione elevato. In questo gruppo, la prevalenza è scesa dal 13% all'11% tra il 
+2007 e il 2017. A titolo di paragone, tra i meno istruiti dello stesso gruppo d'età, le persone affette da 
+diabete sono passate dal 10% al 15% nello stesso periodo. Ipertensione e colesterolo sono cresciuti 
+in modo più pronunciato tra i 55-64enni con un livello di formazione basso o intermedio rispetto ai 
+loro coetanei più istruiti. Infine, i tassi di inattività sono diminuiti notevolmente nel corso del tempo, 
+segno del successo delle politiche sanitarie per combattere gli stili di vita sedentari, ma il divario 
+secondo la formazione resta considerevole: ad esempio, nel 2017 il 20% dei 55-64enni meno istruiti 
+era inattivo a fronte del 6% tra i più formati; lo stesso dicasi per i 65-74enni la cui proporzione di 
+inattivi è rispettivamente del 17% e del 4%. 
+I risultati appena presentati destano più di qualche preoccupazione per ciò che concerne i nuovi 
+anziani e le future generazioni. Ci ricordano che miglioramenti come quelli che hanno riguardato la 
+salute, evidenziati dagli studi dell'Università di Ginevra, non rappresentano delle conquiste definitive. 
+Il progresso non è ineluttabile, ma dipende dalle trasformazioni sociali, dalle azioni individuali e 
+collettive. Il dibattito tra compressione e espansione della morbilità rimane pertanto aperto (Chatterji 
+et al., 2015). I pianificatori di sistemi sanitari e sociali devono prendere atto di queste tendenze ed 
+essere consapevoli che i continui miglioramenti di cui beneficiano alcuni gruppi sociali possono 
+andare di pari passo con un declino della salute per i più svantaggiati.9 
+                                               
+8 In Ticino, la tendenza generale è simile ma sarebbe imprudente trarre delle conclusioni date le dimensioni ridotte del 
+campione. 
+9 I dati a nostra disposizione non ci permettono di affrontare il tema cruciale delle demenze. Secondo il World Alzheimer 
+Report del 2015, negli ultimi anni la prevalenza della demenza si sarebbe ridotta negli Stati Uniti e in Europa (Prince et 
+al., 2015). Alcune ricerche attestano anche dell'esistenza di un forte legame tra la prevalenza di demenza e il livello di 
+istruzione (Crimmins et al., 2018). Uno studio epidemiologico multi-centrico (SwissDEM), condotto dal Prof. Emiliano 
+Albanese dell'USI, è in fase di avvio in Ticino, a Ginevra e a Zurigo. Lo scopo è misurare la distribuzione e l'impatto, 
+compresi i costi diretti e indiretti, della demenza sia su coloro che ne soffrono, che sui famigliari e, in senso più ampio, 
+la società.
+
+---
+
+30/48 
+4.4. Attività, stili di vita e forme di partecipazione 
+La seconda metà del secolo scorso è stata caratterizzata da una profonda trasformazione degli stili di 
+vita: maggiore importanza accordata al tempo libero e allo sviluppo personale, consumismo, 
+progresso tecnologico, turismo di massa, e chi più ne ha più ne metta. I cambiamenti non hanno 
+risparmiato la popolazione anziana, tanto che i significati stessi dell'età della pensione sono mutati 
+radicalmente: da periodo di meritato riposo dopo una vita dedicata al lavoro, a momento di libertà 
+atteso e desiderato durante il quale realizzare i propri sogni (Lalive d'Epinay, 1996; Legrand, 2001). 
+Nel mezzo, una grande varietà di comportamenti individuali e delle teorie gerontologiche controverse 
+fondate (anche) sull'esame delle attività della popolazione anziana. Secondo la "teoria del 
+disimpegno" (Cumming & Henry, 1961), l'individuo che invecchia, una volta cessata l'attività 
+professionale, sente la necessità di ridurre i suoi impegni e di ritirarsi dalla vita pubblica. In Francia, 
+Anne-Marie Guillemard (1972) ha identificato diversi modelli di comportamento a seguito del 
+pensionamento e ha definito il più comune "morte sociale". Per la "teoria dell'attività" (Havighurst & 
+Albrecht, 1953), invece, invecchiare bene dipende dalla preservazione di attività significative e 
+gratificanti e dallo sviluppo di nuove pratiche. 
+Hanno contribuito a prendere le distanze da una visione negativa e passiva dell'anzianità anche le 
+diverse teorie dell'"invecchiamento di successo" (M. M. Baltes & Carstensen, 1996; Rowe & Kahn, 
+1987) così come i discorsi e i programmi a sostegno di un "invecchiamento attivo". A tal proposito, 
+l'Organizzazione Mondiale della Sanità ha messo a punto un vero e proprio piano strategico articolato 
+su tre pilastri: salute, partecipazione sociale e sicurezza (WHO, 2002).10 Il messaggio è chiaro: ogni 
+individuo, per migliorare la propria qualità della vita, deve (tra le altre cose) avere un ruolo attivo e 
+partecipare alla vita della comunità. L'enfasi eccessiva sulle azioni personali rischia però di 
+considerare l'anziano l'unico responsabile del suo invecchiamento e, di conseguenza, di 
+colpevolizzarlo in caso di problemi, o addirittura stigmatizzarlo nel caso diventi dipendente. 
+ 
+Attività ricreative 
+Molti anziani hanno una vita attiva intensa e diversificata. Ciò nondimeno, con l'avanzare dell'età e 
+l'incombere della fragilità, si assiste ad una diminuzione delle attività, in particolare quelle che 
+richiedono uno sforzo fisico e si svolgono all'esterno della propria abitazione (Bickel & Cavalli, 
+2008). La Figura 4.9 lo conferma per quel che riguarda la pratica sportiva, la frequentazione di locali 
+pubblici, gli spettacoli e le escursioni di breve durata. L'invecchiamento impone una riorganizzazione 
+della vita quotidiana. Questa spesso avviene attraverso la selezione o la sostituzione di attività e 
+relazioni. Data la sensazione di non essere più in grado di realizzare ciò che si svolgeva in passato, la 
+                                               
+10 Anche il DSS si è fatto promotore di questo modello, ad esempio con il "Programma autonomia e invecchiamento 
+attivo 2017-2020".
+
+---
+
+31/48 
+persona anziana cerca di risparmiare le forze restanti e di convogliarle nelle attività (e relazioni) più 
+significative ai suoi occhi (Meidani & Cavalli, 2018, 2019). 
+ 
+Figura 4.9.  Persone che praticano delle attività, per gruppo d'età e periodo (Ginevra e Vallese, %) 
+ 
+Fonte: Studi Unige (GUG79, CIG94, VLV) 
+Nota:  Pratica di uno sport, diverso dalla ginnastica e dalle passeggiate, "almeno una volta alla settimana"; andare al bar, 
+caffè o al ristorante "almeno una volta alla settimana"; andare al cinema, a un concerto o a teatro "almeno una 
+volta al mese"; effettuare un'escursione di 1-2 giorni in auto, bus o treno "almeno una volta al mese". 
+ 
+Nel corso degli ultimi decenni, la proporzione di anziani attivi è aumentata in modo considerevole, 
+in particolare tra i più giovani. Il trend concerne praticamente tutti i tipi di attività, che siano svolte 
+al proprio domicilio (p. es., passatempi come cruciverba e Sudoku) o fuori le mura (p. es., assistere a 
+delle manifestazioni di paese o di quartiere), praticate in solitaria o in compagnia (p. es., giochi di 
+società), che allenino soprattutto il corpo o la mente, che implichino un ruolo di spettatore (p. es., 
+assistere ad un concerto) o di attore (p. es., suonare uno strumento). I cambiamenti più spettacolari 
+riguardano le attività culturali e quelle che richiedono uno sforzo fisico. Tra il 1979 e il 2011, la 
+percentuale di sportivi si è moltiplicata per tre tra i 65-84enni; ma è pure cresciuto, in tutti i gruppi 
+d'età, il numero di coloro che fanno regolarmente ginnastica. Cinema, teatri e concerti sono sempre 
+più apprezzati e cresce l'interesse degli anziani per corsi e conferenze. In aumento anche la 
+frequentazione di locali pubblici, le escursioni di uno o due giorni e, sebbene in misura minore, i 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+1979
+1994
+2011
+a) Sport
+65-74
+75-84
+85-94
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+1979
+1994
+2011
+b) Bar/caffè/ristorante
+65-74
+75-84
+85-94
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+1979
+1994
+2011
+c) Cinema/concerto/teatro
+65-74
+75-84
+85-94
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+1979
+1994
+2011
+d) Escursioni di 1-2 giorni
+65-74
+75-84
+85-94
+
+---
+
+32/48 
+viaggi e le vacanze di più lunga durata. L'unica attività in declino, lo vedremo nel Capitolo 4.5, è la 
+frequentazione dei luoghi di culto. 
+Il tipo di attività praticate dalle persone anziane e la loro evoluzione nel corso del tempo variano 
+secondo il genere e l'appartenenza sociale (Baeriswyl, 2017). Nel 1979, specialmente in Vallese, la 
+pratica sportiva e la frequentazione di bar e ristoranti erano ad appannaggio degli uomini; trent'anni 
+più tardi, le differenze si sono attenuate, per scomparire tra i membri della coorte più recente (65-
+74enni, nati nel corso della seconda guerra mondiale). Per ciò che concerne il grado di istruzione, ad 
+esempio, le persone meno scolarizzate si dedicano più spesso al giardinaggio, mentre i possessori di 
+un diploma superiore sono più assidui nella ginnastica e gli esercizi fisici. Gli anziani ticinesi, rispetto 
+a Ginevrini e Vallesani, vanno meno al cinema, a concerti e a teatro, e i più giovani (65-74) praticano 
+meno attività sportive. 
+Questa "rivoluzione tranquilla" degli stili di vita (Lalive d'Epinay et al., 2000) si spiega con il 
+miglioramento della salute e delle condizioni economiche della popolazione anziana, con 
+l'ampliamento dell'offerta di attività ricreative, animazioni a carattere culturale e viaggi organizzati, 
+grazie alla promozione del concetto di "invecchiamento attivo", ma anche a seguito di un 
+cambiamento dei costumi e delle mentalità. Prendiamo l'esempio dello sport: era quasi impensabile, 
+negli anni 1970, avvistare un ottantenne in un parco intento a praticare jogging o immaginare una 
+signora anziana, magari di una delle nostre valli, disposta a mostrarsi in costume da bagno. Oggi 
+invece questi comportamenti sono diventati "normali" e sono incentivati dalla politica, dai 
+professionisti della salute e dalle associazioni. Tutto sembra indicare che le tendenze osservate nel 
+corso degli ultimi decenni dovrebbero confermarsi anche in futuro. 
+ 
+Uso delle tecnologie 
+Gli stereotipi abbondano per quanto riguarda il rapporto tra anziani e tecnologia. Si passa dalla 
+convinzione che tutte le persone anziane rifuggano dalle nuove tecnologie e siano degli analfabeti 
+digitali, all'opinione che i baby boomers siano dei grandi esperti, vivano in abitazioni intelligenti e 
+un giorno faranno affidamento su di un robot personale per tutta una serie di esigenze. La realtà, per 
+la maggior delle persone anziane, si situa nel mezzo. 
+Uno dei cambiamenti più profondi degli ultimi decenni riguarda l'uso di Internet, e la Svizzera è tra i 
+paesi con i più alti tassi di utilizzo. La percentuale di 60-69enni che si connettono a Internet più volte 
+alla settimana è passata dall'8% nel 1999/2000 al 76% nel 2016/2017, quella degli over 70 dall'1 al 
+46% durante lo stesso periodo (Höpflinger et al., 2019). L'uso di dispositivi mobili è anch'esso in 
+crescita: i connessi rappresentano ormai quasi l'80% dei 50-69enni e più di un terzo degli over 70 
+(Latzer, Büchi, & Festic, 2020). Nonostante il crescente utilizzo, il 44% di tutti gli utenti di età 
+superiore ai 70 anni ritiene che le proprie competenze in materia siano scarse o appena sufficienti 
+(Latzer et al., 2020). Aggiungiamo che l'uso di Internet non dipende solo dall'età, ma anche dal livello
+
+---
+
+33/48 
+di formazione e dal reddito. Le persone poco istruite e con un reddito modesto si connettono meno 
+sovente, un fattore che può contribuire all'aumento del divario tra anziani più o meno scolarizzati 
+(Egloff, 2012). 
+L'uso della rete non solo facilita la ricerca di informazioni ma, grazie a piattaforme come Facebook 
+o Whatsapp, permette alle persone di comunicare in modi inimmaginabili alcuni decenni orsono. Su 
+questi aspetti, lo studio Tiresia fornisce una fotografia interessante della situazione in Ticino nel 2018 
+(Figura 4.10). La stragrande maggioranza degli anziani di età compresa tra i 60 e gli 80 anni guarda 
+la televisione e ascolta la radio tutti i giorni o quasi. Gli smartphone sono molto diffusi, soprattutto 
+tra i più giovani – tre quarti dei sessantenni e più della metà dei settantenni ne fanno uso regolarmente 
+–, così come i computer – adoperati dal 60% dei 60-69enni e dal 45% dei 70-80enni. La maggior 
+parte dei sessantenni utilizza spesso Internet, Whatsapp e la posta elettronica, un quarto consulta il 
+proprio profilo Facebook quotidianamente o un giorno si e uno no. Superati i 70 anni, la percentuale 
+di fruitori di queste tecnologie scende, restando comunque importante: il 46% si connette sovente a 
+Internet, il 14% a Facebook. 
+ 
+Figura 4.10. Persone che utilizzano assiduamente dispositivi, rete e piattaforme digitali (Ticino, %) 
+ 
+Fonte: Tiresia 
+Nota:  Utilizzo quotidiano o almeno un giorno sì e uno no. 
+ 
+La diffusione delle tecnologie nella popolazione anziana proseguirà di sicuro anche in futuro. La 
+rinuncia all'uso della rete da parte di un certo numero di anziani deve essere accettata, sostiene uno 
+studio di Pro Senectute Svizzera, ma è importante che queste persone non vengano marginalizzate e 
+private di informazioni. La società, aggiungono gli autori dello studio, va sensibilizzata sulle 
+difficoltà che alcune persone anziane possono incontrare nell'imparare ad utilizzare le nuove 
+0%
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Youtube
+Chat
+Whatsapp
+Instagram
+Facebook
+Internet
+Email
+Telefonino smartphone
+Telefonino non smartphone
+Tablet
+Computer
+Radio
+TV
+60-69
+70-80
+
+---
+
+34/48 
+tecnologie (Seifert & Schelling, 2015). Tecnologie che possono contribuire al mantenimento 
+dell'indipendenza, alla riduzione dell'isolamento e all'aumento del benessere degli anziani (Khosravi, 
+Rezvani, & Wiewiora, 2016; Sims, Reed, & Carr, 2017). 
+ 
+Partecipazione sociale e prestazione di servizi 
+Gli anziani hanno un ruolo importante nella società e forniscono svariati servizi, a titolo gratuito, a 
+famigliari, amici e conoscenti o in ambito associativo. Con l'avanzare dell'età e l'insorgere di problemi 
+di salute, l'anziano necessita di un numero sempre maggiore di aiuti, siano essi "informali" – ossia 
+forniti dalla famiglia, dagli amici e dai conoscenti – o "formali" – elargiti da organizzazioni pubbliche 
+o private (su questo tema, che non è oggetto del presente rapporto, si veda per il Ticino: Masotti, 
+2016; Masotti & Oris, 2015). Sarebbe però sbagliato rappresentare l'anziano come un fardello, 
+riducendolo al ruolo di beneficiario di aiuti e cure, trascurando il suo ruolo nella solidarietà inter- e 
+intra-generazionale (Armi, Guilley, & Lalive d'Epinay, 2008; Attias-Donfut, 1995; Pavalko, 2011). 
+Nell'ambito degli ultimi due studi dell'Università di Ginevra (CIG94 e VLV), è stata mostrata ai 
+partecipanti una lista di servizi che si possono rendere a membri della famiglia o ad amici, conoscenti 
+e vicini (ma senza tener conto dei conviventi). Le attività per le quali disponiamo di informazioni 
+comparabili nel 1994 e nel 2011 sono di tre tipi: i servizi strumentali con lo scopo di aiutare il 
+ricevente nella vita quotidiana (svolgere i lavori domestici, fare la spesa, portare o preparare dei pasti); 
+quelli di natura relazionale (accompagnare qualcuno – persona anziana, disabile o bambino – a fare 
+una passeggiata, a uno spettacolo, al bar o al ristorante, oppure occuparsi di bambini, ad esempio 
+aiutandoli nei compiti); infine, dei favori più specifici e occasionali (fare delle piccole riparazioni o 
+delle attività di giardinaggio). La maggior parte dei giovani anziani elargisce almeno uno dei servizi 
+appena elencati (Figura 4.11). La proporzione di persone che offre un sostegno a famigliari o amici 
+diminuisce da un gruppo d'età all'altro. Confrontando i risultati delle due indagini osserviamo un 
+aumento della percentuale di fornitori di servizi, indipendentemente dalla loro età. 
+In Ticino, gli anziani giocano un ruolo ancor più importante: presta dei servizi l'85% dei 65-74enni, 
+il 77% dei 75-84enni e un grande anziano (85+) su due. Se consideriamo anche attività quali aiutare 
+una persona nell'igiene personale, tener compagnia offrendo sostegno morale e conforto o fornire un 
+aiuto finanziario, quasi la totalità dei 65-84enni e il 70% degli over 85 fornisce almeno un servizio. 
+Un'analisi più dettagliata mostra che gli anziani prestano soprattutto dei servizi di natura relazionale 
+e che i destinatari sono in prevalenza membri della famiglia: figli o, per i più giovani, un genitore 
+ancora in vita (Cavalli et al., 2015). La solidarietà nei confronti di amici e conoscenti non è da 
+sottovalutare – ad esempio, quasi la metà degli anziani assicurano loro compagnia e sostegno morale 
+–, ma tende a ridursi con l'avanzare dell'età. 
+Tutto ciò avviene in un contesto dominato dalla reciprocità, nel quale anche le persone fragili o 
+dipendenti continuano a fornire un prezioso supporto, essenzialmente di tipo relazionale ed emotivo.
+
+---
+
+35/48 
+Non si rassegnano ad un ruolo passivo, cercando di preservare il più a lungo possibile lo status di 
+donatore e l'idea di essere ancora "utile" agli altri. 
+ 
+Figura 4.11.  Persone che prestano dei servizi, per gruppo d'età e periodo (Ginevra e Vallese, %) 
+ 
+Fonte: Studi Unige (CIG94, VLV) 
+Nota:  Persone che prestano "a volte" o "spesso" a membri della famiglia o ad amici e conoscenti almeno uno dei seguenti 
+servizi: fare lavori domestici; portare o preparare dei pasti; fare la spesa; fare delle riparazioni o occuparsi del 
+giardino; accompagnare un anziano o un disabile a passeggio, ad uno spettacolo o al ristorante; badare a dei 
+bambini. 
+ 
+Concentriamoci ora su una forma particolare di sostegno: la cura dei nipoti (per un'analisi dettagliata 
+della questione si veda: Giudici, 2015). Il supporto da parte dei nonni rappresenta una forma di 
+scambio intergenerazionale in crescita tra il 1994 e il 2011. A sud delle Alpi (dati VLV), il 55% dei 
+65-74enni e il 33% dei 75-84enni si occupa, almeno saltuariamente, dei nipoti. Queste cifre assumono 
+ancora maggior risalto se si tiene conto del fatto che il 30% dei membri di queste fasce d'età non ha 
+abiatici e che parte dei nipoti sono già adulti. Secondo i dati Tiresia, il 31% dei giovani anziani 
+custodiscono con una certa regolarità dei bambini appartenenti al loro nucleo famigliare. 
+Gli anziani sono anche sempre più impegnati nel volontariato. Se nel 1979 meno di una persona su 
+dieci partecipava a questo genere di attività, nel 2011 circa un quarto dei 65-84enni si dedicava agli 
+altri a titolo gratuito. In Ticino (dati Tiresia), il 15% dei 60-80enni svolge un'attività di volontariato 
+regolare. E se il 16% degli intervistati ha abbandonato questa pratica nel corso degli anni, il 18% si 
+dice interessato a svolgerla in futuro. 
+Abbiamo evidenziato il ruolo importante dell'anziano nella famiglia e, più in generale, nella società. 
+Una forma di solidarietà spesso silenziosa e non ancora pienamente riconosciuta. Malgrado la 
+fragilità, comune in età avanzata, le persone anziane costituiscono una risorsa preziosa (Giudici, 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+1994
+2011
+65-74
+75-84
+85-94
+
+---
+
+36/48 
+Cavalli, Egloff, & Masotti, 2015). E lo saranno sempre più in futuro. Una risorsa da valorizzare, 
+tutelando il carattere altruista e volontario11 che contraddistingue queste attività, e supportando chi si 
+trova in difficoltà o necessita di rigenerarsi di tanto in tanto (si pensi alle iniziative a sostegno dei 
+familiari curanti). 
+ 
+4.5. Religione e valori 
+Appartenenza e pratiche religiose 
+Il panorama religioso in Svizzera è mutato negli ultimi cinquant'anni a seguito di due fenomeni: la 
+secolarizzazione e l'accresciuta diversità (Monnot & Stolz, 2016). In che misura questi processi 
+riguardano anche la popolazione anziana? Un modo semplice per studiare le trasformazioni della 
+religiosità consiste nel confrontare l'appartenenza confessionale in epoche diverse. In Ticino (dati 
+Ustat), la maggior parte delle persone anziane si identificano come cattolico-romane (ad esempio, il 
+79% degli over 85) e circa un anziano su venti è protestante. Tra il 1990 e il 2017, la quota di cattolici 
+è diminuita, mentre cresce la percentuale di coloro che non si riconoscono in nessuna confessione 
+religiosa (Figura 4.12). L'aumento è stato particolarmente significativo per i 65-74enni (dal 4 al 13%) 
+e ancor più marcato per le persone che si avvicinano all'età della pensione: la percentuale di 55-64enni 
+prive di appartenenza religiosa è quadruplicata nello spazio di un trentennio (dal 4 al 17%). 
+ 
+Figura 4.12.  Persone senza appartenenza religiosa, per gruppo d'età e periodo (Ticino, %) 
+ 
+Fonte: Ustat (Censimenti 1990 e 2000; Rilevazioni Strutturali 2010 e 2017) 
+                                               
+11 Nel senso di dipendere dalla volontà, se possibile senza obblighi e costrizioni esterne, a prescindere dal fatto che sia 
+previsto o meno un riconoscimento economico. 
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+16%
+18%
+1990
+2000
+2010
+2017
+55-64
+65-74
+75-84
+85+
+
+---
+
+37/48 
+Alla luce di queste tendenze, vediamo come evolvono le pratiche religiose nel corso del tempo. Gli 
+studi dell'Università di Ginevra mostrano che la proporzione di persone anziane che si reca in chiesa, 
+o al tempio, almeno una volta alla settimana si è praticamente dimezzata tra il 1979 e il 2011. Il calo 
+è ancora più spettacolare per i giovani anziani (65-74). I dati della European Social Survey mostrano 
+che il trend è proseguito fino ai giorni nostri (Figura 4.13a). Anche la percentuale di persone che 
+pregano almeno una volta alla settimana è diminuita negli ultimi anni, sebbene in modo meno marcato 
+(Figura 4.13b). Ad esempio, tra i 65-74enni scende dal 62% nel 2002 al 49% nel 2018. 
+ 
+Figura 4.13.  Pratiche religiose, per gruppo d'età e periodo (Svizzera, %) 
+ 
+Fonte: ESS 
+Nota:  Persone che frequentano una funzione religiosa (a) o pregano (b) almeno una volta alla settimana. 
+ 
+Questi risultati convalidano, parzialmente, la tesi della secolarizzazione anche nell'anzianità. Come 
+nel resto della popolazione (Campiche, 2010; Stolz, Könemann, Schneuwly Purdie, Engleberger, & 
+Krüggeler, 2015), le pratiche sono in ribasso e la fede vissuta di preferenza in privato. In compenso, 
+fino ad oggi, la maggior parte degli anziani continua a riconoscersi nella chiesa ufficiale. La 
+situazione è destinata a cambiare in futuro e le persone senza appartenenza religiosa saranno sempre 
+più numerose in seno alle nuove coorti di anziani. Per contro, non ci sono elementi a sostegno della 
+tesi di una maggiore diversità religiosa. È possibile che la percentuale di anziani aderenti ad altre 
+confessioni aumenti leggermente (occorrerà tenerne conto, ad esempio nelle case per anziani), ma è 
+difficile immaginare degli stravolgimenti. Sempre più importanti, invece, saranno le pratiche 
+spirituali individualizzate e le credenze metafisiche (de Flaugergues, 2016). 
+ 
+Visioni del mondo e valori 
+Le nuove coorti di anziani, l'abbiamo visto, comprendono sempre più persone che hanno vissuto in 
+relativa sicurezza sociale e materiale. Tali percorsi di vita favoriscono l'adesione a valori in cui la 
+realizzazione personale e il benessere hanno la precedenza su nozioni come l'adattamento e la 
+dedizione (Inglehart, 1997). In questo processo, descritto come individualizzazione, l'autonomia 
+0%
+5%
+10%
+15%
+20%
+25%
+2002
+2010
+2018
+a) Funzioni religiose
+55-64
+65-74
+75+
+0%
+20%
+40%
+60%
+80%
+2002
+2010
+2018
+b) Preghiera
+55-64
+65-74
+75+
+
+---
+
+38/48 
+viene posta in primo piano. Al tempo stesso, si osserva un declino del conformismo e la coesistenza 
+di una pluralità di valori (Bauman, 2001). Descritto il contesto generale, possiamo formulare due 
+ipotesi parallele: la prima è che nel corso del tempo e delle coorti l'adesione ai valori tradizionali 
+diminuisca, mentre si rafforzerebbe l'apertura nei confronti della (post-)modernità; la seconda è che 
+la diversità dei modi di vivere in età avanzata continui ad aumentare (Bennett, 2019) e che le persone 
+anziane attribuiscano sempre maggiore importanza all'autodeterminazione e all'individualità. 
+Nel quadro della European Social Survey sono state poste diverse domande con lo scopo di 
+identificare, per ogni partecipante, l'importanza che attribuisce a diversi valori. La Figura 4.14 
+presenta i risultati salienti per la popolazione di 55 anni e oltre residente in Svizzera. 
+ 
+Figura 4.14.  Persone che si identificano con diversi valori, per gruppo d'età e periodo (Svizzera, %) 
+ 
+ 
+Fonte: ESS 
+Nota:  Persone che, sulla base di una serie di domande, ritengono che sia importante: a) seguire le tradizioni e le usanze; 
+b) essere umili e modesti, non attirare l'attenzione; c) prendere le proprie decisioni e essere liberi; d) pensare a 
+delle nuove idee ed essere creativi. 
+ 
+Le persone più anziane attribuiscono un'importanza maggiore alle tradizioni e alle usanze rispetto ai 
+55-64enni, e questo nelle tre indagini considerate (Figura 4.14a). Lo stesso dicasi per il valore della 
+discrezione, dell'umiltà e della modestia, anche se nel 2018 gli over 75 ne sono meno attratti (Figura 
+4.14b). Eccezione appena menzionata a parte, i risultati non mutano nel corso del tempo, quasi che 
+0%
+20%
+40%
+60%
+80%
+100%
+2002
+2010
+2018
+a) Tradizioni e usanze
+55-64
+65-74
+75+
+0%
+20%
+40%
+60%
+80%
+100%
+2002
+2010
+2018
+b) Umiltà, modestia e discrezione
+55-64
+65-74
+75+
+0%
+20%
+40%
+60%
+80%
+100%
+2002
+2010
+2018
+c) Autodeterminazione e libertà
+55-64
+65-74
+75+
+0%
+20%
+40%
+60%
+80%
+100%
+2002
+2010
+2018
+d) Creatività e innovazione
+55-64
+65-74
+75+
+
+---
+
+39/48 
+la maggiore adesione dei più anziani a dei valori tradizionali dipenda dall'età piuttosto che 
+dall'appartenenza generazionale. 
+La popolazione svizzera di 55 anni e oltre crede fermamente nell'autodeterminazione e nella libertà 
+individuale (Figura 4.14c). Più dell'80% delle persone intervistate considerano importante essere 
+liberi e prendere le proprie decisioni (solo gli over 75 interrogati nel 2002 – quindi persone nate prima 
+del 1928 – presentano un tasso di adesione leggermente inferiore). Creatività e innovazione mietono 
+invece meno consensi (Figura 4.14d). Nel 2002 e, soprattutto, nel 2018, le ultime due aspirazioni – 
+assimilabili a dei valori postmoderni – raccolgono meno adesioni tra i più anziani (75+). 
+I risultati mettono in luce alcune tendenze interessanti e tutto sommato coerenti con le ipotesi 
+formulate all'inizio di questa sezione. Ciò malgrado, le differenze nel corso del tempo sono inferiori 
+a quanto avremmo potuto aspettarci. François Höpflinger, che ha analizzato i dati del 2016, avanza 
+l'ipotesi che in età avanzata (75+) predomini un amalgama tra concezioni tradizionali e postmoderne 
+(Höpflinger et al., 2019, p. 29). La relativa stabilità tra le tre indagini può anche essere dovuta al fatto 
+che prendiamo in considerazione un lasso di tempo abbastanza breve (sedici anni). 
+Un cambiamento radicale nel corso degli ultimi decenni sembra però esserci stato e riguarda i ruoli 
+di genere. Nell'ambito degli studi dell'Università di Ginevra, è stato chiesto ai partecipanti se erano 
+d'accordo con una serie di affermazioni. Una di queste diceva testualmente: "Il posto della donna è a 
+casa ad occuparsi delle faccende domestiche". Ebbene, nel 1979, all'incirca il 70% degli intervistati, 
+quale che fosse la loro età, concordava sul fatto che le donne devono rimanere a casa. Trent'anni più 
+tardi, si riconoscevano in questa affermazione l'11% dei 65-74enni, il 22% dei 75-84enni e il 38% 
+degli over 85. Ciò non significa che le donne anziane del nostro paese abbiamo ottenuto la parità di 
+genere nei fatti, ma segnala perlomeno un importante cambiamento nelle mentalità. Quale sarà 
+l'impatto su visione del mondo e valori dell'arrivo massiccio, nella terza e nella quarta età, dei baby 
+boomers solo l'avvenire ce lo dirà.
+
+---
+
+40/48 
+5. Conclusioni: uno sguardo verso il futuro 
+ 
+In questo rapporto abbiamo presentato alcune delle principali trasformazioni che hanno caratterizzato 
+la popolazione anziana residente in Ticino e in Svizzera nel corso degli ultimi decenni. Studiare il 
+presente e il passato ha permesso di delineare alcune tendenze in atto e di avanzare delle ipotesi per 
+gli anni a venire. In questo senso, includere nelle analisi (per quanto possibile) le persone di età 
+compresa tra i 55 e i 64 anni, ovvero i giovani anziani di domani, si è rivelato particolarmente utile. 
+Volgiamo ora lo sguardo verso il futuro e riprendiamo gli elementi essenziali. 
+Gli anziani di domani… 
+- 
+Apparterranno in gran parte alla generazione del baby boom. Saranno particolarmente 
+numerosi, anche se sarebbe più corretto dire numerose. 
+- 
+Saranno sempre più istruiti. Una buona notizia visto il legame tra un basso livello di scolarità 
+e tutta una serie di condizioni sfavorevoli. 
+Le politiche pubbliche dovranno però prestare particolare attenzione alla minoranza che non 
+ha avuto l'opportunità di studiare. 
+- 
+Nell'insieme beneficeranno di una situazione economica relativamente confortevole. Detto 
+ciò, ancora troppe persone anziane versano in una condizione di povertà o di precarietà. Se non 
+si interverrà, possiamo stimare che nel 2030 conteremo circa 11'000 anziani poveri in 
+Ticino.12 
+Avranno anche avuto delle traiettorie professionali meno lineari, più spesso interrotte da 
+periodi di disoccupazione o impieghi precari, rispetto alle coorti precedenti. Questo potrà avere 
+delle ripercussioni sulla situazione economica e sulla salute. 
+- 
+Saranno numerosi ad avere un passato migratorio. Sempre più persone originarie dei Balcani, 
+del Portogallo e in generale del Sud del mondo raggiungeranno la terza età. Occorrerà tener 
+conto delle specificità culturali e del fatto che molte di queste persone sono vulnerabili. 
+Il numero di Svizzero tedeschi che si trasferiscono in Ticino per trascorrere gli anni della 
+pensione sembra in calo. Tra quelli che risiedono a sud delle Alpi da tempo, coloro che non si 
+sono ben integrati incontreranno notevoli difficoltà al manifestarsi della fragilità e in caso di 
+eventi avversi come la vedovanza. 
+                                               
+12 Questa stima, approssimativa, è ottenuta applicando la percentuale di persone povere nel 2011-12 (messa in evidenza 
+dallo studio VLV-Ticino) al numero di anziani previsto per il 2030 (secondo gli scenari demografici sviluppati dall'Ustat). 
+Ricordiamo che nel 2011-12 erano considerate povere le persone con un reddito mensile lordo individuale inferiore ai 
+2'400 franchi, che non erano proprietarie della propria abitazione e disponevano di un patrimonio inferiore ai 60'000 
+franchi.
+
+---
+
+41/48 
+- 
+Vivranno più a lungo in coppia (grandi anziani). Nel medesimo tempo, la famiglia dell'anziano 
+si diversificherà a seguito dell'aumento di separazioni, divorzi e ricomposizioni famigliari 
+(soprattutto giovani anziani). La proporzione di persone che vivono sole, invece, dovrebbe 
+rimanere stabile. 
+- 
+Avranno meno figli rispetto agli anziani di oggi (che sono gli artefici del baby boom) e, se le 
+tendenze osservate si confermeranno, anche meno contatti diretti con i membri della famiglia. 
+Malgrado ciò, non verrà a mancare il sostegno della famiglia (complementare agli aiuti 
+formali) in caso di necessità. 
+- 
+Attribuiranno un'importanza maggiore ai legami extra-famigliari. Gli amici intimi potrebbero 
+diventare una risorsa considerevole. 
+- 
+Nella stragrande maggioranza, non soffriranno di solitudine. I dati in nostro possesso non 
+permettono però di escludere che la prevalenza aumenti tra i membri delle nuove coorti di 
+anziani. Pur trattandosi di un fenomeno minoritario (in termini percentuali), stimiamo che nel 
+2030 la solitudine interesserà all'incirca 15'000 anziani in Ticino. 
+Occorrerà pensare a delle misure coordinate e su larga scala per far fronte all'isolamento sociale 
+e alla solitudine nella popolazione anziana (valorizzando le lodevoli iniziative prese a livello 
+locale). 
+- 
+In linea di principio godrà di buona salute. Malattie e incapacità continueranno a riguardare 
+soprattutto i grandi anziani. Alcuni segnali destano però preoccupazione ed è possibile che il 
+miglioramento spettacolare della salute osservato nei decenni scorsi si sia arrestato. 
+Anche in futuro vi saranno notevoli disuguaglianze di salute (secondo il livello di formazione, 
+lo statuto professionale, ecc.). Le persone meno istruite appartenenti alle coorti più recenti di 
+anziani sono a rischio di vedere la loro salute degradarsi più rapidamente rispetto a chi le ha 
+precedute. Le azioni di prevenzione e di promozione della salute dovranno essere indirizzate 
+soprattutto a questi gruppi della popolazione. 
+- 
+Saranno sempre più attivi. La partecipazione sociale sarà diversificata e coniugherà attività 
+ricreative e culturali, edonistiche e altruiste. Gli anziani costituiranno sempre più una risorsa 
+importante per le famiglie e la società in generale. 
+- 
+Saranno sempre più connessi e si serviranno delle nuove tecnologie. Il modo di approcciarsi 
+alle innovazioni (tecnologiche o meno) dipende dall'appartenenza generazionale. Ne consegue 
+che gli anziani di domani saranno comunque "superati" dai giovani di domani. 
+- 
+Meno attratti dalle religioni tradizionali, continueranno ad attribuire una grande importanza 
+alla spiritualità, individualizzata e vissuta in privato. 
+- 
+I loro gusti (alimentari, musicali, nel vestirsi, ecc.) rifletteranno la storia di una generazione 
+cresciuta tra gli anni sessanta e ottanta. Mostreranno una maggiore apertura a temi considerati
+
+---
+
+42/48 
+tabù in passato (p. es., affettività e sessualità in età avanzata, scelte riguardanti il fine vita) e 
+accorderanno una grande importanza a valori quali l'autonomia e l'autodeterminazione e la 
+realizzazione personale. 
+Nel complesso, le condizioni di vita degli anziani residenti in Ticino dovrebbero continuare a 
+migliorare nei prossimi anni. Diversi indizi ci portano però a dover considerare la possibilità di 
+un'inversione di tendenza. I progressi spettacolari osservati tra il 1979 e il 1994 dal team 
+dell'Università di Ginevra (Lalive d'Epinay et al., 2000), ad esempio nell'ambito della salute, 
+trovavano la loro spiegazione nell'evoluzione della struttura socio-professionale, nel miglioramento 
+delle condizioni materiali di esistenza e nella trasformazione degli stili di vita (p. es., maggiore attività 
+fisica e coinvolgimento nella vita sociale, diminuzione dei comportamenti a rischio). In caso di 
+un'involuzione in questi campi (p. es., precarietà nel mondo del lavoro, nuove forme di povertà, 
+cattive abitudini alimentari, sedentarietà) le conseguenze negative sulla popolazione anziana non sono 
+da escludere. L'ipotesi che avanziamo è che questi cambiamenti sociali non abbiano colpito 
+indistintamente tutti i membri di una coorte, ma solo i più vulnerabili. Le persone che andranno in 
+pensione da qui al 2030, sono nate tra la metà degli anni cinquanta e la metà degli anni sessanta e 
+sono entrate nella vita adulta dopo la crisi energetica del 1973 che pose fine a trent'anni di incredibile 
+sviluppo economico in Occidente (Trente Glorieuses). Perse delle certezze che parevano incrollabili, 
+i più svantaggiati hanno dovuto affrontare diverse crisi nel corso della loro vita e si avvicinano 
+all'anzianità con delle risorse limitate. Non siamo di fronte all'eventualità di un deterioramento 
+generalizzato delle condizioni di vita della popolazione anziana, ma c'è il rischio concreto di un 
+aumento delle disuguaglianze. Crediamo quindi che sia necessario agire in modo che l'anzianità 
+diventi più "democratica". 
+Concludiamo questo rapporto sottolineando l'importanza di disporre, in futuro, di dati aggiornati e di 
+qualità sulle condizioni di vita della popolazione anziana residente in Ticino. Sarà fondamentale 
+garantire l'accumulo di conoscenze, dando continuità alla ricerca e assicurando la comparabilità tra i 
+diversi studi. Da qualche anno il Centro competenze anziani della SUPSI si sta muovendo in questa 
+direzione. Nel 2018 abbiamo presentato, assieme al Consiglio degli Anziani del Cantone Ticino, il 
+primo inventario degli studi sulla popolazione anziana (http://www2.supsi.ch/cms/ispat). 
+Attualmente, collaboriamo con l'Istituto di Salute Pubblica dell'USI su alcuni progetti di portata 
+nazionale. L'auspicio è che la nuova pianificazione del settore anziani sia l'occasione di una maggiore 
+integrazione anche tra i ricercatori.
+
+---
+
+43/48 
+Bibliografia 
+ 
+Armi, F., Guilley, E., & Lalive d'Epinay, C. (2008). Entraide et recours aux services. In C. Lalive d'Epinay & 
+D. Spini (Eds.), Les années fragiles. La vie au-delà de quatre-vingts ans (pp. 209-246). Québec: Les 
+Presses de l'Université Laval. 
+Attias-Donfut, C. (Ed.) (1995). Les solidarités entre générations. Vieillesse, familles, Etat. Paris: Nathan. 
+Baeriswyl, M. (2017). Participations sociales au temps de la retraite. Une approche des inégalités et évolutions 
+dans la vieillesse. In N. Burnay & C. Hummel (Eds.), Vieillissement et classes et sociales (pp. 141-170). 
+Berne: Lang. 
+Baltes, M. M., & Carstensen, L. L. (1996). The process of successful ageing. Ageing and Society, 16(4), 397-
+422. 
+Baltes, P. B., & Smith, J. (2003). New frontiers in the future of aging: From successful aging of the young old 
+to the dilemmas of the fourth age. Gerontology, 49, 123-135. 
+Bauman, Z. (2001). Dentro la globalizzazione. Le conseguenze sulle persone. Bari: Laterza. (Originale inglese, 
+1998) 
+Bennett, J. (2019). Favoriser la participation. Sécurité sociale / CHSS, 1, 8-12. 
+Bérard Bourban, C. (2018). Les conditions d’habitation des seniors en Suisse, en 2016. Neuchâtel: Office 
+fédéral de la statistique. 
+Bickel, J.-F., & Cavalli, S. (2008). Activités de loisir et pratiques religieuses. In C. Lalive d'Epinay & D. Spini 
+(Eds.), Les années fragiles. La vie au-delà de quatre-vingts ans (pp. 247-279). Québec: Les Presses de 
+l'Université Laval. 
+Bolzman, C. (2012). Democratization of ageing: Also a reality for elderly immigrants? European Journal of 
+Social Work, 15(1), 97-113. 
+Bolzman, C., Poncioni-Derigo, R., & Vial, M. (2003). Switzerland. In N. Patel (Ed.), Minority elderly care in 
+Europe: Country profiles. Leeds: PRIAE. 
+Borioli, M. (2015). Verso un atlante comunale dell’invecchiamento. Parte 2: L'evoluzione nei comuni dal 1990 
+al 2012. Extra Dati, XV(1), 1-18. 
+Bruno, D. (2017). Scenari demografici per il Cantone TIcino e le sue regioni, 2016-2040. Giubiasco: Ustat. 
+Campiche, R. (2010). La religion visible. Pratiques et croyances en Suisse. Lausanne: Presses polytechniques 
+et universitaires romandes. 
+Cavalli, S. (2015). Fragilità e disuguaglianze di salute nella terza e nella quarta età. Rivista per le Medical 
+Humanities, 30, 67-73. 
+Cavalli, S., & Dus, D. (2015). Terza età e vulnerabilità. In F. Giudici, S. Cavalli, M. Egloff, & B. Masotti 
+(Eds.), Fragilità e risorse della popolazione anziana in Ticino (pp. 67-86). Giubiasco: Ufficio di 
+statistica. 
+Cavalli, S., Dasoki, N., Dus, D., Masotti, B., & Rosciano, A. (2015). Condizioni di salute, benessere e scambi 
+di servizi nella popolazione anziana residente in Ticino. In F. Giudici, S. Cavalli, M. Egloff, & B. 
+Masotti (Eds.), Fragilità e risorse della popolazione anziana in Ticino (pp. 47-66). Giubiasco: Ufficio 
+di statistica. 
+Chatterji, S., Byles, J., Cutler, D., Seeman, T., & Verdes, E. (2015). Health, functioning and disability in older 
+adults – current status and future implications. Lancet, 385(9967), 563–575.
+
+---
+
+44/48 
+Cheval, B., Boisgontier, M. P., Orsholits, D., Sieber, S., Guessous, I., Gabriel, R., ... Cullati, S. (2018). 
+Association of early- and adult-life socioeconomic circumstances with muscle strength in older age. Age 
+and Ageing, 47(3), 398-407. 
+Christensen, K., Doblhammer, G., Rau, R., & Vaupel, J. W. (2009). Ageing populations: the challenges ahead. 
+The Lancet, 374, 1196–1208. 
+Corna, L. M. (2013). A life course perspective on socioeconomic inequalities in health: A critical review of 
+conceptual frameworks. Advances in Life Course Research, 18(2), 150-159. 
+Crimmins, E. M., & Beltrán-Sánchez, H. (2011). Mortality and morbidity trends: Is there compression of 
+morbidity? Journals of Gerontology - Series B Psychological Sciences and Social Sciences, 66 B(1), 
+75–86. 
+Crimmins, E. M., Saito, Y., Kim, J. K., Zhang, Y. S., Sasson, I., & Hayward, M. D. (2018). Educational 
+differences in the prevalence of dementia and life expectancy with dementia: Changes from 2000 to 
+2010. The Journals of Gerontology: Series B, 73(suppl_1), S20-S28. 
+Cumming, E., & Henry, W. E. (1961). Growing old. The process of disengagement. New York: Basic Books. 
+Dannefer, D. (2003). Cumulative advantage/disadvantage and the life course: Cross-fertilizing age and social 
+science theory. The Journals of Gerontology. Series B, Psychological Sciences and Social Sciences, 
+58(6), S327-S337. 
+de Flaugergues, A. (2016). Pratiche e credenze religiose e spirituali in Svizzera. Primi risultati dell’Indagine 
+sulla lingua, la religione e la cultura 2014. Neuchâtel: Ufficio federale di statistica (UST). 
+Dupre, M. E. (2007). Educational differences in age-related patterns of disease: Reconsidering the cumulative 
+disadvantage and age-as-leveler hypotheses. Journal of Health and Social Behavior, 48(1), 1–15. 
+Dutoit, L., Füglister-Dousse, S., & Pellegrini, S. (2016). Soins de longue durée dans les cantons: un même 
+défi, différentes solutions. Evolutions 2006–2013. Neuchâtel: Observatoire suisse de la santé. 
+Egloff, M. (2012). Nuovi orizzonti per Pro Senectute Ticino e Moesano. Mendrisio: Pro Senectute Ticino e 
+Moesano. 
+Egloff, M. (2015). Considerazioni socio-demografiche, epidemiologiche ed economiche sull'evoluzione della 
+popolazione anziana del Cantone Ticino. In F. Giudici, S. Cavalli, M. Egloff, & B. Masotti (Eds.), 
+Fragilità e risorse della popolazione anziana in Ticino (pp. 19-45). Giubiasco: Ufficio di statistica. 
+Elder, G. H. (1998). The life course as developmental theory. Child Development, 69(1), 1-12. 
+Elder, G. H., Kirkpatrick Johnson, M., & Crosnoe, R. (2003). The emergence and development of life course 
+theory. In J. T. Mortimer & M. J. Shanahan (Eds.), Handbook of the life course (pp. 3-19). New York: 
+Kluwer. 
+Enroth, L., Raitanen, J., Hervonen, A., & Jylhä, M. (2013). Do socioeconomic health differences persist in 
+nonagenarians? Journals of Gerontology Series B: Psychological Sciences and Social Sciences, 68(5), 
+837-847. 
+Ferraro, K. F., & Pylypiv, T. S. (2009). Aging and cumulative inequality: How does inequality get under the 
+skin ? The Gerontologist, 49(3), 333-343. 
+Freedman, V. A., Martin, L. G., & Schoeni, R. F. (2002). Recent trends in disability and functioning among 
+older adults in the United States: A systematic review. Journal of the American Medical Association, 
+288(24), 3137-3146. 
+Freedman, V. A., Schoeni, R. F., Martin, L. G., & Cornman, J. C. (2007). Chronic conditions and the decline 
+in late-life disability. Demography, 44(3), 459–477. 
+Freedman, V. A., Wolf, D. A., & Spillman, B. (2016). Disability-free life expectancy over 30 years: A growing 
+female disadvantage in the US population. American Journal of Public Health, 106(6), 1079-1085.
+
+---
+
+45/48 
+Fries, J. F. (1980). Aging, natural death, and the compression of morbidity. New England Journal of Medecine, 
+303(3), 130-135. 
+Frytak, J. R., Harley, C. R., & Finch, M. D. (2003). Socioeconomic status and health over the life course. 
+Capital as a unifying concept. In J. T. Mortimer & L. Shanahan (Eds.), Handbook of the life course (pp. 
+623-643). New York: Kluwer. 
+Füglister-Dousse, S., & Pellegrini, S. (2019). Les trajectoires de fin de vie des personnes âgées. Analyse des 
+différents types de parcours entre hôpital et EMS. Neuchâtel: Observatoire suisse de la santé. 
+Gerosa, E. (1988). La popolazione anziana del Canton Ticino. Un'indagine sui bisogni e sui modi di vita. 
+Milano: Franco Angeli. 
+Giudici, F. (2015). Badare ai nipoti. In F. Giudici, S. Cavalli, M. Egloff, & B. Masotti (Eds.), Fragilità e 
+risorse della popolazione anziana in Ticino (pp. 111-127). Giubiasco: Ufficio di statistica. 
+Giudici, F., Cavalli, S., Egloff, M., & Masotti, B. (Eds.). (2015). Fragilità e risorse della popolazione anziana 
+in Ticino. Giubiasco: Ufficio di statistica. 
+Gruenberg, E. M. (1977). The failures of success. Milbank Memorial Fund Quarterly Health and Society, 
+55(1), 3-24. 
+Guillemard, A.-M. (1972). La retraite, une mort sociale: sociologie des conduites en situation de retraite. 
+Paris: Mouton. 
+Havighurst, R. J., & Albrecht, R. (1953). Older people. New York: Longmans & Green. 
+Hoffmann, R., Kröger, H., Tarkiainen, L., & Pekka Martikainen. (2019). Dimensions of social stratification 
+and their relation to mortality: A comparison across gender and life course periods in Finland. Social 
+Indicators Research, 145, 349-365. 
+Höpflinger, F., Hugentobler, V., & Spini, D. (Eds.). (2019). Age Report IV. Habitat et vieillissement. Réalités 
+et enjeux de la diversité. Zürich: Seismo. 
+Ikels, C. (2007). Older immigrants: Cultural issues in access to health care. In K. W. Schaie & P. R. Uhlenberg 
+(Eds.), Social structures. Demographic changes and the well-being of older persons (pp. 25-51). New 
+York: Springer. 
+Inglehart, R. (1997). Modernizazion and postmodernization: Cultural, economic, and political change in 43 
+countries. Princeton: Princeton University Press. 
+Jylhä, M., & Saarenheimo, M. (2010). Loneliness and ageing: Comparative perspectives. In D. Dannefer & C. 
+Phillipson (Eds.), The Sage handbook of social gerontology (pp. 317-328). London: Sage. 
+Kaeser, M. (2019). Ressources et comportements en matière de santé chez les seniors. Neuchâtel: Office 
+fédéral de la statistique. 
+Katz, S., Ford, A. B., Moskowitz, R. W., Jackson, B. A., & Jaffe, M. W. (1963). Studies of illness in the aged. 
+The index of ADL: A standardized measure of biological and psychological function. JAMA, 185(12), 
+914-919.  
+Khosravi, P., Rezvani, A., & Wiewiora, A. (2016). The impact of technology on older adults' social isolation. 
+Computers in Human Behavior, 63, 594–603. 
+Kucera, J., Cotter, S., Rausa, F., Ehrler, F., Guggisberg, M., Lieberherr, R., & Zaidi, A. (2018). 
+L’invecchiamento attivo. Neuchâtel: Ufficio federale di statistica. 
+Lalive d'Epinay, C. (1994). La construction sociale des parcours de vie et de la vieillesse en Suisse au cours 
+du XXe siècle. In G. Heller (Ed.), Le poids des ans. Une histoire de la vieillesse en Suisse romande (pp. 
+127-150). Lausanne: SHSR & Editions d'en bas.
+
+---
+
+46/48 
+Lalive d'Epinay, C. (1996). Entre retraite et vieillesse. Travaux de sociologie compréhensive. Lausanne: 
+Réalités sociales. 
+Lalive d'Epinay, C., & Cavalli, S. (2013). Le quatrième âge ou la dernière étape de la vie. Lausanne: Presses 
+polytechniques et universitaires romandes, Coll. Le savoir suisse. 
+Lalive d'Epinay, C., Cavalli, S., & Guillet, L. A. (2009-10). Bereavement in very old age: Impact on health 
+and relationships. Omega: Journal of Death and Dying, 60(4), 301-325. 
+Lalive d'Epinay, C., Christe, E., Coenen-Huther, J., Hagmann, H.-M., Jeanneret, O., Junod, J.-P., … de 
+Wurstenberger, B. (1983). Vieillesses. Situations, itinéraires et modes de vie des personnes âgées 
+aujourd'hui. Saint-Saphorin: Georgi. 
+Lalive d'Epinay, C., Bickel, J.-F., Cavalli, S., & Spini, D. (2005). Le parcours de vie: émergence d'un 
+paradigme interdisciplinaire. In J.-F. Guillaume (Ed.), Parcours de vie. Regards croisés sur la 
+construction des biographies contemporaines (pp. 187-210). Liège: Les Editions de l'Université de 
+Liège. 
+Lalive d'Epinay, C., Bickel, J.-F., Maystre, C., & Vollenwyder, N. (2000). Vieillesses au fil du temps: 1979-
+1994. Une révolution tranquille. Lausanne: Réalités sociales. 
+Lalive d'Epinay, C., & Spini, D. (Eds.). (2008). Les années fragiles. La vie au-delà de quatre-vingts ans. 
+Québec: Les Presses de l'Université Laval. 
+Laslett, P. (1992). Una nuova mappa della vita. L'emergere della terza età. Bologna: Il Mulino. (Originale 
+inglese, 1989) 
+Latzer, M., Büchi, M., & Festic, N. (2020). Internet use in Switzerland 2011-2019: Trends, attitudes and 
+effects. Summary report from the World Internet Project - Switzerland. Zurich: University of Zurich. 
+Lawton, M. P., & Brody, E. M. (1969). Assessment of older people: Self-maintaining and instrumental 
+activities of daily living. Gerontologist, 9, 179-186. 
+Legrand, M. (Ed.) (2001). La retraite: une révolution silencieuse. Ramonville Saint-Agne: Erès. 
+Lenoir, R. (1979). L'invention du troisième âge. Constitution du champ des agents de gestion de la vieillesse. 
+Actes de la recherche en sciences sociales, 26, 57-82. 
+Lépine, N., & Nobécourt, M.-P. (1988). Quand nos parents vieillissent. Paris: Acropole. 
+Ludwig, C., Cavalli, S., & Oris, M. (2014). 'Vivre / Leben / Vivere': An interdisciplinary survey addressing 
+progress and inequalities of aging over the past 30 years in Switzerland. Archives of Gerontology and 
+Geriatrics, 59(2), 240-248. 
+Lynch, S. M. (2003). Cohort and life-course patterns in the relationship between education and health: A 
+hierarchical approach. Demography, 40(2), 309–331. 
+Masotti, B. (2016). Faire l'épreuve de l'aide à domicile au grand âge. Une étude qualitative et quantitative 
+des services formels au Tessin. Thèse en sciences de la société (mention socioéconomie). Genève: 
+Université de Genève. 
+Masotti, B., & Oris, M. (2015). Il ricorso ai servizi domiciliari e il ruolo della famiglia nella quarta età. In F. 
+Giudici, S. Cavalli, M. Egloff, & B. Masotti (Eds.), Fragilità e risorse della popolazione anziana in 
+Ticino (pp. 87-109). Giubiasco: Ufficio di statistica. 
+Meidani, A., & Cavalli, S. (2018). Vivre le vieillir: autour du concept de déprise. Gérontologie et Société, 
+40(155), 9-23. 
+Meidani, A., & Cavalli, S. (Eds.). (2019). Figures du vieillir et formes de déprise. Toulouse: Éditions érès. 
+Mills, C. W. (1959). The sociological imagination. New York: Oxford University Press. 
+Mirowsky, J., & Ross, C. E. (2003). Education, social status, and health. New York: Aldine de Gruyter.
+
+---
+
+47/48 
+Monnot, C., & Stolz, J. (2016). Distanciation de la religion, pluralisation religieuse et bien-être. In F. Ehrler, 
+F. Bühlmann, P. Farago, F. Höpflinger, D. Joye, P. Perrig-Chiello, & C. Suter (Eds.), Rapport social 
+2016: bien-être (pp. 114-133). Zurich: Seismo. 
+Neugarten, B. L. (1974). Age groups in American society and the rise of the young-old. Annals of the American 
+Academy of Political and Social Science, 415, 187-198. 
+O'Rand, A. M. (2002). Cumulative advantage theory in life course research. Annual Review of Gerontology 
+and Geriatrics, 22, 14-30. 
+Olshansky, S. J., Passaro, D. J., Hershow, R. C., Layden, J., Brody, J., Carnes, B. A., … Ludwig, D. S. (2009). 
+Peering into the future of American longevity. Discovery Medicine, 5(25), 130–134. 
+Pahud, O., & Roth, S. (2019). Rapport de base sur la santé pour le canton du Tessin. Exploitations 
+standardisées des données de l’Enquête suisse sur la santé 2017 et d’autres bases de données. 
+Neuchâtel: Observatoire suisse de la santé. 
+Pavalko, E. K. (2011). Caregiving and the life course: Connecting the personal and the public. In R. A. 
+Settersten & J. L. Angel (Eds.), Handbook of sociology of aging (pp. 603-616). New York: Springer. 
+Pilgram, A., & Seifert, K. (2009). Vivre avec peu de moyens. La pauvreté des personnes âgées en Suisse. 
+Zurich: Pro Senectute. 
+Prince, M., Wimo, A., Guerchet, M., Ali, G.-C., Wu, Y.-T., Prina, M. (2015). World Alzheimer Report 2015. 
+The global impact of dementia: An analysis of prevalence, incidence, cost and trends. London: 
+Alzheimer's Disease International (ADI). 
+Remund, A., Cullati, S., Sieber, S., Burton-Jeangros, C., Oris, M., Egger, M., … Oris, M. (2019). Longer and 
+healthier lives for all? Successes and failures of a universal consumer-driven healthcare system, 
+Switzerland, 1990-2014. International Journal of Public Health, 64(8), 1173-1181. 
+Ross, C. E., & Wu, C.-L. (1996). Education, age, and the cumulative advantage in health. Journal of Health 
+and Social Behavior, 37(1), 104-120. 
+Rowe, J. W., & Kahn, R. L. (1987). Human aging: Usual and successful. Science, 237(4811), 143-149. 
+Sauvain-Dugerdil, C., Kalmykova, N., Gu, H. G., Ritschard, G., Olszak, M., & Hagmann, H.-M. (1997). Vivre 
+sa vieillesse en Suisse. Les transformations des modes de résidence des personnes âgées. European 
+Journal of Population, 13, 169-212. 
+Scharlach, A. E., & Diaz Moore, K. (2016). Aging in place. In V. L. Bengtson & R. A. Settersten (Eds.), 
+Handbook of theories of aging (third edition) (pp. 407-425). New York: Springer. 
+Schoeni, R. F., Freedman, V. A., Wallace, R. B., & Monica, S. (2001). Persistent, consistent, widespread, and 
+robust? Another look at recent trends in old-age disability. Journal of Gerontology SOCIAL SCIENCES, 
+56(4), 206–218. 
+Schumacher, R., & Vilpert, S. (2011). Gender differences in social mortality differentials in Switzerland (1990-
+2005). Demographic Research, 25(8), 285-310. 
+Seifert, A., & Schelling, H. R. (2015). Etude Les seniors et Internet. Utilisation des technologies de 
+l’information et de la communication (tIC) par les personnes de 65 ans et plus en Suisse en 2015. Berne: 
+Pro Senectute. 
+Settersten, R. A. (2017). Some things I have learned about aging by studying the life course. Innovation in 
+Aging, 1(2), igx014. 
+Sims, T., Reed, A. E., & Carr, D. C. (2017). Information and communication technology use is related to 
+higher well-being among the oldest-old. Journals of Gerontology - Series B Psychological Sciences and 
+Social Sciences, 72(5), 761-770.
+
+---
+
+48/48 
+Stolz, J., Könemann, J., Schneuwly Purdie, M., Engleberger, T., & Krüggeler, M. (Eds.). (2015). Réligion et 
+spiritualité à l’ère de l’ego: profils de l’institutionnel, de l’alternatif, du distancié et du séculier. 
+Genève: Labor et Fides. 
+Torricelli, G. P., Garlandini, S., & Mombelli, G. (2014). Lo sviluppo territoriale nel Cantone Ticino 2013-14. 
+Bellinzona-Mendrisio: Dipartimento del territorio, Università della Svizzera italiana. 
+Trabucchi, M. (2016). I volti dell'invecchiare. Cinisello Balsamo: San Paolo. 
+Ustat. (2018). Annuario statistico ticinese 2018. Giubiasco: Ufficio di statistica. 
+Wanner, P., & Gabadinho, A. (2008). La situation économique des actifs et des retraités. Berne: OFAS. 
+Wenger, G. C., Davies, R., Shahtahmasebi, S., & Scott, A. (1996). Social isolation and loneliness in old age: 
+Review and model refinement. Ageing and Society, 16(3), 333-358. 
+WHO. (2002). Active ageing: A policy framework. Geneva: World Health Organization. 
+Willson, A. E., Shuey, K. M., & Elder, G. H. (2007). Cumulative advantage processes as mecanisms of 
+inequality in life course health. American Journal of Sociology, 112(6), 1886-1924.
