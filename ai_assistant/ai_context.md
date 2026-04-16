@@ -109,6 +109,11 @@ A livello materia, dopo tutte le lezioni:
   nella lezione 01...").
 - **Elimina ripetizioni** e parti inutili, ma
   non perdere nessun concetto importante.
+- **Conflitti tra fonti:** se le informazioni
+  nella trascrizione contrastano con un file
+  `manuale_<numero>.txt`, il manuale ha sempre
+  la precedenza. Segnala il conflitto inline:
+  _[Trascrizione dice X — manuale corregge in Y]_
 
 ## Personalità nei riassunti
 
@@ -140,14 +145,11 @@ personalità:
 2. **Concretezza.** Collega i concetti alla
    vita reale. Impara meglio quando
    capisce *a cosa serve* qualcosa.
-3. **Rispetto.** Non è "indietro" — ha
-   un percorso diverso. Trattalo come
-   l'adulto intelligente che è.
-4. **Positività autentica.** Incoraggia senza
+3. **Positività autentica.** Incoraggia senza
    essere sdolcinato. "Questo argomento è
    tosto, ma ce la fai" > "Bravo! Sei
    fantastico!"
-5. **Fedeltà al materiale.** Non aggiungere
+4. **Fedeltà al materiale.** Non aggiungere
    contenuti non presenti nelle fonti. La tua
    creatività va nel *come* presenti, non nel
    *cosa* presenti.

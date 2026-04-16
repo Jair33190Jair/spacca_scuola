@@ -1,384 +1,331 @@
-# Introduzione al modulo di Salute Mentale
-Salute Mentale · Sessione 01 · 18.02.2026
+# L'Adultità
+I Tempi della Vita · Sessione 07 · A.A. 2025/2026
 
-> Questa prima lezione mette sul tavolo le fondamenta
-> di tutto il modulo: che cos'è davvero la salute?
-> Cos'è il benessere? E la normalità? Spoiler: nessuna
-> di queste domande ha una risposta semplice — e
-> proprio da qui parte il bello. Si parla anche della
-> tragedia greca come strumento per avvicinarsi alla
-> sofferenza umana. Roba potente, vedrai.
+> Siamo arrivati all'età adulta — quella fase della vita che di solito si dà per scontata, come se "diventare adulti" fosse un traguardo e non un processo in continua evoluzione. Questa lezione ti mostra che l'adultità è molto più complessa (e interessante) di così: è una zona dinamica fatta di strutture, transizioni, crisi e rinascite. Preparati a vederti da fuori.
 
 ---
 
-## Il modulo: struttura e filosofia
+## 1. Cos'è l'adultità? Quattro punti di vista
 
-Il modulo di Salute Mentale si articola su **tre
-tappe fondanti**, ispirate alla scuola fenomenologica:
+Definire "adulto" non è banale. La docente Paola Blumer propone quattro prospettive complementari:
 
-1. **La clinica** — l'universo dell'incontro con
-   chi soffre. Si esplorano i concetti di salute
-   e malattia, normalità e patologia, l'incontro
-   empatico con l'altro e i meccanismi di difesa.
+### Etimologico
+Dal latino **adultus** = cresciuto, sviluppato, maturo. Si riferisce alla persona che ha raggiunto il completo sviluppo fisico e psichico. Semplice in apparenza — ma "completo sviluppo" è più sfumato di quanto sembri.
 
-2. **Il mondo** — le funzioni psichiche e le loro
-   alterazioni (coscienza, percezione, pensiero,
-   affettività...), per poi passare alla dimensione
-   nosografica: sindromi affettive, ansiose, nevrosi,
-   disturbi di personalità, psicosi.
+### Normativo
+La società fissa dei marcatori legali che segnano il passaggio all'età adulta:
+- Raggiungimento della maggiore età
+- Diritto di voto
+- Possibilità di contrarre/rescindere contratti
+- Possibilità di sposarsi
+- Conseguimento della licenza di condurre
+- Rispondere penalmente
 
-3. **Il corpo** — teatro della sofferenza: violenza,
-   aggressività, dimensioni anoressico-bulimiche,
-   sessualità come luogo di disagio, alessitimia.
+È il punto di vista più concreto: sei adulto quando la legge ti riconosce come tale.
 
-Queste tre tappe sono attraversate da quattro
-dimensioni esistenziali: **spazio, tempo, identità
-e incontro**. La clinica va calata in uno spazio
-e in un tempo, l'identità va declinata nella
-relazione, e prima della relazione viene l'incontro
-— senza il quale la relazione non sussiste.
+### Cronologico
+Convenzionalmente, l'età adulta copre il periodo tra i **20 e i 60 anni**. Alcuni studiosi distinguono due grandi fasi:
+- **Prima adultità:** dai 20 ai 40-45 anni (include giovinezza 20-30 e maturità 30-40/45)
+- **Seconda adultità (mezz'età):** dai 40-45 ai 65 anni
 
-Il prof sottolinea un punto chiave: l'operatore
-sociale non è un tecnico di una sola disciplina,
-ma un **trait d'union** tra le specializzazioni.
-Per questo serve una conoscenza delle aree
-psicopatologiche — non per fare diagnosi, ma per
-comunicare con le altre figure professionali e
-per accompagnare la persona nella sua interezza.
+### Psicologico
+Qui si apre il capitolo più ricco, con tre grandi teorici che vedremo nelle sezioni successive.
 
 ---
 
-## Salute, benessere, normalità: tre concetti
-da non confondere
+## 2. Jung e il processo di individuazione
 
-Uno dei messaggi centrali della lezione: **salute,
-benessere e normalità sono tre cose diverse** che
-spesso vengono confuse o sovrapposte. Vediamole
-una per una.
+**Carl Gustav Jung** (1875–1961) è il fondatore della psicologia analitica del profondo. A differenza di Freud, per lui lo sviluppo non si ferma all'infanzia — l'adulto è ancora pienamente in gioco.
 
-### Salute: più complessa di quanto sembra
+| Tema | Freud | Jung |
+|------|-------|------|
+| **Libido** | Energia prevalentemente sessuale | Energia vitale e spirituale più ampia |
+| **Inconscio** | Vuoto alla nascita | La coscienza *nasce* dall'inconscio |
+| **Struttura psiche** | Es, Io, Super-Io | Io + inconscio personale + inconscio collettivo |
+| **Orientamento** | Dominato dal conflitto | Orientato all'integrazione |
 
-Il prof parte da una domanda semplice: "Chi di voi
-sta bene?" Poi mostra quanto sia difficile rispondere.
-Due paradigmi diversi: puoi andare a fare gli esami
-del sangue e la TAC (approccio biomedico, *disease*),
-oppure puoi rispondere "mi sento bene" senza nessun
-esame (approccio soggettivo, *illness*). Non sono la
-stessa cosa.
+Nel testo *Le diverse età dell'uomo* (1930), Jung definisce l'adultità come **"l'età del dubbio"** (35-40 anni), caratterizzata da:
+1. I sogni dell'infanzia si spezzano per le esigenze della vita reale
+2. Appare un **secondo Io** che tende a sottrarre la direzione della vita psichica all'Io dell'infanzia
+3. Si crea una **contrapposizione tra Puer e Senex**
 
-Introduce il lavoro di **Christopher Boorse (1977)**,
-che nel suo articolo ha tentato di definire la salute
-esaminando sette possibili condizioni — dimostrando
-che **nessuna da sola regge**:
+### Puer vs Senex — due radici nella stessa psiche
 
-| Condizione | Perché non basta |
-|---|---|
-| **Salute come valore** | Non tutto ciò che è desiderabile è salute; ci sono contesti dove non essere in salute può essere preferibile (es. durante guerre) |
-| **Malattia come ciò che il medico cura** | La medicina ha "colonizzato" ambiti non patologici (gravidanza, adolescenza); molte malattie non vengono trattate |
-| **Salute come norma statistica** | Fuori dalla media ≠ malattia (l'omosessualità è stata classificata come patologia a lungo) |
-| **Malattia come sofferenza** | Malattie asintomatiche e dolori normali (ciclo mestruale, coliche neonatali, dentizione) |
-| **Malattia come disabilità** | Tutti attraversiamo fasi di "non abilità" (un neonato non cammina, ma non è malato) |
-| **Salute come adattamento** | L'essere umano adatta anche l'ambiente a sé. Pensate alle neurodivergenze: a volte è l'ambiente che va cambiato |
-| **Salute come omeostasi** | Il funzionamento umano si basa su un continuo perdere e riacquistare equilibrio. L'equilibrio statico è rigidità |
+Pensa a queste due figure come le radici principali e secondarie di un grande albero: entrambe necessarie, entrambe attive, con ruoli diversi.
 
-L'ultimo punto merita attenzione. Il prof insiste:
-**l'equilibrio statico non è salute, è rigidità**.
-La metafora è bellissima: camminare richiede di
-rompere continuamente l'equilibrio. Per fare un
-passo devi sbilancarti. La vita è movimento, e il
-movimento richiede di perdere e ritrovare l'equilibrio.
-"Le persone troppo equilibrate sono spesso molto
-rigide, poco disposte a rischiare."
+- **Puer** = la parte infantile-creativa che sopravvive nell'adulto. Spinge all'inquietudine, all'esplorazione, al vagabondaggio. Alimenta esperienze ludiche e creative. È la componente giovanile di ogni psiche umana.
+- **Senex** = il polo della responsabilità, stabilità, lavoro, ordine, sopravvivenza. Ciò che tiene i piedi per terra.
 
-> *"Non c'è movimento senza perdere l'equilibrio,
-> e siccome la vita è costante movimento, occorre
-> mettersi nell'ottica di capire e accompagnare
-> la perdita e la riconquista dell'equilibrio —
-> non impedirla."*
-> — Il professore
+> **L'adultità = zona psicologica in equilibrio tra le intemperanze del Puer e il consolidarsi del Senex.**
 
-### La triade anglosassone: disease, illness, sickness
+Il processo di **individuazione** — la piena maturazione psicologica — si realizza uscendo dallo stato di indifferenziazione del non-adulto. Diventa possibile quando l'adulto realizza che:
 
-Per ordinare le idee sulla salute, il prof introduce
-la distinzione in tre dimensioni:
+> «non è possibile vivere la sera della vita seguendo lo stesso programma del mattino. La verità del mattino costituisce l'errore della sera.»
 
-- **Disease** — la malattia in senso biomedico,
-  misurabile (esami, parametri clinici)
-- **Illness** — il vissuto soggettivo: come la
-  persona *si sente*
-- **Sickness** — la dimensione sociale: come la
-  società riconosce (o stigmatizza) quella condizione
-
-Queste tre dimensioni **possono non coincidere**.
-Una malattia può essere tale per il medico (disease)
-ma non vissuta come tale dal soggetto (illness),
-oppure può essere vista dalla società come un vizio
-(sickness negativa) anche se è una malattia vera.
-
-Questo è importante per il lavoro sociale: lo sguardo
-della società su una condizione ha effetti reali sul
-benessere della persona. Se hai una malattia che viene
-giudicata come "vizio" o "colpa", la stigmatizzazione
-peggiora tutto — come mostrava già il racconto
-di apertura della lezione.
+La maturità si dimostra nel coraggio di sostenere in prima persona le proprie idee e di integrare le parti di sé rimaste nell'ombra nella prima metà della vita.
 
 ---
 
-## Il benessere: un concetto multidimensionale
+## 3. Erikson e gli stadi psicosociali dell'età adulta
 
-**Salute e benessere non coincidono.** Il prof porta
-l'esempio di **Tiziano Terzani** e del suo libro
-*L'ultimo giro di giostra*: un giornalista gravemente
-malato di cancro che attraverso la malattia ha trovato
-una pace e una ricchezza interiore che non aveva quando
-stava "bene". Paradossale? No, profondamente umano.
+**Erik Erikson** propone un modello dello sviluppo come sequenza di **crisi psicosociali** — conflitti da risolvere per progredire. A differenza di Freud, Erikson sottolinea che lo sviluppo adulto si determina anche nell'**interrelazione con eventi sociali** (lavoro, ruoli, relazioni). Due stadi riguardano direttamente l'età adulta:
 
-Il benessere è un concetto **polisemico e
-multidimensionale**. **Carol Ryff** è una psicologa
-che ha risposto alla domanda: "Quando diciamo che
-una persona sta bene, di *cosa* esattamente stiamo
-parlando?" La risposta: di sei dimensioni distinte.
+### Stadio 6 — Intimità vs Isolamento (20-29 anni)
+- **Intimità:** costruire il sentimento del "noi", relazioni intime al di fuori della famiglia d'origine
+- **Isolamento:** la paura di perdersi fa evitare esperienze profonde; le relazioni sociali diventano fredde e stereotipate
 
-| Dimensione | Cosa significa in concreto |
-|---|---|
-| **Autonomia** | Capacità di determinarsi senza dipendere dagli altri per le proprie scelte |
-| **Controllo ambientale** | Capacità di cogliere, sfruttare e valorizzare le risorse e le possibilità disponibili |
-| **Relazioni positive** | Avere relazioni calde, fiduciose, contraddistinte da affetto e reciprocità |
-| **Autoaccettazione** | Consapevolezza delle proprie qualità e limiti, senza negare né l'uno né l'altro |
-| **Percezione di crescita** | Sentire che la propria vita è un processo continuo di sviluppo |
-| **Scopo nella vita** | Avere mete, riuscire a dare senso a ciò che si fa |
-
-Questo modello è prezioso per l'operatore sociale
-perché rende il lavoro sul benessere **concreto**.
-Invece di un generico "lavoro per il benessere",
-puoi esplorare *quale* dimensione è più critica
-e intervenire lì. Il prof fa un esempio: se lavori
-sull'autonomia di qualcuno (aiutarlo a fare scelte
-proprie), quello starà meglio — anche senza sapere
-perché. Il prodotto è quello che conta.
-
-Se in un momento la persona non riesce a lavorare
-sulle relazioni, si compensa sulle altre dimensioni.
-È un gioco di variabili, non tutto insieme.
-
-Il prof aggiunge: **vale anche per noi**, non solo
-per i nostri utenti. Se guardiamo indietro alla
-nostra vita e vediamo solo disastri, non stiamo bene.
-Se riusciamo a vedere crescita e senso, anche nelle
-difficoltà, il benessere aumenta.
+### Stadio 7 — Generatività vs Stagnazione (30-60 anni)
+- **Generatività:** interesse a fondare e guidare la generazione successiva; bisogno di essere produttivi (genitorialità e lavoro)
+- **Stagnazione:** auto-assorbimento, noia, mancanza di crescita psicologica; chiusura in sé stessi; impoverimento della vita sociale
 
 ---
 
-## La normalità: quale normalità?
+## 4. Levinson e le stagioni della vita
 
-Il prof introduce tre tipi di normalità — tutti
-rilevanti per il lavoro con le persone.
+**Daniel Levinson** (1920–1994), autore di *The Seasons of a Man's Life* e *The Seasons of a Woman's Life*, propone il modello più articolato. Idea centrale: la vita adulta è una **sequenza alternata di periodi di stabilità** (6-10 anni) e **periodi di transizione** (4-5 anni).
 
-### 1. Norma statistica
+### Cosa succede in una transizione?
+Una transizione è un vero lavoro psicologico — non un semplice cambio di pagina:
+- Porre fine a un'epoca della vita
+- Accettare le perdite che questa fine comporta
+- Rivedere e valutare il passato
+- Decidere quali aspetti conservare e quali rifiutare
+- Considerare desideri e possibilità per il futuro
 
-La "normalità" come conformità alla media della
-popolazione. Sembra neutro, ma non lo è: essere
-fuori dalla norma statistica può provocare stigma,
-isolamento, discriminazione. L'omosessualità è stata
-a lungo classificata come patologia proprio su base
-statistica — e solo quando la comunità scientifica
-ha cambiato i criteri ne è uscita.
+Le transizioni sono spesso innescate da **marker events** — eventi che portano a un cambiamento e assumono significati diversi in base alla storia di vita in cui si inseriscono:
 
-Il contesto è fondamentale: qualsiasi comportamento,
-senza contesto, può sembrare "anormale".
+| Tipo | Esempi |
+|------|--------|
+| Relazionali | Matrimonio, divorzio |
+| Lavorativi | Pensionamento, dimissioni |
+| Biologici | Malattia, morte |
+| Traumatici | Traumi vari |
 
-### 2. Norma di valore (ideale)
+### Le fasi della vita adulta (Levinson)
 
-Uno standard ideale che si pone come riferimento.
-Se il mio ideale è un certo tipo di corpo, starò
-male finché non ci corrispondo. Ed è un ideale
-*irraggiungibile*, quindi la sofferenza è perpetua.
+**Early Adult Transition (EAT) — ~17-22 anni**
+- Ponte evolutivo tra infanzia/adolescenza e età adulta
+- Tema centrale: separazione dal mondo pre-adulto e dalla famiglia d'origine
+- Crescente indipendenza economica, abbandono della casa di famiglia, adozione di ruoli autonomi
+- Compiti: terminare un'era e iniziarne una nuova
 
-**Attenzione**: la norma ideale incide anche sugli
-operatori. Abbiamo ideali su come dovrebbe essere
-un utente, come dovrebbe comportarsi, cosa dovrebbe
-raggiungere. Se quella norma ideale diventa il metro
-di lavoro, rischia di diventare penalizzante per
-la relazione.
+**Entering the Adult World (EAW) — ~22-28 anni**
+- Costruzione della prima struttura della vita adulta (ancora provvisoria)
+- Verifica, ridefinizione, consolidamento della struttura
+- Compiti: esplorare le possibilità del mondo adulto + raggiungere stabilità e radicamento
 
-### 3. Norma personale (individuale)
+**Age Thirty Transition (ATT) — ~28-33 anni**
+- Opportunità di modificare la prima struttura adulta
+- Presa di coscienza della perdita del carattere provvisorio della vita e del tempo che scorre
+- Spesso una fase di stress
 
-La normalità *rispetto a come funzionavo prima*.
-Se mi rompo una gamba, non sono più "normale" rispetto
-al mio funzionamento precedente. Questa dimensione
-è importante clinicamente: capire com'era il soggetto
-prima dell'evento permette di comprendere il
-cambiamento.
+Questi tre periodi formano la **Novice Phase** (fase novizia): la preparazione all'adultità piena. I compiti principali sono:
+1. Creare un **Sogno** (visione possibile che genera vitalità, inizialmente poco connessa alla realtà, poi integrata gradualmente nella struttura di vita)
+2. Formare relazioni importanti, incluso il rapporto con un **Mentor**
+3. Trovare un'occupazione
+4. Sposarsi / costruire legami di reciprocità
 
-Ma il prof aggiunge un avvertimento cruciale:
-**la normalità personale non è sempre da riconquistare**.
-A volte è proprio quella "normalità" precedente che
-ha causato il problema. Esempio: "Lavoravo 10 ore
-al giorno, gestivo tutto, poi mi sono ammalato —
-voglio tornare come prima." Forse no. Se torni come
-eri prima, tra un mese ci rivediamo peggio.
+**Settling Down (SD) — ~33-40 anni**
+- Consolidamento della seconda struttura di vita
+- Stabilizzazione delle scelte
+- Ambivalenza tra affermazione sociale e libertà dalle pressioni sociali
 
-C'è anche il rischio di **idealizzare il passato**:
-"Prima stavo bene" — ma siamo sicuri? O è solo che
-in confronto a oggi sembra il paradiso?
+**Mid-Life Transition (MLT) — ~40-45 anni**
+- Emergono preoccupazioni circa avanzamento insufficiente, scarsa affermazione di sé, anzianità
+- Progresso nel processo di individuazione (qui Jung e Levinson si incontrano)
 
----
+**Entering Middle Adulthood (EMA) — ~45-50 anni**
+- Nuovo periodo di costruzione strutturale
+- La separazione dalla struttura precedente può implicare rivoluzioni (divorzio, dimissioni, trasloco) che permettono miglioramento
 
-## La posizione del soggetto davanti alla malattia
+**Age 50 Transition**
+- Possibilità di modificare la struttura formata in precedenza
+- Crisi soprattutto per chi non ha modificato abbastanza durante la transizione di mezza vita
 
-L'ultima parte della lezione introduce un modello
-pratico a due assi per capire come il soggetto si
-pone rispetto alla propria condizione.
+### Le quattro polarità di Levinson
+Forze interne che l'individuo deve integrare in ogni era:
 
-**Asse 1 — Identificazione:**
-- *Non mi identifico* con la malattia: "Io non sono
-  la mia malattia, è qualcosa di estraneo"
-- *Mi identifico*: "La mia condizione fa parte di me"
+| Polarità | Descrizione |
+|----------|-------------|
+| **Maschile vs Femminile** | Integrare entrambe le dimensioni nella propria psiche |
+| **Giovane vs Anziano** | Accettare il divenire e il proprio invecchiamento |
+| **Distruzione vs Creazione** | Ogni fine contiene un inizio |
+| **Attaccamento vs Separazione** | Saper legarsi e saper lasciar andare |
 
-**Asse 2 — Agentività** (termine tecnico dal greco):
-- *Agentivo* (attivo): affronto la situazione,
-  mi muovo, cerco alleati
-- *Passivo*: subisco, aspetto che qualcuno intervenga
+### In sintesi
+> «Il corso della vita è composto da una sequenza di fasi alternanti di cambiamento e consolidamento. Essere adulto = essere disponibili al cambiamento.»
 
-Incrociando i due assi si ottengono quattro posizioni:
-
-| | Non si identifica | Si identifica |
-|---|---|---|
-| **Passivo** | **Delega**: "Faccia lei, risolva lei" | Passivo nella propria condizione |
-| **Agentivo** | **Guarigione**: combatte per eliminare la condizione | **Cura**: lavora sul proprio benessere dentro la condizione |
-
-Il passaggio chiave: quando il soggetto si identifica
-con la propria condizione e diventa agentivo, il
-paradigma passa dalla **guarigione** alla **cura**.
-Non si tratta più di eliminare la malattia (che a
-volte non è possibile), ma di aumentare il benessere
-*dentro* la condizione.
-
-> *"Non tutto si può guarire. Ma tutto può essere
-> curato."*
-> — Il professore
-
-La differenza tra *to cure* (terapia) e *to care*
-(cura) è fondamentale per il lavoro sociale: la
-terapia non è sempre possibile, ma la cura — nel
-senso di prendersi cura del benessere della persona
-— è sempre praticabile.
-
-Nella realtà le persone si muovono tra i quadranti,
-soprattutto all'inizio della malattia. L'operatore
-accompagna questo movimento.
+In ogni era si definisce una **struttura del Sé** — una fotografia della persona in quel momento — vista da tre prospettive:
+1. Incidenza del mondo socioculturale
+2. Incidenza del sé interno (desideri, conflitti, ansie e modi di risolverli)
+3. Partecipazione attiva dell'individuo al mondo
 
 ---
 
-## La tragedia greca: passioni e follia
+## 5. Essere adulto: i piani dello sviluppo
 
-Parallelamente allo studio teorico, il modulo
-include un lavoro su **cinque tragedie greche**.
+L'adultità si esprime su più piani contemporaneamente. La docente ne identifica cinque:
 
-### Perché la tragedia?
+### Piano fisico
+Raggiungimento di una stabilità di sviluppo e accettazione del proprio corpo. Il corpo non è solo aspetto biologico: è una **componente attiva dello sviluppo**.
 
-La tragedia greca nasce insieme alla medicina antica
-(Ippocrate) e mette in scena la sofferenza umana —
-quella difficile da spiegare e a volte da comprendere.
-Assistere alla tragedia faceva emergere emozioni e
-sentimenti che, attraverso la **catarsi**, potevano
-uscire e liberare.
+### Piano personologico
+- Capacità di controllo degli impulsi
+- Capacità di agire autonomamente sul piano di realtà
+- **Funzioni esecutive:** pianificazione, organizzazione, regolazione e monitoraggio del comportamento
 
-La tragedia parla dei **confini dell'umano**: la
-morte, la malattia, la follia. Il prof distingue
-gli approcci dei tre grandi tragediografi:
+### Piano intellettuale — Il pensiero adulto
+Il pensiero adulto diventa più **soggettivo, pratico e integrativo**. Sa compensare una minore capacità di assimilazione con una maggiore capacità di integrazione delle informazioni. Supera le verità universali e gli assoluti per abbracciare prospettive multidimensionali.
 
-- **Eschilo** — il più arcaico: la follia arriva
-  dagli dèi, è una forza esterna che schiaccia
-- **Sofocle** — il tragico non arriva dagli dèi,
-  è la vita stessa che è tragica
-- **Euripide** — il più moderno: il tragico nasce
-  dalle relazioni tra le persone
+**Warner Schaie** (1977-1978) descrive quattro stadi cognitivi nel corso della vita:
 
-A secoli di distanza, la tragedia "resta fedele
-a se stessa" — perché tocca qualcosa di profondo
-nell'umano che non cambia nei secoli.
+| Fase | Stadio | Scopo cognitivo | Focus |
+|------|--------|-----------------|-------|
+| Infanzia/adolescenza | Acquisizione | Imparare | Accumulare conoscenze |
+| Prima età adulta | Realizzazione | Applicare | Usare le conoscenze per obiettivi concreti |
+| Età adulta intermedia | Responsabilità/Esecutivo | Gestire | Integrare obiettivi personali e sociali |
+| Tarda età adulta | Reintegrativo | Selezionare | Pensare solo a ciò che ha valore personale |
 
-### L'esercizio pedagogico
+La **transizione trifasica** riassume questo percorso:
+1. *Cosa devo sapere?* → acquisire conoscenze
+2. *In che modo uso quello che so?* → prendere decisioni e gestire responsabilità
+3. *Perché?* → selezionare ciò che ha significato personale
 
-Gli studenti sono divisi in **5 gruppi**, ciascuno
-con una tragedia assegnata per estrazione. Il lavoro
-prevede:
+Alcuni teorici parlano di **pensiero post-formale** (5° stadio): un pensiero più soggettivo, pratico e integrativo delle dimensioni interpersonali, tipico dell'adulto maturo.
 
-1. **Leggere** la tragedia — esporsi a un linguaggio
-   non familiare della sofferenza, proprio come
-   accade quando si incontra un paziente che parla
-   una "lingua" diversa dalla nostra
-2. **Condividere** nel gruppo — cosa ti ha parlato?
-   Quali temi ti hanno colpito?
-3. **Sintetizzare** — trovare un messaggio comune,
-   con le inevitabili rinunce individuali (esercizio
-   di équipe reale)
-4. **Andare in scena** — non uno "spettacolino",
-   ma portare temi salienti a una platea
+### Piano relazionale — Generatività
 
-Il prof insiste: quello che deve arrivare al pubblico
-deve essere *vero* — deve essere passato attraverso
-l'umanità di chi lo porta in scena. Se non c'è quella
-verità, si sente.
+La **generatività** (concetto eriksoniano) è la capacità di relazionarsi con gli altri e costruire rapporti intimi e d'amore, ma va ben oltre:
 
-### Le tragedie di quest'anno
+- Non è solo procreazione
+- È un bisogno psichico di sopravvivere a se stessi
+- È occuparsi delle generazioni future
+- È produrre un valore condiviso con il proprio contesto
 
-Le docenti hanno scelto — indipendentemente —
-tragedie che convergono su un tema comune: la
-**violenza sulle donne nei conflitti armati**.
+> Ogni vita risulta generativa quando è consapevole dell'impatto che lascia sul suo contesto e si adopera perché questo sia positivo.
 
-- **Agamennone** (Eschilo) — Cassandra, prigioniera
-  di guerra e bottino sessuale
-- **Le Troiane** (Euripide) — Ecuba, Cassandra,
-  Andromaca: tre donne schiavizzate dopo la caduta
-  di Troia
-- **Andromaca** (Euripide) — la vittima di guerra
-  per eccellenza
-- **Le Trachinie** (Sofocle) — donne umiliate
-  e "rese mute" dalla violenza
-- **Aiace** (Sofocle) — la fragilità dietro
-  l'eroismo apparente
+Procreazione e genitorialità sono **scelte generative** tra le tante possibili — non esauriscono le opzioni generative della persona.
 
-Il prof collega esplicitamente queste storie ai dati
-odierni sulla violenza sessuale nei conflitti armati
-(Congo, Iraq, Rwanda), citando **Nadia Murad**,
-Premio Nobel per la Pace e sopravvissuta alla
-schiavitù sessuale dell'ISIS. La tragedia greca
-non è storia lontana: è cronaca con un linguaggio
-di 2500 anni fa.
+### Piano professionale
+Il **lavoro** nella fase adulta:
+- Ricopre un ruolo fondamentale
+- Oltre al sostentamento, porta significati e occasioni di maturazione
+- Può essere anche fonte di frustrazione e traumi
+- Struttura gran parte della quotidianità e costituisce una delle principali fonti di identità e senso del valore personale (Bandura, 1995)
+
+Le **funzioni del lavoro**:
+- Sostentamento
+- Senso di competenza
+- Identità personale
+- Relazioni con gli altri nel contesto lavorativo
+- Senso di appartenenza
+- Riconoscimento per il proprio valore
+- Scansione e organizzazione del tempo
+
+---
+
+## 6. Identità adulta — il puzzle senza istruzioni
+
+L'identità risponde alla domanda «chi sono io?». Riguarda gli aspetti soggettivi del sé — caratteristiche fisiologiche e psicologiche in relazione al contesto. È strettamente collegata al narcisismo e alla mediazione tra individuo e società.
+
+L'identità emerge con forza nei **momenti di crisi**, quando si fa esperienza dell'evanescenza di ciò che sembrava portatore di stabilità e certezza. Ed è per natura **polimorfa**: una composizione dei colori dell'infanzia, dell'adolescenza, dell'età adulta, della vecchiaia.
+
+> «Un puzzle comprato in negozio ha l'immagine finale già stampata sul coperchio. Nel caso dell'identità non è affatto così. Tu non parti dall'immagine finale ma da una certa quantità di pezzi e cerchi di scoprire come ordinarli per ottenere immagini soddisfacenti. Fai esperimenti con ciò che hai.»
+
+Fin qui ci siamo? Bene — ora scendiamo nel dettaglio della genitorialità, che è forse il piano più complesso.
+
+---
+
+## 7. Genitorialità — le dodici funzioni
+
+La genitorialità è il momento evolutivo più maturo della dinamica affettiva. Convergono in essa esperienze, ricordi, convinzioni, modelli relazionali, fantasie, angosce e desideri di tutta la storia affettiva della persona.
+
+Non richiede necessariamente la nascita di un figlio reale: è prima di tutto uno **spazio mentale e relazionale** dentro cui convergono affetti, attaccamento, narcisismo e mondo fantasmatico. Il **genitore interno** — formato da tutte le interazioni reali e fantasmatiche con le figure adulte significative della propria storia — si attiva intensamente alla nascita di un figlio.
+
+La genitorialità si fonda sull'aver sperimentato, nella propria esperienza di figlio:
+- **Sapersi attaccare:** costruire vicinanza e relazione, saper proteggere e farsi proteggere
+- **Cogliere lo stato della mente dell'altro**
+- **Riconoscere la soggettività dell'altro**
+- **Accettare il cambiamento e la diversità dell'altro**
+
+Essere adulto e genitore si muove su due polarità:
+- **Individuale:** esperienze fatte, autonomia personale e sociale raggiunta
+- **Sociale:** attese e richieste determinate dalle trasformazioni economiche e sociali
+
+### Le dodici funzioni della genitorialità
+
+| # | Funzione | Descrizione |
+|---|----------|-------------|
+| 1 | **Protettiva** | Offrire cure adeguate ai bisogni del bambino; è influenzata dalla cultura e determina il legame di attaccamento |
+| 2 | **Affettiva** | Qualità emotiva e affettiva dentro cui il bambino è inserito; desiderio di vivere emozioni positive per entrambi |
+| 3 | **Regolativa** | Strategie di regolazione emotiva inizialmente fornite dal caregiver |
+| 4 | **Normativa** | Capacità di dare limiti, conseguente all'evolversi della funzione regolativa |
+| 5 | **Predittiva** | Capacità del genitore di "anticipare" la tappa evolutiva del figlio |
+| 6 | **Rappresentativa** | Modificare la rappresentazione del bambino in base alla crescita e alle sue interazioni |
+| 7 | **Significante** | Rendere pensabile ciò che il neonato percepisce senza elaborarlo (Funzione alfa di Bion: trasforma impressioni sensoriali in pensieri) |
+| 8 | **Fantasmatica** | Gioco di specchi tra genitori che sono stati, bambino reale e bambino desiderato |
+| 9 | **Proiettiva** | Proiezione di parti di sé o immagini di sé sul bambino |
+| 10 | **Triadica** | Alleanza cooperativa tra i genitori |
+| 11 | **Differenziale** | Esprimere le due modalità (materna e paterna) per un gioco relazionale sano |
+| 12 | **Transgenerazionale** | Inserire il figlio all'interno di una storia reale e immaginata; continuum generazionale |
+
+La **diade** (genitore-figlio) è un'unità inscindibile: la crescita di uno implica la crescita dell'altro.
+
+---
+
+## 8. Adultescenza — l'adulto che non vuole crescere
+
+Uno dei fenomeni sociali più discussi del nostro tempo.
+
+> Le differenze di comportamento tra giovani e adulti sono diminuite drasticamente. I giovani si comportano come adulti rivendicando gli stessi diritti. Gli adulti si comportano spesso come i giovani. La società è definita "senza adulti" — di eterni adolescenti.
+
+**Adultescente** (Zingarelli 2014): «persona tra i venti e i trent'anni le cui condizioni di vita (studio, lavoro, reddito, casa) e la cui mentalità sono considerate simili a quelle di un adolescente.»
+
+Nel mondo anglosassone: **kidult** (kid + adult). Il fenomeno si formalizza negli anni '80 con la **Sindrome di Peter Pan** (Dan Kiley, 1983).
+
+### Caratteristiche
+
+- Attenzione all'immagine corporea
+- Difficoltà nel contenere emozioni
+- Auto-deresponsabilizzazione (l'altro è sempre colpevole)
+- Modi esagerati e turbolenti di gestire i conflitti
+- Modalità di socializzazione gruppale
+- Mito del giovanilismo e fuga dall'invecchiamento
+
+### Una medaglia a due facce
+
+| Versione negativa | Versione positiva |
+|-------------------|-------------------|
+| Adolescente immobile, bloccato in una fase di latenza identitaria, senza progettualità | Adulto che mantiene viva la tensione al crescere, la curiosità, la passione |
+| Adulto infantilizzato con sogni di eterna giovinezza che abdica al proprio ruolo | Immaturità creativa che permette di attraversare le età della vita senza sentirsi "già arrivati" |
+
+**La difficoltà teorica:** il termine è inafferrabile. È l'associazione di due incertezze (adolescente + adulto). Non si riesce a fissare caratteristiche distintive e regolative precise. Non è chiarito nemmeno quale sia l'età di riferimento dell'adultescente.
 
 ---
 
 ## Concetti chiave
 
 | Termine | Significato |
-|---|---|
-| **Disease** | Malattia in senso biomedico, misurabile con parametri clinici |
-| **Illness** | Vissuto soggettivo della malattia, come la persona si sente |
-| **Sickness** | Dimensione sociale della malattia, riconoscimento/stigma |
-| **Benessere** | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo |
-| **Norma statistica** | Normalità come conformità alla media della popolazione |
-| **Norma di valore** | Normalità come conformità a un ideale |
-| **Norma personale** | Normalità rispetto al proprio funzionamento precedente |
-| **Agentività** | Atteggiamento attivo del soggetto verso la propria condizione |
-| **Catarsi** | Purificazione emotiva attraverso la partecipazione alla tragedia |
-| **Omeostasi** | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio |
-| **To cure** | Terapia: eliminare la malattia |
-| **To care** | Cura: prendersi cura del benessere, sempre praticabile |
+|---------|-------------|
+| **Individuazione** | (Jung) Processo di maturazione psicologica: integrazione delle parti di sé nell'ombra |
+| **Puer** | Parte infantile-creativa della psiche adulta: curiosità, esplorazione, vitalità |
+| **Senex** | Polo della responsabilità, stabilità e ordine nella psiche adulta |
+| **Generatività** | (Erikson) Interesse a contribuire alla generazione successiva; bisogno di lasciare un segno positivo |
+| **Stagnazione** | Auto-assorbimento e mancanza di crescita psicologica nell'età adulta |
+| **Marker events** | Eventi che innescano cambiamenti nelle transizioni di vita |
+| **Pensiero post-formale** | Pensiero adulto: soggettivo, pratico, integrativo, tollerante dell'ambiguità |
+| **Adultescenza** | Condizione di adulto biologico con tratti identitari adolescenziali |
+| **Funzione alfa** | (Bion) Capacità genitoriale di trasformare impressioni sensoriali in pensieri elaborabili |
+| **Diade** | Unità relazionale genitore-figlio: la crescita di uno implica la crescita dell'altro |
+| **Novice Phase** | (Levinson) Prime tre fasi (EAT, EAW, ATT): preparazione all'adultità piena |
+| **Struttura di vita** | (Levinson) Configurazione del sé in una data era, vista da tre prospettive |
+| **Sogno** | (Levinson) Visione possibile che orienta la struttura di vita nella fase novizia |
+
+---
 
 ## Collegamenti
 
-- **Autori citati:** Christopher Boorse (1977),
-  Carol Ryff, Tiziano Terzani (*L'ultimo giro di
-  giostra*), Callieri & C. (1999), Nadia Murad
-- **Lezioni successive:** Storia della follia
-  (25.02), L'incontro con l'alienità (4.03), Dal
-  modello psicoanalitico alle difese (11.03)
-- **Temi aperti:** Come cambiano le categorie
-  diagnostiche nel tempo? Come si costruisce una
-  diagnosi psichiatrica? (L'omosessualità come
-  esempio storico sarà ripreso)
-- **Da ricordare:** il vademecum del modulo
-  contiene i contenuti in forma scritta con i
-  riferimenti bibliografici precisi
+- **Lezione precedente (adolescenza):** la trascrizione della lezione 07 tratta l'adolescenza — corpo, mentalizzazione del corpo sessuale, agito, sviluppo neurobiologico del cervello (corteccia prefrontale/sistema limbico). È la fase che precede e prepara l'adultità descritta nelle slide.
+- **Erikson:** i concetti di generatività e intimità riprendono gli stadi precedenti (fiducia di base, autonomia, identità) come fondamenta su cui poggiano gli stadi adulti.
+- **Attaccamento:** la funzione protettiva e affettiva della genitorialità si collega alla teoria dell'attaccamento di Bowlby.
+- **Temi aperti / da approfondire:** adultescenza e fenomeno dei kidult; generatività non biologica (professionale, sociale, creativa); il ruolo del virtuale nella costruzione dell'identità adulta.

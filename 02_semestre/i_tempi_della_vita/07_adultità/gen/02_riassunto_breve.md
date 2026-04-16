@@ -1,107 +1,117 @@
-# Introduzione al modulo di Salute Mentale — Sintesi
-Salute Mentale · Sessione 01
+# L'Adultità — Sintesi
+I Tempi della Vita · Sessione 07
 
-> Salute, benessere e normalità: tre parole che
-> sembrano semplici, ma non lo sono per niente.
-> Questa lezione smonta le certezze e costruisce
-> basi solide per tutto il modulo.
-
-## Struttura del modulo
-
-- Tre tappe: **clinica**, **mondo**, **corpo**
-- Attraversate da: spazio, tempo, identità,
-  incontro
-- L'operatore sociale come ponte tra discipline
-  specialistiche, non specialista di una sola
-
-## Salute: le 7 condizioni di Boorse (1977)
-
-Nessuna delle sette regge da sola:
-- **Valore** — non universale: contesti in cui
-  la malattia è "preferibile" esistono
-- **Trattamento medico** — la medicina colonizza
-  ambiti non patologici
-- **Norma statistica** — fuori dalla media ≠ malato
-- **Sofferenza** — malattie asintomatiche e
-  dolori fisiologici esistono
-- **Disabilità** — fasi di "non abilità" sono
-  normali nella vita (neonato, sonno)
-- **Adattamento** — l'uomo adatta anche l'ambiente
-  a sé, non solo il contrario
-- **Omeostasi** — la vita si fonda sulla rottura
-  e riconquista dell'equilibrio, non sull'equilibrio
-  statico
-
-## Disease, illness, sickness
-
-- **Disease** → dimensione biomedica (misurabile)
-- **Illness** → vissuto soggettivo della persona
-- **Sickness** → riconoscimento/stigma sociale
-- Le tre dimensioni possono non coincidere — e lo
-  stigma sociale peggiora l'andamento della malattia
-
-## Benessere: le 6 dimensioni di Ryff
-
-- **Autonomia** — autodeterminarsi senza dipendere
-  dagli altri per ogni scelta
-- **Controllo ambientale** — valorizzare le risorse
-  disponibili
-- **Relazioni positive** — relazioni calde, fiduciose,
-  reciproche
-- **Autoaccettazione** — consapevolezza di qualità
-  e limiti
-- **Percezione di crescita** — sentire di evolvere
-- **Scopo nella vita** — avere mete e dare senso
-
-Salute ≠ benessere. Si può stare bene senza essere
-in salute (Terzani) e male pur essendo "sani".
-Per l'operatore: queste dimensioni rendono il lavoro
-sul benessere *concreto e operativo*.
-
-## Tre tipi di normalità
-
-- **Statistica** — nella media; fuori dalla norma
-  porta stigma
-- **Di valore** — ideale irraggiungibile → sofferenza
-  perpetua; attenzione: anche i *nostri* ideali sugli
-  utenti possono diventare penalizzanti
-- **Personale** — rispetto a come funzionavo prima;
-  attenzione a non idealizzare il passato, e a non
-  considerare quella normalità come obiettivo se era
-  proprio lei la causa del problema
-
-## Posizione del soggetto verso la malattia
-
-Due assi: **identificazione** con la condizione ×
-**agentività** (attivo/passivo)
-
-- Passivo + non identificato → **delega** ("guariscimi")
-- Agentivo + non identificato → **guarigione** come
-  unico obiettivo
-- Agentivo + identificato → **cura**: lavora sul
-  benessere dentro la condizione
-
-Passaggio chiave: dalla guarigione alla cura.
-*To cure* ≠ *to care*: la cura è sempre possibile,
-anche quando la guarigione non lo è.
-
-## La tragedia greca
-
-- Dispositivo pedagogico parallelo al modulo
-- 5 gruppi, 5 tragedie per estrazione
-- Tappe: leggere → condividere → sintetizzare →
-  mettere in scena (~20 min)
-- Allena: ascolto di linguaggi non familiari, lavoro
-  di équipe, sintesi, capacità di rinuncia
-- Quest'anno tutte le tragedie convergono sulla
-  violenza sulle donne nei conflitti armati —
-  tema antico e attualissimo (Nadia Murad, Congo,
-  Iraq)
+> L'adultità non è un traguardo — è un processo continuo di costruzione, crisi e rinascita. Tre grandi teorici, cinque piani di sviluppo, e il coraggio di cambiare anche a 45 anni.
 
 ---
 
-**Da ricordare:** salute, benessere e normalità
-sono tre concetti distinti ma intrecciati. La cura
-è sempre possibile, anche quando la guarigione non
-lo è. Il contesto è fondamentale per interpretare
-qualsiasi comportamento.
+## Definire l'adultità: quattro prospettive
+
+- **Etimologica:** dal latino *adultus* = cresciuto, sviluppato, maturo; completo sviluppo fisico e psichico
+- **Normativa:** maggiore età, diritto di voto, contratti, licenza, responsabilità penale
+- **Cronologica:** 20-60 anni; prima adultità (20-40/45) e seconda adultità/mezz'età (40/45-65)
+- **Psicologica:** le teorie di Jung, Erikson, Levinson
+
+---
+
+## Jung — Individuazione e Puer/Senex
+
+- L'adultità è **l'età del dubbio** (35-40 anni): si spezzano i sogni dell'infanzia, appare un secondo Io
+- **Puer** → parte infantile-creativa, curiosità, esplorazione, vitalità
+- **Senex** → responsabilità, stabilità, ordine
+- Adultità = equilibrio tra Puer e Senex
+- **Individuazione:** processo di maturazione che integra le parti di sé rimaste nell'ombra
+- La maturità richiede di lasciare il programma del mattino per quello della sera
+
+---
+
+## Erikson — Stadi psicosociali dell'adulto
+
+- Lo sviluppo adulto si determina anche nell'interrelazione con eventi sociali (non solo biologici)
+- **Stadio 6 — Intimità vs Isolamento** (20-29 anni)
+  - Intimità: sentimento del "noi", relazioni fuori dalla famiglia
+  - Isolamento: paura di perdersi → relazioni fredde e stereotipate
+- **Stadio 7 — Generatività vs Stagnazione** (30-60 anni)
+  - Generatività: guidare la generazione successiva, essere produttivi
+  - Stagnazione: auto-assorbimento, noia, impoverimento della vita sociale
+
+---
+
+## Levinson — Le stagioni della vita
+
+- Vita adulta = alternanza di **periodi di stabilità** (6-10 anni) e **periodi di transizione** (4-5 anni)
+- **Transizione:** porre fine a un'era, accettare le perdite, rivedere il passato, ridefinire il futuro
+- **Marker events:** eventi che innescano cambiamenti (matrimonio, malattia, morte, pensionamento…)
+
+### Fasi principali
+
+| Fase | Età | Contenuto |
+|------|-----|-----------|
+| Early Adult Transition (EAT) | ~17-22 | Separazione dalla famiglia, inizio dell'indipendenza |
+| Entering the Adult World (EAW) | ~22-28 | Prima struttura provvisoria; esplorare e radicarsi |
+| Age Thirty Transition (ATT) | ~28-33 | Modificare la prima struttura; presa di coscienza del tempo |
+| Settling Down (SD) | ~33-40 | Consolidamento; ambivalenza affermazione/libertà |
+| Mid-Life Transition (MLT) | ~40-45 | Preoccupazioni sul percorso; avanzamento del processo di individuazione |
+| Entering Middle Adulthood (EMA) | ~45-50 | Nuova costruzione; possibili "rivoluzioni" (divorzio, trasloco…) |
+| Age 50 Transition | ~50-55 | Ulteriore revisione; crisi se non si è cambiato abbastanza |
+
+- **Novice Phase** (EAT + EAW + ATT): compiti principali = creare un Sogno, trovare un Mentor, trovare lavoro
+- **Quattro polarità da integrare:** Maschile/Femminile · Giovane/Anziano · Distruzione/Creazione · Attaccamento/Separazione
+
+> **Essere adulto = essere disponibili al cambiamento**
+
+---
+
+## I cinque piani dell'essere adulto
+
+- **Fisico** → stabilità corporea, accettazione del proprio corpo
+- **Personologico** → controllo impulsi, autonomia, funzioni esecutive (pianificazione, organizzazione, regolazione)
+- **Intellettuale** → pensiero più soggettivo, pratico, integrativo; Schaie: 4 stadi (acquisizione → realizzazione → responsabilità → reintegrativo)
+- **Relazionale** → generatività: non solo procreare, ma lasciare un impatto positivo sul contesto
+- **Professionale** → lavoro = identità, competenza, appartenenza, struttura del tempo (Bandura, 1995)
+
+---
+
+## Identità
+
+- Risponde alla domanda «chi sono io?»
+- Emerge con forza nei momenti di crisi
+- È **polimorfa:** composta da strati di infanzia, adolescenza, adultità, vecchiaia
+- Non si parte dall'immagine finale — si fa esperimenti con i pezzi che si hanno
+
+---
+
+## Genitorialità — le dodici funzioni
+
+Spazio mentale e relazionale che non richiede necessariamente un figlio reale.
+
+| Funzione | In breve |
+|----------|----------|
+| Protettiva | Cure adeguate ai bisogni; fonda l'attaccamento |
+| Affettiva | Qualità emotiva del contesto del bambino |
+| Regolativa | Regolazione emotiva fornita dal caregiver |
+| Normativa | Capacità di dare limiti |
+| Predittiva | Anticipare la tappa evolutiva del figlio |
+| Rappresentativa | Aggiornare l'immagine del bambino man mano che cresce |
+| Significante | Rendere pensabile ciò che il neonato percepisce (Funzione alfa, Bion) |
+| Fantasmatica | Gioco di specchi tra bambino reale e bambino fantasticato |
+| Proiettiva | Proiezione di parti di sé sul bambino |
+| Triadica | Alleanza cooperativa tra i due genitori |
+| Differenziale | Gioco tra modalità materna e paterna |
+| Transgenerazionale | Inserire il figlio nel continuum generazionale familiare |
+
+La **diade** genitore-figlio: la crescita di uno implica la crescita dell'altro.
+
+---
+
+## Adultescenza
+
+- Adulto biologico con mentalità adolescenziale
+- **Kidult** (anglosassone); **Sindrome di Peter Pan** (Kiley, 1983)
+- Caratteristiche: attenzione ossessiva all'immagine, difficoltà a contenere emozioni, auto-deresponsabilizzazione, giovanilismo
+- Due facce: fenomeno patologico (blocco evolutivo) vs aspetto positivo (mantiene viva la curiosità e la tensione al crescere)
+- Termine inafferrabile — impossibile fissarne caratteristiche regolative precise
+
+---
+
+**Da ricordare:** **Individuazione** (Jung) · **Generatività vs Stagnazione** (Erikson) · **Strutture + Transizioni** (Levinson) · **12 funzioni della genitorialità** · **Adultescenza**

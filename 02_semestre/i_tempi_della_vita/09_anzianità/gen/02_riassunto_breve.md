@@ -1,107 +1,107 @@
-# Introduzione al modulo di Salute Mentale — Sintesi
-Salute Mentale · Sessione 01
+# L'Anzianità — Sintesi
+I tempi della vita · Sessione 09–14
 
-> Salute, benessere e normalità: tre parole che
-> sembrano semplici, ma non lo sono per niente.
-> Questa lezione smonta le certezze e costruisce
-> basi solide per tutto il modulo.
-
-## Struttura del modulo
-
-- Tre tappe: **clinica**, **mondo**, **corpo**
-- Attraversate da: spazio, tempo, identità,
-  incontro
-- L'operatore sociale come ponte tra discipline
-  specialistiche, non specialista di una sola
-
-## Salute: le 7 condizioni di Boorse (1977)
-
-Nessuna delle sette regge da sola:
-- **Valore** — non universale: contesti in cui
-  la malattia è "preferibile" esistono
-- **Trattamento medico** — la medicina colonizza
-  ambiti non patologici
-- **Norma statistica** — fuori dalla media ≠ malato
-- **Sofferenza** — malattie asintomatiche e
-  dolori fisiologici esistono
-- **Disabilità** — fasi di "non abilità" sono
-  normali nella vita (neonato, sonno)
-- **Adattamento** — l'uomo adatta anche l'ambiente
-  a sé, non solo il contrario
-- **Omeostasi** — la vita si fonda sulla rottura
-  e riconquista dell'equilibrio, non sull'equilibrio
-  statico
-
-## Disease, illness, sickness
-
-- **Disease** → dimensione biomedica (misurabile)
-- **Illness** → vissuto soggettivo della persona
-- **Sickness** → riconoscimento/stigma sociale
-- Le tre dimensioni possono non coincidere — e lo
-  stigma sociale peggiora l'andamento della malattia
-
-## Benessere: le 6 dimensioni di Ryff
-
-- **Autonomia** — autodeterminarsi senza dipendere
-  dagli altri per ogni scelta
-- **Controllo ambientale** — valorizzare le risorse
-  disponibili
-- **Relazioni positive** — relazioni calde, fiduciose,
-  reciproche
-- **Autoaccettazione** — consapevolezza di qualità
-  e limiti
-- **Percezione di crescita** — sentire di evolvere
-- **Scopo nella vita** — avere mete e dare senso
-
-Salute ≠ benessere. Si può stare bene senza essere
-in salute (Terzani) e male pur essendo "sani".
-Per l'operatore: queste dimensioni rendono il lavoro
-sul benessere *concreto e operativo*.
-
-## Tre tipi di normalità
-
-- **Statistica** — nella media; fuori dalla norma
-  porta stigma
-- **Di valore** — ideale irraggiungibile → sofferenza
-  perpetua; attenzione: anche i *nostri* ideali sugli
-  utenti possono diventare penalizzanti
-- **Personale** — rispetto a come funzionavo prima;
-  attenzione a non idealizzare il passato, e a non
-  considerare quella normalità come obiettivo se era
-  proprio lei la causa del problema
-
-## Posizione del soggetto verso la malattia
-
-Due assi: **identificazione** con la condizione ×
-**agentività** (attivo/passivo)
-
-- Passivo + non identificato → **delega** ("guariscimi")
-- Agentivo + non identificato → **guarigione** come
-  unico obiettivo
-- Agentivo + identificato → **cura**: lavora sul
-  benessere dentro la condizione
-
-Passaggio chiave: dalla guarigione alla cura.
-*To cure* ≠ *to care*: la cura è sempre possibile,
-anche quando la guarigione non lo è.
-
-## La tragedia greca
-
-- Dispositivo pedagogico parallelo al modulo
-- 5 gruppi, 5 tragedie per estrazione
-- Tappe: leggere → condividere → sintetizzare →
-  mettere in scena (~20 min)
-- Allena: ascolto di linguaggi non familiari, lavoro
-  di équipe, sintesi, capacità di rinuncia
-- Quest'anno tutte le tragedie convergono sulla
-  violenza sulle donne nei conflitti armati —
-  tema antico e attualissimo (Nadia Murad, Congo,
-  Iraq)
+> Hai davanti il materiale più ricco del modulo. Il messaggio centrale è uno: l'anziano "tipico" non esiste — e il tuo lavoro inizia sempre dalla persona concreta. Buon ripasso.
 
 ---
 
-**Da ricordare:** salute, benessere e normalità
-sono tre concetti distinti ma intrecciati. La cura
-è sempre possibile, anche quando la guarigione non
-lo è. Il contesto è fondamentale per interpretare
-qualsiasi comportamento.
+## Psicologia dell'invecchiamento (Campello)
+
+- Disciplina giovane: nasce negli **anni '80**
+- Tre branche (Birren & Schroots, 1996): **psicologia dell'invecchiamento** (life-span), **psicologia della vecchiaia** (problemi bio-socio-psico), **psicologia delle differenze d'età** (confronto tra gruppi)
+
+---
+
+## Le tre teorie dello stile di vita
+
+| Teoria | Autori | Idea chiave | Critica principale |
+|---|---|---|---|
+| **Disimpegno** | Cumming & Henry, 1961 | Ritiro sociale progressivo = normale | Giustifica l'abbandono; le relazioni attive correlano con il benessere |
+| **Attività** | Havinghurst, 1963 | Invecchiare bene = mantenere le attività | Ricalca il modello adulto; ignora le differenze di personalità |
+| **Continuità** | Atchley, 1976 | Mantenere il livello di attività pre-pensionamento | Richiede buona salute e inserimento sociale |
+
+---
+
+## Eterocronia
+
+- **Inter-personale** → due persone stessa età, funzionamento molto diverso
+- **Intra-personale** → stessa persona invecchia a ritmi diversi (fisico ≠ cognitivo ≠ mentale)
+
+---
+
+## Le quattro età (Balducci, 1990)
+
+- **Anagrafica** — anni dalla nascita
+- **Somatica** — stato di salute fisico
+- **Cerebrale** — funzionamento cognitivo
+- **Mentale** — come ci si percepisce soggettivamente ← spesso la più importante
+
+---
+
+## Invecchiamento cognitivo
+
+**Intelligenza fluida** (Cattell, 1963) → ragionamento in situazioni nuove → picco 20-30 anni, poi declina
+**Intelligenza cristallizzata** → conoscenze accumulate → cresce fino alla mezza età inoltrata
+
+**Baltes — Mechanics vs Pragmatics:**
+- *Mechanics*: ragionamento, memoria, velocità → declino precoce
+- *Pragmatics*: abilità verbali/numeriche → stabili fino a 60-70 anni
+
+**Tre processi di declino:**
+1. Velocità di processamento ↓
+2. Risorse per l'elaborazione ↓
+3. Efficienza dei processi inibitori ↓
+
+**Modello SOC (Baltes) — invecchiare bene:**
+- **Selezione** → concentrarsi sulle attività che contano
+- **Ottimazione** → investire più energie nelle aree selezionate
+- **Compensazione** → usare capacità integre o aiuti esterni per sopperire a quelle ridotte
+
+**Riserva cognitiva (Stern, 2009)** → differenze individuali nella resistenza al declino. Si costruisce con: istruzione, lavoro stimolante, attività cognitivamente e socialmente attive.
+
+---
+
+## Prospettiva sociologica: 4 idee forti (Cavalli)
+
+### 1. L'invecchiamento NON è solo declino
+- Life-span (Baltes, 1987): guadagni e perdite a tutte le età
+- Studio CEVI (15 paesi): fino agli 80 anni i **guadagni superano le perdite**
+
+### 2. Terza età vs Quarta età
+- **Terza età** (Laslett, 1992): pensionati attivi, sani, autonomi → novità del XX secolo
+- **Quarta età** (Lalive d'Epinay & Cavalli, 2013): processo di fragilizzazione avanzato
+- **Fragilizzazione** → riduzione progressiva delle riserve fisiologiche/sensorimotorie
+- **Fragilità** → quando la fragilizzazione compromette l'equilibrio con l'ambiente
+- Ricorrere all'**età anagrafica** per definire la vecchiaia è comodo ma arbitrario e stigmatizzante
+
+### 3. Gli anziani di oggi ≠ quelli di ieri ≠ quelli di domani
+- Il contesto storico-sociale plasma l'invecchiamento (Diagramma di Lexis)
+- L'anziano di domani (Cavalli & Corna, 2020): più istruito, più connesso, background migratorio crescente, più autonomo, aperto all'autodeterminazione
+
+### 4. Gli anziani NON sono tutti uguali
+- Più anziani si diventa, più ci si differenzia (Trabucchi, 2016)
+- Il rischio: stereotipare terza età come "tutti attivi" e quarta età come "tutti dipendenti"
+- **Conclusione: "La persona anziana" non esiste**
+
+---
+
+## Ruoli sociali nell'anzianità
+
+- **Pensionamento** → evento marcatore; il lavoro non è solo sostentamento: è identità, tempo, relazioni
+- **Nonni** → guardiani della famiglia (Belsky): intervengono nelle crisi, tengono unita la rete
+- **Abbandono patente** → evento marcatore: simbolo di autonomia perduta, spesso isola socialmente
+- **Place identity** (Proshansky, 1978) → i luoghi sono parte dell'identità; il trasferimento in casa anziani è un evento critico
+
+---
+
+## COVID-19 e dignità degli anziani
+
+- 21 marzo 2020: divieto di fare la spesa per gli over 65 in Ticino
+- Studio "Dignità, anziani e COVID-19" (Cavalli et al., 2021): l'uso dell'età anagrafica per definire categorie a rischio viola la dignità e crea stigma
+
+---
+
+**Da ricordare:**
+- **SOC** = Selezione + Ottimazione + Compensazione (come invecchiare bene)
+- **Terza vs Quarta età** = il confine non è l'età anagrafica, ma il processo di fragilizzazione
+- **Eterocronia** = ogni persona invecchia in modo unico, anche dentro se stessa

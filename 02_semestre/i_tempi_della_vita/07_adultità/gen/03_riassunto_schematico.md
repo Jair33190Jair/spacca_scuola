@@ -1,122 +1,143 @@
-# Introduzione al modulo di Salute Mentale — Schema
-Salute Mentale · Sessione 01
-
-## Struttura del modulo
-
-- **Tre tappe** → clinica · mondo · corpo
-- **Quattro dimensioni trasversali** → spazio ·
-  tempo · identità · incontro
-- **Ruolo operatore sociale** → trait d'union
-  tra discipline specialistiche
+# L'Adultità — Schema
+I Tempi della Vita · Sessione 07
 
 ---
 
-## Salute — 7 condizioni di Boorse (1977)
+## Definizione di adultità
 
-- **Valore** → la desiderabilità non è universale
-- **Trattamento medico** → né necessario né
-  sufficiente per definire malattia
-- **Norma statistica** → fuori dalla media ≠ malato
-- **Sofferenza** → malattie asintomatiche e dolori
-  fisiologici esistono
-- **Disabilità** → non-abilità ≠ malattia (neonati,
-  sonno)
-- **Adattamento** → l'uomo adatta l'ambiente a sé,
-  non solo il contrario
-- **Omeostasi** → la vita richiede perdita e
-  riconquista continua di equilibrio
-
-⚠️ Nessuna condizione è sufficiente da sola
+- **Etimologica** → *adultus* (lat.) = cresciuto, sviluppato, maturo
+- **Normativa** → maggiore età, voto, contratti, patente, responsabilità penale
+- **Cronologica** → 20-60 anni
+  - Prima adultità: 20-40/45 (giovinezza 20-30 · maturità 30-40/45)
+  - Seconda adultità (mezz'età): 40/45-65
+- **Psicologica** → Jung · Erikson · Levinson
 
 ---
 
-## Disease / Illness / Sickness
+## Jung — Individuazione
 
-| Dimensione | Tipo | Riferimento |
-|---|---|---|
-| **Disease** | Biomedica | Parametri clinici |
-| **Illness** | Soggettiva | Vissuto personale |
-| **Sickness** | Sociale | Stigma / riconoscimento |
-
-- Le tre dimensioni possono non coincidere
-- Lo stigma (*sickness* negativa) peggiora
-  l'andamento della malattia
+- **Libido** → energia vitale spirituale (≠ solo sessuale come in Freud)
+- **Inconscio** → personale + collettivo (la coscienza nasce dall'inconscio)
+- **Età del dubbio** → 35-40 anni: si spezzano i sogni, appare un secondo Io
+- **Puer** → parte infantile-creativa: curiosità, esplorazione, vitalità
+- **Senex** → responsabilità, stabilità, ordine, sopravvivenza
+- **Adultità** → equilibrio Puer/Senex
+- **Individuazione** → processo di integrazione delle parti nell'ombra; richiede abbandonare il programma del mattino nella sera della vita
 
 ---
 
-## Benessere — 6 dimensioni di Ryff
+## Erikson — Stadi psicosociali
 
-- **Autonomia** → autodeterminazione senza
-  condizionamenti esterni
-- **Controllo ambientale** → valorizzare risorse
-  e possibilità
-- **Relazioni positive** → calore · fiducia ·
-  reciprocità
-- **Autoaccettazione** → consapevolezza qualità
-  e limiti
-- **Percezione di crescita** → vita come sviluppo
-  continuo
-- **Scopo nella vita** → mete e senso
-
-⚠️ Salute ≠ benessere (possono non coincidere)
+- **Stadio 6 — Intimità vs Isolamento** (20-29 anni)
+  - Intimità: sentimento del "noi", relazioni intime extra-familiari
+  - Isolamento: paura di perdersi → relazioni fredde e stereotipate
+- **Stadio 7 — Generatività vs Stagnazione** (30-60 anni)
+  - Generatività: guidare generazioni successive, bisogno di produrre
+  - Stagnazione: auto-assorbimento, noia, chiusura in sé
 
 ---
 
-## Normalità — 3 tipi
+## Levinson — Stagioni della vita
 
-| Tipo | Definizione | Rischio |
-|---|---|---|
-| **Statistica** | Nella media della popolazione | Stigma per chi devia |
-| **Di valore** | Ideale da raggiungere | Irraggiungibile → sofferenza perpetua |
-| **Personale** | Rispetto al funzionamento precedente | Idealizzare il passato; la normalità precedente può essere la causa della malattia |
+- **Struttura** → periodi di stabilità (6-10 anni)
+- **Transizione** → periodi di cambiamento (4-5 anni)
+- **Marker events** → matrimonio · pensionamento · malattia · morte · traumi
+
+### Fasi
+
+| Fase | Età | Note |
+|------|-----|------|
+| EAT — Early Adult Transition | ~17-22 | Separazione dalla famiglia d'origine |
+| EAW — Entering the Adult World | ~22-28 | Prima struttura provvisoria |
+| ATT — Age Thirty Transition | ~28-33 | Revisione prima struttura; stress |
+| SD — Settling Down | ~33-40 | Consolidamento; ambivalenza |
+| MLT — Mid-Life Transition | ~40-45 | Individuazione; preoccupazioni sul percorso |
+| EMA — Entering Middle Adulthood | ~45-50 | Nuova costruzione; possibili "rivoluzioni" |
+| Age 50 Transition | ~50-55 | Revisione; crisi se cambiamento insufficiente |
+
+- **Novice Phase** (EAT + EAW + ATT) → Sogno · Mentor · Occupazione · Reciprocità
+- **Polarità da integrare:** Maschile/Femminile · Giovane/Anziano · Distruzione/Creazione · Attaccamento/Separazione
+- **Sintesi:** Essere adulto = essere disponibili al cambiamento
 
 ---
 
-## Posizione del soggetto verso la malattia
+## I cinque piani dell'essere adulto
 
-|  | Non si identifica | Si identifica |
-|---|---|---|
-| **Agentivo** | Guarigione → eliminare la condizione | Cura → benessere dentro la condizione |
-| **Passivo** | Delega → "guariscimi" | Delega assistenziale |
+- **Fisico** → stabilità corporea; accettazione del corpo
+- **Personologico** → controllo impulsi; autonomia; funzioni esecutive
+- **Intellettuale** → pensiero soggettivo, pratico, integrativo
+- **Relazionale** → generatività (impatto positivo sul contesto)
+- **Professionale** → identità · competenza · appartenenza · struttura del tempo (Bandura, 1995)
 
-- **To cure** → terapia: non sempre possibile
-- **To care** → cura del benessere: sempre possibile
-- *"Non tutto si può guarire, ma tutto può essere
-  curato"*
+### Stadi cognitivi — Schaie (1977-1978)
+
+| Fase | Stadio | Scopo | Domanda |
+|------|--------|-------|---------|
+| Infanzia/adolescenza | Acquisizione | Imparare | Cosa devo sapere? |
+| Prima età adulta | Realizzazione | Applicare | Come uso quello che so? |
+| Età adulta intermedia | Responsabilità/Esecutivo | Gestire | Come integro mete personali e sociali? |
+| Tarda età adulta | Reintegrativo | Selezionare | Perché? Cosa ha valore per me? |
 
 ---
 
-## La tragedia greca
+## Identità
 
-- **5 tragedie** → Aiace · Andromaca · Agamennone ·
-  Le Troiane · Le Trachinie
-- **Tre tragediografi** →
-  - Eschilo: la follia viene dagli dèi (forza esterna)
-  - Sofocle: il tragico è la vita stessa
-  - Euripide: il tragico nasce dalle relazioni
-- **Catarsi** → far emergere ed elaborare emozioni
-  difficili attraverso la sofferenza altrui
-- **Esercizio pedagogico** →
-  leggere → condividere → sintetizzare → mettere in scena
+- **Risponde a** → «chi sono io?»
+- **Emerge in** → momenti di crisi
+- **È** → polimorfa (strati di infanzia, adolescenza, adultità, vecchiaia)
+- **Non parte** → dall'immagine finale; si fa esperimenti con i pezzi disponibili
+
+---
+
+## Genitorialità — 12 funzioni
+
+- **Non richiede** → figlio reale; è prima di tutto spazio mentale e relazionale
+- **Si fonda su** → attaccarsi · cogliere la mente dell'altro · riconoscere la soggettività · accettare il cambiamento
+
+| # | Funzione | Nucleo |
+|---|----------|--------|
+| 1 | Protettiva | Cure adeguate; fonda l'attaccamento |
+| 2 | Affettiva | Qualità emotiva del contesto |
+| 3 | Regolativa | Regolazione emotiva dal caregiver |
+| 4 | Normativa | Dare limiti |
+| 5 | Predittiva | Anticipare le tappe evolutive |
+| 6 | Rappresentativa | Aggiornare l'immagine del figlio |
+| 7 | Significante | Rendere pensabile il percepito (Funzione alfa, Bion) |
+| 8 | Fantasmatica | Gioco di specchi reale/desiderato |
+| 9 | Proiettiva | Proiezione di parti di sé sul figlio |
+| 10 | Triadica | Alleanza cooperativa tra i genitori |
+| 11 | Differenziale | Gioco modalità materna/paterna |
+| 12 | Transgenerazionale | Inserimento nel continuum generazionale |
+
+- **Diade** → unità genitore-figlio: la crescita di uno implica la crescita dell'altro
+
+---
+
+## Adultescenza
+
+- **Def.** → adulto biologico con mentalità adolescenziale
+- **Sinonimi** → kidult (anglosassone) · Sindrome di Peter Pan (Kiley, 1983)
+- **Caratteristiche** → giovanilismo · auto-deresponsabilizzazione · difficoltà emotive · conflittualità turbolenta
+- **Doppio volto** → blocco evolutivo (neg.) / tensione creativa al crescere (pos.)
+- **Limiti del concetto** → definizione inafferrabile; età non fissabile; caratteristiche non regolative
 
 ---
 
 ### Autori / Date / Riferimenti
 
 | Chi | Cosa | Quando |
-|---|---|---|
-| Christopher Boorse | 7 condizioni della salute | 1977 |
-| Carol Ryff | 6 dimensioni del benessere | — |
-| Callieri & C. | Definizione di clinica | 1999 |
-| Tiziano Terzani | *L'ultimo giro di giostra* | — |
-| Nadia Murad | Attivista, Premio Nobel per la Pace | — |
-| Guidorizzi | Follia nella tragedia greca | 2010 |
+|-----|------|--------|
+| Carl Gustav Jung | Individuazione, Puer/Senex, età del dubbio | 1875–1961 |
+| Erik Erikson | Stadi psicosociali (intimità/generatività) | *Stages of Psychosocial Development* |
+| Daniel Levinson | Stagioni della vita, strutture, transizioni | 1920–1994; *Seasons of a Man's Life* (1978) |
+| Warner Schaie | Stadi cognitivi dell'adulto | 1977-1978 |
+| Albert Bandura | Lavoro come fonte di identità e valore personale | 1995 |
+| Wilfred Bion | Funzione alfa (genitorialità significante) | — |
+| Dan Kiley | Sindrome di Peter Pan | 1983 |
+| Paola Blumer | Docente — modulo Adultità, SUPSI/DEASS | A.A. 2025/2026 |
+
+---
 
 ### Parole chiave
 
-`salute` · `benessere` · `normalità` · `disease`
-· `illness` · `sickness` · `Boorse` · `Ryff` ·
-`agentività` · `omeostasi` · `norma statistica`
-· `norma di valore` · `norma personale` ·
-`catarsi` · `guarigione` · `cura` · `to cure`
-· `to care` · `tragedia greca` · `clinica`
+`adultità` · `individuazione` · `puer` · `senex` · `generatività` · `stagnazione` · `marker events` · `transizione` · `Novice Phase` · `pensiero post-formale` · `diade` · `funzione alfa` · `genitorialità` · `adultescenza` · `kidult` · `struttura di vita` · `sogno` · `mezz'età`

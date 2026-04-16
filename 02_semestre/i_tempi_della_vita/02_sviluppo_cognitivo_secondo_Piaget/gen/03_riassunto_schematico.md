@@ -1,122 +1,120 @@
-# Introduzione al modulo di Salute Mentale — Schema
-Salute Mentale · Sessione 01
-
-## Struttura del modulo
-
-- **Tre tappe** → clinica · mondo · corpo
-- **Quattro dimensioni trasversali** → spazio ·
-  tempo · identità · incontro
-- **Ruolo operatore sociale** → trait d'union
-  tra discipline specialistiche
+# Sviluppo Cognitivo secondo Piaget — Schema
+I Tempi della Vita · Lezione 02
 
 ---
 
-## Salute — 7 condizioni di Boorse (1977)
+## Piaget — Profilo
 
-- **Valore** → la desiderabilità non è universale
-- **Trattamento medico** → né necessario né
-  sufficiente per definire malattia
-- **Norma statistica** → fuori dalla media ≠ malato
-- **Sofferenza** → malattie asintomatiche e dolori
-  fisiologici esistono
-- **Disabilità** → non-abilità ≠ malattia (neonati,
-  sonno)
-- **Adattamento** → l'uomo adatta l'ambiente a sé,
-  non solo il contrario
-- **Omeostasi** → la vita richiede perdita e
-  riconquista continua di equilibrio
-
-⚠️ Nessuna condizione è sufficiente da sola
+- **Jean Piaget** → 1896–1980 · Neuchâtel · Biologo → psicologo dello sviluppo
+- **Obiettivo** → teoria generale della conoscenza
+- **Metodo** → colloquio clinico: interviste semi-strutturate + osservazione sistematica
+  - 5 tipi di risposta: casuale · fabulata · suggerita · provocata · **spontanea**
 
 ---
 
-## Disease / Illness / Sickness
+## Schemi
 
-| Dimensione | Tipo | Riferimento |
+- **Schema** → struttura mentale che organizza la conoscenza
+  - **Schema d'azione** → legato al movimento fisico
+  - **Schema mentale** → rappresentazione interna simbolica
+
+---
+
+## Invarianti funzionali (sempre attive)
+
+- **Organizzazione** → tendenza a creare strutture coerenti e integrate
+- **Adattamento** → relazione organismo-ambiente
+  - **Assimilazione** → nuove info negli schemi esistenti
+  - **Accomodamento** → modifica degli schemi per adattarsi al nuovo
+- **Equilibrazione** → ricerca costante di equilibrio → motore dello sviluppo
+
+---
+
+## I 4 stadi — Panoramica
+
+| Stadio | Età | Nucleo cognitivo |
 |---|---|---|
-| **Disease** | Biomedica | Parametri clinici |
-| **Illness** | Soggettiva | Vissuto personale |
-| **Sickness** | Sociale | Stigma / riconoscimento |
+| **Sensomotorio** | 0–2 anni | Sensi + movimenti; no pensiero simbolico |
+| **Preoperatorio** | 18 mesi–7 anni | Pensiero simbolico; limiti egocentrici |
+| **Operatorio concreto** | 7–11 anni | Logica concreta; conservazione |
+| **Operatorio formale** | 12+ anni | Astratto; ipotetico-deduttivo |
 
-- Le tre dimensioni possono non coincidere
-- Lo stigma (*sickness* negativa) peggiora
-  l'andamento della malattia
-
----
-
-## Benessere — 6 dimensioni di Ryff
-
-- **Autonomia** → autodeterminazione senza
-  condizionamenti esterni
-- **Controllo ambientale** → valorizzare risorse
-  e possibilità
-- **Relazioni positive** → calore · fiducia ·
-  reciprocità
-- **Autoaccettazione** → consapevolezza qualità
-  e limiti
-- **Percezione di crescita** → vita come sviluppo
-  continuo
-- **Scopo nella vita** → mete e senso
-
-⚠️ Salute ≠ benessere (possono non coincidere)
+**5 criteri degli stadi:** gerarchizzazione · integrazione · strutture d'insieme · consolidamento · equilibrazione
 
 ---
 
-## Normalità — 3 tipi
+## Stadio Sensomotorio — 6 sotto-stadi
 
-| Tipo | Definizione | Rischio |
+| # | Età | Nome |
 |---|---|---|
-| **Statistica** | Nella media della popolazione | Stigma per chi devia |
-| **Di valore** | Ideale da raggiungere | Irraggiungibile → sofferenza perpetua |
-| **Personale** | Rispetto al funzionamento precedente | Idealizzare il passato; la normalità precedente può essere la causa della malattia |
+| 1 | 0–1 mese | Riflessi innati |
+| 2 | 1–4 mesi | Reazioni circolari primarie (corpo) |
+| 3 | 4–8 mesi | Reazioni circolari secondarie (oggetti) |
+| 4 | 8–12 mesi | Coordinazione delle secondarie (intenzionale) |
+| 5 | 12–18 mesi | Reazioni circolari terziarie (sperimentazione) |
+| 6 | ~18 mesi | Combinazioni mentali interne (rappresentazione) |
+
+- **Permanenza dell'oggetto** → l'oggetto esiste anche quando non è visibile → acquisizione per stadi
 
 ---
 
-## Posizione del soggetto verso la malattia
+## Stadio Preoperatorio — 4 limiti
 
-|  | Non si identifica | Si identifica |
-|---|---|---|
-| **Agentivo** | Guarigione → eliminare la condizione | Cura → benessere dentro la condizione |
-| **Passivo** | Delega → "guariscimi" | Delega assistenziale |
-
-- **To cure** → terapia: non sempre possibile
-- **To care** → cura del benessere: sempre possibile
-- *"Non tutto si può guarire, ma tutto può essere
-  curato"*
+- **Egocentrismo** → incapacità di assumere la prospettiva altrui · fino a ~8 anni
+- **Animismo** → oggetti inanimati percepiti come vivi
+- **Artificialismo** → tutto in natura = fatto dall'uomo
+- **Costanza dell'identità** → non comprende che l'identità resta malgrado cambiamenti esteriori
 
 ---
 
-## La tragedia greca
+## Stadio Operatorio Concreto
 
-- **5 tragedie** → Aiace · Andromaca · Agamennone ·
-  Le Troiane · Le Trachinie
-- **Tre tragediografi** →
-  - Eschilo: la follia viene dagli dèi (forza esterna)
-  - Sofocle: il tragico è la vita stessa
-  - Euripide: il tragico nasce dalle relazioni
-- **Catarsi** → far emergere ed elaborare emozioni
-  difficili attraverso la sofferenza altrui
-- **Esercizio pedagogico** →
-  leggere → condividere → sintetizzare → mettere in scena
+- **Conservazione** → proprietà costanti al variare della forma
+- **Décalage orizzontale** → capacità simili emergono in momenti diversi
+  - numero → peso → volume (in quest'ordine)
+
+---
+
+## Stadio Operatorio Formale
+
+- **Pensiero ipotetico-deduttivo** → ragionamento su ipotesi e possibilità astratte
+- Organizzazione sistematica delle conoscenze
+- No più bisogno di supporto concreto
+
+---
+
+## Pensiero Post-formale
+
+- **Kramer (1983)** → 3 caratteristiche:
+  - **Relativismo** → verità dipende dal contesto
+  - **Accettazione contraddizioni** → si tengono idee opposte
+  - **Integrazione** → sintesi di prospettive diverse
+- **Strassen Berger (2012)** → costellazione di stili di pensiero, non un vero quinto stadio
+
+---
+
+## Applicazioni nel lavoro educativo
+
+- Approccio **costruttivista**
+- Facilitare l'apprendimento (non dirigerlo)
+- Rispettare il livello cognitivo del bambino
+- Valutazioni continue
+- Aula → setting esplorativo
 
 ---
 
 ### Autori / Date / Riferimenti
 
-| Chi | Cosa | Quando |
+| Chi | Cosa | Fonte |
 |---|---|---|
-| Christopher Boorse | 7 condizioni della salute | 1977 |
-| Carol Ryff | 6 dimensioni del benessere | — |
-| Callieri & C. | Definizione di clinica | 1999 |
-| Tiziano Terzani | *L'ultimo giro di giostra* | — |
-| Nadia Murad | Attivista, Premio Nobel per la Pace | — |
-| Guidorizzi | Follia nella tragedia greca | 2010 |
+| **Jean Piaget** | Teoria degli stadi cognitivi | 1896–1980 |
+| **Deirdre Kramer** | Pensiero post-formale (3 caratteristiche) | 1983 |
+| **Strassen Berger K.** | Pensiero post-formale come costellazione | 2012 |
+| **Rollo D.** | Applicazioni pedagogiche di Piaget | 2017 |
+| **Miller P.** | Invarianti funzionali | 2016 |
+
+---
 
 ### Parole chiave
 
-`salute` · `benessere` · `normalità` · `disease`
-· `illness` · `sickness` · `Boorse` · `Ryff` ·
-`agentività` · `omeostasi` · `norma statistica`
-· `norma di valore` · `norma personale` ·
-`catarsi` · `guarigione` · `cura` · `to cure`
-· `to care` · `tragedia greca` · `clinica`
+`schema` · `assimilazione` · `accomodamento` · `equilibrazione` · `invarianti funzionali` · `stadio` · `sensomotorio` · `preoperatorio` · `operatorio concreto` · `operatorio formale` · `permanenza dell'oggetto` · `egocentrismo` · `animismo` · `artificialismo` · `conservazione` · `décalage orizzontale` · `pensiero ipotetico-deduttivo` · `pensiero post-formale`

@@ -1,122 +1,118 @@
-# Introduzione al modulo di Salute Mentale — Schema
-Salute Mentale · Sessione 01
-
-## Struttura del modulo
-
-- **Tre tappe** → clinica · mondo · corpo
-- **Quattro dimensioni trasversali** → spazio ·
-  tempo · identità · incontro
-- **Ruolo operatore sociale** → trait d'union
-  tra discipline specialistiche
+# Evoluzione storica e sviluppo psico-sociale secondo Erikson — Schema
+I Tempi della Vita · Sessione 01
 
 ---
 
-## Salute — 7 condizioni di Boorse (1977)
+## Evoluzione storica della disciplina
 
-- **Valore** → la desiderabilità non è universale
-- **Trattamento medico** → né necessario né
-  sufficiente per definire malattia
-- **Norma statistica** → fuori dalla media ≠ malato
-- **Sofferenza** → malattie asintomatiche e dolori
-  fisiologici esistono
-- **Disabilità** → non-abilità ≠ malattia (neonati,
-  sonno)
-- **Adattamento** → l'uomo adatta l'ambiente a sé,
-  non solo il contrario
-- **Omeostasi** → la vita richiede perdita e
-  riconquista continua di equilibrio
-
-⚠️ Nessuna condizione è sufficiente da sola
+- **Psicologia dell'età evolutiva** → sviluppo = infanzia + adolescenza (visione storica)
+- **Psicologia dello sviluppo** → sviluppo = intero arco della vita fino alla morte
+- **Gerontologia** → studio scientifico dell'invecchiamento e dell'età adulta avanzata
+- **Sviluppo** → processo di acquisizione di capacità crescenti tramite maturazione biologica + stimoli esterni
 
 ---
 
-## Disease / Illness / Sickness
+## Metafore dello sviluppo
 
-| Dimensione | Tipo | Riferimento |
-|---|---|---|
-| **Disease** | Biomedica | Parametri clinici |
-| **Illness** | Soggettiva | Vissuto personale |
-| **Sickness** | Sociale | Stigma / riconoscimento |
+- **Scala della vita** (inizio '900) → vita come scalinata; apice a 50 anni, poi declino
+  - Bambini e anziani fuori dalla scala (nessun ruolo sociale)
+  - Visione patriarcale (la donna sparisce dai 40 ai 60 anni)
+  - Simmetria forzata tra età (10 anni = 90 anni sullo stesso gradino)
 
-- Le tre dimensioni possono non coincidere
-- Lo stigma (*sickness* negativa) peggiora
-  l'andamento della malattia
+- **Metafora della collina** (prima metà '900) → ascesa → apice adulto → discesa
+  - Adultocentrica: bambino = adulto incompleto; anziano = adulto che ha perso competenze
 
----
-
-## Benessere — 6 dimensioni di Ryff
-
-- **Autonomia** → autodeterminazione senza
-  condizionamenti esterni
-- **Controllo ambientale** → valorizzare risorse
-  e possibilità
-- **Relazioni positive** → calore · fiducia ·
-  reciprocità
-- **Autoaccettazione** → consapevolezza qualità
-  e limiti
-- **Percezione di crescita** → vita come sviluppo
-  continuo
-- **Scopo nella vita** → mete e senso
-
-⚠️ Salute ≠ benessere (possono non coincidere)
+- **Metafora del fiume** (Schroors, 1998) → percorso unico, continuo, bidirezionale
+  - Affluenti → esperienze, apprendimenti, persone incontrate
+  - Ruscelli in uscita → ciò che si dona agli altri
+  - Piena → evento destabilizzante (trauma, crisi)
 
 ---
 
-## Normalità — 3 tipi
+## Life Span Psychology
 
-| Tipo | Definizione | Rischio |
-|---|---|---|
-| **Statistica** | Nella media della popolazione | Stigma per chi devia |
-| **Di valore** | Ideale da raggiungere | Irraggiungibile → sofferenza perpetua |
-| **Personale** | Rispetto al funzionamento precedente | Idealizzare il passato; la normalità precedente può essere la causa della malattia |
+- **Autore** → Paul Baltes (fine anni '70 – '80)
+- **Definizione** → approccio che enfatizza sviluppo e cambiamento sull'intero arco della vita, intrecciato con il contesto biologico, sociale, storico, culturale
+- **Contributi** → ampliamento oggetto di studio · valorizzazione studi longitudinali · rivisitazione guadagni/perdite
+
+### 7 Principi fondamentali
+
+| # | Principio |
+|---|-----------|
+| 1 | Sviluppo dura tutta la vita |
+| 2 | Multidimensionale e multidirezionale |
+| 3 | Caratterizzato da plasticità |
+| 4 | Implica guadagni e perdite (sempre entrambi) |
+| 5 | Processo interattivo (individuo ↔ ambiente) |
+| 6 | Calato nella realtà storica e culturale |
+| 7 | Multidisciplinare |
+
+### Metodi di ricerca
+
+- **Trasversale** → più gruppi a età diverse, stesso momento; rapido ma soggetto a differenze individuali
+- **Longitudinale** → stessa persona nel tempo; più fedele ma lento, rischio abbandono
 
 ---
 
-## Posizione del soggetto verso la malattia
+## Erik Erikson — teoria dello sviluppo psico-sociale
 
-|  | Non si identifica | Si identifica |
-|---|---|---|
-| **Agentivo** | Guarigione → eliminare la condizione | Cura → benessere dentro la condizione |
-| **Passivo** | Delega → "guariscimi" | Delega assistenziale |
+### Biografia essenziale
 
-- **To cure** → terapia: non sempre possibile
-- **To care** → cura del benessere: sempre possibile
-- *"Non tutto si può guarire, ma tutto può essere
-  curato"*
+| Dato | Dettaglio |
+|------|-----------|
+| Nato | 1902, Francoforte, come Eric Homburg |
+| Padre | Non conosciuto (figlio illegittimo) |
+| Crisi | Crisi d'identità → viaggia in Germania e Italia |
+| Vienna | Incontra Anna Freud → studia psicoanalisi |
+| 1933 | Boston → primo psicanalista infantile della città |
+| Nome | Si sceglie "Erik Erikson" con la nazionalità americana |
+| Morto | 1994 |
+
+### Basi della teoria
+
+- **Integra** la teoria freudiana con una **dimensione psicosociale**
+- **Maturazione fisica** → nuove possibilità + nuove richieste sociali
+- **Cicli vitali** → ingranaggio: bambino (bisogno di cure) ↔ adulto (bisogno di dare cure)
+- **Metodo** → osservazione diretta · confronti tra culture · psicobiografie
+
+### Meccanismo degli stadi — regola centrale
+
+- Ogni stadio → **conflitto bipolare** (polo + vs. polo −)
+- **Sviluppo ottimale** → uscire sbilanciati sul polo +, **integrando la parte utile del polo −**
+- Recupero sempre possibile nelle fasi successive (visione ottimista)
 
 ---
 
-## La tragedia greca
+## Gli 8 stadi
 
-- **5 tragedie** → Aiace · Andromaca · Agamennone ·
-  Le Troiane · Le Trachinie
-- **Tre tragediografi** →
-  - Eschilo: la follia viene dagli dèi (forza esterna)
-  - Sofocle: il tragico è la vita stessa
-  - Euripide: il tragico nasce dalle relazioni
-- **Catarsi** → far emergere ed elaborare emozioni
-  difficili attraverso la sofferenza altrui
-- **Esercizio pedagogico** →
-  leggere → condividere → sintetizzare → mettere in scena
+| Stadio | Età | Polo + | Polo − | Integrazione ottimale |
+|--------|-----|--------|--------|-----------------------|
+| 1 | 0-1 anno | Fiducia | Sfiducia | Mi fido di chi mi cura, ma non di tutti ciecamente |
+| 2 | 1-3 anni | Autonomia | Vergogna e dubbio | Sperimento ma tollero la frustrazione |
+| 3 | 3-5 anni | Iniziativa | Senso di colpa | Propongo, accetto il no, mi assumo responsabilità |
+| 4 | 6-10 anni | Industriosità | Inferiorità | La difficoltà mi stimola; riconosco i miei punti di forza |
+| 5 | Adolescenza | Identità | Confusione dei ruoli | Esploro ruoli diversi senza percorso imposto |
+| 6 | Fase giovanile | Intimità | Isolamento | Relazioni profonde mantenendo spazi propri |
+| 7 | Età adulta | Creatività | Stagnazione | Trasmetto alle generazioni future (non solo come genitore) |
+| 8 | Età senile | Integrità dell'Io | Disperazione | Accetto anche ciò che non ho realizzato, integrandolo |
 
 ---
 
 ### Autori / Date / Riferimenti
 
 | Chi | Cosa | Quando |
-|---|---|---|
-| Christopher Boorse | 7 condizioni della salute | 1977 |
-| Carol Ryff | 6 dimensioni del benessere | — |
-| Callieri & C. | Definizione di clinica | 1999 |
-| Tiziano Terzani | *L'ultimo giro di giostra* | — |
-| Nadia Murad | Attivista, Premio Nobel per la Pace | — |
-| Guidorizzi | Follia nella tragedia greca | 2010 |
+|-----|------|--------|
+| Belsky J. | Psicologia dell'età evolutiva: studio dalla nascita all'adolescenza | 2018 |
+| Barone L. | Psicologia dello sviluppo: cambiamenti sistematici sull'intera vita | 2018 |
+| Castelli C. & Sbattella F. | Definizione di sviluppo (maturazione biologica + stimoli esterni) | 2008 |
+| Schroors | Metafora del fiume | 1998 |
+| Paul Baltes | Life Span Psychology | fine anni '70-'80 |
+| Palmonari A. | Definizione Life Span Psychology | 2011 |
+| Erik Erikson | Teoria degli 8 stadi dello sviluppo psico-sociale | 1902-1994 |
+| Miller P.H. | Teorie dello sviluppo psicologico | 2019 |
+
+---
 
 ### Parole chiave
 
-`salute` · `benessere` · `normalità` · `disease`
-· `illness` · `sickness` · `Boorse` · `Ryff` ·
-`agentività` · `omeostasi` · `norma statistica`
-· `norma di valore` · `norma personale` ·
-`catarsi` · `guarigione` · `cura` · `to cure`
-· `to care` · `tragedia greca` · `clinica`
+`psicologia dello sviluppo` · `gerontologia` · `life span psychology` · `plasticità` · `guadagni e perdite` · `metafora del fiume` · `metafora della collina` · `studio trasversale` · `studio longitudinale` · `conflitto bipolare` · `polo positivo` · `polo negativo` · `sviluppo ottimale` · `Erik Erikson` · `8 stadi` · `generatività` · `creatività` · `integrità dell'Io` · `psicobiografia`

@@ -1,352 +1,271 @@
-# Introduzione al modulo di Salute Mentale
-Salute Mentale · Sessione 01 · 18.02.2026
+# L'Anzianità: psicologia, sociologia e invecchiamento
+I tempi della vita · Sessione 09–14 · Docenti: C. Campello, S. Cavalli
 
-> Questa prima lezione mette sul tavolo le fondamenta
-> di tutto il modulo: che cos'è davvero la salute?
-> Cos'è il benessere? E la normalità? Spoiler: nessuna
-> di queste domande ha una risposta semplice — e
-> proprio da qui parte il bello. Si parla anche della
-> tragedia greca come strumento per avvicinarsi alla
-> sofferenza umana. Roba potente, vedrai.
+> Questa sessione è densa ma affascinante. Parliamo di anzianità da due angolazioni — psicologica e sociologica — e la conclusione è sempre la stessa: l'anziano "standard" non esiste. Ogni persona invecchia in modo unico, e capirlo fa tutta la differenza nel lavoro sociale.
 
 ---
 
-## Il modulo: struttura e filosofia
+## 1. La psicologia dell'invecchiamento — nascita di una disciplina
 
-Il modulo di Salute Mentale si articola su **tre
-tappe fondanti**, ispirate alla scuola fenomenologica:
+La **psicologia dell'invecchiamento** è una disciplina giovane: compare nella letteratura scientifica solo negli **anni '80** del Novecento. Birren e Schroots (1996) propongono tre branche distinte:
 
-1. **La clinica** — l'universo dell'incontro con
-   chi soffre. Si esplorano i concetti di salute
-   e malattia, normalità e patologia, l'incontro
-   empatico con l'altro e i meccanismi di difesa.
+- **Psicologia dell'invecchiamento** → studia i cambiamenti comportamentali nel corso della vita (prospettiva life-span)
+- **Psicologia della vecchiaia** → si concentra sui problemi biologici, sociali e psicologici di questa fase
+- **Psicologia delle differenze d'età** → confronta gruppi di età diversi (giovani vs adulti vs anziani vs grandi vecchi)
 
-2. **Il mondo** — le funzioni psichiche e le loro
-   alterazioni (coscienza, percezione, pensiero,
-   affettività...), per poi passare alla dimensione
-   nosografica: sindromi affettive, ansiose, nevrosi,
-   disturbi di personalità, psicosi.
-
-3. **Il corpo** — teatro della sofferenza: violenza,
-   aggressività, dimensioni anoressico-bulimiche,
-   sessualità come luogo di disagio, alessitimia.
-
-Queste tre tappe sono attraversate da quattro
-dimensioni esistenziali: **spazio, tempo, identità
-e incontro**. La clinica va calata in uno spazio
-e in un tempo, l'identità va declinata nella
-relazione, e prima della relazione viene l'incontro
-— senza il quale la relazione non sussiste.
-
-Il prof sottolinea un punto chiave: l'operatore
-sociale non è un tecnico di una sola disciplina,
-ma un **trait d'union** tra le specializzazioni.
-Per questo serve una conoscenza delle aree
-psicopatologiche — non per fare diagnosi, ma per
-comunicare con le altre figure professionali e
-per accompagnare la persona nella sua interezza.
+Pensa a queste tre branche come alle radici principali, secondarie e ai peli radicali di un albero: nascono dallo stesso tronco ma si sviluppano in direzioni diverse per nutrire angolature di studio differenti.
 
 ---
 
-## Salute, benessere, normalità: tre concetti
-da non confondere
+## 2. Le tre teorie classiche dello stile di vita nell'anzianità
 
-Uno dei messaggi centrali della lezione: **salute,
-benessere e normalità sono tre cose diverse** che
-spesso vengono confuse o sovrapposte. Vediamole
-una per una.
+Verso la metà del XX secolo i ricercatori iniziano a chiedersi: come invecchia bene una persona? Nascono tre teorie, ognuna con i suoi punti di forza e le sue critiche.
 
-### Salute: più complessa di quanto sembra
+### 2.1 Teoria del disimpegno — Cumming e Henry (1961)
 
-Il prof parte da una domanda semplice: "Chi di voi
-sta bene?" Poi mostra quanto sia difficile rispondere.
-Due paradigmi diversi: puoi andare a fare gli esami
-del sangue e la TAC (approccio biomedico, *disease*),
-oppure puoi rispondere "mi sento bene" senza nessun
-esame (approccio soggettivo, *illness*). Non sono la
-stessa cosa.
+> «Durante l'invecchiamento si assiste a un ritiro dalle interazioni sociali e a un'alterazione della qualità delle relazioni interpersonali.»
 
-Introduce il lavoro di **Christopher Boorse (1977)**,
-che nel suo articolo ha tentato di definire la salute
-esaminando sette possibili condizioni — dimostrando
-che **nessuna da sola regge**:
+L'idea: l'anziano si prepara alla morte allontanandosi dalla società, e la società a sua volta prende distanza dall'anziano. Un processo reciproco e — secondo questa teoria — "normale".
 
-| Condizione | Perché non basta |
+**Critiche:**
+- Giustificherebbe l'abbandono degli anziani
+- Le ricerche successive dimostrano il contrario: mantenere relazioni sociali attive è correlato positivamente al benessere psicologico
+
+Ma attenzione: a volte gli anziani si allontanano da certi contesti sociali non per scelta, ma per difficoltà pratiche. Esempio concreto dalla lezione: molti anziani smettono di andare al ristorante perché con l'ipoacusia (riduzione dell'udito) in ambienti rumorosi non riescono a seguire le conversazioni, si sentono in imbarazzo, e quindi evitano quel contesto. Non è disimpegno volontario — è una barriera.
+
+### 2.2 Teoria dell'attività — Havinghurst e Dreer (1963)
+
+L'opposto esatto: per invecchiare bene bisogna **mantenere le proprie attività e attitudini**. Se si smette di lavorare, si compensa con attività equivalenti.
+
+**Critiche:**
+- Troppo centrata sul modello "adulto attivo" — come se l'anziano dovesse continuare a comportarsi da adulto di mezza età
+- Non tiene conto delle differenze di personalità: c'è chi non vede l'ora di andare in pensione, e c'è chi senza lavoro cade in crisi depressiva
+
+### 2.3 Teoria della continuità — Atchley (1976)
+
+Il tentativo di mediare: l'anziano dovrebbe mantenere il livello di attività che aveva **nell'immediato periodo pre-pensionamento**, evitando rotture brusche.
+
+**Critiche:**
+- Richiede buona salute e inserimento sociale elevato
+- Nella vita moderna non c'è più quella linearità (formazione → lavoro → pensione) su cui si basava
+
+Queste tre teorie vanno sempre lette nel loro contesto storico: sono state elaborate in un'epoca molto diversa dalla nostra.
+
+---
+
+## 3. L'eterocronia: invecchiare in modo diverso
+
+Concetto fondamentale (Moser, Pezzati, Luban-Plozza, 2002): l'invecchiamento non è solo biologico, ma è influenzato da stile di vita e contesto sociale.
+
+- **Eterocronia inter-personale** → due persone della stessa età anagrafica possono essere in condizioni di funzionamento molto diverse
+- **Eterocronia intra-personale** → la stessa persona può invecchiare a ritmi diversi nelle sue diverse dimensioni (fisico vs cognitivo)
+
+Esempio pratico dalla lezione: un signore over 80 che dopo un intervento chirurgico non riesce temporaneamente a fare la doccia da solo. Cognitivamente brillante, aveva diretto un'azienda per decenni — ma fisicamente dipendeva da altri per l'igiene quotidiana. Questo vissuto era per lui devastante. È l'eterocronia intra-personale in azione, e il lavoratore sociale deve saperla riconoscere per non trattare quella persona come se avesse anche difficoltà cognitive.
+
+---
+
+## 4. Le quattro "età" dell'essere umano
+
+Balducci (1990) propone quattro età, **correlate ma indipendenti** tra loro:
+
+| Tipo di età | Cosa misura |
 |---|---|
-| **Salute come valore** | Non tutto ciò che è desiderabile è salute; ci sono contesti dove non essere in salute può essere preferibile (es. durante guerre) |
-| **Malattia come ciò che il medico cura** | La medicina ha "colonizzato" ambiti non patologici (gravidanza, adolescenza); molte malattie non vengono trattate |
-| **Salute come norma statistica** | Fuori dalla media ≠ malattia (l'omosessualità è stata classificata come patologia a lungo) |
-| **Malattia come sofferenza** | Malattie asintomatiche e dolori normali (ciclo mestruale, coliche neonatali, dentizione) |
-| **Malattia come disabilità** | Tutti attraversiamo fasi di "non abilità" (un neonato non cammina, ma non è malato) |
-| **Salute come adattamento** | L'essere umano adatta anche l'ambiente a sé. Pensate alle neurodivergenze: a volte è l'ambiente che va cambiato |
-| **Salute come omeostasi** | Il funzionamento umano si basa su un continuo perdere e riacquistare equilibrio. L'equilibrio statico è rigidità |
+| **Età anagrafica** | Anni dalla nascita |
+| **Età somatica** | Stato di salute fisico, indicatore della speranza di vita |
+| **Età cerebrale** | Funzionamento cognitivo |
+| **Età mentale** | Come la persona si percepisce soggettivamente |
 
-L'ultimo punto merita attenzione. Il prof insiste:
-**l'equilibrio statico non è salute, è rigidità**.
-La metafora è bellissima: camminare richiede di
-rompere continuamente l'equilibrio. Per fare un
-passo devi sbilancarti. La vita è movimento, e il
-movimento richiede di perdere e ritrovare l'equilibrio.
-"Le persone troppo equilibrate sono spesso molto
-rigide, poco disposte a rischiare."
-
-> *"Non c'è movimento senza perdere l'equilibrio,
-> e siccome la vita è costante movimento, occorre
-> mettersi nell'ottica di capire e accompagnare
-> la perdita e la riconquista dell'equilibrio —
-> non impedirla."*
-> — Il professore
-
-### La triade anglosassone: disease, illness, sickness
-
-Per ordinare le idee sulla salute, il prof introduce
-la distinzione in tre dimensioni:
-
-- **Disease** — la malattia in senso biomedico,
-  misurabile (esami, parametri clinici)
-- **Illness** — il vissuto soggettivo: come la
-  persona *si sente*
-- **Sickness** — la dimensione sociale: come la
-  società riconosce (o stigmatizza) quella condizione
-
-Queste tre dimensioni **possono non coincidere**.
-Una malattia può essere tale per il medico (disease)
-ma non vissuta come tale dal soggetto (illness),
-oppure può essere vista dalla società come un vizio
-(sickness negativa) anche se è una malattia vera.
-
-Questo è importante per il lavoro sociale: lo sguardo
-della società su una condizione ha effetti reali sul
-benessere della persona. Se hai una malattia che viene
-giudicata come "vizio" o "colpa", la stigmatizzazione
-peggiora tutto — come mostrava già il racconto
-di apertura della lezione.
+L'età mentale è la più sottovalutata ma spesso la più significativa. Dalla ricerca **SWISS100** (studio sui centenari in Svizzera, Cavalli et al., 2020-2025): quando veniva chiesto ai centenari "quando si è sentita diventare vecchia?", la **mediana delle risposte era 98 anni**. Molti non si sentivano ancora vecchi a 101, 102, 104 anni. Una signora di 103 anni si è sentita "vecchia" solo quando ha capito che non avrebbe potuto più camminare come prima.
 
 ---
 
-## Il benessere: un concetto multidimensionale
+## 5. I cambiamenti di ruolo nell'anzianità
 
-**Salute e benessere non coincidono.** Il prof porta
-l'esempio di **Tiziano Terzani** e del suo libro
-*L'ultimo giro di giostra*: un giornalista gravemente
-malato di cancro che attraverso la malattia ha trovato
-una pace e una ricchezza interiore che non aveva quando
-stava "bene". Paradossale? No, profondamente umano.
+L'anzianità comporta profonde trasformazioni nei ruoli sociali:
 
-Il benessere è un concetto **polisemico e
-multidimensionale**. **Carol Ryff** è una psicologa
-che ha risposto alla domanda: "Quando diciamo che
-una persona sta bene, di *cosa* esattamente stiamo
-parlando?" La risposta: di sei dimensioni distinte.
-
-| Dimensione | Cosa significa in concreto |
-|---|---|
-| **Autonomia** | Capacità di determinarsi senza dipendere dagli altri per le proprie scelte |
-| **Controllo ambientale** | Capacità di cogliere, sfruttare e valorizzare le risorse e le possibilità disponibili |
-| **Relazioni positive** | Avere relazioni calde, fiduciose, contraddistinte da affetto e reciprocità |
-| **Autoaccettazione** | Consapevolezza delle proprie qualità e limiti, senza negare né l'uno né l'altro |
-| **Percezione di crescita** | Sentire che la propria vita è un processo continuo di sviluppo |
-| **Scopo nella vita** | Avere mete, riuscire a dare senso a ciò che si fa |
-
-Questo modello è prezioso per l'operatore sociale
-perché rende il lavoro sul benessere **concreto**.
-Invece di un generico "lavoro per il benessere",
-puoi esplorare *quale* dimensione è più critica
-e intervenire lì. Il prof fa un esempio: se lavori
-sull'autonomia di qualcuno (aiutarlo a fare scelte
-proprie), quello starà meglio — anche senza sapere
-perché. Il prodotto è quello che conta.
-
-Se in un momento la persona non riesce a lavorare
-sulle relazioni, si compensa sulle altre dimensioni.
-È un gioco di variabili, non tutto insieme.
-
-Il prof aggiunge: **vale anche per noi**, non solo
-per i nostri utenti. Se guardiamo indietro alla
-nostra vita e vediamo solo disastri, non stiamo bene.
-Se riusciamo a vedere crescita e senso, anche nelle
-difficoltà, il benessere aumenta.
+- **Pensionamento** → evento marcatore fondamentale. In Svizzera avviene spesso in modo abbastanza brusco. Il lavoro non è solo sostentamento: struttura il tempo, costruisce l'identità, offre relazioni e senso di appartenenza.
+- **Ruolo di nonni** → storicamente sottovalutato, rivalutato soprattutto durante il COVID quando le famiglie avevano bisogno di supporto. Secondo Belsky, i nonni fungono da **guardiani della famiglia**: intervengono nelle crisi, fanno da mediatori, sono il "cemento" che tiene unita la rete famigliare. Le nonne svolgono un ruolo evolutivo di accudimento dei nipoti — in alcune culture tradizionali sono la principale figura di cura.
+- **Ruolo di coppia** → cambia radicalmente. La coppia che prima si vedeva solo mattina e sera si ritrova insieme tutta la giornata. Va rinegoziato l'equilibrio.
+- **Abbandono della patente** → nelle interviste del Centro competenze anziani SUPSI, questo emerge come **evento marcatore** dell'ingresso nell'anzianità, paragonabile per impatto all'entrata in casa anziani. Perdere la patente significa perdere autonomia e spesso anche la rete sociale: non puoi più andare a prendere il nipote all'asilo, non puoi più raggiungere le amiche. Una signora intervistata: "Non posso più andare a trovare le mie amiche. Tanti sono anziani e non hanno neanche loro la macchina. Prima andavo da loro, loro venivano da me, facevo il caffè, andavamo al bar. Adesso ognuno è a casa sua."
 
 ---
 
-## La normalità: quale normalità?
+## 6. L'identità di luogo (Place Identity)
 
-Il prof introduce tre tipi di normalità — tutti
-rilevanti per il lavoro con le persone.
+Proshansky (1978) descrive la **place identity** come quella parte dell'identità personale che deriva dai luoghi in cui si vive.
 
-### 1. Norma statistica
+Più uno spazio è congruente con la personalità, più forte è l'attaccamento. I luoghi non sono solo contenitori fisici: contengono emozioni, ricordi, la possibilità di rielaborare la propria biografia.
 
-La "normalità" come conformità alla media della
-popolazione. Sembra neutro, ma non lo è: essere
-fuori dalla norma statistica può provocare stigma,
-isolamento, discriminazione. L'omosessualità è stata
-a lungo classificata come patologia proprio su base
-statistica — e solo quando la comunità scientifica
-ha cambiato i criteri ne è uscita.
+I bisogni psicologici alla base di questo attaccamento:
+- **Identità** → il luogo mi dice chi sono
+- **Continuità** → il luogo connette passato e presente
+- **Controllo** → in questo spazio posso agire autonomamente
+- **Autoprotezione** → il luogo è sicuro e familiare
 
-Il contesto è fondamentale: qualsiasi comportamento,
-senza contesto, può sembrare "anormale".
-
-### 2. Norma di valore (ideale)
-
-Uno standard ideale che si pone come riferimento.
-Se il mio ideale è un certo tipo di corpo, starò
-male finché non ci corrispondo. Ed è un ideale
-*irraggiungibile*, quindi la sofferenza è perpetua.
-
-**Attenzione**: la norma ideale incide anche sugli
-operatori. Abbiamo ideali su come dovrebbe essere
-un utente, come dovrebbe comportarsi, cosa dovrebbe
-raggiungere. Se quella norma ideale diventa il metro
-di lavoro, rischia di diventare penalizzante per
-la relazione.
-
-### 3. Norma personale (individuale)
-
-La normalità *rispetto a come funzionavo prima*.
-Se mi rompo una gamba, non sono più "normale" rispetto
-al mio funzionamento precedente. Questa dimensione
-è importante clinicamente: capire com'era il soggetto
-prima dell'evento permette di comprendere il
-cambiamento.
-
-Ma il prof aggiunge un avvertimento cruciale:
-**la normalità personale non è sempre da riconquistare**.
-A volte è proprio quella "normalità" precedente che
-ha causato il problema. Esempio: "Lavoravo 10 ore
-al giorno, gestivo tutto, poi mi sono ammalato —
-voglio tornare come prima." Forse no. Se torni come
-eri prima, tra un mese ci rivediamo peggio.
-
-C'è anche il rischio di **idealizzare il passato**:
-"Prima stavo bene" — ma siamo sicuri? O è solo che
-in confronto a oggi sembra il paradiso?
+Nell'anzianità questo diventa critico quando arriva il trasferimento in casa anziani. Rendere quel nuovo spazio "proprio" — portare i propri mobili, i propri oggetti — non è capriccio, è una necessità psicologica profonda.
 
 ---
 
-## La posizione del soggetto davanti alla malattia
+## 7. L'invecchiamento cognitivo
 
-L'ultima parte della lezione introduce un modello
-pratico a due assi per capire come il soggetto si
-pone rispetto alla propria condizione.
+L'**invecchiamento cognitivo** è il decadimento dell'efficienza intellettiva che avviene con l'età. Va distinto tra:
 
-**Asse 1 — Identificazione:**
-- *Non mi identifico* con la malattia: "Io non sono
-  la mia malattia, è qualcosa di estraneo"
-- *Mi identifico*: "La mia condizione fa parte di me"
+- **Deterioramento fisiologico** → normale, legato all'età
+- **Deterioramento patologico** → non inevitabile, richiede intervento
 
-**Asse 2 — Agentività** (termine tecnico dal greco):
-- *Agentivo* (attivo): affronto la situazione,
-  mi muovo, cerco alleati
-- *Passivo*: subisco, aspetto che qualcuno intervenga
+Non tutte le funzioni cognitive declinano allo stesso modo: alcune restano stabili, altre addirittura migliorano.
 
-Incrociando i due assi si ottengono quattro posizioni:
+### 7.1 Il modello bifattoriale di Cattell (1963)
 
-| | Non si identifica | Si identifica |
+Due tipi di intelligenza con traiettorie diverse:
+
+- **Intelligenza fluida** → capacità di adattarsi a situazioni nuove, ragionare velocemente su sfide inedite. Dipende dalla biologia del sistema nervoso → **picco a 20-30 anni**, poi declina gradualmente
+- **Intelligenza cristallizzata** → conoscenze e capacità accumulate con l'esperienza → **continua a crescere fino alla mezza età inoltrata**, poi inizia a declinare dopo i 60
+
+Questo spiega molte differenze pratiche: un controllore del traffico aereo (lavoro ad alta richiesta di velocità e flessibilità) può sentirsi "vecchio" a 40 anni; un professore universitario o un dirigente d'azienda — dove contano l'esperienza e la conoscenza accumulata — raggiunge il picco professionale intorno ai 60. Come dimostra il **Seattle Longitudinal Study** (Schaie et al.): i punteggi nei test di vocabolario crescono oltre i 60 anni, quelli di fluidità verbale calano già verso i 40-50.
+
+### 7.2 Il modello di Baltes: mechanics vs pragmatics
+
+Paul Baltes (adattato da De Beni, 2009) distingue due dimensioni:
+
+| Dimensione | Cosa comprende | Andamento |
 |---|---|---|
-| **Passivo** | **Delega**: "Faccia lei, risolva lei" | Passivo nella propria condizione |
-| **Agentivo** | **Guarigione**: combatte per eliminare la condizione | **Cura**: lavora sul proprio benessere dentro la condizione |
+| **Mechanics of cognition** | Ragionamento, memoria, orientamento spaziale, velocità percettiva | Declino precoce e rapido |
+| **Pragmatics of cognition** | Abilità verbali e numeriche | Stabile/in aumento fino a 60-70 anni, poi declino in età avanzata |
 
-Il passaggio chiave: quando il soggetto si identifica
-con la propria condizione e diventa agentivo, il
-paradigma passa dalla **guarigione** alla **cura**.
-Non si tratta più di eliminare la malattia (che a
-volte non è possibile), ma di aumentare il benessere
-*dentro* la condizione.
+### 7.3 I tre processi di declino cognitivo
 
-> *"Non tutto si può guarire. Ma tutto può essere
-> curato."*
-> — Il professore
+Con l'invecchiamento si osservano:
+1. **Diminuzione della velocità di processamento** delle informazioni
+2. **Diminuzione delle risorse disponibili** per l'elaborazione
+3. **Diminuzione dell'efficienza dei processi inibitori** (difficoltà a filtrare gli stimoli irrilevanti)
 
-La differenza tra *to cure* (terapia) e *to care*
-(cura) è fondamentale per il lavoro sociale: la
-terapia non è sempre possibile, ma la cura — nel
-senso di prendersi cura del benessere della persona
-— è sempre praticabile.
+### 7.4 Il modello SOC — Successful Aging (Baltes)
 
-Nella realtà le persone si muovono tra i quadranti,
-soprattutto all'inizio della malattia. L'operatore
-accompagna questo movimento.
+Baltes propone un modello psicologico dell'invecchiamento di successo basato su tre strategie: **Selezione, Ottimazione, Compensazione** (SOC).
+
+- **Selezione** → la persona anziana seleziona le attività che contano davvero, lascia perdere quelle marginali
+- **Ottimazione** → investe più tempo ed energia nelle attività selezionate
+- **Compensazione** → supplisce alle capacità ridotte usando capacità ancora integre o aiuti esterni
+
+Esempio pratico: un appassionato di cucina over 50 smette di giocare a tennis (selezione), si concentra sulle ricette elaborate (ottimazione), inizia a sedersi in cucina invece di stare in piedi ore, o chiede agli ospiti di portare antipasto o dolce (compensazione).
+
+> «Secondo Baltes, se non comprendiamo le peculiarità della fase della vita in cui ci troviamo, ne sperimentiamo solo gli svantaggi.»
+
+### 7.5 La riserva cognitiva (Stern, 2009)
+
+Costruzione teorica che descrive le differenze individuali nella **resistenza al declino cognitivo**. Chi ha più riserva cognitiva resiste meglio al deterioramento.
+
+Fattori che la costruiscono:
+- Livello di istruzione
+- Tipo di occupazione svolta nella vita
+- Abilità cognitiva generale
+- Impegno in attività cognitivamente, socialmente e fisicamente stimolanti
+
+Come allenare un muscolo per anni: costruisce riserve a cui attingere in età avanzata. Una vita di stimolazione mentale e sociale è il miglior investimento per il cervello.
 
 ---
 
-## La tragedia greca: passioni e follia
+## 8. La prospettiva sociologica: quattro idee forti (Cavalli)
 
-Parallelamente allo studio teorico, il modulo
-include un lavoro su **cinque tragedie greche**.
+Il prof. Cavalli (SUPSI, 16 dicembre 2025) presenta una visione sociologica dell'anzianità attraverso quattro domande chiave.
 
-### Perché la tragedia?
+### 8.1 L'invecchiamento è sinonimo di perdite e declino?
 
-La tragedia greca nasce insieme alla medicina antica
-(Ippocrate) e mette in scena la sofferenza umana —
-quella difficile da spiegare e a volte da comprendere.
-Assistere alla tragedia faceva emergere emozioni e
-sentimenti che, attraverso la **catarsi**, potevano
-uscire e liberare.
+Fino agli anni '60-'70 dominava il **modello a forma di arco**: crescita → picco → declino. Invecchiare significava decadenza, impoverimento, isolamento, "morte sociale".
 
-La tragedia parla dei **confini dell'umano**: la
-morte, la malattia, la follia. Il prof distingue
-gli approcci dei tre grandi tragediografi:
+Oggi sappiamo che questa visione è errata. La psicologia **life-span** (Baltes, 1987) afferma che a tutte le età ci sono sia guadagni che perdite.
 
-- **Eschilo** — il più arcaico: la follia arriva
-  dagli dèi, è una forza esterna che schiaccia
-- **Sofocle** — il tragico non arriva dagli dèi,
-  è la vita stessa che è tragica
-- **Euripide** — il più moderno: il tragico nasce
-  dalle relazioni tra le persone
+Lo studio **CEVI** (ricerca internazionale condotta in 15 paesi, coordinata da Cavalli) chiede ad adulti di diverse età come valutano i cambiamenti recenti nella loro vita:
+- Fino agli 80 anni, i **guadagni superano nettamente le perdite**
+- Dopo gli 80 le perdite prendono il sopravvento (Heckhausen et al., 1989)
+- Ma anche a 65 anni c'è sostanziale equilibrio tra guadagni e perdite
+- Il dato è abbastanza universale — con variazioni culturali interessanti
 
-A secoli di distanza, la tragedia "resta fedele
-a se stessa" — perché tocca qualcosa di profondo
-nell'umano che non cambia nei secoli.
+**Prima conclusione: l'invecchiamento non è un processo unidirezionale di perdite.**
 
-### L'esercizio pedagogico
+### 8.2 Di quante tappe è composta l'anzianità?
 
-Gli studenti sono divisi in **5 gruppi**, ciascuno
-con una tragedia assegnata per estrazione. Il lavoro
-prevede:
+Con l'introduzione dei sistemi pensionistici (AVS in Svizzera: 1948), nasce il modello di percorso di vita in **tre fasi**: formazione → lavoro → pensione.
 
-1. **Leggere** la tragedia — esporsi a un linguaggio
-   non familiare della sofferenza, proprio come
-   accade quando si incontra un paziente che parla
-   una "lingua" diversa dalla nostra
-2. **Condividere** nel gruppo — cosa ti ha parlato?
-   Quali temi ti hanno colpito?
-3. **Sintetizzare** — trovare un messaggio comune,
-   con le inevitabili rinunce individuali (esercizio
-   di équipe reale)
-4. **Andare in scena** — non uno "spettacolino",
-   ma portare temi salienti a una platea
+Nella seconda metà del '900 qualcosa cambia: la speranza di vita aumenta drammaticamente (in Svizzera: da 65 anni nel 1945 a 82-86 anni oggi), migliora la salute degli anziani, cambiano i significati del pensionamento. La pensione non è più solo "riposo meritato" ma "libertà, tempo per sé, seconda giovinezza".
 
-Il prof insiste: quello che deve arrivare al pubblico
-deve essere *vero* — deve essere passato attraverso
-l'umanità di chi lo porta in scena. Se non c'è quella
-verità, si sente.
+Si crea una **dissociazione progressiva** tra uscita dal lavoro e ingresso nella vecchiaia. Nasce la **terza età** (Laslett, 1992): il periodo tra pensionamento e vera vecchiaia. Il modello diventa a quattro fasi:
 
-### Le tragedie di quest'anno
+| Fase | Caratteristiche | Transizione |
+|---|---|---|
+| Formazione | Apprendimento | → Lavoro |
+| Lavoro | Produzione, costruzione | → Pensionamento |
+| **Terza età** | Attivi, sani, autonomi, "giovani anziani" | → Fragilizzazione |
+| **Quarta età** | Processo di fragilizzazione, grandi anziani | → Fine vita |
 
-Le docenti hanno scelto — indipendentemente —
-tragedie che convergono su un tema comune: la
-**violenza sulle donne nei conflitti armati**.
+### 8.3 Come definire la quarta età? Il problema dell'età anagrafica
 
-- **Agamennone** (Eschilo) — Cassandra, prigioniera
-  di guerra e bottino sessuale
-- **Le Troiane** (Euripide) — Ecuba, Cassandra,
-  Andromaca: tre donne schiavizzate dopo la caduta
-  di Troia
-- **Andromaca** (Euripide) — la vittima di guerra
-  per eccellenza
-- **Le Trachinie** (Sofocle) — donne umiliate
-  e "rese mute" dalla violenza
-- **Aiace** (Sofocle) — la fragilità dietro
-  l'eroismo apparente
+Usare l'età anagrafica per definire "anziano" o "a rischio" è **comodo ma problematico**:
 
-Il prof collega esplicitamente queste storie ai dati
-odierni sulla violenza sessuale nei conflitti armati
-(Congo, Iraq, Rwanda), citando **Nadia Murad**,
-Premio Nobel per la Pace e sopravvissuta alla
-schiavitù sessuale dell'ISIS. La tragedia greca
-non è storia lontana: è cronaca con un linguaggio
-di 2500 anni fa.
+**Pro:**
+- Facilmente misurabile
+- Informazione accessibile a tutti
+
+**Contro:**
+- Soglia arbitraria (non esiste evoluzione biologica con soglie precise)
+- Ignora le enormi differenze tra individui
+- Può portare a stigmatizzazione
+
+**Caso emblematico — COVID-19 in Ticino:**
+- 13 marzo 2020: "persone a rischio = persone dai 65 anni"
+- 20 marzo 2020: "gli over 65 vadano un attimo in letargo" (dichiarazione pubblica di un funzionario)
+- 21 marzo 2020: divieto di fare la spesa per gli over 65
+
+Questo episodio mostra come categorizzare le persone per età anagrafica possa ledere la dignità e creare stigma, trattando un gruppo eterogeneo come un blocco omogeneo. La ricerca **"Dignità, anziani e COVID-19"** (Cavalli et al., 2021) ha indagato come gli anziani ticinesi hanno vissuto queste misure.
+
+### 8.4 Fragilità e fragilizzazione (Lalive d'Epinay & Spini, 2008)
+
+La quarta età si definisce meglio attraverso il concetto di **fragilità**:
+
+- **Fragilizzazione** → processo progressivo (o a volte repentino) ma inevitabile di riduzione delle riserve fisiologiche e sensorimotorie con l'avanzare dell'età
+- **Fragilità** → la fragilizzazione raggiunge un livello tale da compromettere la capacità di mantenere l'equilibrio con l'ambiente o di ristabilirlo dopo eventi avversi
+
+Come dice il commissario Montalbano (citazione di Camilleri, usata da Cavalli):
+> «Fino a un certo giorno della tua vita, scivoli, cadi, ti rialzi e non ti sei fatto niente. Invece poi arriva il giorno che scivoli, cadi e non puoi più rialzarti perché ti sei rotto il femore. Che è capitato? È capitato che hai varcato il confine invisibile da un'età all'altra.»
+
+### 8.5 Gli anziani di oggi sono uguali a quelli di ieri (e di domani)?
+
+No. L'invecchiamento è influenzato dal **contesto storico-sociale**: gli eventi vissuti in gioventù, la generazione di appartenenza, i tempi storici attraversati. Il **Diagramma di Lexis** (strumento demografico usato da Cavalli) rappresenta visivamente come le traiettorie di vita si inseriscano nel flusso della storia.
+
+**Il ritratto dell'anziano di domani** (Cavalli & Corna, 2020 — rapporto per il DSS del Canton Ticino):
+- Appartiene al **baby boom** → molto numeroso, prevalentemente femminile
+- Più istruito → la correlazione tra istruzione e salute è documentata
+- Situazione economica relativamente migliore, ma con sacche di povertà persistente
+- Background migratorio sempre più diffuso (Balcani, Portogallo, Sud del mondo)
+- Vivrà più a lungo in coppia tra i grandi anziani, ma con maggiori separazioni/divorzi tra i giovani anziani
+- Meno figli rispetto agli anziani di oggi
+- Più attivo, connesso tecnologicamente, aperto a temi come sessualità in età avanzata e autodeterminazione nelle scelte di fine vita
+- Maggiore importanza attribuita ai legami extra-familiari (amici come risorsa)
+
+### 8.6 Gli anziani sono tutti uguali?
+
+No. Citando Trabucchi (2016): gli individui, man mano che invecchiano, tendono ad **assomigliarsi sempre meno**. Non esiste altra fase della vita con disparità più marcate.
+
+Il rischio dello stereotipo è doppio:
+- Tutti i giovani anziani (terza età) visti come attivi, sani, desiderosi di godersi la vita
+- Tutti i grandi anziani (quarta età) visti come malati, dipendenti, abbandonati ai margini
+
+La realtà è molto più variegata — e il lavoratore sociale deve essere capace di vederla.
+
+**Conclusione di Cavalli:** → *"La 'persona anziana' non esiste"* come categoria omogenea. Il nostro lavoro inizia sempre con la persona concreta davanti a noi.
+
+---
+
+## 9. La ricerca SWISS100 — I centenari svizzeri (2020-2025)
+
+Primo studio su scala nazionale su un campione rappresentativo di 240 centenari residenti in Svizzera (Cavalli, Masotti, Zaccaria). Indaga vulnerabilità e resilienza a 100 anni combinando prospettive mediche, biologiche, psichiatriche, psicologiche e sociologiche.
+
+Dati salienti sull'ingresso nella vecchiaia percepita:
+- Mediana: **98 anni** (cioè la metà dei centenari si sente "diventata vecchia" solo dopo i 98)
+- Molti dichiarano di **non sentirsi ancora vecchi** ("Non sono domande impertinenti?" risponde irritata una signora di 101 anni del Ticino)
+- Il 55% cita **un evento specifico** (salute, perdita di autonomia, casa anziani, ritiro della patente, morte del coniuge, COVID)
+- Il 45% descrive un processo **graduale, quasi invisibile**
 
 ---
 
@@ -354,31 +273,53 @@ di 2500 anni fa.
 
 | Termine | Significato |
 |---|---|
-| **Disease** | Malattia in senso biomedico, misurabile con parametri clinici |
-| **Illness** | Vissuto soggettivo della malattia, come la persona si sente |
-| **Sickness** | Dimensione sociale della malattia, riconoscimento/stigma |
-| **Benessere** | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo |
-| **Norma statistica** | Normalità come conformità alla media della popolazione |
-| **Norma di valore** | Normalità come conformità a un ideale |
-| **Norma personale** | Normalità rispetto al proprio funzionamento precedente |
-| **Agentività** | Atteggiamento attivo del soggetto verso la propria condizione |
-| **Catarsi** | Purificazione emotiva attraverso la partecipazione alla tragedia |
-| **Omeostasi** | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio |
-| **To cure** | Terapia: eliminare la malattia |
-| **To care** | Cura: prendersi cura del benessere, sempre praticabile |
+| **Psicologia dell'invecchiamento** | Disciplina che studia i cambiamenti comportamentali legati all'età, prospettiva life-span. Anni '80. |
+| **Eterocronia** | Variabilità nei ritmi di invecchiamento: inter-personale (tra persone) e intra-personale (dentro la stessa persona) |
+| **Intelligenza fluida** | Capacità di ragionare velocemente in situazioni nuove; picco a 20-30 anni, poi declina |
+| **Intelligenza cristallizzata** | Conoscenze accumulate con l'esperienza; cresce fino alla mezza età inoltrata |
+| **Mechanics of cognition** | Ragionamento, memoria, velocità percettiva → declino precoce (Baltes) |
+| **Pragmatics of cognition** | Abilità verbali e numeriche → stabili fino a 60-70 anni (Baltes) |
+| **Modello SOC** | Selezione–Ottimazione–Compensazione: strategia di invecchiamento di successo (Baltes) |
+| **Riserva cognitiva** | Differenze individuali nella resistenza al declino cognitivo (Stern, 2009) |
+| **Terza età** | Fase tra pensionamento e vecchiaia: giovani anziani attivi e autonomi (Laslett, 1992) |
+| **Quarta età** | Fase di fragilizzazione avanzata, grande anzianità (Lalive d'Epinay & Cavalli, 2013) |
+| **Fragilizzazione** | Processo progressivo di riduzione delle riserve fisiologiche e sensorimotorie |
+| **Fragilità** | Stato in cui la fragilizzazione compromette l'equilibrio con l'ambiente |
+| **Place identity** | Parte dell'identità che deriva dall'attaccamento ai luoghi (Proshansky, 1978) |
+| **Carico allostatico** | Punteggio cumulativo del deterioramento organico; correlato alle funzioni cognitive (Belsky) |
+| **Diagramma di Lexis** | Strumento demografico che situa le traiettorie di vita nel flusso della storia |
+
+---
+
+## Riferimenti principali
+
+| Autore/i | Contributo | Anno |
+|---|---|---|
+| Birren & Schroots | Distinzione tre branche della psicologia dell'invecchiamento | 1996 |
+| Cumming & Henry | Teoria del disimpegno | 1961 |
+| Havinghurst & Dreer | Teoria dell'attività | 1963 |
+| Atchley | Teoria della continuità | 1976 |
+| Cattell | Modello bifattoriale intelligenza fluida/cristallizzata | 1963 |
+| Baltes | Modello SOC, mechanics/pragmatics, psicologia life-span | 1987–2000 |
+| Stern | Riserva cognitiva | 2009 |
+| Proshansky | Place identity | 1978 |
+| Laslett | Terza età | 1992 |
+| Lalive d'Epinay & Spini | Fragilità e fragilizzazione | 2008 |
+| Lalive d'Epinay & Cavalli | Quarta età | 2013 |
+| Cavalli & Corna | Il ritratto dell'anziano di domani (Canton Ticino) | 2020 |
+| Cavalli et al. | Dignità, anziani e COVID-19 | 2021 |
+| Cavalli & Corna | Invecchiamento: sfide e opportunità | 2022 |
+| Schaie et al. | Seattle Longitudinal Study | 1996–2006 |
+| Belsky | Sviluppo cognitivo e sociale in età adulta | (manuale) |
+
+---
 
 ## Collegamenti
 
-- **Autori citati:** Christopher Boorse (1977),
-  Carol Ryff, Tiziano Terzani (*L'ultimo giro di
-  giostra*), Callieri & C. (1999), Nadia Murad
-- **Lezioni successive:** Storia della follia
-  (25.02), L'incontro con l'alienità (4.03), Dal
-  modello psicoanalitico alle difese (11.03)
-- **Temi aperti:** Come cambiano le categorie
-  diagnostiche nel tempo? Come si costruisce una
-  diagnosi psichiatrica? (L'omosessualità come
-  esempio storico sarà ripreso)
-- **Da ricordare:** il vademecum del modulo
-  contiene i contenuti in forma scritta con i
-  riferimenti bibliografici precisi
+- **Lezioni precedenti**: il concetto di life-span era già stato introdotto; la teoria di Erikson sulla generatività/stagnazione si collega al cambiamento di ruoli nell'anzianità; le teorie dell'attaccamento (Bowlby, Winnicott, Stern) si ricollegano alle relazioni nonni-nipoti
+- **Temi aperti / da approfondire**:
+  - Demenze e invecchiamento patologico (la riserva cognitiva è solo il primo tassello)
+  - Il lavoro sociale con gli anziani come opportunità professionale sottovalutata
+  - Implicazioni etiche dell'uso dell'età anagrafica nelle politiche pubbliche
+  - Invecchiamento, migrazione e specificità culturali
+  - Fine vita, autodeterminazione e dignità

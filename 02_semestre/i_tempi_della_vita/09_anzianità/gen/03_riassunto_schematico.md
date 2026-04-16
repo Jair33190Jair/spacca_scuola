@@ -1,103 +1,127 @@
-# Introduzione al modulo di Salute Mentale — Schema
-Salute Mentale · Sessione 01
-
-## Struttura del modulo
-
-- **Tre tappe** → clinica · mondo · corpo
-- **Quattro dimensioni trasversali** → spazio ·
-  tempo · identità · incontro
-- **Ruolo operatore sociale** → trait d'union
-  tra discipline specialistiche
+# L'Anzianità — Schema
+I tempi della vita · Sessione 09–14
 
 ---
 
-## Salute — 7 condizioni di Boorse (1977)
+## Psicologia dell'invecchiamento
 
-- **Valore** → la desiderabilità non è universale
-- **Trattamento medico** → né necessario né
-  sufficiente per definire malattia
-- **Norma statistica** → fuori dalla media ≠ malato
-- **Sofferenza** → malattie asintomatiche e dolori
-  fisiologici esistono
-- **Disabilità** → non-abilità ≠ malattia (neonati,
-  sonno)
-- **Adattamento** → l'uomo adatta l'ambiente a sé,
-  non solo il contrario
-- **Omeostasi** → la vita richiede perdita e
-  riconquista continua di equilibrio
-
-⚠️ Nessuna condizione è sufficiente da sola
+- **Nascita disciplina** → anni '80
+- **3 branche** (Birren & Schroots, 1996):
+  - **Psicologia dell'invecchiamento** → cambiamenti comportamentali, prospettiva life-span
+  - **Psicologia della vecchiaia** → problemi bio-socio-psicologici
+  - **Psicologia delle differenze d'età** → confronto tra gruppi di età
 
 ---
 
-## Disease / Illness / Sickness
+## Teorie dello stile di vita
 
-| Dimensione | Tipo | Riferimento |
-|---|---|---|
-| **Disease** | Biomedica | Parametri clinici |
-| **Illness** | Soggettiva | Vissuto personale |
-| **Sickness** | Sociale | Stigma / riconoscimento |
-
-- Le tre dimensioni possono non coincidere
-- Lo stigma (*sickness* negativa) peggiora
-  l'andamento della malattia
+- **Disimpegno** (Cumming & Henry, 1961) → ritiro sociale = normale preparazione alla morte
+  - Critica: giustifica abbandono; relazioni sociali → benessere
+- **Attività** (Havinghurst & Dreer, 1963) → mantenere attività = invecchiare bene
+  - Critica: modello adulto-centrico; ignora differenze di personalità
+- **Continuità** (Atchley, 1976) → mantenere livello pre-pensionamento
+  - Critica: richiede salute e inserimento sociale
 
 ---
 
-## Benessere — 6 dimensioni di Ryff
+## Eterocronia (Moser, Pezzati, Luban-Plozza, 2002)
 
-- **Autonomia** → autodeterminazione senza
-  condizionamenti esterni
-- **Controllo ambientale** → valorizzare risorse
-  e possibilità
-- **Relazioni positive** → calore · fiducia ·
-  reciprocità
-- **Autoaccettazione** → consapevolezza qualità
-  e limiti
-- **Percezione di crescita** → vita come sviluppo
-  continuo
-- **Scopo nella vita** → mete e senso
-
-⚠️ Salute ≠ benessere (possono non coincidere)
+- **Inter-personale** → stessa età, condizioni diverse tra persone
+- **Intra-personale** → stessa persona, ritmi diversi (fisico ≠ cognitivo ≠ mentale)
 
 ---
 
-## Normalità — 3 tipi
+## Le 4 età (Balducci, 1990)
 
-| Tipo | Definizione | Rischio |
-|---|---|---|
-| **Statistica** | Nella media della popolazione | Stigma per chi devia |
-| **Di valore** | Ideale da raggiungere | Irraggiungibile → sofferenza perpetua |
-| **Personale** | Rispetto al funzionamento precedente | Idealizzare il passato; la normalità precedente può essere la causa della malattia |
-
----
-
-## Posizione del soggetto verso la malattia
-
-|  | Non si identifica | Si identifica |
-|---|---|---|
-| **Agentivo** | Guarigione → eliminare la condizione | Cura → benessere dentro la condizione |
-| **Passivo** | Delega → "guariscimi" | Delega assistenziale |
-
-- **To cure** → terapia: non sempre possibile
-- **To care** → cura del benessere: sempre possibile
-- *"Non tutto si può guarire, ma tutto può essere
-  curato"*
+- **Anagrafica** → anni dalla nascita
+- **Somatica** → salute fisica / speranza di vita
+- **Cerebrale** → funzionamento cognitivo
+- **Mentale** → percezione soggettiva di sé
 
 ---
 
-## La tragedia greca
+## Intelligenza (Cattell, 1963)
 
-- **5 tragedie** → Aiace · Andromaca · Agamennone ·
-  Le Troiane · Le Trachinie
-- **Tre tragediografi** →
-  - Eschilo: la follia viene dagli dèi (forza esterna)
-  - Sofocle: il tragico è la vita stessa
-  - Euripide: il tragico nasce dalle relazioni
-- **Catarsi** → far emergere ed elaborare emozioni
-  difficili attraverso la sofferenza altrui
-- **Esercizio pedagogico** →
-  leggere → condividere → sintetizzare → mettere in scena
+- **Fluida** → situazioni nuove, velocità → picco 20-30a → declino
+- **Cristallizzata** → conoscenze accumulate → cresce fino a mezza età → declino dopo 60
+
+---
+
+## Baltes — Invecchiamento cognitivo
+
+- **Mechanics** (ragionamento, memoria, velocità percettiva) → declino precoce
+- **Pragmatics** (abilità verbali/numeriche) → stabili fino a 60-70a
+
+**3 processi di declino:**
+1. Velocità processamento ↓
+2. Risorse elaborazione ↓
+3. Efficienza processi inibitori ↓
+
+**Modello SOC — Successful Aging:**
+- **S**elezione → scegliere le attività prioritarie
+- **O**ttimazione → investire più in queste aree
+- **C**ompensazione → usare capacità integre o aiuti esterni
+
+---
+
+## Riserva cognitiva (Stern, 2009)
+
+→ Resistenza individuale al declino cognitivo
+
+Costruita da:
+- Livello istruzione
+- Tipo di occupazione
+- Abilità cognitiva generale
+- Attività stimolanti (cognitivo + sociale + fisico)
+
+---
+
+## Le 4 idee forti — Cavalli (prospettiva sociologica)
+
+1. **Invecchiamento ≠ solo perdite**
+   - Life-span (Baltes, 1987): guadagni + perdite a tutte le età
+   - CEVI (15 paesi): fino 80a guadagni > perdite (Heckhausen et al., 1989)
+
+2. **Terza età vs Quarta età**
+   - **Terza età** (Laslett, 1992) → pensionati attivi/sani, novità del '900
+   - **Quarta età** (Lalive d'Epinay & Cavalli, 2013) → fragilizzazione avanzata
+   - **Fragilizzazione** → riduzione progressiva riserve fisiologiche/sensorimotorie
+   - **Fragilità** → fragilizzazione compromette equilibrio con l'ambiente
+   - Età anagrafica = utile ma arbitraria e stigmatizzante
+
+3. **Anziani di ieri ≠ oggi ≠ domani**
+   - Invecchiamento influenzato da contesto storico-sociale
+   - Diagramma di Lexis → traiettorie di vita nel flusso della storia
+   - Anziano di domani (Cavalli & Corna, 2020): più istruito, connesso, migrante, autonomo
+
+4. **Gli anziani NON sono tutti uguali**
+   - Massima eterogeneità in questa fase (Trabucchi, 2016)
+   - → "La persona anziana non esiste"
+
+---
+
+## Ruoli sociali nell'anzianità
+
+- **Pensionamento** → evento marcatore; lavoro = identità + tempo + relazioni
+- **Nonni** → guardiani della famiglia (Belsky); accudimento nipoti; mediatori famigliari
+- **Abbandono patente** → evento marcatore: perdita autonomia + isolamento sociale
+- **Place identity** (Proshansky, 1978) → i luoghi = parte dell'identità
+  - Bisogni: identità · continuità · controllo · autoprotezione
+
+---
+
+## COVID-19 e dignità (Cavalli et al., 2021)
+
+- Misure over 65 in Ticino (marzo 2020) → divieto spesa, "letargo"
+- Uso età anagrafica → comodo ma arbitrario → stigma → lesione della dignità
+
+---
+
+## SWISS100 (2020-2025)
+
+- 240 centenari svizzeri, studio nazionale rappresentativo
+- Percezione ingresso nella vecchiaia: **mediana = 98 anni**
+- 55% cita evento specifico; 45% processo graduale
 
 ---
 
@@ -105,18 +129,26 @@ Salute Mentale · Sessione 01
 
 | Chi | Cosa | Quando |
 |---|---|---|
-| Christopher Boorse | 7 condizioni della salute | 1977 |
-| Carol Ryff | 6 dimensioni del benessere | — |
-| Callieri & C. | Definizione di clinica | 1999 |
-| Tiziano Terzani | *L'ultimo giro di giostra* | — |
-| Nadia Murad | Attivista, Premio Nobel per la Pace | — |
-| Guidorizzi | Follia nella tragedia greca | 2010 |
+| Birren & Schroots | 3 branche psicologia invecchiamento | 1996 |
+| Cumming & Henry | Teoria del disimpegno | 1961 |
+| Havinghurst & Dreer | Teoria dell'attività | 1963 |
+| Atchley | Teoria della continuità | 1976 |
+| Cattell | Intelligenza fluida / cristallizzata | 1963 |
+| Baltes | Life-span; SOC; mechanics/pragmatics | 1987–2003 |
+| Stern | Riserva cognitiva | 2009 |
+| Proshansky | Place identity | 1978 |
+| Schaie et al. | Seattle Longitudinal Study | 1996–2006 |
+| Heckhausen et al. | Guadagni/perdite nel corso della vita | 1989 |
+| Laslett | Terza età | 1992 |
+| Lalive d'Epinay & Spini | Fragilità e fragilizzazione | 2008 |
+| Lalive d'Epinay & Cavalli | Quarta età | 2013 |
+| Trabucchi | Eterogeneità anziani | 2016 |
+| Cavalli & Corna | Ritratto anziano di domani | 2020 |
+| Cavalli et al. | Dignità, anziani e COVID-19 | 2021 |
+| Cavalli & Corna | Invecchiamento: sfide e opportunità | 2022 |
+
+---
 
 ### Parole chiave
 
-`salute` · `benessere` · `normalità` · `disease`
-· `illness` · `sickness` · `Boorse` · `Ryff` ·
-`agentività` · `omeostasi` · `norma statistica`
-· `norma di valore` · `norma personale` ·
-`catarsi` · `guarigione` · `cura` · `to cure`
-· `to care` · `tragedia greca` · `clinica`
+`eterocronia` · `intelligenza fluida` · `intelligenza cristallizzata` · `mechanics of cognition` · `pragmatics of cognition` · `SOC` · `riserva cognitiva` · `terza età` · `quarta età` · `fragilizzazione` · `fragilità` · `place identity` · `disimpegno` · `attività` · `continuità` · `life-span` · `età anagrafica` · `età mentale` · `carico allostatico` · `diagramma di Lexis` · `CEVI` · `SWISS100`

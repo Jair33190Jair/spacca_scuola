@@ -1,352 +1,263 @@
-# Introduzione al modulo di Salute Mentale
-Salute Mentale · Sessione 01 · 18.02.2026
+# Normalità e Patologia nell'Età Evolutiva
+I tempi della vita · Sessione 08 · A.A. 2025–2026
 
-> Questa prima lezione mette sul tavolo le fondamenta
-> di tutto il modulo: che cos'è davvero la salute?
-> Cos'è il benessere? E la normalità? Spoiler: nessuna
-> di queste domande ha una risposta semplice — e
-> proprio da qui parte il bello. Si parla anche della
-> tragedia greca come strumento per avvicinarsi alla
-> sofferenza umana. Roba potente, vedrai.
+> Questa lezione è una bussola per orientarsi in uno dei terreni più scivolosi del lavoro con bambini e famiglie: capire *quando* un comportamento è normale sviluppo e *quando* è segnale d'allarme. Non è una distinzione ovvia — e questa lezione ti dà gli strumenti per non sbagliare. Hai due voci: Mattia Antonini (psicologo e psicoterapeuta) sulla valutazione clinica del bambino, e una seconda docente sull'adolescenza come fase evolutiva.
 
 ---
 
-## Il modulo: struttura e filosofia
+## Il concetto di normalità — quattro punti di vista
 
-Il modulo di Salute Mentale si articola su **tre
-tappe fondanti**, ispirate alla scuola fenomenologica:
+Prima di parlare di patologia, bisogna capire cosa intendiamo con "normale". Il problema è che la risposta non è unica. **Marcelli (1999)** identifica quattro definizioni possibili, ognuna con le sue trappole:
 
-1. **La clinica** — l'universo dell'incontro con
-   chi soffre. Si esplorano i concetti di salute
-   e malattia, normalità e patologia, l'incontro
-   empatico con l'altro e i meccanismi di difesa.
-
-2. **Il mondo** — le funzioni psichiche e le loro
-   alterazioni (coscienza, percezione, pensiero,
-   affettività...), per poi passare alla dimensione
-   nosografica: sindromi affettive, ansiose, nevrosi,
-   disturbi di personalità, psicosi.
-
-3. **Il corpo** — teatro della sofferenza: violenza,
-   aggressività, dimensioni anoressico-bulimiche,
-   sessualità come luogo di disagio, alessitimia.
-
-Queste tre tappe sono attraversate da quattro
-dimensioni esistenziali: **spazio, tempo, identità
-e incontro**. La clinica va calata in uno spazio
-e in un tempo, l'identità va declinata nella
-relazione, e prima della relazione viene l'incontro
-— senza il quale la relazione non sussiste.
-
-Il prof sottolinea un punto chiave: l'operatore
-sociale non è un tecnico di una sola disciplina,
-ma un **trait d'union** tra le specializzazioni.
-Per questo serve una conoscenza delle aree
-psicopatologiche — non per fare diagnosi, ma per
-comunicare con le altre figure professionali e
-per accompagnare la persona nella sua interezza.
-
----
-
-## Salute, benessere, normalità: tre concetti
-da non confondere
-
-Uno dei messaggi centrali della lezione: **salute,
-benessere e normalità sono tre cose diverse** che
-spesso vengono confuse o sovrapposte. Vediamole
-una per una.
-
-### Salute: più complessa di quanto sembra
-
-Il prof parte da una domanda semplice: "Chi di voi
-sta bene?" Poi mostra quanto sia difficile rispondere.
-Due paradigmi diversi: puoi andare a fare gli esami
-del sangue e la TAC (approccio biomedico, *disease*),
-oppure puoi rispondere "mi sento bene" senza nessun
-esame (approccio soggettivo, *illness*). Non sono la
-stessa cosa.
-
-Introduce il lavoro di **Christopher Boorse (1977)**,
-che nel suo articolo ha tentato di definire la salute
-esaminando sette possibili condizioni — dimostrando
-che **nessuna da sola regge**:
-
-| Condizione | Perché non basta |
-|---|---|
-| **Salute come valore** | Non tutto ciò che è desiderabile è salute; ci sono contesti dove non essere in salute può essere preferibile (es. durante guerre) |
-| **Malattia come ciò che il medico cura** | La medicina ha "colonizzato" ambiti non patologici (gravidanza, adolescenza); molte malattie non vengono trattate |
-| **Salute come norma statistica** | Fuori dalla media ≠ malattia (l'omosessualità è stata classificata come patologia a lungo) |
-| **Malattia come sofferenza** | Malattie asintomatiche e dolori normali (ciclo mestruale, coliche neonatali, dentizione) |
-| **Malattia come disabilità** | Tutti attraversiamo fasi di "non abilità" (un neonato non cammina, ma non è malato) |
-| **Salute come adattamento** | L'essere umano adatta anche l'ambiente a sé. Pensate alle neurodivergenze: a volte è l'ambiente che va cambiato |
-| **Salute come omeostasi** | Il funzionamento umano si basa su un continuo perdere e riacquistare equilibrio. L'equilibrio statico è rigidità |
-
-L'ultimo punto merita attenzione. Il prof insiste:
-**l'equilibrio statico non è salute, è rigidità**.
-La metafora è bellissima: camminare richiede di
-rompere continuamente l'equilibrio. Per fare un
-passo devi sbilancarti. La vita è movimento, e il
-movimento richiede di perdere e ritrovare l'equilibrio.
-"Le persone troppo equilibrate sono spesso molto
-rigide, poco disposte a rischiare."
-
-> *"Non c'è movimento senza perdere l'equilibrio,
-> e siccome la vita è costante movimento, occorre
-> mettersi nell'ottica di capire e accompagnare
-> la perdita e la riconquista dell'equilibrio —
-> non impedirla."*
-> — Il professore
-
-### La triade anglosassone: disease, illness, sickness
-
-Per ordinare le idee sulla salute, il prof introduce
-la distinzione in tre dimensioni:
-
-- **Disease** — la malattia in senso biomedico,
-  misurabile (esami, parametri clinici)
-- **Illness** — il vissuto soggettivo: come la
-  persona *si sente*
-- **Sickness** — la dimensione sociale: come la
-  società riconosce (o stigmatizza) quella condizione
-
-Queste tre dimensioni **possono non coincidere**.
-Una malattia può essere tale per il medico (disease)
-ma non vissuta come tale dal soggetto (illness),
-oppure può essere vista dalla società come un vizio
-(sickness negativa) anche se è una malattia vera.
-
-Questo è importante per il lavoro sociale: lo sguardo
-della società su una condizione ha effetti reali sul
-benessere della persona. Se hai una malattia che viene
-giudicata come "vizio" o "colpa", la stigmatizzazione
-peggiora tutto — come mostrava già il racconto
-di apertura della lezione.
-
----
-
-## Il benessere: un concetto multidimensionale
-
-**Salute e benessere non coincidono.** Il prof porta
-l'esempio di **Tiziano Terzani** e del suo libro
-*L'ultimo giro di giostra*: un giornalista gravemente
-malato di cancro che attraverso la malattia ha trovato
-una pace e una ricchezza interiore che non aveva quando
-stava "bene". Paradossale? No, profondamente umano.
-
-Il benessere è un concetto **polisemico e
-multidimensionale**. **Carol Ryff** è una psicologa
-che ha risposto alla domanda: "Quando diciamo che
-una persona sta bene, di *cosa* esattamente stiamo
-parlando?" La risposta: di sei dimensioni distinte.
-
-| Dimensione | Cosa significa in concreto |
-|---|---|
-| **Autonomia** | Capacità di determinarsi senza dipendere dagli altri per le proprie scelte |
-| **Controllo ambientale** | Capacità di cogliere, sfruttare e valorizzare le risorse e le possibilità disponibili |
-| **Relazioni positive** | Avere relazioni calde, fiduciose, contraddistinte da affetto e reciprocità |
-| **Autoaccettazione** | Consapevolezza delle proprie qualità e limiti, senza negare né l'uno né l'altro |
-| **Percezione di crescita** | Sentire che la propria vita è un processo continuo di sviluppo |
-| **Scopo nella vita** | Avere mete, riuscire a dare senso a ciò che si fa |
-
-Questo modello è prezioso per l'operatore sociale
-perché rende il lavoro sul benessere **concreto**.
-Invece di un generico "lavoro per il benessere",
-puoi esplorare *quale* dimensione è più critica
-e intervenire lì. Il prof fa un esempio: se lavori
-sull'autonomia di qualcuno (aiutarlo a fare scelte
-proprie), quello starà meglio — anche senza sapere
-perché. Il prodotto è quello che conta.
-
-Se in un momento la persona non riesce a lavorare
-sulle relazioni, si compensa sulle altre dimensioni.
-È un gioco di variabili, non tutto insieme.
-
-Il prof aggiunge: **vale anche per noi**, non solo
-per i nostri utenti. Se guardiamo indietro alla
-nostra vita e vediamo solo disastri, non stiamo bene.
-Se riusciamo a vedere crescita e senso, anche nelle
-difficoltà, il benessere aumenta.
-
----
-
-## La normalità: quale normalità?
-
-Il prof introduce tre tipi di normalità — tutti
-rilevanti per il lavoro con le persone.
-
-### 1. Norma statistica
-
-La "normalità" come conformità alla media della
-popolazione. Sembra neutro, ma non lo è: essere
-fuori dalla norma statistica può provocare stigma,
-isolamento, discriminazione. L'omosessualità è stata
-a lungo classificata come patologia proprio su base
-statistica — e solo quando la comunità scientifica
-ha cambiato i criteri ne è uscita.
-
-Il contesto è fondamentale: qualsiasi comportamento,
-senza contesto, può sembrare "anormale".
-
-### 2. Norma di valore (ideale)
-
-Uno standard ideale che si pone come riferimento.
-Se il mio ideale è un certo tipo di corpo, starò
-male finché non ci corrispondo. Ed è un ideale
-*irraggiungibile*, quindi la sofferenza è perpetua.
-
-**Attenzione**: la norma ideale incide anche sugli
-operatori. Abbiamo ideali su come dovrebbe essere
-un utente, come dovrebbe comportarsi, cosa dovrebbe
-raggiungere. Se quella norma ideale diventa il metro
-di lavoro, rischia di diventare penalizzante per
-la relazione.
-
-### 3. Norma personale (individuale)
-
-La normalità *rispetto a come funzionavo prima*.
-Se mi rompo una gamba, non sono più "normale" rispetto
-al mio funzionamento precedente. Questa dimensione
-è importante clinicamente: capire com'era il soggetto
-prima dell'evento permette di comprendere il
-cambiamento.
-
-Ma il prof aggiunge un avvertimento cruciale:
-**la normalità personale non è sempre da riconquistare**.
-A volte è proprio quella "normalità" precedente che
-ha causato il problema. Esempio: "Lavoravo 10 ore
-al giorno, gestivo tutto, poi mi sono ammalato —
-voglio tornare come prima." Forse no. Se torni come
-eri prima, tra un mese ci rivediamo peggio.
-
-C'è anche il rischio di **idealizzare il passato**:
-"Prima stavo bene" — ma siamo sicuri? O è solo che
-in confronto a oggi sembra il paradiso?
-
----
-
-## La posizione del soggetto davanti alla malattia
-
-L'ultima parte della lezione introduce un modello
-pratico a due assi per capire come il soggetto si
-pone rispetto alla propria condizione.
-
-**Asse 1 — Identificazione:**
-- *Non mi identifico* con la malattia: "Io non sono
-  la mia malattia, è qualcosa di estraneo"
-- *Mi identifico*: "La mia condizione fa parte di me"
-
-**Asse 2 — Agentività** (termine tecnico dal greco):
-- *Agentivo* (attivo): affronto la situazione,
-  mi muovo, cerco alleati
-- *Passivo*: subisco, aspetto che qualcuno intervenga
-
-Incrociando i due assi si ottengono quattro posizioni:
-
-| | Non si identifica | Si identifica |
+| Definizione | Cosa dice | Limite |
 |---|---|---|
-| **Passivo** | **Delega**: "Faccia lei, risolva lei" | Passivo nella propria condizione |
-| **Agentivo** | **Guarigione**: combatte per eliminare la condizione | **Cura**: lavora sul proprio benessere dentro la condizione |
+| **Media statistica** | Normale = parametri entro ±1 deviazione standard | Descrittiva e quantitativa, senza considerazioni qualitative. Rischia di diventare prescrittiva |
+| **Ideale** | Normale = il bambino che corrisponde alle attese (consce e inconsce) di genitori, scuola, società | Dipende da chi fissa il termine di paragone |
+| **Processo dinamico** | Normale = chi si adatta ed è resiliente di fronte ai cambiamenti | Valorizza la flessibilità, ma ignora chi fatica strutturalmente |
+| **Salute** | Normale = assenza di malattia | Tautologica — non dice cosa *sia* la salute |
 
-Il passaggio chiave: quando il soggetto si identifica
-con la propria condizione e diventa agentivo, il
-paradigma passa dalla **guarigione** alla **cura**.
-Non si tratta più di eliminare la malattia (che a
-volte non è possibile), ma di aumentare il benessere
-*dentro* la condizione.
+La **norma statistica** merita un approfondimento. Ha carattere puramente descrittivo: segnala la ricorrenza di un fenomeno senza giudicarlo. Esempi: il BMI sano è 18,5–24,9; circa il 68% delle persone ha un QI tra 85–115 (valori estremi <70 o >130 sono rari). Ma attenzione: la norma statistica può diventare *prescrittiva*, caricandosi di significati sociali e giudizi morali che non le appartengono. Il rischio? Cristallizzare una persona in un punteggio.
 
-> *"Non tutto si può guarire. Ma tutto può essere
-> curato."*
-> — Il professore
-
-La differenza tra *to cure* (terapia) e *to care*
-(cura) è fondamentale per il lavoro sociale: la
-terapia non è sempre possibile, ma la cura — nel
-senso di prendersi cura del benessere della persona
-— è sempre praticabile.
-
-Nella realtà le persone si muovono tra i quadranti,
-soprattutto all'inizio della malattia. L'operatore
-accompagna questo movimento.
+Pensa all'albero, Jony: la norma statistica descrive la "taglia media" delle radici di una specie. Ma un albero con radici un po' più lunghe o più corte non è necessariamente malato — dipende dal terreno in cui cresce.
 
 ---
 
-## La tragedia greca: passioni e follia
+## Gli strumenti psicometrici — utili ma da usare con testa
 
-Parallelamente allo studio teorico, il modulo
-include un lavoro su **cinque tragedie greche**.
+Esistono scale validate per valutare il funzionamento dei bambini e adolescenti. Qualche esempio:
 
-### Perché la tragedia?
+- **ADOS-2** → valutazione dello spettro autistico tramite osservazione diretta dell'interazione sociale e comunicativa
+- **NEPSY-II** → funzioni esecutive e neuropsicologiche
+- **WISC-V** → profilo cognitivo completo
+- **Conners 3** → ADHD (questionari a genitori e insegnanti)
+- **CBCL** → mappatura di aree **internalizzanti** (ansia, depressione, ritiro) ed **esternalizzanti** (aggressività, iperattività)
 
-La tragedia greca nasce insieme alla medicina antica
-(Ippocrate) e mette in scena la sofferenza umana —
-quella difficile da spiegare e a volte da comprendere.
-Assistere alla tragedia faceva emergere emozioni e
-sentimenti che, attraverso la **catarsi**, potevano
-uscire e liberare.
+Questi strumenti sono preziosi: aiutano a superare i bias clinici (es. scambiare un limite cognitivo per semplice ansia o inibizione), chiariscono fenomeni complessi e, nel sistema svizzero, servono anche a garantire le coperture assicurative.
 
-La tragedia parla dei **confini dell'umano**: la
-morte, la malattia, la follia. Il prof distingue
-gli approcci dei tre grandi tragediografi:
+Il rovescio della medaglia? **Le scale non sono diagnosi.** Se usate come confini rigidi tra "normale" e "patologico", rischiano di ridurre una persona a un numero. La diagnosi è sempre un'ipotesi su un funzionamento unico — non un'etichetta permanente.
 
-- **Eschilo** — il più arcaico: la follia arriva
-  dagli dèi, è una forza esterna che schiaccia
-- **Sofocle** — il tragico non arriva dagli dèi,
-  è la vita stessa che è tragica
-- **Euripide** — il più moderno: il tragico nasce
-  dalle relazioni tra le persone
+---
 
-A secoli di distanza, la tragedia "resta fedele
-a se stessa" — perché tocca qualcosa di profondo
-nell'umano che non cambia nei secoli.
+## Il sintomo in età evolutiva — non è quello che sembra
 
-### L'esercizio pedagogico
+Questo è il cuore della lezione. Vale la pena capirlo bene, perché è uno di quei concetti che cambiano il modo di guardare i bambini con cui lavori.
 
-Gli studenti sono divisi in **5 gruppi**, ciascuno
-con una tragedia assegnata per estrazione. Il lavoro
-prevede:
+La parola **sintomo** viene dal greco *syn* (insieme) + *pipto* (cadere): qualcosa che "accade insieme". In senso medico generale, è un fenomeno da cui si inferisce l'esistenza di un processo morboso. Ma in età evolutiva, il discorso si complica molto.
 
-1. **Leggere** la tragedia — esporsi a un linguaggio
-   non familiare della sofferenza, proprio come
-   accade quando si incontra un paziente che parla
-   una "lingua" diversa dalla nostra
-2. **Condividere** nel gruppo — cosa ti ha parlato?
-   Quali temi ti hanno colpito?
-3. **Sintetizzare** — trovare un messaggio comune,
-   con le inevitabili rinunce individuali (esercizio
-   di équipe reale)
-4. **Andare in scena** — non uno "spettacolino",
-   ma portare temi salienti a una platea
+### Sintomo vs. segno
 
-Il prof insiste: quello che deve arrivare al pubblico
-deve essere *vero* — deve essere passato attraverso
-l'umanità di chi lo porta in scena. Se non c'è quella
-verità, si sente.
+- **Sintomo** → manifestazione *soggettiva*, riferita dal paziente (o dai genitori/insegnanti). Va interpretato e "obiettivato" dal clinico.
+- **Segno** → fenomeno *oggettivo*, misurabile, rilevabile direttamente dal clinico indipendentemente da chi lo riferisce.
 
-### Le tragedie di quest'anno
+In psichiatria questa distinzione è più sfumata: si parla di sintomi soggettivi (riferiti dal paziente) e sintomi obiettivi (rilevabili dal clinico).
 
-Le docenti hanno scelto — indipendentemente —
-tragedie che convergono su un tema comune: la
-**violenza sulle donne nei conflitti armati**.
+### Dal sintomo al segno: il problema dell'ambiguità
 
-- **Agamennone** (Eschilo) — Cassandra, prigioniera
-  di guerra e bottino sessuale
-- **Le Troiane** (Euripide) — Ecuba, Cassandra,
-  Andromaca: tre donne schiavizzate dopo la caduta
-  di Troia
-- **Andromaca** (Euripide) — la vittima di guerra
-  per eccellenza
-- **Le Trachinie** (Sofocle) — donne umiliate
-  e "rese mute" dalla violenza
-- **Aiace** (Sofocle) — la fragilità dietro
-  l'eroismo apparente
+Un sintomo non conduce mai automaticamente a una sola diagnosi. Esempi dal materiale:
 
-Il prof collega esplicitamente queste storie ai dati
-odierni sulla violenza sessuale nei conflitti armati
-(Congo, Iraq, Rwanda), citando **Nadia Murad**,
-Premio Nobel per la Pace e sopravvissuta alla
-schiavitù sessuale dell'ISIS. La tragedia greca
-non è storia lontana: è cronaca con un linguaggio
-di 2500 anni fa.
+> "Non ho mai voglia di alzarmi dal letto" → clinofilia depressiva? Disturbo del sonno? Ritiro psicotico?
+
+> "Mi pare di flascare, la realtà diventa come un film" → derealizzazione? Abuso di sostanze? Esordio psicotico?
+
+Il clinico non può fermarsi alla superficie. Il sintomo è un indizio, non una risposta.
+
+### Il sintomo come strumento evolutivo (Winnicott)
+
+Qui arriva la parte che cambia prospettiva. Parafrasando D.W. Winnicott:
+
+> Il bambino sano può manifestare un repertorio flessibile di sintomi. In alcune circostanze può manifestare ogni genere di sintomi. L'assenza di qualsiasi sintomo nel bambino è un evento raro — in alcuni casi si tratta di un conformismo adattivo, un "falso sé".
+
+Traduzione pratica: i sintomi nei bambini **non sono automaticamente patologia**. Possono essere:
+
+1. **Espressione della fatica di crescere** — il bambino sta attraversando qualcosa di difficile
+2. **Richiesta verso l'ambiente di accudimento** — soprattutto nei bambini piccoli, alterazioni delle funzioni corporee (fame, sonno, controllo sfinterico) possono essere "rivendicazioni" verso un caregiving sentito come insufficiente
+3. **Tentativo di narrazione** — il bambino esprime qualcosa che non riesce a mettere in parole. L'ansia da separazione, per esempio, può essere un modo per contenere il desiderio di autonomia sentito come pericoloso, o per difendersi da sentimenti ambivalenti e ostili verso il caregiver
+
+I sintomi compaiono spesso nelle **fasi di transizione**, quando una fase dello sviluppo pone richieste insolitamente elevate. In questi casi possono aiutare transitoriamente il bambino a organizzare affettività e pensieri, traghettandolo oltre il periodo difficile.
+
+**Quando diventa patologia?** Quando il sintomo diventa *rigido* e *limitante*. Nel bambino malato, i sintomi non stanno più facendo il loro lavoro evolutivo — diventano solo un disturbo per lui e per il suo ambiente.
+
+### Il duplice valore del sintomo
+
+Come ci si comporta allora? La risposta è: i sintomi vanno *sia* ascoltati che curati — allo stesso tempo.
+
+- **Ascoltare e interpretare** → i sintomi hanno sempre un valore evolutivo; sono espressione di una ricerca di organizzazione interna, di una richiesta ai caregiver, o di una ricerca di significato quando livelli di simbolizzazione più maturi sono inaccessibili
+- **Curare e superare** → i sintomi segnalano anche processi psicopatologici, sofferenza psichica, possibili gravi disarmonie di sviluppo
+
+---
+
+## Le difficoltà strutturali della valutazione
+
+La psicologia e la psichiatria si confrontano con due problemi profondi:
+
+1. **Assenza di markers biologici** → a differenza di molte malattie fisiche, non esistono esami che segnalino con certezza la presenza di un disturbo mentale
+2. **Assenza di sintomi patognomonici** → quasi nessun sintomo è specifico di una sola diagnosi. L'ansia è presente in quasi tutti i disturbi psichiatrici. L'**anedonia** (mancanza di interesse per attività normalmente piacevoli) può essere normale adolescenza, depressione, o forma psicotica. Le dispercezioni possono indicare esordio psicotico, abuso di sostanze, o disturbi del sonno.
+
+### L'errore di sovrastimare i sintomi "rumorosi"
+
+Gli studi longitudinali mostrano un dato sorprendente: tendiamo a preoccuparci troppo dei **sintomi positivi** (visibili, disturbanti) e troppo poco dei **sintomi negativi** (silenziosi).
+
+- Deliri circoscritti, scariche aggressive, fenomeni dissociativi → possono avere prognosi molto buone
+- Le psicosi più gravi esordiscono spesso in modo *lento e insidioso*: alterazioni cognitive, diminuzione della spinta vitale
+
+> Necessario sviluppare un ascolto per i silenzi, i vuoti, ciò che manca.
+
+Un dato importante: il **75–90% delle esperienze psicotiche subcliniche** sono transitorie e scompaiono col tempo (prevalenza ~5%). Tuttavia possono diventare clinicamente rilevanti se la persona è esposta a un alto grado di rischio ambientale. La maturazione psicologica e neurologica sono alleati potenti: portano migliore controllo emotivo, funzione riflessiva più sviluppata, più organizzazione interna, e una connettività neuronale più sofisticata (*pruning*).
+
+---
+
+## I quattro assi della valutazione
+
+La sintomatologia in età evolutiva è troppo instabile per essere l'unica base di valutazione. Serve una **quadrupla valutazione** lungo quattro assi. È come usare quattro punti di riferimento invece di uno solo — più sei multidirezionale, più la mappa è precisa.
+
+### 1. Asse Sintomatico/Sindromico
+
+Dall'osservazione dei sintomi si costruisce un quadro sindromico. Ma lo stesso sintomo può essere espressione di funzionamenti molto diversi. Un disturbo alimentare può essere nevrotico, psicotico o borderline. L'encopresi può manifestarsi in un bambino con funzionamento autistico o in un bambino nevrotico in un momento di sofferenza. La diagnosi sindromica è un punto di partenza, non di arrivo.
+
+### 2. Asse Strutturale (modello psicodinamico)
+
+Si valuta l'*organizzazione profonda del mondo psichico* — andare oltre la superficie dei sintomi per capire come è strutturata la personalità.
+
+**Jean Bergeret** (1974, *La personalità normale e patologica*) propone una griglia clinica basata su quattro criteri:
+1. Sintomi
+2. Difese
+3. Tipo di angoscia
+4. Relazione d'oggetto
+
+**Otto Kernberg** (1984, *Disturbi gravi della personalità*) integra:
+1. Sintomi
+2. Integrazione vs dispersione dell'identità
+3. Difese
+4. Esame della realtà (forza e coerenza dell'Io)
+
+**Palacio Espasa e Dufour** hanno adattato la diagnosi strutturale specificamente all'età evolutiva, con una griglia che include: impressione generale, relazione con l'esaminatore, funzioni dell'Io (motricità, intelligenza, linguaggio, esame della realtà, flusso del pensiero), affetti, meccanismi di difesa, espressione delle pulsioni, Super-Io e ideale dell'Io, immagine di sé e identificazioni.
+
+### 3. Asse Evolutivo — Regressioni e fissazioni
+
+Sul piano fisico lo sviluppo procede in modo progressivo. Sul piano psichico coesistono due forze opposte: **progressione** e **regressione**. Le tendenze regressive si manifestano soprattutto in corrispondenza dei traguardi importanti raggiunti dal bambino. La regressione si organizza intorno a *punti di fissazione* — punti in cui il bambino "si sente al sicuro". Ritorni occasionali a comportamenti più infantili sono normali.
+
+La domanda clinica è: la condotta sintomatica è *in relazione con il movimento maturativo* o ne è un *ostacolo*?
+
+Alcune manifestazioni che sembrano patologiche ma rientrano nel normale sviluppo:
+- Un certo livello di **dismorfofobia** è atteso in adolescenza (il corpo che cambia è percepito come "strano" o "estraneo")
+- Le **condotte a rischio** nell'adolescenza riflettono spesso la particolare appetenza per l'eccitazione del cervello adolescente (con chiaro significato evolutivo)
+- Le **fobie specifiche** compaiono frequentemente nei processi maturativi normali (intorno ai 2 anni, con lo sviluppo dell'immaginazione)
+- Alcune **ossessioni circoscritte** (collezionismo, ordine) nella fase di latenza possono essere di sostegno al bambino
+
+**Linee evolutive del bambino:**
+- Dipendenza → autonomia affettiva
+- Assenza di controllo → pieno controllo sfinterico
+- Egocentrismo → socievolezza
+- Gioco autoerotico → oggetto transizionale → gioco simbolico
+
+**Compiti evolutivi dell'adolescente:**
+- Mentalizzazione del sé corporeo
+- Separazione-individuazione
+- Formazione di valori
+- Nascita sociale
+
+### 4. Asse Ambientale/Contestuale
+
+Il bambino nasce, cresce e si sviluppa all'interno di una famiglia e da essa è profondamente influenzato. Il sintomo è spesso il risultato del sistema di *interdipendenza* tra individuo e ambiente.
+
+La valutazione considera tre livelli:
+- **Microsistema** → esperienza diretta quotidiana (famiglia, scuola, amici)
+- **Livello intermedio** → contesti in cui il bambino non è coinvolto direttamente ma che influenzano il suo funzionamento
+- **Macrosistema** → cultura di riferimento
+
+Nel microsistema familiare si valutano: funzionamento familiare, caratteristiche individuali dei genitori, qualità della relazione adulto-bambino, fantasie del genitore riguardo al disturbo del figlio.
+
+---
+
+## Il processo di valutazione psicologica del bambino
+
+La valutazione segue questi passaggi:
+
+1. **Richiesta di consultazione**
+2. **Anamnesi** — storia dello sviluppo, gravidanza, parto, tappe motorie, linguaggio, scuola
+3. **Incontri** → colloqui con genitori, colloqui con il bambino/ragazzo, osservazione dell'interazione genitore-bambino, osservazione del gioco/disegno, (eventualmente osservazione a scuola)
+4. **Esami strumentali** (se indicati)
+5. **Riflessione** clinica
+6. **Restituzione** → al bambino e/o ai genitori: ipotesi diagnostiche, diagnosi differenziali, prognosi, proposta terapeutica
+
+La restituzione è un momento delicato: può essere una **ferita narcisistica** per la famiglia, ma anche un'**opportunità di integrazione**. Una descrizione profonda e sensibile di un funzionamento unico — non un'etichetta.
+
+---
+
+## Il caso James — analisi multi-assiale
+
+La lezione usa il caso di James (bambino in età prescolare) come filo conduttore per applicare i quattro assi.
+
+**Primo contatto:** James non ascolta, picchia altri bambini all'asilo e a casa, urla, scappa per strada. Difficoltà nel sonno (risvegli notturni, incubi, "vede un signore che fa paura"). Selettività alimentare estrema (solo pasta in bianco).
+
+**Anamnesi:** gravidanza non cercata (genitori minorenni: madre 17 anni, padre 16 anni), parto cesareo d'urgenza, neonato sottopeso (1880g). Sviluppo motorio e linguistico nella norma. Prima separazione all'asilo senza particolari difficoltà.
+
+**Asse sindromico:** sonno disturbato, autoregolazione deficitaria, comportamenti aggressivi/oppositivi, quota ansiosa → ipotesi: disturbo misto del comportamento e della sfera emozionale con esordio nell'infanzia? Disturbo di spettro autistico? Altro?
+
+**Griglia strutturale (Palacio Espasa e Dufour):**
+- *Impressione generale:* normosviluppato, sguardo sfuggente, espressione triste/quasi assente; gioco simbolico espressivo; si separa dalla madre con indifferenza
+- *Relazione con l'esaminatore:* inizialmente evitante, poi più caldo; richiama l'attenzione ripetendo "guarda"; all'uscita concede uno sguardo e un sorriso
+- *Forze dell'Io:* motricità nella norma (forse leggermente goffo); potenziale intellettivo difficilmente valutabile; linguaggio ripetitivo con costrutti semplici; flusso del pensiero discontinuo; esame di realtà apparentemente conservato
+- *Affettività:* prevalgono affetti negativi, tono dell'umore deflesso
+- *Difese:* inibizione; momenti di aggressività esplosiva
+- *Pulsioni/fantasmi:* contenuti depressivi (i cavalli muoiono, il bambino si ferisce); gioco centrato sui bisogni primari di accudimento
+- *Immagine di sé:* articolata intorno ai bisogni primari di accudimento e autonomia nel prendersi cura di sé (sceglie il bebé e se ne occupa esclusivamente)
+- *Super-Io:* rispetta il materiale e i confini della consultazione; mostra di aver integrato le regole di comportamento
+
+**Asse ambientale:**
+- Contesto socialmente sfavorito (zona industriale, emarginazione)
+- Famiglia priva di struttura chiara, assenza del padre; madre e nonna si sostengono in relazione di mutuo aiuto (un po' caotica)
+- Scuola pubblica solida e accogliente
+- Disturbo psichico nel gruppo di accudimento primario: madre con ansia e tratti borderline (compensata)
+
+**Ipotesi diagnostiche e indicazioni terapeutiche:**
+- Bambino con buone risorse, sufficientemente strutturato ma ansioso e triste; scarica la tensione nel comportamento ma sa esprimere il conflitto simbolicamente
+- F92.9 — Disturbo misto delle emozioni e della condotta (ICD-10)
+- Z63.8 — Disturbo psichico del genitore
+- Z59.1 — Condizioni di fragilità psicosociale
+- Interventi: intervento psicoeducativo a domicilio (SAE o simile), lavoro di rete con SPS, psicoterapia orientata alla relazione madre-bambino
+
+---
+
+## L'adolescenza come fase evolutiva
+
+La seconda parte della lezione (altra docente) sposta il fuoco sull'adolescenza — il terreno in cui normalità e patologia si intrecciano in modo ancora più complesso, anche perché chi lavora con gli adolescenti è spesso a disagio quanto i genitori.
+
+### Definire l'adolescenza
+
+**Anna Freud** (1964) scriveva che è *normale* per un adolescente comportarsi in maniera incoerente e imprevedibile per un periodo particolarmente lungo: combattere e accettare, amare e odiare i genitori, ribellarsi e dipendere, cercare costantemente la propria identità. Queste fluttuazioni sarebbero giudicate "anormali" in qualsiasi altro periodo della vita.
+
+Un'altra definizione, dal testo *La fatica di diventare grande* di uno psichiatra italiano: l'adolescente si è bruciato il passato alle spalle ma non sa ancora la direzione da prendere, si è separato dagli oggetti d'amore infantili ma non ha ancora costruito nuovi legami stabili. Si trova in mezzo.
+
+Per definizione, l'adolescenza è la fase che si estende per gran parte della seconda decade di vita, in cui l'individuo acquisisce le caratteristiche fisiche e fisiologiche dell'età adulta, e le competenze cognitive e sociali necessarie per integrarsi nel mondo adulto. È una fase di passaggio — e come tutte le fasi di passaggio, richiede di attraversare qualcosa.
+
+### I riti di passaggio (Van Gennep)
+
+**Arnold van Gennep** è stato il primo a studiare sistematicamente i riti di passaggio, osservando che ogni società riconosce e ritualizza i passaggi importanti del ciclo di vita. Secondo lui, ogni rito si completa in tre fasi:
+
+1. **Distacco** → separazione dallo status precedente
+2. **Fase liminare** (da *limen*, soglia) → periodo di transizione, sospensione dalla vita normale; fase del lutto, potenzialmente angosciante, che minaccia l'identità del soggetto. È come il corridoio tra due stanze — devi attraversarlo per passare da una all'altra.
+3. **Aggregazione** → ingresso definitivo nel nuovo status
+
+Il rito ha due funzioni: ridurre l'angoscia individuale (la collettività si organizza per non lasciare il soggetto solo nell'angoscia) e rinforzare la coesione collettiva, trasmettendo valori e simboli.
+
+**Oggi**, nella società contemporanea, molti di questi riti sono scomparsi o hanno perso la loro valenza simbolica. La laurea, il matrimonio, il primo lavoro — hanno cambiato significato. Il passaggio all'età adulta è diventato più lungo, più sfumato, privo di marcatori chiari. Questo rende più difficile per l'adolescente sapere "a cosa deve arrivare". Gli adulti devono cercare di marcare in qualche modo questo confine — altrimenti gli adolescenti lo costruiscono da soli, spesso attraverso rituali di trasgressione perpetua.
+
+### L'evoluzione storica del modello familiare
+
+Negli anni '50–60 predominava la **famiglia gerarchica/patriarcale**: prima il dovere, poi il piacere; sottomissione all'autorità genitoriale; la disobbedienza non era tollerata. Obiettivo: formare adulti responsabili e controllati. Il trasgressore sviluppava senso di colpa — elaborabile attraverso la punizione.
+
+Con la rivoluzione giovanile degli anni '60 emerge la **famiglia narcisistica-relazionale**: obiettivo di promuovere la realizzazione del figlio, ridurre al minimo il dolore educativo, fornire tutte le risorse necessarie invece di plasmare. Il bambino viene cresciuto con il messaggio "puoi diventare quello che vuoi".
+
+Il problema: in adolescenza arriva il confronto con il reale. Non nasce un senso di colpa (elaborabile), ma un **senso di fallimento identitario** — più profondo, difficile da superare. La docente sottolinea come opinione personale che la sua generazione sia in grande difficoltà educativa: si oscilla tra il dare troppa libertà e il controllare paradossalmente (si promuove l'autonomia ma poi si monitora il rientro a casa).
+
+Sembra che la famiglia narcisistica si stia spostando verso una **famiglia post-narcisistica**, condizionata anche dagli effetti della pandemia: conflitti tra generazioni smorzati, genitori che si confidano coi figli come con amici, giovani che restano a casa sempre più a lungo non solo per difficoltà economiche ma per un assottigliamento della differenza generazionale.
+
+### Il paradosso contemporaneo
+
+La società offre ai giovani un numero enorme di scelte — il che è positivo. Ma troppe scelte senza una guida solida creano paralisi e confusione. L'identità si costruisce nel confronto con l'altro, e questo confronto richiede che esistano *confini chiari*: l'adolescente deve poter riconoscere l'adulto come "altro da me". Entrambe le parti devono riconoscere cosa è lecito fare nelle due condizioni.
+
+Quando questa linea di demarcazione non è visibile, il passaggio diventa molto più faticoso, schiacciato, e si protrae quasi indefinitamente.
 
 ---
 
@@ -354,31 +265,24 @@ di 2500 anni fa.
 
 | Termine | Significato |
 |---|---|
-| **Disease** | Malattia in senso biomedico, misurabile con parametri clinici |
-| **Illness** | Vissuto soggettivo della malattia, come la persona si sente |
-| **Sickness** | Dimensione sociale della malattia, riconoscimento/stigma |
-| **Benessere** | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo |
-| **Norma statistica** | Normalità come conformità alla media della popolazione |
-| **Norma di valore** | Normalità come conformità a un ideale |
-| **Norma personale** | Normalità rispetto al proprio funzionamento precedente |
-| **Agentività** | Atteggiamento attivo del soggetto verso la propria condizione |
-| **Catarsi** | Purificazione emotiva attraverso la partecipazione alla tragedia |
-| **Omeostasi** | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio |
-| **To cure** | Terapia: eliminare la malattia |
-| **To care** | Cura: prendersi cura del benessere, sempre praticabile |
+| **Norma statistica** | Normale = nella media quantitativa; rischia di diventare prescrittiva |
+| **Sintomo** | In età evolutiva: espressione della fatica di crescere, non necessariamente patologia |
+| **Segno** | Fenomeno oggettivo e misurabile rilevabile dal clinico |
+| **Markers biologici** | Sostanze misurabili che segnalano un processo morboso; assenti in psichiatria |
+| **Sintomi patognomonici** | Sintomi specifici di una sola malattia; quasi assenti in psichiatria |
+| **Sintomi negativi** | Sintomi silenziosi (ritiro, apatia); spesso prognosticamente più gravi di quelli "rumorosi" |
+| **Anedonia** | Assenza di interesse per attività normalmente piacevoli; sintomo non specifico |
+| **Regressione** | Ritorno temporaneo a comportamenti più infantili; normale in certi contesti evolutivi |
+| **Fissazione** | Punto dello sviluppo in cui il bambino "si ferma al sicuro" durante le regressioni |
+| **CBCL** | Strumento per mappare aree internalizzanti (ansia, ritiro) ed esternalizzanti (aggressività) |
+| **Fase liminare** | Fase di transizione nei riti di passaggio; di sospensione e potenziale angoscia |
+| **Famiglia narcisistica** | Modello familiare contemporaneo centrato sulla realizzazione del figlio |
+| **Anamnesi** | Raccolta della storia di sviluppo del bambino (gravidanza, parto, tappe...) |
+
+---
 
 ## Collegamenti
 
-- **Autori citati:** Christopher Boorse (1977),
-  Carol Ryff, Tiziano Terzani (*L'ultimo giro di
-  giostra*), Callieri & C. (1999), Nadia Murad
-- **Lezioni successive:** Storia della follia
-  (25.02), L'incontro con l'alienità (4.03), Dal
-  modello psicoanalitico alle difese (11.03)
-- **Temi aperti:** Come cambiano le categorie
-  diagnostiche nel tempo? Come si costruisce una
-  diagnosi psichiatrica? (L'omosessualità come
-  esempio storico sarà ripreso)
-- **Da ricordare:** il vademecum del modulo
-  contiene i contenuti in forma scritta con i
-  riferimenti bibliografici precisi
+- **Autori citati:** Marcelli (1999), D.W. Winnicott, Jean Bergeret (1974), Otto Kernberg (1984), Palacio Espasa e Dufour, Anna Freud (1964), Arnold van Gennep (riti di passaggio)
+- **Lezioni precedenti:** riferimento ai modelli di sviluppo cognitivo in adolescenza già trattati; stadi di Erikson (intimità vs isolamento; generatività vs stagnazione); Jung e la psicologia del profondo; Levinson e il ciclo di vita adulta
+- **Temi aperti:** come lavorare concretamente con le famiglie in difficoltà educativa; il ruolo del lavoro sociale nella rete intorno al bambino; la diagnosi in età evolutiva come processo dinamico, non come etichetta definitiva
