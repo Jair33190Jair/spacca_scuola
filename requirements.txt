@@ -1,7 +1,9 @@
-openai-whisper
-
 # PDF text extraction (src/estrai_pdf.py)
 PyMuPDF
 Pillow
 pytesseract
 pdf2image
+
+# MD → PDF export (src/md_to_pdf.py)
+weasyprint
+markdown2

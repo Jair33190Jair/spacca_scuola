@@ -42,7 +42,6 @@ i concetti più vicini alla sua esperienza.
 ## Stile di apprendimento
 
 Informazioni su come Jony impara meglio.
-Compilare man mano che si osservano pattern.
 
 - **Preferisce:** _tag mentali, mappe concettuali, tecniche di memorizzazione come il palazzo della memoria, brainstorming e "il metodo geniale" di Giulio Deangeli e anche Nicoletta Todesco._
   (es. esempi concreti, schemi visivi,

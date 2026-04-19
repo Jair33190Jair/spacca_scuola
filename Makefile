@@ -1,4 +1,4 @@
-PYTHON  := python3
+PYTHON  := .venv/bin/python
 SRC     := src
 DPI     ?= 300
 
@@ -6,7 +6,17 @@ DPI     ?= 300
 #   make preprocess FOLDER=02_semestre/salute_mentale/01_intro/risorse
 #   make preprocess FOLDER=02_semestre/salute_mentale
 
-.PHONY: preprocess
+.PHONY: preprocess export_pdf
+
+# Usage:
+#   make export_pdf FOLDER=02_semestre/salute_mentale
+#   make export_pdf FOLDER=02_semestre/salute_mentale/01_intro
+
+export_pdf:
+ifndef FOLDER
+	$(error FOLDER is required, e.g. make export_pdf FOLDER=02_semestre/salute_mentale)
+endif
+	$(PYTHON) $(SRC)/md_to_pdf.py "$(FOLDER)"
 
 preprocess:
 ifndef FOLDER
@@ -36,11 +46,11 @@ endif
 			txt="$${pdf%.pdf}.txt"; \
 			if [ ! -f "$$txt" ]; then \
 				echo "[pdf2txt] $$pdf"; \
-				$(PYTHON) $(SRC)/S1_pdf2txt.py "$$pdf" --dpi $(DPI); \
+				$(PYTHON) $(SRC)/pdf_to_txt.py "$$pdf" --dpi $(DPI); \
 			else \
 				echo "[pdf2txt] $$(basename "$$pdf") — .txt exists, skipping"; \
 			fi; \
 		done; \
 		echo "── normalize ───────────────────────────────"; \
-		$(PYTHON) $(SRC)/S1_txt_normalizer.py "$$dir"; \
+		$(PYTHON) $(SRC)/txt_normalizer.py "$$dir"; \
 	done

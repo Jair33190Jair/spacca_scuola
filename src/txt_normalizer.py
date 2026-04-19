@@ -9,7 +9,7 @@ sentences into paragraph-sized blocks for easier LLM
 consumption.
 
 Usage:
-  python src/S1_txt_normalizer.py path/to/risorse/
+  python src/txt_normalizer.py path/to/risorse/
 """
 
 import argparse

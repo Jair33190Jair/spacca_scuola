@@ -5,9 +5,10 @@ Mantienilo pratico e aggiornato.
 
 ## Panoramica del progetto
 
-SpaccaScuola trasforma registrazioni audio, PDF,
-slide e appunti scansionati delle lezioni universitarie
-in materiale di studio strutturato.
+SpaccaScuola trasforma PDF, slide e appunti scansionati
+delle lezioni universitarie in materiale di studio
+strutturato (tre riassunti per lezione + ampia panoramica
+di materia).
 
 Utente: studente di Scienze Sociali (30 anni),
 lezioni in italiano.
@@ -28,7 +29,7 @@ spacca_scuola/
 │   │   │   │   ├── 01_riassunto_dettagliato.md
 │   │   │   │   ├── 02_riassunto_breve.md
 │   │   │   │   └── 03_riassunto_schematico.md
-│   │   │   └── risorse/       ← input: PDF, audio, slide, scansioni
+│   │   │   └── risorse/       ← input: trascrizione_NN.txt + PDF/slide/scansioni
 │   │   └── ...
 │   └── template_materia/       ← template vuoto da copiare
 │
@@ -43,36 +44,46 @@ spacca_scuola/
 │
 ├── 02_architettura/decisioni/  ← decisioni architetturali (ADR)
 ├── aiuto/comandi.md            ← cheatsheet comandi CLI/git
-├── src/                        ← script e tool di pre-processing
-├── trascrivi.sh                ← audio → testo
+├── src/                        ← script di pre-processing ed export PDF
+├── Makefile                    ← comandi `preprocess` / `export_pdf`
+├── .claude/skills/             ← skill `genera-riassunti`, `exporta-pdf`
 └── README.md                   ← setup e uso quotidiano
 ```
 
 ## Pipeline di elaborazione
 
-```
-risorse/ (PDF, audio, slide, scansioni)
-    │
-    ├── audio → ./trascrivi.sh → trascrizione testo
-    ├── PDF/slide → (diretto o OCR via Tesseract)
-    └── scansioni → OCR Tesseract → testo
-    │
-    ▼
-pre-processing (src/) → input pulito e unificato
-    │
-    ▼
-Claude API + istruzioni (ai_assistant/ai_guide/)
-    │
-    ▼
-gen/
-├── 01_riassunto_dettagliato.md
-├── 02_riassunto_breve.md
-└── 03_riassunto_schematico.md
+L'utente mette in `risorse/`:
+- una o più `trascrizione_NN.txt` (scritte a mano, obbligatorio almeno una)
+- PDF, slide, scansioni
 
-Dopo tutte le lezioni di una materia:
-    ▼
-gen_ampia_panoramica.md  (a livello materia)
+Poi esegue due comandi:
+
 ```
+/genera-riassunti <path-lezione-o-materia>
+    │
+    ├── 1. make preprocess  (invocato dalla skill, non dall'utente)
+    │      └── OCR Tesseract + normalizzazione
+    │          (src/pdf_to_txt.py, src/txt_normalizer.py)
+    │          → risorse/*.txt
+    │
+    ├── 2. subagente A per ogni lezione
+    │      └── legge risorse/*.txt + ai_assistant/ai_guide/
+    │          → gen/01_riassunto_dettagliato.md
+    │          → gen/02_riassunto_breve.md
+    │          → gen/03_riassunto_schematico.md
+    │
+    └── 3. subagente B (una volta, a livello materia)
+           └── aggrega i 03_riassunto_schematico.md
+               → gen_ampia_panoramica.md
+
+make export_pdf FOLDER=<path>   (o skill /exporta-pdf)
+    └── converte i .md generati in PDF e li comprime in zip
+```
+
+**Nota:** `make preprocess` è un dettaglio interno della
+skill `/genera-riassunti`, non un passo che l'utente lancia
+a mano. Rimane disponibile nel Makefile per debug o
+riesecuzione isolata dell'OCR.
 
 ## Documenti chiave
 

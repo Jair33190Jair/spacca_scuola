@@ -5,30 +5,19 @@
 
 ---
 
-## Trascrizione audio
-
-| Campo | Valore | Stato |
-| --- | --- | --- |
-| Tool | Whisper (OpenAI, locale) | Confermato |
-| Modello | medium | Confermato |
-| Lingua | italiano | Confermato |
-| Formato output | txt | Confermato |
-| Costo | Gratis (esecuzione locale) | — |
-| Script | `trascrivi.sh` | Funzionante |
-
----
-
-## OCR (documenti scansionati)
+## OCR (PDF e documenti scansionati)
 
 Decisione documentata in
 `02_architettura/decisioni/01_ocr.md`.
 
 | Campo | Valore | Stato |
 | --- | --- | --- |
-| Tool | Tesseract | Confermato |
+| Tool | Tesseract (+ Poppler) | Confermato |
 | Esecuzione | Locale | Confermato |
+| Lingua | italiano | Confermato |
 | Costo | Gratis | — |
-| Script | TBD (in `src/`) | In costruzione |
+| Script | `src/pdf_to_txt.py`, `src/txt_normalizer.py` | Funzionante |
+| Orchestrazione | `make preprocess FOLDER=...` | Funzionante |
 
 ---
 
@@ -36,10 +25,20 @@ Decisione documentata in
 
 | Campo | Valore | Stato |
 | --- | --- | --- |
-| Provider | Anthropic (Claude API) | Confermato |
-| Interfaccia | Claude Code CLI | Confermato |
-| Costo | ~€0.10–0.30 per lezione | — |
+| Provider | Anthropic | Confermato |
+| Interfaccia | Claude Code CLI (nessuna API key) | Confermato |
+| Skill principali | `/genera-riassunti`, `/exporta-pdf` | Funzionanti |
 | Istruzioni | `ai_assistant/ai_guide/*.md` | In costruzione |
+
+---
+
+## Export PDF
+
+| Campo | Valore | Stato |
+| --- | --- | --- |
+| Tool | weasyprint + markdown2 | Confermato |
+| Script | `src/md_to_pdf.py` | Funzionante |
+| Orchestrazione | `make export_pdf FOLDER=...` | Funzionante |
 
 ---
 
@@ -47,21 +46,7 @@ Decisione documentata in
 
 | Campo | Valore |
 | --- | --- |
-| Runtime | Python 3.x |
+| Runtime | Python 3.9+ |
 | Packages | `requirements.txt` |
-| Sistema | ffmpeg, Node.js (per Claude Code) |
-| OS testato | macOS Sonoma+ |
-
----
-
-## Pre-processing (pianificato)
-
-Tool per unificare input eterogenei (audio, PDF,
-slide, scansioni) in un formato pulito prima
-dell'elaborazione AI.
-
-| Campo | Valore | Stato |
-| --- | --- | --- |
-| Posizione | `src/` | In costruzione |
-| Input supportati | audio, PDF, PPT, scansioni | Pianificato |
-| Output | testo unificato per Claude | Pianificato |
+| Sistema | Tesseract, Poppler, Node.js (per Claude Code) |
+| OS testato | macOS Sonoma+, Linux/WSL (Ubuntu) |

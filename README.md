@@ -1,122 +1,157 @@
 # 📚 SpaccaScuola
 
-##
+Trasforma i materiali delle lezioni (PDF, slide, scansioni,
+trascrizioni) in riassunti di studio strutturati:
 
-**Mette asieme registratzioni + Risorsi della lezione e crea:**
+1. **Riassunto dettagliato**
+2. **Riassunto breve**
+3. **Riassunto schematico**
 
-1. **Riassunto breve** — la lezione in 500 parole
-2. **Bullet points** — concetti gerarchici pronti per il ripasso
-3. **Tabella concetti** — definizioni, autori, collegamenti
-4. **Mappa mentale** — struttura da ridisegnare a mano per studiare
+Dopo aver generato tutte le lezioni di una materia, produce
+anche un'**ampia panoramica** di materia.
 
 ## Requisiti
 
-- macOS (testato su Sonoma+)
-- Homebrew
-- Una API key di Anthropic (console.anthropic.com)
+- Python 3.9+
+- Node.js (per Claude Code CLI)
+- Tesseract OCR + Poppler (per estrarre testo dai PDF)
+- Claude Code CLI (nessuna API key richiesta: basta l'account
+  Claude usato da `claude`)
 
-## Installazione rapida
+## Installazione
+
+### macOS
 
 ```bash
-# 1. Installa le dipendenze
-brew install node openai-whisper ffmpeg
-
-# 2. Installa Claude Code
+brew install tesseract poppler node
 npm install -g @anthropic-ai/claude-code
 
-# 3. Configura la API key
-echo 'export ANTHROPIC_API_KEY="sk-ant-..."' >> ~/.zshrc
-source ~/.zshrc
-
-# 4. Clona/copia questa cartella
-cd ~/SpaccaScuola
-
-# 5. Rendi eseguibili gli script
-chmod +x trascrivi.sh elabora.sh
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 ```
 
-## Uso quotidiano
-
-### Due comandi e basta:
+### Linux / WSL
 
 ```bash
-# Passo 1: Trascrivi l'audio
-./trascrivi.sh audio/lezione-2026-04-07.m4a
+sudo apt update
+sudo apt install -y tesseract-ocr tesseract-ocr-ita \
+  poppler-utils nodejs npm
+npm install -g @anthropic-ai/claude-code
 
-# Passo 2: Genera il materiale di studio
-./elabora.sh trascrizioni/lezione-2026-04-07.txt
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 ```
 
-I file verranno salvati in `output/lezione-2026-04-07/`.
+> Ogni volta che apri il progetto: `source .venv/bin/activate`
 
-### Uso interattivo (per domande specifiche):
+## Come si usa
+
+### 1. Aggiungi i materiali di una lezione
+
+Metti tutto nella cartella `risorse/` della lezione:
+
+```
+02_semestre/<materia>/<NN>_<nome_lezione>/risorse/
+├── trascrizione_01.txt   ← trascrizione della lezione
+├── slide.pdf             ← slide del professore
+├── appunti_scansione.pdf ← scansioni di appunti
+└── ...
+```
+
+- **Trascrizioni** → le crei tu (tipicamente come
+  `trascrizione_NN.txt`) e le metti qui. Almeno **una**
+  trascrizione `.txt` deve essere presente, altrimenti
+  `/genera-riassunti` si interrompe.
+- **PDF, slide, scansioni** → basta copiarli. Vengono
+  convertiti automaticamente in `.txt` via OCR quando
+  lanci `/genera-riassunti`.
+
+Per una nuova materia, copia `02_semestre/template_materia/`
+come punto di partenza.
+
+### 2. Genera i riassunti con Claude Code
+
+Apri Claude Code dalla root del progetto:
 
 ```bash
-cd ~/SpaccaScuola
 claude
-
-# Poi scrivi quello che vuoi:
-> Leggi trascrizioni/lezione-01.txt e fammi un riassunto
-> Confronta le ultime 3 lezioni in archivio/
-> Quali autori sono stati citati più spesso?
 ```
 
-## Struttura delle cartelle
+Poi usa la skill:
 
 ```
-SpaccaScuola/
-├── audio/          ← metti qui le registrazioni
-├── trascrizioni/   ← testo generato da Whisper
-├── output/         ← materiale di studio
-├── archivio/       ← lezioni passate (per contesto)
-├── CLAUDE.md       ← istruzioni per Claude (PERSONALIZZA!)
-├── trascrivi.sh    ← script trascrizione
-├── elabora.sh      ← script elaborazione
-└── README.md       ← questo file
+/genera-riassunti 02_semestre/<materia>/<NN>_<lezione>
+```
+
+Per tutta la materia (operazione più lunga, richiede il flag):
+
+```
+/genera-riassunti 02_semestre/<materia> forza
+```
+
+La skill fa in automatico:
+
+1. OCR dei PDF in `risorse/` (equivale a `make preprocess`).
+2. Generazione dei 3 riassunti in `<lezione>/gen/`.
+3. Aggiornamento di `<materia>/gen_ampia_panoramica.md`.
+
+### 3. Esporta i PDF
+
+Sempre dentro Claude Code, usa la skill:
+
+```
+/exporta-pdf 02_semestre/<materia>/<NN>_<lezione>
+```
+
+Per tutta la materia (un unico zip con tutte le lezioni +
+ampia panoramica):
+
+```
+/exporta-pdf 02_semestre/<materia>
+```
+
+Lo zip viene salvato accanto alla cartella della lezione
+(o della materia).
+
+## Struttura del repository
+
+```
+spacca_scuola/
+├── 02_semestre/
+│   ├── <materia>/
+│   │   ├── gen_ampia_panoramica.md
+│   │   └── <NN>_<lezione>/
+│   │       ├── risorse/   ← input: PDF, slide, scansioni, .txt
+│   │       └── gen/       ← output generati dall'AI
+│   └── template_materia/
+│
+├── ai_assistant/          ← istruzioni per l'AI
+│   ├── ai_context.md
+│   ├── profilo_studente.md
+│   └── ai_guide/          ← formati di output
+│
+├── src/                   ← script di pre-processing ed export
+├── Makefile               ← comandi preprocess / export_pdf
+└── requirements.txt
 ```
 
 ## Personalizzazione
 
-Il file **CLAUDE.md** è il cuore del sistema. Modificalo per:
+Modifica `ai_assistant/profilo_studente.md` e
+`ai_assistant/ai_context.md` per adattare tono, analogie e
+stile dei riassunti al tuo modo di studiare.
 
-- Aggiungere il nome del corso e del professore
-- Specificare argomenti o terminologia della materia
-- Cambiare il formato degli output
-- Aggiungere nuovi comandi rapidi
-
-## Costi
-
-| Componente | Costo |
-|------------|-------|
-| Whisper (locale) | Gratis |
-| Claude API | ~€0.10-0.30 per lezione |
-| Tutto il resto | Gratis |
-| **Totale mensile** | **~€1-3** |
+I formati di output si modificano in `ai_assistant/ai_guide/`.
 
 ## Troubleshooting
 
-**"whisper: command not found"**
-→ `brew install openai-whisper`
-
-**"claude: command not found"**
+**`claude: command not found`**
 → `npm install -g @anthropic-ai/claude-code`
 
-**La trascrizione è imprecisa**
-→ Prova `--model large` nello script (più lento ma più preciso)
-→ Assicurati che la registrazione audio sia chiara
+**`ModuleNotFoundError` durante `make`**
+→ Attiva il venv: `source .venv/bin/activate`
 
-**L'output di Claude non è buono**
-→ Modifica CLAUDE.md con istruzioni più specifiche
-→ Usa `claude` interattivo e digli cosa migliorare
-
-## Backup
-
-```bash
-git add .
-git commit -m "lezione del 7 aprile"
-git push  # se hai configurato GitHub
-```
-
----
-
-*Creato con ❤️ per rendere lo studio più efficiente, non più pigro.*
+**OCR impreciso su una scansione**
+→ Aumenta il DPI: `make preprocess FOLDER=... DPI=400`
