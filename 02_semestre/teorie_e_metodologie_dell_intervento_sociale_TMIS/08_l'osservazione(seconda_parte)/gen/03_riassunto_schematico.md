@@ -1,122 +1,134 @@
-# Introduzione al modulo di Salute Mentale — Schema
-Salute Mentale · Sessione 01
-
-## Struttura del modulo
-
-- **Tre tappe** → clinica · mondo · corpo
-- **Quattro dimensioni trasversali** → spazio ·
-  tempo · identità · incontro
-- **Ruolo operatore sociale** → trait d'union
-  tra discipline specialistiche
+# L'Osservazione (Seconda Parte) — Schema
+TMIS · Sessione 08
 
 ---
 
-## Salute — 7 condizioni di Boorse (1977)
+## Premessa
 
-- **Valore** → la desiderabilità non è universale
-- **Trattamento medico** → né necessario né
-  sufficiente per definire malattia
-- **Norma statistica** → fuori dalla media ≠ malato
-- **Sofferenza** → malattie asintomatiche e dolori
-  fisiologici esistono
-- **Disabilità** → non-abilità ≠ malattia (neonati,
-  sonno)
-- **Adattamento** → l'uomo adatta l'ambiente a sé,
-  non solo il contrario
-- **Omeostasi** → la vita richiede perdita e
-  riconquista continua di equilibrio
-
-⚠️ Nessuna condizione è sufficiente da sola
+- **Dato osservativo** → deve essere fruibile, comunicabile, accessibile
+- **Fruibile nel tempo** → da subito (passaggio di turno) fino a mesi dopo
+- **Comunicabile** → colleghi, équipe, ARP, famiglie, utenti stessi
+- **Accessibile** → adattato al destinatario (professionista ≠ genitore)
 
 ---
 
-## Disease / Illness / Sickness
+## Due Assi delle Tipologie
 
-| Dimensione | Tipo | Riferimento |
+- **Grado di partecipazione** → quanto l'osservatore è nel campo / in relazione
+- **Grado di controllo** → quanto l'osservatore modifica le variabili del contesto
+
+---
+
+## Le 5 Tipologie di Osservazione
+
+### 1. Osservazione Occasionale
+- **Definizione** → spontanea, libera, discontinua, non controllata
+- **Scopo** → cogliere risorse o problemi inattesi degni di approfondimento
+- **Non è** → strutturata né intenzionale
+
+### 2. Osservazione Documentaria
+- **Definizione** → analisi di documenti esistenti (diari, referti, cartelle, video)
+- **Scopo** → ricavare informazioni prodotte da altri
+- **Quando** → ingresso in un servizio, studio della storia della persona
+
+### 3. Osservazione Partecipante *(paradigma centrale)*
+- **Padre** → Bronislaw Malinowski (antropologia, fine '800 / inizio '900)
+- **Definizione** → immersione diretta nel contesto per tempo lungo
+  - instaurare relazioni personali
+  - condividere la quotidianità
+  - sviluppare visione "dal di dentro"
+- **Finalità** → comprendere il **significato** che le persone danno alle azioni
+- **Fasi** → preparazione → attuazione → interpretazione dati → socializzazione → verifica
+- **Rilevanza** → paradigma usato in ~50% delle tesi; condizione quasi sempre presente nel lavoro educativo
+
+### 4. Osservazione Sistematica
+- **Definizione** → pianificazione molto strutturata
+  - individua caratteristiche da osservare
+  - le traduce in **item** osservabili
+  - forma gli operatori per replicabilità
+- **Esempio** → Strange Situation (Ainsworth); metodi ABA in autismo
+- **Punto di forza** → replicabilità, comparabilità tra osservatori
+
+### 5. Osservazione con Tecniche Narrative
+- **Definizione** → resoconto discorsivo di elementi significativi
+- **Nessuna struttura rigida preliminare**
+- **Strumenti prevalenti** → qualitativi (diario, annotazioni)
+
+---
+
+## Limiti a Confronto
+
+| | Partecipante | Sistematica |
 |---|---|---|
-| **Disease** | Biomedica | Parametri clinici |
-| **Illness** | Soggettiva | Vissuto personale |
-| **Sickness** | Sociale | Stigma / riconoscimento |
+| **Reattività** | Alta (effetto Hawthorne) | Bassa |
+| **Soggettività** | Alta | Controllata |
+| **Generalizzabilità** | Bassa | Alta |
+| **Complessità relazionale** | Catturata | Persa (frammentazione) |
+| **Dimensione esperienziale** | Presente | Assente |
+| **Replicabilità** | Bassa | Alta |
 
-- Le tre dimensioni possono non coincidere
-- Lo stigma (*sickness* negativa) peggiora
-  l'andamento della malattia
-
----
-
-## Benessere — 6 dimensioni di Ryff
-
-- **Autonomia** → autodeterminazione senza
-  condizionamenti esterni
-- **Controllo ambientale** → valorizzare risorse
-  e possibilità
-- **Relazioni positive** → calore · fiducia ·
-  reciprocità
-- **Autoaccettazione** → consapevolezza qualità
-  e limiti
-- **Percezione di crescita** → vita come sviluppo
-  continuo
-- **Scopo nella vita** → mete e senso
-
-⚠️ Salute ≠ benessere (possono non coincidere)
+→ I punti di forza di uno sono i limiti dell'altro → si combinano in pratica
 
 ---
 
-## Normalità — 3 tipi
+## Tecniche Narrative
 
-| Tipo | Definizione | Rischio |
-|---|---|---|
-| **Statistica** | Nella media della popolazione | Stigma per chi devia |
-| **Di valore** | Ideale da raggiungere | Irraggiungibile → sofferenza perpetua |
-| **Personale** | Rispetto al funzionamento precedente | Idealizzare il passato; la normalità precedente può essere la causa della malattia |
-
----
-
-## Posizione del soggetto verso la malattia
-
-|  | Non si identifica | Si identifica |
-|---|---|---|
-| **Agentivo** | Guarigione → eliminare la condizione | Cura → benessere dentro la condizione |
-| **Passivo** | Delega → "guariscimi" | Delega assistenziale |
-
-- **To cure** → terapia: non sempre possibile
-- **To care** → cura del benessere: sempre possibile
-- *"Non tutto si può guarire, ma tutto può essere
-  curato"*
+| Strumento | Cosa fa | Struttura minima |
+|-----------|---------|-----------------|
+| **Annotazioni aneddotiche** | Nota eventi significativi (incidenti critici) | Data · Contesto · Episodio · Interpretazione (separata) |
+| **Diario di bordo** | Resoconto dettagliato osservazione | Osservatore · Presenti · Descrizione · Ipotesi · Auto-osservazione |
+| **Verbale** | Memoria collettiva dell'équipe | Data · Partecipanti · Argomenti · Decisioni · Tempi · Referenti |
 
 ---
 
-## La tragedia greca
+## Tecniche Sistematiche
 
-- **5 tragedie** → Aiace · Andromaca · Agamennone ·
-  Le Troiane · Le Trachinie
-- **Tre tragediografi** →
-  - Eschilo: la follia viene dagli dèi (forza esterna)
-  - Sofocle: il tragico è la vita stessa
-  - Euripide: il tragico nasce dalle relazioni
-- **Catarsi** → far emergere ed elaborare emozioni
-  difficili attraverso la sofferenza altrui
-- **Esercizio pedagogico** →
-  leggere → condividere → sintetizzare → mettere in scena
+| Strumento | Logica | Differenza chiave |
+|-----------|--------|------------------|
+| **Check-list** | Presenza / assenza | Solo sì/no, nient'altro |
+| **Griglia di osservazione** | Presenza / assenza + annotazioni | Spazio descrittivo libero; struttura doppia (osservatore / osservato) |
+| **Scala di valutazione** | Valore (intensità / frequenza) | Non sì/no → gradazione numerica, descrittiva, con avverbi o grafica |
+| **Videoregistrazione** | Ripresa fedele | Può essere rivista da più persone; richiede consenso informato |
 
 ---
 
-### Autori / Date / Riferimenti
+## Come Scegliere lo Strumento
+
+- **In base allo scopo** dell'osservazione
+- **In base al tipo** di osservazione
+- **In base alle possibilità reali** del contesto
+
+→ Nella pratica: quasi sempre **strumenti ibridi** (mix di tipologie)
+
+---
+
+## Accorgimenti per Ridurre la Soggettività
+
+1. **Obiettivi chiari** prima di osservare
+2. **Osservazioni ripetute** nel tempo
+3. **Trascrizione immediata** dopo l'osservazione
+4. **Strumento coerente** con gli obiettivi
+5. **Dimestichezza** con lo strumento
+6. **Più osservatori** quando possibile
+7. **Dati sul contesto** fisico e sociale
+8. **Precisione temporale** (durata, sequenza)
+9. **Linguaggio descrittivo** (non valutativo)
+
+---
+
+## Autori / Date / Riferimenti
 
 | Chi | Cosa | Quando |
-|---|---|---|
-| Christopher Boorse | 7 condizioni della salute | 1977 |
-| Carol Ryff | 6 dimensioni del benessere | — |
-| Callieri & C. | Definizione di clinica | 1999 |
-| Tiziano Terzani | *L'ultimo giro di giostra* | — |
-| Nadia Murad | Attivista, Premio Nobel per la Pace | — |
-| Guidorizzi | Follia nella tragedia greca | 2010 |
+|-----|------|--------|
+| Bronislaw Malinowski | Fondatore dell'osservazione partecipante | Fine '800 / inizio '900 |
+| Mary Ainsworth | Esperimento Strange Situation (attaccamento) | Anni '70 |
+| Maida, Molteni, Nuzzo | *Educazione e osservazione*, Carocci | 2022 |
+| Corbetta | Definizione osservazione partecipante | 1999 |
+| Braga | Accorgimenti per ridurre la soggettività | 1994 |
+| Zaghi | Fruibilità del dato osservativo | 1995 |
+
+---
 
 ### Parole chiave
 
-`salute` · `benessere` · `normalità` · `disease`
-· `illness` · `sickness` · `Boorse` · `Ryff` ·
-`agentività` · `omeostasi` · `norma statistica`
-· `norma di valore` · `norma personale` ·
-`catarsi` · `guarigione` · `cura` · `to cure`
-· `to care` · `tragedia greca` · `clinica`
+`osservazione occasionale` · `osservazione documentaria` · `osservazione partecipante` · `osservazione sistematica` · `tecniche narrative` · `tecniche sistematiche` · `grado di partecipazione` · `grado di controllo` · `item` · `effetto Hawthorne` · `reattività` · `replicabilità` · `fruibilità` · `auto-osservazione` · `annotazioni aneddotiche` · `diario di bordo` · `verbale` · `check-list` · `griglia di osservazione` · `scala di valutazione` · `Malinowski`

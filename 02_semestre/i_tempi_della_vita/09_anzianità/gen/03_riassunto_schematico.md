@@ -1,154 +1,208 @@
-# L'Anzianità — Schema
-I tempi della vita · Sessione 09–14
+# Lezione 09 — Anzianità: Schema
+## I Tempi della Vita | Lavoro Sociale — 2° semestre
+
+---
+
+## 4 idee forti (Cavalli)
+
+1. Invecchiare ≠ declinare (guadagni a tutte le età — CEVI research)
+2. Vecchiaia = costruzione sociale (AVS 1948 come marcatore storico)
+3. Eterogeneità massima (variabilità interindividuale più alta in questa fase)
+4. Anziani di domani = baby boomer, profilo radicalmente diverso
 
 ---
 
 ## Psicologia dell'invecchiamento
 
-- **Nascita disciplina** → anni '80
-- **3 branche** (Birren & Schroots, 1996):
-  - **Psicologia dell'invecchiamento** → cambiamenti comportamentali, prospettiva life-span
-  - **Psicologia della vecchiaia** → problemi bio-socio-psicologici
-  - **Psicologia delle differenze d'età** → confronto tra gruppi di età
+**Campo:** disciplina autonoma da ~60-70 anni
+- Ps. dell'invecchiamento (processi)
+- Ps. della vecchiaia (caratteristiche)
+- Ps. differenziale dell'età (differenze tra gruppi)
+
+**Teorie:**
+- `Disimpegno` → ritiro reciproco individuo/società (Cumming & Henry 1961) — molto criticata
+- `Attività` → invecchiamento sano = mantenere attività, sostituire ruoli perduti
+- `Continuità` → adattamento riuscito tramite mantenimento di abitudini e valori (Atchley)
 
 ---
 
-## Teorie dello stile di vita
+## Eterogeneità e tipi di età
 
-- **Disimpegno** (Cumming & Henry, 1961) → ritiro sociale = normale preparazione alla morte
-  - Critica: giustifica abbandono; relazioni sociali → benessere
-- **Attività** (Havinghurst & Dreer, 1963) → mantenere attività = invecchiare bene
-  - Critica: modello adulto-centrico; ignora differenze di personalità
-- **Continuità** (Atchley, 1976) → mantenere livello pre-pensionamento
-  - Critica: richiede salute e inserimento sociale
+**4 tipi di età:**
+- `Anagrafica` → anni dal momento della nascita
+- `Biologica` → condizione di organi e sistemi
+- `Cerebrale` → stato cognitivo e velocità di elaborazione
+- `Soggettiva/mentale` → come ci si sente
 
----
-
-## Eterocronia (Moser, Pezzati, Luban-Plozza, 2002)
-
-- **Inter-personale** → stessa età, condizioni diverse tra persone
-- **Intra-personale** → stessa persona, ritmi diversi (fisico ≠ cognitivo ≠ mentale)
+**Problema dell'età anagrafica:** arbitraria come criterio clinico/sociale
+- Esempio: misure COVID-19 Ticino per "over 65" (marzo 2020)
+- Swiss100: mediana percezione ingresso vecchiaia = **98 anni**
 
 ---
 
-## Le 4 età (Balducci, 1990)
+## Fragilizzazione e fragilità
 
-- **Anagrafica** → anni dalla nascita
-- **Somatica** → salute fisica / speranza di vita
-- **Cerebrale** → funzionamento cognitivo
-- **Mentale** → percezione soggettiva di sé
-
----
-
-## Intelligenza (Cattell, 1963)
-
-- **Fluida** → situazioni nuove, velocità → picco 20-30a → declino
-- **Cristallizzata** → conoscenze accumulate → cresce fino a mezza età → declino dopo 60
+- `Fragilizzazione` → riduzione progressiva riserve fisiologiche/sensoriali/motorie (processo normale)
+- `Fragilità` → stato in cui riserve ridotte minacciano equilibrio con l'ambiente
+  - Fonte: Lalive d'Epinay & Spini 2008
 
 ---
 
-## Baltes — Invecchiamento cognitivo
+## Terza e quarta età (Lalive d'Epinay & Cavalli 2013)
 
-- **Mechanics** (ragionamento, memoria, velocità percettiva) → declino precoce
-- **Pragmatics** (abilità verbali/numeriche) → stabili fino a 60-70a
-
-**3 processi di declino:**
-1. Velocità processamento ↓
-2. Risorse elaborazione ↓
-3. Efficienza processi inibitori ↓
-
-**Modello SOC — Successful Aging:**
-- **S**elezione → scegliere le attività prioritarie
-- **O**ttimazione → investire più in queste aree
-- **C**ompensazione → usare capacità integre o aiuti esterni
+- `Terza età` → post-pensionamento, ma non ancora "vecchio"; risorse ancora integre
+- `Quarta età` → fragilità, dipendenza, riduzione delle riserve significativa
 
 ---
 
-## Riserva cognitiva (Stern, 2009)
+## Identità di luogo (place identity)
 
-→ Resistenza individuale al declino cognitivo
+**Funzioni psicologiche della casa:**
+- Continuità (prova materiale dell'identità nel tempo)
+- Controllo (autonomia decisionale nello spazio proprio)
+- Protezione (sicurezza cognitiva ed emotiva)
 
-Costruita da:
-- Livello istruzione
-- Tipo di occupazione
-- Abilità cognitiva generale
-- Attività stimolanti (cognitivo + sociale + fisico)
-
----
-
-## Le 4 idee forti — Cavalli (prospettiva sociologica)
-
-1. **Invecchiamento ≠ solo perdite**
-   - Life-span (Baltes, 1987): guadagni + perdite a tutte le età
-   - CEVI (15 paesi): fino 80a guadagni > perdite (Heckhausen et al., 1989)
-
-2. **Terza età vs Quarta età**
-   - **Terza età** (Laslett, 1992) → pensionati attivi/sani, novità del '900
-   - **Quarta età** (Lalive d'Epinay & Cavalli, 2013) → fragilizzazione avanzata
-   - **Fragilizzazione** → riduzione progressiva riserve fisiologiche/sensorimotorie
-   - **Fragilità** → fragilizzazione compromette equilibrio con l'ambiente
-   - Età anagrafica = utile ma arbitraria e stigmatizzante
-
-3. **Anziani di ieri ≠ oggi ≠ domani**
-   - Invecchiamento influenzato da contesto storico-sociale
-   - Diagramma di Lexis → traiettorie di vita nel flusso della storia
-   - Anziano di domani (Cavalli & Corna, 2020): più istruito, connesso, migrante, autonomo
-
-4. **Gli anziani NON sono tutti uguali**
-   - Massima eterogeneità in questa fase (Trabucchi, 2016)
-   - → "La persona anziana non esiste"
+**Eventi marcatori:**
+- `Abbandono patente` → perdita di mobilità e indipendenza; impatto psicologico rilevante
+- `Ingresso casa anziani` → rottura dell'identità di luogo; transizione identitaria
 
 ---
 
-## Ruoli sociali nell'anzianità
+## Intelligenza (Cattell / Baltes / Schaie)
 
-- **Pensionamento** → evento marcatore; lavoro = identità + tempo + relazioni
-- **Nonni** → guardiani della famiglia (Belsky); accudimento nipoti; mediatori famigliari
-- **Abbandono patente** → evento marcatore: perdita autonomia + isolamento sociale
-- **Place identity** (Proshansky, 1978) → i luoghi = parte dell'identità
-  - Bisogni: identità · continuità · controllo · autoprotezione
-
----
-
-## COVID-19 e dignità (Cavalli et al., 2021)
-
-- Misure over 65 in Ticino (marzo 2020) → divieto spesa, "letargo"
-- Uso età anagrafica → comodo ma arbitrario → stigma → lesione della dignità
-
----
-
-## SWISS100 (2020-2025)
-
-- 240 centenari svizzeri, studio nazionale rappresentativo
-- Percezione ingresso nella vecchiaia: **mediana = 98 anni**
-- 55% cita evento specifico; 45% processo graduale
-
----
-
-### Autori / Date / Riferimenti
-
-| Chi | Cosa | Quando |
+| Tipo | Contenuto | Traiettoria |
 |---|---|---|
-| Birren & Schroots | 3 branche psicologia invecchiamento | 1996 |
-| Cumming & Henry | Teoria del disimpegno | 1961 |
-| Havinghurst & Dreer | Teoria dell'attività | 1963 |
-| Atchley | Teoria della continuità | 1976 |
-| Cattell | Intelligenza fluida / cristallizzata | 1963 |
-| Baltes | Life-span; SOC; mechanics/pragmatics | 1987–2003 |
-| Stern | Riserva cognitiva | 2009 |
-| Proshansky | Place identity | 1978 |
-| Schaie et al. | Seattle Longitudinal Study | 1996–2006 |
-| Heckhausen et al. | Guadagni/perdite nel corso della vita | 1989 |
-| Laslett | Terza età | 1992 |
-| Lalive d'Epinay & Spini | Fragilità e fragilizzazione | 2008 |
-| Lalive d'Epinay & Cavalli | Quarta età | 2013 |
-| Trabucchi | Eterogeneità anziani | 2016 |
-| Cavalli & Corna | Ritratto anziano di domani | 2020 |
-| Cavalli et al. | Dignità, anziani e COVID-19 | 2021 |
-| Cavalli & Corna | Invecchiamento: sfide e opportunità | 2022 |
+| **Fluida** | Velocità, memoria di lavoro, problem solving su novità | Declino da ~25-30 anni |
+| **Cristallizzata** | Conoscenze, vocabolario, competenze acquisite | Stabile fino a 70+ anni |
+
+**Seattle Longitudinal Study (Schaie):** conferma empirica del modello
 
 ---
 
-### Parole chiave
+## Riserva cognitiva
 
-`eterocronia` · `intelligenza fluida` · `intelligenza cristallizzata` · `mechanics of cognition` · `pragmatics of cognition` · `SOC` · `riserva cognitiva` · `terza età` · `quarta età` · `fragilizzazione` · `fragilità` · `place identity` · `disimpegno` · `attività` · `continuità` · `life-span` · `età anagrafica` · `età mentale` · `carico allostatico` · `diagramma di Lexis` · `CEVI` · `SWISS100`
+**Definizione:** capacità del cervello di compensare perdite usando percorsi alternativi
+
+**Come si costruisce:**
+- Istruzione
+- Attività cognitiva stimolante (lavoro, lettura, puzzle)
+- Attività fisica (vascolarizzazione cerebrale)
+- Engagement sociale
+- Bilinguismo/multilinguismo
+
+**Carico allostatico** (Belsky): costo biologico cumulativo dello stress cronico → accelera invecchiamento cerebrale
+
+---
+
+## SOC — Ottimizzazione Selettiva con Compensazione (Baltes)
+
+- `Selezione` → ridurre obiettivi, concentrarsi su priorità
+- `Ottimizzazione` → investire tempo/pratica su ciò che si vuole mantenere
+- `Compensazione` → usare risorse alternative quando una viene meno
+- Esempio canonico: pianista Arthur Rubinstein (suono meno pezzi / li studio di più / rallento prima dei passaggi veloci)
+
+---
+
+## Nonni (Belsky)
+
+**Ruolo:** `guardiani della famiglia` (guardians of the family)
+- Funzione evolutiva: ipotesi della nonna (menopausa = investimento nei nipoti)
+- Fattori coinvolgimento: genere, distanza geografica, età nipoti, tecnologia
+- Fenomeno crescente: **nonni che allevano nipoti** (ruolo non istituzionalizzato)
+
+---
+
+## Pensionamento (Belsky)
+
+**Fattori decisionali:** salute, soddisfazione lavorativa, finanze, partner pensionato, cultura
+
+**Sistemi pensionistici:**
+- CH: 3 pilastri (AVS + cassa pensioni professionale + risparmio privato)
+- Modello tedesco vs modello americano (Belsky: "Mercedes" vs "vecchia auto usata")
+
+**`Lavoro ponte`** → uscita graduale dal mercato del lavoro
+
+**`Ageism`** → discriminazione per età (mercato del lavoro, sanità, vita sociale)
+
+---
+
+## Vedovanza (Belsky)
+
+- Aumento mortalità nei mesi/anni successivi al lutto
+- Problema principale: **solitudine operativa** (routine, decisioni, accompagnamento)
+- Genere: gli uomini spesso più isolati (rete sociale dipendeva dalla moglie)
+- Processo: ricostruzione delle abitudini quotidiane
+
+---
+
+## Diagramma di Lexis
+
+**Strumento:** incrocia tempo individuale (età) × tempo storico (anno calendario)
+→ mostra come contesto storico plasma le traiettorie biografiche
+
+| Generazione | Nascita | Caratteristiche |
+|---|---|---|
+| **Silenziosa** | 1920-1940 | Guerra, povertà, risparmio, sacrificio, poca istruzione |
+| **Baby boomer** | 1945-1965 | Boom economico, '68, individualismo, più istruzione |
+
+**Anziani di domani (Cavalli & Corna 2020):**
+- Più istruiti · più autonomi · più tecnologici · più esigenti
+- Più a lungo in coppia · meno figli · passato migratorio frequente
+- Disuguaglianze sociali più marcate (accumulo vantaggi/svantaggi)
+
+---
+
+## Costruzione sociale della vecchiaia
+
+- `AVS` (Assicurazione Vecchiaia e Superstiti) → 1948 in Svizzera; nasce la categoria sociale "anziano"
+- Prima dell'AVS: si lavorava finché si poteva, poi si moriva (no pensione come fase)
+- `Terza età` → concetto emerso con la pensione istituzionalizzata
+
+---
+
+## Dignità e COVID-19
+
+**Ricerca:** 818 anziani ticinesi post-misure COVID (marzo 2020)
+- Misure: 13/3 "a rischio" · 20/3 "vadano in letargo" · 21/3 divieto spesa
+
+**5 tipi di risposta:**
+1. Senza problemi
+2. Valutazione critica
+3. Risposta emotiva
+4. Risposta comportamentale
+5. Parere sulla gestione politica
+
+**Filosofia della dignità (Mormino):**
+- `Dignità meritocratica` → legata ai ruoli e alle azioni; può essere persa
+- `Dignità universale` → appartiene a ogni essere umano per il solo fatto di esserlo; non si perde
+
+---
+
+## Zone blu e centenari
+
+- **Zone blu:** Sardegna, Okinawa, Ikaria, Nicoya, Loma Linda
+- Cavalli: dati da prendere con cautela critica (registri anagrafici non sempre affidabili storicamente)
+- **Swiss100 study:** centenari CH → mediana percezione ingresso vecchiaia = 98 anni
+
+---
+
+## Autori e date di riferimento
+
+| Autore/i | Anno | Contributo |
+|---|---|---|
+| Cumming & Henry | 1961 | Teoria del disimpegno |
+| Atchley | — | Teoria della continuità |
+| Cattell | — | Intelligenza fluida vs cristallizzata |
+| Baltes | — | Modello SOC; sviluppo intelligenza in età adulta |
+| Schaie | — | Seattle Longitudinal Study |
+| Lalive d'Epinay & Spini | 2008 | Fragilizzazione e fragilità |
+| Lalive d'Epinay & Cavalli | 2013 | Terza età vs quarta età |
+| Belsky | — | Manuale: sviluppo sociale anzianità, nonni, pensionamento |
+| Mormino | — | Filosofia della dignità (meritocratica vs universale) |
+| Cavalli & Corna | 2020, 2022 | Anziani di domani in Ticino (rapporto DSS) |
+
+---
+
+## Parole chiave
+
+`eterogeneità` `fragilizzazione` `fragilità` `terza età` `quarta età` `identità di luogo` `intelligenza fluida` `intelligenza cristallizzata` `riserva cognitiva` `carico allostatico` `SOC` `diagramma di Lexis` `generazione silenziosa` `baby boomer` `costruzione sociale` `AVS` `pensionamento` `lavoro ponte` `ageism` `vedovanza` `dignità universale` `Swiss100` `zone blu` `CEVI`

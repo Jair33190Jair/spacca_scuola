@@ -16,7 +16,7 @@ export_pdf:
 ifndef FOLDER
 	$(error FOLDER is required, e.g. make export_pdf FOLDER=02_semestre/salute_mentale)
 endif
-	$(PYTHON) $(SRC)/md_to_pdf.py "$(FOLDER)"
+	DYLD_FALLBACK_LIBRARY_PATH=/opt/homebrew/lib $(PYTHON) $(SRC)/md_to_pdf.py "$(FOLDER)"
 
 preprocess:
 ifndef FOLDER

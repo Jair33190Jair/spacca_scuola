@@ -1,100 +1,127 @@
-# Evoluzione storica e sviluppo psico-sociale secondo Erikson — Schema
-I tempi della vita · Sessione 01
+# Introduzione al Lavoro Sociale — Parte 1 · Schema
+TMIS · Sessione 01
 
 ---
 
-## Evoluzione storica
+## Contesto: la modernità
 
-- **Psicologia dell'età evolutiva** → studio nascita–adolescenza; adulto = arrivo; anziano = declino
-- **Psicologia dello sviluppo** → studio dell'intero arco di vita; sviluppo = processo, non prodotto
-- **Gerontologia** → studio scientifico dell'invecchiamento (dopo WWII)
-- **Metafora della collina** → salita fino ai 50 anni, poi discesa (visione storica, superata)
-- **Metafora del fiume** → sviluppo continuo; individuo modella e viene modellato dal contesto
-- **Adultocentrismo** → visione storica in cui l'adulto era il centro e il riferimento di tutto lo sviluppo
-
----
-
-## Life Span Psychology
-
-- **Autore principale** → Paul Baltes (fine anni '70–'80)
-- **Definizione** → approccio allo studio del comportamento umano lungo l'intero arco di vita, intrecciato con contesto biologico, sociale, storico, culturale
-
-### 7 principi fondamentali
-
-1. **Durata tutta la vita** → sviluppo continuo, crisi in ogni fase
-2. **Multidimensionale e multidirezionale** → fisico · cognitivo · sociale · emotivo-affettivo
-3. **Plasticità** → le traiettorie di sviluppo possono modificarsi
-4. **Guadagni e perdite** → presenti in ogni fase (equilibrio variabile)
-5. **Interattivo** → individuo ↔ ambiente; prospettiva interazionista sistemica
-6. **Storico-culturale** → ogni fase va letta nel contesto dell'epoca
-7. **Multidisciplinare** → psicologia + antropologia + storia + sociologia + biologia + neuroscienze...
-
-### Tecniche di indagine
-
-- **Studi trasversali** → gruppi a età diverse nello stesso momento → rapidi, meno precisi sull'individuo
-- **Studi longitudinali** → stessa persona nel tempo → precisi, ma lenti e con rischio abbandono
+- **Modernità** (Berman, 1982) → vortice di disgregazione e rinnovamento permanenti
+- **Modernità liquida** (Bauman, 2011) → nulla è fisso; incertezza come caratteristica strutturale
+  - Da produttori a consumatori; relazioni precarie; flessibilità senza ancoraggi
+- **Figura liquida** (Tramma, 2018) → operatore/educatore sociale costitutivamente incerto
+  - Liquidità = forza, non debolezza: apertura costante, riflessione critica
+  - Incertezza non si risolve; è strutturale e tendenzialmente irreversibile
 
 ---
 
-## Erik Erikson (1902–1994)
+## Definizione del lavoro sociale
 
-| Dato | Dettaglio |
-|------|-----------|
-| Nome originale | Erik Homburg |
-| Nascita | Francoforte, 1902 |
-| Formazione | Arte → psicoanalisi con Anna Freud (Vienna) |
-| 1933 | Boston — primo psicanalista infantile della città |
-| Cambio cognome | Homburg → **Erikson** (cittadinanza americana) |
-| Morte | 1994 |
-
-- **Base teorica** → psicoanalisi freudiana + dimensione **psico-sociale** aggiunta
-- **Sviluppo** → integrazione tra maturazione biologica e appartenenza al sistema sociale
-- **Metodo** → osservazione diretta · confronti tra culture · psicobiografie
+- **Fonte**: IFSW — International Federation of Social Workers, 2014
+- **Sintesi**: professione pratica + disciplina accademica che promuove:
+  - Cambiamento sociale e sviluppo
+  - Coesione ed emancipazione sociale
+  - Liberazione delle persone
+- **Principi fondanti**: giustizia sociale · diritti umani · responsabilità collettiva · rispetto delle diversità
+- **Basi teoriche**: scienze sociali · discipline umanistiche · **saperi indigeni**
+- **Mandati**: cambiamento · coesione · empowerment · liberazione
+- **Diritti**: 1° gen. (civili/politici) · 2° gen. (socio-economici) · 3° gen. (ambiente/biodiversità)
 
 ---
 
-## Teoria degli otto stadi — meccanismo centrale
+## Dimensione politica
 
-**Conflitto bipolare:**
-- Ogni stadio ha **polo positivo** e **polo negativo**
-- Sviluppo ottimale → uscire dallo stadio sbilanciati sul **polo positivo** + avere integrato la **parte positiva del polo negativo**
-- Recupero possibile nelle fasi successive anche se una fase non è superata in modo ottimale
+- **Il lavoro sociale non è neutro** → posizione valoriale esplicita (Freire: *"non esiste un'educazione neutra"*)
+- **Giustizia sociale** → valore fondante
+  - Contrasto discriminazione e oppressione istituzionale
+  - Equo accesso alle risorse
+  - Costruzione reti di solidarietà
+- **Ambiguità storica**: esempi virtuosi (Addams, Salomon, Tarugi) e casi di complicità con oppressione
 
 ---
 
-## Gli otto stadi
+## Approccio anti-oppressivo (Allegri & Sanfelici, 2023)
 
-| # | Età | Polo positivo | Polo negativo | Compito evolutivo |
-|---|-----|--------------|---------------|-------------------|
-| 1 | 0–1 anno | **Fiducia** | Sfiducia | Imparare a fidarsi (ma non di tutti) |
-| 2 | 1–3 anni | **Autonomia** | Vergogna · Dubbio | Controllo corporeo, prime scelte autonome |
-| 3 | 3–5 anni | **Iniziativa** | Senso di colpa | Esplorare, giocare, assumere responsabilità |
-| 4 | 6–10 anni | **Industriosità** | Inferiorità | Apprendimento, collaborazione |
-| 5 | Adolescenza | **Identità dell'ego** | Confusione dei ruoli | Definire identità personale e sociale |
-| 6 | Prima età adulta | **Intimità** | Isolamento | Relazioni intime durature |
-| 7 | Età adulta | **Creatività** | Stagnazione | Trasmettere alle generazioni future |
-| 8 | Età senile (~60+) | **Integrità dell'ego** | Disperazione | Riflettere e accettare il proprio percorso |
+- **Oppressione** → esclusione forzata da opportunità/risorse; esterna o interna (Freire)
+- **Discriminazione** → trattamento non paritario per appartenenza a un gruppo
+- **Coscientizzazione** (Freire) → presa di coscienza dei meccanismi di oppressione
 
-**Note stadi:**
-- Stadio 7 → originariamente **generatività** (poi ampliato oltre la genitorialità)
-- Stadi 6+7 → ricercatori contemporanei propongono di unirli (coesistono nella vita reale)
-- Fase 5 → collegamento con salute mentale (confusione dei ruoli)
+### Il potere degli operatori
+- **Gatekeeper** → regolano accesso a servizi e risorse
+- **Discrezionalità** → margini di autonomia decisionale (burocrati di strada — Lipsky)
+- Sapere professionale come potere (Foucault): etichette e diagnosi co-costruiscono oppressione
+- Rischio: autorappresentarsi come privi di potere → cecità pericolosa
+
+### Nella pratica
+- **Ottica trifocale** (Gui, 2004) → micro (persona) · meso (relazioni tra sistemi) · macro (strutture)
+- **Partecipazione autentica** → lavorare *con*, non *per* le persone
+- Promuovere liberazione da autoritarismo, paternalismo e discriminazione
+
+---
+
+## Con chi lavora l'operatore
+
+### Visione della persona
+- Soggetto nella sua **globalità**: fisica · cognitiva · affettiva · relazionale · creativa · spirituale
+- **Unicità**: non scomponibile, portatore di differenze, imprevedibile
+- In continua evoluzione, inserito in contesto in trasformazione
+- Soggetto di: diritti · potenzialità · bisogni · aspirazioni · risorse · limiti
+- **Co-costruttore del proprio destino** ≠ visione deterministica e diagnostica
+- La persona *è in una situazione* di disagio — non *è* il disagio
+
+### Sistemi complessi (Bateson / Palo Alto)
+- **Sistema** = insieme di elementi in relazione reciproca
+- **Causalità circolare** → non esiste causa unica; elementi si influenzano a vicenda
+- Nei sistemi viventi non si può attribuire un fenomeno a una serie lineare di eventi
+- Cambiamenti avvengono in modo non prevedibile; sistemi si riorganizzano secondo schemi nuovi
+
+---
+
+## Modello bioecologico di Bronfenbrenner
+
+- **Autore**: Urie Bronfenbrenner (1917–2005)
+- **Tesi centrale**: sviluppo umano = interazione persona-ambiente; l'uno modifica l'altro
+
+### 4 principi fondamentali
+1. Individuo = **soggetto attivo** (non tabula rasa)
+2. Interazione individuo-ambiente = **bidirezionale** (reciprocità)
+3. Ambiente = **insieme di interconnessioni** tra più situazioni (non una sola)
+4. Sviluppo = arco dell'**intera vita**, non solo infanzia
+
+### I 5 sistemi (strutture concentriche)
+
+| Sistema | Descrizione | Esempio |
+|---------|-------------|---------|
+| **Microsistema** | Relazioni dirette, quotidiane | Famiglia, scuola, lavoro, amici |
+| **Mesosistema** | Relazioni tra microsistemi | Genitori–insegnanti, famiglia–servizi |
+| **Esosistema** | Ambienti indiretti che influenzano la persona | Lavoro del genitore, politiche locali |
+| **Macrosistema** | Cultura, valori, leggi, ideologie | Sistema economico, legislazione |
+| **Cronosistema** | Dimensione temporale: micro e macro | Divorzio, crisi economica, lutto |
+
+### Modello PPCT (versione bio-ecologica aggiornata)
+- **P**rocesso → dinamica di sviluppo nelle interazioni
+- **P**ersona → caratteristiche individuali (età, sesso, temperamento, salute)
+- **C**ontesto → i 5 sistemi ecologici
+- **T**empo → variabile che influenza processi e interazioni
 
 ---
 
 ### Autori / Date / Riferimenti
 
-| Autore | Contributo | Periodo |
-|--------|-----------|---------|
-| Paul Baltes | Life Span Psychology | Fine anni '70–'80 |
-| Erik Erikson | Sviluppo psico-sociale, otto stadi | ~1950, poi rivisto |
-| Sigmund Freud | Base psicoanalitica (Erikson la integra) | Inizio '900 |
-| Anna Freud | Formò Erikson a Vienna | Anni '20–'30 |
-| Palmonari A. (a cura di, 2011) | Definizione Life Span Psychology | 2011 |
-| Castelli & Sbattella (2008) | Definizione di sviluppo | 2008 |
+| Chi | Cosa | Quando |
+|-----|------|--------|
+| Marshall Berman | Definizione di modernità | 1982 |
+| Zygmunt Bauman | Modernità liquida | 2011 |
+| Sergio Tramma | Figura liquida dell'educatore | 2018 |
+| IFSW | Definizione internazionale del servizio sociale | 2014 |
+| Paulo Freire | Pedagogia degli oppressi; coscientizzazione | 1970/2017 |
+| Urie Bronfenbrenner | Modello bioecologico dello sviluppo | 1979/2002 |
+| Elena Allegri & Mara Sanfelici | Approccio anti-oppressivo nel servizio sociale | 2023 |
+| Gregory Bateson | Paradigma della complessità; causalità circolare | 1976 |
+| Gui | Ottica trifocale | 2004 |
+| Lipsky | Street-level bureaucrats (burocrati di strada) | 2010 |
 
 ---
 
 ### Parole chiave
 
-`psicologia dell'età evolutiva` · `psicologia dello sviluppo` · `gerontologia` · `metafora del fiume` · `Life Span Psychology` · `plasticità` · `guadagni e perdite` · `interazionismo sistemico` · `sviluppo psico-sociale` · `conflitto bipolare` · `compito evolutivo` · `crisi` · `polo positivo` · `polo negativo` · `generatività` · `creatività` · `studi longitudinali` · `studi trasversali` · `adultocentrismo` · `psicobiografie`
+`modernità liquida` · `figura liquida` · `IFSW 2014` · `giustizia sociale` · `diritti umani` · `empowerment` · `saperi indigeni` · `oppressione` · `coscientizzazione` · `gatekeeper` · `discrezionalità` · `ottica trifocale` · `partecipazione sociale` · `causalità circolare` · `sistemi complessi` · `microsistema` · `mesosistema` · `esosistema` · `macrosistema` · `cronosistema` · `PPCT` · `reciprocità` · `globalità della persona`

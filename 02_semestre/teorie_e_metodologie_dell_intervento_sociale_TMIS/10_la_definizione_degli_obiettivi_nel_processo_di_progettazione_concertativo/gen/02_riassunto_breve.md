@@ -1,107 +1,96 @@
-# Introduzione al modulo di Salute Mentale — Sintesi
-Salute Mentale · Sessione 01
+# La Definizione degli Obiettivi nel Processo di Progettazione Concertativo — Sintesi
+TMIS · Sessione 10
 
-> Salute, benessere e normalità: tre parole che
-> sembrano semplici, ma non lo sono per niente.
-> Questa lezione smonta le certezze e costruisce
-> basi solide per tutto il modulo.
-
-## Struttura del modulo
-
-- Tre tappe: **clinica**, **mondo**, **corpo**
-- Attraversate da: spazio, tempo, identità,
-  incontro
-- L'operatore sociale come ponte tra discipline
-  specialistiche, non specialista di una sola
-
-## Salute: le 7 condizioni di Boorse (1977)
-
-Nessuna delle sette regge da sola:
-- **Valore** — non universale: contesti in cui
-  la malattia è "preferibile" esistono
-- **Trattamento medico** — la medicina colonizza
-  ambiti non patologici
-- **Norma statistica** — fuori dalla media ≠ malato
-- **Sofferenza** — malattie asintomatiche e
-  dolori fisiologici esistono
-- **Disabilità** — fasi di "non abilità" sono
-  normali nella vita (neonato, sonno)
-- **Adattamento** — l'uomo adatta anche l'ambiente
-  a sé, non solo il contrario
-- **Omeostasi** — la vita si fonda sulla rottura
-  e riconquista dell'equilibrio, non sull'equilibrio
-  statico
-
-## Disease, illness, sickness
-
-- **Disease** → dimensione biomedica (misurabile)
-- **Illness** → vissuto soggettivo della persona
-- **Sickness** → riconoscimento/stigma sociale
-- Le tre dimensioni possono non coincidere — e lo
-  stigma sociale peggiora l'andamento della malattia
-
-## Benessere: le 6 dimensioni di Ryff
-
-- **Autonomia** — autodeterminarsi senza dipendere
-  dagli altri per ogni scelta
-- **Controllo ambientale** — valorizzare le risorse
-  disponibili
-- **Relazioni positive** — relazioni calde, fiduciose,
-  reciproche
-- **Autoaccettazione** — consapevolezza di qualità
-  e limiti
-- **Percezione di crescita** — sentire di evolvere
-- **Scopo nella vita** — avere mete e dare senso
-
-Salute ≠ benessere. Si può stare bene senza essere
-in salute (Terzani) e male pur essendo "sani".
-Per l'operatore: queste dimensioni rendono il lavoro
-sul benessere *concreto e operativo*.
-
-## Tre tipi di normalità
-
-- **Statistica** — nella media; fuori dalla norma
-  porta stigma
-- **Di valore** — ideale irraggiungibile → sofferenza
-  perpetua; attenzione: anche i *nostri* ideali sugli
-  utenti possono diventare penalizzanti
-- **Personale** — rispetto a come funzionavo prima;
-  attenzione a non idealizzare il passato, e a non
-  considerare quella normalità come obiettivo se era
-  proprio lei la causa del problema
-
-## Posizione del soggetto verso la malattia
-
-Due assi: **identificazione** con la condizione ×
-**agentività** (attivo/passivo)
-
-- Passivo + non identificato → **delega** ("guariscimi")
-- Agentivo + non identificato → **guarigione** come
-  unico obiettivo
-- Agentivo + identificato → **cura**: lavora sul
-  benessere dentro la condizione
-
-Passaggio chiave: dalla guarigione alla cura.
-*To cure* ≠ *to care*: la cura è sempre possibile,
-anche quando la guarigione non lo è.
-
-## La tragedia greca
-
-- Dispositivo pedagogico parallelo al modulo
-- 5 gruppi, 5 tragedie per estrazione
-- Tappe: leggere → condividere → sintetizzare →
-  mettere in scena (~20 min)
-- Allena: ascolto di linguaggi non familiari, lavoro
-  di équipe, sintesi, capacità di rinuncia
-- Quest'anno tutte le tragedie convergono sulla
-  violenza sulle donne nei conflitti armati —
-  tema antico e attualissimo (Nadia Murad, Congo,
-  Iraq)
+> Questa lezione completa la parte teorica del modulo: si costruiscono obiettivi condivisi, si imparano a formulare bene con il metodo SMART, e si capisce come monitorarli nel tempo. Roba concreta — quella che ti serve per scrivere il progetto.
 
 ---
 
-**Da ricordare:** salute, benessere e normalità
-sono tre concetti distinti ma intrecciati. La cura
-è sempre possibile, anche quando la guarigione non
-lo è. Il contesto è fondamentale per interpretare
-qualsiasi comportamento.
+## Dove siamo nel processo (richiamo lezione 09)
+
+- Il processo di co-progettazione: Ideazione → Attivazione → Scrittura → Realizzazione → Verifica
+- Questa lezione copre la fase di **Attivazione** (obiettivi, azioni) e la **Verifica**
+- Trasversale a tutto: valutazione in itinere e co-osservazione dialogica
+
+---
+
+## Approccio delle capabilities (Sen, 2000)
+
+- Qualsiasi persona ha delle capacità — anche in situazione di vulnerabilità grave
+- Il punto di partenza è ciò che **c'è**, non il deficit
+- Le capacità non bastano: serve un **ambiente che permetta di esercitarle**
+- La persona è una risorsa sociale, non un problema
+
+---
+
+## Obiettivi generali vs. obiettivi specifici
+
+- **Obiettivi generali** → orizzonte di senso, declinazione delle macrofinalità del lavoro sociale sulla situazione specifica; medio-lungo termine; formulati con verbi all'infinito
+- **Obiettivi specifici** → mete concrete, osservabili, raggiungibili a breve-medio termine (1-6 mesi); concorrono agli obiettivi generali
+- **Schema logico:** Macrofinalità → Obiettivo generale → Obiettivi specifici → Azioni
+- Gli obiettivi sono **dinamici**: nella progettazione dialogica si possono ridiscutere in itinere se la situazione cambia
+- Massimo indicativo: 2-3 obiettivi generali, 2-3 obiettivi specifici per ognuno
+
+---
+
+## Funzioni degli obiettivi (Traverso, 2016)
+
+- **Orientativa** — danno la direzione al progetto
+- **Comunicativa** — attivano scambi chiari con utente, équipe e rete
+- **Decisionale** — ancorano le scelte a finalità condivise, distribuiscono le responsabilità
+- **Valutativa** — forniscono indicatori per valutare risultati e processo
+
+---
+
+## Zona di sviluppo prossimale (Vygotskij)
+
+- **Zona effettiva** → cosa la persona sa fare da sola oggi
+- **Zona di sviluppo prossimale** → cosa sa fare con accompagnamento, e che presto saprà fare da sola
+- **Zona di sviluppo potenziale** → fuori portata anche con accompagnamento
+
+Gli obiettivi specifici devono posizionarsi nella **zona prossimale**: sfidanti ma raggiungibili con supporto.
+
+---
+
+## Criteri SMART per gli obiettivi specifici
+
+| Lettera | Significato |
+|---------|-------------|
+| **S** | Semplice — comprensibile per tutti, anche chi non è esperto |
+| **M** | Monitorabile — traducibile in indicatori osservabili |
+| **A** | Auspicabile — desiderato da tutti, in primis dall'utente |
+| **R** | Realistico — raggiungibile, nella zona prossimale |
+| **T** | Temporale — collocato in un lasso di tempo definito |
+
+Trappola comune: scrivere obiettivi per l'operatore invece che per la persona (es. "migliorare la comunicazione con la famiglia" → obiettivo dell'operatore, non dell'utente).
+
+---
+
+## Azioni progettuali
+
+- Interventi concatenati per raggiungere ogni obiettivo specifico
+- Indicano **chi** fa cosa: utente, famiglia, professionisti, rete informale — non solo l'operatore
+- Anch'esse formulate in linguaggio SMART
+- La temporalità delle azioni deve essere coerente con quella degli obiettivi
+
+---
+
+## Progetto scritto e firma condivisa
+
+- Tutto va scritto: garantisce continuità, chiarisce accordi, lascia traccia
+- Il documento viene **firmato da tutti** — atto simbolico di responsabilità condivisa
+
+---
+
+## Monitoraggio e valutazione
+
+- **Monitoraggio** → costante durante la realizzazione; strumenti: griglie, diari di bordo, bilanci
+- **Valutazione in itinere** → durante il progetto; serve a modificarlo, orientarlo, motivare l'operatore
+- **Verifica finale** → scarto tra attese e risultati ottenuti; include gli esiti inattesi positivi
+- La valutazione è sempre **co-costruita** con tutti gli attori — più è condivisa, più è utile
+
+---
+
+**Da ricordare:**
+- **SMART** è lo strumento per scrivere bene gli obiettivi specifici — verificalo su ogni obiettivo
+- **Zona di sviluppo prossimale** → il posto giusto dove collocare gli obiettivi (né troppo facili, né troppo difficili)
+- **Motivazione dell'utente** → condizione necessaria: un progetto costruito sui desideri dell'operatore non funziona

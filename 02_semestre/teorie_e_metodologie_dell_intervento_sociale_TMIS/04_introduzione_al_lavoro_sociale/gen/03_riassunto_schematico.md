@@ -1,122 +1,90 @@
-# Introduzione al modulo di Salute Mentale — Schema
-Salute Mentale · Sessione 01
-
-## Struttura del modulo
-
-- **Tre tappe** → clinica · mondo · corpo
-- **Quattro dimensioni trasversali** → spazio ·
-  tempo · identità · incontro
-- **Ruolo operatore sociale** → trait d'union
-  tra discipline specialistiche
+# Autodeterminazione, Integrazione e Inclusione — Schema
+Teorie e Metodologie dell'Intervento Sociale (TMIS) · Sessione 04
 
 ---
 
-## Salute — 7 condizioni di Boorse (1977)
+## Macro finalità
 
-- **Valore** → la desiderabilità non è universale
-- **Trattamento medico** → né necessario né
-  sufficiente per definire malattia
-- **Norma statistica** → fuori dalla media ≠ malato
-- **Sofferenza** → malattie asintomatiche e dolori
-  fisiologici esistono
-- **Disabilità** → non-abilità ≠ malattia (neonati,
-  sonno)
-- **Adattamento** → l'uomo adatta l'ambiente a sé,
-  non solo il contrario
-- **Omeostasi** → la vita richiede perdita e
-  riconquista continua di equilibrio
-
-⚠️ Nessuna condizione è sufficiente da sola
+- **Macro finalità** → bussola dell'intervento professionale
+  - Ogni servizio/intervento è ancorato ad almeno una
+  - Orientano il singolo intervento *e* l'intera collettività
 
 ---
 
-## Disease / Illness / Sickness
+## Autodeterminazione
 
-| Dimensione | Tipo | Riferimento |
-|---|---|---|
-| **Disease** | Biomedica | Parametri clinici |
-| **Illness** | Soggettiva | Vissuto personale |
-| **Sickness** | Sociale | Stigma / riconoscimento |
-
-- Le tre dimensioni possono non coincidere
-- Lo stigma (*sickness* negativa) peggiora
-  l'andamento della malattia
-
----
-
-## Benessere — 6 dimensioni di Ryff
-
-- **Autonomia** → autodeterminazione senza
-  condizionamenti esterni
-- **Controllo ambientale** → valorizzare risorse
-  e possibilità
-- **Relazioni positive** → calore · fiducia ·
-  reciprocità
-- **Autoaccettazione** → consapevolezza qualità
-  e limiti
-- **Percezione di crescita** → vita come sviluppo
-  continuo
-- **Scopo nella vita** → mete e senso
-
-⚠️ Salute ≠ benessere (possono non coincidere)
+- **Autodeterminazione** → possibilità di fare scelte in accordo con propri valori/obiettivi per controllare la propria vita
+  - Fonte: Wehmeyer (1992, 2005)
+  - **Agente causale** → chi guida attivamente le proprie scelte
+  - NON significa → "decido sempre io da solo"
+  - Si impara → attraverso successi, errori, esperienze
+  - Implica → **rischio positivo/misurato** (senza rischio, niente emancipazione)
+  - Richiede → negoziazione con partner educativi (tensioni etiche, nessuna ricetta)
+- **Attenzione:** passività mascherata da scelta ≠ autodeterminazione
+  - es. anziano in casa di riposo che "sceglie" di non uscire dopo anni di istituzionalizzazione
 
 ---
 
-## Normalità — 3 tipi
+## Integrazione vs. Inclusione
 
-| Tipo | Definizione | Rischio |
-|---|---|---|
-| **Statistica** | Nella media della popolazione | Stigma per chi devia |
-| **Di valore** | Ideale da raggiungere | Irraggiungibile → sofferenza perpetua |
-| **Personale** | Rispetto al funzionamento precedente | Idealizzare il passato; la normalità precedente può essere la causa della malattia |
+### Integrazione
+
+- **Integrazione** → processo che inserisce le persone nel contesto mantenendo il focus sul deficit
+  - Tre significati (Brandani, Tramma 2014):
+    - Compensare il difetto
+    - Includere senza isolare (≠ segregazione)
+    - Dinamica di scambio/coordinamento
+  - Punto di partenza → **individuo e condizioni biologiche**
+  - NON è assimilazione, ma mantiene logica norma/deficit
+
+### Inclusione
+
+- **Inclusione** → processo che trasforma il contesto per accogliere le differenze di tutti
+  - Fonti: Strategia Lisbona 2000, UNDESA 2009, Medeghini et al. 2013
+  - Focus → **contesto**, non deficit della persona
+  - Caratteristiche:
+    - Si riferisce a TUTTE le persone
+    - Processo partecipativo ed equo
+    - **Multidimensionale** (cultura, economia, spazi, politiche)
+    - Supera linguaggio abilista/normativo
+    - Elimina barriere strutturali
+
+### Confronto diretto
+
+| Aspetto | Segregazione | Integrazione | Inclusione | Esclusione |
+|---------|-------------|--------------|------------|------------|
+| Azione sul soggetto | Alta | Media | Bassa | Bassa |
+| Azione sul contesto | Bassa | Media | Alta | Bassa |
+| Focus | Separazione | Deficit | Differenze | Assenza |
+
+**Esempio rampa:**
+- Integrazione → lo studente *chiede* la rampa → contesto risponde
+- Inclusione → la rampa è *già predisposta* → pari opportunità per tutti
 
 ---
 
-## Posizione del soggetto verso la malattia
+## Riflessività e pensiero critico (Profilo dell'educatore)
 
-|  | Non si identifica | Si identifica |
-|---|---|---|
-| **Agentivo** | Guarigione → eliminare la condizione | Cura → benessere dentro la condizione |
-| **Passivo** | Delega → "guariscimi" | Delega assistenziale |
-
-- **To cure** → terapia: non sempre possibile
-- **To care** → cura del benessere: sempre possibile
-- *"Non tutto si può guarire, ma tutto può essere
-  curato"*
-
----
-
-## La tragedia greca
-
-- **5 tragedie** → Aiace · Andromaca · Agamennone ·
-  Le Troiane · Le Trachinie
-- **Tre tragediografi** →
-  - Eschilo: la follia viene dagli dèi (forza esterna)
-  - Sofocle: il tragico è la vita stessa
-  - Euripide: il tragico nasce dalle relazioni
-- **Catarsi** → far emergere ed elaborare emozioni
-  difficili attraverso la sofferenza altrui
-- **Esercizio pedagogico** →
-  leggere → condividere → sintetizzare → mettere in scena
+- **Riflessività** → capacità di riflettere sul proprio agire professionale e sui propri impliciti
+- **Pensiero critico** → analisi profonda, messa in discussione degli assunti dati per scontati
+- Testo di riferimento → Oggionni F., *Il profilo dell'educatore*
+- Entrambi = competenze professionali fondamentali, non accessori
 
 ---
 
 ### Autori / Date / Riferimenti
 
 | Chi | Cosa | Quando |
-|---|---|---|
-| Christopher Boorse | 7 condizioni della salute | 1977 |
-| Carol Ryff | 6 dimensioni del benessere | — |
-| Callieri & C. | Definizione di clinica | 1999 |
-| Tiziano Terzani | *L'ultimo giro di giostra* | — |
-| Nadia Murad | Attivista, Premio Nobel per la Pace | — |
-| Guidorizzi | Follia nella tragedia greca | 2010 |
+|-----|------|--------|
+| Wehmeyer M.L. | Definizione autodeterminazione, agente causale | 1992, 2005 |
+| Brandani W., Tramma S. | *Dizionario del lavoro educativo* — tre significati integrazione | 2014 |
+| Medeghini, Vadalà, Fornasa, Nuzzo | *Inclusione sociale e disabilità* — prospettiva inclusiva, relazioni di potere | 2013 |
+| Strategia di Lisbona / UNDESA | Definizione inclusione come processo multidimensionale | 2000 / 2009 |
+| Oggionni F. | *Il profilo dell'educatore* — riflessività e competenze professionali | (lettura) |
+| Angeloz Brügger et al. | Autodeterminazione e disabilità intellettiva | 2022 |
+
+---
 
 ### Parole chiave
 
-`salute` · `benessere` · `normalità` · `disease`
-· `illness` · `sickness` · `Boorse` · `Ryff` ·
-`agentività` · `omeostasi` · `norma statistica`
-· `norma di valore` · `norma personale` ·
-`catarsi` · `guarigione` · `cura` · `to cure`
-· `to care` · `tragedia greca` · `clinica`
+`autodeterminazione` · `agente causale` · `rischio misurato` · `integrazione` · `inclusione` · `segregazione` · `abilismo` · `macro finalità` · `riflessività` · `pensiero critico` · `deficit` · `barriere` · `multidimensionalità` · `contesto`

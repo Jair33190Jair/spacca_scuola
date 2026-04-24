@@ -1,0 +1,1209 @@
+ICF Checklist  Organizzazione Mondiale della Sanità, settembre 2003 
+Traduzione italiana realizzata ed approvata dal Disability Italian Network 
+1
+CHECKLIST ICF  
+ Scheda per il Clinico 
+per la Classificazione Internazionale del Funzionamento, della Disabilità e della Salute 
+(O.M.S. settembre ’03) 
+ 
+Questa è una Checklist delle principali categorie della Classificazione Internazionale del Funzionamento,  della Disabilità  
+e della Salute (ICF) della Organizzazione Mondiale della Sanità . La Checklist ICF è uno strumento pratico per evidenziare 
+e registrare informazioni sul funzionamento e sulle disabilità di una persona. Queste informazioni possono essere riassunte 
+in una cartella personale (ad esempio, nella pratica clinica o nel lavoro sociale). La  Checklist  dovrebbe essere usata 
+insieme al Manuale ICF, anche nella sua versione ridotta. 
+ 
+H 1. Nel compilare la Lista di Valutazione si utilizzino tutte le informazioni disponibili. Si prega di segnalare quelle utilizzate: 
+[1] Documenti scritti 
+ 
+ 
+[2] Soggetto interessato 
+[3] Informazioni fornite da altri  
+[4] Osservazione diretta 
+ 
+Se non sono disponibili informazioni mediche e diagnostiche si suggerisce di completare l’appendice 1: Informazioni 
+Sintetiche sullo stato di Salute (pag 8 e 9), che può essere compilata dal soggetto interessato.  
+ 
+Data __ __ /__ __/ __ __    
+          Giorno Mese  Anno                           
+ 
+A. INFORMAZIONI ANAGRAFICHE 
+ 
+A.1 GENERALITA’ (facoltativo)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nome ___________________ 
+ 
+COGNOME ____________________ 
+ 
+A.2 SESSO 
+ 
+ 
+ 
+(1) [ ] Femmina  
+ 
+(2) [ ] Maschio 
+ 
+A.3 DATA DI NASCITA 
+ 
+_ _/_ _/_ _ (giorno, mese, anno) 
+ 
+A.4 INDIRIZZO (facoltativo) 
+ 
+_______________________________________________________ 
+ 
+A.5 ANNI DI SCOLARITA’  
+ _ _ 
+ 
+A.6 STATO CIVILE ATTUALE:  
+(segnare solo la voce più appropriata) 
+ 
+(1) Celibe/Nubile  
+ 
+ 
+[ ]  
+ 
+ 
+(4) Divorziato/a  [ ] 
+(2) Attualmente coniugato/a 
+ 
+[ ]  
+ 
+ 
+(5) Vedovo/a  
+ 
+[ ] 
+(3) Separato/a  
+ 
+ 
+[ ]  
+ 
+ 
+(6) Convivente  [ ] 
+ 
+A.7 SITUAZIONE LAVORATIVA ATTUALE  
+(Selezionare la voce più adatta) 
+ 
+(1) Lavoro Dipendente  
+ 
+[ ] 
+ 
+ 
+(6) Pensionata/o   
+ 
+ 
+[ ] 
+(2) Lavoro Autonomo  
+ 
+ 
+[ ]  
+ 
+(7) Disoccupata/o (per motivi di salute)  
+[ ] 
+(3) Lavoro non retribuito (es. volontariato)  [ ]  
+ 
+(8) Disoccupata/o (per altri motivi)  
+ 
+[ ] 
+(4) Studente  
+ 
+ 
+ 
+[ ] 
+  
+(9) Altro (specificare) ___________________ [ ] 
+(5) Casalinga/o- Domestica/o 
+[ ] 
+ 
+A.8 DIAGNOSI MEDICA delle attuali principali condizioni di salute 
+Codice ICD 10, se possibile. 
+ 
+1. ……………………………………………………  
+ 
+ 
+ 
+Codice ICD : __. __. __.__. __ 
+2. ……………………………………………………… 
+ 
+ 
+ 
+Codice ICD : __. __. __.__. __ 
+3. ………………………………………………………  
+ 
+ 
+ 
+Codice ICD : __. __. __.__. __ 
+4.Esiste una compromissione dello stato di salute (malattia, disturbo, lesione) la cui natura o diagnosi è sconosciuta. 
+PDF created with pdfFactory trial version www.softwarelabs.com
+
+---
+
+ICF Checklist  Organizzazione Mondiale della Sanità, settembre 2003 
+Traduzione italiana realizzata ed approvata dal Disability Italian Network 
+2
+PARTE 1a: MENOMAZIONI DELLE FUNZIONI CORPOREE 
+ 
+• 
+ Le Funzioni Corporee sono le funzioni fisiologiche dei sistemi corporei (incluse le funzioni psicologiche) 
+• 
+ Le Menomazioni sono problemi nella funzione del corpo, intesi come una deviazione o una perdita significative 
+ 
+Primo Qualificatore: Estensione delle menomazioni 
+0 Nessuna menomazione significa che la persona non presenta il problema. 
+1 Menomazione lieve significa che il problema è presente in meno del 25% del tempo, con un'intensità che la persona può 
+tollerare e che si è presentato raramente negli ultimi 30 giorni. 
+2 Menomazione media significa che il problema è presente in meno del 50% del tempo, con un'intensità che interferisce nella 
+vita quotidiana della persona e che si è presentato occasionalmente negli ultimi 30 giorni. 
+3 Menomazione grave significa che il problema è presente per più del 50% del tempo, con un'intensità che altera parzialmente 
+la vita quotidiana della persona e che si è presentato frequentemente negli ultimi 30 giorni. 
+4 Menomazione completa significa che il problema è presente per più del 95% del tempo, con un'intensità che altera 
+totalmente la vita quotidiana della persona e che si è presentato quotidianamente negli ultimi 30 giorni. 
+8 Non specificato significa che l'informazione è insufficiente per specificare la gravità della menomazione. 
+9 Non applicabile significa che è inappropriato applicare un particolare codice (es: b650 Funzioni della mestruazione per 
+donne in età di pre-menarca o di post-menopausa). 
+ 
+Breve Lista delle Funzioni Corporee 
+Qualificatore
+b1. FUNZIONI MENTALI 
+ 
+      b110  Coscienza 
+ 
+      b114  Orientamento (tempo, spazio, persona) 
+ 
+      b117  Intelletto ( compresi Ritardo, Demenza ) 
+ 
+      b130  Funzioni dell’energia e delle pulsioni 
+ 
+      b134  Sonno 
+ 
+      b140  Attenzione 
+ 
+      b144  Memoria 
+ 
+      b152  Funzioni emozionali 
+ 
+      b156  Funzioni percettive 
+ 
+      b164  Funzioni cognitive di livello superiore 
+ 
+      b167  Linguaggio 
+ 
+b2. FUNZIONI SENSORIALI E DOLORE 
+ 
+      b210  Vista 
+ 
+      b230  Udito 
+ 
+      b235  Funzioni vestibolari (compreso l’equilibrio) 
+ 
+      b280  Dolore 
+ 
+b3. FUNZIONI DELLA VOCE E DELL’ELOQUIO 
+ 
+      b310  Voce 
+ 
+b4. FUNZIONI DEI SISTEMI CARDIOVASCOLARE, EMATOLOGICO, IMMUNOLOGICO E     
+DELL’APPARATO RESPIRATORIO 
+ 
+      b410  Cuore 
+ 
+      b420  Pressione sanguigna 
+ 
+      b430  Sistema ematologico (sangue) 
+ 
+      b435  Sistema immunologico (allergie, ipersensibilità) 
+ 
+      b440  Respirazione (respiro) 
+ 
+b5. FUNZIONI DELL’APPARATO DIGERENTE E DEI SISTEMI METABOLICO ED ENDOCRINO  
+      b515  Digestione 
+ 
+      b525  Defecazione 
+ 
+      b530  Mantenimento del peso 
+ 
+      b555  Ghiandole endocrine (alterazioni ormonali) 
+ 
+b6. FUNZIONI GENITOURINAIRE E RIPRODUTTIVE 
+ 
+      b620 Funzioni urinarie 
+ 
+      b640 Funzioni sessuali 
+ 
+PDF created with pdfFactory trial version www.softwarelabs.com
+
+---
+
+ICF Checklist  Organizzazione Mondiale della Sanità, settembre 2003 
+Traduzione italiana realizzata ed approvata dal Disability Italian Network 
+3
+b7. FUNZIONI NEURO-MUSCOLOSCHELETRICHE E CORRELATE AL MOVIMENTO 
+ 
+      b710  Mobilità dell’articolazione 
+ 
+      b730  Forza muscolare 
+ 
+      b735  Tono muscolare 
+ 
+      b765  Movimento involontario 
+ 
+b8. FUNZIONI DELLA CUTE E DELLE STRUTTURE CORRELATE 
+ 
+ 
+ 
+OGNI ALTRA FUNZIONE CORPOREA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PDF created with pdfFactory trial version www.softwarelabs.com
+
+---
+
+ICF Checklist  Organizzazione Mondiale della Sanità, settembre 2003 
+Traduzione italiana realizzata ed approvata dal Disability Italian Network 
+4
+ 
+Parte 1b: MENOMAZIONI DELLE STRUTTURE CORPOREE 
+ 
+• 
+Le strutture corporee sono le parti anatomiche del corpo come gli organi, gli arti e le loro componenti.  
+• 
+Le menomazioni sono problemi nella struttura del corpo, intesi come una deviazione o una perdita significative. 
+ 
+Primo Qualificatore:  
+Estensione delle Menomazioni 
+Secondo Qualificatore: 
+Natura del Cambiamento  
+Terzo qualificatore (suggerito): 
+Localizzazione 
+0 Nessuna menomazione significa che la persona non 
+presenta il problema. 
+1 Menomazione lieve significa che il problema è 
+presente in meno del 25% del tempo, con un'intensità 
+che la persona può tollerare e che si è presentato 
+raramente negli ultimi 30 giorni. 
+2 Menomazione media significa che il problema è 
+presente in meno del 50% del tempo, con un'intensità 
+che interferisce nella vita quotidiana della persona e 
+che si è presentato occasionalmente negli ultimi 30 
+giorni. 
+3 Menomazione grave significa che il problema è 
+presente per più del 50% del tempo, con un'intensità 
+che altera parzialmente la vita quotidiana della persona 
+e che si è presentato frequentemente negli ultimi 30 
+giorni. 
+4 Menomazione completa significa che il problema è 
+presente per più del 95% del tempo, con un'intensità 
+che altera totalmente la vita quotidiana della persona e 
+che si è presentato quotidianamente negli ultimi 30 
+giorni. 
+8 Non specificato significa che l'informazione è 
+insufficiente 
+per 
+specificare 
+la 
+gravità 
+della 
+menomazione. 
+9 Non applicabile significa che è inappropriato 
+applicare un particolare codice (es: b650 Funzioni 
+della mestruazione per donne in età di pre-menarca o 
+di post-menopausa). 
+0 Nessun cambiamento nella 
+struttura 
+1 Assenza totale 
+2 Assenza parziale 
+3 Parte in eccesso 
+4 Dimensioni anormali 
+5 Discontinuità 
+6 Posizione deviante 
+7 Cambiamenti qualitativi nella 
+struttura, incluso l’accumulo di 
+fluidi 
+8 Non specificato 
+9 Non applicabile 
+0 Più di una regione 
+1 Destra 
+2 Sinistra 
+3 Entrambi i lati 
+4 Frontale 
+5 Dorsale 
+6 Prossimale 
+7 Distale 
+ 
+ 
+ 
+Breve Lista delle Strutture Corporee  
+Primo 
+Qualificatore: 
+ Estensione  
+della menomazione 
+Secondo 
+Qualificatore: 
+Natura del 
+cambiamento 
+Terzo 
+Qualificatore 
+(suggerito): 
+localizzazione 
+s1. STRUTTURE DEL SISTEMA NERVOSO 
+ 
+ 
+ 
+     s110  Cervello 
+ 
+ 
+ 
+     s120  Midollo spinale e nervi periferici 
+ 
+ 
+ 
+s2. OCCHIO, ORECCHIO E STRUTTURE CORRELATE 
+ 
+ 
+ 
+s3. STRUTTURE COINVOLTE NELLA VOCE E 
+NELL’ELOQUIO 
+ 
+ 
+ 
+s4. STRUTTURE DEI SISTEMI CARDIOVASCOLARE, 
+IMMUNOLOGICO E DELL’APPARATO RESPIRATORIO 
+ 
+ 
+ 
+     s410  Sistema cardiovascolare 
+ 
+ 
+ 
+     s430  Sistema respiratorio 
+ 
+ 
+ 
+s5. STRUTTURE CORRELATE ALL’APPARATO 
+DIGERENTE E AI SISTEMI METABOLICO ED ENDOCRINO 
+ 
+ 
+ 
+PDF created with pdfFactory trial version www.softwarelabs.com
+
+---
+
+ICF Checklist  Organizzazione Mondiale della Sanità, settembre 2003 
+Traduzione italiana realizzata ed approvata dal Disability Italian Network 
+5
+s6. STRUTTURE CORRELATE AL SISTEMA 
+GENITOURINARIO E RIPRODUTTIVO 
+ 
+ 
+ 
+     s610  Sistema urinario 
+ 
+ 
+ 
+     s630  Sistema riproduttivo 
+ 
+ 
+ 
+s7. STRUTTURE CORRELATE AL MOVIMENTO 
+ 
+ 
+ 
+     s710  Regione del capo e del collo 
+ 
+ 
+ 
+     s720  Regione della spalla 
+ 
+ 
+ 
+     s730  Estremità superiori (braccio, mano) 
+ 
+ 
+ 
+     s740  Regione pelvica  
+ 
+ 
+ 
+     s750  Estremità inferiori (gamba, piede, coscia) 
+ 
+ 
+ 
+     s760  Tronco 
+ 
+ 
+ 
+s8 CUTE E STRUTTURE CORRELATE 
+ 
+ 
+ 
+OGNI ALTRA STRUTTURA CORPOREA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PDF created with pdfFactory trial version www.softwarelabs.com
+
+---
+
+ICF Checklist  Organizzazione Mondiale della Sanità, settembre 2003 
+Traduzione italiana realizzata ed approvata dal Disability Italian Network 
+6
+PARTE 2: LIMITAZIONI DELL’ATTIVITA’ E RESTRIZIONI DELLA 
+PARTECIPAZIONE  
+ 
+• 
+L’Attività è l’esecuzione di un compito o di un’azione da parte di un individuo. La Partecipazione è il 
+coinvolgimento in una situazione di vita. 
+• 
+Le Limitazioni dell’Attività sono le difficoltà che un individuo può incontrare nello svolgere delle attività. Le 
+Restrizioni alla Partecipazione sono i problemi che un individuo può sperimentare nel coinvolgimento nelle 
+situazioni della vita. 
+ 
+Il qualificatore Performance indica il grado della restrizione nella partecipazione descrivendo l'attuale performance delle 
+persone in un compito o in un'azione nel loro ambiente reale. Poiché l’ambiente reale introduce al contesto sociale, 
+performance può essere intesa come “coinvolgimento in una situazione di vita” o ”esperienza vissuta” delle persone nel 
+contesto reale in cui vivono. 
+Questo contesto include i fattori ambientali - tutti gli aspetti del mondo fisico, sociale e degli atteggiamenti - che possono 
+essere codificati usando la componente Fattori Ambientali. Il qualificatore Performance misura la difficoltà che la persona 
+incontra nel fare le cose, ammesso che le voglia fare. 
+ 
+Il qualificatore Capacità indica il grado di limitazione nell'attività descrivendo l’abilità della persona ad eseguire un 
+compito o una azione. Il qualificatore Capacità focalizza l'attenzione sulle limitazioni che sono caratteristiche inerenti o 
+intrinseche delle persone stesse. Queste limitazioni dovrebbero essere manifestazioni dirette dello stato di salute della 
+persona, senza assistenza. Per assistenza intendiamo l'aiuto di un'altra persona, o l'assistenza fornita da un veicolo o da 
+uno strumento adattato o appositamente progettato o qualsiasi modificazione ambientale di una stanza, della casa, del 
+posto di lavoro, ecc. Il livello dovrebbe essere valutato relativamente alle capacità normalmente attese per quella persona o 
+alle capacità  della persona prima delle attuali condizioni di salute. 
+Note: Usare Appendice 2 sul come raccogliere informazioni sulle Attività e la Partecipazione della persona. 
+ 
+Primo Qualificatore: Performance 
+Grado di restrizione della Partecipazione 
+Secondo Qualificatore: Capacità (senza assistenza) 
+Grado di limitazione dell’Attività 
+0 Nessuna difficoltà significa che la persona non presenta il problema. 
+1 Difficoltà lieve significa che il problema è presente in meno del 25% del tempo, con un'intensità che la persona può 
+tollerare e che si è presentato raramente negli ultimi 30 giorni. 
+2 Difficoltà media significa che il problema è presente in meno del 50% del tempo, con un'intensità che interferisce nella 
+vita quotidiana della persona e che si è presentato occasionalmente negli ultimi 30 giorni. 
+3 Difficoltà grave significa che il problema è presente per più del 50% del tempo, con un'intensità che altera parzialmente la 
+vita quotidiana della persona e che si è presentato frequentemente negli ultimi 30 giorni. 
+4 Difficoltà completa significa che il problema è presente per più del 95% del tempo, con una intensità che altera totalmente 
+la vita quotidiana della persona e che si è presentato quotidianamente negli ultimi 30 giorni. 
+8 Non specificato significa che l'informazione è insufficiente per specificare la gravità della difficoltà. 
+9 Non applicabile significa che è inappropriato applicare un particolare codice (es: b650 Funzioni della mestruazione per 
+donne in età di pre-menarca o di post-menopausa). 
+ 
+Breve lista di dimensioni A&P  
+Qualificatore di 
+performance 
+Qualificatore 
+di 
+capacità 
+d1. APPRENDIMENTO E APPLICAZIONE DELLA CONOSCENZA 
+ 
+ 
+     d110  Guardare 
+ 
+ 
+     d115  Ascoltare 
+ 
+ 
+     d140  Imparare a leggere 
+ 
+ 
+     d145  Imparare a scrivere 
+ 
+ 
+     d150  Imparare a calcolare (aritmetica) 
+ 
+ 
+     d175  Risoluzione di problemi 
+ 
+ 
+d2. COMPITI E RICHIESTE GENERALI 
+ 
+ 
+     d210  Intraprendere un  compito singolo 
+ 
+ 
+     d220  Intraprendere  compiti articolati 
+ 
+ 
+d3. COMUNICAZIONE 
+ 
+ 
+     d310  Comunicare con - ricevere - messaggi verbali 
+ 
+ 
+     d315  Comunicare con - ricevere - messaggi non-verbali 
+ 
+ 
+     d330  Parlare 
+ 
+ 
+PDF created with pdfFactory trial version www.softwarelabs.com
+
+---
+
+ICF Checklist  Organizzazione Mondiale della Sanità, settembre 2003 
+Traduzione italiana realizzata ed approvata dal Disability Italian Network 
+7
+     d335  Produrre messaggi non-verbali 
+ 
+ 
+     d350  Conversazione 
+ 
+ 
+d4. MOBILITÀ 
+ 
+ 
+     d430  Sollevare e trasportare oggetti 
+ 
+ 
+     d440  Uso fine della mano (raccogliere, afferrare) 
+ 
+ 
+     d450  Camminare 
+ 
+ 
+     d465  Spostarsi  usando apparecchiature/ausili  (sedia a rotelle,     pattini, ecc.) 
+ 
+ 
+     d470  Usare un mezzo di trasporto (auto, bus, treno, aereo, ecc.) 
+ 
+ 
+     d475  Guidare (andare in bici o motocicletta, guidare l’auto, ecc.) 
+ 
+ 
+d5. CURA DELLA PROPRIA PERSONA 
+ 
+ 
+     d510  Lavarsi (fare il bagno, asciugarsi, lavarsi le mani, ecc..) 
+ 
+ 
+     d520  Prendersi cura di singole parti del corpo (lavarsi i denti, radersi, ecc.) 
+ 
+ 
+     d530  Bisogni corporali 
+ 
+ 
+     d540  Vestirsi 
+ 
+ 
+     d550  Mangiare 
+ 
+ 
+     d560  Bere 
+ 
+ 
+     d570  Prendersi cura della propria salute 
+ 
+ 
+d6. VITA DOMESTICA 
+ 
+ 
+     d620  Procurarsi beni e servizi (fare la spesa, ecc.) 
+ 
+ 
+     d630  Preparare i pasti (cucinare, etc.) 
+ 
+ 
+     d640  Fare i lavori di casa (pulire la casa, lavare i piatti, fare il bucato, stirare, ecc.)
+ 
+ 
+     d660  Assistere gli altri 
+ 
+ 
+d7. INTERAZIONI E RELAZIONI INTERPERSONALI 
+ 
+ 
+     d710  Interazioni interpersonali semplici 
+ 
+ 
+     d720  Interazioni interpersonali  complesse 
+ 
+ 
+     d730  Entrare in relazione con estranei 
+ 
+ 
+     d740  Relazioni formali 
+ 
+ 
+     d750  Relazioni  sociali informali 
+ 
+ 
+     d760  Relazioni familiari 
+ 
+ 
+     d770  Relazioni intime 
+ 
+ 
+d8. AREE DI VITA PRINCIPALI  
+ 
+ 
+     d810  Istruzione informale 
+ 
+ 
+     d820  Istruzione scolastica 
+ 
+ 
+     d830  Istruzione superiore 
+ 
+ 
+     d850  Lavoro retribuito 
+ 
+ 
+     d860  Transazioni economiche semplici 
+ 
+ 
+     d870  Autosufficienza economica 
+ 
+ 
+d9. VITA SOCIALE, CIVILE E DI COMUNITÀ 
+ 
+ 
+     d910  Vita nella comunità 
+ 
+ 
+     d920  Ricreazione e tempo libero 
+ 
+ 
+     d930  Religione e spiritualità 
+ 
+ 
+     d940  Diritti umani 
+ 
+ 
+     d950  Vita politica e cittadinanza 
+ 
+ 
+OGNI ALTRA ATTIVITÀ E PARTECIPAZIONE 
+ 
+ 
+…..d420..Trasferirsi1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                  
+1 Il DIN propone, in accordo con l’OMS, l’aggiunta di default del codice d420 (trasferirsi), da valutare in fase di 
+sperimentazione. 
+PDF created with pdfFactory trial version www.softwarelabs.com
+
+---
+
+ICF Checklist  Organizzazione Mondiale della Sanità, settembre 2003 
+Traduzione italiana realizzata ed approvata dal Disability Italian Network 
+8
+PARTE 3: FATTORI AMBIENTALI 
+ 
+• 
+I Fattori ambientali costituiscono gli atteggiamenti, l’ambiente fisico, sociale e degli atteggiamenti, in 
+cui le persone vivono e conducono la loro esistenza. 
+ 
+Qualificatore nell’ambiente: 
+0 Nessuna barriera  
++0 Nessun facilitatore 
+Barriere o facilitatori  
+1 Barriera lieve 
+ 
+ 
++1 Facilitatore lieve  
+2 Barriera media  
++2 Facilitatore medio 
+3 Barriera grave 
+ 
++3 Facilitatore sostanziale 
+4 Barriera completa 
+ 
++4 Facilitatore completo 
+8 Barriera, non spec. 
+ 
++8 Facilitatore, non spec. 
+9 Non applicabile  
++9 Non applicabile 
+ 
+Breve Lista Fattori Ambientali 
+Qualificatore 
+Barriere o facilitatori 
+e1. PRODOTTI E TECNOLOGIA 
+ 
+      e110  Prodotti o sostanze per il consumo personale (cibo, farmaci) 
+ 
+      e115  Prodotti e tecnologia per l’uso personale nella vita quotidiana 
+ 
+      e120  Prodotti per la mobilità e il trasporto personale in ambienti interni e esterni 
+ 
+      e125  Prodotti e tecnologia per la comunicazione 
+ 
+      e150  Prodotti e tecnologia per la progettazione e la costruzione di edifici per il pubblico utilizzo 
+ 
+      e155  Prodotti e tecnologia per la progettazione e la costruzione di edifici per utilizzo privato 
+ 
+e2. AMBIENTE NATURALE E CAMBIAMENTI EFFETTUATI DALL’UOMO
+     e225  Clima
+     e240  Luce
+     e250  Suono
+e3. RELAZIONI E SOSTEGNO SOCIALE
+      e310  Famiglia ristretta 
+ 
+      e320  Amici 
+ 
+      e325  Conoscenti, colleghi, vicini di casa e membri della comunità 
+ 
+      e330  Persone in posizione di autorità 
+ 
+      e340  Persone che forniscono aiuto o assistenza  
+ 
+      e355  Operatori sanitari 
+ 
+      e360  Altri operatori 
+ 
+e4. ATTEGGIAMENTI
+      e410  Atteggiamenti individuali dei componenti della famiglia ristretta 
+ 
+      e420  Atteggiamenti individuali degli amici 
+ 
+      e440  Atteggiamenti individuali di persone che forniscono aiuto o assistenza  
+ 
+      e450  Atteggiamenti individuali di operatori sanitari 
+ 
+      e455  Atteggiamenti individuali di altri operatori 
+ 
+      e460  Atteggiamenti della società 
+ 
+      e465  Norme sociali, costumi e ideologie 
+ 
+e5. SERVIZI, SISTEMI E POLITICHE
+      e525  Servizi, sistemi e politiche abitative 
+ 
+      e535  Servizi, sistemi e politiche di comunicazione 
+ 
+      e540  Servizi, sistemi e politiche di trasporto 
+ 
+      e550  Servizi, sistemi e politiche legali 
+ 
+      e570  Servizi, sistemi e politiche previdenziali/assistenziali 
+ 
+      e575  Servizi, sistemi e politiche di sostegno sociale generale 
+ 
+      e580  Servizi, sistemi e politiche sanitarie 
+ 
+      e585  Servizi, sistemi e politiche dell’istruzione e della formazione 
+ 
+      e590  Servizi, sistemi e politiche del lavoro 
+ 
+OGNI ALTRO FATTORE AMBIENTALE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PDF created with pdfFactory trial version www.softwarelabs.com
+
+---
+
+ICF Checklist  Organizzazione Mondiale della Sanità, settembre 2003 
+Traduzione italiana realizzata ed approvata dal Disability Italian Network 
+9
+ 
+Parte 4: ALTRE INFORMAZIONI SUL CONTESTO 
+ 
+4. 1 Fare una descrizione sintetica del soggetto e di ogni altra informazione rilevante. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.2 Includere tutti i Fattori Personali che possono avere un impatto sullo stato funzionale (es. stile di vita, abitudini, 
+contesto sociale, educazione, eventi della vita, razza/etnia, orientamento sessuale e beni dell’individuo). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PDF created with pdfFactory trial version www.softwarelabs.com
+
+---
+
+ICF Checklist  Organizzazione Mondiale della Sanità, settembre 2003 
+Traduzione italiana realizzata ed approvata dal Disability Italian Network 
+10
+Appendice 1: 
+ 
+INFORMAZIONI SINTETICHE SULLO STATO DI SALUTE 
+ 
+ 
+[ ] Autocompilata 
+[ ] Somministrata da un clinico 
+ 
+ 
+X.1 Altezza: __/__/__ cm 
+ 
+X.2 Peso: __/__/__ kg 
+ 
+X.3 Mano dominante (prima dell’attuale condizione di salute): Sinistra [ ] Destra [ ] Ambidestra [ ] 
+ 
+X.4 Come valuta la sua salute fisica nell’ultimo mese? 
+ 
+Molto buona [ ]   
+Buona [ ]  
+Modesta [ ]  
+Cattiva [ ]  
+Molto cattiva [ ] 
+ 
+X.5 Come valuta la sua salute mentale ed emotiva nell’ultimo mese? 
+ 
+Molto buona [ ]   
+Buona [ ]  
+Modesta [ ]  
+Cattiva [ ]  
+Molto cattiva [ ] 
+ 
+X.6 In questo momento ha qualche malattia(e) o disturbo(i)? 
+ 
+[ ] NO   
+[ ] SI 
+Se SI, specificare quali: 
+_________________________________ 
+_________________________________ 
+ 
+X.7 Ha mai avuto qualche lesione significativa con conseguenze sul suo livello di funzionamento? 
+ 
+[ ] NO   
+[ ] SI 
+Se SI, specificare quali: 
+__________________________________ 
+__________________________________ 
+ 
+X.8 E’ stato ricoverato in ospedale nell’ultimo anno? 
+ 
+[ ] NO   
+[ ] SI 
+Se SI, specificare le ragioni e per quanto tempo? 
+ 
+1. 
+_____________________________; ___. ___. ___ giorni 
+2. 
+_____________________________; ___. ___. ___ giorni 
+3. 
+_____________________________; ___. ___. ___ giorni 
+ 
+X.9 Sta assumendo qualche farmaco (sia con prescrizione medica che senza)? 
+ 
+[ ] NO   
+[ ] SI 
+Se SI, specificare i farmaci principali che sta assumendo 
+ 
+1. _____________________________ 
+2. _____________________________ 
+3. _____________________________ 
+ 
+X.10 Fuma? 
+ 
+ 
+[ ] NO   
+[ ] SI 
+ 
+X.11 Assume alcool o droghe? 
+PDF created with pdfFactory trial version www.softwarelabs.com
+
+---
+
+ICF Checklist  Organizzazione Mondiale della Sanità, settembre 2003 
+Traduzione italiana realizzata ed approvata dal Disability Italian Network 
+11
+ 
+[ ] NO   
+[ ] SI 
+Se SI ,specificare la quantità media giornaliera 
+ 
+Tabacco:  
+__________________________ 
+Alcool:   
+__________________________ 
+Droghe: __________________________ 
+ 
+X.12 Fa uso di qualche ausilio come occhiali, apparecchio acustico, sedia a rotelle, ecc.? 
+ 
+[ ] NO   
+[ ] SI 
+Se SI, specificare 
+___________________________________________ 
+ 
+X.13 C’è qualche persona che l’assiste nelle cure personali, nel fare la spesa o in altre attività quotidiane? 
+ 
+[ ] NO   
+[ ] SI 
+Se SI,specificare la persona e il tipo di assistenza fornito 
+______________________________________________________ 
+ 
+X.14 Sta ricevendo qualche tipo di trattamento per la sua salute? 
+ 
+[ ] NO   
+[ ] SI 
+Se SI, specificare: 
+______________________________________________________ 
+ 
+X.15 Ulteriori informazioni significative sul suo stato di salute passato e presente: 
+ 
+__________________________________________________________________________________________ 
+__________________________________________________________________________________________ 
+ 
+ 
+X.16 NELL’ULTIMO MESE, ha ridimensionato (es. ridotto) le sue attività abituali o il lavoro a causa del suo stato di salute 
+(malattia, trauma, disturbi emotivi, abuso di alcool e/o droghe)? 
+ 
+[ ] NO  
+ [ ] SI 
+Se SI, per quanti giorni? _____ 
+ 
+X.17 NELL’ULTIMO MESE, è stato totalmente incapace di eseguire attività abituali o il lavoro a causa del suo stato di 
+salute? (malattia, trauma, disturbi emotivi, abuso di alcool e/o droghe)? 
+ 
+[ ] NO   
+[ ] SI  
+Se SI, per quanti giorni? _____ 
+PDF created with pdfFactory trial version www.softwarelabs.com
+
+---
+
+ICF Checklist  Organizzazione Mondiale della Sanità, settembre 2003 
+Traduzione italiana realizzata ed approvata dal Disability Italian Network 
+12
+Appendice 2: 
+ 
+DOMANDE GENERALI SULLA PARTECIPAZIONE E LE ATTIVITÀ 
+ 
+Le seguenti domande vengono proposte come guida per aiutare l’esaminatore durante l’intervista con 
+il soggetto interessato rispetto a problemi nel funzionamento e nelle attività quotidiane, in termini di 
+distinzione tra capacità e performance. Si prendano in considerazione tutte le informazioni personali 
+note che riguardano il soggetto e si ponga qualsiasi altra domanda necessaria. Se si rendesse 
+necessario porre ulteriori domande queste dovrebbero essere a formulazione aperta. 
+ 
+Rispetto ad ogni dominio ci sono due tipi di domande: 
+  
+La prima domanda mira a far concentrare la persona sulle sue capacità di svolgere un compito o 
+un’azione e, in particolare, a focalizzare l’attenzione sulle limitazioni di capacità che sono 
+caratteristiche inerenti o intrinseche della persona stessa. Queste limitazioni dovrebbero essere 
+manifestazioni dirette dello stato di salute della persona, senza assistenza. Per assistenza intendiamo 
+l’aiuto di un’altra persona, o l’assistenza fornita da un veicolo o uno strumento adattato o 
+appositamente progettato, o qualsiasi altra forma di modificazione ambientale di una stanza, della 
+casa, del posto di lavoro, ecc. Il livello di capacità dovrebbe essere valutato relativamente alle normali 
+aspettative della persona, o alle capacità della persona, prima delle attuali condizioni di salute. 
+ 
+La seconda domanda si focalizza sull’attuale performance del soggetto interessato in un compito o in 
+un’azione nella situazione  o ambiente di vita attuali, ed evidenzia ulteriori informazioni sugli effetti 
+delle barriere o dei facilitatori ambientali. Questo è importante per enfatizzare che si è interessati solo 
+alla gravità della difficoltà che la persona ha nel fare le cose, ammesso che le voglia fare. Non fare 
+qualcosa è irrilevante, se la persona decide di non  farla. 
+ 
+ 
+I.  
+Mobilità 
+ 
+(Capacità) 
+(1) Nel suo attuale stato di salute, quante difficoltà incontra nel camminare per una lunga 
+distanza (un chilometro o più) senza assistenza? 
+ 
+(2) Come paragona queste difficoltà rispetto ad un’altra persona, simile a lei, ma senza la sua 
+condizione di salute? 
+ 
+(O: “…quella che aveva prima di sviluppare il suo problema di salute o di avere l’incidente?”) 
+ 
+(Performance) 
+(1) Nel suo attuale ambiente di vita, quanti problemi incontra nel camminare per lunghe 
+distanze (un chilometro o più)? 
+ (2) Il suo abituale ambiente di vita migliora o peggiora queste difficoltà nel camminare? 
+ 
+(3) La sua capacità di camminare per lunghe distanze, senza assistenza, è maggiore o minore di 
+quella che lei esprime nel suo attuale ambiente di vita? 
+ 
+II. Cura della propria persona 
+PDF created with pdfFactory trial version www.softwarelabs.com
+
+---
+
+ICF Checklist  Organizzazione Mondiale della Sanità, settembre 2003 
+Traduzione italiana realizzata ed approvata dal Disability Italian Network 
+13
+ 
+(Capacità) 
+(1) Nel suo attuale stato di salute, quante difficoltà incontra nel lavarsi senza assistenza? 
+ 
+(2) Come paragona queste difficoltà rispetto ad un’altra persona, simile a lei, ma senza la sua 
+condizione di salute? 
+ 
+(O: “…quella che aveva prima di sviluppare il suo problema di salute o di avere l’incidente?”) 
+ 
+(Performance) 
+(1) In casa sua, quanti problemi incontra nel lavarsi? 
+ 
+(2) Questo problema è peggiorato, o migliorato, da quando la sua casa è stata organizzata o 
+utilizza strumenti specificatamente adattati? 
+ 
+(3) La sua capacità di lavarsi senza assistenza è maggiore o minore di quella che lei esprime nel 
+suo attuale ambiente di vita? 
+ 
+III. Vita domestica 
+ 
+(Capacità) 
+(1) Nel suo attuale stato di salute, quante difficoltà incontra nel pulire il pavimento della casa in 
+cui vive, senza assistenza? 
+ 
+(2) Come paragona queste difficoltà rispetto ad un’altra persona, simile a lei, ma senza la sua 
+condizione di salute? 
+ 
+(O: “…quella che aveva prima di sviluppare il suo problema di salute o di avere l’incidente?”) 
+ 
+(Performance) 
+(1) In casa sua, quanti problemi incontra nel pulire il pavimento? 
+ 
+(2) Questo problema è peggiorato, o migliorato, da quando la sua casa è stata organizzata o 
+utilizza strumenti specificamente adattati? 
+ 
+(3) La sua capacità di pulire il pavimento senza assistenza è maggiore o minore di quella che lei 
+esprime nel suo attuale ambiente di vita? 
+ 
+IV. Interazioni interpersonali 
+ 
+(Capacità) 
+(1) Nel suo attuale stato di salute, quante difficoltà incontra nel fare nuove amicizie senza 
+assistenza? 
+ 
+(2) Come paragona queste difficoltà rispetto ad un’altra persona, simile a lei, ma senza la sua 
+condizione di salute? 
+ 
+(O: "…quella che aveva prima di sviluppare il suo problema di salute o di avere l’incidente?”) 
+ 
+PDF created with pdfFactory trial version www.softwarelabs.com
+
+---
+
+ICF Checklist  Organizzazione Mondiale della Sanità, settembre 2003 
+Traduzione italiana realizzata ed approvata dal Disability Italian Network 
+14
+ (Performance) 
+(1) Nella sua attuale situazione, quanti problemi ha nel fare nuove amicizie? 
+ 
+(2) Il suo attuale ambiente di vita, migliora o peggiora questa difficoltà nel fare amicizie? 
+ 
+(3) La sua capacità di fare amicizia, senza assistenza, è maggiore o minore di quella che lei 
+esprime nel suo attuale ambiente di vita? 
+ 
+V. Aree di vita principali. 
+ 
+(Capacità) 
+(1) Nel suo attuale stato di salute, quante difficoltà incontra nell’eseguire tutti i compiti 
+necessari per la sua attività lavorativa, senza assistenza? 
+ 
+(2) Come paragona queste difficoltà rispetto ad un’altra persona, simile a lei,ma senza la sua 
+condizione di salute? 
+ 
+(O: "…quella che aveva prima di sviluppare il suo problema di salute o di avere l’incidente?”) 
+ 
+ (Performance) 
+(1) 
+Nel suo attuale ambiente di vita quante difficoltà incontra nell’eseguire tutti i compiti 
+necessari per la sua attività lavorativa?  
+ 
+(2) Questo problema, di portare a termine le mansioni della sua attività lavorativa, è peggiorato, 
+o migliorato, da quando l’ambiente di lavoro è stato modificato o utilizza strumenti 
+specificamente adattati? 
+ 
+(3) La sua capacità di svolgere il suo lavoro, senza assistenza, è maggiore o minore di quella 
+che lei esprime nel suo attuale ambiente di vita? 
+ 
+VI. Vita Comunitaria, Sociale e Civica 
+ 
+(Capacità) 
+(1) Nel suo attuale stato di salute, quante difficoltà incontra nel partecipare ad incontri della 
+comunità, feste o altri eventi locali, senza assistenza? 
+ (2) Come paragona queste difficoltà rispetto ad un’altra persona, simile a lei, ma senza la sua 
+condizione di salute? 
+ 
+(O: "…quella che aveva prima di sviluppare il suo problema di salute o di avere l’incidente?”) 
+ 
+(Performance) 
+(1) Nella sua comunità, quante difficoltà incontra nel partecipare ad incontri della comunità, 
+feste o altri eventi locali? 
+ 
+(2) Questo problema è peggiorato, o migliorato, da quando la sua comunità è stata organizzata o 
+utilizza strumenti, veicoli o altro specificamente adattati? 
+  
+(3) La sua capacità di partecipare agli eventi della comunità, senza assistenza, è maggiore o 
+minore di quella che lei esprime nel suo attuale ambiente di vita? 
+PDF created with pdfFactory trial version www.softwarelabs.com

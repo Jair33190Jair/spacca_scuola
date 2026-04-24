@@ -1,117 +1,104 @@
-# L'Adultità — Sintesi
+# Adultità — Sintesi
 I Tempi della Vita · Sessione 07
 
-> L'adultità non è un traguardo — è un processo continuo di costruzione, crisi e rinascita. Tre grandi teorici, cinque piani di sviluppo, e il coraggio di cambiare anche a 45 anni.
+> Sei a 30 anni, dentro la Novice Phase di Levinson. Questo ripasso è la tua
+> mappa del momento. Tienila a portata di mano.
 
 ---
 
-## Definire l'adultità: quattro prospettive
+## Definire l'adultità
 
-- **Etimologica:** dal latino *adultus* = cresciuto, sviluppato, maturo; completo sviluppo fisico e psichico
-- **Normativa:** maggiore età, diritto di voto, contratti, licenza, responsabilità penale
-- **Cronologica:** 20-60 anni; prima adultità (20-40/45) e seconda adultità/mezz'età (40/45-65)
-- **Psicologica:** le teorie di Jung, Erikson, Levinson
-
----
-
-## Jung — Individuazione e Puer/Senex
-
-- L'adultità è **l'età del dubbio** (35-40 anni): si spezzano i sogni dell'infanzia, appare un secondo Io
-- **Puer** → parte infantile-creativa, curiosità, esplorazione, vitalità
-- **Senex** → responsabilità, stabilità, ordine
-- Adultità = equilibrio tra Puer e Senex
-- **Individuazione:** processo di maturazione che integra le parti di sé rimaste nell'ombra
-- La maturità richiede di lasciare il programma del mattino per quello della sera
+- **Etimologico:** adultus = cresciuto, sviluppato, maturo (sviluppo fisico e psichico completo)
+- **Normativo:** maggiore età, diritto di voto, responsabilità penale, contratti
+- **Cronologico:** 20-60 anni; prima adultità (20-45), seconda adultità / mezz'età (45-65)
+- **Psicologico:** la lettura più ricca — vedi i tre teorici sotto
 
 ---
 
-## Erikson — Stadi psicosociali dell'adulto
+## I tre grandi teorici
 
-- Lo sviluppo adulto si determina anche nell'interrelazione con eventi sociali (non solo biologici)
-- **Stadio 6 — Intimità vs Isolamento** (20-29 anni)
-  - Intimità: sentimento del "noi", relazioni fuori dalla famiglia
-  - Isolamento: paura di perdersi → relazioni fredde e stereotipate
-- **Stadio 7 — Generatività vs Stagnazione** (30-60 anni)
-  - Generatività: guidare la generazione successiva, essere produttivi
-  - Stagnazione: auto-assorbimento, noia, impoverimento della vita sociale
+### Jung — Individuazione
 
----
+- **Individuazione:** processo con cui l'individuo emerge dall'indifferenziazione e diventa sé stesso
+- Si intensifica nella "fase di mezzo" (~40 anni)
+- **Puer:** parte infantile, creativa, esplorativa — spinge all'inquietudine e alla ricerca
+- **Senex:** parte responsabile, stabile, ordinata — lavoro, limiti, sopravvivenza
+- **Adultità = equilibrio tra puer e senex**
+- *"La verità del mattino costituisce l'errore della sera"* — non si vive la seconda metà con il programma della prima
 
-## Levinson — Le stagioni della vita
+### Erikson — Stadi psicosociali
 
-- Vita adulta = alternanza di **periodi di stabilità** (6-10 anni) e **periodi di transizione** (4-5 anni)
-- **Transizione:** porre fine a un'era, accettare le perdite, rivedere il passato, ridefinire il futuro
-- **Marker events:** eventi che innescano cambiamenti (matrimonio, malattia, morte, pensionamento…)
+- Lo sviluppo continua per tutta la vita, influenzato dalla socializzazione
+- **Stadio 6 (20-29 anni): Intimità vs Isolamento**
+  - Intimità = capacità di costruire un "noi" autentico
+  - Isolamento = paura di perdersi, relazioni fredde e stereotipate
+- **Stadio 7 (30-60 anni): Generatività vs Stagnazione**
+  - Generatività = bisogno di occuparsi delle generazioni future, essere produttivi
+  - Stagnazione = auto-assorbimento, noia, blocco della crescita
 
-### Fasi principali
+### Levinson — Le stagioni della vita
 
-| Fase | Età | Contenuto |
-|------|-----|-----------|
-| Early Adult Transition (EAT) | ~17-22 | Separazione dalla famiglia, inizio dell'indipendenza |
-| Entering the Adult World (EAW) | ~22-28 | Prima struttura provvisoria; esplorare e radicarsi |
-| Age Thirty Transition (ATT) | ~28-33 | Modificare la prima struttura; presa di coscienza del tempo |
-| Settling Down (SD) | ~33-40 | Consolidamento; ambivalenza affermazione/libertà |
-| Mid-Life Transition (MLT) | ~40-45 | Preoccupazioni sul percorso; avanzamento del processo di individuazione |
-| Entering Middle Adulthood (EMA) | ~45-50 | Nuova costruzione; possibili "rivoluzioni" (divorzio, trasloco…) |
-| Age 50 Transition | ~50-55 | Ulteriore revisione; crisi se non si è cambiato abbastanza |
+- La vita alterna **stabilità** (6-10 anni) e **transizione** (4-5 anni)
+- La struttura di vita = chi sei in quel momento (influenzata da: contesto socioculturale, sé interiore, partecipazione al mondo)
+- **Marker events:** eventi che segnano le transizioni (matrimonio, malattia, morte...)
 
-- **Novice Phase** (EAT + EAW + ATT): compiti principali = creare un Sogno, trovare un Mentor, trovare lavoro
-- **Quattro polarità da integrare:** Maschile/Femminile · Giovane/Anziano · Distruzione/Creazione · Attaccamento/Separazione
+#### Novice Phase — prima adultità
 
-> **Essere adulto = essere disponibili al cambiamento**
+| Fase | Contenuto |
+|------|-----------|
+| **EAT** — Early Adult Transition | Separazione dalla famiglia, prime autonomie |
+| **EAW** — Entering the Adult World | Prima struttura adulta (provvisoria), esplorazione |
+| **ATT** — Age Thirty Transition | Modifica della prima struttura, coscienza del tempo |
 
----
+Quattro compiti centrali della Novice Phase:
+- Creare un **Sogno** (visione di sé possibile, motore dell'azione)
+- Trovare un **Mentor** (figura guida nel mondo adulto)
+- Trovare un'occupazione
+- Costruire reciprocità nelle relazioni
 
-## I cinque piani dell'essere adulto
+#### Seconda adultità
 
-- **Fisico** → stabilità corporea, accettazione del proprio corpo
-- **Personologico** → controllo impulsi, autonomia, funzioni esecutive (pianificazione, organizzazione, regolazione)
-- **Intellettuale** → pensiero più soggettivo, pratico, integrativo; Schaie: 4 stadi (acquisizione → realizzazione → responsabilità → reintegrativo)
-- **Relazionale** → generatività: non solo procreare, ma lasciare un impatto positivo sul contesto
-- **Professionale** → lavoro = identità, competenza, appartenenza, struttura del tempo (Bandura, 1995)
+- **Settling Down:** consolidamento e stabilizzazione
+- **Mid-life Transition:** crisi di mezza età, avanzamento dell'individuazione
+- **Entering Middle Adulthood:** nuova costruzione, a volte rivoluzioni
+- **Age 50 Transition:** crisi per chi non ha modificato abbastanza prima
 
----
-
-## Identità
-
-- Risponde alla domanda «chi sono io?»
-- Emerge con forza nei momenti di crisi
-- È **polimorfa:** composta da strati di infanzia, adolescenza, adultità, vecchiaia
-- Non si parte dall'immagine finale — si fa esperimenti con i pezzi che si hanno
+Quattro polarità da integrare: Maschile/Femminile · Giovane/Anziano · Distruzione/Creazione · Attaccamento/Separazione
 
 ---
 
-## Genitorialità — le dodici funzioni
+## Le cinque dimensioni dell'adultità
 
-Spazio mentale e relazionale che non richiede necessariamente un figlio reale.
+- **Fisica:** stabilità e accettazione del proprio corpo (componente attiva, non solo biologica)
+- **Personologica:** controllo degli impulsi, autonomia, funzioni esecutive
+- **Intellettuale:** pensiero adulto = soggettivo, pratico, integrativo
+  - Schaie: fase acquisitiva → realizzativa/esecutiva → reintegrativa
+  - Pensiero post-formale (5° stadio): non cerca la risposta assoluta, ma quella significativa per sé
+- **Relazionale:** generatività — lasciare un impatto positivo; genitorialità come spazio mentale (12 funzioni)
+- **Professionale:** il lavoro struttura identità, appartenenza, senso di valore (Bandura)
 
-| Funzione | In breve |
-|----------|----------|
-| Protettiva | Cure adeguate ai bisogni; fonda l'attaccamento |
-| Affettiva | Qualità emotiva del contesto del bambino |
-| Regolativa | Regolazione emotiva fornita dal caregiver |
-| Normativa | Capacità di dare limiti |
-| Predittiva | Anticipare la tappa evolutiva del figlio |
-| Rappresentativa | Aggiornare l'immagine del bambino man mano che cresce |
-| Significante | Rendere pensabile ciò che il neonato percepisce (Funzione alfa, Bion) |
-| Fantasmatica | Gioco di specchi tra bambino reale e bambino fantasticato |
-| Proiettiva | Proiezione di parti di sé sul bambino |
-| Triadica | Alleanza cooperativa tra i due genitori |
-| Differenziale | Gioco tra modalità materna e paterna |
-| Transgenerazionale | Inserire il figlio nel continuum generazionale familiare |
+---
 
-La **diade** genitore-figlio: la crescita di uno implica la crescita dell'altro.
+## Identità — il puzzle senza copertina
+
+- Risponde a "chi sono io?" — aspetto soggettivo del sé, legato al narcisismo
+- Si costruisce in relazione agli altri e attraverso i ruoli sociali
+- Emerge soprattutto nei momenti di **crisi**
+- È **polimorfa:** infanzia + adolescenza + adultità + vecchiaia, tutto insieme
 
 ---
 
 ## Adultescenza
 
-- Adulto biologico con mentalità adolescenziale
-- **Kidult** (anglosassone); **Sindrome di Peter Pan** (Kiley, 1983)
-- Caratteristiche: attenzione ossessiva all'immagine, difficoltà a contenere emozioni, auto-deresponsabilizzazione, giovanilismo
-- Due facce: fenomeno patologico (blocco evolutivo) vs aspetto positivo (mantiene viva la curiosità e la tensione al crescere)
-- Termine inafferrabile — impossibile fissarne caratteristiche regolative precise
+- La distinzione giovane/adulto è sempre più sfumata
+- **Adultescente** (Zingarelli 2014): 20-30 anni con mentalità e condizioni di vita adolescenziali
+- **Kidult** (cultura anglosassone); Sindrome di Peter Pan (Kiley, 1983)
+- Caratteristiche: attenzione all'immagine, difficoltà emotiva, auto-deresponsabilizzazione, giovanilismo
+- Medaglia a due facce: polo negativo (blocco evolutivo) / polo positivo (creatività, apertura al cambiamento)
 
 ---
 
-**Da ricordare:** **Individuazione** (Jung) · **Generatività vs Stagnazione** (Erikson) · **Strutture + Transizioni** (Levinson) · **12 funzioni della genitorialità** · **Adultescenza**
+**Da ricordare:**
+- **Essere adulto = essere disponibili al cambiamento** (non è un traguardo, è un processo)
+- **Generatività vs Stagnazione** (Erikson, 30-60 anni) — il compito della tua fase
+- **Novice Phase** (Levinson) = EAT + EAW + ATT + Sogno + Mentor

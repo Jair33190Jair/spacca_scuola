@@ -1,384 +1,313 @@
-# Introduzione al modulo di Salute Mentale
-Salute Mentale · Sessione 01 · 18.02.2026
+# La Famiglia
+I Tempi della Vita · Sessione 05 · A.A. 2025–2026
 
-> Questa prima lezione mette sul tavolo le fondamenta
-> di tutto il modulo: che cos'è davvero la salute?
-> Cos'è il benessere? E la normalità? Spoiler: nessuna
-> di queste domande ha una risposta semplice — e
-> proprio da qui parte il bello. Si parla anche della
-> tragedia greca come strumento per avvicinarsi alla
-> sofferenza umana. Roba potente, vedrai.
+> Questa lezione è un po' come studiare l'ecosistema di una foresta: la famiglia non è un singolo albero, ma un intreccio di radici, rami e specie diverse che si evolvono nel tempo. Capire come funziona — biologicamente, psicologicamente, socialmente — è fondamentale per chi fa lavoro sociale. Niente grafici d'esame vuoti: solo concetti che userai davvero sul campo.
 
 ---
 
-## Il modulo: struttura e filosofia
+## Che cos'è la famiglia? Definizioni a confronto
 
-Il modulo di Salute Mentale si articola su **tre
-tappe fondanti**, ispirate alla scuola fenomenologica:
+La domanda sembra banale, ma non lo è. Il punto di partenza della lezione è proprio questo: **non esiste una definizione universale di famiglia**, e capire perché è già metà del lavoro.
 
-1. **La clinica** — l'universo dell'incontro con
-   chi soffre. Si esplorano i concetti di salute
-   e malattia, normalità e patologia, l'incontro
-   empatico con l'altro e i meccanismi di difesa.
+**Lévi-Strauss** identificava tre pilastri che legano famiglia e società:
+- la **proibizione dell'incesto**
+- una **forma riconosciuta di unione**
+- la **divisione sessuale dei compiti**
 
-2. **Il mondo** — le funzioni psichiche e le loro
-   alterazioni (coscienza, percezione, pensiero,
-   affettività...), per poi passare alla dimensione
-   nosografica: sindromi affettive, ansiose, nevrosi,
-   disturbi di personalità, psicosi.
+Ma oggi queste categorie scricchiolano. La coppia, il genitore, la famiglia stessa hanno assunto forme che sfidano ogni schema classico.
 
-3. **Il corpo** — teatro della sofferenza: violenza,
-   aggressività, dimensioni anoressico-bulimiche,
-   sessualità come luogo di disagio, alessitimia.
+| Fonte | Definizione |
+|-------|-------------|
+| Scabini & Cigoli (2000) | Organizzazione che lega differenze fondamentali: generi, generazioni e stirpi — con la **generatività** come progetto centrale |
+| Vegetti Finzi & Celli (2011) | Due persone legate da vincolo sociale, che condividono casa, figli e impegni comuni |
+| Dizionario Devoto Oli | Nucleo sociale di due o più individui che vivono insieme, legati da matrimonio, parentela o affinità *(dal lat. "famulus" = servo)* |
+| Delvecchio (2013) | **Sistema complesso** derivante da storie, esperienze e relazioni — non riducibile alla somma dei suoi membri |
+| Fruggeri (2005) | Non più un'istituzione, ma un'**unione di affetti** |
+| Colozzi (2009) | Il **topos** delle certezze — il luogo sicuro dove rifugiarsi in un mondo esterno frammentato |
 
-Queste tre tappe sono attraversate da quattro
-dimensioni esistenziali: **spazio, tempo, identità
-e incontro**. La clinica va calata in uno spazio
-e in un tempo, l'identità va declinata nella
-relazione, e prima della relazione viene l'incontro
-— senza il quale la relazione non sussiste.
+La svolta concettuale chiave: i sociologi ormai parlano di **"famiglie" al plurale**, non più di "famiglia". Un singolo individuo può attraversare più forme familiari nel corso della vita.
 
-Il prof sottolinea un punto chiave: l'operatore
-sociale non è un tecnico di una sola disciplina,
-ma un **trait d'union** tra le specializzazioni.
-Per questo serve una conoscenza delle aree
-psicopatologiche — non per fare diagnosi, ma per
-comunicare con le altre figure professionali e
-per accompagnare la persona nella sua interezza.
+### Tipologie di organizzazioni familiari (Alvaro et al., 2007)
+
+Nucleare · Monoparentale · Ricomposta · Omo-genitoriale · D'affido · Adottiva · Da procreazione assistita · Di genitori separati · Unipersonale · LAT (*Living Apart Together*) · DINKS (*Double Income, No Kids*)
 
 ---
 
-## Salute, benessere, normalità: tre concetti
-da non confondere
+## Sguardo antropologico: cosa significa davvero "genitore"?
 
-Uno dei messaggi centrali della lezione: **salute,
-benessere e normalità sono tre cose diverse** che
-spesso vengono confuse o sovrapposte. Vediamole
-una per una.
+Prima di parlare di crisi della genitorialità, l'antropologia ci offre uno strumento prezioso per decostruire il concetto.
 
-### Salute: più complessa di quanto sembra
+**Esther Goody (1976, 1999)** ha scomposto la genitorialità in **cinque funzioni**, che nelle società occidentali tendono a concentrarsi sulle stesse persone, ma in altre culture (africane, studiate da Goody) vengono distribuite tra più adulti:
 
-Il prof parte da una domanda semplice: "Chi di voi
-sta bene?" Poi mostra quanto sia difficile rispondere.
-Due paradigmi diversi: puoi andare a fare gli esami
-del sangue e la TAC (approccio biomedico, *disease*),
-oppure puoi rispondere "mi sento bene" senza nessun
-esame (approccio soggettivo, *illness*). Non sono la
-stessa cosa.
+1. Concepire e mettere al mondo
+2. **Nutrire**
+3. **Educare**
+4. Dare un'identità alla nascita
+5. Garantire l'accesso allo statuto di adulto
 
-Introduce il lavoro di **Christopher Boorse (1977)**,
-che nel suo articolo ha tentato di definire la salute
-esaminando sette possibili condizioni — dimostrando
-che **nessuna da sola regge**:
+Pensa alle radici di una pianta: nella nostra cultura tendiamo a volerle tutte concentrate nello stesso vaso (padre + madre biologici). In altre culture, ogni radice può nutrirsi da un substrato diverso, e la pianta cresce comunque.
 
-| Condizione | Perché non basta |
-|---|---|
-| **Salute come valore** | Non tutto ciò che è desiderabile è salute; ci sono contesti dove non essere in salute può essere preferibile (es. durante guerre) |
-| **Malattia come ciò che il medico cura** | La medicina ha "colonizzato" ambiti non patologici (gravidanza, adolescenza); molte malattie non vengono trattate |
-| **Salute come norma statistica** | Fuori dalla media ≠ malattia (l'omosessualità è stata classificata come patologia a lungo) |
-| **Malattia come sofferenza** | Malattie asintomatiche e dolori normali (ciclo mestruale, coliche neonatali, dentizione) |
-| **Malattia come disabilità** | Tutti attraversiamo fasi di "non abilità" (un neonato non cammina, ma non è malato) |
-| **Salute come adattamento** | L'essere umano adatta anche l'ambiente a sé. Pensate alle neurodivergenze: a volte è l'ambiente che va cambiato |
-| **Salute come omeostasi** | Il funzionamento umano si basa su un continuo perdere e riacquistare equilibrio. L'equilibrio statico è rigidità |
+### Dissociazione della genitorialità
 
-L'ultimo punto merita attenzione. Il prof insiste:
-**l'equilibrio statico non è salute, è rigidità**.
-La metafora è bellissima: camminare richiede di
-rompere continuamente l'equilibrio. Per fare un
-passo devi sbilancarti. La vita è movimento, e il
-movimento richiede di perdere e ritrovare l'equilibrio.
-"Le persone troppo equilibrate sono spesso molto
-rigide, poco disposte a rischiare."
+Oggi si distingue tra:
+- **Genitorialità biologica** — chi concepisce
+- **Genitorialità istituzionale/giuridica** — chi ha il riconoscimento legale
+- **Genitorialità domestica** — chi si occupa della cura quotidiana
 
-> *"Non c'è movimento senza perdere l'equilibrio,
-> e siccome la vita è costante movimento, occorre
-> mettersi nell'ottica di capire e accompagnare
-> la perdita e la riconquista dell'equilibrio —
-> non impedirla."*
-> — Il professore
+Il sistema occidentale rimane ancorato a tre principi nella filiazione:
+- **Bilateralità** (due genitori riconosciuti)
+- **Ideologia del sangue** (legame biologico come primario)
+- **Esclusività** (un solo set di genitori "veri")
 
-### La triade anglosassone: disease, illness, sickness
-
-Per ordinare le idee sulla salute, il prof introduce
-la distinzione in tre dimensioni:
-
-- **Disease** — la malattia in senso biomedico,
-  misurabile (esami, parametri clinici)
-- **Illness** — il vissuto soggettivo: come la
-  persona *si sente*
-- **Sickness** — la dimensione sociale: come la
-  società riconosce (o stigmatizza) quella condizione
-
-Queste tre dimensioni **possono non coincidere**.
-Una malattia può essere tale per il medico (disease)
-ma non vissuta come tale dal soggetto (illness),
-oppure può essere vista dalla società come un vizio
-(sickness negativa) anche se è una malattia vera.
-
-Questo è importante per il lavoro sociale: lo sguardo
-della società su una condizione ha effetti reali sul
-benessere della persona. Se hai una malattia che viene
-giudicata come "vizio" o "colpa", la stigmatizzazione
-peggiora tutto — come mostrava già il racconto
-di apertura della lezione.
+Questo crea tensioni evidenti con le nuove forme di plurigenitorialità (famiglie adottive, ricomposte, omo-genitoriali, ecc.).
 
 ---
 
-## Il benessere: un concetto multidimensionale
+## Evoluzione storica della famiglia occidentale
 
-**Salute e benessere non coincidono.** Il prof porta
-l'esempio di **Tiziano Terzani** e del suo libro
-*L'ultimo giro di giostra*: un giornalista gravemente
-malato di cancro che attraverso la malattia ha trovato
-una pace e una ricchezza interiore che non aveva quando
-stava "bene". Paradossale? No, profondamente umano.
+La famiglia nucleare si è consolidata come modello tra il XVI e il XVII secolo. Tre periodi principali:
 
-Il benessere è un concetto **polisemico e
-multidimensionale**. **Carol Ryff** è una psicologa
-che ha risposto alla domanda: "Quando diciamo che
-una persona sta bene, di *cosa* esattamente stiamo
-parlando?" La risposta: di sei dimensioni distinte.
+### Famiglia tradizionale (XVI–XVIII sec.)
+- Famiglia dell'*Ancien Régime*: il **padre** esercita autorità assoluta
+- Donne e figli sottomessi alla sua volontà
+- L'amore romantico era percepito come **pericoloso** per le strategie familiari (il matrimonio unisce stirpi, non individui)
 
-| Dimensione | Cosa significa in concreto |
-|---|---|
-| **Autonomia** | Capacità di determinarsi senza dipendere dagli altri per le proprie scelte |
-| **Controllo ambientale** | Capacità di cogliere, sfruttare e valorizzare le risorse e le possibilità disponibili |
-| **Relazioni positive** | Avere relazioni calde, fiduciose, contraddistinte da affetto e reciprocità |
-| **Autoaccettazione** | Consapevolezza delle proprie qualità e limiti, senza negare né l'uno né l'altro |
-| **Percezione di crescita** | Sentire che la propria vita è un processo continuo di sviluppo |
-| **Scopo nella vita** | Avere mete, riuscire a dare senso a ciò che si fa |
+### Famiglia moderna (fine XVIII – XX sec.)
+- Il Padre-tiranno cede il posto al padre affettuoso; il **bambino viene posto al centro**
+- Attenzione affettiva ed educativa verso i bambini
+- Ma nel 1803 il **codice civile napoleonico ristabilisce la potenza paterna**
+- Rigida divisione dei ruoli; inferiorità giuridica della moglie
 
-Questo modello è prezioso per l'operatore sociale
-perché rende il lavoro sul benessere **concreto**.
-Invece di un generico "lavoro per il benessere",
-puoi esplorare *quale* dimensione è più critica
-e intervenire lì. Il prof fa un esempio: se lavori
-sull'autonomia di qualcuno (aiutarlo a fare scelte
-proprie), quello starà meglio — anche senza sapere
-perché. Il prodotto è quello che conta.
+### Famiglia contemporanea / post-moderna (fine anni '60 in avanti)
+Il punto d'inflessione demografico è il **1965**: calano fecondità, nuzialità, aumentano divorzi e matrimoni tardivi.
 
-Se in un momento la persona non riesce a lavorare
-sulle relazioni, si compensa sulle altre dimensioni.
-È un gioco di variabili, non tutto insieme.
-
-Il prof aggiunge: **vale anche per noi**, non solo
-per i nostri utenti. Se guardiamo indietro alla
-nostra vita e vediamo solo disastri, non stiamo bene.
-Se riusciamo a vedere crescita e senso, anche nelle
-difficoltà, il benessere aumenta.
+Cambiamenti strutturali:
+- Nuovo ruolo della **donna** (lavoratrice, autonoma, portavoce di nuovi diritti)
+- Ridimensionamento del modello **patriarcale**
+- Valorizzazione della **soggettività individuale** e dell'autorealizzazione
+- Coniugalità "privatizzata": il matrimonio come scelta personale, non un obbligo sociale
+- **Precarizzazione dell'unione** di coppia
 
 ---
 
-## La normalità: quale normalità?
+## Cambiamenti culturali nella transizione alla genitorialità
 
-Il prof introduce tre tipi di normalità — tutti
-rilevanti per il lavoro con le persone.
+*(Scabini & Cigoli, 2000)*
 
-### 1. Norma statistica
+Quattro trasformazioni fondamentali che caratterizzano la genitorialità contemporanea:
 
-La "normalità" come conformità alla media della
-popolazione. Sembra neutro, ma non lo è: essere
-fuori dalla norma statistica può provocare stigma,
-isolamento, discriminazione. L'omosessualità è stata
-a lungo classificata come patologia proprio su base
-statistica — e solo quando la comunità scientifica
-ha cambiato i criteri ne è uscita.
+**1. Si diventa genitori più tardi nella vita**
+L'età media al primo figlio si è spostata significativamente in avanti in tutto l'Occidente.
 
-Il contesto è fondamentale: qualsiasi comportamento,
-senza contesto, può sembrare "anormale".
+**2. Avere figli è diventato sempre più raro**
+Fenomeno noto come **"seconda transizione demografica"** (Lesthaeghe & Van de Kaa, 1986): calo strutturale della fecondità, disallineamento tra tassi di natalità e mortalità. In Svizzera il tasso di fertilità è tra i più bassi d'Europa.
 
-### 2. Norma di valore (ideale)
+Principali motivazioni per la scelta di non avere figli (De Pierrepont & Lévy, 2017):
+- Percezione negativa di bambini e gravidanza
+- Assenza di desiderio genitoriale
+- Rifiuto dei vincoli e dei ruoli legati alla genitorialità
+- Motivazioni altruistiche (preoccupazioni etiche/ambientali)
+- Valori post-moderni: soddisfazione di bisogni "postmaterialisti"
 
-Uno standard ideale che si pone come riferimento.
-Se il mio ideale è un certo tipo di corpo, starò
-male finché non ci corrispondo. Ed è un ideale
-*irraggiungibile*, quindi la sofferenza è perpetua.
+**3. La nascita è sempre più un evento scelto**
+Si passa dalla nascita come **evento atteso** (imprevedibile, estraneo alla pianificazione) alla nascita come **evento pianificato** (carico di aspettative e, a volte, di senso di colpa se le cose non vanno come previsto).
 
-**Attenzione**: la norma ideale incide anche sugli
-operatori. Abbiamo ideali su come dovrebbe essere
-un utente, come dovrebbe comportarsi, cosa dovrebbe
-raggiungere. Se quella norma ideale diventa il metro
-di lavoro, rischia di diventare penalizzante per
-la relazione.
+In un contesto di relazioni sempre più frammentate, il figlio diventa il **nuovo principio organizzatore dei legami familiari** — un "figlio del bisogno", posto al centro della realizzazione personale.
 
-### 3. Norma personale (individuale)
+Si passa dalla **famiglia etica** (che trasmette valori e norme) alla **famiglia affettiva** (fondata sull'amore e sul legame emotivo — Pietropolli Charmet, 2000).
 
-La normalità *rispetto a come funzionavo prima*.
-Se mi rompo una gamba, non sono più "normale" rispetto
-al mio funzionamento precedente. Questa dimensione
-è importante clinicamente: capire com'era il soggetto
-prima dell'evento permette di comprendere il
-cambiamento.
+> «I genitori tendono a trasmettere amore più che regole e principi astratti, aspirano a farsi obbedire per amore e non per paura delle sanzioni, si piegano nei confronti del figlio nella prospettiva di intercettare quale sia la sua vera natura e indole.»
+> — Pietropolli Charmet, 2000
 
-Ma il prof aggiunge un avvertimento cruciale:
-**la normalità personale non è sempre da riconquistare**.
-A volte è proprio quella "normalità" precedente che
-ha causato il problema. Esempio: "Lavoravo 10 ore
-al giorno, gestivo tutto, poi mi sono ammalato —
-voglio tornare come prima." Forse no. Se torni come
-eri prima, tra un mese ci rivediamo peggio.
-
-C'è anche il rischio di **idealizzare il passato**:
-"Prima stavo bene" — ma siamo sicuri? O è solo che
-in confronto a oggi sembra il paradiso?
+**4. Mutano le aspettative dei ruoli**
+Le donne hanno aspettative sempre più elevate di un **impegno paritario e condiviso** da parte dei partner nella gestione familiare.
 
 ---
 
-## La posizione del soggetto davanti alla malattia
+## Il processo di accesso alla genitorialità
 
-L'ultima parte della lezione introduce un modello
-pratico a due assi per capire come il soggetto si
-pone rispetto alla propria condizione.
+*(Nanzer & Palacio Espasa)*
 
-**Asse 1 — Identificazione:**
-- *Non mi identifico* con la malattia: "Io non sono
-  la mia malattia, è qualcosa di estraneo"
-- *Mi identifico*: "La mia condizione fa parte di me"
+Diventare genitore non è solo un fatto biologico — è un **processo psichico profondo** che inizia nell'infanzia ma si intensifica nel **periodo perinatale** (dal concepimento ai primi due anni dopo il parto).
 
-**Asse 2 — Agentività** (termine tecnico dal greco):
-- *Agentivo* (attivo): affronto la situazione,
-  mi muovo, cerco alleati
-- *Passivo*: subisco, aspetto che qualcuno intervenga
+Durante questa fase:
+- La donna attraversa un periodo di **"trasparenza psichica"**: estrema sensibilità emotiva, riemersione del passato
+- Il genitore compie un **movimento regressivo** verso i propri vissuti infantili
+- Emergono domande fondamentali: *"Che genitore sarò? Come erano i miei genitori? Voglio essere uguale o diverso/a?"*
 
-Incrociando i due assi si ottengono quattro posizioni:
+Il processo implica **lutti di sviluppo**: occorre rinunciare a immagini idealizzate dei propri genitori, o elaborare perdite reali vissute nell'infanzia.
 
-| | Non si identifica | Si identifica |
-|---|---|---|
-| **Passivo** | **Delega**: "Faccia lei, risolva lei" | Passivo nella propria condizione |
-| **Agentivo** | **Guarigione**: combatte per eliminare la condizione | **Cura**: lavora sul proprio benessere dentro la condizione |
+Fin qui ci siamo? Bene. Perché adesso viene la parte che, come futuro assistente sociale, tornerà più spesso nella tua pratica.
 
-Il passaggio chiave: quando il soggetto si identifica
-con la propria condizione e diventa agentivo, il
-paradigma passa dalla **guarigione** alla **cura**.
-Non si tratta più di eliminare la malattia (che a
-volte non è possibile), ma di aumentare il benessere
-*dentro* la condizione.
+Quando questi lutti sono **ben elaborati** → la genitorialità diventa un'occasione di crescita e "riedizione corretta" delle relazioni infantili.
 
-> *"Non tutto si può guarire. Ma tutto può essere
-> curato."*
-> — Il professore
+Quando **non lo sono** → il bambino rischia di essere inconsciamente arruolato per riparare o compensare ciò che il genitore non ha elaborato.
 
-La differenza tra *to cure* (terapia) e *to care*
-(cura) è fondamentale per il lavoro sociale: la
-terapia non è sempre possibile, ma la cura — nel
-senso di prendersi cura del benessere della persona
-— è sempre praticabile.
+> Come in un videogioco in cui un personaggio deve completare le quest non finite di un altro: il bambino porta il peso delle storie irrisolte dei genitori.
 
-Nella realtà le persone si muovono tra i quadranti,
-soprattutto all'inizio della malattia. L'operatore
-accompagna questo movimento.
+Anche le tappe di sviluppo del bambino (edipo, latenza, adolescenza) possono **riattivare** conflitti irrisolti nel genitore — per esempio, l'adolescenza del figlio mobilizza spesso i vissuti dell'adolescenza del genitore.
 
 ---
 
-## La tragedia greca: passioni e follia
+## I conflitti della genitorialità: quattro livelli
 
-Parallelamente allo studio teorico, il modulo
-include un lavoro su **cinque tragedie greche**.
+*(da Cramer & Palacio Espasa 1993; Manzano, Palacio Espasa & Zilkha 1999)*
 
-### Perché la tragedia?
+Il meccanismo centrale è quello delle **identificazioni proiettive**: il genitore proietta sul bambino immagini di sé da bambino, o dei propri genitori. Queste proiezioni possono essere sane e flessibili, oppure rigide e deformanti.
 
-La tragedia greca nasce insieme alla medicina antica
-(Ippocrate) e mette in scena la sofferenza umana —
-quella difficile da spiegare e a volte da comprendere.
-Assistere alla tragedia faceva emergere emozioni e
-sentimenti che, attraverso la **catarsi**, potevano
-uscire e liberare.
+> Freud (1914) aveva già intuito che i genitori rendono i figli depositari del proprio narcisismo infantile a cui hanno dovuto rinunciare.
 
-La tragedia parla dei **confini dell'umano**: la
-morte, la malattia, la follia. Il prof distingue
-gli approcci dei tre grandi tragediografi:
+### Livello 1 — Genitorialità "normale"
 
-- **Eschilo** — il più arcaico: la follia arriva
-  dagli dèi, è una forza esterna che schiaccia
-- **Sofocle** — il tragico non arriva dagli dèi,
-  è la vita stessa che è tragica
-- **Euripide** — il più moderno: il tragico nasce
-  dalle relazioni tra le persone
+- Identificazioni proiettive **flessibili e bidirezionali** ("esternalizzanti")
+- Il genitore si mette al posto del bambino *e* sa tornare al proprio punto di vista (empatia funzionale)
+- Le immagini proiettate sono prevalentemente **positive e libidiche**
+- Con il tempo queste immagini **sfumano**, lasciando spazio alla specificità del bambino reale
 
-A secoli di distanza, la tragedia "resta fedele
-a se stessa" — perché tocca qualcosa di profondo
-nell'umano che non cambia nei secoli.
+> *Esempio:* "Ho avuto un'infanzia buona nel complesso. Mi arrabbio a volte coi miei genitori, ma la nostra relazione è solida. Faccio del mio meglio con mio figlio, non sono perfetto ma stiamo bene."
 
-### L'esercizio pedagogico
+### Livello 2 — Genitorialità nevrotica
 
-Gli studenti sono divisi in **5 gruppi**, ciascuno
-con una tragedia assegnata per estrazione. Il lavoro
-prevede:
+- Il bambino viene **usato inconsciamente** per negare o riparare dolori infantili del genitore
+- Il genitore proietta sul bambino un'immagine idealizzata (il bambino che lui avrebbe voluto essere)
+- Si identifica con un genitore ideale: presente, disponibile, tollerante — ciò che i suoi genitori non erano stati abbastanza
+- Obiettivo inconscio: **"riscrivere la storia"** infantile
+- Narcisismo "antidepressivo": lo scopo è evitare i sentimenti di privazione, non attaccare il bambino
+- Impatto: disturbi di separazione, sonno, alimentazione, comportamento nel bambino
+- In terapia: **pre-transfert positivo** verso il terapeuta
 
-1. **Leggere** la tragedia — esporsi a un linguaggio
-   non familiare della sofferenza, proprio come
-   accade quando si incontra un paziente che parla
-   una "lingua" diversa dalla nostra
-2. **Condividere** nel gruppo — cosa ti ha parlato?
-   Quali temi ti hanno colpito?
-3. **Sintetizzare** — trovare un messaggio comune,
-   con le inevitabili rinunce individuali (esercizio
-   di équipe reale)
-4. **Andare in scena** — non uno "spettacolino",
-   ma portare temi salienti a una platea
+> *Esempio:* "La partenza di mio padre mi ha lasciato una mancanza. Voglio che mio figlio abbia l'infanzia perfetta che non ho avuto."
 
-Il prof insiste: quello che deve arrivare al pubblico
-deve essere *vero* — deve essere passato attraverso
-l'umanità di chi lo porta in scena. Se non c'è quella
-verità, si sente.
+### Livello 3 — Genitorialità masochistica
 
-### Le tragedie di quest'anno
+Due varianti:
+1. Il genitore si è vissuto da bambino come **responsabile della tristezza/depressione dei propri genitori**
+2. Il genitore ha coltivato **rivendicazioni** verso genitori vissuti come abbandonanti o indegni
 
-Le docenti hanno scelto — indipendentemente —
-tragedie che convergono su un tema comune: la
-**violenza sulle donne nei conflitti armati**.
+Dinamica: proietta sul bambino l'immagine del bambino-difficile, identificandosi col genitore-vittima. Si **sottomette** alla tirannia del bambino come espiazione.
 
-- **Agamennone** (Eschilo) — Cassandra, prigioniera
-  di guerra e bottino sessuale
-- **Le Troiane** (Euripide) — Ecuba, Cassandra,
-  Andromaca: tre donne schiavizzate dopo la caduta
-  di Troia
-- **Andromaca** (Euripide) — la vittima di guerra
-  per eccellenza
-- **Le Trachinie** (Sofocle) — donne umiliate
-  e "rese mute" dalla violenza
-- **Aiace** (Sofocle) — la fragilità dietro
-  l'eroismo apparente
+Impatto: disturbi del comportamento più gravi, disturbi ansiosi o dell'umore nel bambino.
 
-Il prof collega esplicitamente queste storie ai dati
-odierni sulla violenza sessuale nei conflitti armati
-(Congo, Iraq, Rwanda), citando **Nadia Murad**,
-Premio Nobel per la Pace e sopravvissuta alla
-schiavitù sessuale dell'ISIS. La tragedia greca
-non è storia lontana: è cronaca con un linguaggio
-di 2500 anni fa.
+In terapia: **pre-transfert positivo**, ma il terapeuta deve fare attenzione a non mostrarsi colpevolizzante (il Super-Io già spinge all'espiazione).
+
+> *Esempio:* "I miei genitori hanno sacrificato tutto per me, sembravano sempre tristi. Oggi mio figlio fa solo di testa sua — ho l'impressione che cerchi di farmi pagare quello che ho fatto passare ai miei genitori."
+
+### Livello 4 — Genitorialità narcisistica
+
+Il livello più grave. Le identificazioni proiettive sono:
+- **Rigide, unidirezionali, evacuatrici e deformanti**
+- Il genitore proietta aspetti **negativi** di sé (avidità, aggressività, pericolo) sul bambino
+- Genera un senso di persecuzione: il bambino viene vissuto come ostile o estraneo
+- Difese intense: **diniego e scissione** — il genitore è tagliato dalla propria vita emotiva
+- Anamnesi del passato vuota: *"Un'infanzia normale, come tutte le altre…"*
+- **Pre-transfert negativo**: il terapeuta viene vissuto come persecutore
+
+Impatto sul bambino: gravi disturbi dell'attaccamento, depressioni, disarmonie evolutive o psicotiche. A lungo termine: disturbo della personalità.
+
+> *Esempio:* "La mia infanzia? Non ho niente da dire. Oggi non capisco mio figlio — non mi ascolta, penso che non mi voglia bene."
+
+---
+
+## I casi clinici: la teoria in azione
+
+### Caso Myriam — "L'erede psicologica"
+
+*(Palacio Espasa, Manzano & Zilkha — dal volume "Scenari della genitorialità")*
+
+**La situazione:** Myriam, 11 anni e mezzo, adottata fin da piccola. Difficoltà scolastiche gravi, tristezza, inibizione, conflitti col fratello. La madre ha scelto l'adozione specificamente per **rompere con una linea ereditaria di gravi depressioni** nella sua famiglia d'origine — ma ora vede Myriam triste.
+
+**La dinamica:**
+- La madre proietta su Myriam l'immagine della **propria madre depressa**
+- Spera di recuperare il legame con la madre, "guarirla" e accedere a un'immagine migliore di sé
+- Il meccanismo fallisce: Myriam diventa ugualmente triste, confermando la proiezione
+- La bambina **si identifica istericamente** con gli aspetti depressivi proiettati — probabilmente per mantenere l'interesse della madre
+
+**L'intervento terapeutico:**
+- Primo intervento della terapeuta: *"Penso che siate molto tristi tutte e due, e tristi che anche l'altra lo sia."* La madre piange, Myriam si avvicina a lei.
+- Successivamente: la madre si riappropria della propria depressione e chiede una psicoterapia per sé
+- A Myriam vengono proposte sedute individuali centrate sulla problematica isterica (rivalità fallica, angosce di separazione)
+- **Esito:** Myriam completa l'anno scolastico con successo, sviluppa nuove relazioni coi coetanei e si autonomizza
+
+> **Concetto chiave:** fuggendo l'eredità biologica (la depressione genetica), la madre ha costruito ugualmente un'**eredità psicologica**. Il sintomo di Myriam era il lutto irrisolto della madre travestito da tristezza della figlia.
+
+---
+
+### Caso Régine — "Il sorriso di sollievo"
+
+*(Palacio Espasa, Manzano & Zilkha)*
+
+**La situazione:** Régine, 9 anni. Difficoltà di separazione severe: non riesce a dormire fuori casa, si angoscia quando qualcuno in famiglia perde un oggetto, pensa costantemente alla famiglia quando è lontana. La madre ha perso entrambi i genitori: il padre 12 anni prima, la madre quando era adolescente.
+
+**La dinamica:**
+- La madre proietta su Régine l'immagine della **"buona madre" che protegge dalla perdita** — quella madre che lei non ha avuto/ha perso
+- Régine **si identifica con l'oggetto proiettato**: diventa la bambina che non abbandona la mamma, per non farla sentire sola
+- Il sintomo — l'angoscia di separazione — è in realtà il lutto della madre che la bambina porta per lei
+
+**L'intervento terapeutico:**
+Un unico intervento, rivolto alla bambina ma destinato anche alla madre:
+
+> *"Prima la mamma era molto preoccupata che tu rischiassi di essere triste, e adesso sei tu che pensi che non devi lasciare la mamma."*
+
+La madre rimane stupita. Régine **sorride sollevata**. Nella stessa seduta, le due organizzano insieme un breve soggiorno da una cugina.
+
+**Esito:** in una sola consultazione, il sintomo si dissolve perché la bambina viene liberata dal peso della proiezione.
+
+> **Concetto chiave:** il sintomo di Régine non era suo — era il lutto irrisolto della madre che la bambina portava in nome di lei. Liberata da questo compito, Régine può finalmente essere una bambina.
+
+---
+
+## Plurigenitorialità e spazio psichico del bambino
+
+Le famiglie ricomposte, adottive e plurigenitoriali pongono sfide specifiche per il bambino:
+
+- Le **modificazioni brusche** dell'ambiente familiare mettono in pericolo la **continuità narcisistica** del bambino
+- È fondamentale **dare senso alle trasformazioni**: mettere in parole l'inatteso, aiutare il bambino a costruire una narrativa coerente della propria storia
+- Ammettere la **bilinearità delle origini**: il bambino cresciuto nella certezza della propria doppia origine riesce a trovare il "terzo" accanto alla madre — ciò che dà senso alle assenze e agli "abbandoni"
+
+**Rispettare lo spazio psichico del bambino significa:**
+- Spiegargli, in modo misurato, quello che succede
+- Accettare che abbia sentimenti e opinioni proprie, anche scomodi
+- Dargli il **diritto al segreto**
+- Aiutarlo a conservare buoni ricordi degli assenti
+- Prendere misura delle discontinuità che vive
+
+---
+
+## Nuove pratiche di genitorialità e conseguenze per i bambini
+
+*(Lazartigues, 2000)*
+
+Nella famiglia contemporanea, l'**edonismo** — la ricerca di piacere immediato — ha preso il posto del dovere come valore centrale trasmesso ai figli.
+
+Conseguenze osservate:
+- **Ridotta tolleranza alla frustrazione** e all'attesa
+- Malessere e comportamenti **auto/eteroaggressivi** o di evitamento
+- Difficoltà nell'integrazione del **senso morale**
 
 ---
 
 ## Concetti chiave
 
 | Termine | Significato |
-|---|---|
-| **Disease** | Malattia in senso biomedico, misurabile con parametri clinici |
-| **Illness** | Vissuto soggettivo della malattia, come la persona si sente |
-| **Sickness** | Dimensione sociale della malattia, riconoscimento/stigma |
-| **Benessere** | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo |
-| **Norma statistica** | Normalità come conformità alla media della popolazione |
-| **Norma di valore** | Normalità come conformità a un ideale |
-| **Norma personale** | Normalità rispetto al proprio funzionamento precedente |
-| **Agentività** | Atteggiamento attivo del soggetto verso la propria condizione |
-| **Catarsi** | Purificazione emotiva attraverso la partecipazione alla tragedia |
-| **Omeostasi** | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio |
-| **To cure** | Terapia: eliminare la malattia |
-| **To care** | Cura: prendersi cura del benessere, sempre praticabile |
+|---------|-------------|
+| **Genitorialità** | Insieme delle funzioni svolte dal genitore verso il figlio (biologica, nutritiva, educativa, identitaria, di accesso all'età adulta) |
+| **Plurigenitorialità** | Distribuzione delle funzioni genitoriali su più figure adulte |
+| **Genitorialità biologica / istituzionale / domestica** | Tre dimensioni dissociabili della genitorialità contemporanea |
+| **Seconda transizione demografica** | Calo strutturale della fecondità dal dopoguerra, legato a cambiamenti valoriali |
+| **Trasparenza psichica** | Stato di estrema sensibilità della donna in gravidanza: riemersione del passato infantile |
+| **Lutti di sviluppo** | Rinunce psichiche necessarie per diventare genitore |
+| **Identificazioni proiettive** | Meccanismo per cui il genitore proietta sul figlio immagini di sé o dei propri genitori |
+| **Genitorialità nevrotica** | Bambino usato per riparare dolori infantili irrisolti — proiezioni empatiche ma vincolanti |
+| **Genitorialità masochistica** | Il genitore si sottomette al bambino per espiare sensi di colpa del passato |
+| **Genitorialità narcisistica** | Proiezioni rigide e deformanti; pre-transfert negativo; gravi conseguenze per il bambino |
+| **Pre-transfert** | Atteggiamento iniziale del genitore verso il terapeuta, influenzato dalle proiezioni sulle figure d'autorità |
+| **Famiglia affettiva** | Modello post-moderno fondato sull'amore e sulla realizzazione emotiva (vs. famiglia etica, basata sulla trasmissione di valori normativi) |
+| **Bilinearità delle origini** | Riconoscimento delle due linee di provenienza del bambino, fondamentale nelle famiglie ricomposte/adottive |
+
+---
 
 ## Collegamenti
 
-- **Autori citati:** Christopher Boorse (1977),
-  Carol Ryff, Tiziano Terzani (*L'ultimo giro di
-  giostra*), Callieri & C. (1999), Nadia Murad
-- **Lezioni successive:** Storia della follia
-  (25.02), L'incontro con l'alienità (4.03), Dal
-  modello psicoanalitico alle difese (11.03)
-- **Temi aperti:** Come cambiano le categorie
-  diagnostiche nel tempo? Come si costruisce una
-  diagnosi psichiatrica? (L'omosessualità come
-  esempio storico sarà ripreso)
-- **Da ricordare:** il vademecum del modulo
-  contiene i contenuti in forma scritta con i
-  riferimenti bibliografici precisi
+- **Lezione 01 (ciclo di vita):** la genitorialità come transizione identitaria — uno dei momenti di crisi/sviluppo del ciclo vitale
+- **Lezione 04 (coppia):** la coppia come sistema che precede la genitorialità; le sue dinamiche influenzano il processo genitoriale
+- **Da approfondire:** psicoterapia madre-bambino (Cramer & Palacio Espasa 1993); teoria dell'attaccamento (Bowlby); "fantasmi nella nursery" (Fraiberg et al.)

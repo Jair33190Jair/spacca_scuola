@@ -1,0 +1,396 @@
+Psicologia
+delle disabilità e
+dell'inclusione
+
+A CURA DI
+SALVATORE SORESI
+
+---
+
+Dalla classificazione delle menomazioni
+e delle disabilità alla partecipazione
+e alle «life skills»
+
+Questo capitolo si propone di ripercorrere i contributi che l'Organizzazione
+mondiale della sanità (OMS) ha proposto in materia di analisi delle tematiche asso-
+ciate alle difficoltà che molte persone, a causa di alcune problematiche associabili
+alle loro condizioni di salute, possono incontrare nell’affrontare le vicissitudini della
+vita quotidiana. Come si noterà, pur essendosi registrati nel corso di questi ultimi
+decenni una serie di cambiamenti importanti a proposito delle indicazioni fornite
+dall’OMS in materia di valutazione e classificazione, le raccomandazioni fornite
+hanno continuato ad ancorarsi a un modello «medico» di analisi pur ponendosi
+l’obiettivo di indicare, ai servizi sociosanitari in primo luogo, l'opportunità di
+considerare aspetti di natura più marcatamente socioambientale.
+
+Il cammino che anche le discipline sanitarie hanno effettuato per giungere a
+visioni decisamente più multidisciplinari e più facilmente condivisibili da chi non
+si riconosceva nelle visioni tradizionali che si limitavano a leggere e far dipendere
+dalle caratteristiche prettamente individuali i livelli insoddisfacenti della qualità
+della vita di alcune persone, pur essendo tutto sommato molto breve, è segnato
+dalle tappe che sono riassunte nella tabella 2.1 che riporta i documenti ufficiali
+relativi, di volta in volta, agli sviluppi e ai nuovi convincimenti.
+
+TAB. 2.1. Dalle menomazioni alla valutazione della partecipazione nei documenti dell’Organizzazione
+mondiale della sanità
+
+1980 - ICIDH Classificazione internazionale delle menomazioni, delle disabilità e degli handicap
+
+1997 - ICIDH-2 Bozza beta 1. Classificazione internazionale delle menomazioni, delle attività e della
+partecipazione
+
+1999 - ICIDH-2 Bozza beta 2. Classificazione internazionale del funzionamento e delle disabilità
+
+2000 - ICIDH-2 Bozza prefinale/finale. Classificazione internazionale del funzionamento, delle disabilità
+e della salute
+
+2001 — ICF Classificazione internazionale del funzionamento, delle disabilità e della salute
+
+2004 -ICF-CY Classificazione internazionale del funzionamento, delle disabilità e della salute (versione
+per bambini e adolescenti)
+
+Questo capitolo è di Salvatore Soresi.
+
+---
+
+42
+
+CAPITOLO 2
+
+1. L’ICIDH: Classificazione internazionale delle menomazioni, delle disabilità
+e degli handicap
+
+Segnali importanti verso la necessità di non limitarsi a riflessioni e analisi di
+tipo esclusivamente individuale e privatistico erano presenti, a dir il vero, già nel
+1975, quando durante i lavori della ventinovesima assemblea dell'OMS si decise
+di allegare all’International Classification Diseases (ICD) un’appendice relativa alle
+conseguenze delle malattie e, cinque anni dopo, di diffondere nel mondo l’Interna-
+tional Classification of Impairement, Disabilities and Handicaps (ICIDH). Questo
+manuale di classificazione, come precisa Scoretti [1992], era ritenuto importante
+in considerazione del fatto che:
+
+1. imotivi che portavano molte persone a rivolgersi ai servizi sociosanitari non
+erano unicamente associati alla necessità di ricevere una diagnosi e una cura; molte
+iniziavano ad avanzare, in modo più o meno esplicito e diretto, la richiesta di aiuti
+e supporti per gestire quelle che furono definite le conseguenze delle malattie;
+
+2. esistevano diversi malfunzionamenti che non potevano essere adeguatamen-
+te codificati utilizzando le consuete modalità di classificazione delle malattie in
+auge;
+3. dovevano essere effettuate ricerche in ogni parte del mondo e raccolte tutte
+le informazioni e i dati necessari per valutare VPincidenza di tali malfunzionamenti
+e delle conseguenze a essi associabili. Tutto questo al fine di migliorare la qualità
+dei servizi e per fornire indicazioni da tradurre in politiche sociosanitarie e in
+precisi piani di spesa in favore della salute prestando attenzione, in questo, anche
+a tutto ciò che sarebbe stato necessario per la «presa in carico» al contempo delle
+«conseguenze delle malattie».
+
+La sequenza che caratterizzava l'impostazione dell’ICD e che si limitava a con-
+siderare, in modo essenzialmente lineare e «intraindividuale», le relazioni casuali
+
+ipotizzate è quella qui di seguito schematizzata:
+
+——» Patologia] —T__> Manifestazione clinica
+
+Nel corso dei lavori dell’assemblea a cui si è fatto riferimento questa sequenza
+venne ritenuta poco esaustiva in quanto era ormai un’esperienza ampiamente
+condivisa in diverse parti del mondo che numerose persone continuavano a rivol-
+gersi ai servizi sanitari non per ricevere diagnosi e cure, ma per le difficoltà da loro)
+incontrate nel far fronte alle «conseguenze delle loro malattie», tanto che apparve
+necessario esaminare una sequenza di condizioni associate alla malattia più estesa
+di quella prevista nell’ICD2 [ibidem]. Sulla base di ciò venne proposto dalla stes-1.
+sa Organizzazione mondiale della sanità, nel 1980, la prima edizione dell'Inter
+national Classification of Impairement, Disabilities, and Handicaps (ICIDH) che;
+come affermano Ustun e colleghi [1996], con un approccio biopsicosociale consi:
+dera in modo specifico le conseguenze delle malattie «ufficializzando» i concetti)
+di impairment (menomazione), di disability (disabilità) e di bandicap (svantaggio)?
+
+---
+
+ini, delle disabilità
+
+lessioni e analisi di
+a dir il vero, già nel
+dell'OMS si decise
+pendice relativa alle
+rel mondo l’Interna-
+ns (ICIDH). Questo
+
+ritenuto importante
+
+rizi sociosanitari non
+osi e una Cura; molte
+0, la richiesta di aiuti
+rze delle malattie;
+
+essere adeguatamen-
+one delle malattie in
+
+rondo e raccolte tutte
+ali malfunzionamenti
+i migliorare la qualità
+ne sociosanitarie e In
+jone, in questo, anche
+co» al contempo delle
+
+e che si limitava a con-
+e», le relazioni casuali
+
+sstazione clinica
+
+‘mento questa sequenza
+sperienza ampiamente
+e continuavano a rivol-
+per le difficoltà da loro
+tie», tanto che apparve
+alla malattia più estesa
+ine proposto dalla stes-
+ima edizione dell’Inter-
+Tandicaps (ICIDH) che,
+o biopsicosociale consi-
+ficializzando» i concetti
+li bandicap (svantaggio):
+
+DALLA CLASSIFICAZIONE DELLE MENOMAZIONI E DELLE DISABILITÀ ALLA PARTECIPAZIONE
+
+Malattia
+
+Malformazione
+
+e Nel definire una menomazione l’OMS in quegli anni faceva riferimento
+«all’esistenza o all’evenienza di anomalie, difetti o perdite a carico di arti, organi,
+tessuti o altre strutture del corpo, incluso il sistema delle funzioni mentali. La
+menomazione rappresenta l’esteriorizzazione di uno stato patologico e in linea di
+principio essa riflette i disturbi a livello d’organo».
+
+e Nel definire le disabilità si faceva invece riferimento a «qualsiasi restrizione
+o carenza (conseguente a una menomazione) della capacità di svolgere un'attività
+nel modo o nei limiti ritenuti normali per un essere umano». A questo proposito
+veniva anche specificato che le disabilità andavano riferite a
+
+scostamenti, per eccesso o per difetto, nella realizzazione dei compiti e nell’espressione
+dei comportamenti rispetto a ciò che sarebbe normalmente atteso [...] che potevano avere
+carattere transitorio o permanente ed essere reversibili o irreversibili, progressive o regres-
+sive [...], insorgere come conseguenza diretta di una menomazione o come reazione di un
+soggetto, specialmente da un punto di vista psicologico, a una menomazione fisica, sensoriale
+o di altra natura. La disabilità si riferisce a capacità funzionali estrinsecate attraverso atti e
+comportamenti che per generale consenso costituiscono aspetti essenziali della vita di ogni
+giorno. Ne costituiscono esempio i disturbi nell'adozione di comportamenti appropriati;
+nella cura della propria persona (come il controllo della funzione escretoria e la capacità di
+lavarsi e alimentarsi); nell’esecuzione delle altre attività quotidiane e nella funzione loco-
+motoria (come la capacità di camminare).
+
+e Nel definire l’handicap, l'OMS precisa che esso rappresenta «una condi-
+zione di svantaggio vissuta da una determinata persona in conseguenza di una
+menomazione o di una disabilità che limita o impedisce la possibilità di ricoprire
+il ruolo normalmente proprio a quella persona in relazione all’età, al sesso e ai
+fattori socioculturali».
+
+Le definizioni qui ricordate contenevano già alcuni elementi che, a nostro
+avviso, se ben interpretati, avrebbero dovuto accelerare il diffondersi, nel mondo
+sociosanitario almeno, dell’adesione a visioni che potevano richiamare quelle più
+Marcatamente ecologico-comportamentali in quanto veniva suggerito che il ricorso
+al concetto di handicap:
+
+1. andava associato unicamente a persone con disabilità e menomazioni e,
+pertanto, l’utilizzazione di questa espressione andava riservata ad alcune situazioni
+specifiche;
+
+2. tiguardava uno svantaggio «vissuto», sperimentato dalla persona e andava
+Pertanto considerato anche l’impatto che soggettivamente le menomazioni e le
+disabilità potevano far registrare
+
+5
+biente
+
+% è)
+
+interessava l'ambito dei ruoli e delle attività normalmente attesi dall’am-
+
+socioculturale di appartenenza della persona e, pertanto, anche questi an-
+
+avano considerati con attenzione unitamente alle loro «regole» e ai loro ancoraggi
+
+socioculturali;
+
+fi CS riferimento alla discrepanza tra efficienza possibile e aspettative di
+
+iù: ; una sua eventuale valutazione si sarebbe dovuta focalizzare sui possibili
+Istenti tra chi sarebbe stato chiamato a ricoprire determinati ruoli e chi si
+
+43
+
+---
+
+CAPITOLO 2
+
+sarebbe atteso determinati livelli e standard di prestazioni e competenze. In un
+contesto scolastico o lavorativo, per esempio, la precisazione degli handicap even-
+tualmente presenti, se adeguatamente compiuta, avrebbe dovuto comportare, da un
+lato, la valutazione dell'adeguatezza delle attese dei sistemi scolastici 0 produttivi
+e dei loro rappresentanti (insegnanti o datori di lavoro) e, dall’altro, le possibilità
+e capacità di aderirvi delle persone di volta in volta considerate. Da questo punto
+di vista già da allora si sarebbe potuto considerare scorretto attribuire l’etichetta di
+handicap o di handicappato/a a una persona piuttosto che a una relazione persona-
+contesto, a prestazioni e aspettative di prestazione.
+
+Sempre a questo proposito si considera interessante e al contempo illuminante
+
+flettere sul fatto che i contesti in cui vengono formulate richieste
+
+soffermarsi a ri
+standard sono quelli normali e, tutto sommato, competitivi, che si tratta di ambienti
+alizzate e che, pur di-
+
+che sono governati da regole e aspettative comuni e genet
+chiarandosi disponibili all’integrazione, faticano a tenere in debita considerazione
+le differenze interindividuali e a realizzare interventi marcatamente personalizzati.
+Solamente beneficiando di esperienze di integrazione e inclusione scolastica, s0-
+ciale o comunitaria alcune persone possono sperimentare svantaggi a causa delle
+loro condizioni di salute, da un lato, e delle richieste di adattamento, dall’altro;
+di contro questo non si registrerebbe in ambiti riabilitativi e in contesti speciali
+e protetti che esistono e sono attrezzati per perseguire, invece, obiettivi idonei e
+personalizzati, tramite interventi spesso individualizzati, face to face, centrati sui
+deficit, sulle disabilità provocando e diffondendo spesso, attorno a queste perso-
+ne, sentimenti pietistici, attenzioni di tipo essenzialmente curative e assistenziali e
+basse aspettative di efficacia. Tutte le agenzie, le organizzazioni, i centri e le coo-
+perative che istituzionalmente prevedono l'erogazione di interventi riabilitativi o
+assistenziali, opererebbero, in altri termini, in favore di situazioni di disabilità, ma
+non di handicap proprio perché, tutto sommato, continuano a istituzionalizzare
+alcune differenze e a rivolgersi a categorie speciali di persone. Coloro che invece
+si interessano di integrazione e inclusione lavorando in contesti comuni che si
+attendono livelli standard di prestazione farebbero necessariamente sperimentare
+ad alcune persone, anche se in buona fede e in nome dei principi dell’integrazione,
+svantaggi e handicap.
+
+Sulla base di quanto sopra, come una persona non può essere globalmente
+disabile in quanto al variare dei contesti e delle richieste può manifestare, di volta
+in volta, abilità o disabilità, non può nemmeno essere considerata, altrettanto su-
+perficialmente e globalmente, handicappata solo perché, in alcuni ambiti specifici, a
+causa di specifiche menomazioni e disabilità sperimenterebbe vissuti di svantaggio.
+AI variare delle situazioni, delle richieste e delle aspettative (o al variare del dove,
+del quando e del con chi, come a noi piace dire) variano le condizioni sperimentate
+dalle persona comprese quelle di avvertire o meno livelli eterogenei di svantaggi.
+Pur essendo vero che le menomazioni continuano a essere presenti (un danno
+uditivo, per esempio, permane anche quando la persona che ne soffre è impegnata
+in una gara di corsa, così come una forte miopia continua a essere presente anche
+quando la persona ipovedente sta ascoltando un brano di Mozart, e così via), le
+disabilità compaiono solamente quando è necessario emettere specifiche presta-
+zioni (la disabilità visiva di fatto non si manifesta quando la persona di cui sopra
+ascolta musica, così come, d’altra parte, non è disabilitante una menomazione agli
+arti inferiori quando uno si trova a partecipare, seduto, a una gara di scacchi!) e
+
+---
+
+‘competenze. In un
+gli handicap even-
+comportare, da un
+lastici o produttivi
+’altro, le possibilità
+e, Da questo punto
+ibuire l'etichetta di
+a relazione persona-
+
+ntempo illuminante
+formulate richieste
+
+» si tratta di ambienti
+izzate e che, pur di-
+ebita considerazione
+nente personalizzati.
+isione scolastica, s0-
+antaggi a causa delle
+attamento, dall'altro;
+e in contesti speciali
+sce, obiettivi idonei e
+‘e to face, centrati sul
+torno a queste perso-
+rative e assistenziali e
+joni, i centri e le coo-
+terventi riabilitativi o
+zioni di disabilità, ma
+no a istituzionalizzare
+ne. Coloro che invece
+ontesti comuni che si
+riamente sperimentare
+ncipi dell’integrazione,
+
+uò essere globalmente
+1ò manifestare, di volta
+siderata, altrettanto su-
+alcuni ambiti specifici, 2
+be vissuti di svantaggio.
+e (0 al variare del dove,
+sondizioni sperimentate
+eterogenei di svantaggi.
+ere presenti (un danno
+he ne soffre è impegnata
+a essere presente anche
+li Mozart, e così via), le
+ettere specifiche presta
+» la persona di cui sopîà
+te una menomazione agl!
+a una gara di scacchi!) €
+
+DALLA CLASSIFICAZIONE DELLE MENOMAZIONI E DELLE DISABILITÀ ALLA PARTECIPAZIONE
+
+gli handicap, a loro volta, solamente quando ci si attendono o si pretendono livelli
+di prestazione standard a prescindere dalle effettive possibilità dell'individuo in
+questione. Al variare delle richieste e dei compiti possono pertanto essere messe
+in evidenza o meno le disabilità di una persona così come, al variare dei compiti
+e delle aspettative di efficienza, le stesse situazioni possono determinare o meno
+vissuti di svantaggio (handicap).
+
+In quest'ottica, paradossalmente e a prima vista, i fautori dell’integrazione
+sarebbero anche «portatori di handicap» in quanto tenderebbero a favorire la
+normalizzazione e a operare costanti confronti tra persone e prestazioni.
+
+Sulla scia di ciò il rifiuto dell'handicap potrebbe addirittura essere considerato
+sinonimo di impotenza operativa, di sfiducia nei confronti delle possibilità di in-
+tegrazione, indicatore di passività e di quel fatalismo che troppo spesso, a nostro
+avviso, si constatano quando ci si accontenta di inserire, accogliere, accettare le
+persone con disabilità senza preoccuparsi di stimolarle a incrementare i loro livelli
+
+di partecipazione attiva alla vita comunitaria anche a costo di far loro vivere situa-
+zioni sopportabili di svantaggio.
+
+2. Dall’ICIDH alla visione biopsicosociale dell’«International Classification of
+Functioning; Disability and Health» (ICF)
+
+Le riflessioni che sono state proposte nelle pagine precedenti si riferivano,
+essenzialmente, alla diffusione anche in Italia, dalla fine degli anni Settanta, del-
+PICIDH e che Soresi aveva di fatto già proposto in diversi e precedenti lavori
+[Soresi 1998; 2001; 2007]. Da allora, anche all’interno dell’OMS, si sono registrati
+numerosi dibattiti e avviati alcuni e significativi cambiamenti a proposito di come
+affrontare le questioni della definizione e classificazione delle menomazioni, delle
+disabilità e degli handicap.
+
+Pur non misconoscendo gli sforzi che erano stati compiuti dall’OMS con la pro-
+mozione dell’ICIDH, vennero sin da subito individuati alcuni segnali di debolezza
+e avanzate anche severe critiche da parte di organismi internazionali di «rappresen-
+tanza» delle persone con disabilità (da Disabled People's International e dall’Union
+of the Physically Impaired Against Segregation, per esempio) a proposito, soprat-
+tutto, della connessione lineare e causale che era stata ipotizzata tra menomazione,
+disabilità e handicap. Sarebbe stato necessario ripensare attentamente alle relazioni
+lpotizzate in quanto tutto questo avrebbe avuto, come vedremo fra poco e, hanno
+ricordato Federici e Olivetti Belardinelli [2006], importanti ripercussioni anche
+a livello delle scelte operative e dell’impostazione dei programmi di prevenzione.
+
+Tornando ai documenti dell'OMS, nel 1997, dopo diciassette anni dalla pub-
+blicazione dell’ICIDH, compare una prima bozza di revisione (Bozza beta 1) nella
+quale scompaiono sia la parola disabilità che handicap in favore dei costrutti attività
+
+i; cipazione che saranno riconfermati nell'edizione del 1999 e in quelle del 2000
+e
+
+I 001 che si presenteranno al contesto internazionale con il titolo definitivo
+di International Classification of Functioning, Disability and Health (ICF) che, a
+gnificativamente da quella che era stata considerata,
+bo © una prima bozza di revisione dell’ICIDH.
+ha a erenza di quanto avveniva in passato, con questi ultimi documenti le
+
+le, compresi i disturbi mentali e cognitivi, vengono finalmente posti sul me-
+
+dir il vero, non si discosta si
+fatto, sol
+
+45

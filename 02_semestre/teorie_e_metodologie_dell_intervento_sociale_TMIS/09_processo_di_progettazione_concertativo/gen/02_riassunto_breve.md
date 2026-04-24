@@ -1,107 +1,126 @@
-# Introduzione al modulo di Salute Mentale — Sintesi
-Salute Mentale · Sessione 01
+# Processo di Progettazione Concertativo — Sintesi
+TMIS · Sessione 09
 
-> Salute, benessere e normalità: tre parole che
-> sembrano semplici, ma non lo sono per niente.
-> Questa lezione smonta le certezze e costruisce
-> basi solide per tutto il modulo.
-
-## Struttura del modulo
-
-- Tre tappe: **clinica**, **mondo**, **corpo**
-- Attraversate da: spazio, tempo, identità,
-  incontro
-- L'operatore sociale come ponte tra discipline
-  specialistiche, non specialista di una sola
-
-## Salute: le 7 condizioni di Boorse (1977)
-
-Nessuna delle sette regge da sola:
-- **Valore** — non universale: contesti in cui
-  la malattia è "preferibile" esistono
-- **Trattamento medico** — la medicina colonizza
-  ambiti non patologici
-- **Norma statistica** — fuori dalla media ≠ malato
-- **Sofferenza** — malattie asintomatiche e
-  dolori fisiologici esistono
-- **Disabilità** — fasi di "non abilità" sono
-  normali nella vita (neonato, sonno)
-- **Adattamento** — l'uomo adatta anche l'ambiente
-  a sé, non solo il contrario
-- **Omeostasi** — la vita si fonda sulla rottura
-  e riconquista dell'equilibrio, non sull'equilibrio
-  statico
-
-## Disease, illness, sickness
-
-- **Disease** → dimensione biomedica (misurabile)
-- **Illness** → vissuto soggettivo della persona
-- **Sickness** → riconoscimento/stigma sociale
-- Le tre dimensioni possono non coincidere — e lo
-  stigma sociale peggiora l'andamento della malattia
-
-## Benessere: le 6 dimensioni di Ryff
-
-- **Autonomia** — autodeterminarsi senza dipendere
-  dagli altri per ogni scelta
-- **Controllo ambientale** — valorizzare le risorse
-  disponibili
-- **Relazioni positive** — relazioni calde, fiduciose,
-  reciproche
-- **Autoaccettazione** — consapevolezza di qualità
-  e limiti
-- **Percezione di crescita** — sentire di evolvere
-- **Scopo nella vita** — avere mete e dare senso
-
-Salute ≠ benessere. Si può stare bene senza essere
-in salute (Terzani) e male pur essendo "sani".
-Per l'operatore: queste dimensioni rendono il lavoro
-sul benessere *concreto e operativo*.
-
-## Tre tipi di normalità
-
-- **Statistica** — nella media; fuori dalla norma
-  porta stigma
-- **Di valore** — ideale irraggiungibile → sofferenza
-  perpetua; attenzione: anche i *nostri* ideali sugli
-  utenti possono diventare penalizzanti
-- **Personale** — rispetto a come funzionavo prima;
-  attenzione a non idealizzare il passato, e a non
-  considerare quella normalità come obiettivo se era
-  proprio lei la causa del problema
-
-## Posizione del soggetto verso la malattia
-
-Due assi: **identificazione** con la condizione ×
-**agentività** (attivo/passivo)
-
-- Passivo + non identificato → **delega** ("guariscimi")
-- Agentivo + non identificato → **guarigione** come
-  unico obiettivo
-- Agentivo + identificato → **cura**: lavora sul
-  benessere dentro la condizione
-
-Passaggio chiave: dalla guarigione alla cura.
-*To cure* ≠ *to care*: la cura è sempre possibile,
-anche quando la guarigione non lo è.
-
-## La tragedia greca
-
-- Dispositivo pedagogico parallelo al modulo
-- 5 gruppi, 5 tragedie per estrazione
-- Tappe: leggere → condividere → sintetizzare →
-  mettere in scena (~20 min)
-- Allena: ascolto di linguaggi non familiari, lavoro
-  di équipe, sintesi, capacità di rinuncia
-- Quest'anno tutte le tragedie convergono sulla
-  violenza sulle donne nei conflitti armati —
-  tema antico e attualissimo (Nadia Murad, Congo,
-  Iraq)
+> Fare un progetto *con* le persone, non *per* le persone. È tutta qui la differenza tra l'approccio tradizionale e quello concertativo-partecipato. Questa lezione ti dà gli strumenti concreti per farlo.
 
 ---
 
-**Da ricordare:** salute, benessere e normalità
-sono tre concetti distinti ma intrecciati. La cura
-è sempre possibile, anche quando la guarigione non
-lo è. Il contesto è fondamentale per interpretare
-qualsiasi comportamento.
+## Dal modello razionale al modello concertativo
+
+- L'**approccio sinottico-razionale** (lezione 06): esperto analizza → decide → applica. Lineare ma riduttivo.
+- L'**approccio concertativo-partecipativo** parte da tre premesse:
+  - I problemi sociali non hanno cause lineari
+  - Esistono più letture valide dei bisogni
+  - Il ruolo degli operatori è promuovere l'**empowerment**, non distribuire soluzioni
+- **Dialogico** (da Bachtin): comunicazione attenta all'interlocutore, co-costruita tra i partecipanti
+- Il processo è **circolare a spirale**, non lineare: si può tornare a qualsiasi fase
+
+## Il principio fondamentale
+
+> **Prima costruire un significato comune del problema — poi cercare soluzioni.**
+
+- Ogni attore usa le proprie **mappe cognitive** per leggere la realtà
+- La co-costruzione di significati fa sì che tutti si sentano protagonisti, non esecutori
+
+---
+
+## Progetto di vita vs PSI/PEI
+
+- **PSI** (Progetto di Sviluppo Individuale) / **PEI** (Progetto Educativo Individualizzato): modello tecnico, il professionista ha in mano il progetto
+- **Progetto di vita (PdV)**: traduce la dimensione di senso della vita della persona — chi vuole *diventare*, non solo cosa sa *fare*
+- Per costruirlo: potenzialità, talenti, desideri e aspirazioni → aspettative realistiche a breve, medio, lungo termine
+- I due piani (PdV e piccoli progetti annuali) devono andare nella stessa direzione
+
+---
+
+## Desideri e aspirazioni
+
+- **Desiderio**: impulso emotivo immediato, breve termine, nasce dalla mancanza e vuole soddisfarla
+- **Aspirazione** (Appadurai): capacità di immaginare un futuro più favorevole — trasforma la mancanza in percorso, richiede progettualità
+
+| Aspetto | Desiderare | Aspirare |
+|---------|-----------|---------|
+| Temporalità | Immediato | Lungo termine |
+| Progettualità | Assente | Forte |
+| Funzione | Mobilita | Orienta e dà senso |
+
+- Per aspirare servono: capacità culturale, capacità di navigare tra norme sociali, capacità di "voce"
+- Combattere le disuguaglianze è necessario per promuovere la capacità di aspirare
+
+---
+
+## Analisi pedagogica dei problemi educativi
+
+- **Problema educativo** = distanza tra situazione esistente e auspicata
+- **Domanda progettuale** = insieme di elementi che fanno emergere l'esigenza di intervenire
+- I problemi non hanno mai una causa unica — sono sempre complessi
+
+### Le 5 trappole interpretative da evitare
+
+1. Interpretazioni diagnostiche **deterministiche** (la diagnosi non è una sentenza)
+2. **Oggettivazione** e spersonalizzazione (la persona non è il suo problema)
+3. Dividere in **normale/diverso** (non esiste una sola traiettoria di vita valida)
+4. **Ineducabilità** preconcetta ("è inutile lavorarci")
+5. Privilegiare **custodia** all'emancipazione (il fine è l'autonomia, non la gestione)
+
+---
+
+## Le fasi del processo (schema da sapere a memoria)
+
+```
+Ideazione → Attivazione → Scrittura → Realizzazione → Verifica
+```
+Tutto attraversato da valutazione in itinere e momenti dialogici.
+
+### Fase 1 — Ideazione
+
+- Nascita dell'idea di progetto
+- Analisi della prima idea
+- **Co-costruzione dell'idea**:
+  - A. Analisi situazione-problema: osservazione, anamnesi, persone significative, risorse e bisogni
+  - **ZSP** (Vygotskij): zona tra ciò che si sa fare da soli e con gli altri — lì si lavora
+  - B. Prime ipotesi di obiettivi/strategie da negoziare (non decisioni finali!)
+
+### Fase 2 — Attivazione
+
+- **Definizione della rete**: rete familiare, istituzionale, abitativa, centro diurno, tempo libero
+- **Co-costruzione della lettura condivisa**: l'operatore è facilitatore, non decide
+- Tre ostacoli tipici:
+  - Generalizzazioni cristallizzate → chiedere esempi concreti
+  - Resistenza ai punti di vista diversi → spiegare il valore di ogni prospettiva
+  - Rifugiarsi nel fare → non si parla di soluzioni prima di avere una visione condivisa
+
+---
+
+## Obiettivi nel processo partecipato
+
+- Funzioni: orientativa, comunicativa, decisionale, valutativa
+- **Obiettivi generali**: macrofinalità del lavoro sociale sulla situazione, medio-lungo termine
+- **Obiettivi specifici**: prestazioni osservabili, breve-medio termine, in rispetto della ZSP
+- Entrambi formulati con soggetto = protagonista del progetto (non l'operatore)
+
+### SMART
+
+| S | Semplice e chiaro |
+|---|---|
+| M | Monitorabile |
+| A | Auspicabile da tutti |
+| R | Realistico (ZSP) |
+| T | Temporale |
+
+---
+
+## Livelli di partecipazione (O'Sullivan)
+
+| Livello | Nome | Descrizione |
+|---------|------|-------------|
+| A | Being in control | La persona decide per sé — obiettivo massimo |
+| B | Being a partner | Accordo negoziato — livello minimo accettabile |
+| C | Being consulted | Parere considerato, decisione ai professionisti |
+| D | Being told | Solo informata — approccio oppressivo/disabilitante |
+
+La progettazione dialogica mira ad **A**, si muove tra **A e B**.
+
+---
+
+**Da ricordare:** La **lettura condivisa viene prima delle soluzioni**. L'operatore è **facilitatore**, non esperto che decide. Il **Progetto di vita** include aspirazioni, non solo bisogni immediati. Gli obiettivi sono sempre formulati con soggetto il **protagonista** del progetto.

@@ -1,98 +1,75 @@
-# Evoluzione storica e sviluppo psico-sociale secondo Erikson — Sintesi
-I tempi della vita · Sessione 01
+# Introduzione al Lavoro Sociale — Parte 1 · Sintesi
+TMIS · Sessione 01
 
-> Hai già il quadro completo — qui trovi i punti essenziali per non perderli prima dell'esame.
-
----
-
-## Evoluzione storica della psicologia dello sviluppo
-
-- **Psicologia dell'età evolutiva** (visione storica): studia solo dalla nascita all'adolescenza; l'adulto è il punto di arrivo, l'anziano è il declino → **metafora della collina**
-- **Psicologia dello sviluppo** (visione attuale): studia i cambiamenti psicologici nell'**intero arco di vita**, fino alla morte → **metafora del fiume**
-- **Gerontologia**: studio scientifico dell'invecchiamento e degli adulti in età avanzata (nasce dopo la WWII)
-- Il cambio di paradigma: dallo sviluppo come "prodotto" allo sviluppo come **processo continuo**
+> Prima lezione del corso: le fondamenta. Tieni a mente questi concetti perché tornano ovunque.
 
 ---
 
-## Metafora del fiume
+## Modernità liquida (Bauman)
 
-- Il fiume modella il terreno su cui scorre **e** viene modificato dal terreno
-- Affluenti = esperienze, persone, apprendimenti incontrati nel percorso
-- Uscire dagli argini = momenti di crisi o eventi destabilizzanti
-- Ogni fiume è unico — non esiste un "apice" obbligatorio seguito da declino
+- La società contemporanea è fluida, instabile, priva di punti fissi: la **modernità liquida**
+- Nulla ha più contorni definiti una volta per tutte — relazioni, lavoro, identità
+- Questo genera incertezza strutturale per le persone... e anche per gli operatori
 
----
+## La figura liquida dell'operatore (Tramma)
 
-## Life Span Psychology (Paul Baltes)
+- L'operatore/educatore sociale è una **figura costitutivamente incerta**, mai del tutto definita
+- Questa è una **forza**, non un limite: significa apertura costante, riflessione critica, adattabilità
+- Non cerca ricette fisse — si adatta a persone e contesti mantenendo bussola valoriale chiara
 
-Approccio che studia lo sviluppo lungo l'intero arco di vita, intrecciato con contesto biologico, sociale, storico e culturale.
+## La definizione internazionale del servizio sociale (IFSW, 2014)
 
-**7 principi fondamentali:**
+- Il lavoro sociale promuove **cambiamento sociale, coesione, emancipazione e liberazione delle persone**
+- I principi fondanti: **giustizia sociale, diritti umani, responsabilità collettiva, rispetto delle diversità**
+- Si basa su teorie delle scienze sociali, umanistiche e **saperi indigeni** (rifiuto del colonialismo culturale)
+- Lavora con *persone e strutture* — non solo il singolo, ma i sistemi intorno
 
-1. Lo sviluppo **dura tutta la vita**
-2. È **multidimensionale e multidirezionale** (fisico, cognitivo, sociale, emotivo)
-3. È caratterizzato dalla **plasticità** (le traiettorie possono modificarsi)
-4. Implica **guadagni e perdite** in ogni fase
-5. È **interattivo** (individuo ↔ ambiente, prospettiva interazionista sistemica)
-6. È calato nella **realtà storica e culturale**
-7. È **multidisciplinare**
+## Dimensione politica del lavoro sociale
 
-**Tecniche di indagine:**
-- **Studi trasversali**: gruppi a età diverse, stesso momento → rapidi, ma meno precisi sull'individuo
-- **Studi longitudinali**: stessa persona nel tempo → precisi sull'individuo, ma lunghi e con rischio di abbandono
+- Il lavoro sociale **non è neutro**: ha una posizione valoriale orientata all'emancipazione
+- **Giustizia sociale** = valore fondante: equo accesso, inclusione, contrasto alla discriminazione
+- La storia del lavoro sociale è **ambigua**: ci sono stati esempi virtuosi (Addams, Salomon, Tarugi) e casi in cui operatori hanno contribuito a riprodurre oppressioni
 
----
+## Approccio anti-oppressivo
 
-## Erik Erikson — Biografia essenziale
+- L'**oppressione** = esclusione forzata di persone/gruppi da opportunità e risorse; può essere esterna o interna (interiorizzata — Freire)
+- Gli operatori detengono **potere enorme** (gatekeeper, discrezionalità) e spesso non ne sono consapevoli
+- Etichettare le persone con diagnosi rigide contribuisce a co-costruire sistemi oppressivi
+- La pratica anti-oppressiva richiede: consapevolezza critica del potere, analisi a più livelli, **partecipazione autentica** delle persone
+- **Ottica trifocale** (Gui): operare simultaneamente su micro (persona), meso (relazioni tra sistemi), macro (strutture sociali)
 
-- Nasce 1902 a Francoforte come **Erik Homburg** (figlio di relazione extraconiugale, padre biologico mai conosciuto)
-- Vuole fare arte e viaggiare; famiglia lo spinge alla medicina → si oppone
-- Crisi d'identità → viaggia in Italia → Vienna → conosce **Anna Freud** → psicoanalisi
-- 1933: si trasferisce a Boston, diventa primo psicanalista infantile della città
-- Cambia cognome in **Erikson** al momento della cittadinanza americana
-- Muore nel 1994
+## Con chi lavora l'operatore
 
----
+- Con persone di tutte le età, in situazioni di fragilità, disagio o difficoltà (temporanee o permanenti)
+- Visione della persona: **globalità** (fisica, cognitiva, affettiva, relazionale, creativa, spirituale), unicità, co-costruttore del proprio destino
+- La persona *si trova in una situazione* di disagio — non *è* il disagio
+- Lavora con persone, ma anche con enti, reti, istituzioni — sempre in équipe
 
-## Teoria dello sviluppo psico-sociale
+## Sistemi complessi (Bateson / Palo Alto)
 
-- Parte dalla base freudiana, ma aggiunge la **dimensione sociale**
-- Sviluppo = integrazione tra **maturazione biologica** e **appartenenza al sistema sociale**
-- La maturazione fisica porta nuove possibilità **e** nuove richieste sociali
-- Metodo: osservazione diretta, confronti tra culture, **psicobiografie**
+- Persone, gruppi e comunità sono **sistemi complessi**: elementi in relazione reciproca e continua trasformazione
+- Regolati da **causalità circolare**: non esiste una causa unica — gli elementi si influenzano a vicenda
+- Non si può prevedere con certezza il comportamento futuro di un sistema vivente
 
-### Meccanismo centrale — Conflitto bipolare
+## Modello bioecologico di Bronfenbrenner (1917–2005)
 
-**Da sapere a memoria:**
+- Lo sviluppo umano è il risultato dell'interazione persona-ambiente: **nessuno cresce nel vuoto**
+- L'ambiente è una serie di cerchi concentrici (come una cipolla o una matrioska):
 
-> In ogni stadio c'è un **polo positivo** e un **polo negativo**. Lo sviluppo ottimale = uscire dallo stadio **sbilanciati sul polo positivo**, avendo **integrato la parte positiva del polo negativo**.
+| Sistema | Contenuto |
+|---------|-----------|
+| **Microsistema** | Relazioni dirette: famiglia, scuola, amici, lavoro |
+| **Mesosistema** | Relazioni tra microsistemi (es. genitori-insegnanti) |
+| **Esosistema** | Ambienti indiretti che influenzano la persona (es. lavoro del genitore) |
+| **Macrosistema** | Cultura, leggi, valori, ideologie della società |
+| **Cronosistema** | Dimensione temporale: come il tempo cambia tutto |
 
-Esempio (stadio 1): mi fido di chi mi cura (polo positivo) + so che non posso fidarmi di tutti (parte positiva del polo negativo = mi proteggo).
-
----
-
-## Gli otto stadi
-
-| Stadio | Età | Conflitto | Compito evolutivo |
-|--------|-----|-----------|-------------------|
-| 1 | 0–1 anno | Fiducia vs Sfiducia | Imparare a fidarsi dell'altro |
-| 2 | 1–3 anni | Autonomia vs Vergogna e Dubbio | Controllo corporeo e autonomia |
-| 3 | 3–5 anni | Iniziativa vs Senso di Colpa | Esplorare, giocare, avere iniziativa |
-| 4 | 6–10 anni | Industriosità vs Inferiorità | Apprendimento e collaborazione |
-| 5 | Adolescenza | Identità dell'Ego vs Confusione dei Ruoli | Definire la propria identità |
-| 6 | Prima età adulta | Intimità vs Isolamento | Costruire relazioni intime e durature |
-| 7 | Età adulta | Creatività vs Stagnazione | Trasmettere qualcosa alle generazioni future |
-| 8 | Età senile | Integrità dell'Ego vs Disperazione | Riflettere e accettare il proprio percorso di vita |
-
-**Note importanti:**
-- Le fasi non hanno confini rigidi — sempre da leggere con la specificità individuale
-- Lo stadio 7 era inizialmente chiamato **generatività** (genitorialità); poi ampliato a tutto ciò che si trasmette alle generazioni future
-- Ricercatori contemporanei propongono di **unire gli stadi 6 e 7** (nella vita reale coesistono)
-- Se una fase non è superata in modo ottimale, è ancora possibile recuperare in quelle successive
+- **PPCT**: Processo · Persona · Contesto · Tempo — il modello bio-ecologico aggiornato
+- L'individuo è **soggetto attivo** (non tabula rasa); l'interazione con l'ambiente è **bidirezionale**
 
 ---
 
 **Da ricordare:**
-1. **Metafora del fiume** vs metafora della collina — lo sviluppo è un processo continuo, non un'ascesa seguita da declino
-2. **7 principi della Life Span Psychology** — plasticità, guadagni e perdite, multidimensionalità, interazione con il contesto...
-3. **Conflitto bipolare di Erikson** — sviluppo ottimale = polo positivo + integrazione della parte positiva del polo negativo
+- **Modernità liquida** → incertezza strutturale del mondo e della professione
+- **Definizione IFSW 2014** → giustizia sociale + diritti umani + empowerment + saperi indigeni
+- **Bronfenbrenner** → 5 sistemi concentrici (micro · meso · eso · macro · crono) + PPCT

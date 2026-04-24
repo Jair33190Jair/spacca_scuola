@@ -1,107 +1,110 @@
-# Introduzione al modulo di Salute Mentale — Sintesi
-Salute Mentale · Sessione 01
+# L'Osservazione (Prima Parte) — Sintesi
+TMIS — Teorie e Metodologie dell'Intervento Sociale · Sessione 07
 
-> Salute, benessere e normalità: tre parole che
-> sembrano semplici, ma non lo sono per niente.
-> Questa lezione smonta le certezze e costruisce
-> basi solide per tutto il modulo.
-
-## Struttura del modulo
-
-- Tre tappe: **clinica**, **mondo**, **corpo**
-- Attraversate da: spazio, tempo, identità,
-  incontro
-- L'operatore sociale come ponte tra discipline
-  specialistiche, non specialista di una sola
-
-## Salute: le 7 condizioni di Boorse (1977)
-
-Nessuna delle sette regge da sola:
-- **Valore** — non universale: contesti in cui
-  la malattia è "preferibile" esistono
-- **Trattamento medico** — la medicina colonizza
-  ambiti non patologici
-- **Norma statistica** — fuori dalla media ≠ malato
-- **Sofferenza** — malattie asintomatiche e
-  dolori fisiologici esistono
-- **Disabilità** — fasi di "non abilità" sono
-  normali nella vita (neonato, sonno)
-- **Adattamento** — l'uomo adatta anche l'ambiente
-  a sé, non solo il contrario
-- **Omeostasi** — la vita si fonda sulla rottura
-  e riconquista dell'equilibrio, non sull'equilibrio
-  statico
-
-## Disease, illness, sickness
-
-- **Disease** → dimensione biomedica (misurabile)
-- **Illness** → vissuto soggettivo della persona
-- **Sickness** → riconoscimento/stigma sociale
-- Le tre dimensioni possono non coincidere — e lo
-  stigma sociale peggiora l'andamento della malattia
-
-## Benessere: le 6 dimensioni di Ryff
-
-- **Autonomia** — autodeterminarsi senza dipendere
-  dagli altri per ogni scelta
-- **Controllo ambientale** — valorizzare le risorse
-  disponibili
-- **Relazioni positive** — relazioni calde, fiduciose,
-  reciproche
-- **Autoaccettazione** — consapevolezza di qualità
-  e limiti
-- **Percezione di crescita** — sentire di evolvere
-- **Scopo nella vita** — avere mete e dare senso
-
-Salute ≠ benessere. Si può stare bene senza essere
-in salute (Terzani) e male pur essendo "sani".
-Per l'operatore: queste dimensioni rendono il lavoro
-sul benessere *concreto e operativo*.
-
-## Tre tipi di normalità
-
-- **Statistica** — nella media; fuori dalla norma
-  porta stigma
-- **Di valore** — ideale irraggiungibile → sofferenza
-  perpetua; attenzione: anche i *nostri* ideali sugli
-  utenti possono diventare penalizzanti
-- **Personale** — rispetto a come funzionavo prima;
-  attenzione a non idealizzare il passato, e a non
-  considerare quella normalità come obiettivo se era
-  proprio lei la causa del problema
-
-## Posizione del soggetto verso la malattia
-
-Due assi: **identificazione** con la condizione ×
-**agentività** (attivo/passivo)
-
-- Passivo + non identificato → **delega** ("guariscimi")
-- Agentivo + non identificato → **guarigione** come
-  unico obiettivo
-- Agentivo + identificato → **cura**: lavora sul
-  benessere dentro la condizione
-
-Passaggio chiave: dalla guarigione alla cura.
-*To cure* ≠ *to care*: la cura è sempre possibile,
-anche quando la guarigione non lo è.
-
-## La tragedia greca
-
-- Dispositivo pedagogico parallelo al modulo
-- 5 gruppi, 5 tragedie per estrazione
-- Tappe: leggere → condividere → sintetizzare →
-  mettere in scena (~20 min)
-- Allena: ascolto di linguaggi non familiari, lavoro
-  di équipe, sintesi, capacità di rinuncia
-- Quest'anno tutte le tragedie convergono sulla
-  violenza sulle donne nei conflitti armati —
-  tema antico e attualissimo (Nadia Murad, Congo,
-  Iraq)
+> L'osservazione è trasversale a tutto il processo di progettazione
+> socio-educativa. Non è mai oggettiva, non è mai finita, ed è sempre
+> relazionale. Questa lezione costruisce le basi teoriche e metodologiche.
 
 ---
 
-**Da ricordare:** salute, benessere e normalità
-sono tre concetti distinti ma intrecciati. La cura
-è sempre possibile, anche quando la guarigione non
-lo è. Il contesto è fondamentale per interpretare
-qualsiasi comportamento.
+## Perché osserviamo
+
+- L'osservazione è **imprescindibile** nel lavoro socio-educativo: c'è
+  sempre, in ogni forma di lavoro con le persone.
+- La realtà è **polifonica**: lo stesso fenomeno ha significati diversi per
+  persone diverse. Non esiste una versione "vera" e oggettiva.
+- **Soggettività e parzialità sono inevitabili**: non possiamo mai essere
+  totalmente oggettivi, né conoscere l'interezza di un fenomeno.
+- L'osservazione accompagna sia il **lavoro quotidiano** che la
+  **progettazione**: non è separabile dall'agire educativo.
+
+---
+
+## Cosa significa osservare (definizioni)
+
+- **Definizione (Dizionario del Lavoro Educativo):** "Osservare è un
+  movimento intenzionale verso qualcuno o qualcosa che suscita interesse
+  e di cui si desidera capire di più, al di là delle facili apparenze."
+- **Mantovani (1995):** L'osservazione si distingue dal semplice guardare
+  perché è uno sguardo **intenzionale, mirato, attivo, non generico**.
+- **Etimologia:** *ob* (verso, per) + *servare* (custodire, stare attento)
+  — osservo con uno scopo e conservo ciò che vedo per condividerlo.
+
+### Guardare vs. Vedere
+
+- **Guardare** = atto analitico, scomposizione. Necessario ma non
+  sufficiente.
+- **Vedere** = comprensione che emerge dal guardare. Presuppone
+  coinvolgimento e presa di coscienza.
+- Il risultato finale è **superiore alla somma delle parti**: scompongo
+  per orientarmi, ma devo sempre ricomporre per dare senso.
+
+---
+
+## I 5 momenti del circuito osservativo (Dovigo, 2014)
+
+1. **Osservazione** → rilevo qualcosa
+2. **Resoconto / Rilevamento dati** → descrivo ciò che ho osservato
+3. **Ipotesi** → formulo interpretazioni personali (ancora soggettive)
+4. **Discussione / Socializzazione dati** → condivido con altri
+5. **Interpretazione** → costruisco senso condiviso con il gruppo
+
+Il ciclo si ripete ciclicamente (a spirale). L'**ipotesi** è personale;
+l'**interpretazione** emerge dal confronto collettivo e ha valore condiviso.
+
+---
+
+## I 3 paradigmi teorici
+
+| Paradigma | Assunto base |
+|-----------|-------------|
+| Oggettività (moderno) | La realtà è conoscibile direttamente; osservatore neutro |
+| Soggettività relativa | Ogni punto di vista è valido; no conoscenza oggettiva |
+| Complessità (post-moderno) | La realtà è co-costruita nella relazione — quello usato nel lavoro socio-educativo |
+
+---
+
+## Osservare nella relazione: tre elementi chiave
+
+### Auto-osservazione
+- Non c'è osservazione senza auto-osservazione.
+- Devo sempre chiedermi: da quale angolatura guardo? Con quali pregiudizi?
+  Come le mie reazioni influenzano le persone osservate?
+- Fattori che deformano l'osservazione: emotività, memoria, cultura,
+  motivazione, esperienza, contesto.
+
+### L'ampiezza del campo osservativo
+- Il campo è molto ampio: dinamiche di gruppo, velocità degli scambi
+  verbali, comunicazioni non verbali, fitta rete di relazioni.
+- Si osserva **con tutti i sensi**.
+- Soluzione: non fingere che l'ampiezza non esista, ma **delimitare
+  il campo** con un protocollo intenzionale.
+
+### Cambiare angolatura
+- Lo stesso comportamento può avere significati completamente opposti
+  a seconda del punto di vista.
+- Il rischio dell'abitudine: vediamo sempre le stesse cose perché siamo
+  abituati a guardare nello stesso modo (esperimento del gorilla).
+- **Bateson**: bisogna saper osservare "con occhi differenti".
+
+---
+
+## Le 5 componenti essenziali del protocollo (Maida, Molteni, Nuzzo, 2022)
+
+| Componente | Domanda chiave | Concetto centrale |
+|------------|----------------|------------------|
+| **Curiosità** | Cosa voglio scoprire? | Domanda come mezzo; area di dubbio come risorsa |
+| **Soggetto** | Chi sono io che osservo? | Auto-osservazione; angolatura; pregiudizi |
+| **Oggetto** | Cosa osservo? | Delimitazione del campo; focus preciso |
+| **Obiettivo** | Perché osservo? | Ipotesi di ricerca condivisa con l'équipe |
+| **Tempo e Spazio** | Quando e dove? | Sincronico (durata attività) + diacronico (nel tempo); luogo non è neutro |
+
+---
+
+**Da ricordare:**
+- L'osservazione è sempre **intenzionale, parziale e relazionale** — non
+  esiste osservazione oggettiva nel lavoro socio-educativo.
+- Il circuito osservativo è ciclico: osservo → descrivo → ipotizzo →
+  condivido → interpreto → e ricomincia.
+- Senza auto-osservazione non si osserva davvero: siamo parte del campo
+  che stiamo osservando.

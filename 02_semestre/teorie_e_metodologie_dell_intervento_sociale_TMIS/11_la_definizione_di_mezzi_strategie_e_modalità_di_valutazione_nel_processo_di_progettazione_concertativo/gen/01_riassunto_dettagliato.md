@@ -1,384 +1,211 @@
-# Introduzione al modulo di Salute Mentale
-Salute Mentale · Sessione 01 · 18.02.2026
+# Mezzi, Strategie e Modalità di Valutazione nel Processo di Progettazione Concertativo
+TMIS · Sessione 11
 
-> Questa prima lezione mette sul tavolo le fondamenta
-> di tutto il modulo: che cos'è davvero la salute?
-> Cos'è il benessere? E la normalità? Spoiler: nessuna
-> di queste domande ha una risposta semplice — e
-> proprio da qui parte il bello. Si parla anche della
-> tragedia greca come strumento per avvicinarsi alla
-> sofferenza umana. Roba potente, vedrai.
+> Siamo all'ultima lezione del modulo sulla progettazione. Dopo aver capito *cos'è* l'approccio concertativo (lezione 09) e *come si costruiscono gli obiettivi* (lezione 10), oggi si chiude il cerchio: mezzi, strategie, scrittura, realizzazione e verifica. C'è anche una riflessione potente sulla *postura artigianale* del professionista — una metafora che vale la pena portarsi dietro per tutta la carriera.
 
 ---
 
-## Il modulo: struttura e filosofia
+## Ripasso: dove siamo nel processo
 
-Il modulo di Salute Mentale si articola su **tre
-tappe fondanti**, ispirate alla scuola fenomenologica:
+Come già consolidato nelle lezioni 09 e 10, il processo di co-progettazione dialogico-partecipata segue queste fasi:
 
-1. **La clinica** — l'universo dell'incontro con
-   chi soffre. Si esplorano i concetti di salute
-   e malattia, normalità e patologia, l'incontro
-   empatico con l'altro e i meccanismi di difesa.
+```
+Ideazione → Attivazione → Scrittura del progetto → Realizzazione → Verifica
+```
 
-2. **Il mondo** — le funzioni psichiche e le loro
-   alterazioni (coscienza, percezione, pensiero,
-   affettività...), per poi passare alla dimensione
-   nosografica: sindromi affettive, ansiose, nevrosi,
-   disturbi di personalità, psicosi.
+Trasversale a tutto c'è la **valutazione in itinere** e il dialogo continuo con tutti gli attori.
 
-3. **Il corpo** — teatro della sofferenza: violenza,
-   aggressività, dimensioni anoressico-bulimiche,
-   sessualità come luogo di disagio, alessitimia.
-
-Queste tre tappe sono attraversate da quattro
-dimensioni esistenziali: **spazio, tempo, identità
-e incontro**. La clinica va calata in uno spazio
-e in un tempo, l'identità va declinata nella
-relazione, e prima della relazione viene l'incontro
-— senza il quale la relazione non sussiste.
-
-Il prof sottolinea un punto chiave: l'operatore
-sociale non è un tecnico di una sola disciplina,
-ma un **trait d'union** tra le specializzazioni.
-Per questo serve una conoscenza delle aree
-psicopatologiche — non per fare diagnosi, ma per
-comunicare con le altre figure professionali e
-per accompagnare la persona nella sua interezza.
+Questa lezione si concentra su:
+- La metafora dell'**artigianato** come postura progettuale
+- La fase di **Attivazione** (risorse, limiti, mandato)
+- La fase di **Scrittura**
+- La fase di **Realizzazione**
+- La fase di **Verifica**
 
 ---
 
-## Salute, benessere, normalità: tre concetti
-da non confondere
+## La metafora dell'artigiano: postura progettuale
 
-Uno dei messaggi centrali della lezione: **salute,
-benessere e normalità sono tre cose diverse** che
-spesso vengono confuse o sovrapposte. Vediamole
-una per una.
+La lezione apre con la lettura e discussione collettiva di un testo sull'idea di *artigianato professionale*. La tesi di fondo è questa:
 
-### Salute: più complessa di quanto sembra
+> Progettare bene assomiglia al lavoro di un artigiano: richiede dialogo continuo tra il *fare* e il *pensare*, esplorazione, ricerca costante, e soprattutto **tempo**.
 
-Il prof parte da una domanda semplice: "Chi di voi
-sta bene?" Poi mostra quanto sia difficile rispondere.
-Due paradigmi diversi: puoi andare a fare gli esami
-del sangue e la TAC (approccio biomedico, *disease*),
-oppure puoi rispondere "mi sento bene" senza nessun
-esame (approccio soggettivo, *illness*). Non sono la
-stessa cosa.
+I concetti chiave emersi dalla discussione in aula:
 
-Introduce il lavoro di **Christopher Boorse (1977)**,
-che nel suo articolo ha tentato di definire la salute
-esaminando sette possibili condizioni — dimostrando
-che **nessuna da sola regge**:
+**Fare e pensare insieme** — non si separa la progettazione dall'azione. Le due cose si alimentano a vicenda in modo continuo.
 
-| Condizione | Perché non basta |
-|---|---|
-| **Salute come valore** | Non tutto ciò che è desiderabile è salute; ci sono contesti dove non essere in salute può essere preferibile (es. durante guerre) |
-| **Malattia come ciò che il medico cura** | La medicina ha "colonizzato" ambiti non patologici (gravidanza, adolescenza); molte malattie non vengono trattate |
-| **Salute come norma statistica** | Fuori dalla media ≠ malattia (l'omosessualità è stata classificata come patologia a lungo) |
-| **Malattia come sofferenza** | Malattie asintomatiche e dolori normali (ciclo mestruale, coliche neonatali, dentizione) |
-| **Malattia come disabilità** | Tutti attraversiamo fasi di "non abilità" (un neonato non cammina, ma non è malato) |
-| **Salute come adattamento** | L'essere umano adatta anche l'ambiente a sé. Pensate alle neurodivergenze: a volte è l'ambiente che va cambiato |
-| **Salute come omeostasi** | Il funzionamento umano si basa su un continuo perdere e riacquistare equilibrio. L'equilibrio statico è rigidità |
+**Ricerca costante** — il professionista non ha ricette preconfezionate. Si interroga, esplora, approfondisce le problematiche a cui si trova confrontato. Si passa da "come si fa" a "perché si fa".
 
-L'ultimo punto merita attenzione. Il prof insiste:
-**l'equilibrio statico non è salute, è rigidità**.
-La metafora è bellissima: camminare richiede di
-rompere continuamente l'equilibrio. Per fare un
-passo devi sbilancarti. La vita è movimento, e il
-movimento richiede di perdere e ritrovare l'equilibrio.
-"Le persone troppo equilibrate sono spesso molto
-rigide, poco disposte a rischiare."
+**Si evitano le scorciatoie** — l'artigianato richiede una certa lentezza, una certa precisione. La logica economica contemporanea spinge verso velocità e standardizzazione: bisogna difendere il tempo necessario per progettare bene.
 
-> *"Non c'è movimento senza perdere l'equilibrio,
-> e siccome la vita è costante movimento, occorre
-> mettersi nell'ottica di capire e accompagnare
-> la perdita e la riconquista dell'equilibrio —
-> non impedirla."*
-> — Il professore
+**L'artigianalità minacciata** — la tendenza odierna è trasformare l'educatore/assistente sociale in un *tecnico*: questionari standardizzati, processi ripetibili, catena di montaggio. Si rischia di perdere la qualità relazionale che è il cuore del lavoro sociale.
 
-### La triade anglosassone: disease, illness, sickness
+**L'errore come costruzione** — se emerge qualcosa di inatteso, di problematico, non è un fallimento: significa che si sta continuando a costruire complessità, a imparare. L'artigiano non si ferma davanti all'imprevisto, ci si immerge.
 
-Per ordinare le idee sulla salute, il prof introduce
-la distinzione in tre dimensioni:
+**Clima lavorativo** — viene sottolineata l'importanza di un ambiente professionale che garantisca dignità, autonomia e libertà. Un contesto lavorativo oppressivo — dove si va di fretta, dove non c'è spazio per la riflessione — mina alla base la postura artigianale.
 
-- **Disease** — la malattia in senso biomedico,
-  misurabile (esami, parametri clinici)
-- **Illness** — il vissuto soggettivo: come la
-  persona *si sente*
-- **Sickness** — la dimensione sociale: come la
-  società riconosce (o stigmatizza) quella condizione
+**Concettualità incorporata** — più si progetta, più si lavora, più si crea, più il pensiero progettuale diventa parte integrante del professionista. Non è una tecnica esterna: si incorpora nel modo di stare nel lavoro.
 
-Queste tre dimensioni **possono non coincidere**.
-Una malattia può essere tale per il medico (disease)
-ma non vissuta come tale dal soggetto (illness),
-oppure può essere vista dalla società come un vizio
-(sickness negativa) anche se è una malattia vera.
+Il prof sottolinea che questo testo va usato come **prisma**: riletto tenendo a mente tutto ciò che si è studiato sulla progettazione, amplifica il significato di ogni fase.
 
-Questo è importante per il lavoro sociale: lo sguardo
-della società su una condizione ha effetti reali sul
-benessere della persona. Se hai una malattia che viene
-giudicata come "vizio" o "colpa", la stigmatizzazione
-peggiora tutto — come mostrava già il racconto
-di apertura della lezione.
+> Pensa a un giardiniere esperto: non usa lo stesso schema per ogni pianta. Osserva il suolo, la luce, la stagione, le caratteristiche di quella varietà specifica. E poi agisce di conseguenza. La stessa cura, lo stesso sguardo, è quello del buon progettista sociale.
+
+Fin qui ci siamo? Bene — ora entriamo nelle fasi del processo con questa postura in testa.
 
 ---
 
-## Il benessere: un concetto multidimensionale
+## Fase di Attivazione: risorse, limiti e mandato
 
-**Salute e benessere non coincidono.** Il prof porta
-l'esempio di **Tiziano Terzani** e del suo libro
-*L'ultimo giro di giostra*: un giornalista gravemente
-malato di cancro che attraverso la malattia ha trovato
-una pace e una ricchezza interiore che non aveva quando
-stava "bene". Paradossale? No, profondamente umano.
+Come visto nella lezione 09, la fase di **Attivazione** segue la costruzione della lettura condivisa della situazione. In questa lezione si approfondisce il lavoro su **risorse, limiti e mandato**.
 
-Il benessere è un concetto **polisemico e
-multidimensionale**. **Carol Ryff** è una psicologa
-che ha risposto alla domanda: "Quando diciamo che
-una persona sta bene, di *cosa* esattamente stiamo
-parlando?" La risposta: di sei dimensioni distinte.
+Attivare un progetto significa capire:
 
-| Dimensione | Cosa significa in concreto |
-|---|---|
-| **Autonomia** | Capacità di determinarsi senza dipendere dagli altri per le proprie scelte |
-| **Controllo ambientale** | Capacità di cogliere, sfruttare e valorizzare le risorse e le possibilità disponibili |
-| **Relazioni positive** | Avere relazioni calde, fiduciose, contraddistinte da affetto e reciprocità |
-| **Autoaccettazione** | Consapevolezza delle proprie qualità e limiti, senza negare né l'uno né l'altro |
-| **Percezione di crescita** | Sentire che la propria vita è un processo continuo di sviluppo |
-| **Scopo nella vita** | Avere mete, riuscire a dare senso a ciò che si fa |
+1. **Quali strumenti ho a disposizione** — conoscenze, competenze, rete di supporto, risorse materiali e istituzionali.
+2. **Quali sono i limiti** — cosa non è possibile fare, cosa manca, dove bisogna cercare collaborazione o risorse esterne.
+3. **Qual è il mandato** — l'orizzonte istituzionale e relazionale dentro cui il progetto ha senso. Non si progetta nel vuoto: c'è sempre un contesto (il servizio, le normative, le aspettative della rete).
 
-Questo modello è prezioso per l'operatore sociale
-perché rende il lavoro sul benessere **concreto**.
-Invece di un generico "lavoro per il benessere",
-puoi esplorare *quale* dimensione è più critica
-e intervenire lì. Il prof fa un esempio: se lavori
-sull'autonomia di qualcuno (aiutarlo a fare scelte
-proprie), quello starà meglio — anche senza sapere
-perché. Il prodotto è quello che conta.
+La fase di attivazione è quella in cui emerge una **tensione creativa massima**: si ha già un'idea di cosa si vuole fare, ma si deve ancora capire *se si è davvero in grado di farlo* e *con quali strumenti concreti*. Questa tensione — descritta da una collega in aula come un "conflitto interiore produttivo" — è normale e necessaria. Molte idee, molte possibilità: bisogna fare delle scelte.
 
-Se in un momento la persona non riesce a lavorare
-sulle relazioni, si compensa sulle altre dimensioni.
-È un gioco di variabili, non tutto insieme.
-
-Il prof aggiunge: **vale anche per noi**, non solo
-per i nostri utenti. Se guardiamo indietro alla
-nostra vita e vediamo solo disastri, non stiamo bene.
-Se riusciamo a vedere crescita e senso, anche nelle
-difficoltà, il benessere aumenta.
+> La riflessività del professionista è un elemento critico in questa fase: ogni operatore è un soggetto storico, porta con sé valori, pregiudizi, letture del mondo. Questi influenzano inevitabilmente il progetto. Non si può progettare come se si fosse neutri — il buon lavoro consiste nell'essere consapevoli di questa soggettività, non nel negarla.
 
 ---
 
-## La normalità: quale normalità?
+## Fase di Scrittura
 
-Il prof introduce tre tipi di normalità — tutti
-rilevanti per il lavoro con le persone.
+La scrittura del progetto non è burocrazia. È un atto fondamentale, per molte ragioni.
 
-### 1. Norma statistica
+### Perché scrivere è importante
 
-La "normalità" come conformità alla media della
-popolazione. Sembra neutro, ma non lo è: essere
-fuori dalla norma statistica può provocare stigma,
-isolamento, discriminazione. L'omosessualità è stata
-a lungo classificata come patologia proprio su base
-statistica — e solo quando la comunità scientifica
-ha cambiato i criteri ne è uscita.
+**Congela il pensiero** — mette su carta qualcosa che altrimenti rimane fluido e vago. Costringe a definire i termini, a chiarire le ambiguità. Quando si scrive, ci si accorge di quello che non si era ancora capito davvero.
 
-Il contesto è fondamentale: qualsiasi comportamento,
-senza contesto, può sembrare "anormale".
+**La prima bozza è sempre imperfetta — e va bene così** — il progetto non deve essere perfetto al primo tentativo. La prima versione scritta serve proprio per poi definire i vincoli, ragionare, correggere e affinare. Terrificante, ma necessaria.
 
-### 2. Norma di valore (ideale)
+**Visibilità verso gli altri** — il progetto scritto è il primo strumento di comunicazione con chi non era presente al momento della costruzione condivisa. Permette agli altri attori di capire, concordare, contribuire.
 
-Uno standard ideale che si pone come riferimento.
-Se il mio ideale è un certo tipo di corpo, starò
-male finché non ci corrispondo. Ed è un ideale
-*irraggiungibile*, quindi la sofferenza è perpetua.
+**Processo di apprendimento** — scrivere obbliga a padronare davvero un concetto, a definire ogni termine con precisione. Chi scrive bene ha capito bene. Chi scrive in modo confuso, probabilmente non ha ancora chiarito le idee.
 
-**Attenzione**: la norma ideale incide anche sugli
-operatori. Abbiamo ideali su come dovrebbe essere
-un utente, come dovrebbe comportarsi, cosa dovrebbe
-raggiungere. Se quella norma ideale diventa il metro
-di lavoro, rischia di diventare penalizzante per
-la relazione.
+**Condivisione e corresponsabilità** — come già visto nella lezione 10, il progetto scritto viene **firmato da tutti gli attori coinvolti**. Non è una formalità: è un atto simbolico che dichiara l'adesione di tutti. Tutti si assumono la propria parte di responsabilità.
 
-### 3. Norma personale (individuale)
+### Cosa si scrive e cosa non si scrive
 
-La normalità *rispetto a come funzionavo prima*.
-Se mi rompo una gamba, non sono più "normale" rispetto
-al mio funzionamento precedente. Questa dimensione
-è importante clinicamente: capire com'era il soggetto
-prima dell'evento permette di comprendere il
-cambiamento.
+C'è un aspetto sottile emerso in aula che vale la pena tenere a mente: **il progetto è anche ciò che non viene scritto**. In un lavoro d'équipe spesso bisogna rinunciare a mettere per iscritto cose che si vorrebbe scrivere, perché il documento finale è il risultato di una negoziazione collettiva.
 
-Ma il prof aggiunge un avvertimento cruciale:
-**la normalità personale non è sempre da riconquistare**.
-A volte è proprio quella "normalità" precedente che
-ha causato il problema. Esempio: "Lavoravo 10 ore
-al giorno, gestivo tutto, poi mi sono ammalato —
-voglio tornare come prima." Forse no. Se torni come
-eri prima, tra un mese ci rivediamo peggio.
-
-C'è anche il rischio di **idealizzare il passato**:
-"Prima stavo bene" — ma siamo sicuri? O è solo che
-in confronto a oggi sembra il paradiso?
+L'artigiano singolo può muoversi con piena autonomia — l'educatore in équipe deve invece mediare, integrare i punti di vista degli altri, fare rinunce. Questo è il prezzo — e il valore — del lavoro collettivo.
 
 ---
 
-## La posizione del soggetto davanti alla malattia
+## Fase di Realizzazione
 
-L'ultima parte della lezione introduce un modello
-pratico a due assi per capire come il soggetto si
-pone rispetto alla propria condizione.
+La realizzazione è la messa in campo concreta di tutte le azioni pianificate. Non è l'esecuzione meccanica di un piano: è un processo vivo.
 
-**Asse 1 — Identificazione:**
-- *Non mi identifico* con la malattia: "Io non sono
-  la mia malattia, è qualcosa di estraneo"
-- *Mi identifico*: "La mia condizione fa parte di me"
+### Non oggettivare il progetto
 
-**Asse 2 — Agentività** (termine tecnico dal greco):
-- *Agentivo* (attivo): affronto la situazione,
-  mi muovo, cerco alleati
-- *Passivo*: subisco, aspetto che qualcuno intervenga
+La persona non è il progetto. Il progetto è uno strumento al servizio della persona. La realizzazione si adatta continuamente a chi è davanti a te: ai suoi bisogni del momento, alle sue aspirazioni, alle sue difficoltà.
 
-Incrociando i due assi si ottengono quattro posizioni:
+> **Emancipazione, non gestione** — l'obiettivo non è che la persona faccia quello che le si dice. È che cresca in autonomia, autodeterminazione, capacità di incidere sulla propria realtà.
 
-| | Non si identifica | Si identifica |
-|---|---|---|
-| **Passivo** | **Delega**: "Faccia lei, risolva lei" | Passivo nella propria condizione |
-| **Agentivo** | **Guarigione**: combatte per eliminare la condizione | **Cura**: lavora sul proprio benessere dentro la condizione |
+### Unicità artigianale
 
-Il passaggio chiave: quando il soggetto si identifica
-con la propria condizione e diventa agentivo, il
-paradigma passa dalla **guarigione** alla **cura**.
-Non si tratta più di eliminare la malattia (che a
-volte non è possibile), ma di aumentare il benessere
-*dentro* la condizione.
+Con lo stesso mandato e la stessa équipe, la realizzazione sarà diversa per ogni persona. Non esiste un progetto in serie. Venerdì, guardando i progetti dei colleghi, si vedrà come — partendo dallo stesso schema — ciascuno avrà prodotto qualcosa di diverso, con accenti, scelte e giustificazioni proprie. Questo non è un difetto: è la firma dell'artigianato.
 
-> *"Non tutto si può guarire. Ma tutto può essere
-> curato."*
-> — Il professore
+### Gestire le ambiguità emergenti
 
-La differenza tra *to cure* (terapia) e *to care*
-(cura) è fondamentale per il lavoro sociale: la
-terapia non è sempre possibile, ma la cura — nel
-senso di prendersi cura del benessere della persona
-— è sempre praticabile.
+Durante la realizzazione emergono dinamiche non previste, problematiche inaspettate, ambiguità. L'approccio artigianale non le relega da parte: le esplora con curiosità. Spesso sono proprio le ambiguità — le cose che non capivamo, le situazioni che ci hanno sorpreso — a portare i cambiamenti più significativi.
 
-Nella realtà le persone si muovono tra i quadranti,
-soprattutto all'inizio della malattia. L'operatore
-accompagna questo movimento.
+> Come già visto nella lezione 10, i risultati inattesi positivi sono parte della valutazione. Un progetto che non ha raggiunto gli obiettivi "formali" può aver prodotto qualcosa di molto più importante.
+
+### Esempio dal prof: il servizio di reintegrazione professionale
+
+Con lo stesso mandato istituzionale (es. reintegrazione nel mercato del lavoro), per una persona l'indicatore di realizzazione sarà *costruire il CV insieme*; per un'altra sarà *riuscire ad andare al servizio con costanza*. L'indicatore non è universale — è artigianale. È costruito *su* quella persona, *con* quella persona.
 
 ---
 
-## La tragedia greca: passioni e follia
+## Fase di Verifica
 
-Parallelamente allo studio teorico, il modulo
-include un lavoro su **cinque tragedie greche**.
+La verifica chiude il ciclo del progetto — ma "chiudere" non significa necessariamente che tutto sia finito.
 
-### Perché la tragedia?
+### Caratteristiche della buona verifica
 
-La tragedia greca nasce insieme alla medicina antica
-(Ippocrate) e mette in scena la sofferenza umana —
-quella difficile da spiegare e a volte da comprendere.
-Assistere alla tragedia faceva emergere emozioni e
-sentimenti che, attraverso la **catarsi**, potevano
-uscire e liberare.
+**Collettiva** — coinvolge tutti gli attori del progetto: utente, famiglia, professionisti della rete. Non è la valutazione dell'operatore sulla persona: è una valutazione condivisa.
 
-La tragedia parla dei **confini dell'umano**: la
-morte, la malattia, la follia. Il prof distingue
-gli approcci dei tre grandi tragediografi:
+**Chiarezza espositiva** — l'esito deve essere comunicato in modo comprensibile a tutti, incluso l'utente e il suo sistema familiare/istituzionale. Niente gergo tecnico: linguaggio semplice, adatto a ogni interlocutore.
 
-- **Eschilo** — il più arcaico: la follia arriva
-  dagli dèi, è una forza esterna che schiaccia
-- **Sofocle** — il tragico non arriva dagli dèi,
-  è la vita stessa che è tragica
-- **Euripide** — il più moderno: il tragico nasce
-  dalle relazioni tra le persone
+**Apertura all'inatteso** — la verifica considera anche i risultati non previsti, sia positivi che negativi. Un progetto può "fallire" sugli obiettivi originari ma aver prodotto qualcosa di molto più significativo.
 
-A secoli di distanza, la tragedia "resta fedele
-a se stessa" — perché tocca qualcosa di profondo
-nell'umano che non cambia nei secoli.
+**Spinta motrice verso il miglioramento** — anche se il progetto è andato bene, la verifica finale non è la parola definitiva. C'è sempre qualcosa da migliorare, un filo da raccogliere per la prossima progettualità. Come l'artigiano che, anche davanti a un bel risultato, si chiede come potrà fare ancora meglio.
 
-### L'esercizio pedagogico
+### Valutazione in itinere vs. verifica finale
 
-Gli studenti sono divisi in **5 gruppi**, ciascuno
-con una tragedia assegnata per estrazione. Il lavoro
-prevede:
+Come già chiarito nella lezione 10:
 
-1. **Leggere** la tragedia — esporsi a un linguaggio
-   non familiare della sofferenza, proprio come
-   accade quando si incontra un paziente che parla
-   una "lingua" diversa dalla nostra
-2. **Condividere** nel gruppo — cosa ti ha parlato?
-   Quali temi ti hanno colpito?
-3. **Sintetizzare** — trovare un messaggio comune,
-   con le inevitabili rinunce individuali (esercizio
-   di équipe reale)
-4. **Andare in scena** — non uno "spettacolino",
-   ma portare temi salienti a una platea
+| | Valutazione in itinere | Verifica finale |
+|--|----------------------|-----------------|
+| **Quando** | Durante tutto il progetto | Al termine del progetto |
+| **Scopo** | Orientare, modificare, confermare il progetto in corso | Valutare lo scarto tra attese e risultati ottenuti |
+| **Come** | Colloqui frequenti, osservazione, incontri di rete | Valutazione complessiva condivisa con tutti gli attori |
 
-Il prof insiste: quello che deve arrivare al pubblico
-deve essere *vero* — deve essere passato attraverso
-l'umanità di chi lo porta in scena. Se non c'è quella
-verità, si sente.
+La valutazione in itinere non è un controllo: è un dialogo continuo. "Tu come ti vedi? Come ti senti? Come ti percepisco?" — un confronto costante che evita di arrivare alla fine con brutte sorprese.
 
-### Le tragedie di quest'anno
+### L'indicatore di verifica non è universale
 
-Le docenti hanno scelto — indipendentemente —
-tragedie che convergono su un tema comune: la
-**violenza sulle donne nei conflitti armati**.
+Il prof esemplifica: due persone, stesso mandato, stessa équipe. Per la prima, il progetto riesce se *trova lavoro*. Per la seconda, il progetto riesce se *riesce a pensare a sé stessa in relazione a una professione*. Trovare lavoro potrebbe non essere l'indicatore giusto per lei.
 
-- **Agamennone** (Eschilo) — Cassandra, prigioniera
-  di guerra e bottino sessuale
-- **Le Troiane** (Euripide) — Ecuba, Cassandra,
-  Andromaca: tre donne schiavizzate dopo la caduta
-  di Troia
-- **Andromaca** (Euripide) — la vittima di guerra
-  per eccellenza
-- **Le Trachinie** (Sofocle) — donne umiliate
-  e "rese mute" dalla violenza
-- **Aiace** (Sofocle) — la fragilità dietro
-  l'eroismo apparente
+Questo mostra che la verifica è sempre **personalizzata** e **contestualizzata**. L'artigianalità si vede anche qui.
 
-Il prof collega esplicitamente queste storie ai dati
-odierni sulla violenza sessuale nei conflitti armati
-(Congo, Iraq, Rwanda), citando **Nadia Murad**,
-Premio Nobel per la Pace e sopravvissuta alla
-schiavitù sessuale dell'ISIS. La tragedia greca
-non è storia lontana: è cronaca con un linguaggio
-di 2500 anni fa.
+---
+
+## La dimensione artigianale in ogni fase
+
+Il prof chiude la lezione con un invito esplicito, utile per lo studio: riprendere ogni fase del processo e chiedersi, per ciascuna, dove si trova la dimensione artigianale.
+
+| Fase | Dimensione artigianale |
+|------|----------------------|
+| **Ideazione** | Curiosità, postura aperta, evitare giudizi preconcetti |
+| **Attivazione** | Conoscere i propri strumenti, i limiti, il mandato — senza automatismi |
+| **Scrittura** | Precisione, negoziazione collettiva, chiarire le ambiguità |
+| **Realizzazione** | Unicità, adattamento continuo, curiosità verso l'inatteso |
+| **Verifica** | Valutazione collettiva, apertura agli esiti inattesi, spinta al miglioramento |
+
+Ogni progetto — anche con lo stesso mandato — sarà diverso. Non è un problema: è il segno di un lavoro fatto bene.
 
 ---
 
 ## Concetti chiave
 
 | Termine | Significato |
-|---|---|
-| **Disease** | Malattia in senso biomedico, misurabile con parametri clinici |
-| **Illness** | Vissuto soggettivo della malattia, come la persona si sente |
-| **Sickness** | Dimensione sociale della malattia, riconoscimento/stigma |
-| **Benessere** | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo |
-| **Norma statistica** | Normalità come conformità alla media della popolazione |
-| **Norma di valore** | Normalità come conformità a un ideale |
-| **Norma personale** | Normalità rispetto al proprio funzionamento precedente |
-| **Agentività** | Atteggiamento attivo del soggetto verso la propria condizione |
-| **Catarsi** | Purificazione emotiva attraverso la partecipazione alla tragedia |
-| **Omeostasi** | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio |
-| **To cure** | Terapia: eliminare la malattia |
-| **To care** | Cura: prendersi cura del benessere, sempre praticabile |
+|---------|-------------|
+| **Postura artigianale** | Approccio al lavoro professionale che integra fare e pensare, esplorazione costante, rifiuto delle scorciatoie |
+| **Artigianalità minacciata** | Rischio che la logica della velocità e della standardizzazione eroda la qualità relazionale del lavoro educativo/sociale |
+| **Mandato** | L'orizzonte istituzionale e relazionale dentro cui il progetto si inserisce e ha senso |
+| **Concettualità incorporata** | Il pensiero progettuale che diventa parte del professionista attraverso la pratica ripetuta |
+| **Progetto scritto** | Documento che congela il pensiero, rende visibile il progetto agli altri e sancisce la corresponsabilità (firmato da tutti) |
+| **Riflessività del professionista** | Consapevolezza della propria soggettività, storia e valori nel processo di progettazione |
+| **Valutazione in itinere** | Monitoraggio continuo durante la realizzazione (→ approfondita nella lezione 10) |
+| **Verifica finale** | Valutazione collettiva al termine: scarto tra attese e risultati, inclusi esiti inattesi |
+| **Esiti inattesi** | Risultati non previsti (positivi o negativi) che emergono durante il progetto — da includere nella valutazione |
+| **Unicità artigianale** | Il fatto che ogni progetto, anche con lo stesso mandato, sarà diverso — segno di qualità, non di incoerenza |
+
+---
+
+## Domande di orientamento allo studio
+
+Le domande del materiale di studio per questo modulo invitano a ragionare su:
+- Quali sono gli **elementi essenziali** per definire la progettazione educativa e sociale?
+- Cosa si intende per **progettualità**?
+- Quali sono i **principali modelli e approcci** per la progettazione?
+- Quali aspetti caratterizzano l'**analisi pedagogica** dei problemi socio-educativi?
+- Quali sono gli elementi principali delle **varie fasi progettuali**?
+
+Per rispondere a queste domande bisogna saper integrare le lezioni 09, 10 e 11 in una visione coerente.
+
+---
 
 ## Collegamenti
 
-- **Autori citati:** Christopher Boorse (1977),
-  Carol Ryff, Tiziano Terzani (*L'ultimo giro di
-  giostra*), Callieri & C. (1999), Nadia Murad
-- **Lezioni successive:** Storia della follia
-  (25.02), L'incontro con l'alienità (4.03), Dal
-  modello psicoanalitico alle difese (11.03)
-- **Temi aperti:** Come cambiano le categorie
-  diagnostiche nel tempo? Come si costruisce una
-  diagnosi psichiatrica? (L'omosessualità come
-  esempio storico sarà ripreso)
-- **Da ricordare:** il vademecum del modulo
-  contiene i contenuti in forma scritta con i
-  riferimenti bibliografici precisi
+**Lezioni precedenti:**
+- **Lezione 09 — Il processo concertativo:** ha introdotto le fasi del processo (Ideazione → Attivazione → Scrittura → Realizzazione → Verifica), l'approccio dialogico-partecipato (Bachtin, Arnkil e Seikkula), le trappole interpretative e i livelli di partecipazione di O'Sullivan. La lezione 11 assume tutto questo come base e lo rilegge attraverso la metafora dell'artigianato.
+- **Lezione 10 — La definizione degli obiettivi:** ha approfondito la costruzione degli obiettivi SMART, la ZSP di Vygotskij, le capabilities di Sen, le azioni progettuali, la valutazione in itinere e la verifica. La lezione 11 integra questi strumenti nella visione d'insieme del processo e rafforza il concetto di verifica finale.
+
+**Temi aperti / da approfondire:**
+- Venerdì: presentazione dei progetti pratici realizzati durante il modulo e focus sull'esame finale.
+- Rileggere la dispensa chiedendosi, per ogni fase, dove si trova la dimensione artigianale — suggerito esplicitamente dal prof come metodo di studio per l'esame.

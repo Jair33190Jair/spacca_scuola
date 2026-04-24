@@ -1,340 +1,263 @@
-# L'Adolescenza
-I Tempi della Vita · Sessione 06 · A.A. 2025-2026
+# Introduzione ai Modelli di Progettazione
+TMIS — Teorie e Metodologie dell'Intervento Sociale · Sessione 06 · 03.11.2025
 
-> Benvenuto nella fase più caotica, creativa e fondamentale della vita umana. Questa lezione è una mappa del territorio: capirai cosa sta succedendo davvero nell'adolescenza, perché è così difficile e (spoiler) perché è anche una risorsa enorme.
-
----
-
-## Cos'è l'adolescenza: definizione e contesto storico
-
-L'**adolescenza** è la fase di sviluppo umano che occupa gran parte della seconda decade della vita. È il passaggio dallo status sociale del bambino a quello dell'adulto: comporta l'acquisizione di caratteristiche fisiche, cognitive e sociali che permettono di entrare nel mondo adulto.
-
-La parola stessa viene dal latino: *adolescere* = nutrirsi, crescere. E il paradosso è che in realtà non si finisce mai di nutrirsi — il processo di formazione dell'identità continua ben oltre l'adolescenza.
-
-**Stanley Hall** (1904) è stato il primo a studiare l'adolescenza in modo sistematico, intervistando migliaia di adulti americani sui ricordi della propria giovinezza. Osservò che stava emergendo una **nuova fase psicologica** dello sviluppo, legata alla trasformazione della società agricola in industriale: quando le famiglie contadine non avevano più bisogno del lavoro immediato dei figli, il periodo di transizione si allungò. Hall la descrisse come la **"seconda nascita"** — una grande onda che lancia il bambino sulla spiaggia dell'età adulta in condizioni di relativa impotenza. Parlò di *storm and stress* (tempesta e stress): conflitti con le figure adulte, ribellioni, instabilità emotiva.
-
-> Attenzione: questa visione drammatica non è condivisa da tutti. Autori come Erikson e Winnicott parlano di una fase che può essere difficile, ma **complessivamente creativa e positiva**. La realtà sta nel mezzo.
-
-L'adolescenza è una fase caratterizzata da **disarmonia**: certi aspetti del ragazzo sono già molto avanti, altri devono ancora crescere. È una sospensione tra un passato ormai superato e un futuro che si sta appena costruendo.
-
-**Margaret Mead** (1928), studiando le adolescenti a Samoa, dimostrò che le modificazioni psico-emotive degli adolescenti dipendono in gran parte dalla cultura di appartenenza: le ragazze samoane crescevano in un contesto dove sessualità, morte e responsabilità erano vissute in modo naturale e graduale — senza gli scontri generazionali tipici dell'Occidente. La sua conclusione è diventata un classico:
-
-> «L'adolescenza inizia nella biologia e finisce nella cultura» (Palmonari, 1997)
+> Questa lezione è il punto di ingresso nel blocco tematico sulla progettazione. Si comincia a capire cosa vuol dire davvero progettare nel lavoro sociale — non fare piani su carta, ma assumere una postura professionale precisa. Poi si esplorano tre approcci (sinottico-razionale, concertativo-partecipato, euristico) e si capisce che non c'è uno "migliore": si usa quello giusto per la situazione giusta. Materia solida, fondamentale per il laboratorio e lo stage.
 
 ---
 
-## Il viaggio iniziatico: una metafora utile
+## Cos'è la Progettazione: definizione
 
-La docente usa l'immagine del **viaggio iniziatico** come metafora dell'adolescenza. È perfetta perché:
+La parola viene dal latino *pro-iectum*: gettare qualcosa *in avanti*. Già nel significato c'è tutto: la progettazione guarda al futuro, immagina qualcosa che ancora non esiste e lavora per realizzarlo.
 
-- La partenza **non è pianificata** (arriva con la pubertà, senza avvertire)
-- La meta **è difficile da soggettivare** — bisogna costruirla man mano
-- Chi è partito con uno zaino ben fornito dall'infanzia (basi sicure) è avvantaggiato, ma le carte possono ancora cambiare
+**Traverso (2016)** la descrive così: l'educatore che immagina il futuro è un artista che coglie nella pedagogia la sua scelta espressiva. Ma per essere un buon artista non basta l'ispirazione — serve anche la tecnica.
 
-Come diceva Kestemberg: *"Se tutto si prepara nell'infanzia, tutto si gioca nell'adolescenza."*
+Una definizione più operativa (Kanisza & Tramma, 2011) dice che la progettazione in ambito educativo e sociale è:
 
-L'adolescenza è il **passaggio della soglia**: un susseguirsi di prime volte — le prime amicizie profonde, i primi amori, la prima volta che si pensa davvero alla morte, alla solitudine, ai grandi dilemmi. È anche il momento in cui cominciano ad emergere gli strumenti cognitivi per interrogarsi su queste cose.
+> "Il processo che guida i percorsi di trasformazione e cambiamento personale, di gruppo e delle comunità, con l'obiettivo di cogliere il potenziale presente nei soggetti per promuoverne lo sviluppo in tutte le direzioni dell'esistenza."
 
----
+Tre caratteristiche fondamentali emergono da queste definizioni:
 
-## I riti di passaggio
-
-### Che cos'è un rito di passaggio
-
-Un **rito di passaggio** segna il cambiamento di un individuo da uno status socioculturale a un altro. Non è un gesto ripetitivo qualunque (lavarsi i denti non è un rito): ha una **valenza simbolica** che rimanda a qualcosa che va oltre il momento contingente.
-
-Secondo **Arnold Van Gennep** (1909), ogni rito di passaggio si articola in tre fasi:
-
-| Fase | Nome | Significato |
-|------|------|-------------|
-| 1 | **Separazione** | Distacco dallo status precedente |
-| 2 | **Margine/Liminare** | Soglia, sospensione — periodo del lutto e della transizione (es. fidanzamento, gestazione) |
-| 3 | **Aggregazione** | Definitivo ingresso nel nuovo status |
-
-**Émile Durkheim** sottolineò il ruolo sociale del rito: è il mezzo con cui il gruppo si riafferma periodicamente. Il rito non lascia soli i soggetti: li fa sentire parte della comunità, attenuando l'angoscia del cambiamento. Sono atti formalizzati con una dimensione simbolica che si celebra attraverso segni, linguaggi e forme del bagaglio culturale condiviso.
-
-**Lévi-Strauss** aggiunse che grazie alla segmentazione e alla ripetitività del rito si crea l'illusione di continuità là dove c'è una rottura.
-
-### Perché i riti sono importanti per l'adolescenza
-
-Ogni società ha riconosciuto l'ingresso nella vita adulta come il passaggio che più di tutti richiede ritualizzazione. Il rito ha due funzioni chiave:
-- Evidenzia l'importanza del momento
-- Attenua l'angoscia del nuovo, perché non lascia soli i soggetti
-
-Pensalo come un ponte che crea continuità dove c'è rottura. Come quando entri a casa in Giappone e togli le scarpe sulla soglia: quel piccolo gesto fisico segna che stai entrando in uno spazio diverso. L'adolescenza avrebbe bisogno di soglie così.
-
-### La scomparsa dei riti contemporanei
-
-Nel dopoguerra nasce una **categoria giovanile a sé stante** — gli adolescenti come gruppo distinto, con una propria estetica, musica, valori. La ribellione giovanile degli anni '60 è l'espressione più visibile.
-
-Dalla fine degli anni '70 in poi, però, la spinta propulsiva si esaurisce: si assiste a un **ripiegamento sul privato** (individualismo, culto del corpo, società dell'immagine) e a un progressivo cambiamento nel modello educativo familiare.
-
-La famiglia passa da **normativa/edipica** (basata su regole, obbedienza, senso di colpa) a **narcisistica** (basata su dialogo, confronto, ideale dell'Io, vergogna). E poi verso un modello **post-narcisistico**, dove:
-
-- I conflitti generazionali si smorzano
-- Le gerarchie si assottigliano
-- Il comando è sostituito dalla negoziazione
-- I giovani adulti escono di casa sempre più tardi
-- Il servizio militare non è più un'imposizione
-- **Molti riti di passaggio si sono spostati o addirittura scomparsi**
-
-Il risultato? Le prove di ingresso nel mondo adulto sembrano mancare o non avere più valore simbolico. Il passaggio è diventato **più faticoso, sfilacciato e prolungato nel tempo**. Manca una linea di demarcazione definita.
-
-> Nella società dei consumi, il percorso evolutivo sembra scandito dal passaggio da un certo tipo di prodotto a un altro — quasi un rito di iniziazione consumistico. Ma senza valore simbolico reale.
-
-Quando gli adulti non marcano presenza e non definiscono confini chiari, gli adolescenti **si organizzano a modo loro**: le prove di iniziazione diventano rituali di trasgressione. Si diventa grandi da soli. Ed è allora che la crescita diventa molto più difficile.
+- **Dimensione immaginativa**: il progetto immagina qualcosa che non c'è ancora, qualcosa di auspicato nel futuro.
+- **Dimensione temporale**: non c'è progetto senza tempo. Si parte da una situazione attuale, si lavora per modificarla, e questo richiede un lasso di tempo definito.
+- **Dimensione relazionale**: il progetto non si fa in solitaria. Nasce e si sviluppa attraverso relazioni, dialogo, coinvolgimento delle persone.
 
 ---
 
-## Erikson e l'identità: il compito centrale dell'adolescenza
+## Progettualità come Postura Professionale
 
-**Erik Erikson** (1968, 1982) ha definito l'adolescenza come il **quinto stadio dello sviluppo psicosociale**: la sfida centrale è **Identità vs. Confusione di Ruoli**.
+Attenzione: la progettazione non è solo uno strumento tecnico che si tira fuori quando serve. È una **postura**, cioè un modo di stare nel lavoro, continuo e non occasionale.
 
-La domanda fondamentale è: *"Chi sono io?"*
+**Brambilla (2023)** lo dice esplicitamente:
 
-L'**identità dell'Io** implica:
-- La capacità di combinare e integrare le identificazioni infantili in una sintesi personale e unica
-- Sapere chi si è e qual è il proprio posto nella società
-- Rimanere fedeli ai propri impegni e valori
+> "La postura progettuale dovrebbe caratterizzare un profilo professionale capace di esprimere e mantenere viva nel proprio lavoro quella riflessività necessaria per esplorare i fatti concernenti l'educazione, per analizzarli in relazione ai contesti e alle relazioni che lo abitano, con l'obiettivo di promuovere, per i soggetti coinvolti, la disponibilità e l'accesso a opportunità di consapevolezza, crescita e sviluppo."
 
-Erikson parla di **crisi normativa**: non qualcosa di negativo, ma una destrutturazione necessaria degli assetti identitari precedenti per raggiungere un'identità autonoma e coerente.
+Cosa vuol dire in concreto? Significa andare oltre quella che Brambilla chiama **"ansia applicativa"** — quella voglia di fare subito, di trovare la soluzione rapida, di applicare ricette già pronte. Progettare bene richiede tempo, coraggio, strumenti e la volontà di mettersi in una posizione di ricerca attiva.
 
-L'Io in adolescenza è impegnato in **due processi complementari**:
-
-**Sperimentazione** → movimento attivo di esplorazione di ruoli e possibilità. Pensa a una ragazza che si iscrive al teatro scolastico, poi a una squadra sportiva, poi al gruppo parrocchiale: in ciascun contesto sperimenta valori diversi e capisce cosa sente suo. Nei college americani questo è istituzionalizzato; da noi è meno strutturato, ma non per questo meno necessario.
-
-**Identificazione** → integrazione e stabilizzazione degli elementi presi da persone significative. Non più solo dalla famiglia, ma da amici, insegnanti, allenatori, adulti di riferimento. Si fa una sintesi personale.
-
-### La moratoria psicosociale
-
-Erikson introduce il concetto di **moratoria psicosociale**: questo è il periodo — fisiologico — in cui l'adolescente dovrebbe poter sperimentare senza dover immediatamente assumere responsabilità adulte. È un laboratorio di identità. Bisogna *permettere* agli adolescenti di fare queste esplorazioni, come dice lo stesso Erikson: *"Se hai i soldi, vai a fare un viaggio, lascia la scuola e fai un lavoro. Lascia il lavoro e vai a scuola. Prendi un break, annusa le rose, conosci te stesso."*
-
-Se sperimentazione e identificazione falliscono, si avrà la **confusione dei ruoli**:
-- Incertezza rispetto al proprio posto nella società
-- Non sapere quale direzione prendere
-- Passare da un'identificazione all'altra senza mai costruire una sintesi stabile
-
-### Il punto di Erikson sulla cultura adulta
-
-Erikson sottolinea la necessità di una **cultura adulta convenzionale**: un sistema di valori condivisi che faccia da riferimento. Se tutto è fluido e negoziabile, l'adolescente non ha un confine chiaro da cui differenziarsi. La sua capacità di "dire no a questo e sì a quello" dipende dall'avere un "questo" a cui riferirsi.
+_Secondo il professore_, questa postura va **difesa**: nei servizi educativi non è sempre garantita. L'emergenza quotidiana, la mancanza di personale, la pressione della routine rischiano di azzerarla. Ma senza di essa, il lavoro educativo si riduce alla gestione del momento.
 
 ---
 
-## Il modello degli stati dell'identità di Marcia
+## La Progettualità: di Cosa Si Occupa
 
-**James Marcia** ha operazionalizzato il modello eriksoniano identificando **quattro stati dell'identità**, basati su due criteri: **esplorazione** e **impegno**.
+La progettazione educativa e sociale è la metodologia per eccellenza che orienta il lavoro nei percorsi di:
 
-| Stato | Esplorazione | Impegno | Descrizione |
-|-------|-------------|---------|-------------|
-| **Acquisizione** | Sì | Sì | Ha esplorato e ha scelto: identità stabile e autentica |
-| **Moratorium** | Sì (in corso) | No (ancora) | Sta esplorando attivamente, impegni non ancora definiti — la classica "crisi di identità" |
-| **Chiusura** | No | Sì | Si è impegnato senza esplorare: mantiene valori infantili o familiari senza averli messi in discussione |
-| **Diffusione** | Superficiale | No | Tentativi superficiali, nessuna scelta, nessuna direzione chiara |
+- **Promozione**: attivare occasioni di crescita, benessere, socialità, senza che ci sia necessariamente un bisogno conclamato davanti. Si promuovono risorse, non si risponde a un deficit.
+- **Prevenzione**: intervenire quando si osserva un rischio o un disagio iniziale, prima che si aggravi. In Svizzera si parla di prevenzione primaria e secondaria.
+- **Riabilitazione e cura**: quando il disagio è già presente e conclamato, accompagnare un percorso di recupero.
 
-Il processo ideale porta verso l'**acquisizione**: non una scelta imposta dall'esterno, ma costruita dal soggetto stesso. Importante: Erikson e Marcia concordano che acquisire l'identità non significa necessariamente conformarsi ai percorsi socialmente approvati — può anche significare scegliere valori che vanno contro la corrente, purché siano davvero propri.
+È un'attività complessa su tre piani:
 
-Fin qui ci siamo? Bene, perché adesso arriva la parte più concreta — i quattro compiti evolutivi che un lavoratore sociale usa davvero ogni giorno.
-
----
-
-## I quattro compiti evolutivi fase-specifici
-
-(Maggiolini & Charmet, 2004; Lancini et al.)
-
-Questi compiti sono **invarianti** — validi indipendentemente dall'epoca storica — ma le modalità di affrontarli cambiano con la cultura. Sono come le radici di un albero: ci sono sempre, ma il terreno in cui crescono cambia tutto.
+- **Piano logico**: analizzare gli elementi, le fasi, i livelli del progetto. Mettere tutto in fila con coerenza — come costruire un'impalcatura prima di alzare il muro.
+- **Piano metodologico**: usare tecniche e strumenti specifici (colloqui, osservazione, focus group...) per raccogliere informazioni e costruire il progetto.
+- **Piano relazionale**: il progetto nasce e vive nelle relazioni — tra operatori, con l'utenza, con le reti formali e informali. Non è mai un esercizio solitario.
 
 ---
 
-### 1. Separazione-Individuazione
+## Le Fasi di un Progetto
 
-Il primo compito è rendersi **progressivamente indipendente** — cognitivamente e affettivamente — dai genitori reali e dalle loro rappresentazioni interiorizzate.
+Qualsiasi progetto, indipendentemente dall'approccio usato, si snoda attraverso cinque tappe (Leone & Prezza, 2003):
 
-Non si tratta tanto di una separazione fisica (andarsene di casa), ma di una **separazione esistenziale**: separarsi dall'immagine idealizzata dei genitori interiorizzata nell'infanzia. Come abbiamo visto nel processo di separazione-individuazione dell'infanzia (Mahler), ma a un livello più profondo.
+| Tappa | Nome | Contenuto |
+|-------|------|-----------|
+| 1° | **Ideazione** | Il momento dell'ipotesi: si osserva una situazione, nasce un'idea di cosa fare. |
+| 2° | **Attivazione** | Si verificano le risorse disponibili (umane, economiche, materiali), si identificano i ruoli, si focalizza la problematica, si individuano obiettivi e strategie di intervento, si ottiene il consenso. |
+| 3° | **Progettazione** | Elaborazione del progetto scritto: obiettivi generali e specifici, fasi di intervento, tempistiche, risorse, modalità di verifica. |
+| 4° | **Realizzazione** | Si avviano le attività, si verificano le ipotesi in itinere, si fanno gli aggiustamenti necessari. |
+| 5° | **Verifica** | Verifica conclusiva: si valuta se gli obiettivi sono stati raggiunti, si riformula il progetto se necessario. |
 
-È un processo **ambivalente**: l'adolescente sente ancora forte il richiamo della nicchia affettiva primaria, ma deve anche investire in nuove direzioni. Come disse Mark Twain: *"Quando avevo 14 anni, mio padre era così ignorante che non sopportavo di averlo intorno. Ma a 21, rimasi stupefatto di quanto fosse riuscito a imparare in sette anni."*
-
-Le pulsioni che spingono verso la separazione sono:
-- **Pulsione sessuale**: per sua natura prevede il distacco
-- **Pulsione aggressiva**: spinge verso l'esterno della famiglia
-- **Pulsione sociale**: in preadolescenza si manifesta come fame di nuovi oggetti
-
-Il processo comporta una **posizione depressiva**: si vive un lutto per la perdita del legame simbiotico dell'infanzia. È sano. Non va patologizzato.
-
-**Nella contemporaneità**, questo processo è cambiato: ci si separa meno per trasgressione, più per **delusione**. Il passaggio adolescenziale è sempre più narcisistico (non edipico): l'adolescente non si costruisce contro qualcuno, ma attraverso lo sguardo dell'altro. La vergogna narcisistica ("non valgo abbastanza") ha sostituito la colpa edipica ("ho fatto una cosa sbagliata").
-
-Il rischio per gli adulti di riferimento: banalizzare o al contrario patologizzare. Il genitore "sufficientemente buono" è quello che riesce a lasciarsi interrogare dall'adolescenza senza chiudersi. Anche il genitore vive un lutto: perde l'infanzia del figlio, la propria funzione, la propria giovinezza.
+Attenzione: queste tappe non sono stagne e sequenziali come sembra. Nella pratica ci si sposta avanti e indietro, si torna a riformulare, si modifica in corso d'opera. Non è un fallimento — è il normale funzionamento di un progetto ben gestito.
 
 ---
 
-### 2. Mentalizzazione del Corpo Sessuato
+## I Livelli di Partecipazione (O'Sullivan)
 
-Con la pubertà il corpo cambia biologicamente — e questo è solo l'inizio. Il compito è **integrare mentalmente** queste trasformazioni fisiche in una nuova immagine di sé.
+Prima di parlare dei modelli di progettazione, bisogna capire come varia il coinvolgimento dell'utenza. O'Sullivan (2011) identifica quattro livelli:
 
-Kestemberg disse: *"Benché attesa, la pubertà è sempre una sorpresa."*
+| Livello | Nome | Descrizione |
+|---------|------|-------------|
+| **A** | Esercizio della propria decisionalità (*Being in control*) | La persona decide autonomamente per sé. Massima autodeterminazione. |
+| **B** | Decisionalità condivisa (*Being a partner*) | Si raggiunge un accordo attraverso dialogo e negoziazione. È il **livello minimo** a cui un servizio dovrebbe aspirare. |
+| **C** | Essere consultati (*Being consulted*) | Le opinioni vengono considerate, ma la decisione finale è dei professionisti. |
+| **D** | Essere informati (*Being told*) | La decisione è già presa dai professionisti, l'utente viene semplicemente informato. |
 
-La **mentalizzazione del corpo** è il processo di elaborazione psichica della propria immagine corporea: frequenti conflitti connessi con l'accettazione o il rifiuto delle modificazioni fisiche. I rapidi cambiamenti richiedono una costante revisione dell'immagine di sé: chi sono io?
+Il livello D non è solo "poco ideale": è attivamente problematico. Chi usa solo questa modalità abbraccia, consapevolmente o no, una prospettiva **oppressiva/disabilitante** che rischia di generare percorsi istituzionalizzanti.
 
-Contenuti difficili da elaborare:
-- La propria **mortalità**: per la prima volta il corpo impone la consapevolezza che si finirà di vivere
-- La **complementarietà**: il corpo adulto è sessuato e generativo, richiede l'altro
+_Il professore sottolinea_ un punto importante: c'è spesso uno scarto enorme tra ciò che i servizi *dichiarano* di fare (spesso livello A o B) e ciò che *effettivamente* avviene (spesso C o D). Un progetto presentato come "partecipato" dove la famiglia può dire cosa vuole, ma poi nessuno la considera davvero — non è partecipazione.
 
-**Fattori interni** che influenzano il processo: biologici (anticipo vs. ritardo della pubertà), evolutivi, capacità cognitive e affettive.
-
-**Fattori esterni**: genitori (sostegno vs. critica), modelli culturali, pari.
-
-Nella contemporaneità si è spostato l'accento: meno difficoltà legate alla sessualità in senso stretto, più problematiche legate all'**immagine estetica** e alle aspettative dei canoni di bellezza. Dal "corpo erotico" al "corpo estetico".
-
-**La base neurobiologica** (Siegel, 2013): il cervello adolescente ha la corteccia prefrontale ancora in maturazione (controllo degli impulsi, pianificazione, percezione del rischio) mentre il sistema limbico (emozioni, sistema di ricompensa) è al massimo sviluppo. Questo crea un divario che produce: elevata reattività emotiva, ricerca di novità, gratificazione immediata (dopamina). Tre manifestazioni:
-1. Aumento dell'impulsività
-2. Maggiore predisposizione allo sviluppo di dipendenze
-3. Iper-razionalità (compensazione logica)
-
-> «Non si può, e non si deve, cercare di bloccare l'impeto dei ragazzi. Quello che si può fare è cercare di fare in modo che la spinta verso l'autonomia, la voglia di gratificazioni e la passione per le novità portino a risultati positivi nella vita.» (Siegel, 2013)
-
-In caso di difficoltà nel processo di mentalizzazione, il corpo non viene soggettivato: viene vissuto come entità separata dalla propria identità psichica. Qui nascono molti dei disturbi del corpo in adolescenza (automutilazioni, disturbi alimentari...). Il corpo diventa un linguaggio: per esternalizzare il disagio, per appropriarsi di qualcosa che sembra sfuggire di mano.
+Perché coinvolgere l'utenza funziona anche sul piano pratico: se qualcuno ha partecipato a costruire il proprio progetto, ci crede. Se invece gli viene presentato già confezionato, quasi certamente non aderirà. Pensa a un adolescente: puoi imporgli un progetto, ma cosa succede? Probabilmente lo rifiuta o lo sabota. Non per principio — semplicemente perché non è suo.
 
 ---
 
-### 3. Nascita come Soggetto Sociale
+## I Tre Approcci alla Progettazione
 
-Il terzo compito è **assumersi la responsabilità di un ruolo socialmente riconosciuto** tra i coetanei e nel contesto allargato, che consenta di progettare il proprio futuro.
+Leone & Prezza (2003) descrivono tre approcci collocati lungo un continuum che va dalla **massima pre-strutturazione** alla **massima apertura**:
 
-La scuola è diventata l'ambiente privilegiato di sperimentazione del proprio ruolo sociale: non tanto come luogo di apprendimento, ma come **spazio relazionale iperinvestito di significati affettivi**. Gli adolescenti dipendono enormemente dallo sguardo dei coetanei.
+```
+Sinottico-razionale ←————————————→ Euristico
+Max pre-strutturazione              Min pre-strutturazione
+              Concertativo-partecipato
+```
 
-> «Il rispecchiamento in adolescenza è vitale, tanto quanto lo è stato nei primi anni di vita.» (Lancini et al., 2020)
+### 1. Approccio Sinottico-Razionale
 
-L'evoluzione delle relazioni tra pari:
-- **Preadolescenza**: amicizie con lo stesso sesso, condivisione del tempo, cooperazione
-- **Prima adolescenza**: l'amico/a del cuore — le scelte oggettuali sono narcisistiche, prevale l'idealizzazione
-- **Adolescenza avanzata**: passaggio da gruppi monosessuali a gruppi misti, a carattere informale; intensa metacomunicazione sulla relazione amicale
+Questo è il modello "classico", nato dal pensiero scientifico razionale. L'idea di fondo: si possono individuare le cause di un problema, programmare una risposta precisa e prevedere il risultato.
 
-La socializzazione virtuale è una nuova realtà: non esiste oggi un adolescente senza supporto tecnologico. Ha anche significati affettivi profondi (avatar vs. fisico reale).
+**Come funziona**: l'operatore analizza la realtà, individua il problema, definisce gli obiettivi, pianifica le azioni, esegue, verifica. Il processo è lineare e sequenziale. La tappa centrale è la **progettazione scritta** — tutto il lavoro va nel produrre un documento dettagliato e preciso.
 
-**Sessualità in adolescenza** (Cirillo & Scodeggio, 2019): si parla di "recessione sessuale". La paura di non essere visti/amati porta a una sessualità più legata al narcisismo (ricerca di approvazione dell'immagine) che allo scambio emotivo autentico.
+**Partecipazione**: i soggetti coinvolti sono trattati come oggetti di analisi. Il livello di partecipazione è tendenzialmente il D (essere informati). L'operatore analizza la realtà e decide la soluzione ottimale.
 
----
+**Quando funziona bene**: su micro-apprendimenti specifici, procedure standardizzabili, contesti controllati. Esempio del professore: insegnare a lavarsi le mani a una persona con importanti difficoltà cognitive — procedura ripetuta, rinforzo positivo, risultato prevedibile in pochi giorni. Oppure: togliere il pannolino a un bambino. Funziona perché il problema è semplice, l'obiettivo è chiaro e le variabili sono limitate.
 
-### 4. Costruzione di Nuovi Valori e Ideali
+**Limiti**: non funziona dove c'è complessità, incertezza, variabilità. Non coglie i processi, i cambiamenti in corso, gli impatti imprevisti. Tende a generare dipendenza e assistenzialismo se applicato in contesti che non lo richiedono.
 
-Il quarto compito è **definire e formare un proprio sistema valoriale** di riferimento che orienti scelte e azioni.
+> _Secondo il professore_, non c'è un giudizio di valore tra i modelli. Un professionista formato sa quando usarli.
 
-L'adolescente incontra modelli alternativi ai genitori: amici, insegnanti, allenatori, operatori, personaggi della cultura. Deve fare una **sintesi personale** di tutti questi apporti per giungere alla definizione del proprio unico sistema di riferimento.
+### 2. Approccio Concertativo-Partecipato (Progettazione Dialogica)
 
-Nella contemporaneità: i bambini crescono già esposti a un numero enorme di modelli di identificazione (marketing, social media, influencer) prima ancora di arrivare all'adolescenza. Famiglia e scuola non sono più gli unici referenti.
+Nasce dalla critica al modello razionale, che aveva trascurato la dimensione processuale, relazionale e cognitivo-emotiva.
 
-Questo compito è **trasversale** agli altri tre: gli ideali influenzano come si vive il corpo, come ci si separa dai genitori, come si entra nel sociale.
+**Assunto di base**: i problemi sociali non hanno una causalità lineare. Esistono sempre più letture dei bisogni, più interpretazioni. Il ruolo del professionista non è distribuire soluzioni, ma aiutare ad "aiutarsi" — promuovere **empowerment**.
 
----
+**Come funziona**: la tappa dell'*attivazione* diventa centrale. Si costruiscono ipotesi condivise di lettura del problema con tutti gli attori coinvolti. Si co-costruisce il progetto, si negozia. La valutazione è in itinere, continua, partecipata.
 
-## Il dolore evolutivo e il sintomo
+**Partecipazione**: i destinatari sono **co-autori** del progetto, sia nella fase concertativa (lettura della situazione, definizione del bisogno) sia nella fase partecipativa (realizzazione). Il livello minimo è il B (decisionalità condivisa).
 
-(Lancini et al., *Il dolore evolutivo*)
+**Il dialogo come principio fondante**: Arnkil & Seikkula (2013) lo definiscono come "l'arte di valicare i confini". Non si tratta di controllare l'altro o convincerlo, ma di creare uno spazio dove tutte le voci possono essere ascoltate e i significati vengono co-costruiti. Un professionista del dialogo non cerca di cambiare l'altro — cerca di diventare parte di un processo di condivisione, accettando l'imprevedibilità delle relazioni umane.
 
-La crisi adolescenziale non è psicopatologia: è un **ritardo, un blocco, uno scacco nella realizzazione dei compiti evolutivi**. Va distinta da una vera psicopatologia adulta o infantile. L'adolescenza è una fase con una propria dignità, che merita processi diagnostici e clinici specifici.
+**Vantaggi**: maggiore motivazione, coinvolgimento e adesione al progetto. Il modello è **circolare**: si può tornare indietro in qualsiasi tappa, riformulare, ricalibrare. Questo non è debolezza — è flessibilità intelligente.
 
-Il **sintomo** in adolescenza ha una doppia funzione:
-1. **Segnala il disagio**: comunica il dolore, chiede aiuto
-2. **È un'autoterapia**: è il modo personale che l'adolescente ha trovato per gestire un dolore insopportabile senza perdere il senno
+Esempio del professore: presentare alla famiglia un progetto già scritto e finito, e poi chiedere se è d'accordo. Cosa può rispondere? L'unica risposta possibile è sì — ma non è partecipazione.
 
-> Qualsiasi agito dell'adolescente è una manifestazione sintomatica da prendere molto sul serio. Andrebbe abolita la frase "è stato un gesto dimostrativo" — lo è, e proprio per questo va drammatizzato, non minimizzato.
+### 3. Approccio Euristico (Problem Solving Cooperativo)
 
-Togliere il sintomo senza offrire un'alternativa è pericoloso. Il sintomo è una difesa. Il lavoro clinico deve **allearsi con il sintomo** per capirne le ragioni, poi aiutare l'adolescente a trasformarlo in parole.
+Il termine viene dal greco *eurisko* = ricerco. In questo approccio si rinuncia a definire obiettivi specifici a priori.
 
-Se l'adolescente non riesce a simbolizzare (mettere in parole i conflitti), agisce. L'obiettivo dell'intervento è rendere l'agito progressivamente meno urgente.
+**Assunto di base**: la realtà sociale è dinamica e in continua trasformazione. Non si può conoscerla in anticipo e poi progettare su di essa. Si conosce agendo dentro di essa, insieme alle persone che ci vivono.
 
----
+**Come funziona**: il processo parte dall'attivazione (analisi condivisa del contesto), e da lì emergono più sotto-progetti. La progettazione specifica è il *prodotto* del percorso, non il punto di partenza. Si usa molto la metodologia della **ricerca-azione**.
 
-## Il concetto di Adultescenza
+**Esempio del professore**: gruppo di adolescenti che la sera va al parco, rompe bottiglie, fa rumore. Il comune chiede all'educatore di fare un progetto. Risposta razionale: chiudere il cancello. Funziona? No — si spostano di cento metri. La risposta euristica è: andarci, stare con loro, capire cosa c'è sotto. Si scopre che non ci sono trasporti pubblici, il centro giovanile chiude presto, non ci sono altri spazi aggregativi. Il processo di ricerca rivela i bisogni reali, e da lì si costruiscono risposte con loro.
 
-(Marescotti, 2014)
+**Peculiarità**: l'imprevedibilità non è un problema — è contemplata. Il progetto cambierà. Si è già pronti. Si sa che ci si ritornerà sopra.
 
-**Adultescenza** è un neologismo — crasi di *adulto* e *adolescente* — che indica un adulto (tipicamente tra 20 e 35 anni) le cui condizioni di vita e mentalità sono simili a quelle di un adolescente. In inglese: *adultescent*, *kidult*; in francese: *adulescent*.
-
-È un fenomeno in crescita, collegato a:
-- Difficoltà economiche e sociali (costo degli alloggi, precarietà lavorativa)
-- Prolungamento degli studi
-- Modelli culturali che glorificano la giovinezza
-- Famiglie che non marcano confini generazionali chiari
-
-Il rischio: una prolungata mancanza di identità adulta che compromette le relazioni intergenerazionali e la capacità di assumere responsabilità. Il fenomeno è anche letto come conseguenza delle famiglie post-narcisistiche, dove i confini tra generazioni si sono molto assottigliati.
+**Collegamento con Brambilla**: questo approccio è quello che meglio valorizza la **dignità epistemica** dell'educatore e dell'utenza — entrambi sono portatori di sapere valido, non solo gli esperti.
 
 ---
 
-## Le fasi dell'adolescenza secondo Peter Blos (1962)
+## La Tabella Comparativa dei Tre Modelli
 
-Blos ha articolato l'adolescenza in **cinque fasi** evolutive:
-
-| Fase | Età indicativa | Caratteristiche principali |
-|------|---------------|--------------------------|
-| **Preadolescenza** | 9-13 anni | Turbolenza, agito, impulsi sessuali e aggressivi in prima linea |
-| **Prima adolescenza** | 11-14 anni | Identificazioni intense, amico del cuore, prime cotte; amicizie prevalentemente omosessuali |
-| **Adolescenza vera e propria** | 13-16 anni | Identificazioni multiple, gruppi misti, esplorazione dei valori |
-| **Tarda adolescenza** | 14-18 anni | Consolidamento dell'identità e dei ruoli |
-| **Postadolescenza** | 16+ anni | Stabilizzazione laboratoriale |
-
-Blos parla di **secondo processo di separazione-individuazione**: l'adolescenza come riedizione del primo processo dell'infanzia (Mahler), ma a un livello diverso — non separazione fisica dai genitori, ma separazione dagli oggetti genitoriali **interiorizzati**.
+| Modello | Progetto | Attori | Processo |
+|---------|----------|--------|----------|
+| **Sinottico-razionale** | Definito a priori "a tavolino". Prodotto chiuso, elementi noti. | Operatori sociali | Lineare, consequenziale. Responsabilità in capo all'operatore. |
+| **Concertativo-partecipato** | Co-costruito con tutti gli attori. Mutevole con i bisogni. | Operatori + protagonisti + reti formali/informali | Lettura condivisa → percorso partecipato. Responsabilità condivisa. |
+| **Euristico** | Non definito a priori. Esito di un processo di ricerca-azione. | Operatori + protagonisti + reti + comunità | Ricerca-azione condivisa → definizione progressiva degli obiettivi. Responsabilità condivisa. |
 
 ---
 
-## Le quattro caratteristiche della mente adolescente (Siegel, 2013)
+## L'Analisi del Contesto (Tramma, 2018)
 
-Siegel ha identificato quattro caratteristiche mentali che emergono dall'adolescenza — non difetti, ma **risorse**:
+Prima di qualsiasi progettazione, bisogna conoscere il contesto. Non è una formalità: è il presupposto. Quante progettazioni falliscono perché costruite senza conoscere davvero il territorio in cui si opera?
 
-| Caratteristica | Aspetto positivo | Rischio |
-|---------------|-----------------|---------|
-| **Ricerca di novità** | Curiosità, spirito d'avventura, apertura al cambiamento | Propensione al rischio, impulsività |
-| **Coinvolgimento sociale** | Legami di sostegno, amicizie profonde | Comportamenti di gruppo a rischio senza guida adulta |
-| **Intensità emotiva** | Energia, entusiasmo, vitalità | Sbalzi d'umore, reattività |
-| **Esplorazione creativa** | Pensiero innovativo, rottura dello status quo | Crisi di identità, pressioni del gruppo |
+Tramma (2018) propone una **mappatura del contesto** attraverso più "mappe". Come un esploratore che prima di costruire un sentiero studia il terreno da ogni angolazione.
 
-Queste qualità non vanno soffocate. Vanno canalizzate. E — attenzione — secondo Siegel sono proprio le qualità che gli adulti dovrebbero mantenere vive per non spegnersi nella routine.
+### Contesto Socio-Culturale
+
+- **Popolazione**: composizione anagrafica (giovani, adulti, anziani), genere, origine etnica/linguistica, struttura familiare, livello di istruzione, valori, religione. Ogni elemento dice qualcosa sui bisogni potenziali.
+- **Ambiente geografico-naturale**: come la geografia ha influenzato lo sviluppo economico e culturale. Il Ticino è un cantone costruito su turismo e servizi — e questo ha modellato la sua cultura, i suoi bisogni, le sue risorse.
+- **Ambiente urbanistico**: come è costruita la città, trasporti, accessibilità agli stabili, tipo di abitazioni. Dove vengono messi i servizi? Questi elementi incidono profondamente sull'autonomia e l'autodeterminazione delle persone.
+- **Situazione socio-economica**: condizione occupazionale, indici di reddito, aree di disoccupazione. Uno degli indicatori più forti della qualità della vita e dei bisogni potenziali.
+- **Mobilità**: non solo macchine e trasporti — tutti i movimenti delle persone. Migrazioni (in entrata e in uscita), spostamenti per lavoro, studio, aggregazione. _Il professore sottolinea_: si parla molto dei migranti che arrivano, ma quasi mai di chi va via e non torna — anche questo ha un impatto enorme sul territorio.
+- **Ambiente relazionale formale e informale**: quali spazi di aggregazione esistono? Centri culturali, centri giovanili, servizi per anziani, ma anche spazi informali come gruppi spontanei, centri sociali autogestiti. Tutto questo è risorsa.
+- **Servizi**: la mappa dei servizi alla persona — formazione, salute, assistenza, cultura, sport, tempo libero. Sono i possibili partner del lavoro educativo.
+- **Storia**: fondamentale. Non conoscere la storia di un territorio significa rischiare di ripetere errori già fatti — o di proporre progetti già tentati dieci anni prima che non hanno funzionato. _Il professore_: esistono servizi che propongono esattamente lo stesso progetto che era stato fatto e fallito anni prima, semplicemente perché nessuno aveva tenuto traccia.
+
+### Contesto Istituzionale
+
+Oltre al contesto socio-culturale, bisogna conoscere l'istituzione in cui si lavora:
+- Storia, valori e finalità istituzionali
+- Mandato (contratto di prestazione, sistema di gestione qualità)
+- Modello d'intervento e modello organizzativo
+- Composizione dell'equipe, ruoli e funzioni
+- Tipologia di utenza
+
+### Auto-Osservazione dell'Operatore
+
+Terzo livello di analisi: sé stessi. L'operatore deve conoscere:
+- Le proprie **premesse personali**: visione dell'uomo, della professione, dell'utenza
+- Le proprie **risorse e limiti**: competenze acquisite, meta-competenze di auto-osservazione, capacità critica e pratica riflessiva
+
+La pratica riflessiva inizia dall'osservazione di sé stessi all'interno del sistema in cui si opera.
 
 ---
 
-## Concetti chiave
+## La Ricercazione
+
+Il professore introduce il concetto di **ricercazione** (o ricerca-azione, *action research*): un paradigma scientifico che non vuole solo *conoscere* la realtà, ma *agire* su di essa per modificarla.
+
+In estrema sintesi: un ricercatore entra in un contesto, lo legge — ma non per descriverlo soltanto — per trasformarlo insieme alle persone che ci vivono. Conoscere, capire, modificare in meglio. Questo è molto simile a ciò che fa l'educatore nel lavoro quotidiano.
+
+Il professore anticipa che la ricercazione sarà trattata più in dettaglio nella lezione del 17 novembre, con le metodologie di osservazione partecipante.
+
+---
+
+## Due Citazioni, Due Sguardi
+
+La lezione si chiude con due citazioni che sintetizzano bene la filosofia di fondo del lavoro di progettazione:
+
+**Danilo Dolci** (educatore italiano attivo in Sicilia negli anni '50-'60, famoso per gli "scioperi al contrario" — organizzare la popolazione affinché andasse a ripulire le strade come forma di denuncia verso le istituzioni assenti):
+
+> "C'è pure chi educa, senza nascondere l'assurdo ch'è nel mondo, aperto ad ogni sviluppo ma cercando d'essere franco all'altro come a sé, sognando gli altri come ora non sono: ciascuno cresce solo se sognato."
+
+Vuol dire: l'operatore non vede le persone per quello che sono oggi, ma per quello che *possono diventare*. Il sogno è lo spazio della progettazione — e progettare è, in fondo, credere nel potenziale degli altri.
+
+**Martha Nussbaum** (filosofa americana, giustizia sociale):
+
+> "Nelle politiche della vita le persone sono considerate come i migliori giudici di ciò che è bene per loro... e quindi come partner responsabili e liberi, con le loro competenze esperienziali da mettere in gioco, a pari titolo con i sistemi esperti; altrimenti avviene che impedendo a loro di agire in base a scelte autonome, li trattiamo come bambini."
+
+Chiaro: non si può progettare *al posto* delle persone. Si progetta *con* loro. E quando non lo facciamo, li infantilizziamo — e priviamo il progetto delle informazioni più importanti.
+
+---
+
+## Concetti Chiave
 
 | Termine | Significato |
 |---------|-------------|
-| **Adolescenza** | Fase di transizione tra infanzia e adultità; inizia nella biologia (pubertà) e finisce nella cultura |
-| **Storm and stress** | Visione di Hall: adolescenza come fase drammatica di conflitto e instabilità |
-| **Identità vs. Confusione di ruoli** | V stadio di Erikson: sfida centrale dell'adolescenza |
-| **Moratoria psicosociale** | Periodo fisiologico di esplorazione identitaria senza piena responsabilità adulta |
-| **Stati dell'identità** | Modello di Marcia: acquisizione, moratorium, chiusura, diffusione |
-| **Rito di passaggio** | Atto simbolico che segna il cambiamento di status socioculturale (Van Gennep: separazione → margine → aggregazione) |
-| **Separazione-individuazione** | Processo di distacco affettivo dagli oggetti genitoriali interiorizzati |
-| **Mentalizzazione del corpo** | Integrazione psichica delle trasformazioni corporee puberali |
-| **Nascita come soggetto sociale** | Assunzione di un ruolo riconosciuto tra pari e nella società |
-| **Dolore evolutivo** | Sofferenza normale legata al blocco dei compiti evolutivi — non psicopatologia |
-| **Sintomo** | In adolescenza: segnale di disagio E tentativo di autoterapia; va ascoltato, non rimosso |
-| **Adultescenza** | Adulto con stile di vita e mentalità adolescenziali; fenomeno sociale in crescita |
-| **Corteccia prefrontale** | Area cerebrale in maturazione in adolescenza: controlla impulsi, pianificazione, valutazione del rischio |
-| **Sistema limbico** | Regola emozioni e ricompensa; al massimo sviluppo in adolescenza → divario con corteccia prefrontale |
+| **Progettazione** | Processo di trasformazione e cambiamento guidato dall'intenzionalità, che parte da una situazione presente e punta a una condizione auspicata nel futuro |
+| **Progettualità** | Postura professionale continua dell'operatore sociale, non attività episodica |
+| **Approccio sinottico-razionale** | Modello lineare e pianificato; l'operatore decide, obiettivi definiti a priori, processo consequenziale |
+| **Approccio concertativo-partecipato** | Co-costruzione del progetto con tutti gli attori, dialogo e negoziazione centrali, circolarità del processo |
+| **Approccio euristico** | Ricerca-azione partecipata; obiettivi definiti in corso d'opera, massima apertura all'imprevisto |
+| **Ricercazione** | Paradigma scientifico che coniuga conoscenza e trasformazione della realtà attraverso l'azione |
+| **Empowerment** | Processo di valorizzazione delle potenzialità delle persone per accrescerne l'autodeterminazione |
+| **Dignità epistemica** | Il sapere delle persone con esperienza diretta (utenza e operatori) è valido e va riconosciuto |
+| **Postura progettuale** | Atteggiamento riflessivo e intenzionale che caratterizza il professionista del lavoro sociale |
+| **Ansia applicativa** | Tendenza a voler applicare subito soluzioni, senza spazio per la ricerca e la riflessione |
+| **Livelli di partecipazione** | Scala A-D di O'Sullivan: da massima autodeterminazione (A) a semplice informazione (D) |
+| **Analisi del contesto** | Mappatura sistematica del territorio (popolazione, urbanistica, economia, storia, servizi...) prima di progettare |
 
 ---
 
-## Autori e riferimenti
+## Autori e Riferimenti
 
 | Autore | Contributo | Anno |
 |--------|-----------|------|
-| Stanley Hall | Prima teorizzazione sistematica dell'adolescenza; *storm and stress*, seconda nascita | 1904 |
-| Margaret Mead | Ruolo della cultura; studio di Samoa | 1928 |
-| Erik Erikson | Identità vs. confusione di ruoli; moratoria psicosociale | 1968-1982 |
-| James Marcia | Quattro stati dell'identità | 1966 |
-| Arnold Van Gennep | Riti di passaggio: tre fasi | 1909 |
-| Émile Durkheim | Funzione sociale del rito | 1912 |
-| Lévi-Strauss | Rito come illusione di continuità | — |
-| Peter Blos | Cinque fasi dell'adolescenza; secondo processo di separazione-individuazione | 1962 |
-| Palmonari | Identità e concetto di sé nell'adolescenza | 1997 |
-| Maggiolini & Charmet | Quattro compiti evolutivi fase-specifici | 2004 |
-| Lancini et al. | Dolore evolutivo; psicoterapia evolutiva | 2020 |
-| Daniel Siegel | Quattro caratteristiche della mente adolescente; sviluppo cerebrale | 2013 |
-| Marescotti | Adultescenza come sfida educativa | 2014 |
-| Evelyne Kestemberg | Metafore sull'adolescenza; pubertà come sorpresa | 1986 |
-| Robert Havighurst | Compiti evolutivi; risoluzione positiva → felicità e successo | 1952 |
+| Traverso | Metafora dell'educatore come artista che immagina il futuro | 2016 |
+| Kanisza & Tramma | Definizione della progettazione educativa e sociale | 2011 |
+| Paradiso | La progettazione educativa e sociale — definizione e modelli | 2020 |
+| Brambilla | La progettazione pedagogica — postura progettuale | 2023 |
+| Leone & Prezza | Costruire e valutare i progetti nel sociale — cinque tappe, tre approcci | 2003 |
+| O'Sullivan | Quattro livelli di partecipazione nei progetti | 2011 |
+| Bobbo & Moretto | La progettazione educativa in ambito sanitario e sociale | 2020 |
+| Tramma | Pedagogia sociale — analisi del contesto | 2018 |
+| Arnkil & Seikkula | Nuovi approcci dialogici al lavoro di rete | 2013 |
+| Danilo Dolci | Educatore italiano — "ciascuno cresce solo se sognato" | — |
+| Martha Nussbaum | Filosofa americana — dignità e autodeterminazione delle persone | 2002 |
 
 ---
 
 ## Collegamenti
 
-- **Lezioni precedenti:** Il secondo processo di separazione-individuazione di Blos richiama direttamente il primo processo dell'infanzia (Mahler) trattato in sessioni precedenti. Il tema dell'identità si collega anche alla lezione sullo sviluppo del Sé.
-- **Temi aperti:** La sessione successiva approfondirà il seminario pratico con casi clinici. L'adultescenza e la scomparsa dei riti aprono a riflessioni sul modello familiare contemporaneo e sul ruolo del lavoratore sociale come adulto di riferimento.
+- **Blocco precedente**: la progettazione è stata accennata come "postura professionale" e "forma mentis" — questa lezione le dà forma sistematica e struttura concettuale.
+- **Lezione 17 novembre**: ricercazione e metodologie di osservazione partecipante.
+- **Laboratorio in pratica professionale**: la dimensione individuale del progetto educativo (PEI) sarà centrale nello stage del primo semestre; le dimensioni di gruppo e comunitarie arriveranno nei moduli successivi.
+- **Temi aperti**: le prossime lezioni approfondiscono ogni singola fase della progettazione, gli elementi del progetto, e la valutazione in itinere e finale.

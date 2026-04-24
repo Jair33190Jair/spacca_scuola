@@ -1,0 +1,503 @@
+percorsi nella disabilità     
+Dispensa ICF                              
+marzo 2026 
+ 
+Perché conoscere l’ICF?   
+- 
+È utile per la valutazione della situazione globale delle persone 
+- 
+È utile per la definizione disabilità di ogni persona e la sua presa a carico 
+- 
+È utile da un punto di vista pratico per: 
+o 
+la costruzione del PEI 
+o 
+la definizione degli obiettivi condivisi 
+o 
+la definizione delle azioni educative 
+o 
+l’osservazione delle azioni educative 
+o 
+la valutazione delle azioni educative  
+- 
+È uno strumento riconosciuto internazionalmente 
+- 
+Introduce un linguaggio condiviso  
+- 
+È utile per la raccolta dei dati e per le ricerche 
+ 
+Cos’è L’ICF ? 
+• 
+È la Classificazione Internazionale del Funzionamento, della Disabilità e della Salute (ICF) fa parte 
+della Famiglia delle Classificazioni Internazionali dell’OMS 
+• 
+Fu elaborata nel 2001 come strumento che analizza e descrive la disabilità come  “esperienza“, come 
+“ condizione“ umana che tutti possono sperimentare 
+ 
+Il modello ICF si evolve a partire dal concetto di salute promossa dall’OMS: 
+ 
+• 
+“La salute è una componente fondamentale della nostra vita. L'Organizzazione mondiale della sanità 
+OMS la definisce «uno stato di completo benessere fisico, mentale e sociale e non semplice assenza 
+di malattia (…) Secondo la definizione dell'OMS, (...) La salute è un concetto positivo che valorizza le 
+risorse personali e sociali, come pure le capacità fisiche ” 
+ 
+  https://www.edi.admin.ch/edi/it/home/temi/salute-e-promozione-della-salute.html 
+ 
+• 
+Il concetto di salute definito dall’OMS si è evoluto dal significato di “assenza di malattia” ad un 
+concetto più articolato e complesso che tende verso una piena armonia e un sano equilibrio 
+fisico, psichico, spirituale e sociale.  
+Secondo l’OMS per definire lo stato di salute di una persona non basta solo l’esame clinico ed obiettivo 
+(assenza di malattia, disturbi o lesioni...) ma   è necessario considerare anche le dimensioni del suo 
+funzionamento umano (fisico, psicologico, personale, familiare e sociale) e l’ambiente in cui vive. 
+• 
+ La salute non riguarda solo alcune parti di un individuo (fegato, polmoni..) ma è uno stato di piena 
+forma dell'intera persona;  
+• 
+ La salute è essenzialmente legata al funzionamento umano a tutti i livelli (biologico, personale e 
+sociale);  
+• 
+ La salute non può essere separata dal contesto o ambiente in cui la persona vive. La salute quindi 
+interagisce con l'ambiente e l'ambiente interagisce con la salute; 
+  
+• 
+La salute è una risorsa per la vita quotidiana e non lo scopo dell’esistenza. Si tratta di un concetto 
+positivo che valorizza le risorse sociali e personali, oltre alle capacità fisiche.  
+ 
+ 
+ 
+ 
+                           Ottawa Charter for Health Promotion. WHO, Geneva, 1986  
+ 
+ 
+ 
+• 
+L’ICF appartiene alla famiglia delle classificazioni internazionali ed è stato realizzato dall’OMS. È uno 
+strumento utilizzato internazionalmente per descrivere, misurare e classificare salute e 
+disabilità. Tramite l’ICF è possibile ricavare informazioni strutturate sulla salute delle persone sia a 
+livello delle funzioni (inclusa la sfera mentale) e delle strutture dell’organismo umano, sia a livello 
+dell’attività di una persona e della sua partecipazione alle situazioni di vita.
+
+---
+
+Con l’introduzione dell’ICF si assiste quindi ad un CAMBIO DI PARADIGMA: 
+ 
+ si passa da modelli medici individuali e riabilitativi (DSM- ICD) 
+ a modelli  BIO-PSICO-SOCIALI (ICF- PPH)  
+ 
+in cui la persona è considerata nella sua completezza ed in relazione con IL CONTESTO. 
+ 
+cambio di paradigma: 
+• 
+Con l’ICF si analizza la vita delle persone, dei modi con cui esse convivono con le loro patologie e le 
+affrontano in diversi contesti.  
+• 
+La disabilità è definita dalle relazioni che intercorrono tra le condizioni della persona e i  fattori 
+contestuali.  
+• 
+La persona non è abile o dis-abile, la persona ha delle caratteristiche che sono influenzate da fattori 
+interni e/o esterni, caratteristiche e fattori ne definiscono il funzionamento e la partecipazione sociale.  
+• 
+Tramite l’ICF è possibile individuare i punti di debolezza/deficit e anche di forza, i bisogni e le attitudini, 
+il funzionamento o la disabilità.  
+• 
+Si mettono in evidenzia le risorse personali e contestuali, presenti o necessarie, da potenziare o da 
+attivare. 
+ 
+• 
+L’ICF è un modello multidisciplinare e multidimensionale infatti integra tre dimensioni: 
+1. Quella biologica (condizioni di salute) 
+2. Quella psichica (fattori personali) 
+3. Quella sociale (fattori ambientali) 
+ 
+• 
+L’ICF è un modello interattivo che considera le relazioni tra funzioni, strutture corporee, attività, 
+partecipazione ed ambiente.  
+• 
+Un’analisi senza tutti questi elementi non ci permetterebbe di valutare il funzionamento di una persona 
+nella sua completezza, cioè sia a livello personale che nella partecipazione sociale.  
+• 
+Esistono due versioni dell’ICF, quello classico e quello con dicitura ICF-CY (ovvero Children and 
+Youth). Una prima traduzione italiana è del 2002 relativa alla prima edizione OMS del 2001. 
+• 
+La prima versione si occupa prevalentemente della classificazione del funzionamento degli adulti, la 
+seconda è una derivazione dell’ICF nata nel 2007 e si occupa degli standard di funzionamento dei 
+bambini e dei giovani dai 0 ai 18 anni. 
+• 
+Inoltre esiste una versione breve, con livelli di classificazione ridotti 
+• 
+L’ ICF fornisce sia un linguaggio unificato e standard, sia un modello concettuale di riferimento per la 
+descrizione della salute e degli stati ad essa correlati. 
+• 
+L’ICF è uno strumento utilizzato per le analisi e le ricerche. 
+• 
+È considerata un complemento dell’International Statistical Classification of Diseases and Related 
+Health Problems 10th revision (ICD-10) che è una classificazione delle malattie internazionale 
+pubblicato nel 1970 sempre dall’OMS. L’ICD serve per la diagnosi delle patologie,  individua  le cause 
+(etiopatologia), descrive le principali caratteristiche e fornisce le indicazioni diagnostiche  delle 
+patologie, è un modello medico.
+
+---
+
+Come usare  l’ICF? 
+ - Partiamo  dalla struttura 
+ 
+«Le infomazioni fornite dall’ICF sono una descrizione delle situazioni che riguardano il funzionamento umano 
+e le sue restrizioni, e la classificazione serve da modello di riferimento per l’organizzazione delle 
+informazioni…» 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+introduzione ICF 
+ 
+L’ICF organizza le informazioni in 2 parti, che a loro volta si dividono in componenti e descrivono ogni 
+aspetto della persona dal punto di vista biologico, psicologico e sociale. 
+ 
+Le componenti si dividono ulteriormente in domini. I domini sono insiemi di funzioni fisiologiche, strutture 
+anatomiche, azioni, compiti o aree della vita correlate tra loro e costituiscono i diversi capitoli e i blocchi 
+all’interno di ciascuna componente. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Questa struttura permette di assegnare un codice alfanumerico a ciascuna delle possibili dimensione del 
+funzionamento di una persona. 
+A ciascun codice si associa un costrutto o qualificatore in base alla valutazione dello stato di salute di una 
+persona da parte di un operatore (sanitario, sociale, educativo ...).  
+• 
+La prima parte è dedicata all’accertamento del funzionamento e delle disabilità suggerendo un elenco 
+e una classificazione delle funzioni e delle strutture corporee, delle attività quotidiane che 
+generalmente le persone sono chiamate a svolgere e dei livelli di partecipazione.  
+• 
+La seconda parte elenca i fattori contestuali che possono esercitare impatti significativi sulla vita 
+delle persone. Vengono considerate sia le componenti fisiche e sociali degli ambienti di vita, sia i fattori 
+personali.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ICF
+Prima parte 
+FUNZINAMENTO E 
+DISABILITÀ
+funzioni 
+corporee
+8 DOMINI
+strutture 
+corporee
+8 DOMINI
+attività e 
+partecipazione
+9 DOMINI
+Seconda parte:
+FATTORI CONTESTUALI
+fattori ambientali
+5 DOMINI
+fattori personali
+
+---
+
+PRIMA PARTE  
+Le funzioni corporee: sono le funzioni fisiologiche dei sistemi corporei (incluse le funzioni psicologiche)* 
+ 
+Sono divise in 8 domini:   
+1- funzioni mentali (globali e specifiche: coscienza, orientamento, intellettive, sonno, attenzione, memoria…) 
+2- funzioni sensoriali e dolore (sensoriali e dolore) 
+3- funzioni della voce e dell’eloquio (articolazione, fluidità…) 
+4- funzioni del sistema cardiovascolare, ematologico, immunologico e respiratorio (esercizio fisico, 
+sensazioni associate…) 
+5- funzioni dell’apparato digerente  e dei sistemi metabolico ed endocrino (ingestione, digestione, 
+metaboliche…) 
+6- funzioni genitourinarie e riproduttive 
+7- funzioni neuro – muscoloscheletriche e correlate al movimento (articolazioni, ossa,muscoli, movimento) 
+8- funzioni della cute e strutture correlate (cute, peli, capelli, unghie) 
+* definizione introduzione ICF
+
+---
+
+Attività  e partecipazione sono rispettivamente: 
+- 
+L’esecuzione di un compito o di un’azione da parte di un individuo 
+- 
+Il coinvolgimento in una situazione di vita* 
+Sono divise in 9 domini: 
+1- apprendimento e applicazione delle conoscenze (guardare,ascoltare, copiare…) 
+2- compiti e richieste generali (intraprendere, gestire, eseguire) 
+3- comunicazione (ricevere, produrre, conversare…) 
+4- mobilità (camminare,trasportare, cambiare mantenere posizione…) 
+5- cura della propria persona (lavarsi, vestirsi, mangiare…) 
+6- vita domestica (procurarsi i beni, svolgere compiti, prendersi cura) 
+7- interazioni e relazioni interpersonali (entrare in relazioni e semplici, complesse, formali, intime…) 
+8- aree di vita principali (istruzione, lavoro, vita economica) 
+9- vita sociale, civile e di comunità (ricreazione, diritti, religione) 
+* definizione introduzione ICF 
+ 
+• 
+Attività  e partecipazione sono osservate nei vari contesti di vita e poi qualificate distintamente in 
+PERFORMANCE (osservazione in ambiente attuale, magari adattato) O CAPACITÀ (osservazione 
+in ambiente standard).  
+La performance è ciò che una persona effettivamente fa. Essa appare quindi come risultato dell’interazione 
+dei fattori ambientali sul funzionamento, ed è quindi strettamente dipendente dall'ambiente. La performance 
+descrive quello che l’individuo fa nel suo ambiente attuale e reale, e quindi introduce l’aspetto del 
+coinvolgimento di una persona nelle situazioni di vita. Tramite essa, è possibile valutare il grado di difficoltà 
+incontrato dalla persona nello svolgere attività e azioni di partecipazione alla vita sociale nei suoi contesti di 
+vita abituali con i sostegni in atto.  
+La capacità è ciò che una persona può fare ed è una caratteristica intrinseca di quella persona. Essa quindi 
+è indipendente dall'ambiente e descrive il funzionamento della persona in un ambiente neutro che non facilita 
+e non ostacola. Indica il più alto livello probabile di funzionamento che una persona può raggiungere in un 
+momento determinato in un dominio.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+L’insieme delle componenti descritte finora (cioè funzioni e strutture corporee da un lato e attività e 
+partecipazione dall’altro) nella sua espressione positiva esprime il funzionamento, mentre in accezione 
+negativa esprime la disabilità; funzionamento e disabilità costituiscono la prima parte della classificazione. 
+costrutti
+componenti
+prima parte
+FUNZIONAMENTO E 
+DISABILITA’ 
+FUNZIONI E 
+STRUTTURE 
+CORPOREE
+Cambiamento 
+nelle funzioni 
+corporee
+(fisiologiche e 
+psicologiche)
+Cambiamento 
+nelle strutture 
+corporee
+(anatomia)
+ATTIVITÀ E 
+PARTECIPAZIONE
+Capacità di  
+eseguire compiti 
+in un ambiente 
+standard 
+(es: senza ausili)
+Performance
+nell’eseguire 
+compiti 
+nell’ambiente 
+attuale (es: con 
+ausili)
+
+---
+
+SECONDA PARTE  
+ 
+ 
+Fattori contestuali che includono i fattori ambientali e  i fattori personali. 
+I fattori ambientali (influenze che arrivano dall’esterno) sono gli atteggiamenti, l’ambiente fisico e sociale 
+in cui le persone vivono e conducono la loro esistenza* 
+ 
+sono di visi in 5 capitoli : 
+1- prodotti e tecnologia 
+2- ambiente naturale e cambiamentti effettuati dall’uomo 
+3- relazioni e sostegno sociale 
+4- atteggiamenti 
+5- servizi, sistemi e politiche 
+* definizione introduzione ICF 
+ 
+I fattori personali (influenze che arrivano dall’interno) sono il backgound personale della vita  e 
+dell’esistenza dell’individuo e rappresentano quelle caratteristiche dell’individuo ... I fattori personali non sono 
+classificati nell’ICF…* 
+ 
+Possiamo considerare fattori personali: 
+Sesso, razza, età, forma fisica, stile di vita, abitudini, educazione,  capacità di adattamento, backgaound 
+sociale,, istruzione, professione, esperienze, modelli, stile caratteriale…non classificabili ed elencabili a 
+causa della loro grande varietà 
+* definizione introduzione ICF 
+ 
+ 
+Nella seconda parte, si trovano i fattori ambientali e personali, cioè i  fattori contestuali.  
+Che interagiscono con tutte le componenti del funzionamento e della disabilità e infatti possono avere 
+ripercussioni positive (facilitatori) o negative (barriere) sullo stato di salute.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+costrutti
+componenti
+seconda parte
+FATTORI 
+CONTESTUALI
+FATTORI 
+AMBIENTALI
+Impatto 
+facilitante o 
+ostacolante del 
+mondo esterno 
+FATTORI 
+PERSONALI
+Impatto delle 
+caratteristiche 
+della persona
+
+---
+
+Come usare  l’ICF, LA CODIFICA E I QUALIFICATORI 
+ 
+L’ICF adopera un sistema alfanumerico nel quale le lettere indicano le componenti: b (body), s (structure), d 
+(domain), e (environment):  
+• 
+b          le Funzioni Corporee (parte 1) 
+• 
+s          le Strutture Corporee (parte 1) 
+• 
+d          le Attività e la Partecipazione  (parte 1) 
+• 
+e          i Fattori Ambientali  (parte 2) 
+ 
+ 
+All’interno di ognuna sono presenti delle sotto-componenti per livelli di progressiva specificazione.  
+Le lettere sono quindi  seguite da un codice numerico che inizia con il numero del capitolo (una cifra), seguito 
+dal secondo livello (due cifre) e dal terzo e quarto livello (una cifra ciascuno). 
+Esempio: s2204 cristallino. (s2 occhio, orecchio e strutture correlate, s220 struttura del bulbo)
+
+---
+
+Esempio: b 167, Funzioni mentali del linguaggio. 
+ 
+ 
+ 
+Funzioni mentali specifiche del riconoscimento e dell’utilizzo dei segni,  simboli e altri componenti di 
+un linguaggio. 
+• 
+b 1670 recepire il linguaggio 
+• 
+b 16700 recepire il linguaggio verbale. 
+Le categorie dell’ICF sono inserite l’una nell’altra in modo che le categorie più ampie includano 
+sottocategorie più dettagliate.* 
+* introduzione ICF 
+ 
+ 
+ 
+ 
+La codifica in sé non assume significato se priva di una valutazione che esprima il grado di difficoltà che quella 
+persona manifesta in uno specifico ambito del suo stato di salute e all’interno di una particolare interazione 
+con l’ambiente in cui vive.  
+La descrizione dei domini della salute e di quelli ad essa correlati si riferisce al loro uso in un dato momento 
+(come un’istantanea). E’ possibile tuttavia descrivere una traiettoria nel tempo e nel corso dei processi 
+registrando punteggi in momenti diversi. 
+ 
+I costrutti assumono significato, utilizzando i qualificatori che offrono un valutazione 
+I qualificatori sono: 
+• 
+Codici numerici che specificano l’estensione o la gravità del funzionamento o della disabilità 
+• 
+Codici numerici che indicano il grado in cui un fattore ambientale rappresenta un facilitatore (+) o 
+una barriera. 
+• 
+qualificare l’informazione significa misurare l’entità della difficoltà che una persona manifesta in un 
+determinato aspetto del suo funzionamento.  
+• 
+I codici ICF richiedono l’uso di uno o più qualificatori che denotano l’entità del livello di salute; ogni 
+codice è qualificato secondo una struttura numerica che definisce la gravità della difficoltà.  
+• 
+Dopo il codice si scrive un punto e poi il qualificatore pertinente alla componente che si sta 
+esaminando
+
+---
+
+• 
+Attività e partecipazione sono definite con  due qualificatori, che indicano, sempre su 5 livelli, 
+rispettivamente la «capacità» e la «performance» della persona. 
+• 
+I fattori Ambientali hanno un solo qualificatore: barriere o facilitatori del funzionamento della persona 
+( + o -). 
+ 
+ 
+• 
+Un facilitatore è un fattore ambientale in grado di modificare in termini positivi il funzionamento 
+della persona in una specifica attività. 
+-  Sono fattori che mediante la loro presenza migliorano il funzionamento e   riducono la disabilità, possono 
+evitare che una menomazione o una limitazione diventino una restrizione della partecipazione 
+• 
+Una barriera è invece un fattore nell’ambiente di un individuo che limita il suo funzionamento e crea 
+o amplifica la disabilità.  
+- 
+Sono fattori che mediante la loro presenza limitano il funzionamento e  creano  disabilità, sono 
+ostacoli all’attività e alla partecipazione 
+ 
+ 
+Nel nostro lavoro, la valutazione puo’ servire per la progettazione del PEI e degli interventi che, a partire 
+dalla condizione complessiva di vita di una singola persona, tendano a:  
+• 
+ridurre l’impatto delle difficoltà di una persona sui suoi livelli di partecipazione sociale;  
+• 
+potenziare le sue risorse e ad utilizzare le sue capacità; 
+• 
+individuare in che modo le barriere ambientali, sociali e psicologiche  la condizionano;  
+• 
+Definire il PEI  
+• 
+ricercare strumenti e tecniche per lo svolgimento del PEI 
+ 
+Dalla qualificazione, a dipendenza del costrutto potrebbe seguire: 
+• 
+una menomazione (funzioni, strutture del corpo) 
+• 
+una limitazione (nell’eseguire un’attività) 
+• 
+una restrizione (partecipazione, coinvolgimento) 
+• 
+una barriera (fattori contestuali) 
+ 
+ 
+ 
+ 
+PER CONCLUDERE 
+           …noi siamo parte e siamo responsabili dell’ambiente, 
+lasciamo il segno per come siamo e come agiamo.     
+ 
+ 
+ 
+BIBLIOGRAFIA  :   
+Ianes D (2004), La diagnosi funzionale secondo l’ICF, Erickson 
+OMS (2001), Classificazione internazionale del Funzionamento, della Disabilità e della Salute (ICF), 
+Erickson 
+Check List – Versione Breve PDF- who.int

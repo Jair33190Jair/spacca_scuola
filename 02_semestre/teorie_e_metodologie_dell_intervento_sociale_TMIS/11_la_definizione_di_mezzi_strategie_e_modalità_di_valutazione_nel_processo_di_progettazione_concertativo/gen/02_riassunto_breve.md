@@ -1,107 +1,66 @@
-# Introduzione al modulo di Salute Mentale — Sintesi
-Salute Mentale · Sessione 01
+# Mezzi, Strategie e Modalità di Valutazione — Sintesi
+TMIS · Sessione 11
 
-> Salute, benessere e normalità: tre parole che
-> sembrano semplici, ma non lo sono per niente.
-> Questa lezione smonta le certezze e costruisce
-> basi solide per tutto il modulo.
-
-## Struttura del modulo
-
-- Tre tappe: **clinica**, **mondo**, **corpo**
-- Attraversate da: spazio, tempo, identità,
-  incontro
-- L'operatore sociale come ponte tra discipline
-  specialistiche, non specialista di una sola
-
-## Salute: le 7 condizioni di Boorse (1977)
-
-Nessuna delle sette regge da sola:
-- **Valore** — non universale: contesti in cui
-  la malattia è "preferibile" esistono
-- **Trattamento medico** — la medicina colonizza
-  ambiti non patologici
-- **Norma statistica** — fuori dalla media ≠ malato
-- **Sofferenza** — malattie asintomatiche e
-  dolori fisiologici esistono
-- **Disabilità** — fasi di "non abilità" sono
-  normali nella vita (neonato, sonno)
-- **Adattamento** — l'uomo adatta anche l'ambiente
-  a sé, non solo il contrario
-- **Omeostasi** — la vita si fonda sulla rottura
-  e riconquista dell'equilibrio, non sull'equilibrio
-  statico
-
-## Disease, illness, sickness
-
-- **Disease** → dimensione biomedica (misurabile)
-- **Illness** → vissuto soggettivo della persona
-- **Sickness** → riconoscimento/stigma sociale
-- Le tre dimensioni possono non coincidere — e lo
-  stigma sociale peggiora l'andamento della malattia
-
-## Benessere: le 6 dimensioni di Ryff
-
-- **Autonomia** — autodeterminarsi senza dipendere
-  dagli altri per ogni scelta
-- **Controllo ambientale** — valorizzare le risorse
-  disponibili
-- **Relazioni positive** — relazioni calde, fiduciose,
-  reciproche
-- **Autoaccettazione** — consapevolezza di qualità
-  e limiti
-- **Percezione di crescita** — sentire di evolvere
-- **Scopo nella vita** — avere mete e dare senso
-
-Salute ≠ benessere. Si può stare bene senza essere
-in salute (Terzani) e male pur essendo "sani".
-Per l'operatore: queste dimensioni rendono il lavoro
-sul benessere *concreto e operativo*.
-
-## Tre tipi di normalità
-
-- **Statistica** — nella media; fuori dalla norma
-  porta stigma
-- **Di valore** — ideale irraggiungibile → sofferenza
-  perpetua; attenzione: anche i *nostri* ideali sugli
-  utenti possono diventare penalizzanti
-- **Personale** — rispetto a come funzionavo prima;
-  attenzione a non idealizzare il passato, e a non
-  considerare quella normalità come obiettivo se era
-  proprio lei la causa del problema
-
-## Posizione del soggetto verso la malattia
-
-Due assi: **identificazione** con la condizione ×
-**agentività** (attivo/passivo)
-
-- Passivo + non identificato → **delega** ("guariscimi")
-- Agentivo + non identificato → **guarigione** come
-  unico obiettivo
-- Agentivo + identificato → **cura**: lavora sul
-  benessere dentro la condizione
-
-Passaggio chiave: dalla guarigione alla cura.
-*To cure* ≠ *to care*: la cura è sempre possibile,
-anche quando la guarigione non lo è.
-
-## La tragedia greca
-
-- Dispositivo pedagogico parallelo al modulo
-- 5 gruppi, 5 tragedie per estrazione
-- Tappe: leggere → condividere → sintetizzare →
-  mettere in scena (~20 min)
-- Allena: ascolto di linguaggi non familiari, lavoro
-  di équipe, sintesi, capacità di rinuncia
-- Quest'anno tutte le tragedie convergono sulla
-  violenza sulle donne nei conflitti armati —
-  tema antico e attualissimo (Nadia Murad, Congo,
-  Iraq)
+> Ultimo tassello del modulo sulla progettazione. Tutto quello che hai imparato nelle lezioni 09 e 10 trova qui la sua cornice: la postura artigianale. Rileggila spesso — all'esame torna.
 
 ---
 
-**Da ricordare:** salute, benessere e normalità
-sono tre concetti distinti ma intrecciati. La cura
-è sempre possibile, anche quando la guarigione non
-lo è. Il contesto è fondamentale per interpretare
-qualsiasi comportamento.
+## La postura artigianale
+
+- Progettare bene = dialogo continuo tra **fare e pensare**
+- Non si usano ricette preconfezionate: si fa **ricerca costante**
+- Si va dal "come" al "perché" — si evitano le scorciatoie
+- L'**artigianalità è minacciata** dai ritmi veloci e dalla standardizzazione tecnica
+- L'errore non è un fallimento: è l'occasione per costruire nuova complessità
+- La **concettualità si incorpora** con la pratica — più si progetta, più il pensiero progettuale diventa parte di sé
+- Il **clima lavorativo** conta: senza dignità e autonomia professionale, la postura artigianale non è possibile
+
+## Fase di Attivazione: risorse e limiti
+
+- Attivare = capire **strumenti disponibili**, **limiti** e **mandato**
+- Fase di tensione creativa: molte idee, bisogna scegliere
+- Il professionista non è neutro: porta con sé storia, valori, pregiudizi → **riflessività obbligatoria**
+
+## Fase di Scrittura
+
+- Scrivere **congela il pensiero** e obbliga a chiarire le ambiguità
+- La prima bozza sarà imperfetta: normale e necessario
+- Il progetto scritto rende il lavoro **visibile agli altri** e sancisce la **corresponsabilità** (firmato da tutti)
+- Conta anche **cosa non si scrive**: in équipe si negozia cosa includere, non si ha piena autonomia individuale
+
+## Fase di Realizzazione
+
+- Non è l'esecuzione meccanica di un piano: è un processo **vivo e adattivo**
+- Obiettivo: **emancipazione**, non gestione
+- Ogni progetto è **unico** — stesso mandato, stessa équipe → risultati sempre diversi
+- Le ambiguità emergenti **vanno esplorate**, non ignorate: spesso portano i cambiamenti più significativi
+- Gli indicatori di realizzazione sono **personalizzati** (es. per una persona "trovare lavoro", per un'altra "riuscire ad andare al servizio con costanza")
+
+## Fase di Verifica
+
+- Sempre **collettiva**: coinvolge tutti gli attori (utente, famiglia, professionisti)
+- Linguaggio **semplice e accessibile** per tutti
+- Considera anche gli **esiti inattesi** positivi e negativi
+- Non è la parola finale: è una **spinta al miglioramento** continuo
+
+### Valutazione in itinere vs. verifica finale
+
+| | Valutazione in itinere | Verifica finale |
+|--|----------------------|-----------------|
+| Quando | Durante il progetto | Al termine |
+| Scopo | Orientare e modificare in corso | Valutare scarto attese/risultati |
+| Come | Colloqui frequenti, osservazione | Valutazione collettiva condivisa |
+
+## La dimensione artigianale per fase
+
+| Fase | Postura artigianale |
+|------|---------------------|
+| **Ideazione** | Curiosità, postura aperta, niente giudizi preconcetti |
+| **Attivazione** | Conoscere strumenti, limiti, mandato — senza automatismi |
+| **Scrittura** | Precisione, negoziazione, chiarire le ambiguità |
+| **Realizzazione** | Unicità, adattamento, curiosità verso l'inatteso |
+| **Verifica** | Collettiva, apertura agli esiti inattesi, spinta al meglio |
+
+---
+
+**Da ricordare:** la postura artigianale non è un'aggiunta al metodo — è il *modo* in cui si vive ogni fase del processo. Ogni progetto è unico. La verifica è collettiva. Gli esiti inattesi contano. E scrivere bene non è burocrazia: è il primo gesto di corresponsabilità.

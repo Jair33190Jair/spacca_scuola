@@ -1,0 +1,440 @@
+© 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson    1
+SCHEDA PER LA COMPILAZIONE DEL PROFILO 
+DI FUNZIONAMENTO DELL’ALUNNO SU BASE ICF-CY
+DATI ANAGRAFICI E INFORMAZIONI DI CARATTERE GENERALE
+NOME: 
+ETÀ: 
+SCUOLA: 
+FIGURE DI RIFERIMENTO GENITORIALE/RESPONSABILI
+FIGURE DI RIFERIMENTO EDUCATIVO/SCOLASTICO
+FIGURE DI RIFERIMENTO SANITARIO
+DIAGNOSI CLINICA (secondo ICD-10)
+CONDIZIONI FISICHE
+FUNZIONI CORPOREE
+Qualificatore (da inserire dopo il codice numerico)
+xxx.0 NESSUNA menomazione (assente, trascurabile...) 0-4%
+xxx.1 menomazione LIEVE (leggera, piccola...) 5-24%
+xxx.2 menomazione MEDIA (moderata, discreta...) 25-49%
+xxx.3 menomazione GRAVE (notevole, estrema...) 50-95%
+xxx.4 menomazione COMPLETA (totale...) 96-100%
+xxx.8 non specificato
+xxx.9 non applicabile
+
+---
+
+2    © 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson
+FUNZIONI MENTALI
+Funzioni mentali globali
+b110.___ Funzioni della coscienza
+b114.___ Funzioni dell’orientamento
+b117.___ Funzioni intellettive
+b122.___ Funzioni psicosociali globali
+b125.___ Funzioni e attitudini intrapersonali
+b126.___ Funzioni del temperamento e della personalità
+
+---
+
+© 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson    3
+b130.___ Funzioni dell’energia e delle pulsioni
+b134.___ Funzioni del sonno
+Funzioni mentali specifiche
+b140.___ Funzioni dell’attenzione
+b144.___ Funzioni della memoria
+b147.___ Funzioni psicomotorie
+b152.___ Funzioni emozionali
+b156.___ Funzioni percettive
+b160.___ Funzioni del pensiero
+
+---
+
+4    © 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson
+b163.___ Funzioni cognitive di base
+b164.___ Funzioni cognitive di livello superiore
+b167.___ Funzioni mentali del linguaggio
+b172.___ Funzioni di calcolo
+b176.___ Funzione mentale di sequenza dei movimenti complessi
+b180.___ Funzioni dell’esperienza del Sé e del tempo
+STRUTTURE CORPOREE
+Qualificatore (da inserire dopo il codice numerico)
+xxx.0 NESSUNA menomazione (assente, trascurabile...) 0-4%
+xxx.1 menomazione LIEVE (leggera, piccola...) 5-24%
+xxx.2 menomazione MEDIA (moderata, discreta...) 25-49%
+xxx.3 menomazione GRAVE (notevole, estrema...) 50-95%
+xxx.4 menomazione COMPLETA (totale...) 96-100%
+xxx.8 non specificato
+xxx.9 non applicabile
+STRUTTURE DEL SISTEMA NERVOSO
+s110.___ Struttura del cervello
+
+---
+
+© 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson    5
+s120.___ Midollo spinale e strutture correlate
+s130.___ Struttura delle meningi
+s140.___ Struttura del sistema nervoso simpatico
+s140.___ Struttura del sistema nervoso parasimpatico
+OCCHIO, ORECCHIO E STRUTTURE CORRELATE
+s210.___ Struttura della cavità orbitaria
+s220.___ Struttura del bulbo oculare
+s230.___ Strutture adiacenti all’occhio
+s240.___ Struttura dell’orecchio esterno
+s250.___ Struttura dell’orecchio medio
+s260.___ Struttura dell’orecchio interno
+
+---
+
+6    © 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson
+STRUTTURE COINVOLTE NELLA VOCE E NELL’ELOQUIO
+s310.___ Struttura del naso
+s320.___ Struttura della bocca
+s330.___ Struttura della faringe
+s340.___ Struttura della laringe
+STRUTTURE DEI SISTEMI CARDIOVASCOLARE, IMMUNOLOGICO E DELL’APPARATO RESPIRATORIO
+s410.___ Struttura del sistema cardiovascolare
+s420.___ Struttura del sistema immunitario
+s430.___ Struttura dell’apparato respiratorio
+STRUTTURE CORRELATE ALL’APPARATO DIGERENTE E AI SISTEMI METABOLICO ED ENDOCRINO
+s510.___ Struttura delle ghiandole salivari
+s520.___ Struttura dell’esofago
+s530.___ Struttura dello stomaco
+
+---
+
+© 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson    7
+s540.___ Struttura dell’intestino
+s550.___ Struttura del pancreas
+s560.___ Struttura del fegato
+s570.___ Struttura della cistifellea e dei dotti biliari
+s580.___ Struttura delle ghiandole endocrine
+STRUTTURE CORRELATE AI SISTEMI GENITOURINARIO E RIPRODUTTIVO
+s610.___ Struttura del sistema urinario
+s620.___ Struttura del pavimento pelvico
+s630.___ Struttura del sistema riproduttivo
+STRUTTURE CORRELATE AL MOVIMENTO
+s710.___ Struttura della regione del capo e del collo
+s720.___ Struttura della regione della spalla
+
+---
+
+8    © 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson
+s730.___ Struttura dell’arto superiore
+s740.___ Struttura della regione pelvica
+s750.___ Struttura dell’arto inferiore
+s760.___ Struttura del tronco
+s770.___ Ulteriori strutture muscoloscheletriche correlate al movimento (ossa, articolazioni, muscoli, legamenti, ecc.)
+CUTE E STRUTTURE CORRELATE
+s810.___ Struttura delle aree della cute
+s820.___ Struttura delle ghiandole della cute
+s830.___ Struttura delle unghie
+s840.___ Struttura dei peli e dei capell
+ATTIVITÀ PERSONALI
+Qualificatore (da inserire dopo il codice numerico)
+xxx.0 NESSUNA difficoltà (assente, trascurabile...) 0-4%
+xxx.1 difficoltà LIEVE (leggera, piccola...) 5-24%
+xxx.2 difficoltà MEDIA (moderata, discreta...) 25-49%
+xxx.3 difficoltà GRAVE (notevole, estrema...) 50-95%
+xxx.4 difficoltà COMPLETA (totale...) 96-100%
+xxx.8 non specificato
+xxx.9 non applicabile
+
+---
+
+© 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson    9
+APPRENDIMENTO E APPLICAZIONE DELLE CONOSCENZE
+Esperienze sensoriali intenzionali
+d110.___ Guardare
+d115.___ Ascoltare
+d120.___ Altre percezioni sensoriali intenzionali
+Apprendimento di base
+d130.___ Copiare
+d131.___ Imparare attraverso le azioni con gli oggetti
+d132.___ Acquisire informazioni
+d133.___ Acquisire il linguaggio
+d134.___ Acquisire un linguaggio aggiuntivo
+d135.___ Ripetere
+
+---
+
+10    © 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson
+d137.___ Acquisire concetti
+d140.___ Imparare a leggere
+d145.___ Imparare a scrivere
+d150.___ Imparare a calcolare
+d155.___ Acquisizione di abilità
+Applicazione delle conoscenze
+d160.___ Focalizzare l’attenzione
+d161.___ Dirigere l’attenzione
+d163.___ Pensare
+
+---
+
+© 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson    11
+d166.___ Leggere
+d170.___ Scrivere
+d172.___ Calcolare
+d175.___ Risoluzione di problemi
+d177.___ Prendere decisioni
+COMPITI E RICHIESTE GENERALI
+d210.___ Intraprendere un compito singolo
+d220.___ Intraprendere compiti articolati
+d230.___ Seguire delle routine (routine quotidiane, gestione del tempo e delle attività, adattarsi ai cambiamenti, ecc.)
+
+---
+
+12    © 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson
+d240.___ Gestire la tensione e altre richieste di tipo psicologico
+d250.___ Controllare il proprio comportamento
+COMUNICAZIONE
+d310.___ Comunicare con - ricevere - messaggi verbali
+d315.___ Comunicare con - ricevere - messaggi non verbali
+d320.___ Comunicare con - ricevere - messaggi nel linguaggio dei segni
+d325.___ Comunicare con - ricevere - messaggi scritti
+Comunicare - produrre
+d330.___ Parlare
+d331.___ Vocalizzazione prelinguistica
+
+---
+
+© 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson    13
+d332.___ Cantare
+d335.___ Produrre messaggi non verbali
+d340.___ Produrre messaggi nel linguaggio dei segni
+d345.___ Scrivere messaggi
+Conversazione e uso di strumenti e tecniche di comunicazione
+d350.___ Conversazione
+d355.___ Discussione
+d360.___ Utilizzo di strumenti e tecniche di comunicazione
+MOBILITÀ
+Cambiare e mantenere una posizione corporea
+d410.___ Cambiare la posizione corporea di base
+
+---
+
+14    © 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson
+d415.___ Mantenere una posizione corporea
+d420.___ Trasferirsi
+Trasportare, spostare e maneggiare oggetti
+d430.___  Sollevare e trasportare oggetti
+d435.___ Spostare oggetti con gli arti inferiori
+d440.___ Uso fine della mano
+d445.___ Uso della mano e del braccio
+d446.___ Uso fine del piede
+Camminare e spostarsi
+d450.___ Camminare
+d455.___ Spostarsi
+
+---
+
+© 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson    15
+d460.___ Spostarsi in diverse collocazioni
+d465.___ Spostarsi usando apparecchiature/ausili
+Muoversi usando un mezzo di trasporto
+d470.___ Usare un mezzo di trasporto
+d475.___ Guidare
+d480.___ Cavalcare animali per farsi trasportare
+CURA DELLA PROPRIA PERSONA
+d510.___ Lavarsi
+d520.___ Prendersi cura di singole parti del corpo
+d530.___ Bisogni corporali
+
+---
+
+16    © 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson
+d540.___ Vestirsi
+d550.___ Mangiare
+d560.___ Bere
+d570.___ Prendersi cura della propria salute
+d571.___ Badare alla propria sicurezza
+VITA DOMESTICA
+Procurarsi i beni necessari
+d610.___ Procurarsi un posto in cui vivere
+d620.___ Procurarsi beni e servizi
+
+---
+
+© 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson    17
+Compiti casalinghi
+d630.___ Preparare pasti
+d640.___ Fare i lavori di casa
+Prendersi cura degli oggetti della casa e assistere gli altri
+d650.___ Prendersi cura degli oggetti della casa
+d660.___ Assistere gli altri
+INTERAZIONI E RELAZIONI INTERPERSONALI
+Interazioni interpersonali generali
+d710.___ Interazioni interpersonali semplici
+d720.___ Interazioni interpersonali complesse
+Relazioni interpersonali particolari
+d730.___ Entrare in relazione con estranei
+
+---
+
+18    © 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson
+d740.___ Relazioni formali
+d750.___ Relazioni sociali informali
+d760.___ Relazioni familiari
+d770.___ Relazioni intime
+PARTECIPAZIONE SOCIALE
+Qualificatore (da inserire dopo il codice numerico)
+xxx.0 NESSUNA difficoltà (assente, trascurabile...) 0-4%
+xxx.1 difficoltà LIEVE (leggera, piccola...) 5-24%
+xxx.2 difficoltà MEDIA (moderata, discreta...) 25-49%
+xxx.3 difficoltà GRAVE (notevole, estrema...) 50-95%
+xxx.4 difficoltà COMPLETA (totale...) 96-100%
+xxx.8 non specificato
+xxx.9 non applicabile
+AREE DI VITA PRINCIPALI
+Istruzione
+d810.___ Istruzione informale
+d815.___ Istruzione prescolastica
+
+---
+
+© 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson    19
+d820.___ Istruzione scolastica
+d825.___ Formazione professionale
+d830.___ Istruzione superiore
+Lavoro e impiego
+d840.___ Apprendistato al lavoro
+d845.___ Acquisire, conservare e lasciare un lavoro
+d850.___ Lavoro retribuito
+d855.___ Lavoro non retribuito
+Vita economica
+d860.___ Transazioni economiche semplici
+
+---
+
+20    © 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson
+d865.___ Transazioni economiche complesse
+d870.___ Autosufficienza economica
+Gioco
+d880.___ Coinvolgimento nel gioco (gioco solitario, in coppia, cooperativo condiviso, ecc.)
+VITA SOCIALE, CIVILE E DI COMUNITÀ
+d910.___ Vita nella comunità
+d920.___ Ricreazione e tempo libero
+d930.___ Religione e spiritualità
+d940.___ Diritti umani
+d950.___ Vita politica e cittadinanza
+
+---
+
+© 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson    21
+FATTORI CONTESTUALI AMBIENTALI
+Qualificatore (da inserire dopo il codice numerico)
+Di seguito è esposta la scala (negativa e positiva) che indica il grado in cui un fattore ambientale
+agisce come una barriera o un facilitatore. L’uso del punto (o separatore) indica una barriera, mentre l’uso del se-
+gno + indica un facilitatore.
+xxx.0 NESSUNA barriera (assente, trascurabile...) 0-4%
+xxx.1 barriera LIEVE (leggera, piccola...) 5-24%
+xxx.2 barriera MEDIA (moderata, discreta...) 25-49%
+xxx.3 barriera GRAVE (notevole, estrema...) 50-95%
+xxx.4 barriera COMPLETA (totale...) 96-100%
+xxx0 NESSUN facilitatore (assente, trascurabile...) 0-4%
+xxx+1 facilitatore LIEVE (leggero, piccolo...) 5-24%
+xxx+2 facilitatore MEDIO (moderato, discreto...) 25-49%
+xxx+3 facilitatore GRAVE (notevole, estremo...) 50-95%
+xxx+4 facilitatore COMPLETO (totale...) 96-100%
+xxx.8 barriera, non specificato
+xxx+8 facilitatore, non specificato
+xxx.9 non applicabile
+PRODOTTI E TECNOLOGIA
+e110.___ Prodotti o sostanze per il consumo personale
+e115.___ Prodotti e tecnologia per l’uso personale nella vita quotidiana
+e120.___ Prodotti e tecnologia per la mobilità e il trasporto personale in ambienti interni e esterni
+e125.___ Prodotti e tecnologia per la comunicazione
+e130.___ Prodotti e tecnologia per l’istruzione
+
+---
+
+22    © 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson
+e135.___ Prodotti e tecnologia per il lavoro
+e140.___ Prodotti e tecnologia per la cultura, la ricreazione e lo sport
+e145.___ Prodotti e tecnologia per la pratica della religione o della spiritualità
+e150.___ Prodotti e tecnologia per la progettazione e la costruzione di edifici per il pubblico utilizzo
+e155.___ Prodotti e tecnologia per la progettazione e la costruzione di edifici per utilizzo privato
+e160.___ Prodotti e tecnologia per lo sviluppo del territorio
+e165.___ Risorse e beni
+AMBIENTE NATURALE E CAMBIAMENTI EFFETTUATI DALL’UOMO
+e210.___ Geografia fisica
+e215.___ Popolazione
+
+---
+
+© 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson    23
+e220.___ Flora e fauna
+e225.___ Clima
+e230.___ Eventi naturali
+e235.___ Eventi causati dall’uomo
+e240.___ Luce
+e245.___ Cambiamenti correlati al tempo
+e250.___ Suono
+e255.___ Vibrazione
+e260.___ Qualità dell’aria
+RELAZIONI E SOSTEGNO SOCIALE
+e310.___ Famiglia ristretta
+
+---
+
+24    © 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson
+e315.___ Famiglia allargata
+e320.___ Amici
+e325.___ Conoscenti, colleghi, vicini di casa e membri della comunità
+e330.___ Persone in posizioni di autorità
+e335.___ Persone in posizioni subordinate
+e340.___ Persone che forniscono aiuto o assistenza
+e345.___ Estranei
+
+---
+
+© 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson    25
+e350.___ Animali domestici
+e355.___ Operatori sanitari
+e360.___ Altri operatori
+ATTEGGIAMENTI
+e410.___ Atteggiamenti individuali dei componenti della famiglia ristretta
+e415.___ Atteggiamenti individuali dei componenti della famiglia allargata
+e420.___ Atteggiamenti individuali degli amici
+e425.___ Atteggiamenti individuali di conoscenti, colleghi, vicini di casa e membri della comunità
+
+---
+
+26    © 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson
+e430.___ Atteggiamenti individuali di persone in posizioni di autorità
+e435.___ Atteggiamenti individuali di persone in posizioni subordinate
+e440.___ Atteggiamenti individuali di persone che forniscono aiuto o assistenza
+e445.___ Atteggiamenti individuali di estranei
+e450.___ Atteggiamenti individuali di operatori sanitari
+e455.___ Atteggiamenti individuali di altri operatori
+e460.___ Atteggiamenti della società
+e465.___ Norme sociali, costumi e ideologie
+
+---
+
+© 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson    27
+SERVIZI, SISTEMI, POLITICHE
+e510.___ Servizi, sistemi e politiche per la produzione di beni di consumo
+e515.___ Servizi, sistemi e politiche per l’architettura e la costruzione
+e520.___ Servizi, sistemi e politiche per la pianificazione dello spazio aperto
+e525.___ Servizi, sistemi e politiche abitative
+e530.___ Servizi, sistemi e politiche di pubblica utilità
+e535.___ Servizi, sistemi e politiche di comunicazione
+e540.___ Servizi, sistemi e politiche di trasporto
+e545.___ Servizi, sistemi e politiche di protezione civile
+e550.___ Servizi, sistemi e politiche legali
+e555.___ Servizi, sistemi e politiche delle associazioni e delle organizzazioni
+
+---
+
+28    © 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson
+e560.___ Servizi, sistemi e politiche dei mass media
+e565.___ Servizi, sistemi e politiche dell’economia
+e570.___ Servizi, sistemi e politiche previdenziali/assistenziali
+e575.___ Servizi, sistemi e politiche di sostegno sociale generale
+e580.___ Servizi, sistemi e politiche sanitarie
+e585.___ Servizi, sistemi e politiche dell’istruzione e della formazione
+e590.___ Servizi, sistemi e politiche del lavoro
+e595.___ Servizi, sistemi politici e politiche
+
+---
+
+© 2019, D. Ianes, S. Cramerotti e C. Scapin, Profilo di funzionamento su base ICF-CY e Piano educativo individualizzato, Trento, Erickson    29
+SINTESI DELLE PRINCIPALI RELAZIONI DI INFLUENZA (CLUSTER SIGNIFICATIVI)

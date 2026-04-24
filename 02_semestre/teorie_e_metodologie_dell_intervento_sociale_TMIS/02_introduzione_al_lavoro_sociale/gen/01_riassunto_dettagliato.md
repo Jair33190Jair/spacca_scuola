@@ -1,384 +1,257 @@
-# Introduzione al modulo di Salute Mentale
-Salute Mentale · Sessione 01 · 18.02.2026
+# Introduzione al Lavoro Sociale — Parte 2: bisogni, resilienza, identità, vulnerabilità
+TMIS · Sessione 02 · A.A. 2025/26
 
-> Questa prima lezione mette sul tavolo le fondamenta
-> di tutto il modulo: che cos'è davvero la salute?
-> Cos'è il benessere? E la normalità? Spoiler: nessuna
-> di queste domande ha una risposta semplice — e
-> proprio da qui parte il bello. Si parla anche della
-> tragedia greca come strumento per avvicinarsi alla
-> sofferenza umana. Roba potente, vedrai.
+> Questa lezione è densa, ma ha un filo conduttore chiaro: l'operatore sociale lavora con persone. Persone con un'identità complessa, con bisogni, con vulnerabilità — e con una capacità straordinaria di riorganizzarsi. Capire questi quattro concetti significa imparare a vedere le persone davvero, non solo i loro problemi.
 
 ---
 
-## Il modulo: struttura e filosofia
+## Il Sé dialogico e l'identità
 
-Il modulo di Salute Mentale si articola su **tre
-tappe fondanti**, ispirate alla scuola fenomenologica:
+### Il Sé non è un blocco unico — è un'orchestra
 
-1. **La clinica** — l'universo dell'incontro con
-   chi soffre. Si esplorano i concetti di salute
-   e malattia, normalità e patologia, l'incontro
-   empatico con l'altro e i meccanismi di difesa.
+Partiamo dall'idea che potrebbe sembrarti strana all'inizio: il tuo Sé non è una cosa sola. È più simile a un'orchestra dove ogni strumento ha una sua voce, un suo timbro. Alcune voci sono malinconiche, altre entusiaste, altre curiose o irruenti. Insieme, in dialogo, danno vita alla melodia di chi sei.
 
-2. **Il mondo** — le funzioni psichiche e le loro
-   alterazioni (coscienza, percezione, pensiero,
-   affettività...), per poi passare alla dimensione
-   nosografica: sindromi affettive, ansiose, nevrosi,
-   disturbi di personalità, psicosi.
+Questa è l'idea del **Sé dialogico**, elaborata da Mancini (2010) riprendendo Bachtin. Il Sé è un insieme dinamico di **posizionamenti** — visioni soggettive del mondo, contestuali e in continua evoluzione — impegnati in un dialogo polifonico (cioè a molte voci). Non sei lo stesso Jony al lavoro, in palestra, con la ragazza o a casa coi genitori. Eppure sei sempre tu. Come mai? Perché tutte queste "voci" dialogano tra loro e con le voci esterne, e da questo dialogo emerge continuamente il tuo Sé.
 
-3. **Il corpo** — teatro della sofferenza: violenza,
-   aggressività, dimensioni anoressico-bulimiche,
-   sessualità come luogo di disagio, alessitimia.
+Il professore porta un esempio efficace in aula: la tua amica appassionata di montagna ti propone un'escursione. Dentro di te partono le voci — quella pigra che dice "preferisco il mare", quella del tuo collega che dice "dai, un po' di movimento fa bene", quella che nota i prati e i fiori. Alla fine vai, e hai preso quella decisione negoziando con te stesso. Questo è il Sé dialogico in azione.
 
-Queste tre tappe sono attraversate da quattro
-dimensioni esistenziali: **spazio, tempo, identità
-e incontro**. La clinica va calata in uno spazio
-e in un tempo, l'identità va declinata nella
-relazione, e prima della relazione viene l'incontro
-— senza il quale la relazione non sussiste.
-
-Il prof sottolinea un punto chiave: l'operatore
-sociale non è un tecnico di una sola disciplina,
-ma un **trait d'union** tra le specializzazioni.
-Per questo serve una conoscenza delle aree
-psicopatologiche — non per fare diagnosi, ma per
-comunicare con le altre figure professionali e
-per accompagnare la persona nella sua interezza.
+Per i lavoratori sociali questo è fondamentale: **se aiutiamo una persona ad ampliare il suo dialogo interno**, le offriamo più possibilità di vedersi in modo diverso. Una ragazza con un problema alimentare che si definisce solo attraverso quello: se come operatori ci si ferma a quell'etichetta, non si fa altro che confermarla. Se invece si apre spazio ad altre voci (le piace l'arte, vuole viaggiare, ama il cinema), si apre uno spazio di possibilità e di speranza.
 
 ---
 
-## Salute, benessere, normalità: tre concetti
-da non confondere
+### Il sentimento di identità secondo Erikson
 
-Uno dei messaggi centrali della lezione: **salute,
-benessere e normalità sono tre cose diverse** che
-spesso vengono confuse o sovrapposte. Vediamole
-una per una.
+**Erikson** (1968) descrive il **sentimento di identità** come un'esperienza intraindividuale che si esprime a tre livelli:
 
-### Salute: più complessa di quanto sembra
+1. **Essere integrati come persone**: sentirsi unici e coerenti nonostante i diversi ruoli che si giocano nella vita sociale. Attenzione: coerenti non vuol dire identici. Cambiare opinione nel tempo non è incoerenza, è crescita.
 
-Il prof parte da una domanda semplice: "Chi di voi
-sta bene?" Poi mostra quanto sia difficile rispondere.
-Due paradigmi diversi: puoi andare a fare gli esami
-del sangue e la TAC (approccio biomedico, *disease*),
-oppure puoi rispondere "mi sento bene" senza nessun
-esame (approccio soggettivo, *illness*). Non sono la
-stessa cosa.
+2. **Essere integrati nel tempo**: sentire una continuità tra il proprio passato, il presente e il futuro che si immagina. Non si tratta di restare gli stessi — si tratta di riconoscere un filo che lega ciò che si è stati a ciò che si sta diventando.
 
-Introduce il lavoro di **Christopher Boorse (1977)**,
-che nel suo articolo ha tentato di definire la salute
-esaminando sette possibili condizioni — dimostrando
-che **nessuna da sola regge**:
+3. **Essere integrati nell'ambiente sociale**: sentire che gli altri riconoscono la propria identità. Noi non esistiamo nel vuoto — ci narriamo a noi stessi e al mondo, e il riconoscimento degli altri fa parte di chi siamo.
 
-| Condizione | Perché non basta |
-|---|---|
-| **Salute come valore** | Non tutto ciò che è desiderabile è salute; ci sono contesti dove non essere in salute può essere preferibile (es. durante guerre) |
-| **Malattia come ciò che il medico cura** | La medicina ha "colonizzato" ambiti non patologici (gravidanza, adolescenza); molte malattie non vengono trattate |
-| **Salute come norma statistica** | Fuori dalla media ≠ malattia (l'omosessualità è stata classificata come patologia a lungo) |
-| **Malattia come sofferenza** | Malattie asintomatiche e dolori normali (ciclo mestruale, coliche neonatali, dentizione) |
-| **Malattia come disabilità** | Tutti attraversiamo fasi di "non abilità" (un neonato non cammina, ma non è malato) |
-| **Salute come adattamento** | L'essere umano adatta anche l'ambiente a sé. Pensate alle neurodivergenze: a volte è l'ambiente che va cambiato |
-| **Salute come omeostasi** | Il funzionamento umano si basa su un continuo perdere e riacquistare equilibrio. L'equilibrio statico è rigidità |
+Il professore sottolinea che l'identità **non è statica** e non è mai finita. È multipla, evolve nel tempo, viene influenzata dalle esperienze. Questo è un punto chiave nel lavoro sociale: le persone non sono le loro etichette. Sono in continua costruzione.
 
-L'ultimo punto merita attenzione. Il prof insiste:
-**l'equilibrio statico non è salute, è rigidità**.
-La metafora è bellissima: camminare richiede di
-rompere continuamente l'equilibrio. Per fare un
-passo devi sbilancarti. La vita è movimento, e il
-movimento richiede di perdere e ritrovare l'equilibrio.
-"Le persone troppo equilibrate sono spesso molto
-rigide, poco disposte a rischiare."
+### Le quattro forme di esperienza soggettiva del Sé (Glodis e Blasi, 1993)
 
-> *"Non c'è movimento senza perdere l'equilibrio,
-> e siccome la vita è costante movimento, occorre
-> mettersi nell'ottica di capire e accompagnare
-> la perdita e la riconquista dell'equilibrio —
-> non impedirla."*
-> — Il professore
+Quattro modi in cui sperimentiamo noi stessi come soggetti:
 
-### La triade anglosassone: disease, illness, sickness
+- **Senso di agency**: la sensazione di poter incidere sulla realtà e costruire la propria identità attraverso le scelte.
+- **Senso di otherness**: sentirsi unici, capaci di differenziarsi dalle aspettative degli altri.
+- **Senso di unity**: trovare continuità tra passato, presente e futuro.
+- **Senso di autoreflection**: la capacità di osservare la distanza tra ciò che si pensa e ciò che si fa.
 
-Per ordinare le idee sulla salute, il prof introduce
-la distinzione in tre dimensioni:
+Secondo questi studi, solo dopo la prima adolescenza si inizia a scoprire di avere un'identità. Prima viene vissuta come "naturalmente data"; solo in seguito si acquisisce la consapevolezza di esserne costruttori attivi.
 
-- **Disease** — la malattia in senso biomedico,
-  misurabile (esami, parametri clinici)
-- **Illness** — il vissuto soggettivo: come la
-  persona *si sente*
-- **Sickness** — la dimensione sociale: come la
-  società riconosce (o stigmatizza) quella condizione
+### Sé unico o molteplice?
 
-Queste tre dimensioni **possono non coincidere**.
-Una malattia può essere tale per il medico (disease)
-ma non vissuta come tale dal soggetto (illness),
-oppure può essere vista dalla società come un vizio
-(sickness negativa) anche se è una malattia vera.
-
-Questo è importante per il lavoro sociale: lo sguardo
-della società su una condizione ha effetti reali sul
-benessere della persona. Se hai una malattia che viene
-giudicata come "vizio" o "colpa", la stigmatizzazione
-peggiora tutto — come mostrava già il racconto
-di apertura della lezione.
+Mancini (2010) risponde chiaramente: la letteratura psicosociale esclude un Sé monolitico e compatto. Il Sé è fatto di parti integrate ma distinte. Nell'epoca postmoderna questo diventa ancora più evidente: il Sé è **multiplo, plurale, frammentato**, sottoposto a continue richieste di costruzione e ricostruzione. Le domande che si aprono sono: è ancora possibile parlare di coerenza interna? È possibile costruire continuità tra passato, presente e futuro? È possibile un'identità autentica in un mondo che tende all'anonimato?
 
 ---
 
-## Il benessere: un concetto multidimensionale
-
-**Salute e benessere non coincidono.** Il prof porta
-l'esempio di **Tiziano Terzani** e del suo libro
-*L'ultimo giro di giostra*: un giornalista gravemente
-malato di cancro che attraverso la malattia ha trovato
-una pace e una ricchezza interiore che non aveva quando
-stava "bene". Paradossale? No, profondamente umano.
-
-Il benessere è un concetto **polisemico e
-multidimensionale**. **Carol Ryff** è una psicologa
-che ha risposto alla domanda: "Quando diciamo che
-una persona sta bene, di *cosa* esattamente stiamo
-parlando?" La risposta: di sei dimensioni distinte.
-
-| Dimensione | Cosa significa in concreto |
-|---|---|
-| **Autonomia** | Capacità di determinarsi senza dipendere dagli altri per le proprie scelte |
-| **Controllo ambientale** | Capacità di cogliere, sfruttare e valorizzare le risorse e le possibilità disponibili |
-| **Relazioni positive** | Avere relazioni calde, fiduciose, contraddistinte da affetto e reciprocità |
-| **Autoaccettazione** | Consapevolezza delle proprie qualità e limiti, senza negare né l'uno né l'altro |
-| **Percezione di crescita** | Sentire che la propria vita è un processo continuo di sviluppo |
-| **Scopo nella vita** | Avere mete, riuscire a dare senso a ciò che si fa |
-
-Questo modello è prezioso per l'operatore sociale
-perché rende il lavoro sul benessere **concreto**.
-Invece di un generico "lavoro per il benessere",
-puoi esplorare *quale* dimensione è più critica
-e intervenire lì. Il prof fa un esempio: se lavori
-sull'autonomia di qualcuno (aiutarlo a fare scelte
-proprie), quello starà meglio — anche senza sapere
-perché. Il prodotto è quello che conta.
-
-Se in un momento la persona non riesce a lavorare
-sulle relazioni, si compensa sulle altre dimensioni.
-È un gioco di variabili, non tutto insieme.
-
-Il prof aggiunge: **vale anche per noi**, non solo
-per i nostri utenti. Se guardiamo indietro alla
-nostra vita e vediamo solo disastri, non stiamo bene.
-Se riusciamo a vedere crescita e senso, anche nelle
-difficoltà, il benessere aumenta.
+Fin qui la parte sull'identità. Adesso entriamo su un concetto che nella pratica del lavoro sociale si incontra ogni giorno — e che va usato con testa.
 
 ---
 
-## La normalità: quale normalità?
+## Vulnerabilità — un concetto da maneggiare con cura
 
-Il prof introduce tre tipi di normalità — tutti
-rilevanti per il lavoro con le persone.
+### Un termine potente (e pericoloso)
 
-### 1. Norma statistica
+**Vulnerabilità** è una parola usatissima nel lavoro sociale. Ma proprio perché è così diffusa, rischia di essere usata male — senza riflessione, come un'etichetta automatica. Pedroni (2020) ci invita a farne un uso critico e consapevole.
 
-La "normalità" come conformità alla media della
-popolazione. Sembra neutro, ma non lo è: essere
-fuori dalla norma statistica può provocare stigma,
-isolamento, discriminazione. L'omosessualità è stata
-a lungo classificata come patologia proprio su base
-statistica — e solo quando la comunità scientifica
-ha cambiato i criteri ne è uscita.
+Il punto di partenza: il termine **può significare cose molto diverse**. E dal significato che gli diamo dipende come vediamo le persone con cui lavoriamo, e quindi come interveniamo.
 
-Il contesto è fondamentale: qualsiasi comportamento,
-senza contesto, può sembrare "anormale".
+### Le tre critiche principali (Brown, 2011)
 
-### 2. Norma di valore (ideale)
+1. **Paternalismo e oppressione**: definire qualcuno vulnerabile può restituire un'immagine di persona incapace, sempre a rischio, con limitazioni. Questo toglie potere alle persone.
 
-Uno standard ideale che si pone come riferimento.
-Se il mio ideale è un certo tipo di corpo, starò
-male finché non ci corrispondo. Ed è un ideale
-*irraggiungibile*, quindi la sofferenza è perpetua.
+2. **Controllo sociale**: stabilire chi è vulnerabile e chi no rafforza gli stereotipi su cosa significhi essere "normali" e autosufficienti. Nel caso dei minori, la vulnerabilità viene spesso usata come pretesto per non ascoltare i loro desideri.
 
-**Attenzione**: la norma ideale incide anche sugli
-operatori. Abbiamo ideali su come dovrebbe essere
-un utente, come dovrebbe comportarsi, cosa dovrebbe
-raggiungere. Se quella norma ideale diventa il metro
-di lavoro, rischia di diventare penalizzante per
-la relazione.
+3. **Stigma ed esclusione**: etichettare alcune persone come vulnerabili può generare segregazione e disuguaglianza. Il concetto si sovrappone pericolosamente a quello di "pericolosità" in certi contesti (es. salute mentale).
 
-### 3. Norma personale (individuale)
+In più: la vulnerabilità non è necessariamente un'etichetta in cui le persone stesse si riconoscono.
 
-La normalità *rispetto a come funzionavo prima*.
-Se mi rompo una gamba, non sono più "normale" rispetto
-al mio funzionamento precedente. Questa dimensione
-è importante clinicamente: capire com'era il soggetto
-prima dell'evento permette di comprendere il
-cambiamento.
+### Una lettura alternativa e più promettente
 
-Ma il prof aggiunge un avvertimento cruciale:
-**la normalità personale non è sempre da riconquistare**.
-A volte è proprio quella "normalità" precedente che
-ha causato il problema. Esempio: "Lavoravo 10 ore
-al giorno, gestivo tutto, poi mi sono ammalato —
-voglio tornare come prima." Forse no. Se torni come
-eri prima, tra un mese ci rivediamo peggio.
+La vulnerabilità va riletta come **caratteristica ontologica degli esseri umani**: tutti, in certi momenti della vita, siamo vulnerabili. Pensa a una separazione dopo 15 anni di convivenza, a un'inondazione che ti toglie casa, alla perdita del lavoro — sono situazioni che possono mettere chiunque in una condizione di vulnerabilità. Non è una patologia, ma una condizione umana.
 
-C'è anche il rischio di **idealizzare il passato**:
-"Prima stavo bene" — ma siamo sicuri? O è solo che
-in confronto a oggi sembra il paradiso?
+In questa accezione, la vulnerabilità diventa **motore motivazionale per la promozione dei diritti umani e della giustizia sociale**. Si connette con i concetti di agency, empowerment e resilienza (Serbati e Milani, 2013).
+
+> Il prof sottolinea: l'operatore sociale deve sempre considerare le persone nella loro unicità, ascoltando la loro visione della propria condizione di vulnerabilità — non quella che noi gli attribuiamo dall'esterno.
+
+### Il disagio: una situazione appresa, non un destino
+
+Il **disagio** (Palmieri, 2012) viene letto in chiave pedagogica. Etimologicamente è "mancanza di agio", ma non va visto come condizione irreversibile.
+
+Due punti chiave:
+
+- Il disagio **non è determinato solo da una situazione oggettiva**. Il vissuto di sofferenza deriva soprattutto dalla lettura che si attribuisce alla situazione. E quella lettura è modificabile.
+- Da un punto di vista pedagogico, il disagio è un **momento di crisi nel percorso di vita** — non una condizione fissa. Ogni passaggio evolutivo emancipativo è preceduto da un momento di crisi. La crisi può diventare occasione di esplorazione, nuovi sguardi, nuovi apprendimenti.
 
 ---
 
-## La posizione del soggetto davanti alla malattia
+## La resilienza
 
-L'ultima parte della lezione introduce un modello
-pratico a due assi per capire come il soggetto si
-pone rispetto alla propria condizione.
+### Cos'è davvero
 
-**Asse 1 — Identificazione:**
-- *Non mi identifico* con la malattia: "Io non sono
-  la mia malattia, è qualcosa di estraneo"
-- *Mi identifico*: "La mia condizione fa parte di me"
+La **resilienza** (Malaguti, 2005; Cyrulnik) è un processo biologico, psicoaffettivo, sociale, culturale ed educativo che permette la ripresa di un nuovo sviluppo dopo un evento traumatico.
 
-**Asse 2 — Agentività** (termine tecnico dal greco):
-- *Agentivo* (attivo): affronto la situazione,
-  mi muovo, cerco alleati
-- *Passivo*: subisco, aspetto che qualcuno intervenga
+Nota bene: non è solo resistenza. È anche il processo di **superamento** delle difficoltà — trasformare un'esperienza dolorosa in apprendimento. È un cambio di paradigma: invece di guardare solo ai fattori di rischio, si guarda anche ai fattori protettivi.
 
-Incrociando i due assi si ottengono quattro posizioni:
+Pensaci come a un albero ferito da giovane che cresce intorno alla ferita (Levine, 2002). I nodi e i rami anche deformi testimoniano gli ostacoli superati. La ferita rimane, ma non definisce l'albero — è parte della sua storia.
 
-| | Non si identifica | Si identifica |
-|---|---|---|
-| **Passivo** | **Delega**: "Faccia lei, risolva lei" | Passivo nella propria condizione |
-| **Agentivo** | **Guarigione**: combatte per eliminare la condizione | **Cura**: lavora sul proprio benessere dentro la condizione |
+### Un cambio di prospettiva
 
-Il passaggio chiave: quando il soggetto si identifica
-con la propria condizione e diventa agentivo, il
-paradigma passa dalla **guarigione** alla **cura**.
-Non si tratta più di eliminare la malattia (che a
-volte non è possibile), ma di aumentare il benessere
-*dentro* la condizione.
+La resilienza richiede di **positivizzare lo sguardo** sulle persone. Significa:
+- Riconoscere le criticità senza ridurre la persona al problema.
+- Valorizzare le potenzialità della situazione.
+- Creare le possibilità di trasformare il dolore in apprendimento.
+- Superare le letture lineari e deterministiche ("chi ha subito violenza sarà a sua volta violento").
 
-> *"Non tutto si può guarire. Ma tutto può essere
-> curato."*
-> — Il professore
+Gli studi sulla resilienza aprono alla speranza: il destino dell'uomo non è predefinito.
 
-La differenza tra *to cure* (terapia) e *to care*
-(cura) è fondamentale per il lavoro sociale: la
-terapia non è sempre possibile, ma la cura — nel
-senso di prendersi cura del benessere della persona
-— è sempre praticabile.
+### La storia di Alice e il melograno
 
-Nella realtà le persone si muovono tra i quadranti,
-soprattutto all'inizio della malattia. L'operatore
-accompagna questo movimento.
+In aula viene presentata la storia vera di Alice, una bambina di 22 mesi che perde il padre per suicidio. È un esempio concreto di come si costruisce resilienza in condizioni estreme:
+
+- Gli amici del padre piantano un **melograno** — un rito simbolico che dà un luogo fisico e un significato alla perdita. La bambina può "salutare papà" guardando l'albero.
+- La madre Asia torna nella città dove è cresciuta, circondata dagli affetti: **tutori di resilienza** concreti e quotidiani.
+- La bambina elabora la perdita con i propri tempi, non secondo le aspettative degli adulti.
+
+Il processo di resilienza richiede tempo e non può essere standardizzato. Non si focalizza sul suicidio del padre — si costruisce un percorso che accompagna Alice nella sua storia.
+
+### I sette elementi della resilienza (Wolin & Wolin, 1993)
+
+Sette risorse interne che si sviluppano nelle situazioni di resilienza:
+
+| Elemento | Descrizione |
+|----------|-------------|
+| **Assunzione di consapevolezza** | Identificare problemi, risorse e cercare soluzioni |
+| **Indipendenza** | Stabilire confini, prendere distanza da ciò che manipola |
+| **Relazioni** | Scegliere interlocutori positivi |
+| **Iniziativa** | Dominare il proprio ambiente, trovare piacere nelle attività costruttive |
+| **Creatività** | Amplificare lo sguardo, esprimere le emozioni positivamente |
+| **Humor** | Scoprire la dimensione comica della tragedia, ridurre la tensione interiore |
+| **Etica** | Guidare l'azione nelle scelte, favorire compassione e aiuto reciproco |
+
+### I tutori di resilienza (Cyrulnik)
+
+**Boris Cyrulnik** — medico, etologo, neurologo e psichiatra francese, sopravvissuto ai campi di concentramento nazisti — è il principale studioso internazionale sulla resilienza. Definisce **tutori di resilienza** le figure significative che nell'interazione permettono alla persona di "rimbalzare" e riattivare processi vitali che sembravano compromessi.
+
+I tutori di resilienza possono essere familiari, amici, insegnanti, educatori — o noi stessi come operatori sociali.
+
+La resilienza non si acquisisce una volta per tutte: è un cammino da percorrere. L'esistenza è costellata da prove, e ogni volta si richiede una rinegoziazione.
+
+Come costruire resilienza (Malaguti, 2005): non esistono formule magiche, ma alcune direzioni sono chiare — accettarla, conoscerla, costruire professionalità specifica, investire in servizi efficaci, utilizzare gli strumenti dell'educazione (musica, teatro, gioco, arte), lavorare in rete.
 
 ---
 
-## La tragedia greca: passioni e follia
+## Il bisogno
 
-Parallelamente allo studio teorico, il modulo
-include un lavoro su **cinque tragedie greche**.
+### Definizione e prima teoria: Maslow
 
-### Perché la tragedia?
+Il **bisogno** (Paradiso, 2020) è uno stato soggettivo di tensione che spinge la persona a mettere in campo azioni per soddisfare percezioni fisiche e psicologiche che esprimono una mancanza o una necessità.
 
-La tragedia greca nasce insieme alla medicina antica
-(Ippocrate) e mette in scena la sofferenza umana —
-quella difficile da spiegare e a volte da comprendere.
-Assistere alla tragedia faceva emergere emozioni e
-sentimenti che, attraverso la **catarsi**, potevano
-uscire e liberare.
+**Abraham Maslow** (1954) è il primo a proporre un modello di analisi dei bisogni. Il bisogno attiva la **motivazione** — la forza che muove il soggetto all'azione. Quaglino (1990) individua due caratteristiche della motivazione: la **direzione** (verso cosa si organizzano le azioni) e l'**intensità** (la forza esercitata nel processo di soddisfazione).
 
-La tragedia parla dei **confini dell'umano**: la
-morte, la malattia, la follia. Il prof distingue
-gli approcci dei tre grandi tragediografi:
+La struttura gerarchica di Maslow è la famosa **piramide a cinque livelli**:
 
-- **Eschilo** — il più arcaico: la follia arriva
-  dagli dèi, è una forza esterna che schiaccia
-- **Sofocle** — il tragico non arriva dagli dèi,
-  è la vita stessa che è tragica
-- **Euripide** — il più moderno: il tragico nasce
-  dalle relazioni tra le persone
+| Livello | Tipo di bisogno |
+|---------|----------------|
+| 1 (base) | Fisiologici (respirazione, alimentazione, sonno, sessualità) |
+| 2 | Sicurezza (fisica, psichica, materiale) |
+| 3 | Appartenenza (affetti, amicizia, famiglia) |
+| 4 | Stima (progettualità, riconoscimento) |
+| 5 (apice) | Autorealizzazione (spiritualità, crescita) |
 
-A secoli di distanza, la tragedia "resta fedele
-a se stessa" — perché tocca qualcosa di profondo
-nell'umano che non cambia nei secoli.
+Principio chiave: ogni volta che un bisogno è soddisfatto, perde la sua funzione motivazionale e permette l'emersione del successivo.
 
-### L'esercizio pedagogico
+**Limiti del modello**: Maslow elaborò la sua teoria negli anni '50 da una prospettiva occidentale e culturalmente situata. La struttura gerarchica è soggetta a continue riorganizzazioni contestuali, in relazione al significato che ogni persona attribuisce ai propri bisogni. Il professore sottolinea anche una critica classista: il modello presuppone condizioni non universalmente adattabili.
 
-Gli studenti sono divisi in **5 gruppi**, ciascuno
-con una tragedia assegnata per estrazione. Il lavoro
-prevede:
+### Il modello multidimensionale (Paradiso, 2020)
 
-1. **Leggere** la tragedia — esporsi a un linguaggio
-   non familiare della sofferenza, proprio come
-   accade quando si incontra un paziente che parla
-   una "lingua" diversa dalla nostra
-2. **Condividere** nel gruppo — cosa ti ha parlato?
-   Quali temi ti hanno colpito?
-3. **Sintetizzare** — trovare un messaggio comune,
-   con le inevitabili rinunce individuali (esercizio
-   di équipe reale)
-4. **Andare in scena** — non uno "spettacolino",
-   ma portare temi salienti a una platea
+Paradiso propone una visione più articolata: i bisogni si presentano come **stati percettivi, emotivi e cognitivi** e si organizzano in due sistemi distinti.
 
-Il prof insiste: quello che deve arrivare al pubblico
-deve essere *vero* — deve essere passato attraverso
-l'umanità di chi lo porta in scena. Se non c'è quella
-verità, si sente.
+**Sistema dei bisogni evolutivi** — attivo nelle situazioni di equilibrio e stabilità:
 
-### Le tragedie di quest'anno
+Si compone di cinque dimensioni:
+- Bisogni **primari** (equilibrio fisiologico, accudimento, caring)
+- Bisogni **emotivi** (attaccamento, affetto, protezione, continuità)
+- Bisogni **sociali** (appartenenza, partecipazione al gruppo, noità)
+- Bisogni **culturali** (riconoscimento della propria identità culturale)
+- Bisogni **realizzativi** (espressione di sé, esplorazione, progettualità)
 
-Le docenti hanno scelto — indipendentemente —
-tragedie che convergono su un tema comune: la
-**violenza sulle donne nei conflitti armati**.
+La soddisfazione di questi bisogni permette l'acquisizione di nuove competenze e abilità.
 
-- **Agamennone** (Eschilo) — Cassandra, prigioniera
-  di guerra e bottino sessuale
-- **Le Troiane** (Euripide) — Ecuba, Cassandra,
-  Andromaca: tre donne schiavizzate dopo la caduta
-  di Troia
-- **Andromaca** (Euripide) — la vittima di guerra
-  per eccellenza
-- **Le Trachinie** (Sofocle) — donne umiliate
-  e "rese mute" dalla violenza
-- **Aiace** (Sofocle) — la fragilità dietro
-  l'eroismo apparente
+**Sistema dei bisogni complessi** — attivo nelle situazioni di crisi e post-trauma:
 
-Il prof collega esplicitamente queste storie ai dati
-odierni sulla violenza sessuale nei conflitti armati
-(Congo, Iraq, Rwanda), citando **Nadia Murad**,
-Premio Nobel per la Pace e sopravvissuta alla
-schiavitù sessuale dell'ISIS. La tragedia greca
-non è storia lontana: è cronaca con un linguaggio
-di 2500 anni fa.
+Si attiva quando un evento traumatico interrompe il normale circuito di soddisfazione. Il trauma **amplifica, riduce, elimina o trasforma** le informazioni su di sé e sugli altri. I bisogni complessi sono articolati, multipli, indiretti, di difficile interpretazione.
+
+Si sviluppano in tre fasi:
+1. **Bisogni di sopravvivenza** (fase traumatica acuta)
+2. **Bisogni di riparazione** (post-trauma)
+3. **Bisogni di riorganizzazione** (ripresa del percorso di vita)
+
+Esempi concreti: un bambino che dopo un trauma non riesce più a dormire o mangiare; una donna che ha subito violenza e non riesce più ad uscire di casa.
+
+### La visione pedagogica del bisogno (Palmieri, 2011)
+
+Palmieri va oltre la semplice "mancanza da colmare" e propone una lettura profonda. Non esistono bisogni fisiologici "in sé" — esistono **modi culturali di viverli**. Mangiare non è solo colmare un buco nello stomaco: è condividere, è trasmettere un modo di vedere l'altro, è un'esperienza relazionale.
+
+Dal punto di vista pedagogico: ognuno si forma attraverso la risposta soggettiva e sociale ai propri bisogni.
+
+Il bisogno non è solo un malessere da estinguere: è anche una **condizione esistenziale che attiva la motivazione all'empowerment, all'azione, al cambiamento**. È alla base di qualsiasi nuovo apprendimento.
+
+Distinzione cruciale tra due tipi di cura (Heidegger):
+- **Cura inautentica**: si sostituisce all'altro nella capacità di aver cura di sé. Crea dipendenza, toglie possibilità.
+- **Cura autentica**: anticipa le possibilità esistenziali dell'altro, lo libera per la propria cura. Usa i bisogni come spazio di comunicazione, di desiderio, di senso.
+
+### Desideri e aspirazioni — oltre i bisogni
+
+La lezione chiude su una nota importante: nel colloquio con le persone, lo spazio del discorso cambia se passiamo dai bisogni anche ai **desideri e alle aspirazioni**. Il termine "desiderio" viene dalla composizione latina *de-sideris* — "condizione in cui sono assenti le stelle". Il desiderio è uno spazio di mancanza che orienta verso qualcosa: è già, in sé, una forma di progettualità.
+
+> Il prof sottolinea: l'operatore sociale non è un semplice risolutore di problemi o erogatore di prestazioni. È anche un costruttore di storie e di speranza.
 
 ---
 
 ## Concetti chiave
 
 | Termine | Significato |
-|---|---|
-| **Disease** | Malattia in senso biomedico, misurabile con parametri clinici |
-| **Illness** | Vissuto soggettivo della malattia, come la persona si sente |
-| **Sickness** | Dimensione sociale della malattia, riconoscimento/stigma |
-| **Benessere** | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo |
-| **Norma statistica** | Normalità come conformità alla media della popolazione |
-| **Norma di valore** | Normalità come conformità a un ideale |
-| **Norma personale** | Normalità rispetto al proprio funzionamento precedente |
-| **Agentività** | Atteggiamento attivo del soggetto verso la propria condizione |
-| **Catarsi** | Purificazione emotiva attraverso la partecipazione alla tragedia |
-| **Omeostasi** | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio |
-| **To cure** | Terapia: eliminare la malattia |
-| **To care** | Cura: prendersi cura del benessere, sempre praticabile |
+|---------|-------------|
+| **Sé dialogico** | Insieme dinamico di posizionamenti (voci interne) in dialogo tra loro e con l'esterno |
+| **Sentimento di identità** | Esperienza intraindividuale: integrazione come persona, nel tempo, nell'ambiente sociale |
+| **Agency** | Sensazione di poter incidere sulla realtà e costruire la propria identità |
+| **Vulnerabilità** | Caratteristica ontologica umana, legata a circostanze personali, economiche, sociali, culturali |
+| **Disagio** | Situazione appresa, non condizione irreversibile; legata alla lettura soggettiva dell'esperienza |
+| **Resilienza** | Processo di ripresa e riorganizzazione positiva dopo un evento traumatico |
+| **Tutori di resilienza** | Figure significative che permettono alla persona di "rimbalzare" e riattivare processi vitali |
+| **Bisogno** | Stato soggettivo di tensione che attiva la motivazione verso la soddisfazione di una mancanza |
+| **Bisogni evolutivi** | Bisogni nelle situazioni di equilibrio, legati allo sviluppo normale |
+| **Bisogni complessi** | Bisogni nelle situazioni di crisi/trauma: sopravvivenza, riparazione, riorganizzazione |
+| **Motivazione** | Forza che muove il soggetto verso la soddisfazione del bisogno (direzione + intensità) |
+| **Cura autentica** | Cura che anticipa le possibilità dell'altro senza sostituirsi a lui |
+
+---
+
+## Autori e riferimenti bibliografici
+
+| Autore | Opera | Anno | Contributo |
+|--------|-------|------|-----------|
+| Mancini, T. | Psicologia dell'identità, Il Mulino | 2010 | Sé dialogico, sentimento di identità |
+| Erikson, E. | (in Mancini) | 1968 | Sentimento di identità a tre livelli |
+| Glodis e Blasi | (in Mancini) | 1993 | Quattro forme di esperienza del Sé |
+| Pedroni, M.C. | Vulnerabilità: un concetto da maneggiare con cura, Lavoro sociale | 2020 | Critica e rilancio del concetto di vulnerabilità |
+| Malaguti, E. | Educarsi alla resilienza, Erickson | 2005 | Definizione e costruzione della resilienza |
+| Cyrulnik, B. | (in Malaguti) | — | Tutori di resilienza |
+| Wolin & Wolin | (in Malaguti) | 1993 | Sette elementi della resilienza |
+| Palmieri, C. | Un'esperienza di cui aver cura, FrancoAngeli | 2011 | Visione pedagogica del bisogno |
+| Paradiso, L. | La progettazione educativa e sociale, Mondadori | 2020 | Modello multidimensionale dei bisogni |
+| Maslow, A. | (in Paradiso, Palmieri) | 1954 | Piramide gerarchica dei bisogni |
+| Tramma, S. | L'educatore imperfetto, Carocci | 2018 | Globalità, operatività, integrazione |
+
+---
 
 ## Collegamenti
 
-- **Autori citati:** Christopher Boorse (1977),
-  Carol Ryff, Tiziano Terzani (*L'ultimo giro di
-  giostra*), Callieri & C. (1999), Nadia Murad
-- **Lezioni successive:** Storia della follia
-  (25.02), L'incontro con l'alienità (4.03), Dal
-  modello psicoanalitico alle difese (11.03)
-- **Temi aperti:** Come cambiano le categorie
-  diagnostiche nel tempo? Come si costruisce una
-  diagnosi psichiatrica? (L'omosessualità come
-  esempio storico sarà ripreso)
-- **Da ricordare:** il vademecum del modulo
-  contiene i contenuti in forma scritta con i
-  riferimenti bibliografici precisi
+- **Lezione 01**: il modello bioecologico di Bronfenbrenner (sistemi, microsistema, esosistema, cronosistema) — questa lezione approfondisce le persone all'interno di quei sistemi.
+- **Prossime lezioni**: autoefficacia, autostima e un approfondimento sul tema dell'identità.
+- **Temi aperti**: come si lavora concretamente con i tutori di resilienza? Come si distingue nella pratica tra cura autentica e cura inautentica? Come si usano i bisogni come spazio di comunicazione e apprendimento?

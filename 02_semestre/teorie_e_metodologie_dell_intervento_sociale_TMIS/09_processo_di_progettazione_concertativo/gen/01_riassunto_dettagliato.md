@@ -1,384 +1,258 @@
-# Introduzione al modulo di Salute Mentale
-Salute Mentale · Sessione 01 · 18.02.2026
+# Processo di Progettazione Concertativo
+TMIS · Sessione 09 · 24.11.2025
 
-> Questa prima lezione mette sul tavolo le fondamenta
-> di tutto il modulo: che cos'è davvero la salute?
-> Cos'è il benessere? E la normalità? Spoiler: nessuna
-> di queste domande ha una risposta semplice — e
-> proprio da qui parte il bello. Si parla anche della
-> tragedia greca come strumento per avvicinarsi alla
-> sofferenza umana. Roba potente, vedrai.
+> Questa lezione è il cuore pratico del modulo: dopo aver capito *cosa sono* i modelli di progettazione (lezione 06), ora entriamo nel *come si fa* con l'approccio dialogico-partecipato. Si parla di ascolto, negoziazione, rete, desideri, aspirazioni — e di perché fare un progetto *con* le persone è molto diverso dal farlo *per* le persone.
 
 ---
 
-## Il modulo: struttura e filosofia
+## Dal modello tecnico-razionale al modello concertativo
 
-Il modulo di Salute Mentale si articola su **tre
-tappe fondanti**, ispirate alla scuola fenomenologica:
+Come abbiamo visto nella lezione 06, i modelli tradizionali seguono una logica **sinottico-razionale**: l'esperto analizza il problema, decide la soluzione, la applica. Lineare. Pulito. E spesso sbagliato.
 
-1. **La clinica** — l'universo dell'incontro con
-   chi soffre. Si esplorano i concetti di salute
-   e malattia, normalità e patologia, l'incontro
-   empatico con l'altro e i meccanismi di difesa.
+L'**approccio concertativo-partecipativo** nasce come critica a questo modello. Il problema del modello razionale? Tratta i bisogni delle persone come dati oggettivi, quando in realtà sono sempre interpretati, negoziati, contestuali. Ogni attore coinvolto (utente, famiglia, educatore, assistente sociale, medico…) porta una propria lettura della situazione — e quelle letture non coincidono mai del tutto.
 
-2. **Il mondo** — le funzioni psichiche e le loro
-   alterazioni (coscienza, percezione, pensiero,
-   affettività...), per poi passare alla dimensione
-   nosografica: sindromi affettive, ansiose, nevrosi,
-   disturbi di personalità, psicosi.
+Il modello concertativo si basa su tre convinzioni fondamentali:
 
-3. **Il corpo** — teatro della sofferenza: violenza,
-   aggressività, dimensioni anoressico-bulimiche,
-   sessualità come luogo di disagio, alessitimia.
+1. I problemi sociali **non hanno cause lineari** — sono intrecciati, complessi.
+2. Esistono **più letture dei bisogni** e più ipotesi interpretative valide.
+3. Il ruolo degli operatori non è distribuire ricette, ma **promuovere l'empowerment** relazionale di individui e comunità.
 
-Queste tre tappe sono attraversate da quattro
-dimensioni esistenziali: **spazio, tempo, identità
-e incontro**. La clinica va calata in uno spazio
-e in un tempo, l'identità va declinata nella
-relazione, e prima della relazione viene l'incontro
-— senza il quale la relazione non sussiste.
-
-Il prof sottolinea un punto chiave: l'operatore
-sociale non è un tecnico di una sola disciplina,
-ma un **trait d'union** tra le specializzazioni.
-Per questo serve una conoscenza delle aree
-psicopatologiche — non per fare diagnosi, ma per
-comunicare con le altre figure professionali e
-per accompagnare la persona nella sua interezza.
+Il termine **"dialogico"** viene dal filosofo russo **Michail Bachtin** (1895–1975), che definisce il dialogo come una comunicazione attenta all'interlocutore e al contesto, dove ogni scambio è co-costruito dai partecipanti — non una semplice sequenza di turni. Gli autori finlandesi **Arnkil e Seikkula** lo descrivono così: il dialogo è l'arte di valicare i confini. Invece di cercare di controllare gli altri, le parti si rivolgono l'una verso l'altra per ascoltare meglio e generare linguaggi e soluzioni condivise.
 
 ---
 
-## Salute, benessere, normalità: tre concetti
-da non confondere
+## La progettazione come costruzione condivisa di significati
 
-Uno dei messaggi centrali della lezione: **salute,
-benessere e normalità sono tre cose diverse** che
-spesso vengono confuse o sovrapposte. Vediamole
-una per una.
+Questa è la frase-chiave dell'intera lezione, vale la pena stamparla in testa:
 
-### Salute: più complessa di quanto sembra
+> **La questione centrale del processo di progettazione è la costruzione di un significato comune del problema, prima della ricerca di una sua "soluzione".**
 
-Il prof parte da una domanda semplice: "Chi di voi
-sta bene?" Poi mostra quanto sia difficile rispondere.
-Due paradigmi diversi: puoi andare a fare gli esami
-del sangue e la TAC (approccio biomedico, *disease*),
-oppure puoi rispondere "mi sento bene" senza nessun
-esame (approccio soggettivo, *illness*). Non sono la
-stessa cosa.
+In pratica: prima di pensare a *cosa fare*, tutte le persone coinvolte devono concordare su *come leggono la situazione*. È uno sforzo enorme — perché ognuno usa le proprie **mappe cognitive** per interpretare la realtà — ma è indispensabile se vuoi un progetto che le persone sentano davvero loro.
 
-Introduce il lavoro di **Christopher Boorse (1977)**,
-che nel suo articolo ha tentato di definire la salute
-esaminando sette possibili condizioni — dimostrando
-che **nessuna da sola regge**:
+Quando questo processo funziona, i partecipanti non si limitano ad eseguire un progetto calato dall'alto, ma diventano **attori protagonisti** della progettualità. Sono compartecipi. Hanno motivazione concreta a renderlo reale — e si sentono confermati nella propria identità e competenza.
 
-| Condizione | Perché non basta |
-|---|---|
-| **Salute come valore** | Non tutto ciò che è desiderabile è salute; ci sono contesti dove non essere in salute può essere preferibile (es. durante guerre) |
-| **Malattia come ciò che il medico cura** | La medicina ha "colonizzato" ambiti non patologici (gravidanza, adolescenza); molte malattie non vengono trattate |
-| **Salute come norma statistica** | Fuori dalla media ≠ malattia (l'omosessualità è stata classificata come patologia a lungo) |
-| **Malattia come sofferenza** | Malattie asintomatiche e dolori normali (ciclo mestruale, coliche neonatali, dentizione) |
-| **Malattia come disabilità** | Tutti attraversiamo fasi di "non abilità" (un neonato non cammina, ma non è malato) |
-| **Salute come adattamento** | L'essere umano adatta anche l'ambiente a sé. Pensate alle neurodivergenze: a volte è l'ambiente che va cambiato |
-| **Salute come omeostasi** | Il funzionamento umano si basa su un continuo perdere e riacquistare equilibrio. L'equilibrio statico è rigidità |
-
-L'ultimo punto merita attenzione. Il prof insiste:
-**l'equilibrio statico non è salute, è rigidità**.
-La metafora è bellissima: camminare richiede di
-rompere continuamente l'equilibrio. Per fare un
-passo devi sbilancarti. La vita è movimento, e il
-movimento richiede di perdere e ritrovare l'equilibrio.
-"Le persone troppo equilibrate sono spesso molto
-rigide, poco disposte a rischiare."
-
-> *"Non c'è movimento senza perdere l'equilibrio,
-> e siccome la vita è costante movimento, occorre
-> mettersi nell'ottica di capire e accompagnare
-> la perdita e la riconquista dell'equilibrio —
-> non impedirla."*
-> — Il professore
-
-### La triade anglosassone: disease, illness, sickness
-
-Per ordinare le idee sulla salute, il prof introduce
-la distinzione in tre dimensioni:
-
-- **Disease** — la malattia in senso biomedico,
-  misurabile (esami, parametri clinici)
-- **Illness** — il vissuto soggettivo: come la
-  persona *si sente*
-- **Sickness** — la dimensione sociale: come la
-  società riconosce (o stigmatizza) quella condizione
-
-Queste tre dimensioni **possono non coincidere**.
-Una malattia può essere tale per il medico (disease)
-ma non vissuta come tale dal soggetto (illness),
-oppure può essere vista dalla società come un vizio
-(sickness negativa) anche se è una malattia vera.
-
-Questo è importante per il lavoro sociale: lo sguardo
-della società su una condizione ha effetti reali sul
-benessere della persona. Se hai una malattia che viene
-giudicata come "vizio" o "colpa", la stigmatizzazione
-peggiora tutto — come mostrava già il racconto
-di apertura della lezione.
+Il processo è **circolare, non lineare** — viene rappresentato come una spirale: si può tornare a qualsiasi fase in qualsiasi momento, in base a cosa emerge nel dialogo e nell'esperienza.
 
 ---
 
-## Il benessere: un concetto multidimensionale
+## Progetto di vita vs Progetto di sviluppo individuale
 
-**Salute e benessere non coincidono.** Il prof porta
-l'esempio di **Tiziano Terzani** e del suo libro
-*L'ultimo giro di giostra*: un giornalista gravemente
-malato di cancro che attraverso la malattia ha trovato
-una pace e una ricchezza interiore che non aveva quando
-stava "bene". Paradossale? No, profondamente umano.
+I modelli tradizionali parlano di **PSI** (Progetto di Sviluppo Individuale) o **PEI** (Progetto Educativo Individualizzato): strumenti tecnici, centrati su obiettivi specifici e misurabili, dove è il professionista ad avere in mano il progetto.
 
-Il benessere è un concetto **polisemico e
-multidimensionale**. **Carol Ryff** è una psicologa
-che ha risposto alla domanda: "Quando diciamo che
-una persona sta bene, di *cosa* esattamente stiamo
-parlando?" La risposta: di sei dimensioni distinte.
+Il nuovo approccio dialogico sposta il focus sul **Progetto di Vita (PdV)**: qualcosa che traduce la dimensione di senso della vita della persona. Non solo "cosa sa fare" ma "chi vuole diventare".
 
-| Dimensione | Cosa significa in concreto |
-|---|---|
-| **Autonomia** | Capacità di determinarsi senza dipendere dagli altri per le proprie scelte |
-| **Controllo ambientale** | Capacità di cogliere, sfruttare e valorizzare le risorse e le possibilità disponibili |
-| **Relazioni positive** | Avere relazioni calde, fiduciose, contraddistinte da affetto e reciprocità |
-| **Autoaccettazione** | Consapevolezza delle proprie qualità e limiti, senza negare né l'uno né l'altro |
-| **Percezione di crescita** | Sentire che la propria vita è un processo continuo di sviluppo |
-| **Scopo nella vita** | Avere mete, riuscire a dare senso a ciò che si fa |
+> «L'educazione per tutta la vita rappresenta un'esperienza da costruire giorno per giorno e con notevole impegno personale, contraddistinta da un apprendimento formale e uno non formale — complementari e in sinergia tra loro — costituendosi come esperienza particolare e originale per ciascun individuo.» (Aleandri, 2003)
 
-Questo modello è prezioso per l'operatore sociale
-perché rende il lavoro sul benessere **concreto**.
-Invece di un generico "lavoro per il benessere",
-puoi esplorare *quale* dimensione è più critica
-e intervenire lì. Il prof fa un esempio: se lavori
-sull'autonomia di qualcuno (aiutarlo a fare scelte
-proprie), quello starà meglio — anche senza sapere
-perché. Il prodotto è quello che conta.
+Per costruire un PdV bisogna tenere conto di **potenzialità, talenti, desideri e aspirazioni** — e trasformarli in aspettative realistiche nel breve, medio e lungo termine, considerando i diversi ruoli sociali che ogni persona assume e assumerà.
 
-Se in un momento la persona non riesce a lavorare
-sulle relazioni, si compensa sulle altre dimensioni.
-È un gioco di variabili, non tutto insieme.
+Il prof è diretto: se un ragazzo vuole fare il meccanico, insegnargli a sbucciare le patate ha senso *solo* se è contestualizzato in un percorso più ampio coerente con la sua aspirazione. Senza quel filo, è solo attività fine a sé stessa.
 
-Il prof aggiunge: **vale anche per noi**, non solo
-per i nostri utenti. Se guardiamo indietro alla
-nostra vita e vediamo solo disastri, non stiamo bene.
-Se riusciamo a vedere crescita e senso, anche nelle
-difficoltà, il benessere aumenta.
+> Il prof sottolinea: i due piani (progetto di vita e piccoli progetti su base annuale) devono andare nella stessa direzione. La persona avrà più motivazione se vede un collegamento tra quello che fa ogni giorno e quello che vuole diventare.
+
+I due concetti non sono sinonimi né intercambiabili — vanno sempre tenuti presenti insieme.
 
 ---
 
-## La normalità: quale normalità?
+## Desideri e aspirazioni: una distinzione fondamentale
 
-Il prof introduce tre tipi di normalità — tutti
-rilevanti per il lavoro con le persone.
+Il prof dedica una parte consistente della lezione a questa distinzione, perché cambia il modo in cui si imposta la relazione d'aiuto.
 
-### 1. Norma statistica
+**Desiderare** = impulso immediato, emotivo, legato al presente. La mancanza che lo genera rimane mancanza finché non viene soddisfatta. Non c'è progettualità.
 
-La "normalità" come conformità alla media della
-popolazione. Sembra neutro, ma non lo è: essere
-fuori dalla norma statistica può provocare stigma,
-isolamento, discriminazione. L'omosessualità è stata
-a lungo classificata come patologia proprio su base
-statistica — e solo quando la comunità scientifica
-ha cambiato i criteri ne è uscita.
+**Aspirare** = qualcosa di più elaborato, proiettato nel futuro. Non voglio solo avere qualcosa — voglio *diventare* qualcosa. L'aspirazione trasforma la mancanza in un percorso.
 
-Il contesto è fondamentale: qualsiasi comportamento,
-senza contesto, può sembrare "anormale".
+L'antropologo statunitense **Arjun Appadurai** definisce la capacità di aspirare come la capacità di immaginare un futuro più favorevole alla propria esistenza. La si esercita nel presente: il senso del futuro si riverbera sul senso dell'ora.
 
-### 2. Norma di valore (ideale)
+Per poter aspirare servono tre capacità:
+- **Capacità culturale**: poter partecipare alle rappresentazioni sociali che danno forma al futuro della società.
+- **Capacità di navigare tra norme sociali**: usarle come supporto per i propri progetti di vita.
+- **Capacità di "voce"**: esprimersi nel collettivo — la dimensione politica della configurazione del futuro.
 
-Uno standard ideale che si pone come riferimento.
-Se il mio ideale è un certo tipo di corpo, starò
-male finché non ci corrispondo. Ed è un ideale
-*irraggiungibile*, quindi la sofferenza è perpetua.
+> Il prof allarga il discorso: nelle società più povere e non democratiche la possibilità di aspirare è spesso negata. E anche nelle società ricche l'individualismo e l'isolamento sociale indeboliscono questa capacità. Il lavoro sociale, quindi, non è solo lavorare caso per caso — ha una dimensione politica: combattere le disuguaglianze.
 
-**Attenzione**: la norma ideale incide anche sugli
-operatori. Abbiamo ideali su come dovrebbe essere
-un utente, come dovrebbe comportarsi, cosa dovrebbe
-raggiungere. Se quella norma ideale diventa il metro
-di lavoro, rischia di diventare penalizzante per
-la relazione.
+La tabella riassuntiva delle slide (da memorizzare):
 
-### 3. Norma personale (individuale)
+| Aspetto | Desiderare | Aspirare |
+|---------|-----------|---------|
+| Natura | Impulso emotivo immediato | Tendenza consapevole e orientata |
+| Temporalità | Breve termine, legato all'istante | Lungo termine, proiettato nel futuro |
+| Profondità | Movimento interiore iniziale | Movimento maturo, elaborato |
+| Direzione | Non sempre chiara | Definita: indica una meta o un ideale |
+| Progettualità | Assente o minima | Forte: richiede impegno e decisioni |
+| Relazione con la mancanza | Nasce dalla mancanza | Trasforma la mancanza in percorso |
+| Funzione pedagogica | Mobilita, attiva il soggetto | Orienta, dà senso e direzione alla crescita |
 
-La normalità *rispetto a come funzionavo prima*.
-Se mi rompo una gamba, non sono più "normale" rispetto
-al mio funzionamento precedente. Questa dimensione
-è importante clinicamente: capire com'era il soggetto
-prima dell'evento permette di comprendere il
-cambiamento.
-
-Ma il prof aggiunge un avvertimento cruciale:
-**la normalità personale non è sempre da riconquistare**.
-A volte è proprio quella "normalità" precedente che
-ha causato il problema. Esempio: "Lavoravo 10 ore
-al giorno, gestivo tutto, poi mi sono ammalato —
-voglio tornare come prima." Forse no. Se torni come
-eri prima, tra un mese ci rivediamo peggio.
-
-C'è anche il rischio di **idealizzare il passato**:
-"Prima stavo bene" — ma siamo sicuri? O è solo che
-in confronto a oggi sembra il paradiso?
+**Esempio pratico:** "Desidero essere ascoltato" vs "Aspiro a diventare una persona capace di ascoltare e comprendere gli altri."
 
 ---
 
-## La posizione del soggetto davanti alla malattia
+## Analisi pedagogica dei problemi educativi
 
-L'ultima parte della lezione introduce un modello
-pratico a due assi per capire come il soggetto si
-pone rispetto alla propria condizione.
+Quando si incontra una situazione-problema, il primo passo è analizzarla con attenzione. Il **problema educativo** è la *distanza tra una situazione esistente e una auspicata* — e può essere percepito dall'operatore anche quando la persona coinvolta non ne è ancora consapevole.
 
-**Asse 1 — Identificazione:**
-- *Non mi identifico* con la malattia: "Io non sono
-  la mia malattia, è qualcosa di estraneo"
-- *Mi identifico*: "La mia condizione fa parte di me"
+La **domanda progettuale** nasce dall'insieme degli elementi che fanno emergere l'esigenza di attivare un intervento: descrive lo scarto tra situazione presente e cambiamento desiderato.
 
-**Asse 2 — Agentività** (termine tecnico dal greco):
-- *Agentivo* (attivo): affronto la situazione,
-  mi muovo, cerco alleati
-- *Passivo*: subisco, aspetto che qualcuno intervenga
+I problemi socio-educativi non hanno mai una causa unica — sono intrecciati, complessi, influenzati da contesti relazionali multipli (visione ecologica di Bronfenbrenner).
 
-Incrociando i due assi si ottengono quattro posizioni:
+### Le cinque trappole interpretative (da cui stare lontani)
 
-| | Non si identifica | Si identifica |
-|---|---|---|
-| **Passivo** | **Delega**: "Faccia lei, risolva lei" | Passivo nella propria condizione |
-| **Agentivo** | **Guarigione**: combatte per eliminare la condizione | **Cura**: lavora sul proprio benessere dentro la condizione |
+Il prof elenca cinque errori nei quali è facile cadere e che bisogna attivamente evitare:
 
-Il passaggio chiave: quando il soggetto si identifica
-con la propria condizione e diventa agentivo, il
-paradigma passa dalla **guarigione** alla **cura**.
-Non si tratta più di eliminare la malattia (che a
-volte non è possibile), ma di aumentare il benessere
-*dentro* la condizione.
+1. **Interpretazioni diagnostiche deterministiche** — vedere una persona come la sua diagnosi. "Ha la trisomia 21, quindi non andrà mai a lavorare." La diagnosi può intrappolare, non è una sentenza sul futuro.
 
-> *"Non tutto si può guarire. Ma tutto può essere
-> curato."*
-> — Il professore
+2. **Oggettivazione e spersonalizzazione** — trattare la persona come un caso clinico, un problema da risolvere. Decidere la soluzione a priori, amministrativamente, senza considerare la persona.
 
-La differenza tra *to cure* (terapia) e *to care*
-(cura) è fondamentale per il lavoro sociale: la
-terapia non è sempre possibile, ma la cura — nel
-senso di prendersi cura del benessere della persona
-— è sempre praticabile.
+3. **Dividere in normale/diverso** — imporre standard di vita come unica traiettoria accettabile (lavoro al 100%, famiglia, figli…). Ogni persona ha traiettorie valide e diverse.
 
-Nella realtà le persone si muovono tra i quadranti,
-soprattutto all'inizio della malattia. L'operatore
-accompagna questo movimento.
+4. **Ineducabilità preconcetta** — pensare che certe persone, famiglie o contesti non possano evolversi. "È inutile lavorarci, tanto non cambierà niente."
+
+5. **Privilegiare la custodia all'emancipazione** — è più comodo portare un bambino in struttura che fare un lavoro genitorialità. Ma l'educazione punta all'autonomia, all'empowerment, all'emancipazione. Non alla gestione assistenziale.
+
+> Il prof sottolinea anche il concetto di **impotenza appresa**: persone che, dopo una vita di istituzionalizzazione, hanno imparato di non avere potere sulla loro situazione. Il lavoro educativo consiste anche nel farle scoprire che possono incidere sulla propria realtà.
 
 ---
 
-## La tragedia greca: passioni e follia
+## Le fasi del processo di co-progettazione
 
-Parallelamente allo studio teorico, il modulo
-include un lavoro su **cinque tragedie greche**.
+Come visto nella lezione 06, il processo ha cinque fasi — ricorda sempre questo schema:
 
-### Perché la tragedia?
+```
+Ideazione → Attivazione → Scrittura del progetto → Realizzazione → Verifica
+```
 
-La tragedia greca nasce insieme alla medicina antica
-(Ippocrate) e mette in scena la sofferenza umana —
-quella difficile da spiegare e a volte da comprendere.
-Assistere alla tragedia faceva emergere emozioni e
-sentimenti che, attraverso la **catarsi**, potevano
-uscire e liberare.
+Tutto è attraversato da **valutazione in itinere** e momenti dialogici (colloqui, riunioni d'équipe, incontri di rete).
 
-La tragedia parla dei **confini dell'umano**: la
-morte, la malattia, la follia. Il prof distingue
-gli approcci dei tre grandi tragediografi:
+Fin qui, tutto familiar. La lezione 09 approfondisce la fase di **Ideazione** (co-costruzione dell'idea) e l'inizio dell'**Attivazione** (costruzione della rete e lettura condivisa).
 
-- **Eschilo** — il più arcaico: la follia arriva
-  dagli dèi, è una forza esterna che schiaccia
-- **Sofocle** — il tragico non arriva dagli dèi,
-  è la vita stessa che è tragica
-- **Euripide** — il più moderno: il tragico nasce
-  dalle relazioni tra le persone
+### Fase 1 — Ideazione
 
-A secoli di distanza, la tragedia "resta fedele
-a se stessa" — perché tocca qualcosa di profondo
-nell'umano che non cambia nei secoli.
+**Nascita dell'idea di progetto**: un attore (interno o esterno all'istituzione) inizia a ipotizzare possibilità di cambiamento per una persona, gruppo o comunità.
 
-### L'esercizio pedagogico
+**Analisi della prima idea**: riflessione sulle motivazioni, funzionalità e possibili effetti — nel rispetto delle competenze e dei canali istituzionali.
 
-Gli studenti sono divisi in **5 gruppi**, ciascuno
-con una tragedia assegnata per estrazione. Il lavoro
-prevede:
+**Co-costruzione dell'idea di progetto** — qui il lavoro si fa più denso. Si divide in due sottopassaggi:
 
-1. **Leggere** la tragedia — esporsi a un linguaggio
-   non familiare della sofferenza, proprio come
-   accade quando si incontra un paziente che parla
-   una "lingua" diversa dalla nostra
-2. **Condividere** nel gruppo — cosa ti ha parlato?
-   Quali temi ti hanno colpito?
-3. **Sintetizzare** — trovare un messaggio comune,
-   con le inevitabili rinunce individuali (esercizio
-   di équipe reale)
-4. **Andare in scena** — non uno "spettacolino",
-   ma portare temi salienti a una platea
+**A. Analisi della situazione-problema**
 
-Il prof insiste: quello che deve arrivare al pubblico
-deve essere *vero* — deve essere passato attraverso
-l'umanità di chi lo porta in scena. Se non c'è quella
-verità, si sente.
+Si raccolgono informazioni attraverso:
+- Osservazione diretta e/o partecipante
+- Raccolta dell'anamnesi e del percorso socioeducativo/formativo/professionale
+- Individuazione delle persone significative nella rete interna ed esterna
+- Prima identificazione di risorse e bisogni emancipativi
 
-### Le tragedie di quest'anno
+> Il prof racconta un esempio personale: quando riceveva una segnalazione con dossier clinici, evitava di leggerli in anticipo. Preferiva incontrare la persona senza pregiudizi — poi, una volta conosciuta, le informazioni cliniche diventavano utile contesto, non gabbia.
 
-Le docenti hanno scelto — indipendentemente —
-tragedie che convergono su un tema comune: la
-**violenza sulle donne nei conflitti armati**.
+Un concetto chiave qui è la **Zona di Sviluppo Prossimale (ZSP)** di **Lev Vygotskij**: la distanza tra ciò che una persona sa fare da sola e ciò che sa fare con l'aiuto di altri. È lì che si lavora — è il territorio della crescita possibile.
 
-- **Agamennone** (Eschilo) — Cassandra, prigioniera
-  di guerra e bottino sessuale
-- **Le Troiane** (Euripide) — Ecuba, Cassandra,
-  Andromaca: tre donne schiavizzate dopo la caduta
-  di Troia
-- **Andromaca** (Euripide) — la vittima di guerra
-  per eccellenza
-- **Le Trachinie** (Sofocle) — donne umiliate
-  e "rese mute" dalla violenza
-- **Aiace** (Sofocle) — la fragilità dietro
-  l'eroismo apparente
+**B. Prime ipotesi di obiettivi e strategie**
 
-Il prof collega esplicitamente queste storie ai dati
-odierni sulla violenza sessuale nei conflitti armati
-(Congo, Iraq, Rwanda), citando **Nadia Murad**,
-Premio Nobel per la Pace e sopravvissuta alla
-schiavitù sessuale dell'ISIS. La tragedia greca
-non è storia lontana: è cronaca con un linguaggio
-di 2500 anni fa.
+L'équipe formula ipotesi preliminari da *negoziare* con tutte le persone coinvolte. Non decisioni finali — un punto di partenza.
+
+> Attenzione critica: non si arriva alla riunione con il progetto già fatto. Se lo fai, stai chiedendo alla persona di avallare qualcosa su cui non ha potuto incidere. Peggio ancora: una persona che ha imparato a non opporsi difficilmente riuscirà a dire no. Quindi coinvolgila fin dall'inizio.
+
+---
+
+### Fase 2 — Attivazione
+
+**Definizione della rete da coinvolgere**
+
+La rete è ampia — la slide mostra uno schema con l'utente al centro:
+- Rete familiare (genitori, famiglia allargata, fratelli)
+- Rete istituzionale (curatore, assistente sociale, psicologo, medico, psichiatra…)
+- Unità abitativa (educatore di riferimento, altri educatori, altri utenti)
+- Centro diurno (educatori, personale, utenti)
+- Tempo libero (amici, volontari, monitori sportivi)
+
+Non bisogna contattarli tutti indiscriminatamente — si individuano coloro che hanno una *reale influenza* sulle possibilità di cambiamento evolutivo.
+
+> Il prof porta un esempio: un volontario che porta l'utente alle partite di calcio racconta che lui vorrebbe imparare a prendere il bus da solo per arrivare al campo. Informazione preziosa, venuta da una persona "periferica". Non c'è nessuno troppo piccolo per avere qualcosa da dire.
+
+**Processo di co-costruzione della partecipazione**
+
+L'operatore assume il ruolo di **facilitatore della comunicazione**: stimola il dialogo, raccoglie tutti i punti di vista, aiuta a esprimere il punto di vista *sulla situazione* (non sulle soluzioni).
+
+Tre ostacoli tipici e come affrontarli:
+
+| Ostacolo | Risposta metodologica |
+|----------|----------------------|
+| Generalizzazioni cristallizzate ("è sempre aggressivo") | Richiedere esempi concreti che hanno portato a quella conclusione |
+| Resistenza ai punti di vista diversi | Spiegare che tutte le letture sono valide e necessarie per una visione complessa |
+| Tendenza a rifugiarsi nel fare (saltare alle soluzioni) | Non si parla di soluzioni finché non si ha una lettura condivisa |
+
+Dopo aver raccolto tutti i punti di vista, l'operatore **riformula una narrazione condivisa** — un quadro coerente che li integri tutti. Solo allora si possono discutere obiettivi, strategie e responsabilità.
+
+---
+
+## Gli obiettivi nel processo partecipato
+
+Gli obiettivi condivisi assolvono quattro funzioni:
+
+- **Orientativa**: delineano lo scopo dell'agire progettuale
+- **Comunicativa**: attivano scambi chiari e condivisi a tutti i livelli
+- **Decisionale**: ancorano le scelte a finalità discusse con tutti
+- **Valutativa**: forniscono indicatori per valutare i risultati
+
+Si strutturano su due livelli:
+
+**Obiettivi generali** — declinano le macrofinalità del lavoro sociale sulla situazione specifica (autonomia, integrazione sociale, empowerment…). A medio-lungo termine. Formulati con verbi all'infinito, con soggetto il protagonista del progetto.
+*(Es: "Mario aumenterà la sua autonomia negli spostamenti sul territorio")*
+
+**Obiettivi specifici** — prestazioni semplici e osservabili, a breve-medio termine, che concorrono a raggiungere l'obiettivo generale. Rispettano la ZSP: realistici ma ambiziosi.
+*(Es: "Mario entro tre mesi saprà leggere gli orari del bus della tratta foyer-lavoro e riuscirà a prendere autonomamente il bus per arrivare al lavoro")*
+
+### Obiettivi SMART
+
+| Lettera | Criterio |
+|---------|---------|
+| **S** | Semplice — chiaro e comprensibile per tutti |
+| **M** | Monitorabile — con indicatori condivisi |
+| **A** | Auspicabile — riconosciuto come opportuno da tutti |
+| **R** | Realistico — raggiungibile, in zona prossimale di sviluppo |
+| **T** | Temporale — collocato in un lasso di tempo realistico |
+
+---
+
+## I livelli di partecipazione (O'Sullivan)
+
+**Terence O'Sullivan** definisce quattro modalità di partecipazione ai progetti:
+
+| Livello | Nome | Descrizione |
+|---------|------|-------------|
+| **A** | Being in control | Massimo grado: la persona decide completamente per sé |
+| **B** | Being a partner | Accordo attraverso dialogo e negoziazione — livello minimo accettabile |
+| **C** | Being consulted | Le opinioni sono considerate, ma la decisione è dei professionisti |
+| **D** | Being told | Solo comunicazione unidirezionale — la persona è informata, non coinvolta |
+
+La progettazione dialogico-partecipata mira al livello **A** e si muove tra **A e B**. Il livello D non è coerente con i diritti delle persone né con le finalità dell'intervento socioeducativo — chi lo usa sistematicamente abbraccia, consapevolmente o no, una prospettiva **oppressiva/disabilitante** che genera percorsi istituzionalizzanti.
 
 ---
 
 ## Concetti chiave
 
 | Termine | Significato |
-|---|---|
-| **Disease** | Malattia in senso biomedico, misurabile con parametri clinici |
-| **Illness** | Vissuto soggettivo della malattia, come la persona si sente |
-| **Sickness** | Dimensione sociale della malattia, riconoscimento/stigma |
-| **Benessere** | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo |
-| **Norma statistica** | Normalità come conformità alla media della popolazione |
-| **Norma di valore** | Normalità come conformità a un ideale |
-| **Norma personale** | Normalità rispetto al proprio funzionamento precedente |
-| **Agentività** | Atteggiamento attivo del soggetto verso la propria condizione |
-| **Catarsi** | Purificazione emotiva attraverso la partecipazione alla tragedia |
-| **Omeostasi** | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio |
-| **To cure** | Terapia: eliminare la malattia |
-| **To care** | Cura: prendersi cura del benessere, sempre praticabile |
+|---------|-------------|
+| **Approccio concertativo** | Modello di progettazione che valorizza dialogo, negoziazione e co-costruzione tra tutti gli attori |
+| **Dialogico (Bachtin)** | Comunicazione attenta all'interlocutore, co-costruita, non sequenziale |
+| **Progetto di vita (PdV)** | Progetto centrato sulla dimensione di senso della vita della persona |
+| **PSI / PEI** | Modelli più tecnici/precedenti: Progetto di Sviluppo Individuale / Progetto Educativo Individualizzato |
+| **Desiderio** | Impulso emotivo immediato verso soddisfazione di un bisogno |
+| **Aspirazione (Appadurai)** | Capacità di immaginare un futuro più favorevole; trasforma la mancanza in percorso |
+| **ZSP (Vygotskij)** | Zona di Sviluppo Prossimale: distanza tra ciò che si sa fare da soli e con l'aiuto di altri |
+| **Lettura condivisa** | Costruzione collettiva di un significato comune della situazione-problema |
+| **Facilitatore** | Ruolo dell'operatore negli incontri di rete: stimola il dialogo, raccoglie punti di vista, riformula |
+| **SMART** | Criteri per obiettivi: Semplice, Monitorabile, Auspicabile, Realistico, Temporale |
+| **O'Sullivan** | Autore dei 4 livelli di partecipazione (A: decide da solo → D: viene solo informato) |
+| **Impotenza appresa** | Condizione di chi ha imparato di non poter incidere sulla propria realtà — da trasformare |
+
+---
 
 ## Collegamenti
 
-- **Autori citati:** Christopher Boorse (1977),
-  Carol Ryff, Tiziano Terzani (*L'ultimo giro di
-  giostra*), Callieri & C. (1999), Nadia Murad
-- **Lezioni successive:** Storia della follia
-  (25.02), L'incontro con l'alienità (4.03), Dal
-  modello psicoanalitico alle difese (11.03)
-- **Temi aperti:** Come cambiano le categorie
-  diagnostiche nel tempo? Come si costruisce una
-  diagnosi psichiatrica? (L'omosessualità come
-  esempio storico sarà ripreso)
-- **Da ricordare:** il vademecum del modulo
-  contiene i contenuti in forma scritta con i
-  riferimenti bibliografici precisi
+**Lezioni precedenti:**
+- **Lezione 06** — Introduzione ai modelli di progettazione: schema Ideazione → Attivazione → Scrittura → Realizzazione → Verifica. La lezione 09 approfondisce le prime due fasi con l'approccio dialogico-partecipato.
+- **Lezione sull'osservazione** — L'osservazione è trasversale a tutto il processo: non solo nella fase iniziale, ma in itinere.
+
+**Temi aperti / da approfondire:**
+- Costruzione degli obiettivi generali in dettaglio (lezione successiva).
+- Valutazione in itinere e verifica finale (più avanti nel modulo).
+- Testo di riferimento: Brambilla, L. (2023). *La progettazione pedagogica. Sfide e orientamenti.* Carocci (pp. 47–82).

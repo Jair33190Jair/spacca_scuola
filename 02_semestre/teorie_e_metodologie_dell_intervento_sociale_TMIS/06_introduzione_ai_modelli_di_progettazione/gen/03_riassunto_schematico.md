@@ -1,156 +1,118 @@
-# L'Adolescenza — Schema
-I Tempi della Vita · Sessione 06
+# Introduzione ai Modelli di Progettazione — Schema
+TMIS — Teorie e Metodologie dell'Intervento Sociale · Sessione 06
 
 ---
 
-## Definizione
+## Progettazione: Definizione
 
-- **Adolescenza** → fase di transizione tra infanzia e adultità; seconda decade della vita
-- **Inizio** → pubertà (biologico)
-- **Fine** → integrazione identitaria e culturale (variabile)
-- **Caratteristica centrale** → disarmonia: aspetti avanzati e aspetti ancora in crescita coesistono
+- **Pro-iectum** → gettare in avanti: immaginare qualcosa che non esiste ancora
+- **Tre dimensioni**: immaginativa · temporale · relazionale
+- **Finalità**: accompagnare le persone verso una condizione di maggior benessere (Ferguson, 2001)
+- **Livelli di complessità**: logico · metodologico · relazionale
 
----
+## Progettualità
 
-## Prospettive teoriche storiche
+- **Definizione** → postura professionale continua, non attività episodica
+- **Non è** → risposta all'emergenza o improvvisazione
+- **È** → intenzionalità di pensiero e azione (Paradiso, 2020)
+- **Ansia applicativa** → rischio da evitare: applicare ricette senza ricerca (Demetrio/Brambilla)
+- **Va difesa** → l'emergenza quotidiana nei servizi la erode
 
-- **Hall (1904)** → *storm and stress*, "seconda nascita"; prima teorizzazione sistematica
-- **Mead (1928)** → ruolo della cultura: adolescenza diversa a seconda del contesto socioculturale
-- **Erikson / Winnicott** → fase difficile ma creativa e positiva; non necessariamente traumatica
-- **Palmonari (1997)** → *«L'adolescenza inizia nella biologia e finisce nella cultura»*
+## Tipologie di Progetto
 
----
+- **Individuale** → Progetto Educativo Individualizzato (PEI)
+- **Di gruppo** → rivolto a un gruppo target
+- **Comunitario** → rivolto a una comunità territoriale
 
-## Riti di passaggio
+## Le 5 Tappe (Leone & Prezza, 2003)
 
-- **Rito di passaggio** → atto simbolico che segna cambio di status socioculturale
-- **Van Gennep (1909)**: tre fasi:
-  - **Separazione** → distacco dallo status precedente
-  - **Margine/Liminare** → soglia, sospensione, lutto
-  - **Aggregazione** → ingresso nel nuovo status
-- **Durkheim** → rito come mezzo di coesione del gruppo sociale
-- **Lévi-Strauss** → rito crea illusione di continuità dove c'è rottura
+| Tappa | Nome | Contenuto chiave |
+|-------|------|-----------------|
+| 1° | **Ideazione** | Ipotesi iniziale, osservazione situazione |
+| 2° | **Attivazione** | Risorse, ruoli, focalizzazione problema, consenso |
+| 3° | **Progettazione** | Progetto scritto: obiettivi, fasi, tempi, risorse |
+| 4° | **Realizzazione** | Avvio attività, verifica in itinere, aggiustamenti |
+| 5° | **Verifica** | Valutazione conclusiva, riformulazione |
 
-### Evoluzione storica dei riti
+> Le tappe sono **non lineari**: si torna indietro, si riformula.
 
-- Europa preindustriale → nessuna distinzione infanzia/adolescenza/adultità
-- Dopoguerra → categoria giovanile autonoma; ribellione anni '60
-- Fine anni '70 → ripiegamento sul privato; individualismo; culto del corpo
-- **Oggi** → molti riti scomparsi o privi di valore simbolico
-  - Uscita di casa tardiva
-  - Negoziazione al posto del comando
-  - Servizio militare non obbligatorio
-  - Passaggio più **faticoso, sfilacciato, prolungato**
-- Senza confini adulti → adolescenti si organizzano da soli → **trasgressione come rito**
+## Livelli di Partecipazione (O'Sullivan, 2011)
 
-### Modello familiare
+| Livello | Nome | Nota |
+|---------|------|------|
+| **A** | Autonomia decisionale | Massima autodeterminazione |
+| **B** | Decisionalità condivisa | **Minimo auspicabile** |
+| **C** | Essere consultati | Decisione ai professionisti |
+| **D** | Essere informati | Approccio oppressivo/disabilitante |
 
-| Tipo famiglia | Logica | Emozione dominante |
-|--------------|--------|--------------------|
-| **Edipica/normativa** | Regole, obbedienza | Senso di colpa |
-| **Narcisistica** | Dialogo, confronto | Vergogna |
-| **Post-narcisistica** | Alleanza, negoziazione | — |
+## I 3 Approcci (Leone & Prezza, 2003 / Paradiso, 2020)
 
----
+### Sinottico-Razionale
 
-## Erikson: V stadio — Identità vs. Confusione di Ruoli
+- **Logica** → causalità lineare, causa → effetto
+- **Obiettivi** → definiti a priori dall'operatore
+- **Processo** → lineare e sequenziale
+- **Partecipazione** → livello D (essere informati)
+- **Focus** → prodotto scritto (progettazione come tappa centrale)
+- **Utente** → oggetto di analisi
+- **Quando funziona** → micro-apprendimenti, procedure standardizzate
+- **Limite** → rigido, non regge la complessità
 
-- **Domanda centrale** → *"Chi sono io?"*
-- **Crisi normativa** → destrutturazione necessaria per identità autonoma e coerente
-- **Sperimentazione** → esplorazione attiva di ruoli e valori
-- **Identificazione** → integrazione di elementi da persone significative
-- **Moratoria psicosociale** → laboratorio di identità; sperimentazione senza responsabilità adulte immediate
-- **Confusione dei ruoli** → incertezza, nessuna direzione, identità frammentata
-- Condizione necessaria → **cultura adulta convenzionale** come riferimento
+### Concertativo-Partecipato (Dialogico)
 
----
+- **Logica** → costruttivismo, realtà co-costruita
+- **Obiettivi** → definiti insieme agli attori coinvolti
+- **Processo** → circolare, bidirezionale tra le tappe
+- **Partecipazione** → livello B minimo (co-autori del progetto)
+- **Focus** → attivazione e co-costruzione del percorso
+- **Utente** → co-protagonista
+- **Dialogo** → "arte di valicare i confini" (Arnkil & Seikkula, 2013)
+- **Principio** → negoziazione · dialogo · valutazione in itinere
 
-## Stati dell'identità — Marcia (1966)
+### Euristico (Problem Solving Cooperativo)
 
-| Stato | Esplorazione | Impegno |
-|-------|-------------|---------|
-| **Acquisizione** | ✓ | ✓ |
-| **Moratorium** | ✓ (in corso) | ✗ |
-| **Chiusura** | ✗ | ✓ (non elaborato) |
-| **Diffusione** | Superficiale | ✗ |
+- **Logica** → realtà dinamica, non controllabile a priori
+- **Obiettivi** → emergono nel percorso di ricerca-azione
+- **Processo** → ricerca-azione partecipata, multi-progetto
+- **Partecipazione** → massima, utente come protagonista attivo
+- **Focus** → attivazione come tappa centrale; progettazione è il risultato
+- **Utente** → co-ricercatore e co-protagonista
+- **Quando funziona** → progetti comunitari, contesti complessi e incerti
+- **Valorizza** → dignità epistemica di operatori e utenza (Brambilla, 2023)
 
----
+## Tabella Comparativa dei 3 Modelli
 
-## Quattro compiti evolutivi fase-specifici (Maggiolini & Charmet, 2004)
+| | Sinottico-Razionale | Concertativo-Partecipato | Euristico |
+|--|--|--|--|
+| **Progetto** | Chiuso, a priori | Co-costruito, mutevole | Esito della ricerca-azione |
+| **Attori** | Operatore | Operatore + protagonisti + reti | Operatore + protagonisti + comunità |
+| **Responsabilità** | Operatore | Condivisa | Condivisa |
+| **Processo** | Lineare | Circolare/flessibile | Esplorativo/ramificato |
 
-### 1. Separazione-Individuazione
-- **Obiettivo** → indipendenza da genitori reali e interiorizzati
-- **Processo** → lutto, ambivalenza, posizione depressiva
-- **Spinte** → pulsione sessuale, aggressiva, sociale
-- **Oggi** → separazione per **delusione** (non trasgressione); passaggio narcisistico
-  - Vergogna narcisistica > colpa edipica
-  - Adolescente si costruisce **attraverso** lo sguardo dell'altro
+## Analisi del Contesto (Tramma, 2018)
 
-### 2. Mentalizzazione del Corpo Sessuato
-- **Obiettivo** → integrare psichicamente le trasformazioni puberali
-- **Contenuti difficili** → mortalità, complementarietà sessuale
-- **Neurobiologia** → corteccia prefrontale (in maturazione) ↔ sistema limbico (picco)
-  - Divario → impulsività, ricerca dopamina, iper-razionalità (Siegel)
-- **Oggi** → corpo estetico > corpo erotico; canoni di bellezza dominanti
-- **Scacco** → corpo vissuto come entità separata dalla propria identità psichica
+**Contesto socio-culturale** (8 mappe):
+- **Popolazione** → anagrafica, etnica, linguistica, valoriale
+- **Ambiente geografico-naturale** → impatto sullo sviluppo socioeconomico
+- **Ambiente urbanistico** → trasporti, accessibilità, tipo di abitazioni
+- **Situazione socio-economica** → occupazione, reddito, qualità della vita
+- **Mobilità** → flussi in entrata/uscita, migrazioni, spostamenti aggregativi
+- **Ambiente relazionale** → spazi aggregativi formali e informali
+- **Servizi** → formazione, salute, assistenza, cultura, sport, tempo libero
+- **Storia** → senza storia si ripetono errori; ogni mappa ha una storia
 
-### 3. Nascita come Soggetto Sociale
-- **Obiettivo** → assumere ruolo socialmente riconosciuto tra pari
-- **Contesto privilegiato** → scuola (luogo affettivo e relazionale, non solo di apprendimento)
-- **Evoluzione relazioni tra pari** → preadolescenza (stessi sesso) → prima adolescenza (amico del cuore) → adolescenza (gruppi misti)
-- **Oggi** → socializzazione virtuale; dipendenza dallo sguardo dei coetanei; "recessione sessuale"
+**Contesto istituzionale**:
+- Mandato · modello d'intervento · modello organizzativo · equipe · utenza
 
-### 4. Costruzione di Nuovi Valori e Ideali
-- **Obiettivo** → sintesi personale di modelli alternativi ai genitori
-- **Compito trasversale** → influenza gli altri tre
-- **Oggi** → saturazione di modelli (social, marketing) già dall'infanzia
+**Auto-osservazione operatore**:
+- Premesse personali · risorse e limiti · pratica riflessiva
 
----
+## Ricercazione (Action Research)
 
-## Blos (1962): Fasi dell'adolescenza
-
-| Fase | Età (F/M) | Focus |
-|------|-----------|-------|
-| Preadolescenza | 9-13 | Turbolenza, agito |
-| Prima adolescenza | 11-14 | Identificazioni, amico del cuore |
-| Adolescenza vera e propria | 13-16 | Esplorazione valori, gruppi |
-| Tarda adolescenza | 14-18 | Consolidamento identità |
-| Postadolescenza | 16+ | Stabilizzazione |
-
-- **Concetto chiave** → **secondo processo di separazione-individuazione** (Mahler): separazione dagli oggetti genitoriali *interiorizzati*, non fisici
-
----
-
-## Siegel (2013): Quattro caratteristiche della mente adolescente
-
-| Caratteristica | + | − |
-|---------------|---|---|
-| Ricerca di novità | Curiosità, avventura | Impulsività, rischio |
-| Coinvolgimento sociale | Legami profondi | Comportamenti di gruppo rischiosi |
-| Intensità emotiva | Energia, vitalità | Sbalzi d'umore |
-| Esplorazione creativa | Innovazione, rottura status quo | Crisi identitaria |
-
-→ Qualità da **canalizzare**, non sopprimere
-
----
-
-## Il dolore evolutivo (Lancini et al.)
-
-- **Crisi adolescenziale** → blocco nei compiti evolutivi ≠ psicopatologia
-- **Sintomo** → doppia funzione:
-  - Segnala il disagio (richiesta d'aiuto)
-  - Autoterapia (gestisce dolore insopportabile)
-- **Regola clinica** → ascoltare e rispettare il sintomo; drammatizzarlo; non toglierlo senza alternativa
-- **Se non simbolizza → agisce**
-
----
-
-## Adultescenza (Marescotti, 2014)
-
-- **Definizione** → adulto con mentalità e condizioni di vita adolescenziali (20-35 anni)
-- **Sinonimi** → *adultescent* (EN), *kidult* (EN), *adulescent* (FR)
-- **Cause** → precarietà, costo degli alloggi, modelli culturali, famiglie senza confini
-- **Rischio** → mancanza di identità adulta; relazioni intergenerazionali compromesse
+- **Definizione** → paradigma che coniuga conoscenza + azione trasformativa
+- **Non solo** → conoscere la realtà
+- **Ma** → agire su di essa per modificarla insieme alle persone
+- **Collegamento** → base metodologica dell'approccio euristico
 
 ---
 
@@ -158,22 +120,18 @@ I Tempi della Vita · Sessione 06
 
 | Chi | Cosa | Quando |
 |-----|------|--------|
-| Stanley Hall | Storm and stress; seconda nascita | 1904 |
-| Margaret Mead | Adolescenza e cultura; studio Samoa | 1928 |
-| Erik Erikson | Identità vs. confusione; moratoria psicosociale | 1968-1982 |
-| James Marcia | Quattro stati dell'identità | 1966 |
-| Arnold Van Gennep | Riti di passaggio: tre fasi | 1909 |
-| Émile Durkheim | Funzione sociale del rito | 1912 |
-| Peter Blos | Cinque fasi; secondo processo sep.-individ. | 1962 |
-| Robert Havighurst | Compiti evolutivi fase-specifici | 1952 |
-| Maggiolini & Charmet | Quattro compiti evolutivi contemporanei | 2004 |
-| Lancini et al. | Dolore evolutivo; psicoterapia evolutiva | 2020 |
-| Daniel Siegel | Mente adolescente; neurobiologia | 2013 |
-| Marescotti | Adultescenza | 2014 |
-| Evelyne Kestemberg | "Se tutto si prepara nell'infanzia, tutto si gioca nell'adolescenza" | 1986 |
+| Traverso | Educatore come artista che immagina il futuro | 2016 |
+| Kanisza & Tramma | Definizione progettazione educativa e sociale | 2011 |
+| Leone & Prezza | 5 tappe + 3 approcci alla progettazione | 2003 |
+| O'Sullivan | 4 livelli di partecipazione (A/B/C/D) | 2011 |
+| Paradiso | La progettazione educativa e sociale | 2020 |
+| Brambilla | Postura progettuale e dignità epistemica | 2023 |
+| Tramma | Analisi del contesto socio-culturale | 2018 |
+| Bobbo & Moretto | Progettazione educativa in ambito sanitario/sociale | 2020 |
+| Arnkil & Seikkula | Dialogo come "arte di valicare i confini" | 2013 |
+| Danilo Dolci | "Ciascuno cresce solo se sognato" | — |
+| Martha Nussbaum | Persone come migliori giudici di ciò che è bene per loro | 2002 |
 
----
+### Parole Chiave
 
-### Parole chiave
-
-`adolescenza` · `storm and stress` · `seconda nascita` · `rito di passaggio` · `separazione-individuazione` · `moratoria psicosociale` · `identità dell'Io` · `confusione di ruoli` · `stati dell'identità` · `acquisizione` · `moratorium` · `chiusura` · `diffusione` · `mentalizzazione del corpo` · `corteccia prefrontale` · `sistema limbico` · `nascita sociale` · `dolore evolutivo` · `sintomo` · `adultescenza` · `compiti evolutivi` · `famiglia edipica` · `famiglia narcisistica`
+`progettazione` · `progettualità` · `postura progettuale` · `sinottico-razionale` · `concertativo-partecipato` · `euristico` · `ricerca-azione` · `ricercazione` · `empowerment` · `dignità epistemica` · `partecipazione` · `analisi del contesto` · `ansia applicativa` · `co-progettazione` · `dialogicità`

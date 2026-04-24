@@ -1,384 +1,387 @@
-# Introduzione al modulo di Salute Mentale
-Salute Mentale · Sessione 01 · 18.02.2026
+# L'Osservazione (Prima Parte)
+TMIS — Teorie e Metodologie dell'Intervento Sociale · Sessione 07
 
-> Questa prima lezione mette sul tavolo le fondamenta
-> di tutto il modulo: che cos'è davvero la salute?
-> Cos'è il benessere? E la normalità? Spoiler: nessuna
-> di queste domande ha una risposta semplice — e
-> proprio da qui parte il bello. Si parla anche della
-> tragedia greca come strumento per avvicinarsi alla
-> sofferenza umana. Roba potente, vedrai.
+> L'osservazione non è una skill extra che si acquisisce dopo — è il cuore
+> pulsante di tutto il lavoro socio-educativo. Questa lezione costruisce le
+> fondamenta: cosa significa davvero osservare, perché è impossibile farlo
+> "in modo oggettivo", e quali sono le cinque componenti che non possono
+> mai mancare in un protocollo professionale.
 
 ---
 
-## Il modulo: struttura e filosofia
+## Contestualizzazione: perché parliamo di osservazione adesso?
 
-Il modulo di Salute Mentale si articola su **tre
-tappe fondanti**, ispirate alla scuola fenomenologica:
+Il prof chiarisce subito il senso della collocazione di questo tema nel
+calendario: l'osservazione non appartiene a una fase specifica del processo
+di progettazione — è **trasversale a tutto il processo**. Dalla ideazione
+alla verifica, in ogni fase c'è una parte osservativa. Ecco perché viene
+trattata adesso, prima di entrare nel dettaglio delle singole fasi.
 
-1. **La clinica** — l'universo dell'incontro con
-   chi soffre. Si esplorano i concetti di salute
-   e malattia, normalità e patologia, l'incontro
-   empatico con l'altro e i meccanismi di difesa.
+La lezione ha tre obiettivi:
 
-2. **Il mondo** — le funzioni psichiche e le loro
-   alterazioni (coscienza, percezione, pensiero,
-   affettività...), per poi passare alla dimensione
-   nosografica: sindromi affettive, ansiose, nevrosi,
-   disturbi di personalità, psicosi.
-
-3. **Il corpo** — teatro della sofferenza: violenza,
-   aggressività, dimensioni anoressico-bulimiche,
-   sessualità come luogo di disagio, alessitimia.
-
-Queste tre tappe sono attraversate da quattro
-dimensioni esistenziali: **spazio, tempo, identità
-e incontro**. La clinica va calata in uno spazio
-e in un tempo, l'identità va declinata nella
-relazione, e prima della relazione viene l'incontro
-— senza il quale la relazione non sussiste.
-
-Il prof sottolinea un punto chiave: l'operatore
-sociale non è un tecnico di una sola disciplina,
-ma un **trait d'union** tra le specializzazioni.
-Per questo serve una conoscenza delle aree
-psicopatologiche — non per fare diagnosi, ma per
-comunicare con le altre figure professionali e
-per accompagnare la persona nella sua interezza.
+1. Definire cosa si intende per **attività osservativa** in ambito
+   socio-educativo.
+2. Distinguere le **specificità del lavoro di osservazione** dentro il
+   lavoro relazionale.
+3. Identificare le **componenti essenziali del processo osservativo**.
 
 ---
 
-## Salute, benessere, normalità: tre concetti
-da non confondere
+## La realtà è polifonica
 
-Uno dei messaggi centrali della lezione: **salute,
-benessere e normalità sono tre cose diverse** che
-spesso vengono confuse o sovrapposte. Vediamole
-una per una.
+Il punto di partenza teorico è che la realtà sociale non ha un'unica
+versione "vera". È **polifonica**: ogni fenomeno assume significati diversi
+a seconda di chi lo osserva, del ruolo che ha, delle esperienze che porta.
 
-### Salute: più complessa di quanto sembra
+Il prof usa l'esempio del pesce: per un cliente al ristorante è un piatto,
+per un pescatore è lavoro e passione e fatica mattutina alle 4:30, per un
+biologo marino è un organismo da studiare, per chi ha un acquario a casa è
+un abitante del salotto. Stessa realtà, significati radicalmente diversi.
 
-Il prof parte da una domanda semplice: "Chi di voi
-sta bene?" Poi mostra quanto sia difficile rispondere.
-Due paradigmi diversi: puoi andare a fare gli esami
-del sangue e la TAC (approccio biomedico, *disease*),
-oppure puoi rispondere "mi sento bene" senza nessun
-esame (approccio soggettivo, *illness*). Non sono la
-stessa cosa.
+Questo vale per qualsiasi fenomeno sociale. Quando osserviamo qualcosa,
+dobbiamo sempre ricordare che stiamo vedendo **una parte** di una realtà
+molto più ampia.
 
-Introduce il lavoro di **Christopher Boorse (1977)**,
-che nel suo articolo ha tentato di definire la salute
-esaminando sette possibili condizioni — dimostrando
-che **nessuna da sola regge**:
-
-| Condizione | Perché non basta |
-|---|---|
-| **Salute come valore** | Non tutto ciò che è desiderabile è salute; ci sono contesti dove non essere in salute può essere preferibile (es. durante guerre) |
-| **Malattia come ciò che il medico cura** | La medicina ha "colonizzato" ambiti non patologici (gravidanza, adolescenza); molte malattie non vengono trattate |
-| **Salute come norma statistica** | Fuori dalla media ≠ malattia (l'omosessualità è stata classificata come patologia a lungo) |
-| **Malattia come sofferenza** | Malattie asintomatiche e dolori normali (ciclo mestruale, coliche neonatali, dentizione) |
-| **Malattia come disabilità** | Tutti attraversiamo fasi di "non abilità" (un neonato non cammina, ma non è malato) |
-| **Salute come adattamento** | L'essere umano adatta anche l'ambiente a sé. Pensate alle neurodivergenze: a volte è l'ambiente che va cambiato |
-| **Salute come omeostasi** | Il funzionamento umano si basa su un continuo perdere e riacquistare equilibrio. L'equilibrio statico è rigidità |
-
-L'ultimo punto merita attenzione. Il prof insiste:
-**l'equilibrio statico non è salute, è rigidità**.
-La metafora è bellissima: camminare richiede di
-rompere continuamente l'equilibrio. Per fare un
-passo devi sbilancarti. La vita è movimento, e il
-movimento richiede di perdere e ritrovare l'equilibrio.
-"Le persone troppo equilibrate sono spesso molto
-rigide, poco disposte a rischiare."
-
-> *"Non c'è movimento senza perdere l'equilibrio,
-> e siccome la vita è costante movimento, occorre
-> mettersi nell'ottica di capire e accompagnare
-> la perdita e la riconquista dell'equilibrio —
-> non impedirla."*
-> — Il professore
-
-### La triade anglosassone: disease, illness, sickness
-
-Per ordinare le idee sulla salute, il prof introduce
-la distinzione in tre dimensioni:
-
-- **Disease** — la malattia in senso biomedico,
-  misurabile (esami, parametri clinici)
-- **Illness** — il vissuto soggettivo: come la
-  persona *si sente*
-- **Sickness** — la dimensione sociale: come la
-  società riconosce (o stigmatizza) quella condizione
-
-Queste tre dimensioni **possono non coincidere**.
-Una malattia può essere tale per il medico (disease)
-ma non vissuta come tale dal soggetto (illness),
-oppure può essere vista dalla società come un vizio
-(sickness negativa) anche se è una malattia vera.
-
-Questo è importante per il lavoro sociale: lo sguardo
-della società su una condizione ha effetti reali sul
-benessere della persona. Se hai una malattia che viene
-giudicata come "vizio" o "colpa", la stigmatizzazione
-peggiora tutto — come mostrava già il racconto
-di apertura della lezione.
+Pensaci come a una pianta — vedi il fusto, i rami, le foglie, ma le radici
+rimangono sotto terra. Ogni osservatore ne vede una parte diversa. L'unico
+modo per avvicinarsi all'intera pianta è confrontarsi con più punti di vista.
 
 ---
 
-## Il benessere: un concetto multidimensionale
+## L'osservazione è imprescindibile (e soggettiva per forza)
 
-**Salute e benessere non coincidono.** Il prof porta
-l'esempio di **Tiziano Terzani** e del suo libro
-*L'ultimo giro di giostra*: un giornalista gravemente
-malato di cancro che attraverso la malattia ha trovato
-una pace e una ricchezza interiore che non aveva quando
-stava "bene". Paradossale? No, profondamente umano.
+Due assunti fondamentali da tenere sempre presenti:
 
-Il benessere è un concetto **polisemico e
-multidimensionale**. **Carol Ryff** è una psicologa
-che ha risposto alla domanda: "Quando diciamo che
-una persona sta bene, di *cosa* esattamente stiamo
-parlando?" La risposta: di sei dimensioni distinte.
+**1. L'osservazione è imprescindibile.**
+Nel lavoro relazionale, ci sarà sempre una componente osservativa —
+che tu stia seguendo 30 persone al mese in uno sportello di servizio
+sociale, o lavorando quotidianamente con le stesse persone in una
+struttura. La forma cambia, l'intensità cambia, ma il dato osservativo
+c'è sempre.
 
-| Dimensione | Cosa significa in concreto |
-|---|---|
-| **Autonomia** | Capacità di determinarsi senza dipendere dagli altri per le proprie scelte |
-| **Controllo ambientale** | Capacità di cogliere, sfruttare e valorizzare le risorse e le possibilità disponibili |
-| **Relazioni positive** | Avere relazioni calde, fiduciose, contraddistinte da affetto e reciprocità |
-| **Autoaccettazione** | Consapevolezza delle proprie qualità e limiti, senza negare né l'uno né l'altro |
-| **Percezione di crescita** | Sentire che la propria vita è un processo continuo di sviluppo |
-| **Scopo nella vita** | Avere mete, riuscire a dare senso a ciò che si fa |
+**2. La soggettività e la parzialità sono inevitabili.**
+Non siamo mai totalmente oggettivi. Non possiamo mai conoscere
+l'interezza di un fenomeno. Questo non è un limite da nascondere —
+è la **base teorica** da cui partire. Il prof sottolinea che questo non
+è scontato, soprattutto quando ci si relaziona con professionisti di
+altri ambiti (es. medici, fisioterapisti) che lavorano con paradigmi più
+orientati all'oggettività.
 
-Questo modello è prezioso per l'operatore sociale
-perché rende il lavoro sul benessere **concreto**.
-Invece di un generico "lavoro per il benessere",
-puoi esplorare *quale* dimensione è più critica
-e intervenire lì. Il prof fa un esempio: se lavori
-sull'autonomia di qualcuno (aiutarlo a fare scelte
-proprie), quello starà meglio — anche senza sapere
-perché. Il prodotto è quello che conta.
-
-Se in un momento la persona non riesce a lavorare
-sulle relazioni, si compensa sulle altre dimensioni.
-È un gioco di variabili, non tutto insieme.
-
-Il prof aggiunge: **vale anche per noi**, non solo
-per i nostri utenti. Se guardiamo indietro alla
-nostra vita e vediamo solo disastri, non stiamo bene.
-Se riusciamo a vedere crescita e senso, anche nelle
-difficoltà, il benessere aumenta.
+> _Sapere di essere soggettivi ci protegge: ci permette di aprirci al
+> dialogo invece di trincerarci nel nostro punto di vista._
 
 ---
 
-## La normalità: quale normalità?
+## Il circuito dell'osservazione: i 5 momenti
 
-Il prof introduce tre tipi di normalità — tutti
-rilevanti per il lavoro con le persone.
+Il processo osservativo non è un atto isolato ma un **circuito ciclico**
+che si ripete continuamente. I cinque momenti sono (fonte: Dovigo, 2014):
 
-### 1. Norma statistica
+| # | Momento | Cosa succede |
+|---|---------|--------------|
+| 1 | **Osservazione** | Rilevo qualcosa nella realtà |
+| 2 | **Resoconto / Rilevamento dati** | Descrivo ciò che ho osservato (a volte in forma scritta) |
+| 3 | **Ipotesi** | Formulo interpretazioni personali su ciò che ho visto |
+| 4 | **Discussione / Socializzazione dati** | Condivido osservazioni e ipotesi con altri (colleghi, équipe, persone) |
+| 5 | **Interpretazione** | Si costruisce un senso condiviso di ciò che è stato osservato |
 
-La "normalità" come conformità alla media della
-popolazione. Sembra neutro, ma non lo è: essere
-fuori dalla norma statistica può provocare stigma,
-isolamento, discriminazione. L'omosessualità è stata
-a lungo classificata come patologia proprio su base
-statistica — e solo quando la comunità scientifica
-ha cambiato i criteri ne è uscita.
+Poi si torna al punto 1 — il ciclo ricomincia. Da qui la forma a spirale.
 
-Il contesto è fondamentale: qualsiasi comportamento,
-senza contesto, può sembrare "anormale".
+**Attenzione a questa distinzione importante:** l'**ipotesi** è mia,
+personale, finché non la condivido. L'**interpretazione** è il risultato
+del confronto con altri — ha una valenza collettiva. Non significa che tutti
+pensino esattamente lo stesso, ma che ci sia stato un confronto reale e che
+il senso emerso sia condiviso.
 
-### 2. Norma di valore (ideale)
-
-Uno standard ideale che si pone come riferimento.
-Se il mio ideale è un certo tipo di corpo, starò
-male finché non ci corrispondo. Ed è un ideale
-*irraggiungibile*, quindi la sofferenza è perpetua.
-
-**Attenzione**: la norma ideale incide anche sugli
-operatori. Abbiamo ideali su come dovrebbe essere
-un utente, come dovrebbe comportarsi, cosa dovrebbe
-raggiungere. Se quella norma ideale diventa il metro
-di lavoro, rischia di diventare penalizzante per
-la relazione.
-
-### 3. Norma personale (individuale)
-
-La normalità *rispetto a come funzionavo prima*.
-Se mi rompo una gamba, non sono più "normale" rispetto
-al mio funzionamento precedente. Questa dimensione
-è importante clinicamente: capire com'era il soggetto
-prima dell'evento permette di comprendere il
-cambiamento.
-
-Ma il prof aggiunge un avvertimento cruciale:
-**la normalità personale non è sempre da riconquistare**.
-A volte è proprio quella "normalità" precedente che
-ha causato il problema. Esempio: "Lavoravo 10 ore
-al giorno, gestivo tutto, poi mi sono ammalato —
-voglio tornare come prima." Forse no. Se torni come
-eri prima, tra un mese ci rivediamo peggio.
-
-C'è anche il rischio di **idealizzare il passato**:
-"Prima stavo bene" — ma siamo sicuri? O è solo che
-in confronto a oggi sembra il paradiso?
+Il prof porta esempi concreti di resoconto scritto: il diario di bordo
+scritto dopo una visita domiciliare, la sintesi dopo una sessione con un
+gruppo di bambini al centro extrascolastico, il verbale di équipe. Non
+sempre è scritto, ma la componente descrittiva è sempre presente.
 
 ---
 
-## La posizione del soggetto davanti alla malattia
+## Guardare vs. Vedere: una distinzione fondamentale
 
-L'ultima parte della lezione introduce un modello
-pratico a due assi per capire come il soggetto si
-pone rispetto alla propria condizione.
+Maida, Molteni e Nuzzo introducono una distinzione che vale la pena capire bene:
 
-**Asse 1 — Identificazione:**
-- *Non mi identifico* con la malattia: "Io non sono
-  la mia malattia, è qualcosa di estraneo"
-- *Mi identifico*: "La mia condizione fa parte di me"
+- **Guardare** = atto analitico, di controllo. Noti, registri, scomponi.
+  È necessario ma non sufficiente.
+- **Vedere** = risultato dell'azione osservativa. Presuppone coinvolgimento:
+  chi vede percepisce e sviluppa una comprensione che trasforma il semplice
+  "guardare" in qualcosa di più profondo.
 
-**Asse 2 — Agentività** (termine tecnico dal greco):
-- *Agentivo* (attivo): affronto la situazione,
-  mi muovo, cerco alleati
-- *Passivo*: subisco, aspetto che qualcuno intervenga
+Il prof usa l'immagine di un quadro seicentesco composto da ortaggi e
+frutta: se lo scomponi vedi singoli elementi, se ti allontani vedi un
+ritratto. Devi saper fare entrambe le cose — scomporre per analizzare, e
+ricomporre per dare senso.
 
-Incrociando i due assi si ottengono quattro posizioni:
+> _"La somma è superiore alle parti: scomporre ci aiuta ad orientarci
+> nella complessità ma presuppone la capacità di ricomporre le unità
+> osservate."_ (Maida, Molteni, Nuzzo, 2022)
 
-| | Non si identifica | Si identifica |
-|---|---|---|
-| **Passivo** | **Delega**: "Faccia lei, risolva lei" | Passivo nella propria condizione |
-| **Agentivo** | **Guarigione**: combatte per eliminare la condizione | **Cura**: lavora sul proprio benessere dentro la condizione |
-
-Il passaggio chiave: quando il soggetto si identifica
-con la propria condizione e diventa agentivo, il
-paradigma passa dalla **guarigione** alla **cura**.
-Non si tratta più di eliminare la malattia (che a
-volte non è possibile), ma di aumentare il benessere
-*dentro* la condizione.
-
-> *"Non tutto si può guarire. Ma tutto può essere
-> curato."*
-> — Il professore
-
-La differenza tra *to cure* (terapia) e *to care*
-(cura) è fondamentale per il lavoro sociale: la
-terapia non è sempre possibile, ma la cura — nel
-senso di prendersi cura del benessere della persona
-— è sempre praticabile.
-
-Nella realtà le persone si muovono tra i quadranti,
-soprattutto all'inizio della malattia. L'operatore
-accompagna questo movimento.
+**Esempio pratico del prof:** un ragazzo in struttura si ritira nella sua
+stanza il mercoledì pomeriggio e il venerdì sera. Stesso comportamento,
+rilevato in due momenti. Ma quando vai a dare senso attraverso il dialogo,
+scopri che il mercoledì fa fatica a stare con i compagni (difficoltà
+relazionale), mentre il venerdì sera gioca online con una comunità virtuale
+(risorsa, senso di appartenenza). **Stesso fenomeno, significati opposti —
+interventi necessariamente diversi.**
 
 ---
 
-## La tragedia greca: passioni e follia
+## Il "gorilla invisibile": la trappola dell'attenzione selettiva
 
-Parallelamente allo studio teorico, il modulo
-include un lavoro su **cinque tragedie greche**.
+Il prof proietta il famoso esperimento di Simons e Chabris (1999/2010):
+guardi un video contando i passaggi di una palla, e metà delle persone non
+vede un gorilla che attraversa il campo. Chi già conosceva il video, nel
+secondo tentativo, non nota la tenda che cambia colore o il giocatore che
+lascia il campo.
 
-### Perché la tragedia?
+La lezione è duplice:
+1. Quando siamo concentrati su un obiettivo, tendiamo a non vedere ciò che
+   non stiamo cercando.
+2. Anche quando pensiamo di essere preparati, la realtà continua a
+   sorprenderci.
 
-La tragedia greca nasce insieme alla medicina antica
-(Ippocrate) e mette in scena la sofferenza umana —
-quella difficile da spiegare e a volte da comprendere.
-Assistere alla tragedia faceva emergere emozioni e
-sentimenti che, attraverso la **catarsi**, potevano
-uscire e liberare.
+> _Il prof, opinione personale: "Nel lavoro con le persone non puoi dare
+> nulla per scontato. Spesso vediamo sempre le stesse cose perché ci
+> siamo abituati a guardare nello stesso modo."_
 
-La tragedia parla dei **confini dell'umano**: la
-morte, la malattia, la follia. Il prof distingue
-gli approcci dei tre grandi tragediografi:
+---
 
-- **Eschilo** — il più arcaico: la follia arriva
-  dagli dèi, è una forza esterna che schiaccia
-- **Sofocle** — il tragico non arriva dagli dèi,
-  è la vita stessa che è tragica
-- **Euripide** — il più moderno: il tragico nasce
-  dalle relazioni tra le persone
+## L'etimologia: osservare ha uno scopo preciso
 
-A secoli di distanza, la tragedia "resta fedele
-a se stessa" — perché tocca qualcosa di profondo
-nell'umano che non cambia nei secoli.
+La parola **osservare** viene dal latino *observare*:
+- Prefisso **ob** = verso, per (indica direzione e finalità)
+- **Servare** = custodire, stare attento, preservare
 
-### L'esercizio pedagogico
+Quindi osservare significa: _portare attenzione verso qualcosa con un fine,
+e conservare ciò che si è visto per poterlo condividere_.
 
-Gli studenti sono divisi in **5 gruppi**, ciascuno
-con una tragedia assegnata per estrazione. Il lavoro
-prevede:
+Non è uno sguardo passivo e casuale. È intenzionale, mirato, con uno scopo.
 
-1. **Leggere** la tragedia — esporsi a un linguaggio
-   non familiare della sofferenza, proprio come
-   accade quando si incontra un paziente che parla
-   una "lingua" diversa dalla nostra
-2. **Condividere** nel gruppo — cosa ti ha parlato?
-   Quali temi ti hanno colpito?
-3. **Sintetizzare** — trovare un messaggio comune,
-   con le inevitabili rinunce individuali (esercizio
-   di équipe reale)
-4. **Andare in scena** — non uno "spettacolino",
-   ma portare temi salienti a una platea
+---
 
-Il prof insiste: quello che deve arrivare al pubblico
-deve essere *vero* — deve essere passato attraverso
-l'umanità di chi lo porta in scena. Se non c'è quella
-verità, si sente.
+## Definizione professionale dell'osservazione
 
-### Le tragedie di quest'anno
+Dal **Dizionario del Lavoro Educativo** (Tramma, Brandani, 2014):
 
-Le docenti hanno scelto — indipendentemente —
-tragedie che convergono su un tema comune: la
-**violenza sulle donne nei conflitti armati**.
+> _"Osservare è un movimento intenzionale verso qualcuno o qualcosa che
+> suscita interesse e di cui si desidera capire di più, al di là delle
+> facili apparenze."_
 
-- **Agamennone** (Eschilo) — Cassandra, prigioniera
-  di guerra e bottino sessuale
-- **Le Troiane** (Euripide) — Ecuba, Cassandra,
-  Andromaca: tre donne schiavizzate dopo la caduta
-  di Troia
-- **Andromaca** (Euripide) — la vittima di guerra
-  per eccellenza
-- **Le Trachinie** (Sofocle) — donne umiliate
-  e "rese mute" dalla violenza
-- **Aiace** (Sofocle) — la fragilità dietro
-  l'eroismo apparente
+E ancora, da Mantovani (1995):
 
-Il prof collega esplicitamente queste storie ai dati
-odierni sulla violenza sessuale nei conflitti armati
-(Congo, Iraq, Rwanda), citando **Nadia Murad**,
-Premio Nobel per la Pace e sopravvissuta alla
-schiavitù sessuale dell'ISIS. La tragedia greca
-non è storia lontana: è cronaca con un linguaggio
-di 2500 anni fa.
+> _"L'osservazione è un comportamento specifico di attenzione a un
+> particolare evento: si distingue dal semplice 'guardare', poiché è uno
+> sguardo intenzionale, mirato, attivo, non generico, che tende a mettere
+> a fuoco ciò che l'osservatore ritiene più rilevante e significativo in
+> relazione ai suoi interessi, alle sue motivazioni, alle ragioni che hanno
+> promosso la rilevazione dei dati."_
+
+Caratteristiche chiave:
+- **Intenzionale**: non è guardare a caso, c'è uno scopo
+- **Mirata**: mette a fuoco qualcosa di specifico
+- **Attiva**: richiede impegno cognitivo ed emotivo
+- **Non generica**: delimitata, non "tutto"
+
+---
+
+## Tre paradigmi teorici a confronto
+
+Il Dizionario del Lavoro Educativo identifica tre grandi approcci alla
+conoscenza attraverso l'osservazione:
+
+| Paradigma | Idea di fondo | Approccio all'osservazione |
+|-----------|---------------|---------------------------|
+| **Ricerca dell'oggettività** (moderno) | La realtà è conoscibile direttamente; l'osservatore deve essere neutro | Neutralità totale, strumenti precisi, registrazione fedele |
+| **Relativismo della soggettività** | Ogni punto di vista è valido; non esiste conoscenza oggettiva | Tutto è soggettivo, tutti i punti di vista sono ugualmente validi |
+| **Complessità della realtà** (post-moderno) | La realtà è troppo complessa per un unico approccio | Prospettive multiple, dialogo, conoscenza co-costruita nella relazione |
+
+Il prof e i testi fanno riferimento al **terzo paradigma**: quello che
+valorizza la complessità e riconosce che la conoscenza nel sociale avviene
+*nella relazione*. Non si tratta di rinunciare alla rigorosità, ma di
+riconoscere che osservatore e osservato si influenzano reciprocamente.
+
+Il rischio del relativismo assoluto (secondo paradigma) è che "tutto va
+bene" — e questo non aiuta a lavorare efficacemente. Il terzo paradigma
+trova un equilibrio: non esiste oggettività assoluta, ma costruiamo senso
+insieme attraverso il confronto, e quel senso condiviso ha valore.
+
+> _Bateson: bisogna saper osservare "con occhi differenti", riconoscendo
+> che non esiste un punto unico di osservazione garante di oggettività._
+
+---
+
+## Dare senso ai fenomeni: cambiare angolatura
+
+Il prof porta l'esempio di un gruppo di ragazzi in una comunità di pronta
+accoglienza. Uno chiede continuamente "hai una sigaretta?" — una lettura
+superficiale lo classifica come provocazione. Ma cambiando prospettiva,
+quella domanda può essere un modo per entrare in relazione, per farsi
+conoscere, per testare la fiducia dell'operatore. Aprire un dialogo invece
+di rispondere difensivamente cambia completamente la traiettoria
+dell'intervento.
+
+Il concetto è di **Ombretta Zanon** (2016):
+
+> _"Ogni processo di apprendimento richiede la messa in discussione del
+> proprio sistema di conoscenze e di credenze, attivando una trasformazione
+> di diverse prospettive di significato delle persone implicate."_
+
+---
+
+## L'auto-osservazione: il soggetto che osserva è parte del campo
+
+Quando osserviamo qualcosa in un contesto relazionale, **noi siamo parte
+di ciò che osserviamo**. Il nostro modo di stare, le nostre emozioni, i
+nostri atteggiamenti influenzano le persone osservate — e quindi influenzano
+i dati che raccogliamo.
+
+L'**auto-osservazione** è l'atto di guardar sé stessi mentre si osserva:
+- Con quale angolatura sto guardando?
+- Che emozioni ho in questo momento?
+- Quali pregiudizi o paure mi porto?
+- Come stanno reagendo le persone al mio modo di stare?
+
+Fattori che deformano l'osservazione (da Braga, 1994; Dovigo, 2014):
+- Caratteristiche personali
+- Emotività e memoria
+- Influenza socio-culturale
+- Motivazione, competenza ed esperienza
+- Tipo di contesto
+
+> _"Non c'è osservazione senza auto-osservazione."_ (lezione 07)
+
+---
+
+## L'ampiezza dell'osservazione socio-educativa
+
+Perché è così difficile osservare in contesti relazionali? Perché il campo
+osservativo è **enormemente ampio**. I fattori sono (Dovigo, 2014):
+
+- **Dimensioni di gruppo**: non si osserva solo l'individuo, ma le dinamiche
+  tra persone.
+- **Fluidità e velocità degli scambi verbali**: in pochi secondi passano
+  moltissimi contenuti, con influenze culturali e simboliche.
+- **Comunicazioni non verbali**: verbale e non verbale si intrecciano in
+  modo complesso — spesso ciò che le persone fanno contradice ciò che dicono.
+- **Fitta rete di relazioni tra le parti**: ogni elemento va interpretato
+  nel suo gioco di connessioni.
+
+Si osserva quindi **con tutti i sensi** — non solo la vista.
+
+L'ampiezza può fare paura. La risposta non è fingere che non esista, ma:
+1. **Rompere l'illusione di poter conoscere tutto** — l'indeterminatezza è
+   la condizione normale, non un fallimento.
+2. **Vedere l'indeterminatezza come area di possibilità** — ciò che non
+   conosco ancora può contenere risorse non ancora esplorate.
+3. **Creare protocolli di osservazione** che de-costruiscano quell'ampiezza,
+   delimitando il campo in modo intenzionale.
+
+---
+
+## Le 5 componenti essenziali del processo osservativo
+
+Ogni protocollo di osservazione professionale deve contenere queste cinque
+componenti (fonte: Maida, Molteni, Nuzzo, 2022, pp. 17-28):
+
+### 1. La Curiosità — il punto zero
+
+Non è possibile osservare bene senza un genuino interesse conoscitivo.
+La curiosità spinge a **porsi domande**, a voler capire al di là delle
+apparenze. Importante: la domanda è un mezzo, non un fine. Non cerchiamo
+certezze definitive — cerchiamo di aggiungere conoscenza, mantenendo sempre
+un'**area di dubbio** che lasci spazio a scoperte impreviste.
+
+### 2. Il Soggetto — chi osserva
+
+Prima ancora di chiedersi "cosa osservo?", bisogna chiedersi "**chi sono
+io che osservo?**". Il soggetto è l'osservatore stesso. Devo chiarire:
+da quale angolatura sto guardando, con quale atteggiamento mentale, con
+quali pregiudizi o paure mi sto avvicinando. Questo ricollega direttamente
+all'auto-osservazione.
+
+### 3. L'Oggetto — cosa si osserva
+
+Definire **a priori** cosa voglio osservare, per evitare di perdersi in un
+campo sterminato. La parola chiave è **delimitazione del campo**: non
+osservo "tutto il bambino" ma "come reagisce al momento del distacco dalla
+figura genitoriale nelle prime settimane". Focus chiaro = osservazione utile.
+
+L'ampiezza dell'oggetto dipende dalla fase del progetto:
+- Fase iniziale → obiettivi più ampi e panoramici (scoperta)
+- Fase di realizzazione → obiettivi più mirati e specifici (monitoraggio)
+- Fase conclusiva → obiettivi legati alla verifica
+
+### 4. L'Obiettivo — perché si osserva
+
+Declinare il più precisamente possibile **lo scopo** dell'osservazione,
+dopo averlo condiviso con l'équipe e, quando possibile, con le persone
+coinvolte. Un obiettivo chiaro permette di formulare un'ipotesi di ricerca
+da cui partire e di orientare la scelta degli strumenti.
+
+### 5. Il Tempo e lo Spazio — quando e dove
+
+Questi due elementi definiscono le coordinate dell'osservazione.
+
+**Tempo** — si declina in due modi:
+- **Tempo sincronico**: il tempo dell'attività (es. "i 10 minuti del
+  momento del distacco all'asilo nido"; "la durata del pranzo al centro
+  extrascolastico").
+- **Tempo diacronico**: l'attività nel tempo (es. "osservo il pranzo
+  ogni giorno per due mesi, 5 volte a settimana"). Specifica per quante
+  volte e per quanto tempo complessivo si effettuerà l'osservazione.
+
+**Spazio** — il luogo non è mai indifferente. Lo stesso comportamento
+cambia significato in base al contesto. Va sempre esplicitato dove
+si effettua l'osservazione.
 
 ---
 
 ## Concetti chiave
 
 | Termine | Significato |
-|---|---|
-| **Disease** | Malattia in senso biomedico, misurabile con parametri clinici |
-| **Illness** | Vissuto soggettivo della malattia, come la persona si sente |
-| **Sickness** | Dimensione sociale della malattia, riconoscimento/stigma |
-| **Benessere** | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo |
-| **Norma statistica** | Normalità come conformità alla media della popolazione |
-| **Norma di valore** | Normalità come conformità a un ideale |
-| **Norma personale** | Normalità rispetto al proprio funzionamento precedente |
-| **Agentività** | Atteggiamento attivo del soggetto verso la propria condizione |
-| **Catarsi** | Purificazione emotiva attraverso la partecipazione alla tragedia |
-| **Omeostasi** | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio |
-| **To cure** | Terapia: eliminare la malattia |
-| **To care** | Cura: prendersi cura del benessere, sempre praticabile |
+|---------|-------------|
+| **Osservazione** | Movimento intenzionale verso qualcosa/qualcuno per conoscerlo in profondità |
+| **Polifonia della realtà** | La stessa realtà ha significati diversi per persone diverse |
+| **Circuito osservativo** | Ciclo: osservazione → resoconto → ipotesi → discussione → interpretazione |
+| **Socializzazione dei dati** | Condivisione delle osservazioni con altri per costruire senso condiviso |
+| **Auto-osservazione** | Osservazione di sé stessi come parte del processo osservativo |
+| **Tempo sincronico** | Durata dell'attività osservata (es. il pranzo) |
+| **Tempo diacronico** | Estensione dell'osservazione nel tempo (es. per due mesi) |
+| **Delimitazione del campo** | Definire con precisione cosa si vuole osservare per evitare dispersione |
+| **Guardare vs. Vedere** | Guardare = analisi; Vedere = comprensione (risultato dell'atto osservativo) |
+| **Paradigma della complessità** | Approccio post-moderno: conoscenza co-costruita nella relazione |
+
+---
+
+## Autori e fonti citate
+
+| Autore | Opera | Contributo |
+|--------|-------|------------|
+| Maida S., Molteni L., Nuzzo A. | *Educazione e osservazione* (2022) | Componenti essenziali, ampiezza, atto interpretativo |
+| Tramma S., Brandani W. | *Dizionario del Lavoro Educativo* (2014) | Definizione professionale di osservazione |
+| Mantovani S. | 1995 | Distinzione osservazione / semplice guardare |
+| Dovigo F. | *Manuale per l'osservazione educativa* (2014) | Circuito dei 5 momenti osservativi |
+| Zanon O. | 2016 | Apprendimento come messa in discussione del sistema di premesse |
+| Braga P. | 1994 | Fattori di deformazione nell'osservatore |
+| Bateson G. | — | Osservare "con occhi differenti"; molteplicità dei punti di vista |
+| Arnkil T.E., Seikkula J. | *Metodi dialogici nel lavoro di rete* (2013) | Realtà polifonica, approcci dialogici |
+
+---
 
 ## Collegamenti
 
-- **Autori citati:** Christopher Boorse (1977),
-  Carol Ryff, Tiziano Terzani (*L'ultimo giro di
-  giostra*), Callieri & C. (1999), Nadia Murad
-- **Lezioni successive:** Storia della follia
-  (25.02), L'incontro con l'alienità (4.03), Dal
-  modello psicoanalitico alle difese (11.03)
-- **Temi aperti:** Come cambiano le categorie
-  diagnostiche nel tempo? Come si costruisce una
-  diagnosi psichiatrica? (L'omosessualità come
-  esempio storico sarà ripreso)
-- **Da ricordare:** il vademecum del modulo
-  contiene i contenuti in forma scritta con i
-  riferimenti bibliografici precisi
+- **Lezione precedente**: postura critico-riflessiva nel lavoro relazionale —
+  torna qui come fondamento dell'auto-osservazione.
+- **Lezione 08 (prossima)**: strumenti osservativi — diario di bordo,
+  check list, griglie, annotazioni aneddotiche, scala di valutazione.
+- **Modulo PCR**: sovrapposizioni su soggettività, sistemi di premesse,
+  approccio dialogico.
+- **3° semestre / stage**: costruire un protocollo di osservazione per il
+  progetto educativo — le basi sono esattamente quelle di questa lezione.
+
+> Temi aperti: differenza paradigma moderno vs. post-moderno nell'osservazione;
+> il rischio del relativismo assoluto e come evitarlo (accennato ma non
+> sviluppato in questa lezione).

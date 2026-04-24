@@ -1,384 +1,256 @@
-# Introduzione al modulo di Salute Mentale
-Salute Mentale · Sessione 01 · 18.02.2026
+# La Definizione degli Obiettivi nel Processo di Progettazione Concertativo
+TMIS · Sessione 10 · 1 dicembre 2025
 
-> Questa prima lezione mette sul tavolo le fondamenta
-> di tutto il modulo: che cos'è davvero la salute?
-> Cos'è il benessere? E la normalità? Spoiler: nessuna
-> di queste domande ha una risposta semplice — e
-> proprio da qui parte il bello. Si parla anche della
-> tragedia greca come strumento per avvicinarsi alla
-> sofferenza umana. Roba potente, vedrai.
+> Questa lezione chiude la parte teorica del modulo. Si torna al processo di co-progettazione dialogica — già visto nella lezione 09 — e si entra nel cuore operativo: come si costruiscono gli obiettivi condivisi, come si strutturano in modo che siano davvero utili, e come si monitorano nel tempo. È una lezione densa e molto pratica.
 
 ---
 
-## Il modulo: struttura e filosofia
+## Dove siamo nel processo
 
-Il modulo di Salute Mentale si articola su **tre
-tappe fondanti**, ispirate alla scuola fenomenologica:
+Come abbiamo visto nella **lezione 09** sul processo concertativo, la progettazione dialogico-partecipata segue queste fasi:
 
-1. **La clinica** — l'universo dell'incontro con
-   chi soffre. Si esplorano i concetti di salute
-   e malattia, normalità e patologia, l'incontro
-   empatico con l'altro e i meccanismi di difesa.
+1. **Ideazione** — nasce l'idea di progetto
+2. **Attivazione** — analisi della situazione, lettura condivisa, costruzione degli obiettivi, definizione di azioni e strategie
+3. **Scrittura del progetto** — stesura formale del documento
+4. **Realizzazione** — messa in campo delle azioni
+5. **Verifica** — valutazione finale
 
-2. **Il mondo** — le funzioni psichiche e le loro
-   alterazioni (coscienza, percezione, pensiero,
-   affettività...), per poi passare alla dimensione
-   nosografica: sindromi affettive, ansiose, nevrosi,
-   disturbi di personalità, psicosi.
+Trasversale a tutto il processo c'è la **valutazione in itinere** e la **co-osservazione** (colloqui, riunioni d'équipe, incontri di rete).
 
-3. **Il corpo** — teatro della sofferenza: violenza,
-   aggressività, dimensioni anoressico-bulimiche,
-   sessualità come luogo di disagio, alessitimia.
-
-Queste tre tappe sono attraversate da quattro
-dimensioni esistenziali: **spazio, tempo, identità
-e incontro**. La clinica va calata in uno spazio
-e in un tempo, l'identità va declinata nella
-relazione, e prima della relazione viene l'incontro
-— senza il quale la relazione non sussiste.
-
-Il prof sottolinea un punto chiave: l'operatore
-sociale non è un tecnico di una sola disciplina,
-ma un **trait d'union** tra le specializzazioni.
-Per questo serve una conoscenza delle aree
-psicopatologiche — non per fare diagnosi, ma per
-comunicare con le altre figure professionali e
-per accompagnare la persona nella sua interezza.
+Questa lezione copre la **fase di Attivazione** nella parte dedicata agli obiettivi e alle azioni, e arriva fino alla verifica finale.
 
 ---
 
-## Salute, benessere, normalità: tre concetti
-da non confondere
+## L'approccio delle capabilities
 
-Uno dei messaggi centrali della lezione: **salute,
-benessere e normalità sono tre cose diverse** che
-spesso vengono confuse o sovrapposte. Vediamole
-una per una.
+Prima di parlare di obiettivi, la docente richiama un concetto fondamentale: l'**approccio delle capabilities** (capacità), legato all'economista **Amartya Sen** (2000).
 
-### Salute: più complessa di quanto sembra
+L'idea centrale è semplice ma potente: qualsiasi persona — anche in situazione di vulnerabilità grave — ha delle capacità. Il punto di partenza del lavoro sociale non è il deficit, ma ciò che c'è.
 
-Il prof parte da una domanda semplice: "Chi di voi
-sta bene?" Poi mostra quanto sia difficile rispondere.
-Due paradigmi diversi: puoi andare a fare gli esami
-del sangue e la TAC (approccio biomedico, *disease*),
-oppure puoi rispondere "mi sento bene" senza nessun
-esame (approccio soggettivo, *illness*). Non sono la
-stessa cosa.
+> "Non basta avere le capacità. Bisogna avere un ambiente che permetta di esercitarle."
 
-Introduce il lavoro di **Christopher Boorse (1977)**,
-che nel suo articolo ha tentato di definire la salute
-esaminando sette possibili condizioni — dimostrando
-che **nessuna da sola regge**:
+Esempio fatto in aula: una persona con dottorato e master non riesce a lavorare nella propria professione non perché manchi di competenze, ma perché l'ambiente (mercato del lavoro, situazione migratoria, ecc.) non glielo permette. Un bambino ama la tromba ma vive dove non c'è una scuola di musica — non svilupperà quella capacità non per mancanza di talento, ma perché il contesto non offre l'opportunità.
 
-| Condizione | Perché non basta |
-|---|---|
-| **Salute come valore** | Non tutto ciò che è desiderabile è salute; ci sono contesti dove non essere in salute può essere preferibile (es. durante guerre) |
-| **Malattia come ciò che il medico cura** | La medicina ha "colonizzato" ambiti non patologici (gravidanza, adolescenza); molte malattie non vengono trattate |
-| **Salute come norma statistica** | Fuori dalla media ≠ malattia (l'omosessualità è stata classificata come patologia a lungo) |
-| **Malattia come sofferenza** | Malattie asintomatiche e dolori normali (ciclo mestruale, coliche neonatali, dentizione) |
-| **Malattia come disabilità** | Tutti attraversiamo fasi di "non abilità" (un neonato non cammina, ma non è malato) |
-| **Salute come adattamento** | L'essere umano adatta anche l'ambiente a sé. Pensate alle neurodivergenze: a volte è l'ambiente che va cambiato |
-| **Salute come omeostasi** | Il funzionamento umano si basa su un continuo perdere e riacquistare equilibrio. L'equilibrio statico è rigidità |
-
-L'ultimo punto merita attenzione. Il prof insiste:
-**l'equilibrio statico non è salute, è rigidità**.
-La metafora è bellissima: camminare richiede di
-rompere continuamente l'equilibrio. Per fare un
-passo devi sbilancarti. La vita è movimento, e il
-movimento richiede di perdere e ritrovare l'equilibrio.
-"Le persone troppo equilibrate sono spesso molto
-rigide, poco disposte a rischiare."
-
-> *"Non c'è movimento senza perdere l'equilibrio,
-> e siccome la vita è costante movimento, occorre
-> mettersi nell'ottica di capire e accompagnare
-> la perdita e la riconquista dell'equilibrio —
-> non impedirla."*
-> — Il professore
-
-### La triade anglosassone: disease, illness, sickness
-
-Per ordinare le idee sulla salute, il prof introduce
-la distinzione in tre dimensioni:
-
-- **Disease** — la malattia in senso biomedico,
-  misurabile (esami, parametri clinici)
-- **Illness** — il vissuto soggettivo: come la
-  persona *si sente*
-- **Sickness** — la dimensione sociale: come la
-  società riconosce (o stigmatizza) quella condizione
-
-Queste tre dimensioni **possono non coincidere**.
-Una malattia può essere tale per il medico (disease)
-ma non vissuta come tale dal soggetto (illness),
-oppure può essere vista dalla società come un vizio
-(sickness negativa) anche se è una malattia vera.
-
-Questo è importante per il lavoro sociale: lo sguardo
-della società su una condizione ha effetti reali sul
-benessere della persona. Se hai una malattia che viene
-giudicata come "vizio" o "colpa", la stigmatizzazione
-peggiora tutto — come mostrava già il racconto
-di apertura della lezione.
+**Implicazione per la progettazione:** non si lavora solo sullo sviluppo della persona — si lavora anche affinché il contesto permetta alla persona di esercitare le proprie capacità. La persona diventa una **risorsa sociale**, non un problema da risolvere.
 
 ---
 
-## Il benessere: un concetto multidimensionale
+## Costruire gli obiettivi condivisi
 
-**Salute e benessere non coincidono.** Il prof porta
-l'esempio di **Tiziano Terzani** e del suo libro
-*L'ultimo giro di giostra*: un giornalista gravemente
-malato di cancro che attraverso la malattia ha trovato
-una pace e una ricchezza interiore che non aveva quando
-stava "bene". Paradossale? No, profondamente umano.
+Una volta condivisa la lettura della situazione (lezione 09), si arriva al momento in cui si definiscono gli obiettivi. Qui entra in gioco la parola chiave: **condivisione**.
 
-Il benessere è un concetto **polisemico e
-multidimensionale**. **Carol Ryff** è una psicologa
-che ha risposto alla domanda: "Quando diciamo che
-una persona sta bene, di *cosa* esattamente stiamo
-parlando?" La risposta: di sei dimensioni distinte.
+Gli obiettivi non vengono decisi dall'operatore e imposti alla persona. Vengono **co-costruiti** con tutte le persone coinvolte nel progetto — l'utente, la famiglia, i professionisti della rete.
 
-| Dimensione | Cosa significa in concreto |
-|---|---|
-| **Autonomia** | Capacità di determinarsi senza dipendere dagli altri per le proprie scelte |
-| **Controllo ambientale** | Capacità di cogliere, sfruttare e valorizzare le risorse e le possibilità disponibili |
-| **Relazioni positive** | Avere relazioni calde, fiduciose, contraddistinte da affetto e reciprocità |
-| **Autoaccettazione** | Consapevolezza delle proprie qualità e limiti, senza negare né l'uno né l'altro |
-| **Percezione di crescita** | Sentire che la propria vita è un processo continuo di sviluppo |
-| **Scopo nella vita** | Avere mete, riuscire a dare senso a ciò che si fa |
+> Attenzione: "rete" non significa automaticamente famiglia. Se la persona è maggiorenne e indipendente, la rete può essere composta solo da lei. Comunicare informazioni a genitori non autorizzati viola il segreto professionale.
 
-Questo modello è prezioso per l'operatore sociale
-perché rende il lavoro sul benessere **concreto**.
-Invece di un generico "lavoro per il benessere",
-puoi esplorare *quale* dimensione è più critica
-e intervenire lì. Il prof fa un esempio: se lavori
-sull'autonomia di qualcuno (aiutarlo a fare scelte
-proprie), quello starà meglio — anche senza sapere
-perché. Il prodotto è quello che conta.
+### Obiettivi generali vs. obiettivi specifici
 
-Se in un momento la persona non riesce a lavorare
-sulle relazioni, si compensa sulle altre dimensioni.
-È un gioco di variabili, non tutto insieme.
+| Tipo | Che cosa sono | Temporalità |
+|------|--------------|-------------|
+| **Obiettivi generali** | L'orizzonte di senso, le macro-finalità del lavoro sociale declinate sulla situazione specifica | Medio-lungo termine, possono proiettarsi all'infinito (es. progetto di vita) |
+| **Obiettivi specifici** | Mete concrete, osservabili, raggiungibili a breve-medio termine (1-6 mesi) che concorrono all'obiettivo generale | Breve-medio termine |
 
-Il prof aggiunge: **vale anche per noi**, non solo
-per i nostri utenti. Se guardiamo indietro alla
-nostra vita e vediamo solo disastri, non stiamo bene.
-Se riusciamo a vedere crescita e senso, anche nelle
-difficoltà, il benessere aumenta.
+**Schema logico (dal più astratto al più concreto):**
 
----
+```
+Macrofinalità del lavoro sociale
+        ↓
+Obiettivo generale
+        ↓
+Obiettivi specifici
+        ↓
+Azioni / strategie di intervento
+```
 
-## La normalità: quale normalità?
+Le **macrofinalità** del lavoro sociale sono: autonomia, autodeterminazione, benessere individuale e collettivo, integrazione sociale, empowerment, autostima, autoefficacia.
 
-Il prof introduce tre tipi di normalità — tutti
-rilevanti per il lavoro con le persone.
+Esempio: la macrofinalità è _autonomia_ → l'obiettivo generale è _aumentare l'autonomia negli spostamenti sul territorio_ → gli obiettivi specifici diventano azioni concrete e verificabili (vedi sezione SMART più avanti).
 
-### 1. Norma statistica
+### Gli obiettivi sono dinamici, non statici
 
-La "normalità" come conformità alla media della
-popolazione. Sembra neutro, ma non lo è: essere
-fuori dalla norma statistica può provocare stigma,
-isolamento, discriminazione. L'omosessualità è stata
-a lungo classificata come patologia proprio su base
-statistica — e solo quando la comunità scientifica
-ha cambiato i criteri ne è uscita.
+Nella **progettazione razionale-lineare** (il vecchio approccio), l'obiettivo veniva definito all'inizio e non si ridiscuteva mai.
 
-Il contesto è fondamentale: qualsiasi comportamento,
-senza contesto, può sembrare "anormale".
+Nella **progettazione dialogica**, invece, l'obiettivo è mobile. Se durante il progetto ci si rende conto che:
+- l'obiettivo era troppo facile o troppo difficile
+- la persona ha perso motivazione
+- la situazione è cambiata
 
-### 2. Norma di valore (ideale)
-
-Uno standard ideale che si pone come riferimento.
-Se il mio ideale è un certo tipo di corpo, starò
-male finché non ci corrispondo. Ed è un ideale
-*irraggiungibile*, quindi la sofferenza è perpetua.
-
-**Attenzione**: la norma ideale incide anche sugli
-operatori. Abbiamo ideali su come dovrebbe essere
-un utente, come dovrebbe comportarsi, cosa dovrebbe
-raggiungere. Se quella norma ideale diventa il metro
-di lavoro, rischia di diventare penalizzante per
-la relazione.
-
-### 3. Norma personale (individuale)
-
-La normalità *rispetto a come funzionavo prima*.
-Se mi rompo una gamba, non sono più "normale" rispetto
-al mio funzionamento precedente. Questa dimensione
-è importante clinicamente: capire com'era il soggetto
-prima dell'evento permette di comprendere il
-cambiamento.
-
-Ma il prof aggiunge un avvertimento cruciale:
-**la normalità personale non è sempre da riconquistare**.
-A volte è proprio quella "normalità" precedente che
-ha causato il problema. Esempio: "Lavoravo 10 ore
-al giorno, gestivo tutto, poi mi sono ammalato —
-voglio tornare come prima." Forse no. Se torni come
-eri prima, tra un mese ci rivediamo peggio.
-
-C'è anche il rischio di **idealizzare il passato**:
-"Prima stavo bene" — ma siamo sicuri? O è solo che
-in confronto a oggi sembra il paradiso?
+...allora si ridiscute l'obiettivo. Non è un fallimento — è il processo che funziona.
 
 ---
 
-## La posizione del soggetto davanti alla malattia
+## Le funzioni degli obiettivi
 
-L'ultima parte della lezione introduce un modello
-pratico a due assi per capire come il soggetto si
-pone rispetto alla propria condizione.
+Secondo **Traverso (2016)**, gli obiettivi nel processo partecipato assolvono a quattro funzioni:
 
-**Asse 1 — Identificazione:**
-- *Non mi identifico* con la malattia: "Io non sono
-  la mia malattia, è qualcosa di estraneo"
-- *Mi identifico*: "La mia condizione fa parte di me"
-
-**Asse 2 — Agentività** (termine tecnico dal greco):
-- *Agentivo* (attivo): affronto la situazione,
-  mi muovo, cerco alleati
-- *Passivo*: subisco, aspetto che qualcuno intervenga
-
-Incrociando i due assi si ottengono quattro posizioni:
-
-| | Non si identifica | Si identifica |
-|---|---|---|
-| **Passivo** | **Delega**: "Faccia lei, risolva lei" | Passivo nella propria condizione |
-| **Agentivo** | **Guarigione**: combatte per eliminare la condizione | **Cura**: lavora sul proprio benessere dentro la condizione |
-
-Il passaggio chiave: quando il soggetto si identifica
-con la propria condizione e diventa agentivo, il
-paradigma passa dalla **guarigione** alla **cura**.
-Non si tratta più di eliminare la malattia (che a
-volte non è possibile), ma di aumentare il benessere
-*dentro* la condizione.
-
-> *"Non tutto si può guarire. Ma tutto può essere
-> curato."*
-> — Il professore
-
-La differenza tra *to cure* (terapia) e *to care*
-(cura) è fondamentale per il lavoro sociale: la
-terapia non è sempre possibile, ma la cura — nel
-senso di prendersi cura del benessere della persona
-— è sempre praticabile.
-
-Nella realtà le persone si muovono tra i quadranti,
-soprattutto all'inizio della malattia. L'operatore
-accompagna questo movimento.
+| Funzione | Significato |
+|----------|-------------|
+| **Orientativa** | Danno il senso della direzione — sia nell'orizzonte generale (macrofinalità) sia nelle mete concrete e raggiungibili |
+| **Comunicativa** | Attivano scambi di comunicazione chiari a tutti i livelli: con l'utente, nell'équipe, con la rete esterna |
+| **Decisionale** | Ancorano le scelte a finalità discusse e condivise a priori, distribuendo le responsabilità tra tutti gli attori |
+| **Valutativa** | Forniscono indicatori per valutare i risultati raggiunti e la qualità del processo partecipato |
 
 ---
 
-## La tragedia greca: passioni e follia
+## La zona di sviluppo prossimale (Vygotskij)
 
-Parallelamente allo studio teorico, il modulo
-include un lavoro su **cinque tragedie greche**.
+Questa è forse la parte più "wow" della lezione. La docente introduce **Lev Vygotskij**, psicologo russo degli anni '30-'40 (contemporaneo di altri teorici che, senza mai conoscersi, svilupparono teorie molto simili — fatto che la docente sottolinea come affascinante), e il suo concetto più famoso: la **zona di sviluppo prossimale**.
 
-### Perché la tragedia?
+Esistono tre zone per qualsiasi apprendimento:
 
-La tragedia greca nasce insieme alla medicina antica
-(Ippocrate) e mette in scena la sofferenza umana —
-quella difficile da spiegare e a volte da comprendere.
-Assistere alla tragedia faceva emergere emozioni e
-sentimenti che, attraverso la **catarsi**, potevano
-uscire e liberare.
+1. **Zona effettiva** — quello che la persona sa fare da sola oggi
+2. **Zona di sviluppo prossimale** — quello che la persona sa fare se accompagnata, e che a breve termine potrà fare da sola
+3. **Zona di sviluppo potenziale** — quello che per ora è fuori portata, anche con accompagnamento
 
-La tragedia parla dei **confini dell'umano**: la
-morte, la malattia, la follia. Il prof distingue
-gli approcci dei tre grandi tragediografi:
+Esempio classico: un bambino che impara a camminare.
+- Sa stare in piedi → zona effettiva
+- Cammina tenendo la mano di un adulto → zona prossimale (presto camminerà da solo)
+- Correre e saltare → zona potenziale (non ci arriva neanche tenendogli la mano)
 
-- **Eschilo** — il più arcaico: la follia arriva
-  dagli dèi, è una forza esterna che schiaccia
-- **Sofocle** — il tragico non arriva dagli dèi,
-  è la vita stessa che è tragica
-- **Euripide** — il più moderno: il tragico nasce
-  dalle relazioni tra le persone
+Pensala come i livelli di un videogioco: non puoi saltare a un boss finale quando sei ancora al livello 2. Gli obiettivi giusti sono quelli del livello 3 — sfidanti ma raggiungibili con un po' di supporto.
 
-A secoli di distanza, la tragedia "resta fedele
-a se stessa" — perché tocca qualcosa di profondo
-nell'umano che non cambia nei secoli.
+**Implicazione diretta:** gli obiettivi specifici devono sempre posizionarsi nella **zona di sviluppo prossimale**. Non troppo facili, non troppo difficili. La zona giusta è quella dove la persona cresce con accompagnamento.
 
-### L'esercizio pedagogico
+Se raggiungi l'obiettivo in due settimane su un progetto annuale, probabilmente non eri abbastanza ambizioso. Se dopo un anno non ci si è neanche avvicinati, andava ridiscusso molto prima.
 
-Gli studenti sono divisi in **5 gruppi**, ciascuno
-con una tragedia assegnata per estrazione. Il lavoro
-prevede:
+---
 
-1. **Leggere** la tragedia — esporsi a un linguaggio
-   non familiare della sofferenza, proprio come
-   accade quando si incontra un paziente che parla
-   una "lingua" diversa dalla nostra
-2. **Condividere** nel gruppo — cosa ti ha parlato?
-   Quali temi ti hanno colpito?
-3. **Sintetizzare** — trovare un messaggio comune,
-   con le inevitabili rinunce individuali (esercizio
-   di équipe reale)
-4. **Andare in scena** — non uno "spettacolino",
-   ma portare temi salienti a una platea
+## Gli obiettivi specifici devono essere SMART
 
-Il prof insiste: quello che deve arrivare al pubblico
-deve essere *vero* — deve essere passato attraverso
-l'umanità di chi lo porta in scena. Se non c'è quella
-verità, si sente.
+Per essere davvero utili, gli obiettivi specifici devono essere formulati con linguaggio **SMART**:
 
-### Le tragedie di quest'anno
+| Lettera | Significato |
+|---------|-------------|
+| **S** | **Semplice** — chiaro e comprensibile per tutte le persone coinvolte, incluso chi non parla il linguaggio tecnico del lavoro sociale |
+| **M** | **Monitorabile** — traducibile in indicatori osservabili; si deve poter vedere se il cambiamento sta avvenendo |
+| **A** | **Auspicabile** — riconosciuto come opportuno e desiderabile da tutti, in primis dalla persona stessa |
+| **R** | **Realistico** — raggiungibile senza essere sovra o sottodimensionato; deve stare nella zona prossimale |
+| **T** | **Temporale** — collocabile in un lasso di tempo definito e realistico |
 
-Le docenti hanno scelto — indipendentemente —
-tragedie che convergono su un tema comune: la
-**violenza sulle donne nei conflitti armati**.
+> Trappola frequente (e segnalata come errore tipico all'esame): un "obiettivo" che descrive cosa deve fare l'operatore — es. "migliorare la comunicazione con la famiglia" — non è un obiettivo specifico. È un obiettivo per l'operatore, non per la persona. Scrivi sempre obiettivi che descrivono cambiamenti nell'utente.
 
-- **Agamennone** (Eschilo) — Cassandra, prigioniera
-  di guerra e bottino sessuale
-- **Le Troiane** (Euripide) — Ecuba, Cassandra,
-  Andromaca: tre donne schiavizzate dopo la caduta
-  di Troia
-- **Andromaca** (Euripide) — la vittima di guerra
-  per eccellenza
-- **Le Trachinie** (Sofocle) — donne umiliate
-  e "rese mute" dalla violenza
-- **Aiace** (Sofocle) — la fragilità dietro
-  l'eroismo apparente
+### Esempio pratico SMART
 
-Il prof collega esplicitamente queste storie ai dati
-odierni sulla violenza sessuale nei conflitti armati
-(Congo, Iraq, Rwanda), citando **Nadia Murad**,
-Premio Nobel per la Pace e sopravvissuta alla
-schiavitù sessuale dell'ISIS. La tragedia greca
-non è storia lontana: è cronaca con un linguaggio
-di 2500 anni fa.
+**Obiettivo generale:** aumentare l'autonomia negli spostamenti sul territorio
+
+| Obiettivo specifico | S | M | A | R | T |
+|---------------------|---|---|---|---|---|
+| Entro 1 mese, X legge gli orari del bus e si reca autonomamente al posto di lavoro | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Entro 3 mesi, ogni venerdì X rientra autonomamente a casa dei genitori e la domenica sera rientra autonomamente in foyer | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Entro 1 anno, X cerca gli orari dei mezzi pubblici e si reca in autonomia presso le persone della sua rete sociale | ✓ | ✓ | ✓ | ✓ | ✓ |
+
+### La motivazione è condizione necessaria
+
+La docente racconta di un progetto fatto durante il tirocinio con una signora anziana che non usciva di casa. Progetto costruito perfettamente, tabelle, teoria, tutto. La signora diceva di sì per accontentare, ma non voleva davvero uscire. Risultato: zero.
+
+**Un obiettivo auspicabile deve essere davvero desiderato dall'utente, non dall'operatore.** La motivazione è uno dei principali motori dell'apprendimento — se il progetto segue i desideri dell'operatore ma non della persona, difficilmente funzionerà.
+
+### Quanti obiettivi?
+
+Come riferimento operativo (non come regola matematica — dipende sempre dalla situazione):
+- **Obiettivi generali:** massimo 2-3
+- **Obiettivi specifici per ogni obiettivo generale:** massimo 2-3
+
+Non si può lavorare su 50 obiettivi contemporaneamente. Si concentrano energie e risorse su alcune priorità, senza abbandonare tutto il resto.
+
+---
+
+## Le azioni progettuali
+
+Una volta definiti gli obiettivi specifici, si costruiscono le **azioni progettuali**: l'insieme di interventi concatenati per raggiungere ogni obiettivo specifico.
+
+Le azioni devono:
+- Indicare **chi** fa cosa — non solo l'operatore, ma tutti gli attori coinvolti (utente, famiglia, rete formale e informale)
+- Essere anch'esse formulate in linguaggio **SMART**
+- Avere una **temporalità coerente** con quella degli obiettivi specifici
+
+**Esempio pratico (caso "Marina"):**
+
+**Dimensione:** gestione della vita quotidiana
+**Problema condiviso:** difficoltà a ricordarsi gli appuntamenti e arrivare in orario
+**Obiettivo generale:** accrescere le competenze di organizzazione degli impegni quotidiani
+
+| Obiettivo specifico | Azioni |
+|---------------------|--------|
+| Entro 2 mesi Marina si presenta puntuale agli appuntamenti quindicinali dallo psicologo | Marina compra un'agenda e annota gli appuntamenti; Marina inserisce quotidianamente gli impegni; ogni mattina verifica l'agenda; ogni lunedì l'educatrice verifica con Marina che l'agenda sia aggiornata e discute eventuali criticità |
+| Entro 1 mese Marina arriva puntuale a prendere il figlio a scuola | Marina imposta un promemoria sul cellulare 30 min prima dell'uscita; la docente avvisa le educatrici se il ritardo supera i 15 min; l'educatrice ne parla nel colloquio settimanale |
+
+Le azioni non sono solo dell'operatore — sono distribuite nella rete. Questo è il senso della **corresponsabilità**.
+
+---
+
+## Il progetto scritto
+
+Tutti gli obiettivi e le azioni vanno messi **per iscritto**. Non è burocrazia:
+
+- Scrivere significa dichiarare, tracciare, lasciare un termine di riferimento condiviso
+- Permette di verificare se c'è davvero accordo (spesso a parole sembra di sì, poi leggendo ci si accorge che si intendevano cose diverse)
+- Garantisce continuità anche se cambiano gli operatori
+- Il documento viene **firmato da tutti gli attori coinvolti** — un atto simbolico che sottolinea la responsabilità condivisa
+
+> _"Scrivere bene gli obiettivi rende possibile uno sviluppo progettuale teso alla concretezza, all'esplicitazione delle traiettorie e dei traguardi."_ — Traverso (2016)
+
+---
+
+## Monitoraggio, valutazione in itinere e verifica finale
+
+### Monitoraggio durante la realizzazione
+
+L'operatore deve **monitorare costantemente** usando strumenti di raccolta dati: griglie di osservazione, diari di bordo, bilanci periodici, incontri di rete.
+
+Il monitoraggio serve a:
+- Accorgersi se gli obiettivi vanno ridiscussi prima che sia troppo tardi
+- **Motivare l'operatore stesso** — con persone con disabilità grave i cambiamenti sono piccoli; il monitoraggio permette di vederli e non demotivarsi
+- Giustificare il lavoro svolto di fronte alla famiglia, alle autorità, all'organizzazione
+
+### Valutazione in itinere vs. verifica finale
+
+| | Valutazione in itinere | Verifica finale |
+|--|----------------------|-----------------|
+| **Quando** | Durante tutto il progetto | Al termine del progetto |
+| **Scopo** | Orientare, modificare, confermare il progetto in corso | Valutare lo scarto tra attese e risultati ottenuti |
+| **Cosa si valuta** | Efficacia, coerenza degli obiettivi e delle strategie, integrazione col contesto | Tutti i risultati, inclusi gli esiti inattesi positivi |
+| **Come** | Osservazione partecipata, incontri dialogici, bilanci intermedi | Valutazione complessiva condivisa con tutti gli attori |
+
+### I risultati inattesi
+
+La docente racconta un esempio: un utente molto isolato, obiettivo "aumentare le relazioni sociali", azione "andare al bar una volta a settimana". Non funzionava molto. Un giorno incontra per caso una zia che non vedeva da anni — ritrovamento familiare inaspettato. Il progetto "formale" è fallito, ma la qualità di vita della persona è migliorata enormemente.
+
+> "Il progetto non è fallito. Ha portato ad altri obiettivi, forse più importanti di quelli che avevamo immaginato."
+
+La valutazione deve considerare anche gli **esiti inattesi positivi**. E il buon lavoro educativo sta nel saper cogliere queste "finestre" quando si aprono.
 
 ---
 
 ## Concetti chiave
 
 | Termine | Significato |
-|---|---|
-| **Disease** | Malattia in senso biomedico, misurabile con parametri clinici |
-| **Illness** | Vissuto soggettivo della malattia, come la persona si sente |
-| **Sickness** | Dimensione sociale della malattia, riconoscimento/stigma |
-| **Benessere** | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo |
-| **Norma statistica** | Normalità come conformità alla media della popolazione |
-| **Norma di valore** | Normalità come conformità a un ideale |
-| **Norma personale** | Normalità rispetto al proprio funzionamento precedente |
-| **Agentività** | Atteggiamento attivo del soggetto verso la propria condizione |
-| **Catarsi** | Purificazione emotiva attraverso la partecipazione alla tragedia |
-| **Omeostasi** | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio |
-| **To cure** | Terapia: eliminare la malattia |
-| **To care** | Cura: prendersi cura del benessere, sempre praticabile |
+|---------|-------------|
+| **Capabilities (Sen)** | Capacità delle persone; la progettazione deve partire da queste, non dai deficit |
+| **Obiettivi generali** | Macro-finalità a medio-lungo termine che danno l'orizzonte di senso al progetto |
+| **Obiettivi specifici** | Mete concrete, osservabili, breve-medio termine; concorrono agli obiettivi generali |
+| **SMART** | Semplice, Monitorabile, Auspicabile, Realistico, Temporale — criteri per formulare gli obiettivi specifici |
+| **Zona di sviluppo prossimale (Vygotskij)** | Ciò che la persona sa fare con accompagnamento, e che presto saprà fare da sola; gli obiettivi devono posizionarsi qui |
+| **Zona effettiva** | Ciò che la persona sa fare da sola oggi |
+| **Zona di sviluppo potenziale** | Ciò che per ora è fuori portata anche con accompagnamento |
+| **Azioni progettuali** | Interventi concatenati che tutti gli attori coinvolti attuano per raggiungere ogni obiettivo specifico |
+| **Valutazione in itinere** | Valutazione continua durante il progetto, serve a modificarlo e orientarlo |
+| **Verifica** | Valutazione finale — scarto tra attese e risultati; include gli esiti inattesi |
+| **Corresponsabilità** | Distribuzione delle azioni e delle responsabilità tra tutti gli attori della rete |
+
+---
 
 ## Collegamenti
 
-- **Autori citati:** Christopher Boorse (1977),
-  Carol Ryff, Tiziano Terzani (*L'ultimo giro di
-  giostra*), Callieri & C. (1999), Nadia Murad
-- **Lezioni successive:** Storia della follia
-  (25.02), L'incontro con l'alienità (4.03), Dal
-  modello psicoanalitico alle difese (11.03)
-- **Temi aperti:** Come cambiano le categorie
-  diagnostiche nel tempo? Come si costruisce una
-  diagnosi psichiatrica? (L'omosessualità come
-  esempio storico sarà ripreso)
-- **Da ricordare:** il vademecum del modulo
-  contiene i contenuti in forma scritta con i
-  riferimenti bibliografici precisi
+**Lezione precedente collegata:**
+- **Lezione 09 — Il processo concertativo:** questa lezione è la continuazione diretta. La fase di Attivazione (lettura condivisa della situazione, costruzione della rete) è stata trattata lì. Qui si approfondisce la costruzione degli obiettivi e delle azioni.
+
+**Autori chiave citati:**
+- **Amartya Sen** (2000) — approccio delle capabilities; _Lo sviluppo è libertà_, Mondadori
+- **Lev Vygotskij** — zona di sviluppo prossimale
+- **Andrea Traverso** (2016) — _Metodologia della progettazione educativa_, Carocci — testo di riferimento del corso
+
+**Temi aperti / da approfondire:**
+- Il concetto di capabilities di Sen verrà ripreso più avanti nel percorso formativo
+- La valutazione in itinere come pratica quotidiana, non solo formalità
+- Il segreto professionale nella gestione della rete (accennato ma non approfondito)

@@ -1,177 +1,197 @@
-# L'Adolescenza — Schema
-I tempi della vita · Sessione 06
+# Adolescenza — Schema
+I Tempi della Vita · Sessione 06
 
 ---
 
-## Definizione e cornice
+## Definizione
 
-- **Adolescenza** → transizione dallo status di bambino a quello di adulto; seconda decade di vita
-- **Inizio**: pubertà (biologico)
-- **Fine**: determinata dalla cultura (variabile)
-- **Caratteristica**: fase di disarmonia — sviluppo biologico, cognitivo e sociale non sincronizzati
-
----
-
-## Contesto storico
-
-- **Pre-industriale** → nessuna distinzione infanzia/adolescenza; si diventava adulti subito
-- **Dopoguerra** → nasce categoria giovanile autonoma, estetica giovanile distinta
-- **Anni '70 in poi** → individualismo, culto del corpo, cambiamento modello educativo
+- **Adolescenza** → passaggio dallo status di bambino a quello di adulto
+  - Inizia: **biologia** (pubertà)
+  - Finisce: **cultura** (Palmonari, 1997)
+  - Carattere: disarmonia, sospensione, "prime volte"
+  - Non necessariamente storm and stress — ma complessità reale
 
 ---
 
-## Riti di passaggio
+## Contesto storico-culturale
 
-- **Rito** → atti formalizzati con dimensione simbolica; linguaggio efficace sulla realtà sociale
-- **Rito di passaggio** (Van Gennep, 1909) → segna cambiamento di status socioculturale
-
-**3 fasi del rito:**
-- **Separazione** → distacco dal gruppo/status precedente
-- **Liminale** → soglia, sospensione (né bambino né adulto)
-- **Aggregazione** → rientro con nuovo status
-
-**Funzione:**
-- Attenuare l'angoscia del cambiamento
-- Non lasciare soli i soggetti
-- Creare continuità simbolica nella discontinuità reale (Lévi-Strauss)
-
-**Oggi:**
-- Molti riti scomparsi o svuotati di significato
-- Passaggio più faticoso, sfilacciato, prolungato
-- Adolescenti si organizzano da soli → rituali di trasgressione
+- **Passaggio della soglia** → cambia durata, qualità e significato da cultura a cultura
+- Adolescenza come fase psicologica → nasce con la società industriale (scolarizzazione, gruppo dei pari)
+- Fattori culturali e sociali → possono ostacolare o favorire il passaggio
+  - es. attese contraddittorie (responsabile come adulto / trattato come bambino)
+  - es. permanenza in casa per motivi economici
 
 ---
 
-## Modelli familiari e adolescenza
+## Fasi dell'adolescenza (Blos, 1962)
 
-| Famiglia | Tipo | Adolescente | Emozione prevalente |
-|----------|------|-------------|---------------------|
-| **Normativa** | Regole, obbedienza | Edipico (si oppone) | Colpa |
-| **Affettiva** | Dialogo, confronto | Narcisistico ("chi sono io?") | Vergogna |
-| **Post-narcisistica** | Alleanza | Separazione per delusione | Disillusione |
-
----
-
-## Identità (Erikson, 1968)
-
-- **5° stadio psicosociale** → **Identità vs. Confusione di ruoli**
-- **Sperimentazione** → esplorare ruoli, gruppi, valori (attivo)
-- **Identificazione** → integrare elementi di altri significativi nella personalità (stabile)
-- **Moratoria psicosociale** → periodo protetto di sperimentazione; non responsabilità immediate
-- **Confusione di ruoli** → esito negativo; identità frammentata, passaggio da un'identificazione all'altra
-- **Identità acquisita** → fedeltà + impegno; conoscere il proprio posto nel mondo
-- Necessità: cultura adulta convenzionale di riferimento + riti di passaggio + modelli adulti
+| Fase | Età (F / M) | Carattere |
+|---|---|---|
+| **Preadolescenza** | 10-12 / 11-13 | Turbolenza, agito, impulsi sessuali e aggressivi |
+| **Prima adolescenza** | 12-13 / 13-14 | Identificazioni, amicizie stesso sesso |
+| **Adolescenza vera e propria** | 13-16 / 14-16 | Identificazioni, prime cotte |
+| **Tarda adolescenza** | 16-18 / 15-17 | Consolidamento identità e ruoli |
+| **Post-adolescenza** | 18+ / 16+ | Integrazione, avvio età adulta |
 
 ---
 
-## 4 stati dell'identità (Marcia)
+## Erikson — Quinto stadio: Identità vs. Confusione dei ruoli
+
+- **Sperimentazione** → esplorazione attiva di ruoli e possibilità
+- **Identificazione** → integrazione di elementi da persone significative
+- **Moratoria psicosociale** → spazio protetto per sperimentare senza responsabilità definitive
+- Serve: **cultura adulta convenzionale** come riferimento
+
+**Esito positivo** → identità coerente: sapere chi si è, fedeltà ai propri valori
+**Esito negativo** → confusione dei ruoli: Sé frammentato, conformità passiva
+
+### Marcia — Quattro stati dell'identità
 
 | Stato | Esplorazione | Impegno |
-|-------|-------------|---------|
-| **Acquisizione** | ✓ Alta | ✓ Alto |
-| **Chiusura** | ✗ Bassa | ✓ Alto |
-| **Moratorium** | ✓ Alta | ✗ Basso |
-| **Diffusione** | ✗ Bassa/superficiale | ✗ Basso |
+|---|---|---|
+| Acquisizione | Sì | Sì |
+| Chiusura | No | Sì |
+| Moratorium | Sì | In corso |
+| Diffusione | Superficiale | No |
 
 ---
 
-## 4 compiti evolutivi (Maggiolini-Charmet, 2004 / Lancini)
+## Quattro compiti evolutivi fase-specifici (Maggiolini & Charmet, 2004)
 
 ### 1. Separazione-individuazione
-- **Obiettivo** → indipendenza cognitiva e affettiva dai genitori *interiorizzati*
-- **Blos** → "secondo processo di separazione-individuazione" (riedizione del processo infantile)
-- **Ambivalenza** → spinta all'autonomia ↔ richiamo nicchia affettiva primaria
-- **Pulsioni** → sessuale (distacco), aggressiva (extradomestica), sociale (fame di nuovi oggetti)
-- **Oggi** → separazione per *delusione*, non per trasgressione; passaggio narcisistico
+
+- **Blos (1962)**: secondo processo separazione-individuazione
+  - Il primo (1-3 anni): separazione fisica
+  - Il secondo (adolescenza): separazione **esistenziale** dagli oggetti genitoriali interiorizzati
+- Spinte verso l'esterno:
+  - **Pulsione sessuale** → natura extradomestica
+  - **Pulsione aggressiva** → marcatura fortemente extradomestica
+  - **Pulsione sociale** → fame di nuovi oggetti e conoscenza
+- **Ambivalenza** → autonomia vs. dipendenza → lutto, posizione depressiva
+- **Esternalizzazione del conflitto** → conflitto interno proiettato sul genitore reale
+- **Deidealizzazione** dei genitori → può allargarsi all'intero mondo adulto
+- Genitore che pone limite → assume su di sé la paura della crescita del figlio
+
+**Contemporaneità (Lancini, 2020):**
+- Da separazione per **trasgressione** → separazione per **delusione**
+- Da passaggio **edipico** → passaggio **narcisistico**
+- **Vergogna** ("non valgo") al posto della **colpa** ("ho sbagliato")
+- L'adolescente non si costruisce contro qualcuno, ma attraverso lo sguardo altrui
+
+---
 
 ### 2. Mentalizzazione del corpo sessuato
-- **Obiettivo** → elaborare psichicamente i cambiamenti puberali; integrare il nuovo corpo nel Sé
-- **Contenuti difficili** → mortalità del corpo, complementarietà sessuale
-- **Oggi** → corpo *estetico* > corpo erotico; canoni estetici impossibili; selfie/sexting
-- **Cervello adolescente** (Siegel):
-  - Sistema limbico → massimo sviluppo in adolescenza (emozioni, ricompensa)
-  - Corteccia prefrontale → ancora in maturazione (autocontrollo, pianificazione)
-  - Divario → impulsività, ricerca gratificazioni immediate, sottovalutazione rischi
+
+- **Mentalizzazione** → elaborazione psichica dell'immagine corporea in trasformazione
+- Tensioni:
+  - corpo ideale vs. corpo reale → conflitti narcisistici, vergogna
+  - scoperta della **mortalità**
+  - disarmonie temporanee nello sviluppo
+- In preadolescenza: difficoltà a mentalizzare → **acting out**
+  - Comportamenti oppositivi, esplosioni emotive, agiti rischiosi
+  - Compito adulto: dare significato all'azione, favorire passaggio all'azione → riflessione → parola
+- Processo regolare → corpo integrato nel Sé, identità di genere, orientamento sessuale
+
+**Contemporaneità:**
+- Corpo **estetico** prevale su corpo **erotico**
+- Manipolazioni del corpo: non più trasgressione, ma soggettivizzazione e ricerca di accettazione
+- Meno sesso, più sexting e selfie
+
+---
 
 ### 3. Nascita come soggetto sociale
-- **Obiettivo** → assumere ruolo socialmente riconosciuto tra pari e nella società
-- Scuola → ambiente privilegiato; vissuta più come spazio relazionale che di apprendimento
-- Coetanei → potere orientativo aumentato; rispecchiamento vitale
-- **Oggi** → "recessione sessuale"; sessualità come prova di visibilità, non scambio emotivo
 
-### 4. Costruzione di valori e ideali *(trasversale)*
-- **Obiettivo** → sistema valoriale personale attraverso modelli alternativi ai genitori
-- **Trasversale** → influenza tutti gli altri compiti; ideali esigenti bloccano il percorso su tutti i fronti
-- Oggi → molteplici modelli di identificazione (media, internet, marketing); identità di genere più fluida
+- Assunzione di un **ruolo socialmente riconosciuto** tra pari e nel contesto
+- **Scuola** = arena privilegiata di sperimentazione del Sé sociale
+  - Iperinvestita di significati affettivi e relazionali (non luogo di apprendimento)
+- **Rispecchiamento** da adulti e coetanei = vitale (Lancini)
+- Relazioni con pari:
+  - Preadolescenza → amicizie stesso sesso, idealizzazione
+  - Prima adolescenza → amico/a del cuore, prime cotte (scelte narcisistiche)
+  - Adolescenza → gruppi misti, metacomunicazione sulla relazione
 
----
-
-## Fasi (Blos, 1962)
-
-| Fase | Età | Caratteristica |
-|------|-----|----------------|
-| **Preadolescenza** | 10-12 | Turbolenza, agito, labilità affettiva |
-| **Prima adolescenza** | 12-14 | Identificazioni, amicizie intense, prime cotte |
-| **Adolescenza** | 14-16 | Sperimentazione di ruoli |
-| **Tarda adolescenza** | 16-18 | Consolidamento identità |
-| **Post-adolescenza** | 18+ | Transizione all'adultità |
+**Contemporaneità:**
+- Potere orientativo dei pari aumentato a dismisura
+- Socializzazione virtuale: nessun adolescente senza supporto tecnologico
+- Dipendenza estrema dallo sguardo di ritorno dei coetanei
 
 ---
 
-## Mente adolescente — Siegel (2013)
+### 4. Costruzione di nuovi valori e ideali
 
-**ESSENza** = 4 caratteristiche da valorizzare (non bloccare):
-
-| Lettera | Caratteristica | Aspetto positivo | Rischio |
-|---------|---------------|-----------------|---------|
-| ES | Esplorazione creativa | Innovazione, pensiero astratto | Crisi identitaria |
-| S | Socialità intensa | Legami profondi | Isolamento dagli adulti |
-| E | "Effervescenza" emotiva | Energia vitale | Sbalzi d'umore |
-| N | Novità | Curiosità, apertura | Impulsività, rischio |
-
----
-
-## Dolore evolutivo (Lancini et al.)
-
-- **Crisi adolescenziale** → stallo/ritardo nei compiti evolutivi, non necessariamente psicopatologia
-- **Sintomo** → duplice funzione:
-  - Segnala il disagio (comunicazione)
-  - Automedica il dolore (difesa)
-- **Agito (acting out)** → conflitto interno espresso come comportamento (mentalizzazione ancora limitata)
-- **Regola clinica** → mai banalizzare; *drammatizzare* (prendere sul serio); allearsi con il sintomo
-- ⚠️ Togliere il sintomo senza alternativa → rischio breakdown/tentativo suicidio
+- Compito **trasversale** — influenza tutti gli altri
+- Sintesi di identificazioni e modelli imitativi incontrati → sistema valoriale personale
+- Nuovi oggetti di idealizzazione sostituiscono i genitori idealizzati
+  - Sport, musica, cultura della banda, miti individuali
+- Rischi:
+  - Idealizzazione acritica (cultura della banda)
+  - Conformità passiva (identità ascritta, non costruita)
 
 ---
 
-## Adultescenza (Marescotti, 2014)
+## Cervello adolescente (Siegel, 2013)
 
-- **Definizione** → adulto 20-30 anni con condizioni di vita/mentalità simili a un adolescente
-- **Sinonimi** → adultescent (EN), kidult (EN), adulescent (FR)
-- **Non solo Peter Pan** → fenomeno strutturale (precarietà, accesso casa, mercato lavoro)
+- **Sistema limbico** (emozioni, ricompensa) matura prima di **corteccia prefrontale** (autocontrollo)
+- Divario → elevata reattività emozionale, ricerca gratificazioni immediate
+- Tre manifestazioni:
+  1. **Aumento impulsività**
+  2. **Predisposizione alle dipendenze**
+  3. **Iper-razionalità**
+- Risorse: ricerca novità · coinvolgimento sociale · intensità emotiva · esplorazione creativa
+- Non bloccare l'impeto → incanalarlo verso risultati positivi
 
 ---
 
-### Autori / Date / Riferimenti
+## Riti di passaggio (Van Gennep, 1909)
+
+- **Struttura universale:**
+  - **Separazione** → distacco dallo status precedente
+  - **Liminare/margine** → sospensione (né bambino né adulto)
+  - **Aggregazione** → ingresso nel nuovo status
+- Funzione: attenuare angoscia, non lasciare soli, creare continuità simbolica (Lévi-Strauss)
+- **Durkheim**: il rito riafferma il gruppo periodicamente
+
+**Contemporaneità:**
+- Riti dissolti o svuotati di senso (servizio militare, matrimonio, lavoro)
+- Nessuna linea di demarcazione chiara tra adolescente e adulto
+- I ragazzi si creano riti autonomi → spesso trasgressione perpetuata
+- Passaggio più faticoso, sfilacciato, solitario
+
+---
+
+## Sintomo adolescenziale (Lancini et al.)
+
+- **Doppia funzione del sintomo:**
+  - Segnala il disagio → chiede aiuto
+  - Automedicazione → gestisce un dolore evolutivo insopportabile
+- Non banalizzare ("è una ragazzata")
+- Non rimuovere senza capire → rischio breakdown
+- Compito adulto: allearsi con il sintomo → tradurlo in parole
+
+---
+
+## Autori / Date / Riferimenti
 
 | Chi | Cosa | Quando |
-|-----|------|--------|
-| Stanley Hall | Storm and stress, seconda nascita, prima ricerca sistematica sull'adolescenza | 1904 |
-| Arnold Van Gennep | Riti di passaggio, 3 fasi (separazione/liminale/aggregazione) | 1909 |
-| Margaret Mead | Adolescenza dipende dalla cultura (studio Samoa) | 1928 |
-| Émile Durkheim | Riti come strumento di coesione sociale | 1912 |
-| Lévi-Strauss | Rito come illusione di continuità nella discontinuità | — |
-| Erik Erikson | Identità vs. confusione di ruoli; moratoria psicosociale | 1968 |
-| Robert Havighurst | Compiti evolutivi e loro risoluzione | 1952 |
-| Peter Blos | Secondo processo di separazione-individuazione; fasi dell'adolescenza | 1962 |
-| James Marcia | 4 stati dell'identità (acquisizione/chiusura/moratorium/diffusione) | 1966 |
-| Palmonari | "L'adolescenza inizia nella biologia e finisce nella cultura"; ruolo gruppo di pari | 1997 |
-| Maggiolini & Charmet | 4 compiti evolutivi fase-specifici | 2004 |
-| Daniel Siegel | ESSENza; cervello adolescente; sistema limbico vs. corteccia prefrontale | 2013 |
-| Lancini et al. | Dolore evolutivo; psicoterapia evolutiva; sintomo come difesa e comunicazione | 2020 |
-| Elena Marescotti | Adultescenza | 2014 |
+|---|---|---|
+| Stanley Hall | "Storm and stress", "seconda nascita"; prima sistematizzazione | 1904 |
+| Margaret Mead | Studio adolescenti Samoa; cultura modella vissuto adolescenziale | 1928 |
+| Erik Erikson | Quinto stadio: identità vs. confusione ruoli; moratoria psicosociale | 1968 |
+| Robert Havighurst | Compito evolutivo: buona risoluzione → felicità; fallimento → difficoltà | 1952 |
+| James Marcia | Quattro stati dell'identità: acquisizione, chiusura, moratorium, diffusione | 1966 |
+| Peter Blos | Secondo processo separazione-individuazione; fasi dell'adolescenza | 1962 |
+| Arnold Van Gennep | Riti di passaggio: separazione–liminare–aggregazione | 1909 |
+| Émile Durkheim | Riti come riaffermazione periodica del gruppo | 1912 |
+| Claude Lévi-Strauss | Il rito crea illusione di continuità a partire dalle discontinuità | — |
+| Daniel Siegel | Cervello adolescente; ESSENza; sistema limbico vs. corteccia prefrontale | 2013 |
+| Palmonari | "L'adolescenza inizia nella biologia e finisce nella cultura" | 1997 |
+| E. Kestemberg | "La pubertà è sempre una sorpresa"; "tutto si gioca nell'adolescenza" | 1986 |
+| Maggiolini & Charmet | Quattro compiti evolutivi fase-specifici | 2004 |
+| Lancini et al. | Dolore evolutivo; separazione per delusione; sintomo come linguaggio | 2020 |
+| Elena Marescotti | Adultescenza: adulto con mentalità adolescenziale | 2014 |
 
 ---
 
 ### Parole chiave
 
-`adolescenza` · `rito di passaggio` · `fase liminale` · `identità` · `confusione di ruoli` · `moratoria psicosociale` · `sperimentazione` · `identificazione` · `4 stati dell'identità` · `acquisizione` · `chiusura` · `moratorium` · `diffusione` · `compiti evolutivi` · `separazione-individuazione` · `mentalizzazione del corpo` · `nascita sociale` · `costruzione di valori` · `corteccia prefrontale` · `sistema limbico` · `agito` · `acting out` · `dolore evolutivo` · `sintomo` · `adultescenza` · `ESSENza` · `storm and stress`
+`storm and stress` · `moratoria psicosociale` · `sperimentazione` · `identificazione` · `identità dell'Io` · `confusione dei ruoli` · `separazione-individuazione` · `deidealizzazione` · `esternalizzazione del conflitto` · `mentalizzazione del corpo` · `acting out` · `nascita sociale` · `rito di passaggio` · `fase liminare` · `adultescenza` · `controdipendenza` · `vergogna narcisistica` · `corteccia prefrontale` · `sistema limbico` · `dolore evolutivo`

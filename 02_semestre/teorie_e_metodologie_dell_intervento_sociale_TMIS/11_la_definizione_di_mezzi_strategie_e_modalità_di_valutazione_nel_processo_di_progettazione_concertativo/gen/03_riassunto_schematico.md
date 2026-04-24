@@ -1,122 +1,100 @@
-# Introduzione al modulo di Salute Mentale — Schema
-Salute Mentale · Sessione 01
-
-## Struttura del modulo
-
-- **Tre tappe** → clinica · mondo · corpo
-- **Quattro dimensioni trasversali** → spazio ·
-  tempo · identità · incontro
-- **Ruolo operatore sociale** → trait d'union
-  tra discipline specialistiche
+# Mezzi, Strategie e Modalità di Valutazione — Schema
+TMIS · Sessione 11
 
 ---
 
-## Salute — 7 condizioni di Boorse (1977)
+## Processo di progettazione concertativa — fasi
 
-- **Valore** → la desiderabilità non è universale
-- **Trattamento medico** → né necessario né
-  sufficiente per definire malattia
-- **Norma statistica** → fuori dalla media ≠ malato
-- **Sofferenza** → malattie asintomatiche e dolori
-  fisiologici esistono
-- **Disabilità** → non-abilità ≠ malattia (neonati,
-  sonno)
-- **Adattamento** → l'uomo adatta l'ambiente a sé,
-  non solo il contrario
-- **Omeostasi** → la vita richiede perdita e
-  riconquista continua di equilibrio
-
-⚠️ Nessuna condizione è sufficiente da sola
+```
+Ideazione → Attivazione → Scrittura → Realizzazione → Verifica
+                    ↕ valutazione in itinere (trasversale)
+```
 
 ---
 
-## Disease / Illness / Sickness
+## Postura artigianale
 
-| Dimensione | Tipo | Riferimento |
-|---|---|---|
-| **Disease** | Biomedica | Parametri clinici |
-| **Illness** | Soggettiva | Vissuto personale |
-| **Sickness** | Sociale | Stigma / riconoscimento |
-
-- Le tre dimensioni possono non coincidere
-- Lo stigma (*sickness* negativa) peggiora
-  l'andamento della malattia
+- **Fare + pensare** → dialogo continuo, non separazione
+- **Ricerca costante** → dal "come" al "perché"
+- **Niente scorciatoie** → difendere il tempo necessario
+- **Artigianalità minacciata** → dai ritmi veloci e dalla standardizzazione tecnica
+- **Errore = costruzione** → non fallimento, ma apprendimento
+- **Concettualità incorporata** → si sviluppa con la pratica ripetuta
+- **Clima lavorativo** → dignità, autonomia, libertà sono condizioni necessarie
 
 ---
 
-## Benessere — 6 dimensioni di Ryff
+## Fase di Attivazione
 
-- **Autonomia** → autodeterminazione senza
-  condizionamenti esterni
-- **Controllo ambientale** → valorizzare risorse
-  e possibilità
-- **Relazioni positive** → calore · fiducia ·
-  reciprocità
-- **Autoaccettazione** → consapevolezza qualità
-  e limiti
-- **Percezione di crescita** → vita come sviluppo
-  continuo
-- **Scopo nella vita** → mete e senso
-
-⚠️ Salute ≠ benessere (possono non coincidere)
+- **Strumenti** → cosa ho a disposizione (competenze, rete, risorse)
+- **Limiti** → cosa manca, dove serve supporto esterno
+- **Mandato** → orizzonte istituzionale e relazionale del progetto
+- **Riflessività** → il professionista non è neutro; consapevolezza della propria soggettività
 
 ---
 
-## Normalità — 3 tipi
+## Fase di Scrittura
 
-| Tipo | Definizione | Rischio |
-|---|---|---|
-| **Statistica** | Nella media della popolazione | Stigma per chi devia |
-| **Di valore** | Ideale da raggiungere | Irraggiungibile → sofferenza perpetua |
-| **Personale** | Rispetto al funzionamento precedente | Idealizzare il passato; la normalità precedente può essere la causa della malattia |
-
----
-
-## Posizione del soggetto verso la malattia
-
-|  | Non si identifica | Si identifica |
-|---|---|---|
-| **Agentivo** | Guarigione → eliminare la condizione | Cura → benessere dentro la condizione |
-| **Passivo** | Delega → "guariscimi" | Delega assistenziale |
-
-- **To cure** → terapia: non sempre possibile
-- **To care** → cura del benessere: sempre possibile
-- *"Non tutto si può guarire, ma tutto può essere
-  curato"*
+- **Congela il pensiero** → obbliga a chiarire le ambiguità
+- **Prima bozza imperfetta** → normale e necessario, serve per definire i vincoli
+- **Visibilità** → rende il progetto comunicabile agli altri attori
+- **Corresponsabilità** → firmato da tutti gli attori coinvolti
+- **Cosa non si scrive** → in équipe si negozia; il progetto è collettivo, non individuale
 
 ---
 
-## La tragedia greca
+## Fase di Realizzazione
 
-- **5 tragedie** → Aiace · Andromaca · Agamennone ·
-  Le Troiane · Le Trachinie
-- **Tre tragediografi** →
-  - Eschilo: la follia viene dagli dèi (forza esterna)
-  - Sofocle: il tragico è la vita stessa
-  - Euripide: il tragico nasce dalle relazioni
-- **Catarsi** → far emergere ed elaborare emozioni
-  difficili attraverso la sofferenza altrui
-- **Esercizio pedagogico** →
-  leggere → condividere → sintetizzare → mettere in scena
+- **Processo vivo** → non esecuzione meccanica
+- **Emancipazione** → autonomia e autodeterminazione della persona, non gestione
+- **Unicità artigianale** → stesso mandato, équipe diversa o stessa → sempre risultati diversi
+- **Ambiguità emergenti** → da esplorare con curiosità, non da ignorare
+- **Indicatori personalizzati** → costruiti su quella persona, non universali
+  - Es. per A: "trovare lavoro" · per B: "andare al servizio con costanza"
+
+---
+
+## Fase di Verifica
+
+- **Collettiva** → tutti gli attori: utente, famiglia, professionisti
+- **Linguaggio semplice** → accessibile a tutti, niente gergo tecnico
+- **Esiti inattesi** → da includere nella valutazione (positivi e negativi)
+- **Spinta al miglioramento** → non parola definitiva, ma punto di rilancio
+
+### Valutazione in itinere vs. verifica finale
+
+| | Valutazione in itinere | Verifica finale |
+|--|----------------------|-----------------|
+| **Quando** | Durante il progetto | Al termine |
+| **Scopo** | Orientare e modificare | Valutare scarto attese/risultati |
+| **Come** | Colloqui frequenti, osservazione | Valutazione collettiva condivisa |
+
+---
+
+## Dimensione artigianale per fase
+
+| Fase | Postura |
+|------|---------|
+| **Ideazione** | Curiosità · postura aperta · niente pregiudizi |
+| **Attivazione** | Strumenti · limiti · mandato · riflessività |
+| **Scrittura** | Precisione · negoziazione · chiarire ambiguità |
+| **Realizzazione** | Unicità · adattamento · curiosità verso l'inatteso |
+| **Verifica** | Collettiva · esiti inattesi · spinta al miglioramento |
 
 ---
 
 ### Autori / Date / Riferimenti
 
-| Chi | Cosa | Quando |
-|---|---|---|
-| Christopher Boorse | 7 condizioni della salute | 1977 |
-| Carol Ryff | 6 dimensioni del benessere | — |
-| Callieri & C. | Definizione di clinica | 1999 |
-| Tiziano Terzani | *L'ultimo giro di giostra* | — |
-| Nadia Murad | Attivista, Premio Nobel per la Pace | — |
-| Guidorizzi | Follia nella tragedia greca | 2010 |
+| Chi | Cosa | Nota |
+|-----|------|------|
+| Testo sull'artigianato | Postura artigianale, dialogo fare/pensare | Materiale di lettura della sessione |
+| Traverso (2016) | Metodologia della progettazione educativa | Testo di riferimento del corso |
+| Vygotskij | Zona di sviluppo prossimale | → lezione 10 |
+| Sen (2000) | Approccio delle capabilities | → lezione 10 |
+| O'Sullivan | Livelli di partecipazione | → lezione 09 |
+
+---
 
 ### Parole chiave
 
-`salute` · `benessere` · `normalità` · `disease`
-· `illness` · `sickness` · `Boorse` · `Ryff` ·
-`agentività` · `omeostasi` · `norma statistica`
-· `norma di valore` · `norma personale` ·
-`catarsi` · `guarigione` · `cura` · `to cure`
-· `to care` · `tragedia greca` · `clinica`
+`postura artigianale` · `artigianalità minacciata` · `fare e pensare` · `mandato` · `riflessività` · `scrittura del progetto` · `corresponsabilità` · `unicità artigianale` · `emancipazione` · `valutazione in itinere` · `verifica finale` · `esiti inattesi` · `concettualità incorporata`

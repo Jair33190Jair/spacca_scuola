@@ -1,11 +1,12 @@
 # Salute Mentale — Panoramica completa
-Semestre 02 · 7 lezioni
+Semestre 02 · 9 lezioni
 
 > Un viaggio che parte dalle definizioni base (cos'è salute,
 > malattia, normalità) e arriva al cuore della clinica: come
 > si guarda, si ascolta, si comprende chi soffre. In mezzo:
 > la storia della follia, le emozioni, le difese, i quadri
-> clinici maggiori. Il filo rosso è sempre lo stesso —
+> clinici maggiori — dalle nevrosi ai disturbi di personalità
+> fino alle psicosi. Il filo rosso è sempre lo stesso:
 > l'incontro tra due persone, non la classificazione di un
 > oggetto.
 
@@ -20,6 +21,8 @@ Semestre 02 · 7 lezioni
 | 05 | Dispercepire il mondo | Semiologia, funzioni cognitive, psicofarmaci |
 | 06 | Sindromi affettive e ansiose | Depressioni, bipolari, disturbi d'ansia |
 | 07 | Le nevrosi | DOC e isteria: conflitto egodistonico |
+| 08 | I disturbi di personalità | Struttura del carattere, cluster A/B/C, BPD |
+| 09 | Le psicosi | Schizofrenia, psicosi organiche e funzionali |
 
 ---
 
@@ -69,6 +72,10 @@ Tema centrale in Lez. 02, riecheggia in tutte le altre.
   diversi · (Lez. 01, 02)
 - **Nevrosi** nasce qui (Cullen, 1777) e riemerge come
   tema centrale in Lez. 07
+- **Psicosi organiche vs. funzionali** → distinzione già
+  implicita nei due paradigmi; sistematizzata in Lez. 09
+  (Minkowski): organiche = struttura io–qui–adesso crollata;
+  funzionali = struttura intatta ma dissociata · (Lez. 09)
 
 ---
 
@@ -89,9 +96,9 @@ Tema centrale in Lez. 02, riecheggia in tutte le altre.
   (atavismo) · Krafft-Ebing · (Lez. 02)
 - **Kraepelin** → nosologia · endogene/esogene · psicosi
   maniaco-depressiva vs. demenza precoce · (Lez. 02, base
-  per Lez. 06)
+  per Lez. 06, 09)
 - **Bleuler 1911** → schizofrenia · sintomi primari/
-  secondari · recupera la patoplastica · (Lez. 02)
+  secondari · recupera la patoplastica · (Lez. 02, 09)
 - **Charcot → Freud** → passaggio dall'ipnosi alla dinamica
   inconscia · (Lez. 07)
 - **DSM-III in poi** → abbandono del termine "nevrosi",
@@ -130,8 +137,8 @@ Lez. 04 e Lez. 06 condividono tutta la filiera emotiva.
 
 ## Meccanismi di difesa e struttura della personalità
 
-Ponte tra Lez. 04 (classificazione) e Lez. 07 (applicazione
-clinica alle nevrosi).
+Ponte tra Lez. 04 (classificazione), Lez. 07 (nevrosi),
+Lez. 08 (disturbi di personalità) e Lez. 09 (psicosi).
 
 - **MDD** → risposta automatica, inconscia, dell'Io contro
   l'angoscia (≠ coping) · (Lez. 04)
@@ -140,6 +147,8 @@ clinica alle nevrosi).
 - **Primitivi** → ritiro · diniego · proiezione · introiezione ·
   identificazione proiettiva · scissione · idealizzazione ·
   svalutazione · controllo onnipotente · (Lez. 04)
+  - Dominanti nel **cluster A e B** dei disturbi di personalità
+    e nella struttura borderline (Lez. 08)
 - **Maturi / secondari** → rimozione · dissociazione ·
   formazione reattiva · spostamento · capovolgimento ·
   isolamento affetti · intellettualizzazione ·
@@ -149,7 +158,7 @@ clinica alle nevrosi).
   rottura con la realtà a difese mature · (Lez. 04)
 - **Angosce per area clinica** → nevrosi = castrazione ·
   psicosi = frammentazione · borderline = abbandono ·
-  (Lez. 04, ripresa in Lez. 07 per la nevrosi)
+  (Lez. 04, ripresa in Lez. 07, 08, 09)
 - **Struttura nevrotica (Bergeret)** → Super-Io dominante ·
   conflitto edipico · difesa = rimozione · relazione
   genitale · diagnosi solo da adulti · (Lez. 07)
@@ -158,6 +167,9 @@ clinica alle nevrosi).
 - **Difese nel DOC** → rimozione · formazione reattiva ·
   spostamento · isolamento · annullamento retroattivo ·
   tutte già viste in Lez. 04 · (Lez. 07)
+- **Organizzazione di personalità (Kernberg)** → struttura
+  nevrotica / borderline / psicotica · identità, difese,
+  esame di realtà come tre assi diagnostici · (Lez. 08)
 
 ---
 
@@ -273,6 +285,102 @@ Lez. 05 è la cassetta degli attrezzi clinici.
   frammentate in disturbi d'ansia, DOC, traumatici,
   somatici, dissociativi
 
+### Disturbi di personalità (Lez. 08)
+
+- **Personalità** → temperamento (biologico, congenito) +
+  carattere (acquisito) = modalità stabili di pensare ·
+  sentire · comportarsi · relazionarsi
+- **Tratto vs. stato** → tratto = stabile (base dei disturbi
+  di personalità) · stato = temporaneo (base delle sindromi
+  cliniche come la depressione maggiore)
+- **Da stile a disturbo** → tratti rigidi e pervasivi →
+  sofferenza e/o compromissione · modello bio-psico-sociale
+  (Paris): diatesi + stress = disturbo
+- **Egosintonia** → tratti non percepiti come problematici
+  → scarsa motivazione al trattamento
+- **Spettro internalizzante vs. esternalizzante** →
+  soffrono dentro (evitante, dipendente, schizoide) vs.
+  fanno soffrire gli altri (paranoide, narcisistico,
+  antisociale) · BPD oscilla tra i due
+- **Cluster A** — strani ed eccentrici:
+  - **Paranoide** → diffidenza pervasiva · difese: proiezione,
+    identificazione proiettiva
+  - **Schizoide** → distacco relazionale · difesa: ritiro
+  - **Schizotipico** → distorsioni cognitive/percettive ·
+    più vicino alla psicosi
+- **Cluster B** — drammatici, emotivi, imprevedibili:
+  - **Antisociale** → violazione diritti altrui · criterio:
+    disturbo della condotta prima dei 15 anni
+  - **Borderline (BPD)** → instabilità relazioni/identità/umore
+    · scissione · angoscia di abbandono · suicidalità in
+    80% dei ricoverati · ~20% dei pazienti psichiatrici
+    (Gunderson) · difese: scissione, identificazione
+    proiettiva, dissociazione, acting out
+  - **Istrionico** → emotività eccessiva, ricerca attenzione
+  - **Narcisistico** → grandiosità, mancanza empatia emotiva ·
+    difese: idealizzazione, svalutazione
+- **Cluster C** — ansiosi e inibiti:
+  - **Evitante** → inibizione sociale · vuole le relazioni ≠
+    schizoide
+  - **Dipendente** → bisogno pervasivo di accudimento
+  - **DOCP** → ordine e controllo · egosintonico ≠ DOC
+- **Organizzazione di personalità (Kernberg)** → nevrotica /
+  borderline / psicotica: differiscono per identità, difese,
+  esame di realtà · (Lez. 08)
+- **Trattamenti validati per BPD** → DBT (Linehan) · MBT ·
+  TFP (Kernberg)
+- **Problema diagnostico** → DSM categoriale ↔ psicopatologia
+  dimensionale · PDM-2 (Lingiardi & McWilliams) come
+  alternativa
+
+### Psicosi (Lez. 09)
+
+- **Definizione** → rapporto radicalmente alterato con la
+  realtà · due destrutturazioni (Jervis): realtà esterna +
+  identità interna
+- **Psicosi organiche** → causa biologica nota · io–qui–adesso
+  crollato:
+  - **Demenze** → Alzheimer, senile, acquisite (alcol,
+    sifilide)
+  - **Epilessia** → grande male (tonica → clonica →
+    risolutiva) · piccolo male (assenza breve, senza
+    convulsioni) · crisi parziali
+  - **Psicosi da sostanze** → sistema mesolimbico/dopamina ·
+    delirium tremens (astinenza alcolica) · Korsakov
+    (amnesia anterograda cronica) · cannabis indoor (THC alto
+    → rischio psicotico)
+- **Psicosi funzionali** → causa multifattoriale · struttura
+  io–qui–adesso intatta ma dissociata (sa ma non si sente)
+- **Sintomatologia comune** → sintomi positivi (delirio +
+  allucinazioni) · negativi (apatia, abulia, ritiro) ·
+  disorganizzazione cognitiva
+- **Schizofrenia** → Bleuler 1911 · *schizein* + *phren* ·
+  orchestra senza direttore · sindrome fondamentale:
+  - **Dissociazione** intellettuale (disorganizzazione,
+    impoverimento, concretismo, tangenzialità, deragliamento)
+    · affettiva (appiattimento, discordanza, ambivalenza) ·
+    psicomotoria (riduzione, agitazione, crisi pantoclastica,
+    manierismi)
+  - **Autismo schizofrenico** → perdita del contatto vitale
+    con la realtà
+  - **Delirio** → convinzione falsa, incrollabile, non
+    riducibile alla logica (Sims) · contenuti: persecuzione,
+    grandiosità, influenzamento...
+  - **Depersonalizzazione / Derealizzazione** → sé come
+    automa · mondo come estraneo · tempo cristallizzato
+  - **Allucinazioni** → prevalentemente uditive ·
+    indistinguibili dal reale · ⚠️ voci perentorie con ordini
+    pericolosi
+- **Tipo 1 vs. Tipo 2 (Crow, 1980)** → positivi/reversibili
+  vs. negativi/cronici
+- **Decorso** → premorboso → prodromico → stato (~20 anni) →
+  esiti · ⚠️ picco suicidalità nel miglioramento, non nello
+  scompenso
+- **Fattori prognostici** → favorevoli: diagnosi precoce,
+  buon funzionamento premorboso, sesso femminile, rete
+  sociale · sfavorevoli: esordio precoce, familiarità,
+  sintomi negativi dominanti
+
 ---
 
 ## Psicofarmacologia (Lez. 05)
@@ -305,6 +413,12 @@ Filo che attraversa tutto il modulo.
   specialistiche · (Lez. 01)
 - **Mito di Medusa (Ovidio)** → i "mostri" sono spesso
   vittime trasformate da ciò che hanno subito · (Lez. 04)
+- **Diffusione dell'identità (Kernberg)** → il sé e gli
+  altri poco integrati come tratto centrale dell'organizzazione
+  borderline e psicotica · (Lez. 08)
+- **Depersonalizzazione/derealizzazione** → il sé come
+  automa, il tempo cristallizzato → la crisi identitaria
+  al suo grado più estremo nella psicosi · (Lez. 09)
 
 ---
 
@@ -323,10 +437,10 @@ Filo che attraversa tutto il modulo.
 | Cullen | Conia "nevrosi" (1777) | 02, 07 |
 | Beard | Nevrastenia | 02 |
 | Griesinger | Follia = malattia del cervello; Somatiker/Psychiker | 02 |
-| Morel | Degenerazione; demenza precoce | 02 |
+| Morel | Degenerazione; demenza precoce; alienazione mentale | 02, 09 |
 | Lombroso | Antropologia criminale; atavismo | 02 |
-| Kraepelin | Nosologia endogene/esogene; psicosi MD; demenza precoce | 02 |
-| Bleuler | Schizofrenia (1911); sintomi primari/secondari | 02 |
+| Kraepelin | Nosologia endogene/esogene; psicosi MD; demenza precoce | 02, 09 |
+| Bleuler | Schizofrenia (1911); sintomi primari/secondari; gruppo delle schizofrenie | 02, 09 |
 | Jaspers | Comprensibilità vs. incomprensibilità | 02 |
 | Cargnello | Ambiguità della psichiatria; clinica come incontro | 02 |
 | Charcot | Isteria; ipnosi; Salpêtrière | 07 |
@@ -335,7 +449,7 @@ Filo che attraversa tutto il modulo.
 | Klein | Posizione schizoide/depressiva; nucleo semiologico depressioni | 04, 06 |
 | Abraham | Linea di divisione nevrotico/psicotico | 07 |
 | Bergeret | Struttura nevrotica/psicotica; scompenso | 07 |
-| McWilliams | "Nevrotico" = alto livello di funzionamento | 07 |
+| McWilliams | Tipologie di personalità; "nevrotico" = alto livello di funzionamento | 07, 08 |
 | Lipps | Einfühlung (1905) | 03 |
 | Feshbach | Modello multidimensionale dell'empatia | 03 |
 | Hoffman | Empatie al plurale; modello evolutivo | 03 |
@@ -354,7 +468,19 @@ Filo che attraversa tutto il modulo.
 | Perrotta | Scala potenziale disadattivo dei MDD (2020) | 04 |
 | Schopenhauer | Porcospini → distanza relazionale | 04 |
 | Ovidio | Metamorfosi; mito di Medusa | 04 |
-| APA | DSM-5-TR (2023) | 06, 07 |
+| Thomas, Chess & Birch | 9 variabili temperamentali; bambini facili/difficili/lenta attivazione | 08 |
+| Eysenck / Costa & McCrae | Modelli di tratti (Big Five) | 08 |
+| Reich | Corazza caratteriale | 08 |
+| Paris | Modello bio-psico-sociale dei disturbi di personalità (1997) | 08 |
+| Gunderson & Links | BPD = ~20% dei pazienti psichiatrici | 08 |
+| Linehan | DBT; BPD come "ustioni di terzo grado" | 08 |
+| Kernberg | Organizzazione borderline/nevrotica/psicotica; TFP | 08 |
+| Lingiardi & McWilliams | PDM-2; approccio dimensionale e psicodinamico | 08 |
+| Minkowski | Triade io–qui–adesso; psicosi organiche vs. funzionali | 09 |
+| Jervis | Due destrutturazioni centrali nella psicosi | 09 |
+| Crow | Tipo 1 (positivi) / Tipo 2 (negativi) della schizofrenia (1980) | 09 |
+| Stanghellini & Ballerini | Vulnerabilità premorbosa; identikit del futuro paziente | 09 |
+| APA | DSM-5-TR (2023) | 06, 07, 08 |
 | Pewzner / Sims / Baddeley / Faravelli / Stahl | Semiologia, memoria, psicofarmaci | 05 |
 
 ---
@@ -396,7 +522,17 @@ Filo che attraversa tutto il modulo.
 `egosintonico` · `struttura nevrotica` · `scompenso` ·
 `esame di realtà` · `ossessioni` · `compulsioni` ·
 `sollievo vs. piacere` · `conversione` · `isteria` ·
-`DOC` · `conflitto edipico`
+`DOC` · `conflitto edipico` · `temperamento` · `carattere` ·
+`personalità` · `tratto` · `stato` · `goodness of fit` ·
+`diatesi` · `corazza caratteriale` · `egosintonia` ·
+`diffusione dell'identità` · `organizzazione borderline` ·
+`cluster A/B/C` · `BPD` · `DBT` · `Big Five` · `PDM-2` ·
+`psicosi` · `organica` · `funzionale` · `io-qui-adesso` ·
+`dissociazione schizofrenica` · `delirio` · `autismo schizofrenico` ·
+`depersonalizzazione` · `derealizzazione` · `sintomi positivi` ·
+`sintomi negativi` · `disorganizzazione` · `tipo 1` · `tipo 2` ·
+`delirium tremens` · `Korsakov` · `epilessia` · `crisi pantoclastica` ·
+`angoscia di frammentazione` · `premorboso` · `prodromico`
 
 ---
 
@@ -409,15 +545,22 @@ benessere sono costrutti che non coincidono mai del tutto
 ha sempre oscillato tra due paradigmi — organico e
 passionale — e che ogni epoca ha riscritto il confine tra
 ciò che è curabile e ciò che non lo è (Lez. 02). Per stare
-davvero accanto a chi soffre servono strumenti: l'empatia,
+davvero accanto a chi soffre servono strumenti: l'empatia
 nelle sue diverse forme e con i suoi bias (Lez. 03); la
 capacità di leggere le emozioni e le difese che il soggetto
 mette in campo contro l'angoscia (Lez. 04); una semiologia
 precisa per osservare comportamento, coscienza, memoria,
 percezione (Lez. 05). Con questi strumenti si arriva ai
-grandi quadri clinici — sindromi affettive, ansiose e
-nevrosi (Lez. 06–07) — non come etichette da applicare ma
-come modi concreti in cui si esprime il conflitto tra
-desiderio, regola e realtà. Il filo rosso, ribadito da
-Cargnello, resta uno solo: la clinica è l'incontro con
-qualcuno, mai la gestione di qualcosa.
+grandi quadri clinici: dalle sindromi affettive e ansiose
+(Lez. 06) alle nevrosi — dove il conflitto è ancora
+egodistonico e l'esame di realtà mantenuto (Lez. 07) —
+fino ai disturbi di personalità, dove i tratti rigidi sono
+egosintonici e la sofferenza spesso ricade sugli altri
+(Lez. 08), e alle psicosi, dove il rapporto con la realtà
+si rompe o si dissocia in modo radicale (Lez. 09). La
+traiettoria è un continuum: non categorie stagno, ma gradi
+crescenti di compromissione dell'identità, della relazione
+con l'altro e del contatto con il reale. Il filo rosso,
+ribadito da Cargnello fin dall'inizio, resta uno solo:
+la clinica è l'incontro con qualcuno, mai la gestione di
+qualcosa.

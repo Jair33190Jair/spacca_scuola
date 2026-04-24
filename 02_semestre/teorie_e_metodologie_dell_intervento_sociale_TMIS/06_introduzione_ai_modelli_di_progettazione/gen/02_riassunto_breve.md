@@ -1,125 +1,85 @@
-# L'Adolescenza — Sintesi
-I Tempi della Vita · Sessione 06
+# Introduzione ai Modelli di Progettazione — Sintesi
+TMIS — Teorie e Metodologie dell'Intervento Sociale · Sessione 06
 
-> Questa lezione copre tutto il framework teorico sull'adolescenza: dai classici ai compiti evolutivi contemporanei. Hai in mano i concetti che userai ogni giorno nel lavoro sociale con i giovani.
-
----
-
-## Definizione e contesto storico
-
-- **Adolescenza** = fase di transizione tra infanzia e adultità; inizia con la pubertà (biologia) e finisce con l'integrazione culturale e identitaria
-- **Stanley Hall** (1904): primo studio sistematico; "seconda nascita", *storm and stress* — visione drammatica, non condivisa da tutti
-- **Margaret Mead** (1928): le modificazioni psico-emotive dipendono in gran parte dalla cultura → *«L'adolescenza inizia nella biologia e finisce nella cultura»*
-- Erikson e Winnicott: adolescenza difficile ma complessivamente **creativa e positiva**
-- Caratteristica centrale: **disarmonia** — certi aspetti già avanti, altri ancora in crescita; sospensione tra passato e futuro
+> Questa lezione mette le fondamenta del blocco sulla progettazione. Capire i tre approcci — e quando usarli — è esattamente il tipo di competenza che ti chiederanno all'esame e che userai ogni giorno nello stage. Hai in mano i concetti giusti.
 
 ---
 
-## I riti di passaggio
+## Cos'è la Progettazione
 
-- **Rito di passaggio** (Van Gennep, 1909): atto simbolico che segna il cambio di status socioculturale
-- Tre fasi: **Separazione → Margine/Liminare → Aggregazione**
-- Funzione: evidenzia il momento, attenua l'angoscia del nuovo, fa sentire parte della comunità (Durkheim)
-- **Nella contemporaneità:** molti riti si sono spostati o scomparsi; famiglia da normativa/edipica → narcisistica → post-narcisistica
-- Conflitti generazionali smorzati; giovani escono di casa più tardi; nessuna linea di demarcazione definita
-- Senza riti adulti chiari: passaggio **più faticoso, sfilacciato, prolungato**; gli adolescenti si organizzano da soli → trasgressione come rito
+- Dal latino *pro-iectum*: gettare qualcosa in avanti — guarda al futuro, immagina qualcosa che non esiste ancora
+- È un **processo** (non solo un documento cartaceo) che guida trasformazione e cambiamento
+- Tre dimensioni sempre presenti: **immaginativa** (futuro auspicato), **temporale** (richiede tempo), **relazionale** (nasce e vive nelle relazioni)
+- Può essere rivolta a: singole persone, gruppi, comunità
 
----
+## Progettualità come Postura
 
-## Erikson: Identità vs. Confusione di Ruoli (V stadio)
+- La progettualità non è un'attività episodica — è una **postura professionale continua** dell'operatore sociale
+- Significa andare oltre l'"ansia applicativa" (Demetrio): non applicare ricette pronte, ma mettersi in ricerca
+- Va **difesa** nei servizi: l'emergenza quotidiana la erode sistematicamente
+- Si muove su tre piani: **logico** (analisi degli elementi), **metodologico** (tecniche e strumenti), **relazionale** (il progetto nasce nelle relazioni)
 
-- Domanda centrale: *"Chi sono io?"*
-- **Crisi normativa**: destrutturazione necessaria per raggiungere un'identità autonoma e coerente
-- Due processi dell'Io:
-  - **Sperimentazione**: esplorazione attiva di ruoli, valori, possibilità
-  - **Identificazione**: integrazione di elementi presi da persone significative
-- **Moratoria psicosociale**: periodo fisiologico in cui si deve *permettere* l'esplorazione senza imporre responsabilità adulte immediate
-- Se falliscono → **Confusione dei ruoli**: incertezza, nessuna direzione, identità frammentata
-- Erikson sottolinea la necessità di una **cultura adulta convenzionale** come riferimento
+## Le Cinque Tappe di un Progetto (Leone & Prezza)
 
----
+- **1° Ideazione** — momento dell'ipotesi, si osserva e si immagina
+- **2° Attivazione** — verifica risorse, ruoli, focalizzazione del problema, consenso
+- **3° Progettazione** — stesura del progetto scritto (obiettivi, fasi, tempi, risorse)
+- **4° Realizzazione** — avvio attività, verifica in itinere, aggiustamenti
+- **5° Verifica** — valutazione conclusiva, eventuale riformulazione
 
-## Modello di Marcia: quattro stati dell'identità
+Le tappe non sono lineari: si torna indietro, si riformula. Non è fallimento — è buona pratica.
 
-| Stato | Esplorazione | Impegno |
-|-------|-------------|---------|
-| **Acquisizione** | Sì | Sì — identità stabile e autentica |
-| **Moratorium** | Sì (in corso) | No — crisi di identità attiva |
-| **Chiusura** | No | Sì — valori infantili non messi in discussione |
-| **Diffusione** | Superficiale | No — nessuna direzione |
+## I Livelli di Partecipazione (O'Sullivan)
 
----
+| Livello | Descrizione |
+|---------|-------------|
+| **A** — Autonomia decisionale | La persona decide per sé. Massima autodeterminazione. |
+| **B** — Decisionalità condivisa | Accordo negoziato. **Livello minimo** a cui aspirare. |
+| **C** — Essere consultati | Opinioni considerate, decisione ai professionisti. |
+| **D** — Essere informati | Decisione già presa, l'utente viene solo informato. |
 
-## I quattro compiti evolutivi (Maggiolini & Charmet, 2004; Lancini)
+Il livello D è attivamente problematico: rischio di percorsi istituzionalizzanti e oppressivi. C'è spesso scarto tra partecipazione dichiarata e reale.
 
-Invarianti, ma le modalità cambiano con la cultura.
+## I Tre Approcci alla Progettazione
 
-### 1. Separazione-Individuazione
-- Rendersi indipendente dai genitori **reali e interiorizzati**
-- Processo ambivalente: lutto, perdita, ma necessario
-- Oggi: separazione per **delusione** (non più per trasgressione) → passaggio narcisistico, non edipico
-- Vergogna ("non valgo abbastanza") ha sostituito la colpa edipica
-- Il genitore "sufficientemente buono" si lascia interrogare senza chiudersi
+### Sinottico-Razionale
+- Causalità lineare, obiettivi definiti a priori "a tavolino"
+- L'operatore analizza e decide — processo consequenziale
+- Partecipazione: livello D (essere informati)
+- Funziona su: micro-apprendimenti, procedure standardizzate, contesti controllati
+- Limite: non regge la complessità e l'imprevedibilità
 
-### 2. Mentalizzazione del Corpo Sessuato
-- Integrare mentalmente le trasformazioni fisiche puberali
-- Contenuti difficili: mortalità, complementarietà sessuale
-- Base cerebrale: **corteccia prefrontale** ancora in maturazione ↔ **sistema limbico** al massimo → impulsività, ricerca di gratificazione, dopamina
-- Siegel (2013): aumento impulsività, maggiore predisposizione a dipendenze, iper-razionalità
-- Oggi: dal corpo erotico al **corpo estetico** — i canoni di bellezza pesano più della sessualità
+### Concertativo-Partecipato (Progettazione Dialogica)
+- Co-costruzione del progetto con tutti gli attori coinvolti
+- Dialogo, negoziazione, lettura condivisa dei bisogni
+- Partecipazione: livello B minimo (decisionalità condivisa)
+- Processo circolare: si può tornare a riformulare in qualsiasi tappa
+- Il dialogo come "arte di valicare i confini" (Arnkil & Seikkula)
 
-### 3. Nascita come Soggetto Sociale
-- Assumere un ruolo riconosciuto tra pari e nella società
-- Scuola: ambiente **iperinvestito di significati affettivi**, più che luogo di apprendimento
-- Il rispecchiamento dei coetanei è vitale in adolescenza
-- Socializzazione virtuale: nuova realtà con significati affettivi profondi
-- "Recessione sessuale" (Cirillo & Scodeggio): sessualità come ricerca di approvazione, non di intimità
+### Euristico (Problem Solving Cooperativo)
+- Nessun obiettivo specifico definito a priori
+- Si parte dall'attivazione e dalla ricerca-azione partecipata
+- Gli obiettivi emergono nel percorso — il progetto è il prodotto della ricerca
+- Adatto a: progetti comunitari, situazioni complesse, contesti incerti
+- Valorizza la dignità epistemica di operatori e utenza (Brambilla)
 
-### 4. Costruzione di Nuovi Valori e Ideali
-- Sintesi personale di modelli di identificazione (amici, adulti di riferimento, cultura)
-- Compito **trasversale**: gli ideali influenzano tutti gli altri compiti
-- Oggi: saturazione di modelli (social, marketing) già dall'infanzia
+## L'Analisi del Contesto
 
----
+Prima di progettare, bisogna mappare (Tramma, 2018):
 
-## Il dolore evolutivo e il sintomo (Lancini et al.)
-
-- La crisi adolescenziale = **ritardo o blocco nei compiti evolutivi**, non psicopatologia
-- Il **sintomo** ha doppia funzione:
-  1. Segnale di disagio, richiesta d'aiuto
-  2. Autoterapia — modo per non essere sopraffatti dal dolore
-- Mai banalizzare il sintomo; mai definirlo "solo dimostrativo" → va **drammatizzato e rispettato**
-- Togliere il sintomo senza offrire un'alternativa è pericoloso
-- Se l'adolescente non simbolizza → **agisce**
-
----
-
-## Adultescenza (Marescotti, 2014)
-
-- **Adultescenza** = crasi adulto + adolescente: adulto con mentalità e stile di vita adolescenziali
-- Fenomeno in crescita (cause: precarietà, costo degli alloggi, famiglie senza confini chiari)
-- Rischio: mancanza di identità adulta → relazioni intergenerazionali compromesse
-
----
-
-## Fasi di Blos (1962)
-
-| Fase | Età |
-|------|-----|
-| Preadolescenza | 9-13 |
-| Prima adolescenza | 11-14 |
-| Adolescenza vera e propria | 13-16 |
-| Tarda adolescenza | 14-18 |
-| Postadolescenza | 16+ |
-
-Blos: adolescenza = **secondo processo di separazione-individuazione** (riedizione del primo, ma a livello degli oggetti interiorizzati, non fisici)
+- **Popolazione**: caratteristiche anagrafiche, culturali, linguistiche
+- **Ambiente urbanistico e geografico**: trasporti, accessibilità, tipo di insediamenti
+- **Situazione socio-economica**: occupazione, reddito, aree problematiche
+- **Mobilità**: flussi di persone in entrata e uscita dal territorio
+- **Ambiente relazionale**: spazi aggregativi formali e informali
+- **Servizi**: mappa dei possibili partner del lavoro educativo
+- **Storia**: senza conoscerla si rischia di ripetere errori già fatti
+- **Contesto istituzionale**: mandato, modello d'intervento, equipe
+- **Auto-osservazione dell'operatore**: premesse personali, risorse e limiti
 
 ---
 
 **Da ricordare:**
-
-**1. Adolescenza = biologia + cultura** — i compiti evolutivi sono universali, ma come si affrontano dipende dal contesto.
-
-**2. I quattro compiti evolutivi** (separazione-individuazione, mentalizzazione del corpo, nascita sociale, formazione valori) — ogni difficoltà adolescenziale si può ricondurre a un blocco in uno o più di questi.
-
-**3. Il sintomo in adolescenza va ascoltato, non rimosso** — è un segnale e una risorsa al tempo stesso.
+- Non esiste un modello "migliore" in assoluto — si sceglie in base al contesto e alla situazione
+- La partecipazione dell'utenza non è solo etica: è anche più efficace
+- Progettare senza conoscere il contesto è come piantare senza conoscere il terreno

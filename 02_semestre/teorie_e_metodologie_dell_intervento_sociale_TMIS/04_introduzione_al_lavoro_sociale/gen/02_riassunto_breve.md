@@ -1,107 +1,79 @@
-# Introduzione al modulo di Salute Mentale — Sintesi
-Salute Mentale · Sessione 01
+# Autodeterminazione, Integrazione e Inclusione — Sintesi
+Teorie e Metodologie dell'Intervento Sociale (TMIS) · Sessione 04
 
-> Salute, benessere e normalità: tre parole che
-> sembrano semplici, ma non lo sono per niente.
-> Questa lezione smonta le certezze e costruisce
-> basi solide per tutto il modulo.
-
-## Struttura del modulo
-
-- Tre tappe: **clinica**, **mondo**, **corpo**
-- Attraversate da: spazio, tempo, identità,
-  incontro
-- L'operatore sociale come ponte tra discipline
-  specialistiche, non specialista di una sola
-
-## Salute: le 7 condizioni di Boorse (1977)
-
-Nessuna delle sette regge da sola:
-- **Valore** — non universale: contesti in cui
-  la malattia è "preferibile" esistono
-- **Trattamento medico** — la medicina colonizza
-  ambiti non patologici
-- **Norma statistica** — fuori dalla media ≠ malato
-- **Sofferenza** — malattie asintomatiche e
-  dolori fisiologici esistono
-- **Disabilità** — fasi di "non abilità" sono
-  normali nella vita (neonato, sonno)
-- **Adattamento** — l'uomo adatta anche l'ambiente
-  a sé, non solo il contrario
-- **Omeostasi** — la vita si fonda sulla rottura
-  e riconquista dell'equilibrio, non sull'equilibrio
-  statico
-
-## Disease, illness, sickness
-
-- **Disease** → dimensione biomedica (misurabile)
-- **Illness** → vissuto soggettivo della persona
-- **Sickness** → riconoscimento/stigma sociale
-- Le tre dimensioni possono non coincidere — e lo
-  stigma sociale peggiora l'andamento della malattia
-
-## Benessere: le 6 dimensioni di Ryff
-
-- **Autonomia** — autodeterminarsi senza dipendere
-  dagli altri per ogni scelta
-- **Controllo ambientale** — valorizzare le risorse
-  disponibili
-- **Relazioni positive** — relazioni calde, fiduciose,
-  reciproche
-- **Autoaccettazione** — consapevolezza di qualità
-  e limiti
-- **Percezione di crescita** — sentire di evolvere
-- **Scopo nella vita** — avere mete e dare senso
-
-Salute ≠ benessere. Si può stare bene senza essere
-in salute (Terzani) e male pur essendo "sani".
-Per l'operatore: queste dimensioni rendono il lavoro
-sul benessere *concreto e operativo*.
-
-## Tre tipi di normalità
-
-- **Statistica** — nella media; fuori dalla norma
-  porta stigma
-- **Di valore** — ideale irraggiungibile → sofferenza
-  perpetua; attenzione: anche i *nostri* ideali sugli
-  utenti possono diventare penalizzanti
-- **Personale** — rispetto a come funzionavo prima;
-  attenzione a non idealizzare il passato, e a non
-  considerare quella normalità come obiettivo se era
-  proprio lei la causa del problema
-
-## Posizione del soggetto verso la malattia
-
-Due assi: **identificazione** con la condizione ×
-**agentività** (attivo/passivo)
-
-- Passivo + non identificato → **delega** ("guariscimi")
-- Agentivo + non identificato → **guarigione** come
-  unico obiettivo
-- Agentivo + identificato → **cura**: lavora sul
-  benessere dentro la condizione
-
-Passaggio chiave: dalla guarigione alla cura.
-*To cure* ≠ *to care*: la cura è sempre possibile,
-anche quando la guarigione non lo è.
-
-## La tragedia greca
-
-- Dispositivo pedagogico parallelo al modulo
-- 5 gruppi, 5 tragedie per estrazione
-- Tappe: leggere → condividere → sintetizzare →
-  mettere in scena (~20 min)
-- Allena: ascolto di linguaggi non familiari, lavoro
-  di équipe, sintesi, capacità di rinuncia
-- Quest'anno tutte le tragedie convergono sulla
-  violenza sulle donne nei conflitti armati —
-  tema antico e attualissimo (Nadia Murad, Congo,
-  Iraq)
+> Lezione densa ma fondamentale: l'ultima macro finalità (autodeterminazione) e la distinzione cruciale tra integrazione e inclusione. Non sono sinonimi — e la differenza conta ogni giorno sul lavoro.
 
 ---
 
-**Da ricordare:** salute, benessere e normalità
-sono tre concetti distinti ma intrecciati. La cura
-è sempre possibile, anche quando la guarigione non
-lo è. Il contesto è fondamentale per interpretare
-qualsiasi comportamento.
+## Macro finalità: il punto di partenza
+
+- Orientano il lavoro professionale come una **bussola**
+- Ogni intervento ha dietro almeno una macro finalità
+- Valgono per il singolo *e* per la collettività
+- Esercizio utile: qual è la macro finalità del servizio dove stai facendo stage?
+
+---
+
+## Autodeterminazione
+
+- **Definizione (Wehmeyer):** possibilità di fare scelte in accordo con i propri valori e obiettivi, per controllare e migliorare la propria qualità di vita
+- **Agente causale:** chi guida attivamente le proprie scelte, non chi le subisce
+- **Non significa:** "decido sempre tutto da solo" — nessuno vive in un vuoto
+- Si **impara e si allena** attraverso esperienze, successi ed errori
+- Implica assunzione di **rischi positivi/misurati** — senza rischio, niente crescita
+- Richiede negoziazione con tutti i partner educativi (spesso difficile, senza ricette)
+- L'operatore deve distinguere tra vera autodeterminazione e passività mascherata da scelta
+
+**Esempio chiave:** l'anziano in casa di riposo che "preferisce restare in stanza" non è necessariamente autodeterminato — potrebbe aver perso la capacità di scegliere per mancanza di opportunità. Il lavoro è ricreare quello spazio.
+
+---
+
+## Integrazione sociale
+
+- **Tre significati:** compensare il difetto / includere senza isolare / dinamica di scambio reciproco
+- Il focus rimane sempre sull'**individuo e il suo deficit biologico**
+- Non è assimilazione, ma mantiene la logica norma/deviazione
+- Non è da scartare — è comunque un passo avanti rispetto alla segregazione
+- Fonte: Brandani e Tramma, *Dizionario del lavoro educativo*, 2014
+
+---
+
+## Inclusione sociale
+
+- **Definizione:** processo in cui tutti vivono secondo i propri valori e le proprie scelte; le differenze sono socialmente accettate
+- Si riferisce a **tutte** le persone, non a gruppi specifici
+- È **multidimensionale** (cultura, economia, spazi, politiche, relazioni)
+- Il focus è sul **contesto**, non sul deficit della persona
+- Richiede di eliminare **barriere** sociali, culturali, economiche e istituzionali
+- Supera il linguaggio **abilista** e normativo
+- Fonti: Strategia di Lisbona 2000; UNDESA 2009; Medeghini et al. 2013
+
+### Differenza con l'integrazione — esempio della rampa
+
+| | Integrazione | Inclusione |
+|---|---|---|
+| Chi si attiva? | Lo studente chiede la rampa | La rampa è già lì |
+| Focus | Deficit della persona | Struttura del contesto |
+| Logica | Risposta al bisogno specifico | Pari opportunità preventive |
+
+**Esempio della penna rossa:** dare la penna rossa ai mancini era "inclusivo" ma marcava la differenza. L'approccio inclusivo pensa una penna che funzioni per tutti senza necessità di adattamento.
+
+**Schema:** segregazione → esclusione → integrazione → inclusione (come orizzonte al quale tendere)
+
+L'inclusione totale probabilmente non si raggiunge mai — è un orizzonte in continua evoluzione.
+
+---
+
+## Il profilo dell'educatore — Riflessività e pensiero critico
+
+- Testo di riferimento: Oggionni F., *Il profilo dell'educatore*
+- La **riflessività** è competenza professionale, non ornamento: significa fermarsi e chiedersi *perché* si fa quello che si fa
+- Il **pensiero critico** significa non fermarsi alla superficie, mettere in discussione assunti dati per scontati
+- L'esercitazione chiede: collegare teoria a esperienza, identificare un tema da approfondire, scegliere il passaggio più significativo su riflessività/pensiero critico
+
+---
+
+**Da ricordare:**
+- **Autodeterminazione** = agente causale della propria vita, con rischi misurati, in negoziazione
+- **Integrazione** = focus sul deficit della persona che si adatta al contesto
+- **Inclusione** = focus sul contesto che si trasforma per accogliere le differenze di tutti

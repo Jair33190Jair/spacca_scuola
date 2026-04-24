@@ -1,241 +1,172 @@
-# Evoluzione storica e sviluppo psico-sociale secondo Erikson
-I tempi della vita · Sessione 01 · A.A. 2025/2026
+# Introduzione al Lavoro Sociale — Parte 1
+TMIS · Sessione 01
 
-> Questa lezione è il punto di partenza del modulo: capire *come* e *perché* gli studiosi hanno cambiato il modo di guardare la vita umana — da una semplice "collina" da salire e scendere, fino a un fiume che scorre e modella il paesaggio. E poi entra Erikson, con la sua teoria degli otto stadi, uno degli strumenti più usati nel lavoro sociale.
-
----
-
-## Parte 1 — Come è cambiata la psicologia dello sviluppo
-
-### Da psicologia dell'età evolutiva a psicologia dello sviluppo
-
-Storicamente, il primo grande campo di indagine psicologica era la **psicologia dell'età evolutiva**: si studiava lo sviluppo dalla nascita fino all'adolescenza, come se dopo quella fase la storia finisse.
-
-L'**età adulta** era vista come un punto di arrivo — un momento di stabilità. L'**anzianità** era considerata il momento del declino, del "decadimento". Questa visione era rappresentata dalla **metafora della collina**: si sale fino all'apice (circa 50 anni), poi si scende. Era anche una visione **adultocentrica**: il centro dello studio era l'adulto, e il bambino era visto come "un adulto a cui mancava qualcosa", l'anziano come "un adulto che aveva perso competenze".
-
-> Il prof ha mostrato un'immagine storica di inizio '900 chiamata "La scala della vita": bambini e anziani erano raffigurati *fuori* dalla scala, perché non si riteneva avessero un ruolo sociale. Anche la donna compariva quasi solo in ruoli di cura.
-
-La **psicologia dello sviluppo** (termine più recente) ha ribaltato questa visione: studia i **cambiamenti sistematici** che caratterizzano l'evoluzione psicologica di ogni individuo nel corso dell'**intera vita**, fino alla morte. Lo sviluppo non è un prodotto finale — è un **processo continuo**.
-
-> **Sviluppo** (def.): processo attraverso il quale un organismo acquista la capacità di affrontare con sempre maggior successo il proprio ambiente, modificandosi e differenziandosi nelle strutture, nelle funzioni e nei comportamenti, grazie alla maturazione biologica e all'influenza degli stimoli esterni. *(Castelli & Sbattella, 2008)*
-
-Parallelamente, dopo la seconda guerra mondiale è nata la **gerontologia**: lo studio scientifico dell'invecchiamento e degli adulti in età avanzata.
+> Questa prima lezione pone le fondamenta di tutto il corso: cos'è il lavoro sociale, in quale mondo opera, con chi e secondo quali valori. Non è roba astratta — è il terreno da cui cresce ogni cosa che verrà dopo. Vale la pena capirla bene.
 
 ---
 
-### La metafora del fiume
+## 1. La modernità e il suo contesto: perché è tutto "liquido"
 
-La collina è stata sostituita da una metafora molto più ricca: il **fiume**.
+Per capire il lavoro sociale oggi, bisogna prima capire il mondo in cui opera.
 
-Il fiume scorre verso valle, modella il terreno su cui scorre — e a sua volta è modificato dal terreno. Ha affluenti che aumentano la portata (= esperienze, persone, apprendimenti incontrati nel percorso). Può scorrere veloce o lento, può uscire dagli argini in momenti difficili, può ricevere pioggia — eventi che a volte arricchiscono, a volte destabilizzano.
+**Marshall Berman** (1982) descrive la modernità come un vortice permanente: un ambiente che promette avventura, crescita e trasformazione, ma che allo stesso tempo minaccia di distruggere tutto ciò che conosciamo. Come diceva Marx, *"tutto ciò che è solido si dissolve nell'aria"*.
 
-Questa metafora ci dice tre cose fondamentali:
-1. Ogni persona si adatta al contesto (come il fiume al suo letto).
-2. Ma la persona modifica anche il contesto (il fiume trasforma il paesaggio).
-3. Il percorso è unico per ognuno — non esiste un "apice" seguito da un declino obbligatorio.
+**Zygmunt Bauman** (filosofo e sociologo polacco, 1925–2017) va oltre e parla di **modernità liquida**: nella società contemporanea, nulla ha più contorni fissi e definitivi. Le relazioni, il lavoro, l'identità — tutto può essere rimodellato continuamente secondo le logiche del capitalismo flessibile. L'incertezza non è un'eccezione, è la norma.
 
-Pensaci: i tuoi studi in botanica, i tuoi lavori precedenti, le arti marziali, il servizio militare — sono tutti affluenti che hanno aumentato la portata del tuo fiume. Ognuno porta qualcosa.
+Pensaci così: nella modernità "solida" di un tempo, sapevi dove stavi. Il tuo ruolo nella società era come un albero piantato nel terreno — radici profonde, crescita prevedibile. Nella modernità liquida, è come cercare di piantare un albero in un fiume che scorre. Le radici faticano ad attaccarsi, ma devi comunque crescere.
 
----
-
-### La Life Span Psychology — Paul Baltes
-
-Il cambio di paradigma è stato formalizzato dalla **Life Span Psychology** (psicologia del ciclo di vita), di cui **Paul Baltes** è stato uno dei maggiori rappresentanti (fine anni '70–'80).
-
-> «Si tratta di un approccio allo studio del comportamento umano che enfatizza lo sviluppo e il cambiamento della persona lungo l'intero arco della vita, rappresentandoli come sequenza di eventi strettamente intrecciati tra loro e con il contesto biologico, sociale, storico e culturale ove l'individuo opera.»
-> *(Palmonari A., a cura di, 2011, p. 41)*
-
-In sostanza: lo sviluppo dipende sia da quello che siamo dentro, sia dal contesto storico e culturale in cui viviamo. Un adolescente di oggi non è uguale a un adolescente di 30 anni fa — non è un luogo comune, è un fatto che la teoria riconosce.
+> Questa metafora della liquidità è fondamentale perché definisce il contesto in cui operano i professionisti del lavoro sociale: un mondo in continuo cambiamento, dove le persone vivono spesso situazioni di fragilità non per colpa loro, ma per effetto di processi strutturali fuori dal loro controllo.
 
 ---
 
-### I 7 principi fondamentali della Life Span Psychology
+## 2. La figura dell'operatore sociale: liquida per natura
 
-Questi 7 punti sono il cuore teorico della prima parte della lezione. Sono le **radici dell'albero**: senza di esse, nessuna delle teorie del modulo regge.
+**Sergio Tramma** (2018, *L'educatore imperfetto*) applica la metafora baumaniana direttamente alla figura professionale:
 
-**1. Lo sviluppo dura tutta la vita**
-Non finisce con l'adolescenza. In ogni fase ci sono crisi (= cambiamenti di equilibrio), e ogni crisi richiede un nuovo adattamento.
+> «La figura dell'educatore professionale è una figura costitutivamente incerta, alle volte quasi sfuggente, costantemente in via di definizione, restia a qualsiasi tentativo di stabilizzazione all'interno di una rassegna rigida ed esaustiva di compiti e funzioni. Una figura "liquida", non trasformabile in solida, vale a dire rigida, statica, immodificabile; liquida ma non per questo eterea, ossia inafferrabile, indefinibile, inconoscibile, impalpabile.»
 
-**2. È multidimensionale e multidirezionale**
-Comprende sviluppo fisico, cognitivo, sociale ed emotivo-affettivo. Questi non vanno tutti nella stessa direzione né alla stessa velocità.
+L'incertezza della professione è **strutturale**, non una mancanza da colmare. Tramma la legge come una *forza paradossale*: è la capacità di restare costantemente aperti, di mettere in discussione il proprio modo di operare, di adattarsi alle persone e ai contesti senza irrigidirsi in schemi fissi.
 
-**3. È caratterizzato da plasticità**
-Le condizioni e le esperienze di vita possono modificare, entro certi limiti, le traiettorie di sviluppo già avviate. Non siamo "bloccati" da come siamo partiti.
-
-**4. Implica guadagni e perdite**
-In ogni fase ci sono entrambi. Guadagno l'autonomia, ma perdo il fatto che i genitori pensavano a tutto per me. Vado in pensione, ma perdo un ruolo sociale significativo. L'equilibrio cambia a seconda della fase, ma nessuna fase è solo guadagno o solo perdita.
-
-**5. È interattivo**
-Lo sviluppo nasce dall'interazione tra individuo e ambiente. Cambia l'ambiente, cambia la persona — e viceversa. Questa è la **prospettiva interazionista sistemica**: tutte le parti del sistema sono interconnesse.
-
-**6. È calato nella realtà storica e culturale**
-Per capire una persona bisogna considerare l'epoca in cui vive, la cultura, il contesto. Non si può leggere un anziano di oggi con gli occhi di chi è cresciuto in un'epoca in cui "non si chiedeva aiuto".
-
-**7. È multidisciplinare**
-Accanto alla psicologia entrano antropologia, storia, sociologia, biologia, filosofia, neuroscienze, economia. Lo sviluppo umano è così complesso da richiedere sguardi multipli.
+Quindi: l'operatore sociale non è incerto perché non sa fare il suo mestiere. È incerto perché il suo mestiere richiede apertura, flessibilità e autocritica permanente.
 
 ---
 
-### Tecniche di indagine valorizzate
+## 3. Cos'è il lavoro sociale: la definizione internazionale
 
-La Life Span Psychology ha messo in evidenza due approcci di ricerca:
+L'**International Federation of Social Workers (IFSW)** ha adottato nel 2014 una **definizione globale** che è il punto di riferimento ufficiale della professione:
 
-- **Studi trasversali**: si prendono gruppi di persone a età diverse *nello stesso momento* e si studia un determinato elemento. Vantaggio: rapidi. Svantaggio: le differenze individuali tra i gruppi rendono difficile il confronto puro.
-- **Studi longitudinali**: si segue la *stessa persona* nel tempo, nelle varie fasi di vita. Vantaggio: si monitora il percorso individuale. Svantaggio: richiedono molto tempo e si rischia di perdere partecipanti nel corso degli anni.
+> «Il social work è una professione basata sulla pratica e una disciplina accademica che promuove il cambiamento sociale e lo sviluppo, la coesione e l'emancipazione sociale, nonché la liberazione delle persone. Principi di giustizia sociale, diritti umani, responsabilità collettiva e rispetto delle diversità sono fondamentali per il servizio sociale. Sostenuto dalle teorie del servizio sociale, delle scienze sociali, umanistiche e dai saperi indigeni, il servizio sociale coinvolge persone e strutture per affrontare le sfide della vita e per migliorarne il benessere.»
 
----
+Parole chiave da capire davvero:
 
-## Parte 2 — Erik Erikson e lo sviluppo psico-sociale
+- **Cambiamento sociale** → l'intervento non si limita al singolo: mira a trasformare le condizioni strutturali che generano esclusione e oppressione.
+- **Coesione ed emancipazione** → si vuole una società più solidale E persone più libere di autodeterminarsi.
+- **Giustizia sociale** → valore fondante, non opzionale.
+- **Diritti umani** → il lavoro sociale difende i diritti di prima generazione (civili e politici), seconda generazione (sociali ed economici) e terza generazione (ambiente, biodiversità).
+- **Responsabilità collettiva** → i diritti individuali si realizzano solo se ognuno si prende cura degli altri.
+- **Saperi indigeni** → la definizione riconosce che il sapere "occidentale" non è l'unico valido. Un atto politico esplicito contro il colonialismo culturale.
 
-### Chi era Erikson? La storia conta.
-
-**Erik Erikson** (1902–1994) ha una storia di vita che spiega molto della sua teoria. Vale la pena conoscerla.
-
-Nasce a Francoforte come **Erik Homburg**, figlio di una relazione extraconiugale. Non ha mai conosciuto il padre biologico. Cresce con la madre e il patrigno, porta il cognome del patrigno. Vuole studiare arte e viaggiare, ma la famiglia lo spinge verso la medicina.
-
-Si oppone, studia arte, viaggia molto — soprattutto in Italia, dove vive una vera e propria **crisi d'identità**. Poi arriva a Vienna, dove insegna arte e conosce **Anna Freud**, figlia di Sigmund. Inizia il suo percorso nella psicoanalisi.
-
-Nel 1933 si trasferisce a Boston, dove diventa il primo psicanalista infantile della città. Quando acquisisce la cittadinanza americana, cambia cognome: da Homburg ad **Erikson** — letteralmente "figlio di Erik". Una scelta identitaria molto precisa per chi ha costruito una teoria sull'identità.
-
-Lavora come psicoanalista e docente universitario fino al 1994.
-
-> Capire la sua biografia aiuta a capire *perché* Erikson si sia interessato così profondamente allo sviluppo dell'identità e all'interazione individuo-società.
+I **mandati fondamentali** della professione: promuovere il cambiamento, la coesione sociale, l'**empowerment** (rafforzamento delle capacità e dell'autonomia delle persone) e la liberazione.
 
 ---
 
-### La teoria: basi e differenze con Freud
+## 4. La dimensione politica del lavoro sociale
 
-Erikson condivide le basi della **teoria psicoanalitica di Freud**, ma aggiunge una dimensione che ritiene mancante: quella **psico-sociale**.
+Il lavoro sociale non è neutro. Ha una posizione valoriale chiara, orientata all'emancipazione, alla democrazia e alla giustizia sociale.
 
-Freud si era concentrato sullo sviluppo psicosessuale e sul mondo interno. Erikson — anche grazie ai viaggi e al confronto tra culture — allarga lo sguardo: come l'individuo si relaziona con il contesto sociale, e come la società influenza lo sviluppo.
+> «Non può esserci teoria pedagogica implicante fini ai mezzi dell'azione educativa che non possieda un concetto di uomo e di mondo. In questo senso non esiste un'educazione neutra.» (Paulo Freire, *Pedagogia degli oppressi*, 1970/2017)
 
-> **Sviluppo umano secondo Erikson:** continuo processo di integrazione tra la maturazione biologica e l'appartenenza al sistema sociale.
+### Giustizia sociale: il valore fondante
 
-La maturazione fisica porta con sé nuove possibilità, ma anche nuove **richieste da parte della società**. Un bambino che impara a parlare, per esempio, viene poi atteso a chiedere verbalmente ciò che vuole — non più a piangere. Nuove competenze = nuove aspettative sociali. Erikson chiama questo meccanismo **"cicli di vita come ingranaggio perfetto"**: idealmente c'è un bambino che ha bisogno di cure e un adulto che ha bisogno di prendersi cura di qualcuno.
+La **giustizia sociale** si concretizza attraverso:
+- Rispetto, inclusione e valorizzazione della diversità
+- Equo accesso alle risorse necessarie a soddisfare i bisogni
+- Costruzione di reti di solidarietà
+- Contrasto alla discriminazione e all'oppressione istituzionale
+- Rimozione delle barriere legate a genere, età, etnia, religione, cultura, disabilità
 
-Il **metodo** di Erikson si basa su:
-- Osservazione diretta dei bambini
-- Confronti tra culture diverse
-- **Psicobiografie**: biografie di personaggi storici analizzate da un punto di vista psicologico
-
----
-
-### Il meccanismo centrale: il conflitto bipolare
-
-Questo è il pezzo più importante della teoria. Il prof lo ha ribadito più volte — e lo chiederà all'esame.
-
-Per ogni fase c'è un **compito evolutivo** che mette la persona di fronte a una **crisi** (= cambio di equilibrio). La crisi ha **due poli**:
-- Un **polo positivo**
-- Un **polo negativo**
-
-**Lo sviluppo ottimale** = uscire dalla fase **sbilanciati sul polo positivo**, avendo però **integrato la parte positiva del polo negativo**.
-
-Esempio con la prima fase (fiducia vs sfiducia):
-- Polo positivo = fiducia (imparo a fidarmi di chi mi cura)
-- Polo negativo = sfiducia (non mi fido di nessuno)
-- Integrazione ottimale = mi fido di chi si prende cura di me, **ma** so anche che nel mondo non possiamo fidarci di tutti indistintamente → mi proteggo
-
-Questo meccanismo vale per tutti gli otto stadi. Una volta capito il principio, gli stadi diventano molto più comprensibili.
-
-> Nota di ottimismo pratico: Erikson dice che anche se una fase non viene superata in modo ottimale, è ancora possibile recuperare nelle fasi successive, grazie ai rapporti e alle esperienze che costruiamo nel tempo. Questo è fondamentale per il lavoro sociale.
+La storia del servizio sociale presenta caratteri di **ambiguità**: ci sono state figure eroiche come **Jane Addams** (attivista contro la discriminazione razziale, Nord America), **Alice Salomon** (collega le ingiustizie sociali alle cause strutturali del sistema, Europa) e **Paolina Tarugi** (difesa dei diritti civili e politici delle donne e delle bambine, Italia). Ma ci sono stati anche casi in cui operatori sociali hanno — più o meno consapevolmente — contribuito a riprodurre discriminazioni e oppressioni. Questa tensione è reale e va tenuta presente.
 
 ---
 
-### Gli otto stadi dello sviluppo psico-sociale
+## 5. L'approccio anti-oppressivo (Anti-Oppressive Social Work)
 
-#### Stadio 1 — Fiducia vs Sfiducia *(0–1 anno)*
+Questo è uno degli approcci teorici chiave del corso (Allegri e Sanfelici, 2023).
 
-**Compito evolutivo:** imparare a fidarsi dell'altro.
+### Cos'è l'oppressione?
 
-Il bambino dipende completamente dalla figura di accudimento. La qualità di questa relazione — nutrizione, cura, risposta ai bisogni — costruisce o meno un senso di **fiducia di base**.
+**L'oppressione** è l'azione di costringere, emarginare, sottomettere persone o gruppi. Può essere:
+- **Esterna**: violenza diretta, può generare resistenza
+- **Interna**: quando una minoranza fa propria la convinzione che il sistema dominante sia l'unico possibile (Freire, 1970)
 
-**Integrazione ottimale:** fidarsi di chi si prende cura, ma non fidarsi ciecamente di chiunque.
+Si attua anche attraverso l'imposizione pacifica di sistemi culturali, credenze e modi di vivere. La sua essenza: **l'esclusione forzata** di persone e gruppi da opportunità, esperienze e risorse a disposizione dei gruppi dominanti.
 
----
+### La questione del potere
 
-#### Stadio 2 — Autonomia vs Vergogna e Dubbio *(1–3 anni)*
+Gli operatori sociali **detengono un potere enorme** connesso al loro ruolo professionale. Il lavoro oscilla continuamente tra la promozione dell'autodeterminazione delle persone e i vincoli sociali, istituzionali e professionali.
 
-**Compito evolutivo:** imparare il controllo corporeo e l'autonomia.
+Sono **gatekeeper**: regolano l'accesso a servizi e risorse. Hanno **discrezionalità**: possono prendere decisioni che impattano profondamente sulla vita delle persone.
 
-Il bambino inizia a camminare, parlare, controllare gli sfinteri, fare piccole scelte ("faccio io!"). Quando non riesce, sperimenta vergogna e dubbio.
+**Foucault** ha mostrato come il sapere professionale sia esso stesso una forma di potere: definire una persona attraverso diagnosi ed etichette contribuisce a co-costruire sistemi oppressivi. "Una persona dipendente" è etichetta — "una persona che si trova in una situazione di dipendenza" è descrizione che lascia spazio al cambiamento.
 
-**Integrazione ottimale:** sperimentare piccole frustrazioni senza essere bloccato. Imparare che si può fallire e riprovare.
+Il rischio è che gli operatori si auto-rappresentino come privi di potere. Ma quella discrezionalità c'è, e se non la riconosci, rischi di usarla male.
 
-> Per il lavoro: reprimere troppo il desiderio di autonomia porta il bambino a sviluppare prevalentemente il polo del dubbio e della vergogna.
+### Nella pratica: trifocalità e partecipazione
 
----
+L'approccio anti-oppressivo richiede di operare su tre livelli simultaneamente (ottica **trifocale**, Gui, 2004):
+- **Micro**: la relazione con la singola persona
+- **Meso**: le relazioni tra sistemi (famiglia-scuola, persona-servizi)
+- **Macro**: le strutture sociali, le politiche, le leggi
 
-#### Stadio 3 — Iniziativa vs Senso di Colpa *(3–5 anni)*
+E richiede **partecipazione autentica**: non si lavora *per* le persone, ma *con* le persone. Le persone non sono destinatari passivi: sono co-costruttori del proprio percorso.
 
-**Compito evolutivo:** esplorare il contesto, sviluppare il gioco creativo, avere iniziativa.
-
-Il bambino propone giochi, esplora, vuole fare. Se continuamente bloccato o punito, sviluppa senso di colpa.
-
-**Integrazione ottimale:** avere iniziativa e imparare a accettare il "no" degli altri. Inizia l'assunzione di responsabilità per le proprie azioni.
-
----
-
-#### Stadio 4 — Industriosità vs Inferiorità *(6–10 anni)*
-
-**Compito evolutivo:** focalizzarsi sull'apprendimento (inizia la scuola).
-
-Il bambino investe energia nel fare e imparare cose nuove. Se si sente costantemente inferiore, sviluppa un senso di inadeguatezza.
-
-**Integrazione ottimale:** capire che non siamo tutti bravi nelle stesse cose. Le difficoltà in un'area diventano spinta a migliorarsi o a valorizzare i propri punti di forza altrove. Inizia la capacità di collaborare, mettendo insieme le competenze di ognuno.
+> La partecipazione sociale crea fiducia reciproca, che è la base per condividere responsabilità nei confronti della comunità.
 
 ---
 
-#### Stadio 5 — Identità dell'Ego vs Confusione dei Ruoli *(adolescenza)*
+## 6. Con chi lavora l'operatore sociale
 
-**Compito evolutivo:** definire la propria identità personale e sociale.
+L'operatore lavora con persone di diverse età, gruppi e comunità, tenendo in considerazione la complessità dei sistemi in cui sono inseriti — in relazione alle proprie finalità professionali, alle normative del contesto, nel rispetto della deontologia professionale, collaborando con équipe, reti di professionisti e persone significative.
 
-L'adolescente si chiede: *"Chi sono? Qual è il mio ruolo?"*. Erikson sottolinea l'importanza che l'adolescente possa **esplorare liberamente** vari ruoli, senza che gli venga imposto un percorso unico.
+### La visione della persona
 
-Se questa esplorazione è impedita → **confusione dei ruoli**.
+Le persone sono viste nella loro **globalità** — non come diagnosi, non come categorie:
+- Soggetti nella totalità delle loro dimensioni (fisica, cognitiva, affettiva, relazionale, creativa, spirituale)
+- Portatori di **unicità**: ogni persona è un universo non riducibile a un'etichetta
+- In continua evoluzione, inseriti in un contesto in trasformazione
+- Soggetti di diritti, potenzialità, bisogni, aspirazioni, risorse e limiti
+- **Co-costruttori del proprio destino** — protagonisti e attori del cambiamento
 
-**Integrazione ottimale:** esplorare, sperimentare, anche fallire — ma con un adulto che offre direzione senza chiudere le possibilità.
+Versus: la visione deterministica e diagnostica dell'essere umano.
 
-> Il prof usa l'esempio della chitarra: se lasci l'adolescente provare vari strumenti, forse trova il violoncello che ama davvero. Se imponi subito "suoni la chitarra perché la suona tutta la famiglia", stai riducendo la sua possibilità di capire chi è.
+Concetto chiave dalla lezione: la persona *si trova in una situazione* di disagio, non *è* il disagio. Il linguaggio conta, perché modella la nostra percezione e il nostro intervento.
 
----
+### I sistemi complessi
 
-#### Stadio 6 — Intimità vs Isolamento *(prima età adulta)*
+Le persone, i gruppi e le comunità sono **sistemi complessi**: insiemi di elementi in costante relazione reciproca, in continua trasformazione, alla ricerca di equilibrio.
 
-**Compito evolutivo:** costruire relazioni intime e durature.
+I sistemi complessi sono regolati da una **causalità circolare** (non lineare): non si può risalire a una causa unica di un comportamento, né prevedere con certezza comportamenti futuri. Questo viene da **Gregory Bateson** e dalla tradizione sistemica (Scuola di Palo Alto — Watzlawick et al.).
 
-Non solo relazioni romantiche: amicizie profonde, relazioni lavorative significative. L'individuo porta qualcosa di sé nell'incontro con l'altro.
-
-**Polo negativo:** paura di perdersi nell'altro → isolamento, evitamento delle relazioni.
-
-**Integrazione ottimale:** vivere relazioni profonde, ma mantenere spazi e momenti propri. Condividere la vita con qualcuno senza perdere la propria individualità.
-
----
-
-#### Stadio 7 — Creatività vs Stagnazione *(età adulta)*
-
-**Compito evolutivo:** lasciare qualcosa alle generazioni future.
-
-Erikson aveva inizialmente chiamato questo stadio **generatività** (legato alla genitorialità). Poi ha ampliato: si può trasmettere saperi, competenze, valori alle generazioni successive anche senza essere genitori — sul lavoro, nelle relazioni, nell'insegnamento.
-
-**Polo negativo:** stagnazione — routine immutabile, nessun interesse per ciò che viene dopo.
-
-**Integrazione ottimale:** la noia della routine diventa spinta al cambiamento. La cosiddetta "crisi di mezza età" si colloca spesso in questa fase.
-
-> Il prof nota che molti ricercatori contemporanei propongono di unire gli stadi 6 e 7, perché nella vita reale intimità e creatività coesistono in tutta l'età adulta, non in fasi separate.
+Implicazione pratica: non cerco *la* causa del problema. Cerco di capire le relazioni, le interazioni, i feedback tra gli elementi del sistema. L'incertezza non è un difetto del lavoro — è una sua caratteristica strutturale.
 
 ---
 
-#### Stadio 8 — Integrità dell'Ego vs Disperazione *(età senile, ~60+ anni)*
+## 7. Il modello bioecologico di Bronfenbrenner
 
-**Compito evolutivo:** riflettere sulla propria vita e accettarla per quello che è stata.
+**Urie Bronfenbrenner** (1917–2005) ha formulato il **Modello Multidimensionale Bioecologico dello Sviluppo Umano** per spiegare come lo sviluppo di una persona sia il risultato dell'interazione dinamica tra caratteristiche biologiche, psicologiche e ambientali.
 
-L'anziano fa un bilancio. Se riesce a integrare le frustrazioni, le cose non realizzate, raggiunge un senso di **integrità** — pace con il proprio percorso.
+L'idea centrale: per capire una persona, devi guardare tutto l'ecosistema in cui vive.
 
-Se rimane ancorato ai rimpianti → **disperazione**.
+> «L'interconnessione tra persona e ambiente diventa il processo determinante dello sviluppo umano poiché il soggetto fa contestualmente esperienza di sé, degli altri e del mondo.» (Paradiso, 2020)
 
-**Integrazione ottimale:** "Avrei voluto fare quella cosa, ma per motivi non sempre dipesi da me non ho potuto. Ho fatto tante altre cose — le integro nella mia storia."
+### I 4 principi fondamentali del modello
 
-> Il prof nota che questo processo di bilancio non è esclusivo dell'anzianità: lo facciamo già prima, ogni volta che ci fermiamo a riflettere sul nostro percorso.
+1. **L'individuo è soggetto attivo**, non una tabula rasa che l'ambiente plasma. Cresce e interagisce con l'ambiente, lo modifica.
+2. **Reciprocità**: l'interazione individuo-ambiente è bidirezionale. Uno modifica l'altro.
+3. **L'ambiente è un insieme di interconnessioni** tra più situazioni ambientali, non una singola realtà.
+4. **La visione di sviluppo si estende a tutta la vita**, non solo all'infanzia.
+
+### I 5 sistemi ambientali
+
+Immagina i cerchi concentrici di un tronco d'albero tagliato: il cerchio più interno (microsistema) è quello che forma direttamente la struttura; i cerchi esterni definiscono le condizioni climatiche e storiche in cui l'albero è cresciuto.
+
+| Sistema | Cos'è | Esempio |
+|---------|-------|---------|
+| **Microsistema** | Ambiente primario, relazioni dirette | Famiglia, scuola, gruppo di pari, lavoro |
+| **Mesosistema** | Relazioni *tra* microsistemi | Rapporto genitori-insegnanti, famiglia-amici del figlio |
+| **Esosistema** | Ambienti in cui la persona non è attiva direttamente, ma che la influenzano | Orari di lavoro del genitore, politiche scolastiche |
+| **Macrosistema** | Valori, costumi, leggi, ideologie della società | Cultura dominante, sistema economico, legislazione |
+| **Cronosistema** | Dimensione temporale: come il tempo cambia tutto | Perdita di un genitore, transizioni di vita, cambiamenti storici |
+
+Il **cronosistema** è stato aggiunto nel modello bio-ecologico più recente e descrive come gli eventi si sviluppano nel tempo, sia a livello micro (una fase della vita) che macro (cambiamenti storici e sociali).
+
+Il modello finale di Bronfenbrenner si riassume nell'acronimo **PPCT**:
+- **Processo** → le dinamiche di interazione persona-contesto
+- **Persona** → le caratteristiche dell'individuo (età, temperamento, salute)
+- **Contesto** → i cinque sistemi
+- **Tempo** → la dimensione cronologica
+
+Perché è utile per il lavoro sociale? Perché ti dà una mappa. Prima di intervenire con una persona, hai bisogno di capire tutti gli strati del suo ecosistema: non basta guardare la famiglia, devi guardare anche il quartiere, le politiche del comune, la storia di vita.
 
 ---
 
@@ -243,27 +174,49 @@ Se rimane ancorato ai rimpianti → **disperazione**.
 
 | Termine | Significato |
 |---------|-------------|
-| **Psicologia dell'età evolutiva** | Studio dello sviluppo dalla nascita all'adolescenza (visione storica) |
-| **Psicologia dello sviluppo** | Studio dei cambiamenti psicologici nell'intero arco di vita |
-| **Gerontologia** | Studio scientifico dell'invecchiamento e degli adulti in età avanzata |
-| **Metafora della collina** | Visione storica: si cresce fino all'apice, poi si decade |
-| **Metafora del fiume** | Visione attuale: sviluppo continuo, interazione con il contesto |
-| **Life Span Psychology** | Approccio che studia lo sviluppo lungo l'intero arco di vita (Baltes) |
-| **Plasticità** | Capacità di modificare le traiettorie di sviluppo grazie a esperienze e contesto |
-| **Sviluppo psico-sociale** | Integrazione tra maturazione biologica e appartenenza al sistema sociale (Erikson) |
-| **Conflitto bipolare** | Ogni stadio ha un polo positivo e uno negativo; lo sviluppo ottimale integra entrambi |
-| **Compito evolutivo** | Sfida specifica di ogni stadio che la persona deve affrontare |
-| **Crisi** | Perdita di equilibrio che richiede un adattamento — non una catastrofe |
-| **Generatività / Creatività** | Desiderio dell'adulto di trasmettere qualcosa alle generazioni future (stadio 7) |
-| **Studi longitudinali** | Seguire la stessa persona nel tempo attraverso le varie fasi di vita |
-| **Studi trasversali** | Confrontare gruppi di persone a età diverse nello stesso momento |
-| **Adultocentrismo** | Visione storica in cui l'adulto era il punto di riferimento di tutto lo sviluppo |
+| **Modernità liquida** | Società contemporanea caratterizzata da incertezza, fluidità e trasformazione continua (Bauman) |
+| **Figura liquida** | L'operatore sociale è strutturalmente incerto: questa è una forza, non una mancanza (Tramma) |
+| **Definizione IFSW 2014** | Definizione internazionale ufficiale del servizio sociale: promuove cambiamento, giustizia sociale, diritti umani |
+| **Giustizia sociale** | Valore fondante del lavoro sociale: equità, inclusione, contrasto all'oppressione |
+| **Empowerment** | Rafforzamento delle capacità e dell'autonomia delle persone |
+| **Oppressione** | Esclusione forzata di persone/gruppi da opportunità e risorse; può essere esterna o interna |
+| **Approccio anti-oppressivo** | Pratica professionale che analizza e contrasta i meccanismi di potere e discriminazione |
+| **Trifocalità** | Sguardo simultaneo su tre livelli: micro (persona), meso (relazioni tra sistemi), macro (strutture sociali) |
+| **Causalità circolare** | Nei sistemi viventi non esiste una causa unica: gli elementi si influenzano reciprocamente |
+| **Microsistema** | Ambiente diretto della persona (famiglia, scuola, lavoro) |
+| **Mesosistema** | Relazioni tra microsistemi |
+| **Esosistema** | Ambienti indiretti che influenzano la persona |
+| **Macrosistema** | Cultura, leggi, ideologie della società |
+| **Cronosistema** | Dimensione temporale del cambiamento (micro e macro) |
+| **PPCT** | Processo, Persona, Contesto, Tempo — il modello bio-ecologico di Bronfenbrenner |
+| **Coscientizzazione** | Processo di presa di coscienza dei meccanismi di oppressione (Freire) |
+| **Gatekeeper** | Ruolo degli operatori sociali come regolatori dell'accesso alle risorse |
 
 ---
 
+## Autori e riferimenti principali
+
+| Autore | Contributo | Anno |
+|--------|-----------|------|
+| **Marshall Berman** | La modernità come vortice di disgregazione e rinnovamento | 1982 |
+| **Zygmunt Bauman** | Modernità liquida: l'incertezza come caratteristica strutturale | 2011 |
+| **Sergio Tramma** | La figura liquida dell'educatore — incertezza come forza professionale | 2018 |
+| **IFSW** | Definizione internazionale del servizio sociale | 2014 |
+| **Paulo Freire** | L'educazione non è mai neutrale; coscientizzazione come pratica anti-oppressiva | 1970/2017 |
+| **Urie Bronfenbrenner** | Modello bioecologico dello sviluppo umano | 1979/2002 |
+| **Elena Allegri & Mara Sanfelici** | L'approccio anti-oppressivo nel servizio sociale | 2023 |
+| **Gregory Bateson** | Paradigma della complessità e causalità circolare | 1976 |
+
+---
+
+## Domande guida per l'esame
+
+1. Cosa si intende per lavoro sociale?
+2. Quali sono i principali elementi della dimensione politica del lavoro sociale?
+3. Quali sono le specificità dei sistemi complessi?
+4. Qual è l'interpretazione del concetto di persona negli approcci alla modernità liquida?
+5. Descrivi le strutture costituenti il modello multidimensionale di Bronfenbrenner.
+
 ## Collegamenti
 
-- **Lezioni successive:** sviluppo fisico e sociale, sviluppo cognitivo (Piaget), teoria di Freud (parallelismi con Erikson), adolescenza, anzianità (Prof. Cavalli).
-- **Collegamento con salute mentale:** la confusione dei ruoli nell'adolescenza verrà ripresa nel modulo di salute mentale.
-- **Temi aperti:** critica contemporanea agli stadi 6 e 7 di Erikson (proposta di unificarli); non-linearità delle fasi della vita adulta oggi (persone che studiano e lavorano e sono genitori contemporaneamente).
-- **Nota metodologica:** le fasi non hanno confini rigidi — vanno sempre lette tenendo conto della specificità individuale e del contesto storico-culturale.
+- Lezione 01 apre il corso — temi da approfondire nelle lezioni successive: ascolto attivo e strumenti del colloquio, intersezionalità, co-progettazione, deontologia professionale, le finalità del lavoro sociale.

@@ -1,384 +1,276 @@
-# Introduzione al modulo di Salute Mentale
-Salute Mentale · Sessione 01 · 18.02.2026
+# Introduzione al Lavoro Sociale — La Relazione
+TMIS · Sessione 05 · a.a. 2025/26
 
-> Questa prima lezione mette sul tavolo le fondamenta
-> di tutto il modulo: che cos'è davvero la salute?
-> Cos'è il benessere? E la normalità? Spoiler: nessuna
-> di queste domande ha una risposta semplice — e
-> proprio da qui parte il bello. Si parla anche della
-> tragedia greca come strumento per avvicinarsi alla
-> sofferenza umana. Roba potente, vedrai.
+> Questa lezione è il cuore della tua formazione professionale: si parla della relazione non come ingrediente generico del lavoro sociale, ma come **strumento professionale preciso**, con caratteristiche, rischi e qualità specifiche. Ogni buon operatore che conoscerai avrà interiorizzato questi concetti. Partiamo.
 
 ---
 
-## Il modulo: struttura e filosofia
+## La relazione professionale: non è una chiacchierata
 
-Il modulo di Salute Mentale si articola su **tre
-tappe fondanti**, ispirate alla scuola fenomenologica:
+La relazione educativa è la caratteristica distintiva dell'operatore sociale. Senza di essa, le intenzioni educative restano lettera morta: dove non c'è relazione, non c'è la possibilità di produrre cambiamento (Tramma, 2018).
 
-1. **La clinica** — l'universo dell'incontro con
-   chi soffre. Si esplorano i concetti di salute
-   e malattia, normalità e patologia, l'incontro
-   empatico con l'altro e i meccanismi di difesa.
+Ma attenzione: la relazione professionale **non è** una relazione spontanea come quella tra amici. Si distingue per due principi fondamentali:
 
-2. **Il mondo** — le funzioni psichiche e le loro
-   alterazioni (coscienza, percezione, pensiero,
-   affettività...), per poi passare alla dimensione
-   nosografica: sindromi affettive, ansiose, nevrosi,
-   disturbi di personalità, psicosi.
+### Intenzionalità vs spontaneità
 
-3. **Il corpo** — teatro della sofferenza: violenza,
-   aggressività, dimensioni anoressico-bulimiche,
-   sessualità come luogo di disagio, alessitimia.
+Nella vita quotidiana le relazioni nascono spesso in modo automatico, quasi per inerzia. Nella relazione professionale, invece, ogni azione è **consapevolmente orientata verso le finalità professionali**. L'operatore elabora ipotesi, costruisce progetti, interviene — tenendo sempre a mente i bisogni, i desideri, le potenzialità e i limiti della persona con cui lavora.
 
-Queste tre tappe sono attraversate da quattro
-dimensioni esistenziali: **spazio, tempo, identità
-e incontro**. La clinica va calata in uno spazio
-e in un tempo, l'identità va declinata nella
-relazione, e prima della relazione viene l'incontro
-— senza il quale la relazione non sussiste.
+Concretamente: ogni volta che fai qualcosa in un contesto professionale, dovresti essere in grado di rispondere a "perché lo stai facendo?". Questa è l'intenzionalità.
 
-Il prof sottolinea un punto chiave: l'operatore
-sociale non è un tecnico di una sola disciplina,
-ma un **trait d'union** tra le specializzazioni.
-Per questo serve una conoscenza delle aree
-psicopatologiche — non per fare diagnosi, ma per
-comunicare con le altre figure professionali e
-per accompagnare la persona nella sua interezza.
+### Progettualità vs interventismo
+
+La relazione non è improvvisata in base alle emergenze. È **progettuale**: prefigura le fasi necessarie per attivare i processi trasformativi auspicati. Il termine "progettazione" viene dal latino *proiectare*, lanciare in avanti — è uno sguardo sul futuro possibile, non solo sulla gestione dell'immediato. La relazione, quindi, è sempre orientata a un cambiamento.
+
+> Il prof sottolinea che interrogarsi sempre sul senso di ciò che si fa è un imperativo professionale: "diffidare dei momenti di reazione automatica" vale sia per i singoli operatori che per le istituzioni.
 
 ---
 
-## Salute, benessere, normalità: tre concetti
-da non confondere
+## Le meta-competenze: pensare il proprio pensiero
 
-Uno dei messaggi centrali della lezione: **salute,
-benessere e normalità sono tre cose diverse** che
-spesso vengono confuse o sovrapposte. Vediamole
-una per una.
+Le **meta-competenze** sono competenze trasversali — una sorta di "competenze delle competenze" — che permettono di rendere più efficace il proprio agire professionale. Si costruiscono attraverso la **pratica riflessiva** (Schön, 1994; Maida, Molteni, Nuzzo, 2012).
 
-### Salute: più complessa di quanto sembra
+Pensa alla meta-competenza come al GPS del lavoro: non ti dice esattamente dove andare, ma ti permette di ricalcolare il percorso ogni volta che qualcosa non funziona.
 
-Il prof parte da una domanda semplice: "Chi di voi
-sta bene?" Poi mostra quanto sia difficile rispondere.
-Due paradigmi diversi: puoi andare a fare gli esami
-del sangue e la TAC (approccio biomedico, *disease*),
-oppure puoi rispondere "mi sento bene" senza nessun
-esame (approccio soggettivo, *illness*). Non sono la
-stessa cosa.
+### Riflessività
 
-Introduce il lavoro di **Christopher Boorse (1977)**,
-che nel suo articolo ha tentato di definire la salute
-esaminando sette possibili condizioni — dimostrando
-che **nessuna da sola regge**:
+Donald Schön ha teorizzato la **pratica riflessiva**: un processo circolare di azione e riflessione. Come professionista riflessivo, l'educatore convive con il dubbio e lo alimenta — questo gli permette di progettare azioni flessibili e adattabili alle incertezze del contesto. Esistono due livelli (Maida et al., 2012):
 
-| Condizione | Perché non basta |
-|---|---|
-| **Salute come valore** | Non tutto ciò che è desiderabile è salute; ci sono contesti dove non essere in salute può essere preferibile (es. durante guerre) |
-| **Malattia come ciò che il medico cura** | La medicina ha "colonizzato" ambiti non patologici (gravidanza, adolescenza); molte malattie non vengono trattate |
-| **Salute come norma statistica** | Fuori dalla media ≠ malattia (l'omosessualità è stata classificata come patologia a lungo) |
-| **Malattia come sofferenza** | Malattie asintomatiche e dolori normali (ciclo mestruale, coliche neonatali, dentizione) |
-| **Malattia come disabilità** | Tutti attraversiamo fasi di "non abilità" (un neonato non cammina, ma non è malato) |
-| **Salute come adattamento** | L'essere umano adatta anche l'ambiente a sé. Pensate alle neurodivergenze: a volte è l'ambiente che va cambiato |
-| **Salute come omeostasi** | Il funzionamento umano si basa su un continuo perdere e riacquistare equilibrio. L'equilibrio statico è rigidità |
+- **Reflection on action**: riflessione *dopo* l'azione (ci si chiede cosa è successo, cosa ha funzionato e cosa no)
+- **Reflection in action**: riflessione *durante* l'azione — un dialogo interiore in tempo reale mentre si è in relazione
 
-L'ultimo punto merita attenzione. Il prof insiste:
-**l'equilibrio statico non è salute, è rigidità**.
-La metafora è bellissima: camminare richiede di
-rompere continuamente l'equilibrio. Per fare un
-passo devi sbilancarti. La vita è movimento, e il
-movimento richiede di perdere e ritrovare l'equilibrio.
-"Le persone troppo equilibrate sono spesso molto
-rigide, poco disposte a rischiare."
+Elementi che sostengono la riflessività (Bertotti, Fazzi, Rosignoli, 2021):
+- Gli **incidenti critici** — eventi inattesi che attivano il pensiero riflessivo (Sicora, 2010)
+- L'**interrogazione del pensiero**: tenere vive le connessioni tra pensiero e azione
+- La **decostruzione delle categorie**: dietro le etichette ("aggressivo", "difficile", "cronico") c'è sempre una storia
+- La ricerca del **confronto** con colleghi e altri professionisti
+- La disponibilità di **strumenti metodologici** per essere riflessivi
 
-> *"Non c'è movimento senza perdere l'equilibrio,
-> e siccome la vita è costante movimento, occorre
-> mettersi nell'ottica di capire e accompagnare
-> la perdita e la riconquista dell'equilibrio —
-> non impedirla."*
-> — Il professore
+> Il prof fa un esempio pratico: se Marco è sempre descritto come "aggressivo", la riflessività ci chiede di interrogarci su *cosa* ci sta comunicando con quel comportamento, non di etichettarlo e basta.
 
-### La triade anglosassone: disease, illness, sickness
+### Capacità critica
 
-Per ordinare le idee sulla salute, il prof introduce
-la distinzione in tre dimensioni:
+Non è irriverenza verso le persone, ma verso le **teorie precostituite e le visioni lineari della realtà**. Significa non dare per scontato che un punteggio in un questionario rappresenti la verità su una persona; significa osservare una relazione madre-bambino nel suo contesto, non da dietro un vetro come se fosse un animale in uno zoo.
 
-- **Disease** — la malattia in senso biomedico,
-  misurabile (esami, parametri clinici)
-- **Illness** — il vissuto soggettivo: come la
-  persona *si sente*
-- **Sickness** — la dimensione sociale: come la
-  società riconosce (o stigmatizza) quella condizione
+Il **pensiero critico nel lavoro sociale** mette in discussione le condizioni sociali, politiche ed economiche che creano situazioni di svantaggio — è una tensione permanente verso la giustizia sociale.
 
-Queste tre dimensioni **possono non coincidere**.
-Una malattia può essere tale per il medico (disease)
-ma non vissuta come tale dal soggetto (illness),
-oppure può essere vista dalla società come un vizio
-(sickness negativa) anche se è una malattia vera.
-
-Questo è importante per il lavoro sociale: lo sguardo
-della società su una condizione ha effetti reali sul
-benessere della persona. Se hai una malattia che viene
-giudicata come "vizio" o "colpa", la stigmatizzazione
-peggiora tutto — come mostrava già il racconto
-di apertura della lezione.
+Significa anche interrogarsi sulle categorie diagnostiche: il prof cita l'esempio di una persona con una storia di "tentativi di overdose" da farmaci ansiolitici — andando a fondo nella relazione si scopre che quella persona non si voleva suicidare, stava semplicemente seguendo le istruzioni che i medici le avevano dato. Non vincolare la persona a un episodio di otto anni prima: questo è pensiero critico.
 
 ---
 
-## Il benessere: un concetto multidimensionale
+## Gli atteggiamenti di fondo: chi sei quando lavori
 
-**Salute e benessere non coincidono.** Il prof porta
-l'esempio di **Tiziano Terzani** e del suo libro
-*L'ultimo giro di giostra*: un giornalista gravemente
-malato di cancro che attraverso la malattia ha trovato
-una pace e una ricchezza interiore che non aveva quando
-stava "bene". Paradossale? No, profondamente umano.
+Oltre alle meta-competenze tecniche, esistono degli atteggiamenti di fondo che permettono lo sviluppo professionale (Maida et al., 2012). Sono quasi caratteriali — ma si allenano.
 
-Il benessere è un concetto **polisemico e
-multidimensionale**. **Carol Ryff** è una psicologa
-che ha risposto alla domanda: "Quando diciamo che
-una persona sta bene, di *cosa* esattamente stiamo
-parlando?" La risposta: di sei dimensioni distinte.
+### Disponibilità all'autocritica e al cambiamento
 
-| Dimensione | Cosa significa in concreto |
-|---|---|
-| **Autonomia** | Capacità di determinarsi senza dipendere dagli altri per le proprie scelte |
-| **Controllo ambientale** | Capacità di cogliere, sfruttare e valorizzare le risorse e le possibilità disponibili |
-| **Relazioni positive** | Avere relazioni calde, fiduciose, contraddistinte da affetto e reciprocità |
-| **Autoaccettazione** | Consapevolezza delle proprie qualità e limiti, senza negare né l'uno né l'altro |
-| **Percezione di crescita** | Sentire che la propria vita è un processo continuo di sviluppo |
-| **Scopo nella vita** | Avere mete, riuscire a dare senso a ciò che si fa |
+Riconoscere elementi poco funzionali nella propria pratica **senza giudicarsi**, ma valorizzando cosa può migliorare. Questo è diverso dall'autocritica distruttiva: qui si parla di autocritica costruttiva, che porta crescita.
 
-Questo modello è prezioso per l'operatore sociale
-perché rende il lavoro sul benessere **concreto**.
-Invece di un generico "lavoro per il benessere",
-puoi esplorare *quale* dimensione è più critica
-e intervenire lì. Il prof fa un esempio: se lavori
-sull'autonomia di qualcuno (aiutarlo a fare scelte
-proprie), quello starà meglio — anche senza sapere
-perché. Il prodotto è quello che conta.
+La disponibilità al cambiamento significa mettere in discussione le proprie premesse. Il prof cita come esempio il campo della disabilità: le innovazioni più significative, in molti casi, sono nate da professionisti che hanno saputo mettere in discussione i paradigmi esistenti — non solo da movimenti collettivi. Se rimani bloccato nel tuo fare, col tempo non risponderai più ai bisogni delle persone.
 
-Se in un momento la persona non riesce a lavorare
-sulle relazioni, si compensa sulle altre dimensioni.
-È un gioco di variabili, non tutto insieme.
+### Visione ottimistica ed equilibrata
 
-Il prof aggiunge: **vale anche per noi**, non solo
-per i nostri utenti. Se guardiamo indietro alla
-nostra vita e vediamo solo disastri, non stiamo bene.
-Se riusciamo a vedere crescita e senso, anche nelle
-difficoltà, il benessere aumenta.
+Non si tratta di essere naif o di ignorare le difficoltà. Si tratta di avere la **capacità creativa di leggere le situazioni in modo evolutivo** — cercare sempre le potenzialità e le risorse, senza bloccarsi in letture deterministiche che amplificano solo i problemi.
+
+A questa si collega la **modestia conoscitiva**: la consapevolezza che non tutto è già conoscibile, che c'è sempre qualcosa di nuovo da imparare. Non è arrendevolezza — è apertura al possibile.
+
+### La speranza
+
+La **speranza** (Snyder, 2002; Delle Fave & Bassi, 2013) non è un vago ottimismo — è un processo cognitivo strutturato:
+- **Pathway** (percorso): la convinzione che esista una via per raggiungere i propri obiettivi
+- **Agency** (motivazione): la forza per percorrerla
+
+Gli elementi necessari perché ci sia speranza sono: obiettivi realistici e significativi, la percezione di avere le risorse per affrontare le difficoltà, e la capacità di rappresentarsi mentalmente il percorso verso quegli obiettivi. È — esattamente — progettualità.
+
+Perché serve la speranza? Perché senza di essa è impossibile immaginare il cambiamento, e il cambiamento è il cuore del lavoro sociale. Come dice Paulo Freire:
+
+> «Senza un minimo di speranza non possiamo nemmeno incominciare la lotta; ma senza la lotta la speranza — come necessità ontologica — non trova appoggio.»
+
+**Per l'operatore significa credere nella possibilità del cambiamento. Per la persona accompagnata, significa avere la forza di immaginare un futuro diverso.** La speranza è il motore della trasformazione.
+
+> Il prof sottolinea: se tu come operatore non hai speranza, sarà molto difficile che l'altro possa ritrovarla. La predisposizione speranzosa è una responsabilità professionale.
+
+### Ottimismo
+
+Strettamente legato alla speranza, l'**ottimismo** (Laudadio & Mancuso, 2015; Delle Fave, 2007) è lo stato d'animo e la disposizione generale ad attendersi qualcosa di favorevole dall'ambiente. Si correla positivamente con strategie di coping efficaci, con la resistenza allo stress, con la capacità di trovare soluzioni nuove. Gli ottimisti si fidano, si espongono al rischio, sono aperti a nuove possibilità — non sono ingenui, sono metodologicamente orientati al possibile.
 
 ---
 
-## La normalità: quale normalità?
+## Relazioni empatiche e collaborative
 
-Il prof introduce tre tipi di normalità — tutti
-rilevanti per il lavoro con le persone.
+### Empatia — la danza, non la giacca
 
-### 1. Norma statistica
+Qui sta uno dei punti più interessanti della lezione. L'empatia **non è** mettersi nei panni dell'altro — quella è una visione superata e, come spiega Palmieri (2011), anche controproducente.
 
-La "normalità" come conformità alla media della
-popolazione. Sembra neutro, ma non lo è: essere
-fuori dalla norma statistica può provocare stigma,
-isolamento, discriminazione. L'omosessualità è stata
-a lungo classificata come patologia proprio su base
-statistica — e solo quando la comunità scientifica
-ha cambiato i criteri ne è uscita.
+Palmieri definisce l'empatia come **un processo relazionale, un movimento continuo tra sé e l'altro** — una danza: ci si avvicina alla condizione dell'altro, si ascolta, si creano esperienze analoghe (ma proprie), e poi si *torna indietro* — si mantiene la consapevolezza della non sovrapponibilità delle esistenze.
 
-Il contesto è fondamentale: qualsiasi comportamento,
-senza contesto, può sembrare "anormale".
+> Il prof racconta l'aneddoto della giacca: mettiti la giacca di qualcun altro ti fa sentire a disagio, perché non è la tua taglia, non è il tuo stile. I panni dell'altro non calzano — non possono calzare. Quando qualcuno ci dice "capisco esattamente cosa provi", spesso sentiamo che non è vero — perché la nostra vita è la nostra, non è la loro.
 
-### 2. Norma di valore (ideale)
+L'empatia è quindi:
+- **Incontrare la differenza**, non annullarla
+- Un **movimento continuo** di avvicinamento e ritorno
+- Uno **sguardo microscopico** verso l'interno dell'altro, nella consapevolezza che quel mondo non è il nostro
+- Una **competenza che si apprende** (Boella, 2006), non un dono innato
 
-Uno standard ideale che si pone come riferimento.
-Se il mio ideale è un certo tipo di corpo, starò
-male finché non ci corrispondo. Ed è un ideale
-*irraggiungibile*, quindi la sofferenza è perpetua.
+Avvicinarsi al **mondo di significati** dell'altro — comprendere come l'altro interpreta la realtà, con quali valori e limiti — è molto diverso dal pretendere di sapere cosa prova. L'attenzione all'intero significa cogliere la persona nella sua complessità e globalità, non ridurla a un problema o a una diagnosi.
 
-**Attenzione**: la norma ideale incide anche sugli
-operatori. Abbiamo ideali su come dovrebbe essere
-un utente, come dovrebbe comportarsi, cosa dovrebbe
-raggiungere. Se quella norma ideale diventa il metro
-di lavoro, rischia di diventare penalizzante per
-la relazione.
+### Lavorare *con* le persone, non *per* gli altri
 
-### 3. Norma personale (individuale)
-
-La normalità *rispetto a come funzionavo prima*.
-Se mi rompo una gamba, non sono più "normale" rispetto
-al mio funzionamento precedente. Questa dimensione
-è importante clinicamente: capire com'era il soggetto
-prima dell'evento permette di comprendere il
-cambiamento.
-
-Ma il prof aggiunge un avvertimento cruciale:
-**la normalità personale non è sempre da riconquistare**.
-A volte è proprio quella "normalità" precedente che
-ha causato il problema. Esempio: "Lavoravo 10 ore
-al giorno, gestivo tutto, poi mi sono ammalato —
-voglio tornare come prima." Forse no. Se torni come
-eri prima, tra un mese ci rivediamo peggio.
-
-C'è anche il rischio di **idealizzare il passato**:
-"Prima stavo bene" — ma siamo sicuri? O è solo che
-in confronto a oggi sembra il paradiso?
+C'è una distinzione fondamentale tra il lavorare *con* le persone (collaborazione vera, condivisione del senso) e il lavorare *per* gli altri (assistenzialismo). La seconda visione priva la persona dello spazio per sperimentarsi e apprendere in autonomia. La prima le riconosce dignità e responsabilità.
 
 ---
 
-## La posizione del soggetto davanti alla malattia
+## Ascolto e coinvolgimento emotivo
 
-L'ultima parte della lezione introduce un modello
-pratico a due assi per capire come il soggetto si
-pone rispetto alla propria condizione.
+### Ascolto e ascolto attivo (Maida et al., 2012)
 
-**Asse 1 — Identificazione:**
-- *Non mi identifico* con la malattia: "Io non sono
-  la mia malattia, è qualcosa di estraneo"
-- *Mi identifico*: "La mia condizione fa parte di me"
+- **Ascolto**: capacità di ricevere, accogliere, organizzare informazioni con tutti i sensi, partendo dall'auto-osservazione — è il modo in cui l'osservatore si pone in uno stato di ricezione nei confronti di ciò che osserva. Non cataloga, non giudica.
+- **Ascolto attivo**: atteggiamento ancora più partecipe e consapevole — comprende la capacità di cogliere feedback verbali e non verbali, i pregiudizi propri, il contesto. È plasticità nel considerare punti di vista diversi dal proprio, con attenzione alla costruzione di un clima di reciproca fiducia.
 
-**Asse 2 — Agentività** (termine tecnico dal greco):
-- *Agentivo* (attivo): affronto la situazione,
-  mi muovo, cerco alleati
-- *Passivo*: subisco, aspetto che qualcuno intervenga
+Il prof è chiaro: i pregiudizi non si eliminano, perché nessuno ne è privo. Il punto è riconoscerli, sapere che spazio occupano nel proprio ascolto, e tenerli monitorati. Il non giudizio non è l'assenza di giudizio: è la consapevolezza del proprio.
 
-Incrociando i due assi si ottengono quattro posizioni:
+L'ascolto attivo è una competenza complessa — immaginati a dover ricevere tantissime informazioni da una persona, immagazzinarle, metterle in relazione con la tua progettualità, il tuo mandato, la tua posizione, e nello stesso momento comunicare con te stesso su cosa stai sentendo. Non è facile. Si impara con la pratica.
 
-| | Non si identifica | Si identifica |
-|---|---|---|
-| **Passivo** | **Delega**: "Faccia lei, risolva lei" | Passivo nella propria condizione |
-| **Agentivo** | **Guarigione**: combatte per eliminare la condizione | **Cura**: lavora sul proprio benessere dentro la condizione |
+L'ascolto è anche un **atto politico ed educativo**: ascoltare significa riconoscere l'altro, dargli voce, dargli fiducia.
 
-Il passaggio chiave: quando il soggetto si identifica
-con la propria condizione e diventa agentivo, il
-paradigma passa dalla **guarigione** alla **cura**.
-Non si tratta più di eliminare la malattia (che a
-volte non è possibile), ma di aumentare il benessere
-*dentro* la condizione.
+### Il coinvolgimento emotivo e la giusta vicinanza
 
-> *"Non tutto si può guarire. Ma tutto può essere
-> curato."*
-> — Il professore
+Le emozioni sono sempre presenti nelle relazioni — non si possono ignorare, ma vanno gestite. Due rischi estremi (Maida et al., 2012):
 
-La differenza tra *to cure* (terapia) e *to care*
-(cura) è fondamentale per il lavoro sociale: la
-terapia non è sempre possibile, ma la cura — nel
-senso di prendersi cura del benessere della persona
-— è sempre praticabile.
+| Troppo coinvolgimento | Troppo distacco |
+|----------------------|-----------------|
+| Perdita di lucidità | Muro relazionale |
+| Iperprotezione | Ascolto deficitario |
+| Sostituzione all'altro | Mancanza di partecipazione progettuale |
+| Deresponsabilizzazione dell'utente | Chiusura alla relazione |
 
-Nella realtà le persone si muovono tra i quadranti,
-soprattutto all'inizio della malattia. L'operatore
-accompagna questo movimento.
+L'equilibrio si chiama **giusta vicinanza** — o "giusta distanza", ma il prof preferisce "vicinanza" perché parte dal presupposto che ci sia un legame umano come base. È quello stato professionale che consente di sviluppare atteggiamenti efficaci, attenti alla dimensione umana, senza perdersi nell'altro.
 
 ---
 
-## La tragedia greca: passioni e follia
+## Fiducia e tolleranza
 
-Parallelamente allo studio teorico, il modulo
-include un lavoro su **cinque tragedie greche**.
+### Fiducia (Ripamonti, 2018)
 
-### Perché la tragedia?
+La fiducia si genera nelle situazioni in cui ci sono **aspettative di reciprocità a lungo periodo**. Fidandosi oggi, ogni persona fa una **scommessa sul futuro**: è un atto di coraggio, non una certezza. La fiducia matura soprattutto quando c'è un alto livello di coinvolgimento emotivo e cognitivo — quando le persone si sentono viste e comprese.
 
-La tragedia greca nasce insieme alla medicina antica
-(Ippocrate) e mette in scena la sofferenza umana —
-quella difficile da spiegare e a volte da comprendere.
-Assistere alla tragedia faceva emergere emozioni e
-sentimenti che, attraverso la **catarsi**, potevano
-uscire e liberare.
+**Senza fiducia non c'è collaborazione vera.** La fiducia richiede tempo e coerenza — si costruisce mattone per mattone, e si può perdere in un attimo.
 
-La tragedia parla dei **confini dell'umano**: la
-morte, la malattia, la follia. Il prof distingue
-gli approcci dei tre grandi tragediografi:
+### Tolleranza (Ripamonti, 2018)
 
-- **Eschilo** — il più arcaico: la follia arriva
-  dagli dèi, è una forza esterna che schiaccia
-- **Sofocle** — il tragico non arriva dagli dèi,
-  è la vita stessa che è tragica
-- **Euripide** — il più moderno: il tragico nasce
-  dalle relazioni tra le persone
+La tolleranza è l'insieme degli atteggiamenti che indicano la disponibilità a riconoscere la possibilità di esistenza di idee e comportamenti diversi dai propri. Non significa condividere — l'essenza della tolleranza sta nell'**attribuzione di legittimità all'esistenza dell'altro**, anche di fronte a un radicale dissenso. Si concretizza nella gentilezza: non ingenuità, ma apertura necessaria a far maturare possibilità inedite di crescita.
 
-A secoli di distanza, la tragedia "resta fedele
-a se stessa" — perché tocca qualcosa di profondo
-nell'umano che non cambia nei secoli.
+> Il prof porta un esempio forte: lavorare con persone che hanno commesso reati gravissimi. Non si condivide, non si approva — ma dentro quel mandato professionale si trova l'apertura sufficiente per muoversi verso un cambiamento possibile. Questo è il senso operativo della tolleranza.
 
-### L'esercizio pedagogico
+---
 
-Gli studenti sono divisi in **5 gruppi**, ciascuno
-con una tragedia assegnata per estrazione. Il lavoro
-prevede:
+## Vissuto ed esperienza — la mediazione educativa
 
-1. **Leggere** la tragedia — esporsi a un linguaggio
-   non familiare della sofferenza, proprio come
-   accade quando si incontra un paziente che parla
-   una "lingua" diversa dalla nostra
-2. **Condividere** nel gruppo — cosa ti ha parlato?
-   Quali temi ti hanno colpito?
-3. **Sintetizzare** — trovare un messaggio comune,
-   con le inevitabili rinunce individuali (esercizio
-   di équipe reale)
-4. **Andare in scena** — non uno "spettacolino",
-   ma portare temi salienti a una platea
+Palmieri (2011) distingue due concetti fondamentali:
 
-Il prof insiste: quello che deve arrivare al pubblico
-deve essere *vero* — deve essere passato attraverso
-l'umanità di chi lo porta in scena. Se non c'è quella
-verità, si sente.
+- **Vissuto**: la percezione diretta, intuitiva e naturale delle emozioni — quello che succede *prima* della riflessione, il modo immediato di percepire ciò che accade
+- **Esperienza**: la rielaborazione riflessiva del vissuto — il *dare senso* a ciò che è accaduto
 
-### Le tragedie di quest'anno
+La relazione educativa ha carattere **mediativo**: l'operatore accompagna la persona ad attribuire un senso a ciò che accade, andando oltre la semplice reattività. La **mediazione educativa** promuove il "fare esperienza del proprio vissuto" e favorisce la formazione di un'autoconsapevolezza del proprio modo di apprendere.
 
-Le docenti hanno scelto — indipendentemente —
-tragedie che convergono su un tema comune: la
-**violenza sulle donne nei conflitti armati**.
+Avere anni di servizio **non** vuol dire automaticamente avere esperienza: avere esperienza significa aver *rielaborato* quello che si è vissuto.
 
-- **Agamennone** (Eschilo) — Cassandra, prigioniera
-  di guerra e bottino sessuale
-- **Le Troiane** (Euripide) — Ecuba, Cassandra,
-  Andromaca: tre donne schiavizzate dopo la caduta
-  di Troia
-- **Andromaca** (Euripide) — la vittima di guerra
-  per eccellenza
-- **Le Trachinie** (Sofocle) — donne umiliate
-  e "rese mute" dalla violenza
-- **Aiace** (Sofocle) — la fragilità dietro
-  l'eroismo apparente
+> Il prof lo dice chiaramente: puoi avere vent'anni di servizio e una scarsa elaborazione — oppure tre anni e una ricchezza enorme, perché hai riflettuto su ogni cosa che hai vissuto.
 
-Il prof collega esplicitamente queste storie ai dati
-odierni sulla violenza sessuale nei conflitti armati
-(Congo, Iraq, Rwanda), citando **Nadia Murad**,
-Premio Nobel per la Pace e sopravvissuta alla
-schiavitù sessuale dell'ISIS. La tragedia greca
-non è storia lontana: è cronaca con un linguaggio
-di 2500 anni fa.
+---
+
+## L'asimmetria relazionale
+
+L'asimmetria è **una caratteristica strutturale e necessaria** della relazione educativa (Tramma, 2018; Iori, 2000). Non è una gerarchia di valore umano — non esiste un "superiore" e un "inferiore". È un'asimmetria di **consapevolezza e responsabilità**:
+
+**Consapevolezza** (che spetta all'operatore):
+- Del carattere educativo della relazione e degli intenti trasformativi
+- Della molteplicità di variabili che concorrono al gioco relazionale
+- Che gli esiti relazionali sono sempre e comunque incerti
+
+**Responsabilità** (che spetta all'operatore):
+- Riguardo al futuro della persona
+- Riguardo all'interazione con l'ambiente di vita della persona
+- Rispetto al mandato ricevuto
+- Alla necessità di **ridurre progressivamente** l'asimmetria stessa
+
+L'asimmetria non è fissa: varia a seconda dei contenuti. Un anziano può essere molto più saggio dell'educatore su molti aspetti della vita — e questo non cambia l'asimmetria riguardo alla consapevolezza e responsabilità della relazione.
+
+Uno specifico contenuto relazionale asimmetrico (es. la decisionalità) non implica automaticamente l'asimmetria su tutti gli altri piani. **L'obiettivo finale è ridurre l'asimmetria**: rendere la persona sempre più consapevole, responsabile, autonoma.
+
+> Il prof usa l'esempio della scuola elementare: la maestra ha una "giusta vicinanza" con ogni bambino — durante la lezione si avvicina, propone, coinvolge, poi si allontana. È un continuo oscillare calibrato. Nell'asimmetria ci sono momenti in cui le persone condividono parti di sé profonde, e l'operatore deve essere in grado di starci, riconoscerlo, e farlo senza rompere la relazione.
+
+---
+
+## Pensiero complesso, attenzione all'intero, pensiero divergente
+
+### Attenzione all'intero
+
+Vedere le persone nella loro **globalità e complessità** — non frammentarle in diagnosi, categorie, comportamenti isolati. Il prof cita il paradosso della casa anziani: arrivi da una persona con decenni di vita, relazioni, storia — e ti ritrovi a discutere solo di un episodio di otto anni prima scritto in una cartella. L'attenzione all'intero è resistere a questa frammentazione.
+
+### Pensiero divergente (Maida et al., 2012)
+
+Integra due funzioni cognitive:
+- **Pensiero creativo**: apertura, circolarità, intuizione, ricettività
+- **Pensiero logico-razionale**: ipotesi, metodo ipotetico-deduttivo
+
+Insieme permettono di andare **oltre gli schemi consueti di comprensione dei problemi**, aprendo a nuove strategie cognitive e comportamentali. Il pensiero divergente mantiene alta la curiosità — una curiosità metodologica, non fantasiosa.
+
+### Creatività
+
+La creatività è la capacità di sviluppare idee, alternative e possibilità di intervento per risolvere problemi in modo originale. Come dice Foucault, è "problematizzare l'acquiescenza all'evidente" — non accettare ciò che appare ovvio, ma domandarsi se ci sono alternative. È un'abilità che si allena, non un dono riservato a pochi.
+
+### Pensiero complesso (Morin, 1993)
+
+Il pensiero complesso nasce dalla consapevolezza che non è possibile conoscere tutto — e che questa consapevolezza **non è un limite da subire, ma uno stimolo alla ricerca continua**. Il pensiero complesso non riduce il complesso al semplice: tiene insieme le molte dimensioni della realtà, con la consapevolezza dell'incertezza come condizione di base. Non semplifichiamo l'altro a una categoria o a un comportamento — questo ci protegge dall'errore professionale.
 
 ---
 
 ## Concetti chiave
 
 | Termine | Significato |
-|---|---|
-| **Disease** | Malattia in senso biomedico, misurabile con parametri clinici |
-| **Illness** | Vissuto soggettivo della malattia, come la persona si sente |
-| **Sickness** | Dimensione sociale della malattia, riconoscimento/stigma |
-| **Benessere** | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo |
-| **Norma statistica** | Normalità come conformità alla media della popolazione |
-| **Norma di valore** | Normalità come conformità a un ideale |
-| **Norma personale** | Normalità rispetto al proprio funzionamento precedente |
-| **Agentività** | Atteggiamento attivo del soggetto verso la propria condizione |
-| **Catarsi** | Purificazione emotiva attraverso la partecipazione alla tragedia |
-| **Omeostasi** | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio |
-| **To cure** | Terapia: eliminare la malattia |
-| **To care** | Cura: prendersi cura del benessere, sempre praticabile |
+|---------|-------------|
+| **Intenzionalità** | Ogni azione professionale è consapevolmente orientata a una finalità |
+| **Progettualità** | La relazione prefigura un cambiamento futuro possibile |
+| **Meta-competenza** | Competenza trasversale che governa le altre competenze (Milani, 2000) |
+| **Pratica riflessiva** | Processo circolare di azione e riflessione (Schön, 1994) |
+| **Reflection on action** | Riflessione dopo l'azione |
+| **Reflection in action** | Riflessione durante l'azione |
+| **Incidente critico** | Evento inatteso che attiva il pensiero riflessivo (Sicora, 2010) |
+| **Speranza** | Processo cognitivo: pathway + agency (Snyder, 2002) |
+| **Empatia** | Movimento continuo verso l'altro, nella consapevolezza della non sovrapponibilità (Palmieri, 2011) |
+| **Giusta vicinanza** | Equilibrio professionale tra coinvolgimento e distacco |
+| **Ascolto attivo** | Ascolto partecipe, flessibile, auto-osservativo (Maida et al., 2012) |
+| **Vissuto** | Percezione diretta, pre-riflessiva |
+| **Esperienza** | Vissuto rielaborato riflessivamente |
+| **Mediazione educativa** | Accompagnare la persona a dare senso a ciò che vive (Palmieri, 2011) |
+| **Asimmetria** | Asimmetria di consapevolezza e responsabilità — non di valore umano (Tramma, 2018) |
+| **Pensiero complesso** | Consapevolezza dell'impossibilità della conoscenza completa (Morin, 1993) |
+| **Pensiero divergente** | Integrazione di pensiero creativo e logico-razionale (Maida et al., 2012) |
+| **Tolleranza** | Riconoscere la legittimità dell'esistenza dell'altro, senza necessariamente condividere (Ripamonti, 2018) |
+| **Fiducia** | Aspettative di reciprocità a lungo periodo: scommessa sul futuro (Ripamonti, 2018) |
+
+---
+
+## Domande di orientamento allo studio
+
+- Quali sono le principali peculiarità della relazione professionale dell'operatore sociale?
+- Che cosa sono le meta-competenze? Come si costruiscono?
+- Quali atteggiamenti di fondo deve possedere un buon operatore sociale?
+- Perché è fondamentale considerare l'asimmetria nella relazione educativa?
+
+## Riferimenti bibliografici principali
+
+- Maida, S., Molteni, L., Nuzzo, A. (2012). *Educazione e osservazione*. Carocci.
+- Tramma, S. (2018). *L'educatore imperfetto*. Carocci.
+- Palmieri, C. (2011). *Un'esperienza di cui aver cura*. Franco Angeli.
+- Ripamonti, E. (2018). *Collaborare. Metodi partecipativi per il sociale*. Carocci.
+- Delle Fave, A., Bassi, M. (2013). *Psicologia e salute*. UTET DeAgostini.
+- Laudadio, A., Mancuso, S. (2015). *Manuale di Psicologia positiva*. FrancoAngeli.
+- Morin, E. (1993). *Introduzione al pensiero complesso*. Sperling & Kupfer.
+- Bertotti, T., Fazzi, L., Rosignoli, A. (2021). *Il servizio sociale: le competenze chiave*. Carocci.
 
 ## Collegamenti
 
-- **Autori citati:** Christopher Boorse (1977),
-  Carol Ryff, Tiziano Terzani (*L'ultimo giro di
-  giostra*), Callieri & C. (1999), Nadia Murad
-- **Lezioni successive:** Storia della follia
-  (25.02), L'incontro con l'alienità (4.03), Dal
-  modello psicoanalitico alle difese (11.03)
-- **Temi aperti:** Come cambiano le categorie
-  diagnostiche nel tempo? Come si costruisce una
-  diagnosi psichiatrica? (L'omosessualità come
-  esempio storico sarà ripreso)
-- **Da ricordare:** il vademecum del modulo
-  contiene i contenuti in forma scritta con i
-  riferimenti bibliografici precisi
+- **Lezioni 01–04**: le finalità dell'intervento, la progettualità e la comunicazione circolare sono il contesto in cui si collocano tutti i concetti di questa lezione
+- **Lezioni successive**: metodi progettuali — la progettualità discussa qui troverà applicazione concreta
+- **Da approfondire**: Schön (pratica riflessiva), Snyder (speranza), Morin (pensiero complesso), Palmieri (empatia come danza), Tramma (asimmetria)

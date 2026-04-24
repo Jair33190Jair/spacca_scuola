@@ -1,107 +1,99 @@
-# L'Anzianità — Sintesi
-I tempi della vita · Sessione 09–14
+# Lezione 09 — Anzianità: Sintesi
+## I Tempi della Vita | Lavoro Sociale — 2° semestre
 
-> Hai davanti il materiale più ricco del modulo. Il messaggio centrale è uno: l'anziano "tipico" non esiste — e il tuo lavoro inizia sempre dalla persona concreta. Buon ripasso.
+Questa è la lezione con più materiale del modulo — e anche una delle più utili per il lavoro sul campo. Il messaggio centrale è uno: l'anziano "tipico" non esiste. Cominciamo da lì.
+
+---
+
+## Le 4 idee forti di Cavalli
+
+- **Invecchiare ≠ declinare.** La ricerca CEVI (Ginevra + 8 paesi) mostra guadagni a tutte le età, non solo perdite. Saggezza, stabilità emotiva, capacità di relativizzare aumentano con l'età.
+- **La vecchiaia è costruita socialmente.** L'AVS svizzera nasce nel 1948 — è questo momento a creare "l'anziano" come categoria sociale distinta. Prima non c'era la pensione, si lavorava finché si poteva.
+- **Eterogeneità massima.** La variabilità tra anziani è più alta che in qualsiasi altra fase della vita. "La persona anziana" come categoria omogenea non esiste.
+- **Il futuro sarà diverso.** I baby boomer (1945-1965) che invecchieranno domani avranno più istruzione, più autonomia, più tecnologia — e aspettative più alte — rispetto alla generazione silenziosa (1920-1940) di oggi.
 
 ---
 
 ## Psicologia dell'invecchiamento (Campello)
 
-- Disciplina giovane: nasce negli **anni '80**
-- Tre branche (Birren & Schroots, 1996): **psicologia dell'invecchiamento** (life-span), **psicologia della vecchiaia** (problemi bio-socio-psico), **psicologia delle differenze d'età** (confronto tra gruppi)
+**Tre teorie principali:**
+- **Disimpegno** (Cumming & Henry 1961): l'individuo e la società si ritirano reciprocamente. Criticata perché giustificava l'esclusione sociale.
+- **Attività**: invecchiamento sano = mantenere livello di attività alto, sostituendo i ruoli perduti.
+- **Continuità** (Atchley): l'adattamento riuscito passa per la continuità di abitudini e valori.
+
+**I 4 tipi di età:**
+- Anagrafica · Biologica · Cerebrale · Soggettiva
+- L'età soggettiva è spesso la più rilevante per il benessere. I centenari dello studio Swiss100, in mediana, si sono sentiti "vecchi" a 98 anni.
 
 ---
 
-## Le tre teorie dello stile di vita
+## Fragilizzazione e fragilità (Lalive d'Epinay & Spini 2008)
 
-| Teoria | Autori | Idea chiave | Critica principale |
-|---|---|---|---|
-| **Disimpegno** | Cumming & Henry, 1961 | Ritiro sociale progressivo = normale | Giustifica l'abbandono; le relazioni attive correlano con il benessere |
-| **Attività** | Havinghurst, 1963 | Invecchiare bene = mantenere le attività | Ricalca il modello adulto; ignora le differenze di personalità |
-| **Continuità** | Atchley, 1976 | Mantenere il livello di attività pre-pensionamento | Richiede buona salute e inserimento sociale |
+- **Fragilizzazione** = processo normale di riduzione delle riserve fisiologiche nel tempo
+- **Fragilità** = stato in cui quelle riserve ridotte non bastano più a mantenere l'equilibrio con l'ambiente
 
 ---
 
-## Eterocronia
+## Identità di luogo ed eventi marcatori
 
-- **Inter-personale** → due persone stessa età, funzionamento molto diverso
-- **Intra-personale** → stessa persona invecchia a ritmi diversi (fisico ≠ cognitivo ≠ mentale)
-
----
-
-## Le quattro età (Balducci, 1990)
-
-- **Anagrafica** — anni dalla nascita
-- **Somatica** — stato di salute fisico
-- **Cerebrale** — funzionamento cognitivo
-- **Mentale** — come ci si percepisce soggettivamente ← spesso la più importante
+- **Identità di luogo (place identity):** la casa non è solo un contenitore — è parte dell'identità. Offre continuità, controllo, protezione.
+- **Abbandono della patente:** impatto psicologico significativo, specialmente per gli uomini. Perdita di autonomia e indipendenza.
+- **Ingresso in casa anziani:** grande transizione identitaria. Il lavoratore sociale deve sostenere la continuità (oggetti, abitudini, relazioni).
 
 ---
 
-## Invecchiamento cognitivo
+## Cognizione: fluida, cristallizzata, riserva
 
-**Intelligenza fluida** (Cattell, 1963) → ragionamento in situazioni nuove → picco 20-30 anni, poi declina
-**Intelligenza cristallizzata** → conoscenze accumulate → cresce fino alla mezza età inoltrata
+- **Intelligenza fluida** (Cattell/Baltes): velocità, memoria di lavoro, novità — declina da ~25-30 anni
+- **Intelligenza cristallizzata**: conoscenze acquisite, competenze, vocabolario — stabile fino a 70+ anni
+- **Riserva cognitiva:** si costruisce con istruzione, attività fisica, stimolazione cognitiva, engagement sociale, bilinguismo
+- **Carico allostatico** (Belsky): lo stress cronico accelera biologicamente l'invecchiamento cerebrale
 
-**Baltes — Mechanics vs Pragmatics:**
-- *Mechanics*: ragionamento, memoria, velocità → declino precoce
-- *Pragmatics*: abilità verbali/numeriche → stabili fino a 60-70 anni
-
-**Tre processi di declino:**
-1. Velocità di processamento ↓
-2. Risorse per l'elaborazione ↓
-3. Efficienza dei processi inibitori ↓
-
-**Modello SOC (Baltes) — invecchiare bene:**
-- **Selezione** → concentrarsi sulle attività che contano
-- **Ottimazione** → investire più energie nelle aree selezionate
-- **Compensazione** → usare capacità integre o aiuti esterni per sopperire a quelle ridotte
-
-**Riserva cognitiva (Stern, 2009)** → differenze individuali nella resistenza al declino. Si costruisce con: istruzione, lavoro stimolante, attività cognitivamente e socialmente attive.
+**Strategia SOC (Baltes):**
+- **S**elezione — focalizzarsi su ciò che conta
+- **O**ttimizzazione — investire dove si vuole eccellere
+- **C**ompensazione — usare risorse alternative quando una viene meno
 
 ---
 
-## Prospettiva sociologica: 4 idee forti (Cavalli)
+## Nonni, pensionamento, vedovanza (Belsky)
 
-### 1. L'invecchiamento NON è solo declino
-- Life-span (Baltes, 1987): guadagni e perdite a tutte le età
-- Studio CEVI (15 paesi): fino agli 80 anni i **guadagni superano le perdite**
+**Nonni:**
+- "Guardiani della famiglia" — funzione evolutiva e stabilizzante
+- Coinvolgimento variabile per genere, distanza, età dei nipoti, tecnologia
+- Fenomeno crescente: nonni che allevano nipoti (ruolo invisibile, oneroso)
 
-### 2. Terza età vs Quarta età
-- **Terza età** (Laslett, 1992): pensionati attivi, sani, autonomi → novità del XX secolo
-- **Quarta età** (Lalive d'Epinay & Cavalli, 2013): processo di fragilizzazione avanzato
-- **Fragilizzazione** → riduzione progressiva delle riserve fisiologiche/sensorimotorie
-- **Fragilità** → quando la fragilizzazione compromette l'equilibrio con l'ambiente
-- Ricorrere all'**età anagrafica** per definire la vecchiaia è comodo ma arbitrario e stigmatizzante
+**Pensionamento:**
+- Decisione influenzata da salute, soddisfazione lavorativa, finanze, partner, cultura
+- Sistema svizzero: 3 pilastri (AVS + cassa pensioni + risparmio privato)
+- **Lavoro ponte**: uscita graduale — facilita l'adattamento
+- Ageism: discriminazione per età nel lavoro e nella sanità — reale e documentata
 
-### 3. Gli anziani di oggi ≠ quelli di ieri ≠ quelli di domani
-- Il contesto storico-sociale plasma l'invecchiamento (Diagramma di Lexis)
-- L'anziano di domani (Cavalli & Corna, 2020): più istruito, più connesso, background migratorio crescente, più autonomo, aperto all'autodeterminazione
-
-### 4. Gli anziani NON sono tutti uguali
-- Più anziani si diventa, più ci si differenzia (Trabucchi, 2016)
-- Il rischio: stereotipare terza età come "tutti attivi" e quarta età come "tutti dipendenti"
-- **Conclusione: "La persona anziana" non esiste**
+**Vedovanza:**
+- Aumento della mortalità nei mesi/anni successivi
+- Problema principale: solitudine operativa (chi cucina, chi decide, chi accompagna)
+- Differenza di genere: gli uomini spesso più isolati perché dipendevano dalla moglie per le reti sociali
 
 ---
 
-## Ruoli sociali nell'anzianità
+## Generazioni e tempo storico (diagramma di Lexis)
 
-- **Pensionamento** → evento marcatore; il lavoro non è solo sostentamento: è identità, tempo, relazioni
-- **Nonni** → guardiani della famiglia (Belsky): intervengono nelle crisi, tengono unita la rete
-- **Abbandono patente** → evento marcatore: simbolo di autonomia perduta, spesso isola socialmente
-- **Place identity** (Proshansky, 1978) → i luoghi sono parte dell'identità; il trasferimento in casa anziani è un evento critico
-
----
-
-## COVID-19 e dignità degli anziani
-
-- 21 marzo 2020: divieto di fare la spesa per gli over 65 in Ticino
-- Studio "Dignità, anziani e COVID-19" (Cavalli et al., 2021): l'uso dell'età anagrafica per definire categorie a rischio viola la dignità e crea stigma
+- Il diagramma di Lexis incrocia **traiettoria individuale** e **tempo storico** — mostra come il contesto storico plasma le generazioni
+- **Generazione silenziosa** (1920-1940): guerra, povertà, risparmio, sacrificio, poca istruzione
+- **Baby boomer** (1945-1965): boom economico, '68, individualismo, istruzione più alta — gli anziani di domani
+- **Anziani di domani** (Cavalli & Corna 2020): più istruiti, tecnologici, autonomi, esigenti — e con disuguaglianze più marcate
 
 ---
 
-**Da ricordare:**
-- **SOC** = Selezione + Ottimazione + Compensazione (come invecchiare bene)
-- **Terza vs Quarta età** = il confine non è l'età anagrafica, ma il processo di fragilizzazione
-- **Eterocronia** = ogni persona invecchia in modo unico, anche dentro se stessa
+## Dignità e COVID-19
+
+- Misure COVID Ticino (marzo 2020) per "over 65" hanno trattato una categoria eterogenea come blocco uniforme
+- Ricerca su 818 anziani: risposte differenziatissime (accettazione, valutazione critica, umiliazione, rabbia, indifferenza)
+- **Dignità (Mormino):**
+  - Meritocratica = si guadagna con i ruoli e le azioni, può essere persa
+  - Universale = appartiene a ogni essere umano, non si perde mai
+- Definire l'anziano come "chi non è più capace di..." erode la dignità universale
+
+---
+
+**Da ricordare:** ogni concetto di questa lezione — dall'eterogeneità alla riserva cognitiva, dalla fragilità alla dignità — ha un'implicazione diretta per il tuo lavoro. L'anziano concreto che incontrerai non è una categoria, è una persona con una traiettoria unica. Questo modulo ti dà gli strumenti per vederla.

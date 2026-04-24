@@ -1,15 +1,7 @@
 # I Tempi della Vita — Panoramica completa
-Semestre 02 · 9 lezioni (6 elaborate)
+Semestre 02 · 9 lezioni
 
-> La materia percorre l'intero arco della vita umana — dalla nascita
-> alla vecchiaia — attraverso la psicologia dello sviluppo, la psicoanalisi
-> e la sociologia. Il filo è uno: crescere significa attraversare crisi,
-> guadagni e perdite in ogni fase, dentro un contesto relazionale e
-> culturale che co-costruisce chi siamo.
-
-> ⚠️ Le lezioni **02 (Piaget)**, **03 (Apparato psichico)** e **05 (Famiglia)**
-> non risultano ancora elaborate — i file generati contengono materiale di
-> un'altra materia. Questa panoramica si basa sulle 6 sessioni disponibili.
+> Siamo partiti da una domanda semplice: cos'è lo sviluppo? E abbiamo scoperto che non finisce mai — nasce con la vita e si chiude con essa. Lungo il percorso, ogni fase porta la stessa meccanica di fondo: crisi, trasformazione, integrazione. Il filo che tiene insieme tutto? La relazione. Nessuno si sviluppa da solo.
 
 ---
 
@@ -18,14 +10,14 @@ Semestre 02 · 9 lezioni (6 elaborate)
 | # | Lezione | Tema centrale |
 |---|---------|---------------|
 | 01 | Evoluzione storica ed Erikson | Life Span Psychology; 8 stadi psico-sociali |
-| 02 | Sviluppo cognitivo — Piaget | *(da elaborare)* |
-| 03 | Apparato psichico | *(da elaborare)* |
-| 04 | Infanzia | Sviluppo psicoaffettivo, relazioni primarie, attaccamento |
-| 05 | Famiglia | *(da elaborare)* |
-| 06 | Adolescenza | Identità, riti di passaggio, compiti evolutivi |
-| 07 | Adultità | Individuazione, generatività, genitorialità |
-| 08 | Normalità e patologia in età evolutiva | Valutazione clinica, sintomo, 4 assi |
-| 09 | Anzianità | Invecchiamento cognitivo, SOC, terza/quarta età |
+| 02 | Sviluppo cognitivo — Piaget | Come la mente costruisce la conoscenza per stadi |
+| 03 | Apparato psichico | Freud, Winnicott, attaccamento: le basi della vita psichica |
+| 04 | Infanzia | Relazioni primarie, cure, pattern di attaccamento |
+| 05 | Famiglia | Genitorialità, conflitti proiettivi, strutture familiari |
+| 06 | Adolescenza | Identità, separazione, corpo, nascita sociale |
+| 07 | Adultità | Individuazione, generatività, lavoro, identità adulta |
+| 08 | Normalità e patologia | Sintomo evolutivo vs patologia; 4 assi di valutazione |
+| 09 | Anzianità | Invecchiamento, eterogeneità, riserve, costruzione sociale |
 
 ---
 
@@ -47,6 +39,27 @@ Semestre 02 · 9 lezioni (6 elaborate)
 
 ## Le grandi teorie dello sviluppo
 
+### Piaget — Sviluppo cognitivo · (Lez. 02)
+
+- **Obiettivo** → teoria generale della conoscenza; come si costruisce il pensiero
+- **Invarianti funzionali** (sempre attive):
+  - **Assimilazione** → nuove info integrate negli schemi esistenti
+  - **Accomodamento** → modifica degli schemi per adattarsi al nuovo
+  - **Equilibrazione** → motore dello sviluppo: ricerca costante di equilibrio
+- **4 stadi cognitivi:**
+
+| Stadio | Età | Nucleo |
+|--------|-----|--------|
+| **Sensomotorio** | 0–2 a | Sensi + movimenti; no pensiero simbolico; permanenza dell'oggetto |
+| **Preoperatorio** | 18m–7 a | Pensiero simbolico; egocentrismo; animismo |
+| **Operatorio concreto** | 7–11 a | Logica concreta; conservazione; décalage orizzontale |
+| **Operatorio formale** | 12+ a | Pensiero ipotetico-deduttivo; astratto |
+
+- **Pensiero post-formale** (Kramer, 1983) → relativismo · accettazione delle contraddizioni · integrazione di prospettive; emerge nell'adulto
+- **Implicazione educativa** → rispettare il livello cognitivo del bambino; approccio costruttivista (facilitare, non dirigere)
+
+---
+
 ### Erikson — 8 stadi psico-sociali · (Lez. 01, 06, 07)
 
 - **Meccanismo** → ogni stadio = conflitto bipolare; sviluppo ottimale = sbilanciamento sul polo +,
@@ -63,13 +76,16 @@ Semestre 02 · 9 lezioni (6 elaborate)
 | 7 | Età adulta | **Generatività / Stagnazione** | Trasmetto alle generazioni future |
 | 8 | Età senile | Integrità / Disperazione | Accetto anche ciò che non ho realizzato |
 
-### Freud — stadi psicosessuali · (Lez. 04)
+### Freud — apparato psichico e stadi psicosessuali · (Lez. 03, 04)
 
+- **Prima topica** (1900–1915) → Conscio / Preconscio / **Inconscio** (iceberg: la parte visibile è minima) · (Lez. 03)
+- **Seconda topica** (1923) → **Es** (pulsioni, piacere) / **Io** (mediatore, realtà) / **Super-Io** (coscienza morale, norma) · (Lez. 03)
+- **Principio di piacere** → tutto e subito · **Principio di realtà** → capacità di differire e valutare · (Lez. 03)
 - **Pulsione (Trieb)** → energia al confine psiche/corpo
   - **Libido** → manifestazione della pulsione sessuale · **Eros** (vita) · **Thanatos** (morte)
 - **Stadi** → orale (0-2a) → sadico-anale (18m-4a) → fallico-uretrale (3-5a) → Edipo (~4a) → latenza (6-12a) → genitale (pubertà)
 - **Fissazione** → blocco energetico a uno stadio · **Regressione** → ritorno sotto stress
-- **Edipo** → passaggio da relazione duale a triangolare; struttura Io/Es/Super-Io
+- **Edipo** → passaggio da relazione duale a triangolare; struttura Io/Es/Super-Io; nasce il Super-Io per identificazione con i genitori
 
 ### Jung — Individuazione · (Lez. 07)
 
@@ -87,34 +103,38 @@ Semestre 02 · 9 lezioni (6 elaborate)
 
 ---
 
-## Infanzia e relazioni primarie · (Lez. 04)
+## Infanzia e relazioni primarie · (Lez. 03, 04)
 
 ### Il bebè e la relazione
 
-- **Bebè immaginario** → rappresentazione consapevole dei genitori (ecografie, parametri)
-- **Bebè fantasmatico** → proiezioni inconsce, transgenerazionali
-- **Bebè reale** → temperamento proprio, ritmicità biologica
-- **Compiti del neonato** → integrare ritmi · sincronizzazione polisensoriale · regolazione dell'arousal
-- **La relazione costruisce il cervello** → ossitocina/dopamina = costruzione sinaptica; cortisolo = distruzione sinaptica
-- **Mismatch + riparazione** (Tronick) → la madre risponde il 27% delle volte; le dissincronie **riparate** sono motori dello sviluppo
-- **Rêverie materna** (Bion) → dare significato all'esperienza grezza del bambino
-- **Mirroring** (Fonagy) → rispecchiamento vivo e coerente
+- **Tre bambini in gravidanza** (Vegetti Finzi): · (Lez. 03)
+  - **Bebè immaginario** → rappresentazione consapevole (ecografie, parametri)
+  - **Bebè fantasmatico** → proiezioni inconsce, transgenerazionali
+  - **Bebè reale** → temperamento proprio, ritmicità biologica
+- **Neotenia** → imaturità estrema alla nascita; dipendenza radicale dall'altro; fonda la necessità della relazione · (Lez. 03)
+- **Compiti del neonato** → integrare ritmi · sincronizzazione polisensoriale · regolazione dell'**arousal** (zona ottimale: sveglio ma non eccitato) · (Lez. 03, 04)
+- **La relazione costruisce il cervello** → ossitocina/dopamina = costruzione sinaptica; cortisolo = distruzione sinaptica · (Lez. 04)
+- **Mismatch + riparazione** (Tronick) → la madre risponde il 27% delle volte; le dissincronie **riparate** sono motori dello sviluppo · (Lez. 03, 04)
+- **Rêverie materna** (Bion) → dare significato all'esperienza grezza del bambino · (Lez. 04)
+- **Mentalizzazione** → il pensiero adulto contiene e stabilizza gli stati emotivi del bambino · (Lez. 03)
+- **Mirroring** (Fonagy) → rispecchiamento vivo e coerente · (Lez. 04)
 
-### Winnicott — Ambiente facilitante
+### Winnicott — Ambiente facilitante · (Lez. 03, 04)
 
 - **"There is no such thing as a baby"** → il bebè esiste solo nella coppia
 - **Good enough** → non la perfezione; la frustrazione moderata è necessaria per differenziare Sé dall'oggetto
 
 | Pilastro | Descrizione |
 |----------|-------------|
-| **Holding** | Sostegno fisico → primi confini del Sé |
-| **Handling** | Cure corporee → primi significati affettivi |
-| **Object Presenting** | Presentare l'oggetto nel momento del bisogno |
+| **Holding** | Sostegno fisico → primi confini del Sé; coesione psicosomatica |
+| **Handling** | Cure corporee → primi significati affettivi; senso di sé corporeo |
+| **Object Presenting** | Presentare l'oggetto nel momento del bisogno → onnipotenza transitoria |
 
+- **De-accomodamento** → inadempienze crescenti della madre → il bambino impara la realtà esterna
 - **Oggetto transizionale** → primo possesso "non-me"; area intermedia soggettivo/oggettivo
 - **Capacità di essere solo** → maturità emotiva; dipende da oggetto interno buono
 
-### Teoria dell'attaccamento (Bowlby, Ainsworth)
+### Teoria dell'attaccamento (Bowlby, Ainsworth) · (Lez. 03, 04)
 
 - **Attaccamento = fatto primario** (non derivato dalla nutrizione)
   - Prove: imprinting (Lorenz), esperimenti Harlow sui macachi
@@ -134,6 +154,40 @@ Semestre 02 · 9 lezioni (6 elaborate)
 - **Disorganizzato** → "la fonte di sicurezza è la fonte di paura" (Hill)
 - **Trasmissione intergenerazionale** → AAI della madre predice il pattern del figlio
 - **Relazioni correttive** → maestre, allenatori, nonni, terapia
+
+---
+
+## Famiglia e genitorialità · (Lez. 05, 07)
+
+### La famiglia come sistema
+
+- **Non è la somma dei suoi membri** (Delvecchio) → sistema complesso con leggi proprie
+- **Definizione operativa** (Scabini & Cigoli) → lega generi, generazioni e stirpi; progetto centrale: **generatività**
+- **Dalla famiglia etica alla famiglia affettiva** (Pietropolli Charmet) → da norma e valori → ad amore e legame emotivo
+- **"Famiglie"** (plurale) → sociologia contemporanea riconosce molte forme: nucleare · monoparentale · ricomposta · omo-genitoriale · adottiva · d'affido · LAT · DINKS
+- **5 funzioni della genitorialità** (Goody): concepire · nutrire · educare · dare identità · garantire accesso all'età adulta
+- **Dissociazione contemporanea** → genitorialità biologica / istituzionale (giuridica) / domestica (cura) non sempre coincidono
+
+### Accesso alla genitorialità (Nanzer & Palacio Espasa)
+
+- **Trasparenza psichica** → in gravidanza la donna rivisita le proprie imago genitoriali; estrema sensibilità
+- **Lutti di sviluppo** → rinuncia alle immagini idealizzate di sé bambino e dei propri genitori
+  - Ben elaborati → genitorialità come crescita
+  - Non elaborati → il bambino viene "arruolato" per riparare il passato del genitore
+
+### 4 tipi di conflitto genitoriale (Manzano, Palacio Espasa & Zilkha)
+
+| Tipo | Dinamica | Impatto sul bambino |
+|------|----------|---------------------|
+| **Normale** | Proiezioni flessibili; empatia funzionale | Sviluppo sano |
+| **Nevrotica** | Bambino = bambino ideale che il genitore avrebbe voluto essere | Disturbi di separazione, sonno, alimentazione |
+| **Masochistica** | Genitore si sottomette; tirannia del bambino | Disturbi comportamentali, ansia |
+| **Narcisistica** | Proiezioni rigide e negative; genitore tagliato dalla vita emotiva | Gravi disturbi dell'attaccamento |
+
+### Plurigenitorialità e spazio psichico
+
+- **Rischio** → modificazioni brusche dell'ambiente mettono a rischio la continuità narcisistica del bambino
+- **Protezione** → dare senso alle trasformazioni · ammettere la bilinearità delle origini · rispettare lo spazio psichico
 
 ---
 
@@ -293,48 +347,60 @@ Semestre 02 · 9 lezioni (6 elaborate)
 | Chi | Contributo | Lezione |
 |-----|-----------|---------|
 | **Erik Erikson** | 8 stadi psico-sociali; identità; moratoria psicosociale; generatività | 01, 06, 07 |
-| **Paul Baltes** | Life Span Psychology; 7 principi; SOC; mechanics/pragmatics | 01, 09 |
+| **Paul Baltes** | Life Span Psychology; 7 principi; SOC | 01, 09 |
 | **Schroors** | Metafora del fiume | 01 |
-| **Sigmund Freud** | Stadi psicosessuali; pulsioni; Edipo; fissazione/regressione | 04 |
-| **John Bowlby** | Teoria dell'attaccamento; MOI; *Attaccamento e perdita* | 04 |
-| **Mary Ainsworth** | Strange Situation; base sicura; 4 pattern di attaccamento | 04 |
-| **Donald Winnicott** | Holding/handling; oggetto transizionale; good enough; sintomo flessibile | 04, 08 |
-| **Wilfred Bion** | Rêverie materna; funzione alfa | 04, 07 |
-| **Peter Fonagy** | Mirroring; mentalizzazione | 04 |
-| **Edward Tronick** | Mismatch e riparazione; Still Face | 04 |
-| **Arnold Van Gennep** | Riti di passaggio; 3 fasi (separazione/liminale/aggregazione) | 06, 08 |
+| **Jean Piaget** | 4 stadi cognitivi; assimilazione/accomodamento/equilibrazione | 02 |
+| **Deirdre Kramer** | Pensiero post-formale (3 caratteristiche) | 02 |
+| **Sigmund Freud** | Prima e seconda topica; pulsioni; stadi psicosessuali; Edipo | 03, 04 |
+| **Donald Winnicott** | Holding/handling/object presenting; oggetto transizionale; good enough; falso sé | 03, 04, 08 |
+| **Piera Aulagnier** | Violenza fondamentale; concepimento psichico | 03 |
+| **Silvia Vegetti Finzi** | Tre bambini in gravidanza | 03 |
+| **John Bowlby** | Teoria dell'attaccamento; MOI; *Attaccamento e perdita* | 03, 04 |
+| **Mary Ainsworth** | Strange Situation; base sicura; 4 pattern di attaccamento | 03, 04 |
+| **Konrad Lorenz** | Imprinting (base etologica dell'attaccamento) | 03, 04 |
+| **Harry Harlow** | Esperimenti macachi: attaccamento ≠ nutrizione | 03, 04 |
+| **Wilfred Bion** | Rêverie materna; funzione alfa | 03, 04, 07 |
+| **Peter Fonagy** | Mirroring; mentalizzazione | 03, 04 |
+| **Edward Tronick** | Mismatch e riparazione; Still Face | 03, 04 |
+| **Daniel Stern** | Sintonizzazione affettiva; soggettività del neonato | 03, 04 |
+| **Manzano, Palacio Espasa & Zilkha** | 4 tipi di conflitto della genitorialità | 05 |
+| **Nanzer & Palacio Espasa** | Trasparenza psichica; lutti di sviluppo; accesso alla genitorialità | 05 |
+| **Scabini & Cigoli** | Definizione famiglia; generatività | 05 |
+| **Esther Goody** | 5 funzioni della genitorialità | 05 |
+| **Pietropolli Charmet** | Famiglia etica → famiglia affettiva; adolescenza contemporanea | 05, 06 |
+| **Arnold Van Gennep** | Riti di passaggio; 3 fasi (separazione/liminale/aggregazione) | 06 |
+| **Peter Blos** | Secondo processo separazione-individuazione; fasi adolescenza | 06 |
 | **James Marcia** | 4 stati dell'identità | 06 |
-| **Daniel Siegel** | ESSENza; cervello adolescente; sistema limbico vs. corteccia prefrontale | 06 |
-| **Maggiolini & Charmet** | 4 compiti evolutivi dell'adolescenza | 06, 08 |
-| **Matteo Lancini** | Dolore evolutivo; sintomo come difesa e comunicazione | 06, 08 |
+| **Daniel Siegel** | Cervello adolescente; sistema limbico vs. corteccia prefrontale | 06 |
+| **Maggiolini & Charmet** | 4 compiti evolutivi dell'adolescenza | 06 |
+| **Matteo Lancini** | Dolore evolutivo; separazione per delusione; sintomo come linguaggio | 06, 08 |
 | **Carl Gustav Jung** | Individuazione; Puer/Senex; età del dubbio | 07 |
-| **Daniel Levinson** | Stagioni della vita; strutture; transizioni; marker events | 07 |
-| **Warner Schaie** | Stadi cognitivi dell'adulto | 07 |
+| **Daniel Levinson** | Stagioni della vita; strutture di vita; Novice Phase; marker events | 07 |
+| **Warner Schaie** | Stadi cognitivi dell'adulto; Seattle Longitudinal Study | 07, 09 |
 | **Albert Bandura** | Lavoro come fonte di identità e valore personale | 07 |
 | **David Marcelli** | 4 definizioni di normalità | 08 |
 | **Jean Bergeret / Kernberg** | Asse strutturale della personalità | 08 |
+| **Anna Freud** | Linee evolutive del bambino; *Normalità e patologia del bambino* | 08 |
 | **Raymond Cattell** | Intelligenza fluida / cristallizzata | 09 |
-| **Stern** | Riserva cognitiva | 09 |
-| **Laslett** | Terza età | 09 |
-| **Lalive d'Epinay & Cavalli** | Quarta età; fragilizzazione | 09 |
+| **Lalive d'Epinay & Cavalli** | Terza e quarta età; fragilizzazione | 09 |
 | **Stéphane Cavalli** | 4 idee forti sull'anzianità; dignità e COVID-19 | 09 |
-| **Harold Proshansky** | Place identity | 09 |
-| **Trabucchi** | Eterogeneità anziani | 09 |
+| **Cumming & Henry** | Teoria del disimpegno | 09 |
+| **Atchley** | Teoria della continuità | 09 |
 
 ---
 
 ### Parole chiave della materia
 
-`life span psychology` · `plasticità` · `guadagni e perdite` · `metafora del fiume` · `conflitto bipolare` · `stadi psicosociali` · `pulsione` · `libido` · `Eros` · `Thanatos` · `fissazione` · `regressione` · `Edipo` · `latenza` · `attaccamento` · `monotropismo` · `MOI` · `Strange Situation` · `AAI` · `base sicura` · `porto sicuro` · `sicuro` · `evitante` · `ambivalente` · `disorganizzato` · `holding` · `handling` · `oggetto transizionale` · `rêverie materna` · `mirroring` · `mismatch` · `riparazione` · `trasmissione intergenerazionale` · `adolescenza` · `rito di passaggio` · `fase liminale` · `identità` · `moratoria psicosociale` · `4 stati dell'identità` · `compiti evolutivi` · `separazione-individuazione` · `ESSENza` · `agito` · `dolore evolutivo` · `sintomo` · `segno` · `adultescenza` · `individuazione` · `puer` · `senex` · `generatività` · `stagnazione` · `marker events` · `genitorialità` · `funzione alfa` · `diade` · `asse sindromico` · `asse strutturale` · `asse evolutivo` · `asse ambientale` · `intelligenza fluida` · `intelligenza cristallizzata` · `SOC` · `riserva cognitiva` · `eterocronia` · `terza età` · `quarta età` · `fragilizzazione` · `place identity` · `diagramma di Lexis` · `CEVI` · `disimpegno` · `continuità`
+`life span psychology` · `plasticità` · `guadagni e perdite` · `metafora del fiume` · `conflitto bipolare` · `stadi psicosociali` · `schema` · `assimilazione` · `accomodamento` · `equilibrazione` · `permanenza dell'oggetto` · `egocentrismo` · `pensiero post-formale` · `prima topica` · `seconda topica` · `Es` · `Io` · `Super-Io` · `principio di piacere` · `principio di realtà` · `pulsione` · `libido` · `Eros` · `Thanatos` · `fissazione` · `regressione` · `Edipo` · `latenza` · `neotenia` · `arousal` · `mentalizzazione` · `bebè fantasmatico` · `attaccamento` · `monotropismo` · `MOI` · `Strange Situation` · `AAI` · `base sicura` · `porto sicuro` · `sicuro` · `evitante` · `ambivalente` · `disorganizzato` · `holding` · `handling` · `object presenting` · `de-accomodamento` · `oggetto transizionale` · `rêverie materna` · `mirroring` · `mismatch` · `riparazione` · `trasmissione intergenerazionale` · `genitorialità` · `trasparenza psichica` · `lutti di sviluppo` · `identificazioni proiettive` · `genitorialità narcisistica` · `plurigenitorialità` · `rito di passaggio` · `fase liminale` · `identità` · `moratoria psicosociale` · `4 stati dell'identità` · `separazione-individuazione` · `deidealizzazione` · `acting out` · `dolore evolutivo` · `vergogna narcisistica` · `sintomo` · `segno` · `falso sé` · `asse sindromico` · `asse strutturale` · `asse evolutivo` · `asse ambientale` · `adultescenza` · `individuazione` · `puer` · `senex` · `generatività` · `stagnazione` · `marker events` · `pensiero post-formale` · `funzione alfa` · `intelligenza fluida` · `intelligenza cristallizzata` · `riserva cognitiva` · `SOC` · `fragilizzazione` · `terza età` · `quarta età` · `place identity` · `diagramma di Lexis` · `costruzione sociale` · `ageism` · `dignità universale` · `disimpegno` · `continuità`
 
 ---
 
 ### Filo conduttore
 
-La materia costruisce un argomento unico percorso fase per fase: **lo sviluppo umano è un processo continuo, relazionale e non lineare**. Si parte dai grandi modelli teorici — Erikson e Baltes soprattutto — che rompono con l'idea che la vita abbia un apice e poi un declino: guadagni e perdite convivono a ogni età, dalla nascita alla vecchiaia.
+La materia costruisce un argomento unico percorso fase per fase: **lo sviluppo umano è un processo continuo, relazionale e non lineare**. Si parte dai grandi modelli — Erikson, Baltes, Piaget — che concordano su un punto: lo sviluppo non è mai finito, guadagni e perdite convivono a ogni età, e la mente si costruisce attivamente nell'interazione con il mondo.
 
-Il cuore relazionale emerge nell'infanzia: il cervello si costruisce nella relazione con il caregiver, l'attaccamento sicuro è la piattaforma da cui esploriamo il mondo, e le rotture **riparate** sono motori di sviluppo tanto quanto le sincronie riuscite. Nell'adolescenza questa dinamica si amplifica: l'identità è in costruzione, i riti di passaggio dovrebbero traghettare — ma oggi sono scomparsi, e il passaggio è più solitario. Il sintomo diventa linguaggio del disagio, da ascoltare prima che da eliminare.
+Il cuore relazionale emerge prima ancora della nascita: il bebè esiste nel pensiero dei genitori prima di esistere nel mondo. Poi, nella coppia con il caregiver, il cervello si costruisce sinapsi per sinapsi: l'attaccamento sicuro è la base da cui si esplora, e i mismatch **riparati** insegnano quanto le sincronie riuscite. La famiglia non è sfondo neutro — trasmette pattern, proiezioni e storie che il bambino porta con sé. Nell'adolescenza tutto si riapre: l'identità va ricostruita, il corpo è un territorio sconosciuto, i riti di passaggio sono scomparsi. Il sintomo diventa linguaggio, da ascoltare prima che da eliminare.
 
-Nell'adultità il focus si sposta sulla generatività — dare, trasmettere, avere cura — e sulla capacità di integrare le polarità (Puer/Senex, Maschile/Femminile) senza cancellarle. Nell'anzianità, infine, la sfida è mantenere il senso di Sé dentro un corpo e un contesto che cambiano: la riserva cognitiva, la continuità dei luoghi, i ruoli sociali diventano risorse preziose. E la massima eterogeneità di questa fase ricorda che generalizzare è il primo errore.
+Nell'adultità il focus si sposta sulla generatività — dare, trasmettere, avere cura — e sulla capacità di integrare le polarità senza cancellarle. Nell'anzianità, infine, la sfida è mantenere il senso di Sé dentro un corpo e un contesto che cambiano: riserva cognitiva, continuità dei luoghi, ruoli sociali. La massima eterogeneità di questa fase ricorda che generalizzare è il primo errore.
 
 **Il filo è uno: la crisi non è un guasto — è il motore stesso dello sviluppo.**

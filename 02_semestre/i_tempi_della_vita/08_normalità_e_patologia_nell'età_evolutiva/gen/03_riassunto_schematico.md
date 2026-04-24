@@ -1,139 +1,151 @@
 # Normalità e Patologia nell'Età Evolutiva — Schema
-I tempi della vita · Sessione 08
+I Tempi della Vita · Sessione 08
 
 ---
 
-## Concetto di normalità — 4 definizioni (Marcelli 1999)
+## Definizioni di normalità (Marcelli, 1999)
 
-- **Media statistica** → normale = entro ±1 σ
-  - Descrittiva, quantitativa, senza qualità
-  - Rischio: diventa prescrittiva, cristallizza in un punteggio
-- **Ideale** → normale = corrisponde alle attese di genitori/scuola/società
-- **Processo dinamico** → normale = adattamento e resilienza
-- **Salute** → normale = assenza di malattia (tautologica)
-
----
-
-## Il sintomo
-
-- **Sintomo** → manifestazione soggettiva (riferita dal paziente/famiglia)
-- **Segno** → fenomeno oggettivo misurabile dal clinico
-- Stesso sintomo = diagnosi multiple possibili (es. apatia → depressione? psicosi? normale adolescenza?)
-
-### Sintomo in età evolutiva (Winnicott)
-
-- **Bambino sano** → repertorio *flessibile* di sintomi; assenza totale di sintomi = raro, a volte "falso sé"
-- **Patologia** → sintomo rigido e limitante; non svolge più funzione evolutiva
-
-### Funzioni del sintomo
-
-- → Espressione della fatica di crescere (fisiologica)
-- → Richiesta verso l'ambiente di accudimento
-- → Tentativo di narrazione (simbolizzazione primitiva)
-- → **Doppio valore:** da ascoltare/interpretare + da curare/superare
+- **Media statistica** → normale = entro ±1σ dalla media (es. QI 85-115, BMI 18,5-24,9)
+  - Rischio: diventa prescrittiva, ignora la qualità
+- **Ideale** → normale = risponde alle attese di genitori/scuola/società
+  - Rischio: chi definisce l'ideale?
+- **Processo dinamico** → normale = adattivo, resiliente
+- **Assenza di malattia** → normale = non malato (definizione circolare)
 
 ---
 
-## Difficoltà della valutazione
+## Sintomo vs Segno
 
-- **No markers biologici** in psichiatria
-- **No sintomi patognomonici** (quasi nessun sintomo è specifico)
-  - Ansia → presente in quasi tutti i disturbi
-  - Anedonia → normale adolescenza / depressione / psicosi
-  - Dispercezioni → esordio psicotico / abuso sostanze / disturbo sonno
-- Sintomi "rumorosi" ≠ necessariamente più gravi
-- Sintomi "silenziosi" (negativi) → spesso prognosticamente peggiori
-- **75–90%** esperienze psicotiche subcliniche → transitorie (prevalenza ~5%)
+- **Sintomo** → manifestazione soggettiva riferita dal paziente
+- **Segno** → fenomeno oggettivo, misurabile dall'esterno
+- In psicoanalisi: sintomo = compromesso tra pulsione e difesa → **tentativo di guarigione**
+
+### Sintomo nel bambino (Winnicott)
+
+- **Bambino sano** → repertorio flessibile di sintomi
+- **Falso sé** → assenza totale di sintomi = segnale di allarme
+- **Patologia** → rigidità e limitazione nell'uso dei sintomi
+
+### Funzioni del sintomo in età evolutiva
+
+- Cerca organizzazione interna più adattativa
+- Richiesta verso i caregiver
+- Ricerca di significato (quando mancano simbolizzazioni mature)
+
+### Sintomi nelle fasi di transizione
+
+- Compaiono quando la fase evolutiva fa richieste elevate alla personalità
+- Possono traghettare transitoriamente il bambino oltre il periodo difficile
 
 ---
 
-## 4 assi della valutazione
+## Due difficoltà della psicologia clinica
 
-| # | Asse | Focus |
+- **Assenza di markers biologici** → nessun esame conferma la diagnosi
+- **Assenza di sintomi patognomonici** → quasi nessun sintomo è univoco
+
+| Sintomo | Diagnosi possibili |
+|---|---|
+| Ansia | Presente in quasi tutti i disturbi psichiatrici |
+| Anedonia | Adolescenza normale / depressione / psicosi |
+| Dispercezioni | Esordio psicotico / sostanze / disturbo del sonno |
+
+- ⚠️ Sintomi **silenziosi** (negativi) spesso più gravi di quelli rumorosi
+- 75-90% esperienze psicotiche subcliniche sono transitorie (prevalenza clinica ~5%)
+- **Pruning** neuronale → alleato della salute psichica nella maturazione
+
+---
+
+## I quattro assi della valutazione
+
+### 1. Asse Sindromico-Sintomatico
+
+**Area del corpo:**
+- Sfera oro-alimentare · sonno · controllo sfinterico · condotte sessuali · motricità
+
+**Area del comportamento:**
+- Alterazioni comportamentali · aggressività · affettività · cognizione · linguaggio · regolazione
+
+### 2. Asse Strutturale
+
+| Autore | Opera | Criteri diagnostici |
 |---|---|---|
-| 1 | **Sindromico** | Sintomi → quadro diagnostico provvisorio |
-| 2 | **Strutturale** | Organizzazione profonda della personalità |
-| 3 | **Evolutivo** | Sintomo = ostacolo o parte della crescita? |
-| 4 | **Ambientale** | Micro / meso / macrosistema |
+| **Bergeret** | *La personalità normale e patologica*, 1974 | Sintomi · difese · tipo di angoscia · relazione d'oggetto |
+| **Kernberg** | *Disturbi gravi della personalità*, 1984 | Sintomi · identità (integrazione/dispersione) · difese · esame della realtà |
+| **Palacio Espasa & Dufour** | Diagnosi strutturale in età evolutiva | Impressione generale · relazione con esaminatore · funzioni dell'Io · affetti · difese · pulsioni/fantasmi · Super-Io · immagine di sé |
 
-### Asse strutturale — autori
+Domanda chiave: sintomo = **in relazione** con la maturazione **oppure** ostacolo a essa?
 
-| Autore | Anno | Criteri |
-|---|---|---|
-| Bergeret | 1974 | Sintomi · Difese · Angoscia · Relazione d'oggetto |
-| Kernberg | 1984 | + Integrazione/dispersione identità · Esame della realtà |
-| Palacio Espasa & Dufour | — | Griglia adattata età evolutiva (impressione generale, funzioni dell'Io, affetti, difese, pulsioni, Super-Io, immagine di sé) |
+### 3. Asse Evolutivo
 
-### Asse evolutivo — linee di sviluppo
+**Regressioni e fissazioni:**
+- Tendenze regressive normali nei momenti di transizione
+- Si organizzano attorno a **punti di fissazione**
 
-**Bambino:**
+**Linee evolutive del bambino:**
 - Dipendenza → autonomia affettiva
-- Assenza controllo → controllo sfinterico
+- Assenza di controllo → pieno controllo sfinterico
 - Egocentrismo → socievolezza
 - Gioco autoerotico → oggetto transizionale → gioco simbolico
 
-**Adolescente (compiti):**
+**Compiti evolutivi dell'adolescente:**
 - Mentalizzazione del sé corporeo
 - Separazione-individuazione
 - Formazione di valori
 - Nascita sociale
 
-### Asse ambientale — livelli
+**Fenomeni normali spesso scambiati per patologia:**
+- Dismorfofobia lieve (corpo che cambia)
+- Condotte a rischio (appetenza evolutiva del cervello adolescente)
+- Fobie specifiche (~2 anni: emergono immaginazione e paure irrazionali)
+- Ossessioni circoscritte nella fase di latenza
 
-- **Microsistema** → esperienza diretta (famiglia, scuola)
-- **Livello intermedio** → contesti indiretti che influenzano il bambino
-- **Macrosistema** → cultura di riferimento
+### 4. Asse Ambientale
+
+- **Microsistema** → esperienza diretta: famiglia, relazione genitori-bambino, fantasie del genitore
+- **Mesosistema** → contesti indiretti che influenzano il bambino (es. rapporto scuola-famiglia)
+- **Macrosistema** → cultura, norme, valori di riferimento
 
 ---
 
-## Valutazione psicologica — iter
+## Processo di valutazione psicologica
 
 1. Richiesta di consultazione
 2. Anamnesi
-3. Incontri (genitori / bambino / interazione / gioco)
+3. Incontri (genitori · bambino · interazione · gioco/disegno · scuola)
 4. Esami strumentali
-5. Riflessione clinica
-6. Restituzione (ipotesi, prognosi, proposta terapeutica)
+5. Riflessione
+6. **Restituzione** → ipotesi diagnostiche · descrizione funzionamento unico · prognosi · proposta terapeutica
 
 ---
 
-## Strumenti psicometrici (esempi)
+## Caso James — Applicazione dei quattro assi
 
-| Strumento | Target |
+| Asse | Elementi rilevati |
 |---|---|
-| ADOS-2 | Spettro autistico |
-| NEPSY-II | Funzioni esecutive e neuropsicologiche |
-| WISC-V | Profilo cognitivo completo |
-| Conners 3 | ADHD |
-| CBCL | Aree internalizzanti / esternalizzanti |
+| Sindromico | Sonno disturbato, autoregolazione deficitaria, aggressività, quota ansiosa |
+| Strutturale | Sguardo sfuggente, umore deflesso, contenuti depressivi, inibizione con esplosioni |
+| Evolutivo | Gioco simbolico presente; immagine di sé centrata su bisogni primari |
+| Ambientale | Contesto sfavorito, padre assente, madre con disturbo di personalità borderline |
+
+**Diagnosi:** F92.9 (disturbo misto emozioni/condotta) + Z63.8 + Z59.1
+**Intervento:** psicoeducativo domiciliare + rete SPS + psicoterapia relazionale madre-bambino
 
 ---
 
-## Adolescenza — schema
+### Autori / Date / Riferimenti
 
-- **Definizione** → fase di transizione nella seconda decade; acquisizione caratteristiche adulte (fisiche, cognitive, sociali)
-- **Anna Freud (1964)** → oscillazioni tra estremi opposti = *normale* in adolescenza
-
-### Riti di passaggio (Van Gennep)
-
-- **Distacco** → separazione dallo status precedente
-- **Fase liminare** → soglia; transizione; angoscia; "corridoio tra due stanze"
-- **Aggregazione** → ingresso nel nuovo status
-
-**Oggi:** riti scomparsi/svuotati → passaggio privo di marcatori chiari → identità più difficile da costruire
-
-### Evoluzione modello familiare
-
-| Periodo | Modello | Meccanismo | Effetto in adolescenza |
-|---|---|---|---|
-| Anni '50–60 | Gerarchico/patriarcale | Regole rigide, punizione | Senso di colpa → elaborabile |
-| Post anni '60 | Narcisistico-relazionale | Promozione realizzazione figlio | Senso di fallimento identitario |
-| Trend attuale | Post-narcisistico | Gerarchia assottigliata | Confusione generazionale |
-
-**Paradosso contemporaneo:** troppe scelte + pochi confini = paralisi dell'identità
+| Chi | Cosa | Anno |
+|---|---|---|
+| Marcelli | 4 definizioni di normalità | 1999 |
+| Winnicott | Sintomo come espressione evolutiva | (via Philipps, 1989) |
+| Bergeret | Diagnosi strutturale | 1974 |
+| Kernberg | Criteri formali diagnosi strutturale | 1984 |
+| Palacio Espasa & Dufour | Griglia strutturale in età evolutiva | — |
+| Anna Freud | *Normalità e patologia del bambino* | 1969 (trad. it. 2003) |
 
 ---
 
 ### Parole chiave
 
-`sintomo` · `segno` · `norma statistica` · `patognomonico` · `anedonia` · `regressione` · `fissazione` · `asse sindromico` · `asse strutturale` · `asse evolutivo` · `asse ambientale` · `CBCL` · `fase liminare` · `Van Gennep` · `Winnicott` · `Bergeret` · `Kernberg`
+`sintomo` · `segno` · `norma statistica` · `falso sé` · `patognomonico` · `marker biologico` · `punto di fissazione` · `linee evolutive` · `regressione` · `anedonia` · `dismorfofobia` · `pruning` · `asse sindromico` · `asse strutturale` · `asse evolutivo` · `asse ambientale` · `Bergeret` · `Kernberg` · `Palacio Espasa` · `Winnicott`

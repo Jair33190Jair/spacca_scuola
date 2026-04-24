@@ -1,107 +1,97 @@
-# Introduzione al modulo di Salute Mentale — Sintesi
-Salute Mentale · Sessione 01
+# La Famiglia — Sintesi
+I Tempi della Vita · Sessione 05
 
-> Salute, benessere e normalità: tre parole che
-> sembrano semplici, ma non lo sono per niente.
-> Questa lezione smonta le certezze e costruisce
-> basi solide per tutto il modulo.
-
-## Struttura del modulo
-
-- Tre tappe: **clinica**, **mondo**, **corpo**
-- Attraversate da: spazio, tempo, identità,
-  incontro
-- L'operatore sociale come ponte tra discipline
-  specialistiche, non specialista di una sola
-
-## Salute: le 7 condizioni di Boorse (1977)
-
-Nessuna delle sette regge da sola:
-- **Valore** — non universale: contesti in cui
-  la malattia è "preferibile" esistono
-- **Trattamento medico** — la medicina colonizza
-  ambiti non patologici
-- **Norma statistica** — fuori dalla media ≠ malato
-- **Sofferenza** — malattie asintomatiche e
-  dolori fisiologici esistono
-- **Disabilità** — fasi di "non abilità" sono
-  normali nella vita (neonato, sonno)
-- **Adattamento** — l'uomo adatta anche l'ambiente
-  a sé, non solo il contrario
-- **Omeostasi** — la vita si fonda sulla rottura
-  e riconquista dell'equilibrio, non sull'equilibrio
-  statico
-
-## Disease, illness, sickness
-
-- **Disease** → dimensione biomedica (misurabile)
-- **Illness** → vissuto soggettivo della persona
-- **Sickness** → riconoscimento/stigma sociale
-- Le tre dimensioni possono non coincidere — e lo
-  stigma sociale peggiora l'andamento della malattia
-
-## Benessere: le 6 dimensioni di Ryff
-
-- **Autonomia** — autodeterminarsi senza dipendere
-  dagli altri per ogni scelta
-- **Controllo ambientale** — valorizzare le risorse
-  disponibili
-- **Relazioni positive** — relazioni calde, fiduciose,
-  reciproche
-- **Autoaccettazione** — consapevolezza di qualità
-  e limiti
-- **Percezione di crescita** — sentire di evolvere
-- **Scopo nella vita** — avere mete e dare senso
-
-Salute ≠ benessere. Si può stare bene senza essere
-in salute (Terzani) e male pur essendo "sani".
-Per l'operatore: queste dimensioni rendono il lavoro
-sul benessere *concreto e operativo*.
-
-## Tre tipi di normalità
-
-- **Statistica** — nella media; fuori dalla norma
-  porta stigma
-- **Di valore** — ideale irraggiungibile → sofferenza
-  perpetua; attenzione: anche i *nostri* ideali sugli
-  utenti possono diventare penalizzanti
-- **Personale** — rispetto a come funzionavo prima;
-  attenzione a non idealizzare il passato, e a non
-  considerare quella normalità come obiettivo se era
-  proprio lei la causa del problema
-
-## Posizione del soggetto verso la malattia
-
-Due assi: **identificazione** con la condizione ×
-**agentività** (attivo/passivo)
-
-- Passivo + non identificato → **delega** ("guariscimi")
-- Agentivo + non identificato → **guarigione** come
-  unico obiettivo
-- Agentivo + identificato → **cura**: lavora sul
-  benessere dentro la condizione
-
-Passaggio chiave: dalla guarigione alla cura.
-*To cure* ≠ *to care*: la cura è sempre possibile,
-anche quando la guarigione non lo è.
-
-## La tragedia greca
-
-- Dispositivo pedagogico parallelo al modulo
-- 5 gruppi, 5 tragedie per estrazione
-- Tappe: leggere → condividere → sintetizzare →
-  mettere in scena (~20 min)
-- Allena: ascolto di linguaggi non familiari, lavoro
-  di équipe, sintesi, capacità di rinuncia
-- Quest'anno tutte le tragedie convergono sulla
-  violenza sulle donne nei conflitti armati —
-  tema antico e attualissimo (Nadia Murad, Congo,
-  Iraq)
+> La famiglia non è più una sola cosa. È un ecosistema in trasformazione — e tu, come assistente sociale, ti troverai dentro ogni sua variante.
 
 ---
 
-**Da ricordare:** salute, benessere e normalità
-sono tre concetti distinti ma intrecciati. La cura
-è sempre possibile, anche quando la guarigione non
-lo è. Il contesto è fondamentale per interpretare
-qualsiasi comportamento.
+## Definizioni di famiglia
+
+- Nessuna definizione universale: i sociologi parlano oggi di **"famiglie"** al plurale
+- Lévi-Strauss: tre pilastri classici — proibizione dell'incesto, unione riconosciuta, divisione sessuale dei compiti
+- **Scabini & Cigoli:** la famiglia lega generi, generazioni e stirpi — ha la **generatività** come progetto centrale
+- **Delvecchio:** sistema complesso, non riducibile alla somma dei suoi membri
+- **Fruggeri:** non più istituzione, ma **unione di affetti**
+- Tipologie: nucleare, monoparentale, ricomposta, omo-genitoriale, adottiva, d'affido, procreazione assistita, LAT, DINKS, unipersonale
+
+---
+
+## Genitorialità: sguardo antropologico
+
+- **Esther Goody (1999):** cinque funzioni della genitorialità — concepire, nutrire, educare, dare identità, garantire l'accesso all'età adulta
+- Nelle nostre società, queste funzioni sono concentrate su padre e madre biologici; in altre culture, distribuite su più adulti
+- **Dissociazione contemporanea:** genitorialità biologica / istituzionale (giuridica) / domestica (cura quotidiana)
+- Il sistema occidentale ancora dominato da: **bilateralità, ideologia del sangue, esclusività**
+
+---
+
+## Evoluzione storica
+
+- **Tradizionale (XVI–XVIII sec.):** padre-padrone, donna e figli sottomessi, matrimonio = alleanza tra famiglie
+- **Moderna (fine XVIII – XX sec.):** padre affettuoso, bambino al centro; ma il codice napoleonico (1803) ristabilisce la potenza paterna
+- **Contemporanea (dal 1965):** crollo del modello patriarcale, valorizzazione dell'individuo, coniugalità "privatizzata", aumento divorzi
+
+---
+
+## Cambiamenti culturali nella transizione alla genitorialità
+
+*(Scabini & Cigoli, 2000)*
+
+1. **Si diventa genitori più tardi**
+2. **Avere figli è più raro** → seconda transizione demografica (calo fecondità)
+3. **Avere figli è una scelta** → dalla nascita come evento atteso alla nascita pianificata; il figlio come centro della realizzazione personale; dalla famiglia **etica** a quella **affettiva**
+4. **Aspettative paritarie** → le donne si aspettano un impegno condiviso del partner
+
+---
+
+## Il processo di accesso alla genitorialità
+
+*(Nanzer & Palacio Espasa)*
+
+- Nel **periodo perinatale** (concepimento – 2 anni post-parto), il genitore compie un intenso lavoro psichico
+- La donna attraversa la **"trasparenza psichica"**: extreme sensibilità, riemersione del passato
+- Il genitore rivisita la propria infanzia e le proprie imago genitoriali
+- Diventare genitore richiede **lutti di sviluppo**: rinunciare a immagini idealizzate di sé bambino e dei propri genitori
+- Se i lutti sono elaborati → la genitorialità è crescita; se non lo sono → il bambino viene usato inconsciamente per "riparare" il passato
+
+---
+
+## I quattro conflitti della genitorialità
+
+| Tipo | Meccanismo | Impatto sul bambino |
+|------|-----------|---------------------|
+| **Normale** | Identificazioni proiettive flessibili, bidirezionali, positive | Sviluppo sano |
+| **Nevrotica** | Il bambino è il "bambino ideale" che il genitore avrebbe voluto essere | Disturbi di separazione, sonno, alimentazione |
+| **Masochistica** | Il genitore si sottomette al bambino per espiare colpe del passato | Disturbi comportamentali, ansia |
+| **Narcisistica** | Proiezioni rigide e deformanti; diniego e scissione; pre-transfert negativo | Disturbi gravi dell'attaccamento, disturbi della personalità |
+
+---
+
+## I casi clinici
+
+### Myriam — "L'erede psicologica"
+- Bambina adottata (11 anni), triste, difficoltà scolastiche gravi
+- La madre aveva scelto l'adozione per sfuggire alla depressione ereditaria della propria famiglia — ma proietta su Myriam l'immagine della propria madre depressa
+- Myriam si identifica con la depressione materna per mantenere il legame con la madre
+- **Esito:** la madre si riappropria della propria depressione; Myriam migliora e si autonomizza
+
+### Régine — "Il sorriso di sollievo"
+- Bambina di 9 anni con grave angoscia da separazione
+- La madre (orfana di entrambi i genitori) proietta su Régine l'immagine della buona madre protettiva che lei non ha avuto
+- Régine porta il lutto della madre: non la lascia mai per non farla sentire abbandonata
+- **Esito:** un unico intervento terapeutico dissolve il sintomo; Régine, sollevata, organizza subito un soggiorno dalla cugina
+
+---
+
+## Plurigenitorialità e spazio psichico del bambino
+
+- I cambiamenti familiari bruschi mettono a rischio la **continuità narcisistica** del bambino
+- Fondamentale: **mettere in parole** quello che succede, ammettere la **bilinearità delle origini**
+- Rispettare lo spazio psichico = spiegare in modo misurato, accettare i sentimenti del bambino, dargli il diritto al segreto, aiutarlo a conservare i ricordi degli assenti
+
+---
+
+**Da ricordare:**
+- **Genitorialità** = processo psichico, non solo biologico; inizia nell'infanzia e si intensifica nel periodo perinatale
+- **Quattro livelli di conflitto** (normale, nevrotico, masochistico, narcisistico) — determinati dal grado di elaborazione dei lutti del genitore
+- **I casi Myriam e Régine** mostrano come il sintomo del bambino sia spesso il portavoce del conflitto irrisolto del genitore
