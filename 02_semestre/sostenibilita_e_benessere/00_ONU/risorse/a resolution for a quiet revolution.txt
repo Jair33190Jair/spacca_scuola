@@ -1,0 +1,2990 @@
+22/2013
+Discussion Paper
+A Resolution for a Quiet Revolution
+Taking the United Nations to Sustainable 
+Development ‘Beyond Aid’
+Pio Wennubst
+Timo Mahn
+
+---
+
+
+
+---
+
+A resolution for a quiet revolution 
+Taking the United Nations to sustainable  
+development ‘beyond aid’ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pio Wennubst 
+Timo Mahn 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bonn, New York 2013
+
+---
+
+Discussion Paper / Deutsches Institut für Entwicklungspolitik 
+ISSN 1860-0441 
+Die deutsche Nationalbibliothek verzeichnet diese Publikation in der Deutschen Nationalbibliografie; detail-
+lierte bibliografische Daten sind im Internet über http://dnb.d-nb.de abrufbar. 
+The Deutsche Nationalbibliothek lists this publication in the Deutsche Nationalbibliografie; detailed 
+bibliographic data is available in the Internet at http://dnb.d-nb.de. 
+ISBN 978-3-88985-603-6 
+Pio Wennubst is the team head for humanitarian and development affairs at the Permanent Representa-
+tion of Switzerland to the United Nations in New York. While he was managing a Swiss chemical 
+company in Africa, an eye-opening experience triggered a major career change. Mr Wennubst then 
+studied agro-economics at the University of Bologna and comparative rural development at INA in 
+Paris before joining the Swiss Federal Department of Foreign Affairs. He further expanded his know-
+how in the health and financial sectors while working as a development practitioner. He has broad ex-
+perience in research, teaching, policy dialogue, negotiations and coaching, and has acquired sectoral 
+expertise in public expenditure management and private-sector development. 
+Timo Mahn is a research fellow in the Bi- und Multilateral Development Cooperation department of 
+the German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE). He studied polit-
+ical science at the Free University of Berlin and international development management at George 
+Washington University in Washington, D.C. Mr Mahn worked for the World Bank, KFW, the German 
+development bank and the German Embassy in Kigali before joining the DIE. In addition to the United 
+Nations, his research interests include international organizations, public financial management, aid 
+modalities and aid architecture. 
+E-mail:  
+timo.mahn@die-gdi.de 
+Disclaimer 
+The views expressed here are solely those of the authors. 
+© Deutsches Institut für Entwicklungspolitik gGmbH 
+Tulpenfeld 6, 53113 Bonn 
+ +49 (0)228 94927-0 
+ +49 (0)228 94927-130 
+E-Mail: die@die-gdi.de 
+www.die-gdi.de
+
+---
+
+Authors’ preface 
+The idea to write this discussion paper was largely triggered by two events in the fall of 
+2012. The United Nations (UN) Conference on Sustainable Development (‘Rio+20’) had 
+just adopted its outcome document in Rio de Janeiro, while in New York UN Member 
+States were in the middle of the Quadrennial Comprehensive Policy Review (QCPR) pro-
+cess that culminated in the QCPR Resolution of 2012, in December.  
+This paper seeks to make an informed contribution to the Member States’ debate. Need-
+less to say, many limitations are associated with such an endeavour, among them, timing. 
+At the time of publication, numerous reform processes – in particular that for the post–
+2015 agenda – were ongoing, whose outcomes we cannot predict and which at times have 
+required us to keep our argument more general. However, this proposal is fully in line 
+with the ongoing discussions. 
+For purposes of full disclosure: Pio Wennubst previously served as facilitator for negotiat-
+ing the QCPR resolution at the Permanent Mission of Switzerland to the United Nations. 
+To reflect on that experience, he spent 15 days in March/April 2013 as a guest researcher 
+at the German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE), 
+where co-author Timo Mahn works as a research fellow in a project about the UN Devel-
+opment System (UNDS). This discussion paper results from our joint research effort and 
+expresses our own views.  
+Bonn and New York, August 2013   
+ 
+ 
+      Pio Wennubst / Timo Mahn
+
+---
+
+
+
+---
+
+Contents 
+Abbreviations 
+Executive summary 
+1 
+1 
+Introduction 
+5 
+2 
+The QCPR as a system-wide strategy 
+6 
+2.1 
+The basic set-up and evolution from the TCPR to the QCPR 
+6 
+3 
+‘Sustainable development’ as a system-wide mandate 
+9 
+3.1 
+Policy implications for the UNDS 
+10 
+3.2 
+The quest for a system-wide guiding mandate 
+14 
+4 
+A ‘quiet revolution’ towards a cohesive UNDS 
+17 
+4.1 
+The UNDS and system-wide cohesion 
+17 
+4.2 
+A system-wide message from Member States 
+19 
+4.3 
+Elements of the quiet revolution 
+21 
+4.3.1 
+Oversight 
+23 
+4.3.2 
+Management 
+25 
+4.3.3 
+Delegation of authority 
+26 
+4.3.4 
+Accountable partnerships 
+28 
+4.3.5 
+The harmonization of business practices 
+29 
+5 
+System-wide funding ‘beyond aid’ 
+30 
+5.1 
+The system-wide funding dilemma 
+31 
+5.2 
+Proposal for a system-wide funding mechanism 
+33 
+6 
+Conclusions 
+34 
+6.1 
+A feasible evolution in the QCPR cycle 
+35 
+6.2 
+Outlook 
+37 
+Bibliography 
+39
+
+---
+
+Annex  
+43 
+Annex 1: 
+Categorization – addressees of CPR resolutions 
+45 
+Annex 2:   
+UNDS entities 
+50 
+Figures 
+Figure 1: 
+Addressees of TCPR/QCPR resolutions by different actors 
+20 
+Figure 2:   
+A quiet revolution in the UNDS 
+22 
+Figure 3:   
+The QCPR cycle 
+36 
+Tables 
+Table 1:  
+The role of the UNDS in the new paradigm 
+14 
+Table 2:  
+The evolution of addressees of TCPR/QCPR resolutions over time 
+20 
+Boxes 
+Box 1: 
+QCPR Basics 
+7 
+Box 2:  
+ 
+Complex negotiations and the case of the 2012 QCPR Resolution 
+8 
+Box 3:  
+ 
+‘Sustainable development’ in practice 
+12 
+Box 4:  
+ 
+Initiatives of the Secretary-General 
+29 
+Box 5:  
+ Support for countries in transition under the system-wide funding  
+mechanism 
+34
+
+---
+
+Abbreviations 
+CEB 
+Chief Executives Board for Cooperation 
+CPC 
+Committee for Programme and Coordination 
+CPR 
+Comprehensive Policy Review 
+DaO 
+Delivering as One 
+DESA 
+Department of Economic and Social Affairs 
+DIE 
+German Development Institute / Deutsches Institut für Entwicklungspolitik  
+DOCO 
+UN Development Operations Coordination Office 
+ECOSOC 
+Economic and Social Council 
+ERP 
+Enterprise Resource Planning 
+GA 
+General Assembly 
+GNH 
+Gross National Happiness  
+HLCM 
+High-level Committee on Management 
+HLCP 
+High-level Committee on Programmes 
+HLM 
+high-level meeting 
+HLPF 
+High-level Political Forum 
+ICT 
+Information and Communications Technology 
+JIU 
+Joint Inspection Unit 
+MDG 
+Millennium Development Goals 
+ODA 
+official development assistance 
+OESC 
+Office for ECOSOC Support and Coordination 
+OP 
+operational paragraph 
+PGA 
+President of the UN General Assembly 
+QCPR 
+Quadrennial Comprehensive Policy Review 
+RC 
+resident coordinator 
+SDG 
+Sustainable Development Goals 
+SG 
+Secretary-General 
+TCPR 
+Triennial Comprehensive Policy Review 
+UN 
+United Nations 
+UNDAF 
+United Nations Development Assistance Framework 
+UNDG 
+United Nations Development Group  
+UNDP 
+United Nations Development Programme 
+UNDS 
+United Nations development system 
+UNITAR 
+United Nations Institute for Training and Research 
+UN Women United Nations Entity for Gender Equality and the Empowerment of Women
+
+---
+
+
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+1 
+Executive summary 
+Introduction 
+Taking the Quadrennial Comprehensive Policy Review (QCPR) as a starting point, this 
+paper contributes to the broader debate about the future of the United Nations development 
+system (UNDS). The General Assembly (GA) conducts the QCPR every four years to  
+evaluate the UNDS’s effectiveness and efficiency and provide policy guidance for the 
+whole system. It then produces a negotiated resolution outlining how the UNDS should 
+function. This paper suggests how the QCPR could realise a ‘quiet revolution’ using fun-
+damental yet achievable reforms to instill a system-wide perspective in the UNDS. The aim 
+is to align the UNDS with the requirements after the Millennium Development Goals 
+(MDGs) expire in 2015, when the new framework will be oriented around the Sustainable 
+Development Agenda. It responds to four questions: 
+ 
+What is the future role of the UNDS? 
+ 
+How will the system function, and in which form? 
+ 
+What means are needed to fulfil this role? 
+ 
+What process must be followed to implement this proposal?  
+The QCPR as a system-wide strategy 
+The QCPR has evolved into a key vehicle for making system-wide reforms. It produces the 
+only resolution that addresses the whole system instead of just the parts, enjoys strong legit-
+imacy and garners widespread support. The landmark QCPR Resolution of 2012 is a case in 
+point. For some entities, QCPR resolutions are mandatory; for others, adoption is voluntary. 
+Since it was first established, the QCPR has come to fulfil three basic functions: a) ensuring 
+that the UNDS operates in conformity with Member State priorities, b) serving as a system-
+wide monitor of operational activities for development and c) providing policy guidance for 
+the UNDS. 
+Each QCPR resolution provides policy guidance for UNDS operations – how to conduct 
+development cooperation. QCPR resolutions also contain substantial guidance in terms of 
+mandates (the what), although most of the system-wide mandate originates elsewhere.  
+‘Sustainable development’ as a system-wide mandate 
+The Sustainable Development Agenda represents a paradigm shift in global thinking about 
+development. In the Rio+20 outcome document, Member States confirmed its crucial im-
+portance for the UNDS, but gave no specifics. However, it is possible to identify a number 
+of policy implications in the Sustainable Development Agenda: 
+ 
+It is generally applicable in every country – due to the increasingly global nature of 
+development challenges. 
+ 
+It calls for action on significantly longer time horizons than in the past. 
+ 
+It requires joint efforts by the public and private sectors as well as by individuals.
+
+---
+
+Pio Wennubst / Timo Mahn 
+2 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+ 
+‘Silo’ approaches and structures are no longer deemed adequate because rapid increas-
+es in knowledge-sharing boost interconnectivity and interdependence. 
+ 
+It entails a fundamental transformation of development cooperation going ‘beyond aid’. 
+ 
+Making it operable is mostly a matter of setting and adjusting regulatory frameworks to 
+facilitate equitable and sustainable access to livelihood assets for all. 
+The UNDS seems to be well positioned to play a key role in implementing the Sustainable 
+Development Agenda:  
+ 
+The ‘universal nature’ of UNDS operational activities means it services all countries. 
+ 
+UNDS multilateral collaboration perpetuates joint endeavours over extended periods of 
+time, as exemplified by the MDGs.  
+ 
+The UNDS has demonstrated its convening power by forging partnerships and uniting 
+different stakeholders to address common challenges. 
+ 
+The greatest asset of the UNDS is its input legitimacy. This creates global acceptability 
+for its outputs and services and a unique level of credibility. 
+Given this background, it seems appropriate for the UNDS to become the key actor to sup-
+port implementation of the new paradigm on the basis of a system-wide mandate to be  
+adopted by Member States. Its special role is seen as addressing the ‘normative gap’ in 
+practical support for the transition to the new paradigm, especially creating and operational-
+izing a normative foundation to guide operations.  
+However, the UNDS suffers from having a blurry profile. The UN Charter broadly defines 
+the organization’s purpose in development, which has been further defined by Member 
+States through the various executive boards of individual UNDS entities. Since 2000, the 
+MDGs have served as the overarching UNDS guidepost, although they are not specific to 
+the UNDS. QCPR resolutions have evolved as a further source of substantive guidance – 
+through practice, not design. There is no organic link to operations because only fragments 
+of a negotiated system-wide mandate exist. Therefore, any post–2015 framework will re-
+quire a system-wide interpretation explaining the UNDS’s respective purpose and how it 
+complements other actors.  
+At present, there is strong momentum for change within the UNDS. A key reform process 
+includes the new High-level Political Forum (HLPF), which offers opportunities for 
+Member States to provide the UNDS with a system-wide mandate to fill gaps left by the 
+expiring MDGs. The HLPF could serve to anchor the UN’s specific contribution to im-
+plementation of the Sustainable Development Agenda, thus strengthening the link be-
+tween mandate and operations. That way, the HLPF would set the boundaries for the 
+functioning of the UNDS. 
+A ‘quiet revolution’ towards a cohesive UNDS 
+As a holistic, transformational and global concept, the Sustainable Development Agenda 
+calls for new cohesiveness within the UNDS. The UNDS’s compartmentalised structure is a 
+historical consequence of ‘functionalism’. The MDGs also basically followed a ‘functional-
+ist’ logic of compartmentalising development challenges in various functional sectors and
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+3 
+associated target groups. This was okay for the UNDS’s conventional institutional arrange-
+ment, but is not suited for the Sustainable Development Agenda as a system-wide mandate. 
+In fact, the lack of coherence may be limiting the system’s ability to exploit crucial syner-
+gies that define the Sustainable Development Agenda. In order to maintain the UNDS’s 
+prominent role in international development architecture, its normative and operational 
+arms may need a much tighter fit.  
+The UNDS is transitioning towards greater system-wide cohesion, largely stipulated by the 
+High-level Panel on System-wide Coherence in 2006. The current state of affairs could be 
+described as a ‘mixed system’ that exhibits elements of system-wide orientation alongside 
+agency-specific organizational models. Member States have been using the QCPR as one of 
+the main ‘organs’ to advocate system-wide cohesion. Analysis of QCPR resolutions shows 
+that nearly 70 per cent of the mandates now concern the whole UNDS; fewer mandates re-
+late to individual parts.  
+Preparing the UNDS for the paradigm shift to Sustainable Development requires further 
+reforms to address the remaining discrepancies. Because various aspects of the UNDS are 
+linked, changing operational structures necessitates additional measures to strengthen sys-
+tem-wide oversight and mechanisms for management. A quiet revolution of incremental 
+reforms to strengthen incentives, transparency and accountability is more feasible than a 
+big-bang approach. This entails ECOSOC becoming a centre of oversight and functioning 
+as a system-wide executive board within the UNDS. Under the Chief Executive Boards 
+for Coordination (CEB), its interlocutor on the inter-agency side, the United Nations De-
+velopment Group (UNDG), would assume a system-wide managerial function for 
+ECOSOC. The UNDS should step up its efforts to decentralise so as to be able to respond 
+to challenges in individual countries, and a revamped UN Development Assistance 
+Framework (‘UNDAF+’) should become the main country-level programming tool, ac-
+companied by resident coordinators (RCs) with more managerial functions. Contributions 
+made by the UNDS and private stakeholders to the UN Secretary-General’s partnership 
+initiatives also need to be clarified. Finally, harmonized business practices are needed to 
+make the UNDS more cohesive. 
+System-wide funding – ‘Beyond Aid’ 
+The existing funding system of the UNDS could be characterised as ‘headquarter centred’ 
+and ‘agency oriented’, and although suitable for a traditional institutional setting, it appears 
+to have reached the limit of structural growth. The QCPR analysis shows Member States 
+want demand-driven, systemic funding. The thematic initiatives of the Secretary-General 
+(SG), which go beyond the UNDS’s current scope and means, can be seen as an indication 
+of the growing demands placed on the UNDS. Establishing a system-wide mandate requires 
+strengthening institutions that is optimally achieved through a reformed funding mechanism 
+to incentivise coherence and speed up results-delivery. Since a system-wide mandate to 
+implement the Sustainable Development Agenda implies varying degrees of support for all 
+countries, the funding mechanisms will have to go ‘beyond aid’ to receive additional sup-
+port from sources other than the usual official development assistance (ODA). Member 
+States must commit themselves to broadening and diversifying the UNDS funding basis 
+‘beyond aid’ through innovative means.
+
+---
+
+Pio Wennubst / Timo Mahn 
+4 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+Conclusions 
+Harmonizing the strategic plans with the four-year QCPR cycle has prepared the UNDS for 
+strategic guidance. But there are no means for reconciling a system-wide mandate for the 
+UNDS with the functioning and funds for implementation. QCPR resolutions are the right 
+vehicle and instrument to give the UNDS a new sense of purpose and direction as it adapts its 
+business model from aid to sustainable development. Member States should therefore up-
+grade the QCPR to a system-wide strategy, or a ‘QCPR+’ that links the system-wide what to 
+the how and the means – similar to a corporate strategy in the business world.
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+5 
+1 
+Introduction 
+Beginning with the Quadrennial Comprehensive Policy Review (QCPR), this paper con-
+tributes to the broader debate about the future of the United Nations development system 
+(UNDS). It sketches how Member States could use the QCPR to create a ‘quiet revolu-
+tion’ within the UNDS to align it with the new requirements after the Millennium Devel-
+opment Goals (MDGs) expire in 2015 and are replaced by a new framework guided by the 
+Sustainable Development Agenda, which grew out of the Rio and Rio+20 summits.  
+The United Nations General Assembly (GA) conducts a QCPR every four years “to eval-
+uate the effectiveness and efficiency of the United Nations development system’s support 
+[...] in the context of the UN development agenda” and on that basis, “to provide policy 
+guidance for the UNDS”.1 In short, Member States use the QCPR resolution to tell the 
+UNDS how to function.  
+The Sustainable Development Agenda, on the other hand, compels the international com-
+munity to adopt an alternative model of development that reconciles economic, social and 
+environmental issues so as to not compromise the livelihoods of future generations.  
+We consider that both the Sustainable Development Agenda and the QCPR resolutions – 
+especially their latest reiteration in 2012 – herald important changes for the future of the 
+UNDS. This paper is about establishing what we consider to be the missing link between 
+the agenda and the resolutions.  
+In the past, Member States used the QCPR to make iterative reforms aimed at instilling a 
+system-wide2 perspective in the UNDS, where a largely entity-centred logic had prevailed. 
+We refer to this process as the ‘quiet revolution’. The QCPR has become a key platform to 
+debate the future of the UNDS, so throughout this paper we refer to the QCPR. Its basic 
+set-up, evolution and functioning is outlined in Chapter 2. The remainder of the paper re-
+sponds to the following questions: 
+ 
+What is the future role of the UNDS? (Chapter 3) 
+ 
+How will the system function, and in which form? (Chapter 4) 
+ 
+What means are needed to fulfil this role? (Chapter 5) 
+ 
+What process must be followed to implement this proposal? (Chapter 6)   
+ 
+ 
+                                                           
+1  
+According to standard usage, the United Nations development system consists of the 37 UN agencies, funds 
+and programmes that collectively engage in “operational activities for development”. These ‘operational ac-
+tivities’ include both activities primarily aimed at long-term development and short-term humanitarian relief 
+measures (compare UNSG 2012a). 
+2  
+In this paper, the point of reference for the term ‘system-wide’ is the UNDS.
+
+---
+
+Pio Wennubst / Timo Mahn 
+6 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+2 
+The QCPR as a system-wide strategy 
+Past QCPR resolutions have shaped the UNDS in myriad ways, and evolved into an im-
+portant way to introduce system-wide reforms because the QCPR is the only (remaining) 
+resolution that addresses the whole system and is widely supported by UN members. The 
+landmark 2012 QCPR Resolution showed that complex negotiations can be successfully 
+completed – and foment a quiet revolution to create system-wide perspective in the UNDS.  
+2.1 
+The basic set-up and evolution from the TCPR to the QCPR 
+The resolutions of the Quadrennial Comprehensive Policy Review of UN operational activi-
+ties for development (QCPR) fulfil a key function for the UNDS intergovernmental govern-
+ance. The QCPR is the mechanism through which the GA  
+“… assesses the effectiveness, efficiency, coherence and impact of UN operational 
+activities for development and establishes system-wide policy orientations for the de-
+velopment cooperation and country-level modalities of the UN system in response to 
+the evolving international development and cooperation environment.” 3 
+The review process associated with QCPR resolutions includes a more evaluative and 
+backward-looking dimension, as well as a more prescriptive and forward-looking dimen-
+sion (UNSG 2012c). A third basic function was outlined in the seminal ‘restructuring’ 
+resolution of 1977. While that resolution mandated the Economic and Social Council 
+(ECOSOC) to carry out such policy reviews, it defined the scope of these reviews by spec-
+ifying “the need for balance, compatibility and conformity with the priorities established 
+by the General Assembly for the system as a whole”.4 These sources can be used to sum-
+marise the functions of the QCPR resolution as follows:  
+ 
+to ensure compatibility and conformity with the priorities established by the GA, 
+ 
+to serve as a system-wide monitor of operational activities for development, and  
+ 
+to serve as the main instrument for UN Member States to provide policy guidance for 
+the UNDS.  
+Each QCPR process helps to focus attention – at both the central and field levels – on 
+maintaining system-wide compatibility and conformity under GA guidance. QCPR resolu-
+tions enjoy high status because only through them can Member States provide system-
+wide guidance and address matters that affect and concern the UNDS as a whole. For 
+formal reasons, however, QCPR resolutions are only mandatory for those entities that re-
+port to the GA,5 while specialized agencies’ adherence is recommended.  
+                                                           
+3  
+Compare the webpage of the UN Secretariat’s Department for Economic and Social Affairs, 
+www.un.org/esa/coordination/tcpr.htm (accessed 19 May 2013).  
+4  
+UN Doc. A/RES/32/197 of 20 Dec. 1977.  
+5  
+These are: the UNDP (including UNCDF and UNV), UNICEF, UNFPA, WFP, UNHCR, UNODC, 
+UNCTAD (including ITC), UNRWA, UN Women, UNEP and UN Habitat, all of which report to the Gen-
+eral Assembly; the research and training institutions: UNICRI, UNIDIR, UNITAR, UNRISD, UNSSC and 
+UNU; and UNAIDS, UNISDR and UNOPS (UNS 2012). See Annex 2.
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+7 
+Each QCPR resolution aims to provide the UNDS with policy guidance for its operations 
+(the how of development cooperation). By customary evolution, the QCPR resolutions 
+also contain substantial guidance in terms of mandates (the what). The bulk of the system-
+wide mandate, however, emanates elsewhere.6  
+Traditionally, the Group of 77 (G–77) takes into consideration the Secretary-General’s 
+reports and recommendations and produces an initial draft that is negotiated in a series of 
+readings, just as in any other negotiation process. QCPR resolutions have weight because 
+they represent negotiations in the GA’s Second Committee endorsed by the Plenary Ses-
+sion – a sign of Member States’ consensus (compare Box 2).  
+Given this function, QCPR resolutions have become one of the most important instru-
+ments of UNDS intergovernmental governance. From a system-wide perspective, the doz-
+en reviews conducted thus far have had greater impact than most other comparable in-
+struments, including the system-wide coherence process that was begun in 2006.  
+The QCPR Resolution of 2012 marks the 35th anniversary of the instrument that was con-
+ceived by a group of experts to reform the UN's economic and social engagement for the 
+Ad Hoc Committee on the Restructuring of the Economic and Social Sectors of the United 
+Nations System (created by Member States in 1975). The experts’ report recommended a 
+regular Comprehensive Policy Review (CPR) – so QCPR resolutions can be termed a by-
+product of the ECOSOC reform process.  
+Starting in 1980, the CPR was conducted every three years, leading to a resolution called 
+the Triennial Comprehensive Policy Review (TCPR). Then, in 2007, it was decided to 
+conduct the exercise every four years in order to align the business cycle with the process 
+of developing strategic plans for funds and agencies, and the name was changed to the 
+Quadrennial Comprehensive Policy Review (QCPR). Now the strategic plans and their 
+four-year perspectives correspond to the QCPR cycle, and the QCPR guides the develop-
+ment of strategic plans by the UN system organizations. 
+Box 1: 
+QCPR Basics 
+Binding adherence: QCPR resolutions are binding for 14 funds and programmes, six research and train-
+ing institutions and three other entities. 
+Voluntary adherence: The resolutions are non-binding for all specialized agencies.  
+Functions: System-wide monitoring; ensuring UNDS conformity with General Assembly (GA) priorities; 
+providing policy guidance 
+Addressee: The UNDS (various parts) 
+Draft of the Resolution: Normally prepared by the G–77 
+Negotiations: General Assembly Second Committee  
+Preparation: Preparatory reports by DESA; procedural resolutions in the GA Second Committee in the 
+three years between substantive QCPRs  
+Adoption: By consensus 
+Period: A substantive QCPR takes place every four years, although mandates (operative clauses) specify 
+different timelines for action 
+Source: 
+Authors 
+                                                           
+6  
+Compare with Section 3.2.
+
+---
+
+Pio Wennubst / Timo Mahn 
+8 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+From its modest beginning in 1980, the instrument has evolved into the main instrument 
+used by Member States to provide system-wide policy guidance for the UNDS. In the pro-
+cess, it has acquired significant legitimacy and clout, largely because it has become stand-
+ard practice for Member States to negotiate CPR results in the General Assembly (GA) by 
+seeking consensus.  
+Given its implications for the whole system, initially the new instrument met with scepti-
+cism, including from the governing councils of the specialized agencies in the UNDS. 
+Tension between funds and programmes, for whom adherence is mandatory, and special-
+ized agencies, which are frequently requested to conform to resolutions but are not legally 
+required to do so, continues to this day. The planning cycles of all funds and programmes 
+as well as a number of specialized agencies are now aligned with the QCPR cycle, mean-
+ing that the negotiation of the strategic plans of all funds and programmes follows the year 
+after the QCPR.  
+The CPR process was envisioned as a shared responsibility of the GA and ECOSOC, with 
+the latter conducting the informed review and the former issuing the respective resolution 
+(Permanent Mission of Switzerland to the UN 2013a). As outlined in Resolution 32/197:  
+“In discharging these responsibilities, the Economic and Social Council should bear in 
+mind the importance of assisting in the preparation of the work of the General Assembly 
+in the economic, social and related fields so that the Assembly may give timely and effec-
+tive attention to the substantive issues requiring consideration by the Assembly […]. 
+The TCPR/QCPR resolutions have greatly evolved over 35 years, not least in terms of the 
+convolution of the subject matter, the scope of the issues, the depth of the preparatory pro-
+cess and the complexity of the negotiation process (compare Box 2). 
+Box 2: Complex negotiations and the case of the 2012 QCPR Resolution7 
+As the history of UNDS reforms shows, it is difficult to forge intergovernmental consensus by negotia-
+tion. However, the negotiations of the 2012 QCPR Resolutions indicate that challenges can be overcome. 
+The 2012 QCPR Resolution8 is considered to have landmark status because the far-reaching changes it 
+endorses signal that Member States consider enhancing system-wide coherence to be an important strate-
+gy for making the UNDS more relevant and effective. Although misgivings about multilateral action are 
+increasing, the QCPR process sends a powerful message that intergovernmental agreement is achievable: 
+complex negotiations are possible among 193 Member States.  
+A recent assessment of the process showed that thorough preparatory work, a structured and transparent 
+negotiation process and proper technical support during negotiations can enable Member States to reach 
+broad consensus – even on complex and sensitive issues. Once the 2012 QCPR Resolution had been ne-
+gotiated, Member States formulated lessons factors that were crucial for its success. Stakeholders empha-
+sised the importance of three key elements for informed decision-making throughout the negotiation pro-
+cess: trust, transparency and timely access to technical knowledge. 
+ 
+                                                           
+7  
+This box draws on a series of internal papers that were prepared by the Permanent Mission of Switzerland to 
+the United Nations in the run-up to the QCPR negotiation process, an internal summary of a workshop on 
+the lessons learned from the QCPR that was organized by the Friedrich Ebert Foundation in February 2013, 
+as well as the facilitator’s personal notes (Permanent Mission of Switzerland to the UN 2013b; Permanent 
+Mission of Switzerland to the UN 2013c; Permanent Mission of Switzerland to the UN 2013d; Permanent 
+Mission of Switzerland to the UN 2013e; Permanent Mission of Switzerland to the UN 2013f; and Perma-
+nent Mission of Switzerland to the UN 2013g).  
+8  
+UN Doc. GA/RES/67/226 of 22 Jan. 2013.
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+9 
+Box 2 (cont.): 
+Complex negotiations and the case of the 2012 QCPR Resolution 
+The resolution’s preliminary phase lasted nearly a year  with a meticulous preparatory process coordinated 
+by the UN Department of Economic and Social Affairs (DESA) to deepen understanding of the subjects by 
+providing data, overviews of specific country programmes and technical support in the form of studies, 
+evaluations, reports and recommendations. A series of training courses held by the UN Institute for Training 
+and Research (UNITAR) acquainted participants with the complex QCPR environment and presented new 
+information. A series of dialogues on substantive matters was organized by the President of the General 
+Assembly (PGA), and a series of very informal breakfasts was held to exchange ideas and introduce prag-
+matic perspectives from countries that are confronted by some of the most challenging issues. 
+During the negotiation process itself, it was necessary to designate a facilitator to be fully engaged 
+throughout the negotiating process and set up a team to create the proper environment for two months of 
+stressful, nearly full-time, negotiations. All negotiators agreed that the following factors were crucial for 
+ensuring a transparent, informed and trustworthy process: 
+– a structured format, 
+– windows for specific thematic dialogues in the most challenging areas, 
+– preparatory sessions to reduce redundancies and provide background knowledge, and  
+– technical support in situ for the first and second readings prior to the negotiations.  
+To avoid parallel sessions and ensure adequate preparation time for the negotiators, especially those rep-
+resenting groups, the facilitator continuously communicated changes of sequence. QCPR resolutions 
+proved too complex to be negotiated in the usual linear fashion. 
+It was also necessary to regularly remind participants that no alternative text would be prepared or intro-
+duced because the legitimacy of a resolution adopted by Member States to address an operational system is 
+directly proportional to its degree of consensus. Space also had to be created for Member States to conduct 
+negotiations in a serene atmosphere, strictly respecting the character of closed informal sessions (Permanent 
+Mission of Switzerland to the UN 2011). With all the other elements needed for informed decision-making 
+in place, at times the legislative and executive functions within the UNDS must be separated.  
+Some trivial factors, such as establishing an enabling environment by making rooms available, respecting 
+schedules, communicating in a timely manner, providing food and beverages, including for late-evening 
+sessions, were also important. All participants appreciated the timely conclusion of the negotiations. 
+Some regret was voiced regarding just how far Member States could have gone to reach consensus about 
+issues like governance and aid effectiveness, considered by some representatives to have had the potential 
+to reach positive conclusions. QCPR resolutions are said to have high legitimacy because they represent a 
+collective choice to balance concrete measures that further consolidate and build on previous achieve-
+ments with launching potentially volatile reform processes. 
+Source: 
+Authors 
+3 
+‘Sustainable development’ as a system-wide mandate 
+The Sustainable Development Agenda constitutes a shift of paradigm that implies recogni-
+tion of shared responsibilities and global applicability as well as a massive need for both 
+intellectual and financial investments – from defining new regulatory frameworks to im-
+plementing them. Although they need to be adapted to different contexts, they concern all 
+countries and people. The Sustainable Development Agenda extends beyond the usual 
+practice of development aid to involve all segments of societies. The following section 
+discusses policy implications of the Sustainable Development Agenda for the UNDS. The 
+final section recommends a new system-wide role for the UNDS based on a new system-
+wide mandate in light of the current fragmented, overarching mandate.
+
+---
+
+Pio Wennubst / Timo Mahn 
+10 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+3.1 
+Policy implications for the UNDS 
+“It has long been obvious that key socio-economic processes which operate beyond any 
+one state's control should be managed by international bodies representing the interests 
+of all states.” (Childers / Urquhart 1994, 17) 
+While the label has sometimes been misused to get attention and support for niche issues, 
+the ‘Sustainable Development Agenda’ clearly constitutes a paradigm shift in global 
+thinking on development. Seeing that the current usage of resources compromises the abil-
+ity of future generations to meet their needs (World Commission on Environment and De-
+velopment 1987), it introduces an alternative model to reconcile the economic, social and 
+environmental aspects of development (UN Conference on Environment and Development 
+1992). The Sustainable Development Agenda constitutes a “game-changer” in global de-
+velopment cooperation (Rochester 1993).  
+Since 1987, when the World Commission on Environment and Development introduced 
+the Sustainable Development Agenda, it quickly became established in debates at the UN 
+and elsewhere. Within a few years, the Sustainable Development Agenda was featured at a 
+major UN conference that was attended by record numbers of heads of state. More recent 
+proposals and thinking, such as the “water-energy-food nexus” (Hoff 2011), the “safe and 
+just space for humanity” (Raworth 2012) or the “approaching great transformation” of a 
+post-carbon economy (Magnuson 2013), have enhanced the original concept, while the 
+assertion of the ‘Anthropocene’ epoch of the earth system has served as a grave reminder 
+to sceptics of the global impact of human action (Steffen / Crutzen / McNeill 2007). Final-
+ly, the notion that humanity transgresses “planetary boundaries” (Rockstrom et al. 2009) 
+has instilled a new sense of urgency in the debates.  
+A number of general policy implications can be identified (see Table 1 for a summary). 
+ 
+One of the most salient features of the new paradigm is that it is applicable to every 
+country because of the increasingly global effect of phenomena such as population 
+growth, inequality, trans-boundary security threats, loss of biodiversity, water short-
+ages and volatile financial markets.  
+ 
+The Sustainable Development Agenda calls for action on time horizons that are much 
+longer than those commonly associated with development thinking. It often requires 
+action over several human generations – largely surpassing the decade or two that po-
+litical leaders generally hold office. 
+ 
+If humanity wants to ensure future generations decent lives, collective action is        
+urgently needed to address imbalances in accessing livelihood assets,9 both in terms 
+of equity and sustainability. Making sustainable development tangible requires joint 
+efforts by the public and private sectors, as well as by individuals. Everyone must 
+                                                           
+9  
+A livelihood is a combination of the resources used and the activities undertaken by a household to provide 
+sustenance for its members. ‘Resources’ include individual skills and abilities (human capital), land, savings 
+and equipment (natural, financial and physical capital) and social support structures, such as formal support 
+groups or informal networks that assist in the activities undertaken (social capital). A livelihood is sustaina-
+ble when it can cope with and recover from shocks and maintain its capabilities and assets without depleting 
+its natural resource base.
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+11 
+contribute toward achieving a development model that does not overstep planetary 
+boundaries.  
+ 
+Communications technology, the Internet and social media are causing a massive and 
+rapid increase in global knowledge-sharing that creates stronger interconnectivity and 
+interdependence; ‘silo’ and disconnected approaches and structures are no longer ap-
+propriate.  
+ 
+The Sustainable Development Agenda entails a fundamental transformation of global 
+development cooperation to go ‘beyond aid’. Global trends in economic, social and en-
+vironmental investments reveal great reductions in the ODA component as a fraction of 
+the total financial flows to developing countries almost everywhere, meaning that there 
+are fewer fields of intervention where only development practitioners are active.  
+ 
+The Sustainable Development Agenda must set the stage for societal changes that 
+happen through generalizing tested innovative approaches. Regulatory and normative 
+frameworks must be drafted; usually this is the responsibility of the public sector. 
+Human beings learn quickly and adapt their behaviour to contextual changes. In orga-
+nized societies, de facto or de jure regulatory frameworks typically define the context. 
+In terms of sustainable development, de facto regulations are usually limits set by 
+natural laws, while de jure regulations define the degrees of intervention of regulators 
+to impose, incentivise, permit, discourage or prohibit actions to guide personal behav-
+iour, often in anticipation of a de facto rule.  
+Making the Sustainable Development Agenda operational will largely be a matter of ad-
+justing regulatory frameworks to facilitate equitable and sustainable access to livelihood 
+assets. With regard to its implementation, a “normative gap” (Thakur / Weiss 2009) clear-
+ly exists. Sustainability of access implies, first and foremost, that livelihood assets are and 
+will be available, a precondition that might be increasingly difficult to ensure if current 
+trends continue regarding the availability of the natural resource base.10 
+All countries must put their economies on the path of Sustainable Development; many 
+have been making efforts for decades. Efforts initiated in a single sector often constitute a 
+nucleus that eventually will have to be embedded in a broader development strategy in 
+order to strengthen inter-sectoral linkages and adapt to specific contexts (see Box 3 for 
+examples). 
+Because the Sustainable Development Agenda calls for action by public, private and soci-
+etal actors, the question arises about the UNDS’s particular role and contribution. Unfor-
+tunately, the Rio+20 outcome document provides little guidance. One of the few para-
+graphs to address the issue invites the “programmes, funds and specialized agencies” to 
+“…further enhance the mainstreaming of sustainable development in their respective 
+mandates, programmes, strategies and decision-making processes, in support of the ef-
+forts of all countries, in particular developing countries, in the achievement of sustainable 
+development” (UNGA 2012, 19). 
+                                                           
+10  Attention must be paid to the link between vulnerability and sustainable development, especially in situa-
+tions where de facto rules directly impact on livelihoods. This might happen in natural disasters, countries 
+affected by long-term climate-change-related effects, and conflict situations. While we acknowledge this 
+dimension, addressing it is beyond the scope of this paper (see Box 5).
+
+---
+
+Pio Wennubst / Timo Mahn 
+12 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+Box 3: ‘Sustainable development’ in practice 
+The process of implementing a coherent approach to guide nations and societies towards the new para-
+digm of sustainable development must take place at different levels. At the national level, several attempts 
+have already been made. Germany and Switzerland, for example, have recently begun transforming their 
+energy policies (Energiewende) – with the mid-term goal of abolishing nuclear power sources that is 
+linked to the long-term goal of procuring all energy (for electricity, heating and transportation) from re-
+newable sources (Federal Ministry for the Environment, Natural Conservation and Nuclear Safety 2011; 
+Schweizerische Eidgenossenschaft 2013). The Kingdom of Bhutan has aligned government policy and 
+activities based on their contribution to a National Happiness Index (GNH), which has replaced the gross 
+domestic product (GDP) commonly used elsewhere. The GNH, with its four pillars of sustainable devel-
+opment, preservation of cultural value, conservation of the environment and good governance, uses so-
+phisticated indices and draws on the latest findings from empirical research. While it was never intended 
+to be used for international comparisons or ranking, Bhutan appears to be faring quite well on its alterna-
+tive path (Helliwell / Layard / Sachs 2012). Bhutan’s experience is gaining global recognition, as evi-
+denced by the GA’s first resolution on happiness11 in 2011 and its introduction of the ‘International Day 
+of Happiness’ in 2012.12 Ethiopia, which has been branding itself as a front runner in sustainable devel-
+opment, aims to be carbon-neutral by 2025 through its green-growth strategy (Government of Ethiopia 
+2011). These examples demonstrate that, despite their stage of development, governments worldwide are 
+setting out on the path towards sustainable development. 
+Source: 
+Authors 
+The call for the UNDS to engage is loud and clear. A recent survey of programme coun-
+tries revealed that the Sustainable Development Agenda is their highest priority for the 
+next four years (UNSG 2012b, 9). In a move to align global priorities, the Secretary-
+General has placed the issue at the top of his agenda (UNSG 2012d). The UN is the birth-
+place of the concept (Jolly / Emmerij / Weiss 2009), with a legacy of engagement.  
+A close reading of the implications of the Sustainable Development Agenda suggests that 
+the UNDS is well positioned to play a key role in implementing the new paradigm.  
+ 
+The UNDS is grounded in the principle of servicing all countries worldwide. Member 
+States have repeatedly confirmed the ‘universal nature’ of the operational activities 
+for development as one of the UNDS’s original principles – most recently, in the 
+QCPR Resolution of 2012 (OP 4). Unlike most of the MDGs, the Sustainable Devel-
+opment Goals (SDGs) are viewed as applying to all countries – including developed 
+nations. The presence of SDGs in 136 programme activities in over 180 countries 
+(UNDOCO 2012) suggests that universal engagement would be an extension of cur-
+rent practice – not a radical re-orientation. Global engagement would have the added 
+benefit of strengthening the perception that the UNDS is relevant to all countries, in-
+cluding those that make significant financial contributions (compare the Nordic UN 
+Project 1991, 121).  
+ 
+While not unique to the UNDS, multilateral collaboration perpetuates joint endeav-
+ours over extended periods. One key lesson of the MDG process was that it focussed 
+energies around a set of common targets for more than a decade. Most SDG proposals 
+envision a longer timeline – between 15 and 30 years (see UN System Task Team on 
+the Post–2015 UN Development Agenda 2012, 37).  
+                                                           
+11  UN Doc. GA/Res/65/309 of 19 Jul. 2011.  
+12  UN Doc. GA/Res/66/281 of 12 Jul. 2012.
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+13 
+ 
+The UNDS has the power to convene various stakeholders to address common chal-
+lenges. Despite their shortcomings, the UNDS and the UN have formed partnerships 
+with a wide variety of external stakeholders. UNICEF’s engagement with the furni-
+ture concern IKEA13 or the Secretary-General’s partnership initiatives such as “Every 
+Women, Every Child”14 or “Sustainable Energy for All”15 are examples of engage-
+ment with public, private and societal actors. 
+ 
+The UN’s greatest asset and ‘working capital’ is its worldwide input legitimacy that 
+assures acceptance of its outputs and services. This legitimacy stems from the three 
+fundamental principles of the United Nations – universal membership, equality of all 
+members and neutrality – as stated in Article 100 of the UN Charter. The GA, and by 
+extension, the funds and programmes of its subsidiary bodies, are based on the princi-
+ple of “one state, one vote” – which provides the UNDS with a unique level of credi-
+bility from Member States.  
+Member States’ debates about the particular role and contribution of the UNDS are closely 
+related to what is seen as its comparative advantage (Weinlich 2011, 23 ff.). While there is 
+a certain amount of interplay between the role/contribution of the UNDS and its compara-
+tive advantage, theoretically these should be aligned. Since other multilateral and bilateral 
+agencies pursue similar objectives, it must be clear that the UNDS does not exist within a 
+vacuum. Views about its comparative advantages diverge, however. For example, in light 
+of its massive presence in the field, some donor countries advocate that the UNDS should 
+focus on fragile states and function as a ‘lender of last resort’. 
+Most, however, agree about the UNDS’s unique value in linking a normative and opera-
+tional mandate. A comprehensive study of the role of the UN in the economic and social 
+fields, says it has “not only a comparative, but an absolute advantage” in its normative 
+role (Nordic UN Project 1991, 171).  
+More recently, the SG’s report in preparation for the QCPR stated that operational activi-
+ties are needed to leverage “development with normative, standard-setting and fact-
+finding work” (UNSG 2012c). Member States broadly confirmed this view in the QCPR 
+Resolution of 2012 (OP 58).  
+Taking these factors into account, one reaches the conclusion that the UNDS’s special role 
+regarding implementation of the Sustainable Development Agenda is to address the ‘norma-
+tive gap’ in practical support for the transformation towards the new paradigm, and especial-
+ly to create a normative foundation to guide operations and make it operational. 
+Table 1 summarises these findings.16  
+ 
+                                                           
+13  See UNICEF webpage, www.unicef.org/corporate_partners/index_25092.html, accessed 17 May 2013. 
+14  See “Every Women, Every Child” webpage, www.everywomaneverychild.org, accessed 17 May 2013. 
+15  See “Sustainable Energy for All” webpage, www.sustainableenergyforall.org, accessed 17 May 2013. 
+16 
+Two key implications of the new paradigm for transforming to a more cohesive system that goes ‘beyond 
+aid’ are addressed in Chapters 4 and 5.
+
+---
+
+Pio Wennubst / Timo Mahn 
+14 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+Table 1: The role of the UNDS in the new paradigm 
+Dimension 
+Sustainable Development 
+UNDS role 
+Scope 
+global 
+to service all countries 
+time horizon 
+long-term 
+to perpetuate global action 
+Responsibility 
+public, private, society 
+to form and regulate partnerships 
+Approach 
+holistic and encompassing  
+to transform to a cohesive system 
+funding source 
+significant contributions  
+to go ‘beyond aid’ 
+objective  
+balanced access to livelihood 
+assets 
+to adapt and adopt 
+norms+regulations 
+Source: 
+Authors, modeled on Melamed / Scott / Mitchell 2012 
+3.2 
+The quest for a system-wide guiding mandate 
+“The UN development enterprise […] rests on shaky political foundations be-
+cause neither its raison d’être nor its legitimacy have been durably agreed upon.”  
+(Fomerand 2003, 4)  
+In terms of system-wide guidance about which particular operational activities it should 
+pursue, the UNDS relies on some elements and stand-alone approximations of an over-
+arching mandate. This means that attempts to more clearly define the UNDS focus are 
+“still pending” (Weinlich 2011). This fact has contributed to the system’s “blurred profile” 
+(Vatterodt 2008, 68). What is the source of systemic guidance about what the UNDS 
+should pursue?  
+The UN Charter must be the starting point for any inquiry into a system-wide mandate in 
+support of the UNDS. Article 1 stresses that the UN must achieve international coopera-
+tion and be a force for harmonizing efforts to solve global problems of an economic, so-
+cial, cultural or humanitarian character, while also promoting and encouraging respect for 
+human rights and fundamental freedoms without distinction as to race, sex, language or 
+religion. Article 55 includes a comment on the need for full employment in a definition of 
+ECOSOC functions, and Article 62 makes particular reference to educational, health and 
+related matters. It is unrealistic to expect more specific guidance for the UNDS in a docu-
+ment written in 1945. Throughout its history, the UNDS has been charged with mandates 
+for more and more operational activities for development (UNSG 2009, 16) but most of 
+the concerned institutions were established after 1945.  
+The GA declarations about the UN Decades of Development, from 1960 to 2000, were a 
+more substantive attempt to provide system-wide guidance for the UNDS. Although spe-
+cifically addressed to “Member States and their peoples”,17 they had an indirect impact on 
+the UNDS, especially early on. Established at John F. Kennedy’s initiative, the first two 
+decades were more successful than is commonly known (Jolly / Emmerij / Weiss 2009, 
+87). However, after the “lost decade” of the 1980s and the declaration of the fourth decade 
+                                                           
+17  Compare UN Doc. GA/1710 (XVI) and A/1715 (XVI) of 19 Dec. 1961.
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+15 
+(the 1990s) were overtaken by the fundamental changes brought about by the end of the 
+Cold War, they rapidly waned in importance and eventually were replaced by the 
+MDGs.18  
+In 1993, the famous GA Res. 48/162 about the “restructuring and revitalization of the UN 
+in the economic, social and related fields”, that hinted at a system-wide orientation for the 
+UNDS, contained a long list of references to “established goals, targets and programmes 
+for action”, including the Development Decade and the Rio Conference on Sustainable 
+Development. It specifically requested ECOSOC to provide the UN with cross-sectoral 
+coordination and overall guidance, including objectives, priorities and strategies for im-
+plementing policies for operational activities. Once again, however, the point of reference 
+was the how of the UNDS rather than the what. Similarly, the SG’s biennial UN Strategic 
+Framework that Member States review in the Committee for Programme and Coordination 
+(CPC) provides guidance for Secretariat activities but is not specifically related to opera-
+tional activities for development. 
+Following the Millennium Declaration in the year 2000, the MDGs have served as the 
+main guidelines for the UNDS. Although they did not result from intergovernmental nego-
+tiation, they are broadly accepted as providing a viable and useful framework. However, 
+the MDGs are not specific to UN activities: providing specific guidance would require a 
+system-wide interpretation of the UNDS’s particular role and mandate, and how it com-
+plements other actors. Some reflection is needed about what the UNDS can best offer for 
+these or other future goals. 
+Since the TCPR/QCPR resolutions were first established in 1977, they have developed 
+into a source of substantive guidance relating to the what of UNDS operational activities. 
+Originally rather limited, especially following the MDGs, the practice has been expand-
+ed.19 Close reading of the 2012 QCPR Resolution reveals that it also contains substantive 
+‘mandate-like’ fragments. For example, the Resolution: 
+ 
+requests an increase in investments regarding gender equality (OP 81); 
+ 
+requests a demand-driven response to help countries that are affected by disasters or 
+conflicts to transition from relief to development status (OP 94); and most explicitly  
+ 
+calls upon UNDS organizations to assign the highest priority to poverty eradication 
+(OP 71).  
+The long list of conferences and summits (OP 8) that are viewed as having shaped a broad 
+vision of development and identifying challenges to improving human life in different 
+parts of the world (OP 9) reveals other aspects of the UNDS’s orientation towards a sys-
+tem-wide mandate. Finally, although full consensus was not reached during negotiations 
+                                                           
+18  Compare UN Doc. GA/RES/55/190 of 29 Jan. 2001. 
+19  Compare TCPR Resolution of 2002 (UN Doc. GA/RES/56/201 of 6 Mar. 2002), which “stresses the need 
+for all organizations of the United Nations development system, in accordance with their respective man-
+dates, to focus their efforts at the field level in accordance with the priorities identified by recipient countries 
+and the goals, targets and commitments set in the Millennium Declaration and by the major United Nations 
+conferences” (OP 10).
+
+---
+
+Pio Wennubst / Timo Mahn 
+16 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+on the QCPR in 2012, there was dialogue that might pave the way for future system-wide 
+mandates to the UNDS in crucial but contentious areas like human rights. A new preamble 
+paragraph spelling out specific human rights (para. 14) hints at this dialogue.  
+This raises questions about the original intent and purpose of the TCPR/QCPR resolutions 
+and their effectiveness and legitimacy in addressing substantive issues (the what). Who 
+mandated QCPR negotiators to address specific parts of the UNDS’s system-wide man-
+date? Why was poverty eradication included in the 2012 Resolution but not in the TCPR 
+Resolution of 2004? Could the next QCPR resolution request, for example, that the UNDS 
+focus on supporting countries by building capacities and providing policy expertise, as 
+well as advising on legislation and norms – and leave the operational support needed to 
+eradicate hunger to other actors? 
+Substantive guidance to the UNDS in TCPR/QCPR resolutions has evolved over time. 
+Member States are becoming more interested in negotiating a system-wide mandate, as 
+illustrated by the addition of a new chapter on poverty eradication in the QCPR Resolution 
+of 2012. Because these are only fragments of negotiated mandates, however, the link be-
+tween them and the operational guidance system remains incomplete. 
+Current trends reveal strong momentum for effecting change within the UNDS, with sev-
+eral reform processes taking place simultaneously, all of which have far reaching implica-
+tions for the whole system:  
+ 
+The High-level Political Forum (HLPF) will become the place to debate sustainable 
+development at the political level, as decided during the Rio+20 Conference.20  
+ 
+A post–2015 development framework is being discussed. 
+ 
+An intergovernmental process that aims to define SDGs is ongoing.  
+ 
+ECOSOC is revising its functions and structures as part of a long-term reform process.  
+ 
+Deliberations have begun about system-wide support to enhance the thematic and 
+multi-partner initiatives launched by the Secretary-General. 
+ 
+Preliminary discussions in a new working group have started about the future funding 
+of UN development efforts. 
+Member States appear to have the opportunity to use these reform processes to give a new 
+and system-wide mandate to the UNDS. Opportunities regarding the HLPF seem particu-
+larly promising, as it could fill the gap left by the expiring MDGs. The HLPF would offer 
+crucial orientation to the UNDS with regard to the what by regularly securing guidance 
+from the highest political level (possibly from heads of state) regarding the UN’s specific 
+contribution to implementing the Sustainable Development Agenda. Such a mechanism 
+seems feasible, straightforward and in the spirit of the intense debate and negotiations 
+around Rio+20 that ended by signalling that the HLPF should be more than simply an 
+“enhanced Commission on Sustainable Development (CSD)”. For the UNDS, it would 
+strengthen the link between the QCPR Resolutions (the only resolutions that address how 
+the UNDS should work) and what to focus on – that is, the mandate and the operations.  
+                                                           
+20  See UNUNGA 2013 for a comprehensive assessment of lessons about the shortcomings of the Commission 
+on Sustainable Development.
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+17 
+Such a measure would probably entail the HLPF incorporating a regular review of the 
+system-wide mandate for sustainable development into its core functions. Benefitting from 
+the recent alignment of UNDS strategic planning to the QCPR cycle, the mandate review 
+would ideally follow the same four-year cycle, with the HLPF providing guidance on the 
+system-wide mandate for each new QCPR cycle,21 thereby setting the necessary bound-
+aries for UNDS functioning. 
+4 
+A ‘quiet revolution’ towards a cohesive UNDS 
+“It is tempting, if the only tool you have is a hammer, to treat everything as if it were 
+a nail.” (Maslow 1966) 
+As a holistic, transformational and global concept, the Sustainable Development Agenda 
+calls for more cohesion within the UNDS. The institutional set-up and functionalist basis 
+of the UNDS do not seem appropriate for implementing a system-wide mandate. The 
+UNDS requires significant institutional restructuring in order to maintain its prominent 
+role in the international development architecture. Recent reforms in this direction, includ-
+ing the System-wide Coherence process (2006–2010), have demonstrated the importance 
+that Member States attach to a more cohesive UNDS, and the QCPR Resolution of 2012 
+shows that agreement is growing in this respect.  
+4.1 
+The UNDS and system-wide cohesion 
+The Sustainable Development Agenda has important implications for how the UNDS 
+functions: Member States will have to forge a more cohesive arrangement. A report by the 
+Secretary General foresees the need for a “much tighter fit between the normative and 
+operational arms” of the UNDS (UNSG 2012b, 9). The current lack of coherence limits 
+the UNDS’s ability to exploit the crucial synergies that define the Sustainable Develop-
+ment Agenda; ‘business as usual’ no longer seems to be an option.  
+The UNDS consists of 37 entities that engage in operational activities for development 
+(UNSG 2012a, 42)22 – aimed at both long-term development and short-term humanitarian 
+relief measures (compare UNSG 2012a). From a legal perspective, the funds and pro-
+grammes are GA subsidiary organs that are mostly active in field-level operational activi-
+ties, whereas the specialized agencies are more autonomous because of their separate found-
+ing treaties and, in some cases, distinct membership and governing bodies. They are incor-
+porated into the UN system through ECOSOC on the basis of relationship agreements. 
+UNDS entities therefore have varying degrees of independence and types of relationships 
+with the intergovernmental level – represented by ECOSOC and its governing bodies. The 
+                                                           
+21  The HLPF message about the system-wide mandate would have to take one of two forms – as either a politi-
+cal declaration or a second negotiated resolution. The latter could become time-consuming and, apart from 
+the QCPR, would require a second round of complex negotiations (compare Box 4). Should political deci-
+sion-makers broadly agree, however, general ‘mandate-like’ messages would probably suffice, and a decla-
+ration or a chairperson’s summary could be used to provide system-wide guidance to the UNDS and the ne-
+gotiations for a new QCPR resolution. 
+22  See Annex 2 for a complete list of the entities.
+
+---
+
+Pio Wennubst / Timo Mahn 
+18 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+internal ‘logic’ of the different entities is also diverse, ranging from traditional development 
+‘sectors’, to particular ‘target groups’, cross-cutting issues and particular countries or re-
+gions. The UNDS’s low level of institutional cohesion is why use of the term ‘system’ has 
+been challenged (UNSG 2009; Righter 1995, 48 ff.; Jenks et al. 2005). 
+The ‘compartmentalised’ structure of the UNDS results from the concept of ‘functional-
+ism’,23 which was influential in the debates before the United Nations was established 
+(Jenks et al. 2005). Functionalism viewed international peace and stability as an intended 
+spillover or side effect of ever-increasing, mainly technical and issue-driven, ‘functional’ 
+cooperation and increased non-political relations among states. Functionalism tends to 
+favour the proliferation of institutions, and since cooperation sectors are limited, it also 
+favours the increased differentiation and compartmentalisation of (development) coopera-
+tion. Avoiding overarching ‘political’ considerations of management and direction while 
+preserving the organizational autonomy of individual UNDS entities was integral to the 
+concept. The relationship between the entities that make up the UNDS has historically 
+been one of coexistence rather than direction, whereby entities are only loosely coupled in 
+a polycentric fashion (Righter 1995). This, and the disaggregation resulting from UNDS 
+growth “without a pre-established blue-print” (Fomerand 2003, 2), are the two main lega-
+cies that beleaguer the UNDS today. 
+The nature of the development paradigm – currently the MDGs – may have further con-
+tributed to UNDS incoherence. Since the MDGs were established in the year 2000, they 
+have greatly impacted the field of development cooperation: their instrumentality in terms 
+of fund-raising and mobilising joint efforts is universally acknowledged. Indeed, from a 
+narrow perspective, this was their main purpose (Fukuda–Parr 2012,10). But their impact 
+on the UNDS internal institutional arrangement may have been less salutary: by instigat-
+ing a pick-and-choose approach among the eight goals, the MDGs seem to have encour-
+aged donors to earmark. The MDGs followed a ‘functionalist’ logic of compartmentalis-
+ing developmental challenges in different functional sectors and associated target groups, 
+which was appropriate with the UNDS’s conventional institutional arrangement. However, 
+the potential adoption of a new framework based on the post–2015 Sustainable Develop-
+ment Agenda portends significant institutional reform.  
+Although the concept of functionalism was influential when the UNDS was being estab-
+lished, it has also been challenged. There have been many successes from international 
+development cooperation, yet notwithstanding the achievements, institutional pathologies 
+resulting from an arrangement that did not favour system-wide cohesion were noted early 
+on, encouraging efforts to create system-wide cohesion. Such reform attempts began 
+shortly after the UNDS was established. 
+One of the first endeavours at systematically analysing and identifying institutional chal-
+lenges within the UNDS was the “Capacity Study” of 1969. During the 1970s, the 
+UNDS’s operational activities became more sophisticated and diverse, partly influenced 
+by world conferences – including the Stockholm Conference on the Human Environment 
+(1972) – that took place during that period. After the 1980s’ “lost decade” for develop-
+ment, during the 1990s, system-wide cohesion slowly rose on the agenda of the interna-
+                                                           
+23  The seminal publication, A Working Peace System, by David Mitrany (Mitrany 1966) is often credited with 
+developing the concept.
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+19 
+tional community. Partly because central-level reforms were deemed politically unfeasi-
+ble, attention shifted to the operational and country level, where it was hoped that greater 
+cohesion could be achieved through common premises and programming frameworks, and 
+other measures.24 However, only after the World Summit review of the MDGs in 2005 
+was there another major attempt at reform, which took the form of the High-level Panel on 
+System-wide Coherence and its report, “Delivering as One” in 2006.25 With only two of 
+the main headline initiatives implemented – the establishment of UN Women and the 2012 
+QCPR’s acknowledgment of “Delivering as One” as an alternative business model – the 
+system-wide coherence process looks rather modest.  
+One major success of the High-level Panel on System-wide Coherence that is frequently 
+overlooked, however, is that it created the common understanding that a more cohesive 
+UNDS was needed. Indeed, interest in system-wide cohesion influences debates on the 
+UN’s future direction and is clearly reflected in the 2012 QCPR Resolution, albeit not 
+(yet) in fully practical terms. As Margret Joan Anstee wrote recently: “The one great les-
+son of the 66 years since the United Nations [became involved in operational activities for 
+development] is that development efforts will not succeed unless they are integrated”  
+(Anstee 2012). The Sustainable Development Agenda reinforces this thinking.  
+Increasingly, indications of a reform towards a cohesive UNDS are seen in its structure. 
+The UNDS is transitioning towards a higher level of system-wide cohesion. Although 
+once it was difficult to speak of a UN development ‘system’ because of its low level of 
+cohesiveness (Hill 2010; Browne 2011; Browne 2012), this is changing: throughout the 
+UNDS, system-wide elements are already in place or are evolving. The current state of 
+affairs could be described as a ‘mixed system’ with elements of system-wide orientation 
+alongside more traditional and agency-specific organizational models. 
+4.2 
+A system-wide message from Member States 
+The transition that has slowly been taking place in the UNDS could be described as a 
+move from the traditional ‘functionalist’ system of organization towards a more integrat-
+ed, ‘post-functionalist’ approach. The 2012 QCPR Resolution contains fragments of struc-
+tures, systems and processes that are system-wide, but which will have to be more broadly 
+systematised in order to accommodate the Sustainable Development Agenda.  
+Member States have used QCPR resolutions to advocate system-wide cohesion for some 
+time. Analysis of previous TCPR/QCPR resolutions reveals that Member States are in-
+creasingly addressing themselves to the UNDS as a whole. Nearly 70 per cent of the man-
+dates (operative paragraphs) of past resolutions address either the inter-agency machinery 
+or the whole UNDS, while the share of mandates that relate to individual components or 
+parts of the system has dropped significantly. Member States are also becoming more re-
+luctant to address the UN Secretariat, whose share of mandates plummeted from a high of 
+36 per cent in 1980 to just 11 per cent in 2012 (compare Table 2 and Figure 1 for the de-
+tails, and Annex 2 for methodological background).  
+                                                           
+24  Compare Kofi Annan’s reform initiatives, “Renewing the United Nations” (UN Doc. A/51/950 of 15 Jul. 
+1997 and “An Agenda for Further Change” (UN Doc. A/57/387 of 9 Sept. 2002).  
+25  UN Doc. 61/583 of 20 Nov. 2006.
+
+---
+
+20 
+0%
+20%
+40%
+60%
+80%
+100%
+Table
+Addr
+UNDS
+Inter-
+Secre
+Interg
+Other
+Sourc
+There
+one u
+activit
+Other
+develo
+encom
+fact th
+that v
+fined 
+Figur
+ 
+Sourc
+ 
+            
+26  In
+pr
+%
+%
+%
+%
+%
+%
+1980
+UNDS
+e 2: 
+The ev
+essee (%) 
+S System 
+-agency 
+etariat 
+governmenta
+r  
+ce: 
+Authors
+e are variou
+sed by the 
+ties for dev
+ definitions
+opment (co
+mpassing th
+hat some a
+views vary 
+by its over
+re 1: 
+Addre
+ce: 
+Authors
+                      
+n 2012, these w
+ractice” to be f
+Germa
+1983
+1986
+Inter‐a
+volution of ad
+1980  
+27 
+0 
+36 
+al 
+5 
+32 
+ 
+us standard
+UN Secret
+velopment,
+s include th
+ompare Hill
+he term sho
+gencies hav
+within the 
+all purpose
+essees of TCP
+; see Annex 1
+                      
+were the FAO,
+followed by oth
+an Developme
+6
+1989
+1
+agency
+ddressees of T
+1983  1986
+38 
+29 
+4 
+8 
+31 
+26 
+4 
+11 
+22 
+27 
+d usages an
+ariat in fin
+, which enc
+he 32 mem
+l 2010). On
+ould be, an
+ve agreed t
+system. Th
+e, as determ
+PR/QCPR res
+ for the comp
+    
+, UNESCO, U
+her entities (JIU
+ent Institute / D
+1992
+1995
+Secretariat
+TCPR/QCPR
+1989 
+1992
+33 
+19
+26 
+22
+18 
+22
+9 
+12
+14 
+26
+nd definitio
+ancial repo
+compasses 
+mbers of the
+ne of the m
+nd if it sho
+to abide by
+he conclusi
+mined in a sy
+solutions by d
+position of cate
+UNIDO and W
+U 2012, 23 and
+Deutsches Ins
+1998
+2
+Intergov
+R resolutions 
+2 
+1995 
+19
+38 
+3
+11 
+2
+23 
+1
+8 
+1
+21 
+2
+ns of the t
+orts about th
+37 funds, 
+e UNDG or
+main points 
+ould include
+y the QCPR
+ion here is 
+ystem-wide
+different acto
+egories.  
+WHO. The JIU 
+d 32). 
+Pio We
+titut für Entw
+2001
+2004
+vernmental
+over time 
+998 
+2001  2
+32 
+39 
+23 
+17 
+11 
+8 
+11 
+9 
+23 
+26 
+erm ‘UND
+he UN syst
+programm
+r 53 organi
+of content
+e specialize
+R26 and oth
+that ‘UND
+e mandate. 
+ors 
+considers that 
+ennubst / Tim
+wicklungspoliti
+2007
+20
+Other
+2004  2007  
+42 
+47 
+14 
+18 
+13 
+17 
+9 
+3 
+21 
+16 
+S’, includi
+tem’s opera
+mes and age
+izations act
+tion is abou
+ed agencie
+hers not, su
+DS’ should 
+t this constitute
+mo Mahn 
+ik (DIE) 
+012
+2012 
+50 
+19 
+11 
+4 
+15 
+ng the 
+ational 
+encies. 
+tive in 
+ut how 
+s. The 
+uggests 
+be de-
+es “good
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+21 
+Irrespective of its final shape, transitioning to a more cohesive UNDS implies a set of 
+comprehensive adjustments that will take time and commitment from Member States. 
+With new inter-agency fora and organizations like UN Women, Member States have 
+already introduced some system-wide inter-agency interlocutors. But because all sys-
+tem structures are connected, changing any single element necessitates further chang-
+es. For example, establishing an independent evaluation mechanism in the UNDS 
+seems consistent with the trend towards greater cohesion, but its implementation 
+would require new system-wide processes to review the evaluation outcomes and act 
+on them.  
+In conclusion, Member States’ growing emphasis on system-wide approaches to 
+UNDS operations require parallel efforts to strengthen system-wide oversight and 
+management mechanisms, as well as other elements necessary for a functioning, trans-
+parent and accountable UNDS. The implications will be explored below.  
+4.3 
+Elements of the quiet revolution 
+There are various ways to approach UNDS reform processes. Indeed, selecting the ap-
+propriate approach to reforms has long been the subject of academic debates, with ‘big 
+bang’ and ‘incremental’ constituting the two poles of a continuum of options (Mahn 
+2012, 9). Revisions of the UN Charter have proven so difficult that they are often con-
+sidered impossible. As with most public institutions, institutional change in the UNDS 
+has mostly been incremental and iterative instead of prescriptive (Fomerand 2003, 30). 
+Therefore, a quiet revolution of a series of major, yet achievable, steps to create a more 
+cohesive UNDS seems more realistic than a one-off transformation. The quiet ap-
+proach targets the UNDS’s inner functioning and set-up, and strengthens incentives, 
+transparency and accountability. It reduces the need for structural changes while at-
+tempting to create a coherent, effective and efficient operational development system.  
+The 2012 QCPR Resolution, which provides many indications for the direction of fu-
+ture reform efforts, seems to be an appropriate starting point for the quiet revolution. 
+The QCPR process sought to reduce and eliminate incongruities in the UNDS and 
+make it more efficient by adapting state-of-the art business practices. The following 
+section outlines key steps for preparing the UNDS to leap into the future. A quiet revo-
+lution of reforms consolidates operating functions and fine-tunes decision-making pro-
+cedures and lines of accountability in the aim of creating a fully transparent systemic 
+response to the needs of individual countries – in accordance with the UN’s system-
+wide mandate. The overview of the UNDS structure in Figure 2 indicates the main 
+areas of reform. Particular attention is paid to the UNDS governance and management 
+dimensions, where pressure for substantial change has been building for several years; 
+in this respect, there was no progress made in the 2012 QCPR Resolution.
+
+---
+
+22 
+Figur
+ 
+Sourc
+re 2: 
+A quie
+ce: 
+Authors
+Germa
+et revolution 
+ 
+an Developme
+in the UNDS
+ent Institute / D
+S 
+Deutsches Ins
+Pio We
+titut für Entw
+ennubst / Tim
+wicklungspoliti
+mo Mahn 
+ik (DIE)
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+23 
+4.3.1 Oversight 
+“The machine as a whole has become unmanageable in the strictest sense of the 
+word.” (Sir Robert Jackson, UNDP 1969) 
+Reforms leading to a more systemic approach to intergovernmental oversight and govern-
+ance in the UNDS lag behind operational reforms and increasingly conflict with the rest of 
+the system. While other functional areas of the UNDS are adopting system-wide ap-
+proaches, lack of progress in aligning intergovernmental mechanisms is increasing friction 
+and concern. This issue was prominent during the 2012 QCPR negotiations but not re-
+solved. However, with the matter high on the agenda for some time now (Fomerand 2003, 
+30), Member States are becoming more receptive to making substantial changes.  
+Historically, the UNDS’s intergovernmental oversight function rested with ECOSOC27 
+and the executive boards of the different entities. GA Resolution 48/162 mandated 
+ECOSOC to review and evaluate the work of the executive boards. However, for reasons 
+including capacity constraints and inconsistent messages from Member States, the link 
+between ECOSOC and the executive boards has always been weak. As a result, it has been 
+reported that ECOSOC “does not have an effective overview and role in mandates ema-
+nating from executive boards”.28  
+Unsurprisingly, the 2012 QCPR Resolution acknowledges ECOSOC’s major role in the 
+overall coordination of funds, programmes and specialized agencies (OP 7). Member 
+States look forward to ECOSOC’s review and assessment of the QCPR implementation 
+(OP 185). In order to close the feedback loop in assessing the effectiveness, efficiency, 
+and relevance of activities, Member States request the SG to conduct a biennial survey of 
+governments about the benefits and challenges of interacting with the UNDS (OP 188).  
+The 2012 QCPR Resolution indicates that Member States want ECOSOC to play a more 
+substantive role. Concerning the “Delivering as One” initiative that aims to strengthen the 
+collaboration of UNDS entities at the country level, for example, the UNDS is asked to 
+report to ECOSOC on matters related to the new Standard Operating Procedures (OP 
+140). The SG’s report should also include options for ECOSOC to review and approve 
+common country programme documents (OP 143). Member States also request the SG to 
+use the system-wide CEB inter-agency mechanism, and to present plans for establishing 
+common support services by 2016 in two of its three main committees, the High-level 
+Committee on Management (HLCM) and the United Nations Development Group 
+(UNDG). These are to be developed and reviewed by ECOSOC (OP 155). Without a sys-
+tem-wide mechanism or institution, however, it is expected that these plans will have to be 
+individually approved by the governing boards of each of the UNDS entities. The 2012 
+QCPR Resolution similarly requests the UNDS to develop a strategy and report to 
+ECOSOC on progress establishing common premises in countries (OP 161). It also re-
+quests the SG to articulate a harmonized, results-based approach to operational activities 
+and report this to ECOSOC (OP 169). These various mandates illustrate the Member 
+States’ intention to strengthen system-wide oversight of development operations. 
+                                                           
+27  This is mainly carried out by ECOSOC’s ‘operational segment’.  
+28  UN Doc. A/60/733 of 30 Mar. 2006.
+
+---
+
+Pio Wennubst / Timo Mahn 
+24 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+The analysis above shows that the negotiators had authority to instruct the governing bod-
+ies of the funds, programmes and specialized agencies, but their authority does not seem 
+to have extended to instructing the ECOSOC to act on system-wide issues. While this sit-
+uation may be partially due to the UN Charter that prevents ECOSOC from deciding on 
+behalf of the GA, clearly other factors were also at work. In that sense, the 2012 QCPR 
+Resolution illustrates the current contradictions and functional imbalance in the UNDS, 
+which become more apparent as system-wide approaches are broadening. For example, it 
+seems inconsistent to execute intergovernmental oversight and governance based on an 
+entity-specific approach while taking a system-wide approach to system management. 
+This creates friction. In other words, Member States are sending more and more intergov-
+ernmental and system-wide requests that are addressed through a system-wide inter-
+agency management mechanism (the CEB and its committees), yet the mechanisms for 
+system-wide governance are not on par. A more consistent approach would be to also shift 
+functions like the authority to establish common support services for the entire UNDS to 
+the systemic level. If provisions in the UN Charter cannot be changed, it would make 
+sense for ECOSOC to be mandated to make system-wide recommendations that, through 
+its operational segment, would then be endorsed by the GA. Since ECOSOC is the natural 
+forum for system-wide guidance, it should be significantly reinforced. From a systemic 
+perspective, it would be even more desirable for Member States to consider the option of 
+ECOSOC acting as a system-wide executive board for the UNDS.  
+In terms of programmatic coherence, the United Nations Development Assistance Frame-
+work (UNDAF) is key to system-wide oversight at the country level and ECOSOC should 
+ensure quality management as befits its oversight function. Finally, ECOSOC will be 
+called upon to play a more prominent role in the system-wide monitoring and evaluation 
+of UN development activities. Should a decision be taken to set up a system-wide financ-
+ing mechanism, whether or not ECOSOC will represent Member States in their oversight 
+functions will also have to be decided.  
+ECOSOC seems ready to assume a more systemic role and function; it only lacks the 
+mandate. A number of recent proposals have been made to create a new governance insti-
+tution as a proxy for a system-wide oversight entity, but adding another layer to an already 
+complex system would not be helpful. ECOSOC seems well positioned to fulfil this man-
+date. The need for a powerful body to provide policy guidance and instil a sense of cohe-
+sion in the UNDS has long been recognised (compare the Nordic UN Project 1991). So 
+strengthening ECOSOC’s system-wide oversight mandate to implement QCPR resolutions 
+would help to ensure more coherence in the UNDS and avoid the need to address the GA 
+for minor technical matters. A significantly revamped ECOSOC would not make execu-
+tive boards obsolete: these boards provide agency-specific intergovernmental oversight, 
+which, along with system-wide governance, continues to be necessary. However, Member 
+States have requested that board oversight correspond with the system-wide guidance by 
+ECOSOC and the GA.  
+Inaction on outstanding governance reforms carries the cost of rising policy incoherencies 
+and adds complexity and accountability gaps to the challenges that come from mis-
+matched mechanisms for inter-agency management and intergovernmental governance. 
+Ultimately, negative externalities for UNDS functioning as a whole will result in reduced 
+funding for each entity. There is also a clear incentive for all Member States, especially 
+those with limited capacity to participate in intergovernmental affairs, to work towards a
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+25 
+consolidated governance and oversight function for system-wide matters. If the latter con-
+tinue to be decided within the various executive boards, Member States’ ability to influ-
+ence decisions will depend on their capacity to follow, prepare, attend and service multiple 
+fora – which is difficult for many of them.  
+In conclusion, given the growing imbalances regarding oversight and governance func-
+tions and mechanisms in the UNDS, there seems to be a strong need for Member States to 
+bring about change. Instead of adding new layers to the complexity and diffusion of inter-
+governmental centers of governance, the best procedure seems to be to strengthen 
+ECOSOC’s system-wide governance function.  
+4.3.2 Management 
+The UN Development Group (UNDG) is the main system-wide, inter-agency interlocutor 
+to receive instructions from the intergovernmental governance mechanisms, especially 
+those addressed to the UNDS as a whole. It is under the UN system’s main system-wide 
+policy-coordinating body that was established by ECOSOC in 1946, the Chief Executives 
+Board for Coordination (CEB),29 which has three committees: The High-level Committee 
+on Management (HLCM) coordinates administrative, the UN Development Group 
+(UNDG) managerial, and the High-level Committee on Programmes (HLCP) program-
+matic affairs. The UNDG is most important of the three committees in terms of the 
+UNDS. Established by the Secretary-General in 1997 and integrated into the CEB in 2008, 
+the UNDG is mandated to coordinate, harmonize and align the UN development activities 
+of its 32 members by providing support to countries for internationally agreed develop-
+ment goals. It reports to the SG – and to ECOSOC through the CEB – about the imple-
+mentation of its work plan and management of the RC system. The UN Development Op-
+eration Coordination Office (DOCO) is the UNDG’s technical support unit; it provides a 
+system-wide link between UN Headquarters and countries and helps the UNDG prepare 
+agreements, policies and guidelines for country offices. 
+Analysis of the mandates in the 2012 QCPR Resolution reveals that the UNDG/CEB as the 
+main inter-agency coordination mechanism is scarcely addressed. For once, Member States 
+rather timidly encourage the SG, through the CEB and the UNDG, to fulfil the task for 
+which these bodies were created (OP 16), request greater transparency in their work (OP 17) 
+and outline a set of specific requirements to that end (OP 17a-d). This falls short of a direct 
+mandate to the UNDG/CEB, however. The HLCM and UNDG are also specifically men-
+tioned in the context of harmonizing business practices (OP 155); and as chairman of the 
+CEB, the SG is requested to include appropriate information about its work in the annual 
+overview report to ECOSOC that is reviewed by the CPC (OP 17b). ECOSOC’s president is 
+also requested to convene periodic briefings for Member States and the Secretariat “back-to-
+back” with CEB sessions to help make the dialogue more effective (OP 17d). 
+Even the passages that address specific tasks or characteristics of the UNDG, such as 
+management of the RC system and the UNDG’s reports to ECOSOC via the CEB, do not 
+mention it by name, however. From a system-wide perspective, this is a major deficiency, 
+                                                           
+29  UN Doc. Resolution 13 (III) created the Administrative Committee on Coordination (ACC) in 1946. Its 
+current name was adopted in 2001.
+
+---
+
+Pio Wennubst / Timo Mahn 
+26 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+resulting from diverging opinions and a lack of clarity about the extent of the “UNDS”. 
+Apparently the Member States were unsure of the proper addressee for their messages so 
+they decided to “read them aloud” to everybody.  
+There are probably two main reasons why the UNDG was not more enthusiastically es-
+poused: Since it is not a legal entity, it may not be perceived as the appropriate interlocu-
+tor for system-wide management. It might also be sidelined due to its perceived lack of 
+capacity and authority vis-à-vis the executive boards of the funds, programmes and spe-
+cialized agencies.  
+Most of the requests in the 2012 QCPR Resolution that are directed to the UNDS concern 
+mandatory decisions which typically would have to be dealt with at the CEB level. This 
+includes, for example, the system-wide interoperability of enterprise resource-planning 
+systems (OP 160) that could enable the use of harmonized information and communica-
+tions technology (ICT) for the system-wide exchange of information. Although the 
+HLCM, as part of the CEB, is piloting the harmonization of business practices, it cannot 
+generalise them as this falls outside the mandate of the Committee. The same can be said 
+for the UNDG. The evolution of the former Executive Committee from a compact coordi-
+nation mechanism for a few UNDS entities into the broad membership body that the 
+UNDG has become was welcome. But since the QCPR is not mandatory for all members 
+and the UNDG operates by consensus, the change has created new system-wide challeng-
+es in terms of inter-agency decision-making. This is clear in the 2012 QCPR Resolution 
+where Member States request the UNDS to promote the development of clear and robust 
+result frameworks, and call on funds and programmes and encourage specialized agencies 
+to consult them in this endeavour (OP 170). From a system-wide perspective, there seems 
+to be a need for an inter-agency mechanism that can enforce decisions when disagreement 
+persists among the different UNDS entities.  
+What is called for is a strong link between ECOSOC, the intergovernmental entity that 
+provides system-wide oversight and governance, and the CEB/UNDG, the system-wide 
+mechanism for inter-agency management. While UNDS entities are and should remain 
+accountable to their specific governing bodies regarding their respective mandates, future 
+accountability for system-wide issues should rest with the CEB as manager and ECOSOC 
+as the governing body. The necessary link between the CEB/UNDG and ECOSOC is al-
+ready established through the QCPR provisions that are mandatory for UNDG members.  
+The current UNDG is not a suitable interlocutor for a strengthened ECOSOC. The capacity 
+and functionality of the oversight and management functions and their respective mecha-
+nisms in the UNDS must be equally developed. UN Member States will be called upon to 
+address the current mismatch so that UNDS governance and management levels correspond.  
+4.3.3 Delegation of authority 
+In many respects, reform of the UNDS resembles any national government’s effort to shift 
+its functions, services and responsibilities to the sub-national level. Like decentralisation 
+processes at the country level that aim to “bring services closer to the people”, the UNDS 
+and other development organizations can be said to provide people with equitable and 
+sustainable access to livelihood assets. Decentralising the UNDS requires changes to put
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+27 
+in place the necessary preconditions. Via UNDAF, the system-wide accountability at the 
+country level would pass through the RC system and each respective country-programme 
+government. 
+If UNDAF were established around system-wide core competences – such as support for 
+policy-making, normative and legislative work, capacity-building and pilot activities – 
+tasks could be allotted to the respective agencies under a system-wide mandate partially 
+secured by a system-wide funding mechanism, and the new set-up could be called “UN-
+DAF+”. Such a set-up would have the advantage of not preventing the UNDS entities 
+from carrying out other tasks according to their specific institutional mandates, in line 
+with the requests of a given government, with funding from other sources (including exist-
+ing sources).  
+The QCPR process promotes better delegation of authority through the recognition of 
+“Delivering as One (DaO)”, stronger support for implementation, improved UNDAFs and 
+a stronger role for the RCs, especially for countries that are transitioning from needing 
+relief to receiving development assistance. The UNDS operates in a context that has ex-
+tended options for programming tools and allocating resources. These options range from 
+sending generic requests to the UNDS to delegating greater authority for allocating re-
+sources to field representatives – based on individual countries’ needs (OP 103). More 
+specific requests for support for DaO countries can be made on the basis of a package of 
+Standard Operating Procedures and guidance regarding mechanisms to programme, moni-
+tor, evaluate, report and pool funding mechanisms with support for the RC system. All this 
+would be done in accordance with existing management and accountability systems, in-
+cluding the harmonization of business practices (OP 142). 
+It is important to officially recognise the central role of national governments in the whole 
+UNDAF process in order to become fully aligned with national priorities (OP 113). This 
+means that the RC system is asked to improve its consultation with national stakeholders 
+(OP 114). To avoid meaningless bureaucratisation, the 2012 QCPR Resolution calls for 
+improving the UNDAF as a strategic framework, and for instituting simpler processes (OP 
+117). It encourages the UNDS, where appropriate, to further improve its country-level 
+joint programming processes and for specialized agencies to align their planning and 
+budgeting cycles with the QCPR. Together, these measures reflect the interest of Member 
+States in transforming UNDAFs into the key country-level strategic tools.  
+Regarding UNDAF implementation, the 2012 QCPR Resolution reiterates the RCs’ cen-
+tral role (under the leadership of the respective governments) in helping the UNDS to re-
+spond more effectively to national development priorities (OP 122). In addition to stipulat-
+ing the RCs’ current mandate, the resolution also specifically recognises the need to enhance 
+RC planning and coordination functions (OP 126) and advocates that RCs be allowed to 
+propose amendments to projects and programmes so as to bring them in line with UNDAFs 
+(OP 126a). More importantly, it advocates permitting RCs to propose amendments to UN-
+DAFs to align them with the UNDS’s mandate to respond to national priorities.  
+The 2012 QCPR Resolution calls upon the UNDS to ensure that RCs report to national 
+authorities about achieving the results specified in UNDAFs (OP 130b). The resolution 
+refers to a previous GA request that RCs provide input to the performance appraisals 
+of UN country-team members (OP 130c) to facilitate this process.
+
+---
+
+Pio Wennubst / Timo Mahn 
+28 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+These steps towards making UNDAF a strategic tool require improvements in the 
+managerial functions of the RC system (Mahn 2013). This includes the authorization 
+to allocate funds channelled through system-wide funding mechanisms to implement 
+UNDAF in country programmes to complement the existing system. For the UNDS to 
+optimally exploit the enormous investments made to harmonize operations at the coun-
+try level, key system-wide governance functions and central lines of accountability 
+must be strengthened.  
+A green light from the system – either at the inter-agency or intergovernmental level – 
+seems necessary for UNDAF to become a country-level mid-term strategy (UNDAF+) 
+that can be negotiated (along with the funding) with partner governments.  
+4.3.4 Accountable partnerships 
+In the fast-paced environment of international development, new opportunities must 
+often be adopted in a system (including the UNDS) before any system-wide guidance 
+has been spelled out. Recognising this, Secretary General Ban Ki-moon recently estab-
+lished a number of new partnership initiatives (see Box 4), explaining: “Lasting solu-
+tions to global problems no longer lie in the hands of governments alone. The United 
+Nations of the 21st century must think in terms of networks and coalitions.” (UNSG 
+2013) 
+Recent thematic initiatives by the Secretary-General have a number of features in 
+common. All are multi-stakeholder partnerships with prominent roles for the private 
+sector. The UN also frequently plays catalytic, regulatory and standard-setting roles in 
+these initiatives that often imply inter-sectoral alliances and eagerness to effect a para-
+digm shift towards the Sustainable Development Agenda. Moreover, the initiatives 
+focus on delivering direct and tangible results in the field and seek substantial innova-
+tive funding outside traditional aid channels. 
+The 2012 QCPR Resolution recognises that national efforts should be complemented 
+by global programmes that aim to expand development opportunities (OP 11), assum-
+ing that the private sector and civil society can positively contribute to achieving inter-
+nationally agreed development goals (OP 16). The resolution directs that with the host 
+countries’ agreement and consent, the UNDS should assist national governments in 
+setting up an enabling environment in which links to civil society and the private sec-
+tor are strengthened (even during UNDAF preparation processes) – with a view to 
+seeking new and innovative solutions to development problems (OP 9). The resolution 
+further encourages the UNDS to intensify collaboration with these stakeholders (OP 
+20). It also spells out some clear concerns, reaffirming the central role of governments 
+in contributing to UNDS work. At the same time it recognises UNDS capacity to en-
+gage in results-oriented, innovative national, regional and global partnerships. These 
+concerns, relating to the respective accountability lines and mechanisms, can be cate-
+gorized as ‘trust and check’.
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+29 
+Box 4: 
+Initiatives of the Secretary-General 
+Year 
+Name 
+Self-description 
+2010 
+Every woman, 
+Every child 
+A global movement to mobilise and intensify “international and national 
+action by governments, multilaterals, the private sector, research and 
+academia, and civil society to address the major health challenges facing 
+women and children”. 
+2010 
+Scaling up  
+nutrition  
+movement 
+A movement founded on the principle that “all people have a right to 
+food and good nutrition. It unites people from governments, civil society, 
+the UN, donors, businesses and researchers in a collective effort”. 
+2010 
+Sustainable 
+energy for all 
+A global initiative to “achieve universal energy access, improve energy 
+efficiency, and increase the use of renewable energy”. 
+2012 
+Global  
+education first 
+An initiative led by the Secretary-General that unites a broad spectrum of 
+world leaders and advocates who “all aspire to use the transformative 
+power of education to build a better future for all”. 
+2010 
+Every woman, 
+Every child 
+A global movement to mobilise and intensify “international and national 
+action by governments, multilaterals, the private sector, research and 
+academia, and civil society to address the major health challenges facing 
+women and children”. 
+Source: 
+Authors, based on the initiatives’ websites 
+Several of these initiatives appear to have been inspired or initiated as a result of innova-
+tive work by the UN Global Compact (The Global Compact 2012a) that is mandated to 
+advance universal ethical principles about human rights, labour, combating corruption and 
+protecting the environment. It aims to have the private sector adhere to these principles 
+and implement local integrity measures.  
+Both the UNDS and recipient countries must clarify their roles in support of these global 
+initiatives (the what), whose lines of accountability in the UNDS and towards recipient 
+countries must also be strengthened. This entails recognising implications at the UNDAF 
+level in terms of the activities and UNDS funding requirements (the how). Moreover, 
+funding must be ensured beyond the traditional aid boundaries, and operating partners 
+must organise common practices for applying standard procedures, implementing integrity 
+measures and securing due diligence.  
+It is therefore expected that a kind of system-wide global partnership structure will soon be 
+created to harmonize these operating approaches (The Global Compact 2012b). Apart from 
+including the UNDS contribution to the global initiatives in the UNDAFs – which should 
+take place during the preparatory process, if possible – funding requirements must be in-
+cluded with a system for monitoring their country-level implementation. At the central level, 
+all global partnership structures should not only regularly report to ECOSOC but also help 
+to improve integration at a system-wide strategic level during the next QCPR cycle. 
+4.3.5 The harmonization of business practices 
+Member States are sometimes quick to overlook reform efforts aimed at harmonizing 
+business practices although it is an area of key importance. Aside from its potential to in-
+
+---
+
+Pio Wennubst / Timo Mahn 
+30 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+crease efficiency and effectiveness,30 harmonized business practices are a necessary pre-
+requisite for a more cohesive UNDS. It is no coincidence that the “Capacity Study” from 
+1969 dwelled on the subject (UNDP 1969).  
+To prepare for the QCPR negotiation process, the UN Secretariat made major efforts to 
+establish empirical evidence and a substantive basis for harmonizing business practices 
+(Balogun 2012a; Balogun 2012b et al.) In this regard, the 2012 QCPR Resolution aims, 
+inter alia, to expand existing ‘common systems’ and establish new ones to:   
+ 
+consolidate support services at the country level (para. 152),  
+ 
+establish interoperable enterprise resource-planning (ERP) systems (para. 160), and 
+ 
+anchor support services in a unified set of regulations, rules, policies and procedures 
+(para. 155).  
+The move to harmonize business practices throughout the UNDS seems to be in line with 
+the quiet revolution called for in the most recent QCPR resolution. Its transformational 
+agenda foresees establishing system-wide business practices to increase the efficiency, 
+effectiveness and relevance of the UNDS. A secondary objective is enhancing transparen-
+cy and establishing a capacity for the system-wide collection and usage of information to 
+help focus on the overall objectives while also managing business.  
+5 
+System-wide funding ‘beyond aid’ 
+This chapter proposes a feasible solution for uniting the what, the how and the means of 
+the UNDS. A system-wide mandate requires that institutions be strengthened throughout 
+the system, which can best be achieved with a system-wide funding mechanism to incen-
+tivise and speed results. A first attempt took place when heads of state at the 2005 World 
+Summit agreed to try to make the “World Solidarity Fund” operational – the first system-
+wide funding mechanism that the UNDP was supposed to manage.31 With the internation-
+al community now preparing for the paradigm shift towards the Sustainable Development 
+Agenda, this debate will surely receive new impetus as soon as a new post–2015-agenda 
+has been agreed.  
+The existing UNDS funding system could be characterised as headquarter-centred and 
+agency oriented, which was suitable for the traditional institutional setting but has reached 
+its growth limits because of its supply-driven and fragmentation-inducing nature. The 
+QCPR analysis shows Member States requesting demand-driven, systemic funding. Since 
+a paradigm shift implies a system-wide mandate for the UNDS to support, with variable 
+efforts, every country worldwide, the funding mechanism would need more support than 
+available through the classic ODA rationale and resources (‘beyond aid’). It also would 
+have to incentivise coherence and delegate authority within the UNDS. Once the post–
+2015 framework has been agreed and the system-wide mandate spelled out, the funding 
+                                                           
+30  Compare with UNDOCO 2012.  
+31  UN Doc. GA/RES/57/265 of 28 Feb. 2003.
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+31 
+implications should also become clearer – and justify holding a conference on develop-
+ment financing to introduce the new mechanism. 
+5.1 
+The system-wide funding dilemma 
+During each four-year QCPR cycle, the UNDS operates with around USD 90 to 95 billion 
+(UNSG 2012a). In the last few years, the annual envelope has not varied much while the 
+relative share of core and non-core contributions has changed. But agencies’ strategic 
+plans relate only to core funding, which is rapidly diminishing: a reversal of this trend is 
+not in sight.   
+After stressing that core resources remain the bedrock of operational activities for devel-
+opment because of their unified nature (OP 26), the 2012 QCPR Resolution recognises 
+that Member States’ current funding practices pose challenges in terms of fragmentation 
+and disincentives to adopting a UN-wide focus and strategic positioning (OP 28). Most 
+funding mechanisms tend towards a supply-driven system. The reduction in the proportion 
+of core contributions to funds and programmes, together with the trend towards increased 
+single-donor funding for specific projects (including by non-state actors), seems to con-
+firm – at least indirectly – the supply-driven character of current UNDS funding practices. 
+In other words, funding increasingly tends to support specific proposals rather than the 
+overall mandates of the institutions concerned.  
+It can also be argued that even core contributions are fundamentally not fully of a system-
+wide nature, since they relate to the mandate of a specific agency and their amount – on 
+top of each country’s assessed contribution to the UN – largely depends on the priorities 
+of important Member States. For example, UN Women, which is arguably the agency with 
+the clearest system-wide mandate and institutional set-up in the UNDS, has to struggle to 
+fund its core activities.  
+The funding mechanism put in place to support the implementation of integrated UN pro-
+grams in “Delivering as One” pilot countries is the most obvious effort to move towards a 
+system-wide funding mechanism at country level. However, its voluntary basis has limited 
+its success, since it mostly depends on a limited number of donors pooling their contribu-
+tions. These and other pooled funding initiatives remain of complementary value, but do 
+not constitute long-term alternatives for UNDS ‘bedrock funding’.  
+The dilemma for Member States is that, beyond the individual agency mandate, core con-
+tributions are not oriented to the whole system, and the few attempts at system-wide fund-
+ing are based on voluntary contributions. Virtually all recent funding increases have been 
+earmarked contributions (UNSG 2012a), suggesting that because the existing funding sys-
+tem tends to be supply-driven and fragmented, no progress towards compliance with a 
+UNDS system-wide mandate can be made. 
+How can the funding requirements of a future UNDS mandate be assessed? Such attempts 
+face the fundamental challenge that no system-wide analysis exists about what the world 
+needs from the UNDS. While progress in harmonizing business practices and other struc-
+tural measures should provide a more comprehensive picture, further analysis and assess-
+ments are needed. The increase in the SG’s thematic initiatives, which go beyond the
+
+---
+
+Pio Wennubst / Timo Mahn 
+32 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+scope and means of the current UNDS, could be signs of growing demands on the system. 
+Member States can be expected to agree, especially since the 2012 QCPR Resolution re-
+quests that UN funds and programmes report on concrete steps taken to broaden their do-
+nor base and thus reduce reliance on a limited number of donors (OP 35). Finally, the res-
+olution encourages funds and programmes to work with numerous stakeholders so as to 
+diversify sources, especially for core funding (OP 37).  
+It must be emphasised that Member States seem to be concerned not only with quantita-
+tive aspects of funding, but especially with aligning UNDS core principles to national pri-
+orities (OP 37). In a clear sign of frustration, Member States have expressed concern about 
+the lack of progress in defining a ‘critical mass’ (OP 38) in the 2012 QCPR Resolution by 
+reiterating its potential positive impact and calling for a set of common principles to de-
+fine the critical mass of core resources in response to the needs of programme countries 
+(OP 39). There seems to be a clear demand that system-wide funding must respond to the 
+needs of countries, that is, be demand-driven. To make sure that their message is fully 
+understood, Member States also ask the SG to report on the funding of operational activi-
+ties for development and call for the system-wide application of optional incentive mech-
+anisms for increasing core resources to be applied on a system-wide level (OP 55) – above 
+and beyond the existing funding mechanisms. Crucially, the 2012 QCPR Resolution also 
+encourages UNDS governing bodies to consolidate all available resources into bud-getary 
+frameworks derived from their strategic plans (OP 41) and requests that these be included 
+in a system-wide budgetary framework within the UNDAFs (OP 42). Concerning lines of 
+accountability, the QCPR Resolution stresses that funding for operational activities should 
+be aligned with the programme countries’ national priorities and plans (OP 34), which 
+indicates a demand-driven, country-led approach. The QCPR recognises that pooled fund-
+ing mechanisms are important tools for advancing “Delivering as One” (OP 135) and re-
+quests the UNDS to support programme countries applying the model with an integrated 
+package the includes funding (OP 141), emphasising that Member States comprehend that 
+a more systematic approach will be required for future funding.  
+The 2012 QCPR Resolution thus sets the stage for developing system-wide support for the 
+UNDS to fulfil its mandate for the Sustainable Development Agenda. This attempt resem-
+bles decentralisation processes in countries that aim to better respond to citizens’ needs – 
+whereby shifting authority to the local level implies structural changes in the state appa-
+ratus at both the central and local levels. Such structural changes are challenging because 
+shifts in authority are usually accompanied by changes in financial flows, with part of the 
+envelope that used to flow from the treasury to line ministries redirected to local authori-
+ties. Past successes in adopting decentralization models show that using pilots and prepar-
+ing changes in an accurate and transparent manner helps diffuse the tensions that are espe-
+cially acute during the transition period.  
+In the UNDS case, there seems to be scope to build on the “Delivering as One” experience 
+of piloting a system-wide, country-focussed approach that was recognised by Member 
+States in the 2012 QCPR Resolution. However, it seems that more work is needed, con-
+sidering that UNDAFs have generally not yet become strategic, results-oriented pro-
+grammes that define the UNDS response to the specific demands of individual countries.
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+33 
+5.2 
+Proposal for a system-wide funding mechanism 
+System-wide funding is intended to advance the UNDS system-wide mandate that would 
+be applied in a differentiated manner, with country-led processes determining needs to be 
+quantified, qualified and prioritised in a system-wide, results-oriented programming 
+framework managed by RCs. Such a proposal would by no means replace existing funding 
+structures because it would be focussed on the UNDS system-wide mandate instead of its 
+entire development work. Should Member States mandate the UNDS to facilitate the shift 
+towards sustainable development, the programming framework would encompass all 
+UNDS contributions as well as the SG initiatives – in line with priorities set by local au-
+thorities. Voluntary funding would continue to cover other activities regarding agency-
+specific mandates.  
+The system-wide financing mechanism would have to be created on the basis of existing 
+approaches, including the Expanded Funding Window for “Delivering as One”, that would 
+be adapted to the concept. Ideally, the mechanism would be centrally managed by an ad-
+ministrative entity, such as the UNDP Multi-Partner Trust Fund Office, be steered by a 
+Committee of the CEB and report to ECOSOC. The latter would operate as a system-wide 
+executive board providing an appropriate level of oversight for Member States. RCs 
+would manage the mechanism at the country level, using an adaptation of the UNDAF as 
+its managing tool. An enhanced UNDAF is critical for ensuring that ‘demand-driven’ sys-
+tem-wide funding guarantees results-oriented support for country programmes. Depending 
+on the magnitude of the programme, the RC would either report directly to local authori-
+ties, or to a local steering committee that in turn would be accountable to the authorities.  
+The mechanism would have to define a distribution formula to allocate funds based on 
+such notions as ‘critical mass’ in order to ensure adequate support, and set rules for estab-
+lishing priorities if there is not enough funding. To ensure appropriate responses to the 
+demands of national programmes, it would have to take into consideration principles of 
+decentralisation, and it would also have to enhance the RCs’ role in allocating resources to 
+UN entities based on priorities agreed with local authorities. For the particular case of 
+support for countries transitioning from crisis to development, see Box 5.  
+The proposal outlined above is based on the diagnosis that the debate about core versus 
+non-core contributions to the UNDS will not lead to significant funding increases without 
+a dramatic change of perspective. The demand-driven nature of a system-wide funding 
+mechanism, along with the Member States’ clear, long-term mandate for the UNDS, 
+should prevail once the managerial tools, results-based orientations and harmonized busi-
+ness practices explained in the QCPR have been put in place or are being implemented. 
+If regulations guaranteed access to funding for UNDS entities that comply to implement 
+system-wide measures prescribed by the QCPR, the system-wide funding mechanism 
+would serve to incentivise a coherent system. Such a mechanism would not only help to 
+reduce the overlapping of activities and dispersion of resources that result from fund-
+raising having become a primary preoccupation of the RC and UN country-team members 
+but would also help eliminate the current competitive environment that promotes the 
+fragmentation of activities. In the long term, once the system-wide funding mechanism’s 
+functionality has been proven, it could absorb the costs of the RC system and any system-
+wide structures the UNDS needs, including core contributions to funds and programmes.
+
+---
+
+Pio Wennubst / Timo Mahn 
+34 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+In terms of their funding sources, current funding models are largely based on voluntary 
+contributions from traditional donors, national contributions to national programmes 
+(‘self-funding’) and South-South cooperation. Implementing the Sustainable Development 
+Agenda, however, would seem to require collective efforts to overcome the recipi-
+ent/provider dichotomy that mirrors the North/South divide found in many UNDS fora. 
+Such an outcome would be an important by-product of an innovative financing mecha-
+nism to direct funds towards sustainable-development objectives. Regular debates have 
+been held in political fora about how to secure more non-earmarked funding that goes 
+‘beyond aid’, such as the tax on financial transactions that was discussed in the European 
+Union in early 2013. In any case, the debate about funding system-wide operations 
+through innovative sources ‘beyond aid’ can only begin after the what and the how of the 
+UNDS are in place.  
+Box 5: Support for countries in transition under the system-wide funding mechanism 
+The proposal for a system-wide ‘beyond aid’ financing mechanism depends on Member States’ political 
+will to define the UNDS’s system-wide mandate. For example, it is conceivable that during the debates, 
+Member States could acknowledge that the UNDS has a vital role to play in countries affected by natural 
+disasters or conflicts that are transitioning from relief to development (OP 94). It bears consideration that 
+the 2012 QCPR Resolution invites Member States to examine their own financing mechanisms so as to 
+provide rapid and flexible financing for prevention, resilience, preparedness and response (OP 96). It 
+further reiterates the need for the UNDS to take steps to strengthen the link between financing mecha-
+nisms (OP 100), including delegating authority to allocate resources (OP 103), improving alignment with 
+national priorities and responding more swiftly (OP 102). In terms of the system-wide funding mecha-
+nism, this implies defining an up-front and pre-loaded window for fast-track funding to provide support in 
+case of emergencies (including natural disasters), and for countries in transition. 
+Source: 
+Authors 
+6 
+Conclusions 
+Using the 2012 QCPR Resolution as a starting point, we propose giving a new sense of 
+purpose and direction to the UNDS as it adapts its business model to the ‘beyond aid’ Sus-
+tainable Development Agenda. We view the QCPR process as the right instrument for this 
+purpose – which was broadly confirmed when Member States were able to reach consen-
+sus during the complex negotiations about the 2012 QCPR Resolution, sending a strong 
+message to the UNDS that a system-wide approach was needed.  
+In our assessment, the UNDS has neither a comprehensive hub to reconcile its system-
+wide mandate with its operations, nor to reconcile the mandate with the means for its im-
+plementation. This distinguishes the UNDS as a whole from the way each of its compo-
+nents operates. While such mechanisms have long existed at the level of individual enti-
+ties, they do not yet exist for the whole system. An established system-wide mandate for 
+the UNDS (the what) that is not linked to its means of implementation is likely to fall 
+short of its full potential, however, as is focussing on the how without defining the what. 
+The main concern should be to first reconcile the system-wide mandate with the opera-
+tions and then with the means of implementation.
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+35 
+We suggest that Member States beef up the QCPR instrument from its current limited 
+function and status into a system-wide strategy, or a ‘QCPR+’ to create a cohesive UNDS 
+that links the system-wide what to the how and provides further guidance about means of 
+implementation. These main elements of the QCPR+ are the equivalent of a corporate 
+strategy in the business world. Under this scenario, the QCPR+ and the UNDAF+ would 
+embody the UNDS system-wide strategy at UN headquarters and in the field. 
+6.1 
+A feasible evolution in the QCPR cycle 
+The linkage between mandate and strategic guidance and operations would greatly benefit 
+from an improved sequencing of events. Below we outline four elements to implement the 
+proposal.  
+First, the UN Secretariat’s Department of Economic and Social Affairs (DESA) should 
+gradually be given more authority to monitor activities and progress with regard to im-
+plementing the 2012 QCPR Resolution at the central and country levels. Under the SG’s 
+guidance, DESA should continue to assure improved analysis in system-wide reports on 
+UN funding, performance, programme results and operational activities for development, 
+including the comparison of system-wide data, definition and classifications – as outlined 
+in the 2012 QCPR (OP 187). The growing number of specific requests and mandates in 
+QCPR resolutions underscores the need to rigorously monitor their implementation. For 
+this, DESA preparatory work will be crucial.  Member States should play a proactive role 
+by introducing coherent, system-wide messages to UN governing bodies, whether they are 
+based in New York, Geneva, Rome, Vienna, Paris, Copenhagen or Nairobi. 
+Second, the 2012 QCPR Resolution called for an independent system-wide evaluation 
+mechanism to focus on key UNDS mandates; this would provide information to gov-
+erning bodies and help UNDG members promote system-wide mandates in their opera-
+tions. The 2012 QCPR Resolution reaffirmed the need to strengthen independent, im-
+partial, system-wide evaluation of operational activities for development (OP 176) by 
+enhancing existing mechanisms (OP 177) and requested the SG to establish an interim, 
+multi-stakeholder mechanism to coordinate independent system-wide evaluations 
+about a pilot evaluation mechanism to be submitted to ECOSOC in 2013 (OP 181). 
+The 2012 QCPR Resolution also requested the JIU to make a system-wide evaluation 
+of the Action Plan of Gender Equality and the Empowerment of Women. No system-
+wide evaluation of UNDAFs is foreseen, but the 2012 QCPR Resolution requests 
+funds and programmes and encourages specialized agencies to increase their use and 
+evaluation of UNDAFs (OP 182). However, these mandates appear to be incoherent: 
+How could any non-system-wide body independently evaluate a system-wide frame-
+work like UNDAF? This indicates that more thought is needed about how to strength-
+en accountability lines so countries will accept UNDAFs as strategic frameworks for 
+operations.  
+Third, fully aligning UNDS-entity planning processes with the QCPR cycle results in bet-
+ter strategic guidance for operations. A complete QCPR cycle usually lasts around five 
+years. It starts with preparations for the next cycle beginning in year ‘0’. During this year, 
+unlike in other years, ECOSOC does not adopt a follow-up resolution to the previous 
+QCPR. Instead, the SG prepares a report with recommendations that serves as an input for
+
+---
+
+36 
+the ‘z
+that ye
+tem-w
+the fun
+govern
+QCPR
+QCPR
+mentin
+cycle 
+pare a
+QCPR
+Fourth
+the fou
+that M
+in the
+avoid 
+wise t
+prepar
+Figur
+ 
+Sourc
+ 
+zero’ draft o
+ear’s GA an
+wide guidan
+nds, progra
+ning bodies
+R resolution
+R is adopted
+ng the 4-ye
+– which is 
+a new QCP
+R cycle. 
+h, the progr
+ur-year QC
+Member Stat
+e future is t
+a big gap b
+to introduce
+rations are b
+re 3: 
+The Q
+e: 
+Authors 
+Germa
+of the upco
+nd if all goe
+nce in the re
+ammes and s
+s, taking in
+n. The first 
+d during the
+ear cycle of 
+the third ye
+R resolutio
+ramming cy
+CPR cycle, w
+tes should d
+the review o
+between tha
+e the revise
+being made
+QCPR cycle 
+an Developme
+oming QCP
+es well, is a
+esolution he
+specialized 
+nto consider
+of a series
+e ECOSOC
+the strategi
+ear that stra
+n begins. F
+ycles of mo
+which mean
+deliver in th
+of the UND
+at review an
+ed mandate
+for the new
+ent Institute / D
+PR Resolutio
+approved at 
+elps in dev
+agencies th
+ration the s
+s of three a
+C in year ‘1
+ic plans. In
+ategic plans
+Figure 3 pro
+ost UNDS e
+ns that the U
+he form of a 
+DS system-
+nd the elabo
+e in an HLP
+w QCPR.  
+Deutsches Ins
+on. The res
+the end of 
+eloping the
+hat are then 
+system-wid
+annual resol
+’. In year ‘
+n the fourth
+s are implem
+ovides a sch
+entities hav
+UNDS is pre
+QCPR+. W
+wide mand
+ration of th
+PF Declarat
+Pio We
+titut für Entw
+solution is n
+year ‘0’. In
+e strategic f
+approved b
+de guidance
+lutions on i
+2’, the QCP
+(and last) y
+mented – a 
+hematic ove
+ve already b
+epared for s
+What needs t
+date at the p
+he strategic p
+tion during 
+ennubst / Tim
+wicklungspoliti
+negotiated 
+n year ‘1’, th
+four-year pl
+by their resp
+e provided 
+implementi
+CPR begins 
+year of the 
+new cycle 
+erview of t
+been aligne
+strategic gu
+to be incorp
+political lev
+plans, it wo
+g year ‘0’ –
+mo Mahn 
+ik (DIE) 
+during 
+he sys-
+lans of 
+pective 
+by the 
+ing the 
+imple-
+QCPR 
+to pre-
+he full 
+ed with 
+uidance 
+porated 
+vel. To 
+ould be 
+– when
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+37 
+Given the QCPR cycle, Member States could implement this proposal in the following steps:  
+ 
+2013–14: QCPR implementation focuses on key system-wide priorities to be decided 
+at the CEB level and included in the strategic plans of the funds and programmes.  
+ 
+2014: Preparatory work, including legal advice on strengthening system-wide ac-
+countability lines and decision-making at country and headquarters levels. This in-
+cludes revamping UNDAFs, linking funding to priorities, and setting up a monitoring 
+system and a more authoritative, managerial CEB mandate that includes the UNDG.  
+ 
+2014: A resolution is adopted to revise and upgrade ECOSOC’s system-wide deci-
+sion-making functions, with better oversight of system-wide global partnerships.  
+ 
+2015–16: Preparation of the HLPF Analysis on the comparative advantages of the 
+UNDS (2015) and the Declaration of its system-wide mandate (2016) for the next 
+QCPR cycle. 
+ 
+2016: Preparation of system-wide funding for the UNDS mandate to support sustain-
+able development. 
+ 
+2016: Negotiations of a new QCPR+ Resolution to replace the current QCPR on the 
+basis of the above-mentioned HLPF Declaration.  
+ 
+2017: Convening an international conference on system-wide ‘beyond aid’ financing 
+of the UN mandate to support the Sustainable Development Agenda, and preparations 
+to make the fund operational in 2018. 
+6.2 
+Outlook 
+While negotiating the 2012 QCPR Resolution, Member States swung from a minimalist 
+target of ‘securing low-hanging fruits’ to near-agreement on a ‘daring-to-fly-high’ agenda. 
+Discussions focussed on preparatory work to analyse the elements of a system-wide gov-
+ernance mechanism, building on the System-wide Coherence process (GA/RES/64/289) in 
+conjunction with the evolution of the post–2015 and SDG processes – in other words, with 
+the UNDS’s future mandate. 
+Even though such an agreement proved beyond reach during the 2012 round of negotia-
+tions, it was clear that this future debate is unavoidable. A pragmatic way to prepare for 
+the next QCPR cycle would be to proceed with what is within reach and in line with the 
+outcomes of the 2012 QCPR Resolution.  
+The future of QCPR resolutions lies in moving from a limited policy review to a system-
+wide strategy for sustainable development – the QCPR+ – that would define the mandate, 
+operations, structure, partnerships and financial means for a four-year cycle of UNDS op-
+erations moving towards implementing a Sustainable Development Agenda ‘beyond aid’.
+
+---
+
+
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+39 
+ 
+Bibliography  
+Anstee, M. J. (2012): Millennium Development Goals : milestones on a long road, in: R. Wilkins / D. Hulme 
+(eds.), The Millennium Development Goals and beyond : global development after 2015, London: 
+Routledge  
+Balogun, P. (2012a): The relevance, effectiveness and efficiency of the United Nations Development 
+Assistance Framework (UNDAF) : a report prepared for the United Nations Department of Economic 
+and Social Affairs; online: http://www.un.org/esa/coordination/pdf/undaf_report.pdf 
+– (2012b): The UNDAF : presentation at the UNITAR seminar; online: http://www.un.org/esa/coordination/ 
+pdf/UNITAR_FEB_22_BALOGUN_PRESENTATION_V2.pdf (accessed 31 Oct. 2013) 
+Browne, S. (2011): The UN development program and system, London: Routledge  
+– (2012): The UN development system : the case for reform : power point presentation; online: http://future 
+un.org/unog-library-talks-united-nations-development-the-case-for-reform/ (accessed 31 Oct. 2013) 
+Childers, E. / B. Urquhart (1994): Renewing the United Nations system, Uppsala: Dag Hammarskjöld 
+Foundation  
+Federal Ministry for the Environment, Nature Conservation and Nuclear Safety (2011): General informa-
+tion : transformation of our energy system, Berlin; online: www.bmu.de/P118-1/ (accessed 31 Oct. 
+2013) 
+Fomerand, J. (2003): Mirror, tool, or linchpin for change? : the UN and development, New York: Academic 
+Council on the United Nations System (International Relations Studies and the United Nations 
+Occasional Papers 2); online: http://acuns.org/wp-content/uploads/2012/06/MirrorToolorLinchpinfor 
+Change.pdf (accessed 31 Oct. 2013) 
+Government of Ethiopia (2011): The path to sustainable development : Ethiopia's climate-resilient green 
+economy strategy, Addis Ababa: Environmental Protection Authority 
+Helliwell, J. / R. Layard / J. Sachs (2012): World happiness report, New York: Earth Institute  
+Hill, F. (2010): The future of the UN development system : conference report; online: http://futureun.org/ 
+wp-content/uploads/wp1033-report.pdf (accessed 31 Oct. 2013) 
+Hoff, H. (2011): Understanding the nexus : background paper for the Bonn 2011 conference; online: 
+http://www.water-energy-food.org/en/whats_the_nexus/background.html (accessed 31 Oct. 2013) 
+Jenks, B. et al. (2005): The case for a United Nations development pillar, mimeo 
+JIU (Joint Inspection Unit) (2012): Strategic planning in the United Nations system, Geneva 
+Jolly, R. / L. Emmerij / T. G. Weiss (2009): UN ideas that changed the World, Bloomington, Ind.: Indiana 
+University Press 
+Magnuson, J. (2013): The approaching great transformation : toward a livable post carbon economy, New 
+York: Seven Stories Press 
+Mahn, T. (2012): New challenges, new partners, a new UN development system? : conference report, Wilton 
+Park; online: http://www.wiltonpark.org.uk/resources/en/pdf/22290903/2012/ wp1183-report (accessed 
+31 Oct. 2013) 
+– (2013): Country-level aid coordination at the United Nations – taking the resident coordinator system 
+forward, Bonn: DIE (Studies 77) 
+Maslow, A. (1966): The psychology of science : a reconnaissance, 1st ed., New York: Harper & Row  
+Melamed, C. / A. Scott / T. Mitchell (2012): Separated at birth, reunited in Rio? : a roadmap to bring 
+environment and development back together, London: Overseas Development Institute (Background 
+Note May 2012) 
+Mitrany, D. (1966): A working peace system, Chicago, Ill.: Quadrangle Press  
+Nordic UN Project (1991): The United Nations : issues and options : five studies on the role of the UN in the 
+economic and social fields commissioned by the Nordic UN project, Stockholm: Almqvist & Wiksell 
+International  
+Permanent Mission of Switzerland to the UN (2011): The PGA handbook : a practical guide to the United 
+Nations 
+General 
+Assembly, 
+New 
+York; 
+online: 
+http://www.unitar.org/ny/sites/unitar.org.ny/ 
+files/UN_PGA_Handbook.pdf (accessed 14 Nov. 2013)
+
+---
+
+Pio Wennubst / Timo Mahn 
+40 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+– (2013a): ECOSOC-Tagungsstruktur, internal document 
+– (2013b): QCPR note 1, internal document 
+– (2013c): QCPR note 2, internal document 
+– (2013d): QCPR note 3, internal document 
+– (2013e): QCPR note 4, internal document 
+– (2013f): QCPR note 5, internal document 
+– (2013g): QCPR note 6, internal document 
+Raworth, K. (2012): A safe and just space for humanity : can we live within the doughnut?, Oxford: Oxfam; 
+online: 
+http://www.oxfam.org/sites/www.oxfam.org/files/dp-a-safe-and-just-space-for-humanity-
+130212-en.pdf (accessed 31 Oct. 2013) 
+Righter, R. (1995): Utopia lost : the United Nations and world order, New York: Twentieth Century Fund 
+Press  
+Rochester, J. M. (1993): Waiting for the millennium : The United Nations and the future of world order, in: 
+Canadian Journal of Political Science 27 (4), 864–865 
+Rockstrom, J. et al. (2009): A safe operating space for humanity, in: Nature 461 (7263), 472–475; online: 
+http://dx.doi.org/10.1038/461472a  (accessed 14 Nov. 2013) 
+Schweizerische Eidgenossenschaft (2013): Energiestrategie 2050, Bern: Eidgenössisches Departement für 
+Umwelt, Verkehr, Energie und Kommunikation; online: http://www.bfe.admin.ch/themen/00526/ 
+00527/?lang=de&dossier_id=05024 (accessed 31 Oct. 2013) 
+Steffen, W. / P. J. Crutzen / J. R. McNeill (2007): The anthropocene : are humans now overwhelming the 
+great forces of nature?, in: AMBIO: A Journal of the Human Environment 36 (8), 614–621; online: 
+http://dx.doi.org/10.1579/0044-7447(2007)36[614:TAAHNO]2.0.CO;2 (accessed 14 Nov. 2013) 
+Thakur, R. / T. G. Weiss (2009): The UN and global governance : an unfinished journey, Bloomington, Ind.: 
+Indiana University Press 
+The Global Compact (2012a): Catalyzing transformational partnerships between the UN & business, 
+Switzerland (Conference Background Note) 
+– (2012b): Operationalizing the UN partnership facility (Agenda Task Force Session), mimeo 
+UN Conference on Environment and Development (1992): Rio declaration on environment and devel-
+opment; online: http://habitat.igc.org/agenda21/rio-dec.html (accessed 31 Oct. 2013) 
+UN System Task Team (2012): Realizing the future we want for all : report to the Secretary-General, New 
+York: UN System Task Team on the Post–2015 UN Development Agenda  
+UNDOCO (United Nations Development Operations Coordination Office) (2012): The impact of UN 
+coordination : stories from the field : synthesis of 2011/12 resident coordinator annual reports, New 
+York; online: http://rconline.undg.org/EXTERNAL/undg/UNDG_AR_Layout_ R5.pdf (accessed 31 
+Oct. 2013) 
+UNDP (United Nations Development Programme) (1969): A study of the capacity of the United Nations 
+development system : Jackson report, Vol. 1, 2, New York 
+UNGA (United Nations General Assembly) (2012): The future we want (General Assembly Resolution 
+A/RES/66/288) 
+– (2013): Lessons learned from the Commission on Sustainable Development : an advance unedited version; 
+online: http://sustainabledevelopment.un.org/content/documents/1676SG%20report%20on%20CSD% 
+20lessons%20learned_advance%20unedited%20copy_26%20Feb%2013.pdf (accessed 31 Oct. 2013) 
+UNS (United Nations Secretariat) (2012): Informal note 1 : the relationship between the GA resolution on 
+the quadrennial comprehensive policy review of UN operational activities for development and the 
+specialized agencies, 7. Nov. 2012; online: http://www.un.org/esa/coordination/pdf/information _note _ 
+1-relation_btw_ga_and_sas.pdf (accessed 31.Oct. 2013) 
+UNSG (United Nations Secretary General) (2009): Functioning of the resident coordinator system, including 
+costs and benefits (Report of the Secretary-General E/2009/76)
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+41 
+– (2012a): Analysis of funding of operational activities for development of the United Nations system for 
+the year 2010 : an advance, unedited version, New York: Department for Social and Economic Affairs; 
+online: http://www.un.org/esa/coordination/pdf/2012_funding_report-figures_and_tables.pdf (accessed 
+31 Oct. 2013) 
+– (2012b): Quadrennial comprehensive policy review of operational activities for development of the United 
+Nations system : an advance, unedited version, New York; online: http://www.un.org/esa/coordination/ 
+pdf/sg_report_for_2012_qcpr.pdf (accessed 31 Oct. 2013) 
+– (2012c): Quadrennial comprehensive policy review of operational activities for development of the United 
+Nations system: recommendations : an advance, unedited version; online: http://www.un.org/esa/ 
+coordination/pdf/sg_qcpr_report_adv_unedited_version.pdf (accessed 31 Oct. 2013) 
+– (2012d): The Secretary-General’s five-year action agenda, New York: United Nations 
+– (2013): Secretary-General’s address to the General Assembly on 22 January 2013; online: http:// 
+www.un.org/sg/statements/index.asp?nid=6563 (accessed 31 Oct. 2013) 
+Vatterodt, M. (2008): The implementation of the Paris declaration on aid effectiveness by the United Nations 
+: progress to date and need for further reforms, Bonn: DIE (Studies 35) 
+Weinlich, S. (2011): Reforming development cooperation at the United Nations : an analysis of policy 
+position and actions of key states on reform options, Bonn: DIE (Studies 59) 
+World Commission on Environment and Development (1987): Our common future, Oxford
+
+---
+
+
+
+---
+
+Annex
+
+---
+
+
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+45 
+Annex 1: 
+Categorization – Addressees of CPR resolutions 
+United Nations Development System 
+Operational activities for development of the UNDS 
+Agencies and the United Nations development system 
+Development cooperation programmes of the United Nations system 
+Members of the United Nations development system 
+Operational activities of the United Nations 
+Organizations and bodies of the United Nations system 
+Organizations of the United Nations development system 
+Organizations of the United Nations  system engaged in operational activities for development 
+Organizations of the United Nations development system, in particular UN Women 
+Organizations of the United Nations system 
+Organizations of the United Nations system, including those with no field level representations, 
+and the regional commissions 
+Organs and organizations of the United Nations system 
+Organs, organizations and bodies of the United Nations system 
+Organs, organizations and bodies of the United Nations system engaged in operational activities 
+for development 
+United Nations 
+United Nations Development Group 
+United Nations development system 
+United Nations development system, including its agencies, funds and programmes 
+United Nations operational system 
+United Nations system including the funds, programmes and specialized agencies 
+United Nations system 
+United Nations System Chief Executive Board for Coordination of the United Nations system-
+wide policy on gender equality and the empowerment of women and strategy on gender main-
+streaming 
+United Nations system, including the fund and programmes, the specialized agencies and the  
+Secretariat 
+Intergovernmental 
+All relevant governing bodies, in particular the Governing Council of the United Nations  
+Development Programme 
+Economic and Social Council 
+Executive boards and governing bodies of the funds, programmes and specialized agencies 
+Executive boards and secretariats of the United Nations Development Programme and United 
+Nations Populations Fund and the United Nations Children’s Fund  
+Executive boards of the funds and programmes 
+Executive boards of the funds and programmes and the governing bodies of the specialized agencies 
+Executive Boards of the United Nations Development Programme, the United Nations Populations 
+Fund, the United Nations Children’s Fund and UN Women 
+Executive boards of the United Nations funds, programmes and specialized agencies 
+Governing bodies of (all) funds, programmes and specialized agencies
+
+---
+
+Pio Wennubst / Timo Mahn 
+46 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+Annex 1 (cont.): 
+Categorization – Addressees of CPR resolutions 
+Intergovernmental (cont.) 
+Governing bodies of all organizations of the United Nations development system 
+Governing bodies of the (relevant) organs, organizations and bodies of the United Nations system 
+Governing bodies of the organizations of the United Nations system 
+Governing bodies of the organizations of the United Nations system concerned with activities for 
+development 
+Governing bodies of the organizations United Nations development system 
+Governing bodies of the relevant organizations 
+Governing bodies of the specialized agencies and other relevant United Nations entities 
+Governing Council of the United Nations Development Programme 
+President of the Economic and Social Council 
+States members of the governing bodies of all organs organizations and bodies of the United  
+Nations system 
+United Nations System Chief Executives Boards for Coordination 
+United Nations System Chief Executives Boards for Coordination in the United Nations  
+Development Group 
+Interagency 
+Administrator of the United Nations Development Programme 
+Country offices and the resident coordinators 
+Department of Technical Cooperation for Development 
+Development agencies of the United Nations system 
+Entities of the United Nations system 
+Executive Committee of the United Nations Development Group 
+Executive heads of all the organizations concerned 
+Executive heads of the funding organizations 
+Executive heads of the organs, organizations and bodies of the United Nations system 
+Executive heads of the United Nations funding and technical agencies 
+Field offices 
+Funding agencies of the United Nations system 
+Funding organizations 
+Funding, technical and specialized agencies 
+Funds, programmes and specialized agencies 
+Funds and programmes 
+Funds and programmes and specialized agencies of the United Nations system 
+Funds, programmes and agencies of the United Nations development system 
+Funds, programmes and specialized agencies and other entities of the United Nations development 
+system at the regional level and the regional commissions 
+Funds, programmes and specialized agencies and other entities of the United Nations system 
+Heads of the specialized agencies, the United Nations funds and programmes and the regional 
+commissions
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+47 
+Annex 1 (cont.): 
+Categorization – Addressees of CPR resolutions 
+Interagency (cont.) 
+Joint Consultative Group on Policies 
+Member organizations of the United Nations Development Group, in particular the member  
+organizations represented in its Executive Committee 
+Organizations of the United Nations development system, its regional commissions and other 
+regional and subregional entities 
+Organizations participating in programming 
+Programmes and projects in low-income countries 
+Regional commissions as well as interregional, regional and subregional cooperation 
+Regional commissions as well as the funds, programmes, specialized agencies and other entities of 
+the United Nations development system at the regional level 
+Relevant United Nations entities 
+Resident coordinator system 
+Resident coordinator 
+Resident coordinator system and the United Nations country teams 
+Resident coordinator, the specialized agencies, small technical agencies, the regional commissions 
+and organizations of the United Nation system with field-level representation 
+Resident coordinator/humanitarian coordinator system 
+Resident coordinators and the United Nations country teams 
+Separate sectoral and specialized entities, funds, programmes and specialized agencies 
+Special Unit for South–South Cooperation 
+Specialized agencies 
+Specialized and technical agencies 
+UN Women 
+United Nations agency 
+United Nations Development Assistance Framework 
+United Nations Development funds and programmes 
+United Nations Development Programme 
+United Nations Development Programme, the United Nations Fund for Population Activities, the 
+United Nations Children’s Fund and the World Food Programme 
+United Nations Development Programme, The United Nations Population Fund, the United Na-
+tions Children’s Fund and the United Entity for Gender Equality and the Empowerment of Women 
+(UN Women) 
+United Nations Evaluation Group 
+United Nations funds and programmes, the specialized agencies as well as centres of excellence in 
+the South 
+United Nations funds, programmes and agencies 
+United Nations funds, programmes and specialized agencies, including non-resident agencies 
+United Nations Office for South–South Cooperation 
+United Nations regional commissions 
+United Nations system at the country level 
+United Nations system country team
+
+---
+
+Pio Wennubst / Timo Mahn 
+48 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+Annex 1 (cont.): 
+Categorization – Addressees of CPR resolutions 
+Secretariat 
+Director-General for Development and International Economic Co-operation 
+Joint Inspection Unit 
+Secretariat 
+Secretary-General 
+Other 
+(all) Governments 
+Administrator of the United Nations Development Programme; President of the World Bank; 
+heads of regional development banks 
+All countries 
+All countries that are able to do so 
+All Governments 
+All Member States and the organizations of the United Nations development system 
+Bilateral donors and the United Nations system 
+Countries, including donor and programme countries 
+Developed countries 
+Donor countries 
+Donors and recipient countries 
+Donors and countries in a position to do so 
+General Assembly 
+Governments and organizations of the United Nations system 
+Heads of organs, organizations and bodies of the United Nations system 
+International community 
+International community and relevant United Nations entities, including the International Strategy 
+for Disaster Reduction, the United Nations funds and programmes, as well as the specialized  
+agencies 
+International financial institutions and other development partners 
+Joint Consultative Group on Policies and to the maximum extent possible the specialized agencies 
+Joint Consultative Group on Policies, the funding organizations of the United Nations system,  
+the United Nations Development Programme, the United Nations system, the United Nations  
+Population Fund, the World Food Programme and the International Fund for Agricultural  
+Development and the fund administered by the United Nations Development Programme 
+Joint Inspection Unit, the United Nations Evaluation Group, and the Office for the Coordination of 
+Humanitarian Affairs, the Office of Internal Oversight Services and the Department of Economic 
+and Social Affairs of the Secretariat 
+Major donor countries 
+Member States 
+Member States and relevant United Nations organizations 
+Member States and the United Nations development system 
+Member States and the United Nations system
+
+---
+
+A resolution for a quiet revolution 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+49 
+Annex 1 (cont.): 
+Categorization – Addressees of CPR resolutions 
+Other (cont.) 
+Member States and United Nations funds and programmes 
+National governments 
+National Governments, relevant United Nations development agencies, including specialized  
+agencies and other relevant stakeholders 
+Organizations of the United Nations development system its regional commissions and other  
+regional and subregional entities 
+Other countries 
+Programmes, funds and specialized agencies of the United Nations system, and other relevant 
+entities, such as international financial institutions and the United Nations Conference on Trade 
+and Development 
+Recipient countries 
+Recipient countries and the organizations of the United Nations system 
+Recipient governments 
+Secretary-General and the United Nations development system 
+United Nations agencies and the donor community 
+United Nations Development Programme and the Department of Technical Cooperation for  
+Development of the United Nations Secretariat 
+United Nations humanitarian entities, other relevant humanitarian organizations, development 
+partners, the private sector, donor countries and affected States 
+United Nations Pledging Conference for Development Activities 
+United Nations system and the Bretton Woods institutions 
+World Bank Group 
+World Bank, regional development banks and all funds and programmes 
+World Food Programme, executive boards of the United Nations Development Programme/United 
+Nations Populations Fund, United Nations Children’s Fund 
+Note:  
+This analysis included all addressees in consecutively numbered operational paragraphs. When the  
+addressee was not mentioned, the cases were included in the category ‘other’.
+
+---
+
+Pio Wennubst / Timo Mahn 
+50 
+German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE) 
+Annex 2: 
+UNDS Entities 
+Specialized agencies (14) 
+Food and Agriculture  
+Organization (FAO) 
+International Civil Aviation 
+Organization (ICAO) 
+International Fund for  
+Agricultural Development (IFAD) 
+International Labour  
+Organization (ILO) 
+International Maritime  
+Organization (IMO) 
+International Atomic Energy 
+Agency (IAEA) 
+International  
+Telecommunications Union 
+(ITU) 
+United Nations Educational, 
+Scientific and Cultural  
+Organization (UNESCO) 
+United Nations Industrial  
+Development Organization  
+(UNIDO) 
+Universal Postal Union (UPU) 
+World Health Organization 
+(WHO) 
+World Intellectual Property  
+Organization (WIPO) 
+World Meteorological  
+Organization (WMO) 
+World Tourism Organization 
+(UNWTO) 
+ 
+Funds and programmes (14) 
+UN Development Programme 
+(UNDP) 
+UNDP – UN Capital  
+Development Fund (UNCDF) 
+UNDP – UN Volunteers  
+programme (UNV) 
+UN Children’s Fund (UNICEF) 
+UN Population Fund (UNFPA) 
+World Food Programme (WFP) 
+Office of the UN High Commis-
+sioner for Refugees (UNHCR) 
+UN Office on Drugs and Crime 
+(UNODC) 
+UN Conference on Trade and 
+Development (UNCTAD) 
+UNCTAD – International Trade 
+Centre (ITC) 
+UN Entity for Gender Equality 
+and the Empowerment of  
+Women (UN Women) 
+UN Relief and Works Agency 
+for Palestine Refugees in the 
+Near East (UNRWA) 
+UN Environment Programme 
+(UNEP) 
+UN Human Settlements  
+Programme (UN-HABITAT) 
+ 
+Research and training institutions (6) 
+UN Interregional Crime and 
+Justice Research Institute 
+(UNICRI) 
+UN Institute for Disarmament 
+Research (UNIDIR)  
+UN Institute for Training and 
+Research (UNITAR) 
+UN Research Institute for Social 
+Development (UNRISD) 
+UN System Staff College 
+(UNSSC) 
+UN University (UNU) 
+Others (3) 
+Joint United Nations Programme 
+on HIV/AIDS (UNAIDS) 
+UN International Strategy for 
+Disaster Reduction (UNISDR) 
+UN Office for Project Services 
+(UNOPS)
+
+---
+
+Publications of the German Development Institute 
+Studies 
+78 
+Reeg, Caroline: Micro, Small and Medium Enterprise Upgrading in India: 
+learning from success cases, 299 pp., Bonn 2013, ISBN 978-88985-585-5 
+77 
+Mahn, Timo: Country-Level Aid Coordination at the United Nations – Taking 
+the Resident Coordinator System Forward, 146 pp., Bonn 2013, ISBN 978-3-
+88985-584-8 
+76 
+Loewe, Markus et al.: Which Factors Determine the Upgrading of Small and 
+Medium-Sized Enterprises (SMEs)? The case of Egypt, 288 pp., Bonn 2013, 
+ISBN 978-3-88985-583-1 
+75 
+Mallik, Vidyadhar: Local and Community Governance for Peace and Develop-
+ment in Nepal, 179 pp., Bonn 2013, ISBN 978-3-88985-582-4 
+74 
+Brandi, Clara et al.: Sustainability Certification in the Indonesian Palm Oil 
+Sector: Benefits and challenges for smallholders, 258 pp., Bonn 2013, ISBN 
+978-3-88985-581-7 
+73 
+Klingebiel, Stephan: Entwicklungszusammenarbeit – eine Einführung, 86 pp., 
+Bonn 2013, ISBN 978-3-88985-580-0 
+[Price: EUR 10.00; books may be ordered from the DIE or through bookshops.] 
+ 
+ 
+Discussion Papers 
+21/2013 Hampel-Milagrosa, Aimée / Markus Loewe / Caroline Reeg: Which Factors 
+Determine the Upgrading of Micro, Small and Medium-Sized Enterprises? Evi-
+dence from Egypt, India and the Philippines, 24 pp., Bonn 2013, ISBN 978-
+3-88985-604-3 
+20/2013 Schmitz, Birgit: Macroprudential Financial Market Regulation, 38 pp., Bonn 
+2013, ISBN 978-3-88985-602-9 
+19/2013 Klingebiel, Stephan: Multilateral Aid: Structural change and donor preferences, 
+14 pp., Bonn 2013, ISBN 978-3-88985-601-2 
+18/2013 Janus, Heiner / Stephan Klingebiel / Sebastian Paulo: Beyond Aid: Konzep-
+tionelle Überlegungen zum Wandel der Entwicklungszusammenarbeit, 19 pp., 
+Bonn 2013, ISBN 978-3-88985-600-5 
+17/2013 Keijzer, Niels: Unfinished Agenda or Overtaken by Events? Applying aid- and 
+development-effectiveness principles to capacity development support, 65 pp., 
+Bonn 2013, ISBN 978-3-88985-620-3 
+16/2013 Lundsgaarde, Erik: Bureaucratic Pluralism and the Transformation of Devel-
+opment Cooperation, 29 pp., Bonn 2013, ISBN 978-3-88985-619-7 
+[Price: EUR 6.00; books may be ordered from the DIE or through bookshops.] 
+A complete list of publications available from the DIE can be found at: 
+http://www.die-gdi.de
