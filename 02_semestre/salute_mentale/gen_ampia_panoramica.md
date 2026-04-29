@@ -1,5 +1,5 @@
 # Salute Mentale — Panoramica completa
-Semestre 02 · 9 lezioni
+Semestre 02 · 10 lezioni
 
 > Un viaggio che parte dalle definizioni base (cos'è salute,
 > malattia, normalità) e arriva al cuore della clinica: come
@@ -23,6 +23,7 @@ Semestre 02 · 9 lezioni
 | 07 | Le nevrosi | DOC e isteria: conflitto egodistonico |
 | 08 | I disturbi di personalità | Struttura del carattere, cluster A/B/C, BPD |
 | 09 | Le psicosi | Schizofrenia, psicosi organiche e funzionali |
+| 10 | Il corpo sessuato | Sessualità, identità di genere, parafilie, disforia di genere |
 
 ---
 
@@ -398,6 +399,42 @@ Lez. 05 è la cassetta degli attrezzi clinici.
 
 ---
 
+## Il corpo sessuato (Lez. 10)
+
+- **Definizione OMS** → sessualità = aspetto centrale dell'essere umano per l'intero arco
+  della vita · include sesso, identità di genere, orientamento, erotismo, piacere,
+  intimità, riproduzione · (Lez. 10)
+- **Galimberti** → sessualità come sviluppo psicologico e relazionale · parte dalla
+  relazione madre-bambino · va oltre la riproduzione: simbolizzazione, sublimazione · (Lez. 10)
+- **Körper vs. Leib (Husserl)** → corpo-oggetto anatomico vs. corpo vissuto relazionale ·
+  nelle parafilie il corpo altrui è vissuto come *Körper* · (Lez. 10)
+- **Finalità della sessualità (Grazzottin)** → amorosa · ricreativa · procreativa ·
+  strumentale (disfunzionale se causa danno) · (Lez. 10)
+- **Identità sessuale: 4 dimensioni** →
+  - **Sesso biologico** → caratteristiche fisiche alla nascita (AFAB / AMAB / intersex ~1,7%)
+  - **Identità di genere** → sensazione intima di sé (cisgender · transgender · gender fluid · agender)
+  - **Ruolo di genere** → aspettative socioculturali
+  - **Orientamento sessuale** → direzione dell'attrazione · (Lez. 10)
+- **Bisogno vs. desiderio** → bisogno = immediato, non differibile · desiderio = differibile,
+  passaggio evolutivo sano · bisogno non superato → compulsività → base delle parafilie · (Lez. 10)
+- **6 snodi di Lalli** → umanizzazione · dipendenza→autonomia · bisogno→desiderio ·
+  riconoscimento reciproco · fantasia · rapporto con l'altro · ogni snodo ha versione sana
+  e versione patologica · (Lez. 10)
+- **DSM-5-TR: 3 categorie** → disfunzioni sessuali · disforia di genere · disturbi parafilici ·
+  (Lez. 10)
+- **Disforia di genere** → focus sulla sofferenza, non sulla condizione ·
+  transgender ≠ disforia (non tutti i trans soffrono) · diagnosi necessaria per terapia
+  ormonale/chirurgica · criteri: A (incongruenza ≥ 6 mesi) + B (sofferenza clinicamente
+  significativa) · (Lez. 10)
+- **Parafilia vs. disturbo parafilico** → parafilia = interesse intenso/persistente non
+  convenzionale · disturbo = parafilia + disagio personale **o** danno a sé/altri ·
+  parafilia = condizione necessaria ma non sufficiente · (Lez. 10)
+- **8 disturbi parafilici (DSM-5)** → voyeuristico · esibizionistico · pedofilico ·
+  feticistico · da travestitismo · da masochismo sessuale (variante: asfissiofilia) ·
+  da sadismo sessuale · frotteuristico · (Lez. 10)
+
+---
+
 ## Dimensione identitaria e incontro clinico
 
 Filo che attraversa tutto il modulo.
@@ -482,6 +519,12 @@ Filo che attraversa tutto il modulo.
 | Stanghellini & Ballerini | Vulnerabilità premorbosa; identikit del futuro paziente | 09 |
 | APA | DSM-5-TR (2023) | 06, 07, 08 |
 | Pewzner / Sims / Baddeley / Faravelli / Stahl | Semiologia, memoria, psicofarmaci | 05 |
+| Husserl | Körper vs. Leib — corpo-oggetto vs. corpo vissuto | 10 |
+| Krafft-Ebing | *Psychopathia Sexualis* — primo catalogo scientifico della sessualità (1886) | 02, 10 |
+| Kinsey | Rapporto Kinsey — studio comportamentale su 18.000 persone | 10 |
+| Masters & Johnson | *Human Sexual Response* — ciclo della risposta sessuale (1966) | 10 |
+| Grazzottin | Tassonomia delle finalità della sessualità (amorosa, ricreativa, procreativa, strumentale) | 10 |
+| Lalli | 6 snodi dello sviluppo psicosessuale | 10 |
 
 ---
 
@@ -532,7 +575,14 @@ Filo che attraversa tutto il modulo.
 `depersonalizzazione` · `derealizzazione` · `sintomi positivi` ·
 `sintomi negativi` · `disorganizzazione` · `tipo 1` · `tipo 2` ·
 `delirium tremens` · `Korsakov` · `epilessia` · `crisi pantoclastica` ·
-`angoscia di frammentazione` · `premorboso` · `prodromico`
+`angoscia di frammentazione` · `premorboso` · `prodromico` ·
+`Körper` · `Leib` · `sessualità` · `identità di genere` ·
+`orientamento sessuale` · `sesso biologico` · `cisgender` ·
+`transgender` · `gender fluid` · `agender` · `intersex` ·
+`AFAB` · `AMAB` · `disforia di genere` · `parafilia` ·
+`disturbo parafilico` · `bisogno vs. desiderio` ·
+`snodi di Lalli` · `compulsività` · `asfissiofilia` ·
+`frotteurismo` · `voyeurismo` · `esibizionismo`
 
 ---
 
@@ -560,7 +610,13 @@ egosintonici e la sofferenza spesso ricade sugli altri
 si rompe o si dissocia in modo radicale (Lez. 09). La
 traiettoria è un continuum: non categorie stagno, ma gradi
 crescenti di compromissione dell'identità, della relazione
-con l'altro e del contatto con il reale. Il filo rosso,
-ribadito da Cargnello fin dall'inizio, resta uno solo:
-la clinica è l'incontro con qualcuno, mai la gestione di
-qualcosa.
+con l'altro e del contatto con il reale. Il modulo apre
+poi una seconda finestra sull'identità attraverso il corpo
+sessuato (Lez. 10): la sessualità come sviluppo relazionale,
+il passaggio evolutivo dal bisogno al desiderio, la
+distinzione tra parafilia e disturbo parafilico e il tema
+della disforia di genere — dove ancora una volta il punto
+non è la condizione ma la sofferenza che essa genera.
+Il filo rosso, ribadito da Cargnello fin dall'inizio,
+resta uno solo: la clinica è l'incontro con qualcuno,
+mai la gestione di qualcosa.
