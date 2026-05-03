@@ -78,12 +78,10 @@ ragiona come se rispondessi a voce all'esame.}
   sulle definizioni tecniche e sui nodi concettuali centrali
   della lezione.
 - **Aggiungi sempre le risposte.** Ogni domanda deve avere
-  una risposta: diretta, concreta, 2–5 frasi. Usa i termini
-  tecnici esatti usati a lezione. Scrivi come risponderesti
-  a voce durante un esame orale — non come un saggio.
-- **Non fare elenchi puntati nelle risposte** a meno che il
-  contenuto sia genuinamente una lista (es. "le 3 fasi di...").
-  Ragiona in paragrafo discorsivo quando possibile.
+  una risposta diretta e concreta. Punta a 2–5 frasi, ma
+  non troncare se il concetto richiede più spazio.
+  Usa i termini tecnici esatti usati a lezione.
+  Scrivi come risponderesti a un esame scritto.
 - **Copri le diverse tipologie di domanda:** definizione
   di un concetto, distinzione tra due termini simili,
   "perché è importante X", applicazione pratica.

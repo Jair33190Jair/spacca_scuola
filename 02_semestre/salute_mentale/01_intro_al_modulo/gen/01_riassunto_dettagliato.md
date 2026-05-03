@@ -1,4 +1,5 @@
 # Introduzione al modulo di Salute Mentale
+
 Salute Mentale · Sessione 01 · 18.02.2026
 
 > Questa prima lezione mette sul tavolo le fondamenta
@@ -20,13 +21,11 @@ tappe fondanti**, ispirate alla scuola fenomenologica:
    chi soffre. Si esplorano i concetti di salute
    e malattia, normalità e patologia, l'incontro
    empatico con l'altro e i meccanismi di difesa.
-
 2. **Il mondo** — le funzioni psichiche e le loro
    alterazioni (coscienza, percezione, pensiero,
    affettività...), per poi passare alla dimensione
    nosografica: sindromi affettive, ansiose, nevrosi,
    disturbi di personalità, psicosi.
-
 3. **Il corpo** — teatro della sofferenza: violenza,
    aggressività, dimensioni anoressico-bulimiche,
    sessualità come luogo di disagio, alessitimia.
@@ -46,10 +45,19 @@ psicopatologiche — non per fare diagnosi, ma per
 comunicare con le altre figure professionali e
 per accompagnare la persona nella sua interezza.
 
+Vale la pena fermarsi sulla parola **clinica**:
+viene dal greco *klinein*, "chinarsi". La clinica
+è, radicalmente, l'atto di chinarsi sul letto
+— reale o metaforico — di chi soffre. È un atto
+di umiltà e premura verso l'altro nella sua
+condizione di *patente* (chi porta su di sé il
+proprio patire). Questa etimologia non è un
+dettaglio: definisce l'approccio di tutto il modulo.
+(Callieri & C., 1999)
+
 ---
 
-## Salute, benessere, normalità: tre concetti
-da non confondere
+## Salute, benessere, normalità: tre concetti da non confondere
 
 Uno dei messaggi centrali della lezione: **salute,
 benessere e normalità sono tre cose diverse** che
@@ -71,15 +79,15 @@ che nel suo articolo ha tentato di definire la salute
 esaminando sette possibili condizioni — dimostrando
 che **nessuna da sola regge**:
 
-| Condizione | Perché non basta |
-|---|---|
-| **Salute come valore** | Non tutto ciò che è desiderabile è salute; ci sono contesti dove non essere in salute può essere preferibile (es. durante guerre) |
-| **Malattia come ciò che il medico cura** | La medicina ha "colonizzato" ambiti non patologici (gravidanza, adolescenza); molte malattie non vengono trattate |
-| **Salute come norma statistica** | Fuori dalla media ≠ malattia (l'omosessualità è stata classificata come patologia a lungo) |
-| **Malattia come sofferenza** | Malattie asintomatiche e dolori normali (ciclo mestruale, coliche neonatali, dentizione) |
-| **Malattia come disabilità** | Tutti attraversiamo fasi di "non abilità" (un neonato non cammina, ma non è malato) |
-| **Salute come adattamento** | L'essere umano adatta anche l'ambiente a sé. Pensate alle neurodivergenze: a volte è l'ambiente che va cambiato |
-| **Salute come omeostasi** | Il funzionamento umano si basa su un continuo perdere e riacquistare equilibrio. L'equilibrio statico è rigidità |
+| Condizione                                      | Perché non basta                                                                                                                     |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Salute come valore**                    | Non tutto ciò che è desiderabile è salute; ci sono contesti dove non essere in salute può essere preferibile (es. durante guerre) |
+| **Malattia come ciò che il medico cura** | La medicina ha "colonizzato" ambiti non patologici (gravidanza, adolescenza); molte malattie non vengono trattate                     |
+| **Salute come norma statistica**          | Fuori dalla media ≠ malattia (l'omosessualità è stata classificata come patologia a lungo)                                         |
+| **Malattia come sofferenza**              | Malattie asintomatiche e dolori normali (ciclo mestruale, coliche neonatali, dentizione)                                              |
+| **Malattia come disabilità**             | Tutti attraversiamo fasi di "non abilità" (un neonato non cammina, ma non è malato)                                                 |
+| **Salute come adattamento**               | L'essere umano adatta anche l'ambiente a sé. Pensate alle neurodivergenze: a volte è l'ambiente che va cambiato                     |
+| **Salute come omeostasi**                 | Il funzionamento umano si basa su un continuo perdere e riacquistare equilibrio. L'equilibrio statico è rigidità                    |
 
 L'ultimo punto merita attenzione. Il prof insiste:
 **l'equilibrio statico non è salute, è rigidità**.
@@ -120,7 +128,7 @@ della società su una condizione ha effetti reali sul
 benessere della persona. Se hai una malattia che viene
 giudicata come "vizio" o "colpa", la stigmatizzazione
 peggiora tutto — come mostrava già il racconto
-di apertura della lezione.
+di apertura della lezione. [?]
 
 ---
 
@@ -139,14 +147,14 @@ che ha risposto alla domanda: "Quando diciamo che
 una persona sta bene, di *cosa* esattamente stiamo
 parlando?" La risposta: di sei dimensioni distinte.
 
-| Dimensione | Cosa significa in concreto |
-|---|---|
-| **Autonomia** | Capacità di determinarsi senza dipendere dagli altri per le proprie scelte |
-| **Controllo ambientale** | Capacità di cogliere, sfruttare e valorizzare le risorse e le possibilità disponibili |
-| **Relazioni positive** | Avere relazioni calde, fiduciose, contraddistinte da affetto e reciprocità |
-| **Autoaccettazione** | Consapevolezza delle proprie qualità e limiti, senza negare né l'uno né l'altro |
-| **Percezione di crescita** | Sentire che la propria vita è un processo continuo di sviluppo |
-| **Scopo nella vita** | Avere mete, riuscire a dare senso a ciò che si fa |
+| Dimensione                       | Cosa significa in concreto                                                              |
+| -------------------------------- | --------------------------------------------------------------------------------------- |
+| **Autonomia**              | Capacità di determinarsi senza dipendere dagli altri per le proprie scelte             |
+| **Controllo ambientale**   | Capacità di cogliere, sfruttare e valorizzare le risorse e le possibilità disponibili |
+| **Relazioni positive**     | Avere relazioni calde, fiduciose, contraddistinte da affetto e reciprocità             |
+| **Autoaccettazione**       | Consapevolezza delle proprie qualità e limiti, senza negare né l'uno né l'altro      |
+| **Percezione di crescita** | Sentire che la propria vita è un processo continuo di sviluppo                         |
+| **Scopo nella vita**       | Avere mete, riuscire a dare senso a ciò che si fa                                      |
 
 Questo modello è prezioso per l'operatore sociale
 perché rende il lavoro sul benessere **concreto**.
@@ -231,21 +239,23 @@ pratico a due assi per capire come il soggetto si
 pone rispetto alla propria condizione.
 
 **Asse 1 — Identificazione:**
+
 - *Non mi identifico* con la malattia: "Io non sono
   la mia malattia, è qualcosa di estraneo"
 - *Mi identifico*: "La mia condizione fa parte di me"
 
 **Asse 2 — Agentività** (termine tecnico dal greco):
+
 - *Agentivo* (attivo): affronto la situazione,
   mi muovo, cerco alleati
 - *Passivo*: subisco, aspetto che qualcuno intervenga
 
 Incrociando i due assi si ottengono quattro posizioni:
 
-| | Non si identifica | Si identifica |
-|---|---|---|
-| **Passivo** | **Delega**: "Faccia lei, risolva lei" | Passivo nella propria condizione |
-| **Agentivo** | **Guarigione**: combatte per eliminare la condizione | **Cura**: lavora sul proprio benessere dentro la condizione |
+|                    | Non si identifica                                          | Si identifica                                                       |
+| ------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Passivo**  | **Delega**: "Faccia lei, risolva lei"                | **Delega assistenziale**: aspetta che qualcuno si prenda cura |
+| **Agentivo** | **Guarigione**: combatte per eliminare la condizione | **Cura**: lavora sul proprio benessere dentro la condizione   |
 
 Il passaggio chiave: quando il soggetto si identifica
 con la propria condizione e diventa agentivo, il
@@ -350,28 +360,97 @@ di 2500 anni fa.
 
 ---
 
+## Domande di orientamento allo studio
+
+**Perché nessuna delle sette condizioni di Boorse
+è sufficiente da sola a definire la salute?**
+Boorse dimostra che ogni criterio — valore, trattamento
+medico, norma statistica, sofferenza, disabilità,
+adattamento, omeostasi — presenta almeno un caso
+che lo contraddice. Ad esempio, la norma statistica
+escluderebbe dal concetto di "malato" condizioni rare
+ma gravi, e includerebbe come "anormale" chi devia
+dalla media per ragioni non patologiche (come
+l'omosessualità, classificata come patologia per
+decenni). La salute è un concetto complesso che non
+si chiude in una formula sola.
+
+**Qual è la differenza tra disease, illness e sickness?
+Perché questa distinzione conta per il lavoro sociale?**
+*Disease* è la malattia in senso biomedico, misurabile
+con parametri clinici. *Illness* è il vissuto soggettivo:
+come la persona si sente. *Sickness* è la dimensione
+sociale: come la società riconosce o stigmatizza quella
+condizione. Le tre possono non coincidere. Per l'operatore
+sociale conta soprattutto la *sickness*: lo stigma sociale
+su una condizione peggiora concretamente il benessere
+della persona, indipendentemente dalla diagnosi medica.
+
+**Quali sono le sei dimensioni del benessere secondo Carol
+Ryff? Come le usa un operatore sociale in pratica?**
+Le dimensioni sono: autonomia, controllo ambientale,
+relazioni positive, autoaccettazione, percezione di
+crescita, scopo nella vita. In pratica permettono di
+operare in modo concreto: se non si riesce a lavorare
+su tutte le dimensioni insieme, si può concentrarsi su
+quelle più accessibili in quel momento, compensando le
+altre. Il benessere migliora anche lavorando su una
+sola dimensione alla volta.
+
+**Quali sono i tre tipi di normalità? Quali rischi portano
+con sé — anche per l'operatore?**
+La norma statistica definisce la normalità come conformità
+alla media: chi devia rischia stigma. La norma di valore
+pone un ideale irraggiungibile che produce sofferenza
+perpetua — e può diventare penalizzante anche quando
+è l'operatore a proiettarla sull'utente. La norma
+personale riguarda il funzionamento precedente della
+persona: è utile clinicamente per capire il cambiamento,
+ma va usata con cautela — non sempre quella "normalità
+di prima" è da riconquistare, perché potrebbe essere
+stata proprio lei a causare il problema.
+
+**Cos'è l'agentività e come cambia il paradigma di cura
+quando il soggetto si identifica con la propria condizione?**
+L'agentività è l'atteggiamento attivo del soggetto verso
+la propria condizione. Quando una persona è passiva e non
+si identifica con la malattia, delega ("risolva lei").
+Quando è agentiva ma non si identifica, punta alla sola
+guarigione. Quando invece è agentiva *e* si identifica
+con la propria condizione, il paradigma passa dalla
+guarigione alla cura: non si tratta più di eliminare
+la malattia, ma di aumentare il benessere dentro di essa.
+*To cure* (terapia) non è sempre possibile; *to care*
+(prendersi cura del benessere) è sempre praticabile.
+
+---
+
 ## Concetti chiave
 
-| Termine | Significato |
-|---|---|
-| **Disease** | Malattia in senso biomedico, misurabile con parametri clinici |
-| **Illness** | Vissuto soggettivo della malattia, come la persona si sente |
-| **Sickness** | Dimensione sociale della malattia, riconoscimento/stigma |
-| **Benessere** | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo |
-| **Norma statistica** | Normalità come conformità alla media della popolazione |
-| **Norma di valore** | Normalità come conformità a un ideale |
-| **Norma personale** | Normalità rispetto al proprio funzionamento precedente |
-| **Agentività** | Atteggiamento attivo del soggetto verso la propria condizione |
-| **Catarsi** | Purificazione emotiva attraverso la partecipazione alla tragedia |
-| **Omeostasi** | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio |
-| **To cure** | Terapia: eliminare la malattia |
-| **To care** | Cura: prendersi cura del benessere, sempre praticabile |
+| Termine                    | Significato                                                                                                            |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Clinica**          | Dal greco*klinein* ("chinarsi"): l'universo dell'incontro con chi soffre, fondato su umiltà e premura verso l'altro |
+| **Disease**          | Malattia in senso biomedico, misurabile con parametri clinici                                                          |
+| **Illness**          | Vissuto soggettivo della malattia, come la persona si sente                                                            |
+| **Sickness**         | Dimensione sociale della malattia, riconoscimento/stigma                                                               |
+| **Benessere**        | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo       |
+| **Norma statistica** | Normalità come conformità alla media della popolazione                                                               |
+| **Norma di valore**  | Normalità come conformità a un ideale                                                                                |
+| **Norma personale**  | Normalità rispetto al proprio funzionamento precedente                                                                |
+| **Agentività**      | Atteggiamento attivo del soggetto verso la propria condizione                                                          |
+| **Catarsi**          | Purificazione emotiva attraverso la partecipazione alla tragedia                                                       |
+| **Omeostasi**        | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio                          |
+| **To cure**          | Terapia: eliminare la malattia                                                                                         |
+| **To care**          | Cura: prendersi cura del benessere, sempre praticabile                                                                 |
 
 ## Collegamenti
 
 - **Autori citati:** Christopher Boorse (1977),
   Carol Ryff, Tiziano Terzani (*L'ultimo giro di
-  giostra*), Callieri & C. (1999), Nadia Murad
+  giostra*), Callieri & C. (1999), Nadia Murad,
+  Guidorizzi (2010) — sulla follia nella tragedia
+  greca come accesso a "luoghi e dimensioni
+  diverse" oltre che come cedimento della coscienza
 - **Lezioni successive:** Storia della follia
   (25.02), L'incontro con l'alienità (4.03), Dal
   modello psicoanalitico alle difese (11.03)

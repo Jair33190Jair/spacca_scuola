@@ -44,7 +44,7 @@ istruzioni (con il percorso lezione già risolto):
 - Le tre guide: `ai_assistant/ai_guide/01_riassunto_dettagliato.md`,
   `02_riassunto_breve.md`, `03_riassunto_schematico.md`
 - I riassunti esistenti in `<path>/gen/`
-- Tutte le risorse in `<path>/risorse/` (file `.txt`)
+- Tutte le risorse in `<path>/risorse/` (solo file `.txt`)
 
 **Cosa verificare:**
 

@@ -13,6 +13,9 @@ Salute Mentale · Sessione 01
   incontro
 - L'operatore sociale come ponte tra discipline
   specialistiche, non specialista di una sola
+- **Clinica** = dal greco *klinein* ("chinarsi"):
+  l'atto di chinarsi sul patire dell'altro con
+  umiltà e premura (Callieri & C., 1999)
 
 ## Salute: le 7 condizioni di Boorse (1977)
 
@@ -76,6 +79,8 @@ Due assi: **identificazione** con la condizione ×
 **agentività** (attivo/passivo)
 
 - Passivo + non identificato → **delega** ("guariscimi")
+- Passivo + identificato → **delega assistenziale**
+  (aspetta che qualcuno si prenda cura)
 - Agentivo + non identificato → **guarigione** come
   unico obiettivo
 - Agentivo + identificato → **cura**: lavora sul
