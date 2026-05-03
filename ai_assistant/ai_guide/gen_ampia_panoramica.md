@@ -77,9 +77,42 @@ Raggruppa concetti trasversali a più lezioni.
 {Breve narrativa — max 5-6 righe — che
 collega i macro-temi e dà il senso del
 percorso complessivo}
+
+---
+
+## Domande di orientamento allo studio
+
+**{Domanda trasversale — chiede di integrare più lezioni}**
+{Risposta: diretta, 2–5 frasi. Cita le lezioni di
+riferimento tra parentesi. Usa i termini tecnici corretti.}
+
+**{Domanda 2}**
+{Risposta}
+
+...
 ```
 
 ## Regole di contenuto
+
+### Domande di orientamento allo studio
+
+- **Focus sulle domande trasversali:** chiedi all'AI di
+  ragionare su concetti che attraversano più lezioni, non
+  su dettagli di una singola sessione. Esempi di tipo:
+  "Come si collega X (lez. 02) con Y (lez. 07)?",
+  "Qual è il filo comune tra A, B e C?"
+- **Genera 5–8 domande** proporzionali al numero di lezioni.
+  Copri: i macro-temi principali, le distinzioni concettuali
+  chiave, le domande sintetiche ("qual è il contributo
+  principale di questa materia?").
+- **Aggiungi sempre le risposte.** Dirette, 2–5 frasi,
+  con riferimento alle lezioni di origine `(Lez. NN)`.
+  Il tono è quello di una risposta orale all'esame.
+- **Includi almeno una domanda di sintesi finale** del tipo
+  "Qual è il filo conduttore dell'intera materia?" o
+  "Come descriveresti l'approccio complessivo del corso?"
+
+---
 
 - **Riorganizza per temi, non per lezione.**
   Questa non è una lista di riassunti — è una

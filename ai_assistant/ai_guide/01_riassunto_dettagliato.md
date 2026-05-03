@@ -46,6 +46,20 @@ Un file markdown: `gen/01_riassunto_dettagliato.md`
 |---------|-------------|
 | ...     | ...         |
 
+---
+
+## Domande di orientamento allo studio
+
+**{Domanda 1 — tipica domanda d'esame}**
+{Risposta: diretta, completa, 2-5 frasi. Usa i termini
+tecnici corretti. Non fare l'elenco puntato se non serve —
+ragiona come se rispondessi a voce all'esame.}
+
+**{Domanda 2}**
+{Risposta}
+
+...
+
 ## Collegamenti
 
 - Lezioni precedenti collegate (se disponibili)
@@ -53,6 +67,28 @@ Un file markdown: `gen/01_riassunto_dettagliato.md`
 ```
 
 ## Regole di contenuto
+
+### Domande di orientamento allo studio
+
+- **Estrai dalle risorse** le domande d'esame esplicite se
+  presenti (il prof le enuncia spesso a inizio o fine lezione,
+  nelle slide riepilogative, o come "su cosa vi chiederò").
+- **Se non ci sono domande esplicite**, genera 4–6 domande
+  basate sui concetti che il prof ha enfatizzato di più,
+  sulle definizioni tecniche e sui nodi concettuali centrali
+  della lezione.
+- **Aggiungi sempre le risposte.** Ogni domanda deve avere
+  una risposta: diretta, concreta, 2–5 frasi. Usa i termini
+  tecnici esatti usati a lezione. Scrivi come risponderesti
+  a voce durante un esame orale — non come un saggio.
+- **Non fare elenchi puntati nelle risposte** a meno che il
+  contenuto sia genuinamente una lista (es. "le 3 fasi di...").
+  Ragiona in paragrafo discorsivo quando possibile.
+- **Copri le diverse tipologie di domanda:** definizione
+  di un concetto, distinzione tra due termini simili,
+  "perché è importante X", applicazione pratica.
+
+---
 
 - **Integra tutte le fonti** in un unico testo
   coerente. Non giustapporre — riorganizza.
