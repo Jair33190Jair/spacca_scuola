@@ -1,7 +1,7 @@
 ---
 name: genera-riassunti
-description: Genera i 3 riassunti (dettagliato, breve, schematico) per una lezione o per tutte le lezioni di una materia, e aggiorna l'ampia panoramica. Argomento: percorso relativo a lezione (02_semestre/materia/lezione) o materia (02_semestre/materia). Flag opzionali: "forza" per materia (chiede conferma se i file esistono), "super-forza" per rigenerare tutto senza chiedere.
-argument-hint: <semestre/materia> | <semestre/materia/lezione> [forza|super-forza]
+description: Genera i 3 riassunti (dettagliato, breve, schematico) per una lezione o per tutte le lezioni di una materia, e aggiorna l'ampia panoramica. Se i riassunti esistono già, verifica e decide autonomamente se tenerli, colmarli o rigenerarli. Argomento: percorso relativo a lezione (02_semestre/materia/lezione) o materia (02_semestre/materia). Flag opzionale: "super-forza" per decidere e agire senza mai chiedere conferma.
+argument-hint: <semestre/materia> | <semestre/materia/lezione> [super-forza]
 ---
 
 ## Parsing degli argomenti
@@ -13,9 +13,8 @@ argument-hint: <semestre/materia> | <semestre/materia/lezione> [forza|super-forz
 
 | Flag | Significato |
 |---|---|
-| nessuno | Processa; chiedi conferma se i file `gen/` esistono già |
-| `forza` | Richiesto per materia intera; chiedi conferma se i file esistono |
-| `super-forza` | Rigenerare tutto senza chiedere, in entrambi i casi |
+| nessuno | Processa; se i file esistono, decide autonomamente l'azione (vedi sotto) |
+| `super-forza` | Decide autonomamente l'azione e la esegue senza mai chiedere conferma |
 
 ## Come riconoscere il tipo di argomento
 
@@ -38,9 +37,8 @@ Usa `Bash ls` (non Glob) per verificare se `<path>/gen/`
 contiene file generati (uno qualsiasi tra
 `01_`, `02_`, `03_riassunto_*.md`).
 
-Per quelli trovati, considera **non vuoto** solo un file
-che supera entrambe le soglie: più di 3 righe **e**
-più di 100 parole. Verifica con:
+Considera **non vuoto** solo un file che supera entrambe
+le soglie: più di 3 righe **e** più di 100 parole:
 
 ```bash
 for f in <path>/gen/*riassunto*.md; do
@@ -51,12 +49,53 @@ for f in <path>/gen/*riassunto*.md; do
 done
 ```
 
-- Se **nessun file non vuoto** è trovato: procedi.
-- Se almeno un file è **non vuoto** e il flag **non** è
-  `super-forza`: chiedi all'utente se vuole rigenerarli.
-  Se risponde no, **interrompi**.
-- Se almeno un file è non vuoto e il flag è `super-forza`:
-  procedi senza chiedere.
+- **Nessun file non vuoto trovato** → procedi al
+  pre-processing e genera normalmente (step 2 → 3 → 4).
+- **Almeno un file non vuoto trovato** → vai allo
+  **Step 1b — Valutazione autonoma**.
+
+### 1b. Valutazione autonoma (file esistenti)
+
+Lancia un subagente con contesto fresco per valutare
+la qualità dei riassunti esistenti. Istruzioni al subagente:
+
+- Leggi `ai_assistant/ai_context.md`
+- Leggi le guide:
+  - `ai_assistant/ai_guide/01_riassunto_dettagliato.md`
+  - `ai_assistant/ai_guide/02_riassunto_breve.md`
+  - `ai_assistant/ai_guide/03_riassunto_schematico.md`
+- Leggi i riassunti esistenti in `<path>/gen/`
+- Leggi tutte le risorse in `<path>/risorse/`
+  (file `.txt` preprocessati se presenti, altrimenti raw)
+- Per ciascun riassunto, valuta:
+  1. **Sezioni**: tutte le sezioni richieste dalla guida
+     sono presenti e non vuote?
+  2. **Copertura**: il contenuto delle risorse è coperto
+     in modo adeguato? Ci sono concetti importanti assenti?
+  3. **Qualità**: le spiegazioni sono chiare e complete?
+     Il tono e il formato seguono la guida?
+  4. **Ridondanze**: ci sono ripetizioni inutili da eliminare?
+- Sulla base della valutazione, scegli **una** delle tre azioni:
+  - **Azione 1 — Nessun cambiamento**: qualità e copertura
+    sono sufficienti, struttura completa. Riporta "tutto ok".
+  - **Azione 2 — Colma**: ci sono sezioni mancanti (es.
+    "Domande di orientamento allo studio"), concetti non
+    coperti, o passaggi da migliorare — ma la struttura
+    di base è solida. Aggiorna i file in place senza
+    riscrivere tutto.
+  - **Azione 3 — Rigenera**: la copertura del materiale è
+    insufficiente, la struttura non segue la guida, o la
+    qualità complessiva non è adeguata. Rigenera il/i
+    riassunto/i da zero.
+- Se il flag è `super-forza`: esegui l'azione scelta
+  **senza chiedere conferma**.
+- Se il flag **non** è `super-forza` e l'azione è 3
+  (rigenera): avvisa l'utente dell'azione che intendi
+  fare e chiedi conferma prima di procedere.
+  Per le azioni 1 e 2 procedi direttamente.
+
+Se l'azione è 3, torna allo step 2 per il pre-processing
+e poi al 3 per la generazione.
 
 ### 2. Pre-processing
 
@@ -105,19 +144,10 @@ istruzioni (con i percorsi già risolti):
 
 ## Caso B — Materia intera
 
-**Richiede `forza` o `super-forza`.** Se nessuno dei due è
-presente, **interrompi** e avvisa l'utente che processare
-un'intera materia è costoso e richiede il flag esplicito.
-Esempio: `genera-riassunti 02_semestre/salute_mentale forza`
+### 1. Controlla file esistenti per ogni lezione
 
-### 1. Controlla file esistenti (solo con `forza`)
-
-Se il flag è `super-forza`, salta questo controllo.
-
-Se il flag è `forza`, per ogni cartella lezione usa
-`Bash ls` (non Glob) e considera **non vuoto** solo un
-file che supera entrambe le soglie: più di 3 righe **e**
-più di 100 parole:
+Per ogni cartella lezione in `<path>/`, esegui lo stesso
+controllo del Caso A step 1:
 
 ```bash
 for f in <percorso-lezione>/gen/*riassunto*.md; do
@@ -128,26 +158,41 @@ for f in <percorso-lezione>/gen/*riassunto*.md; do
 done
 ```
 
-Se almeno una lezione ha file non vuoti, elenca le
-lezioni coinvolte e chiedi all'utente se vuole
-rigenerarle. Se risponde no, **interrompi**.
+Classifica ogni lezione:
+- **Senza file**: da generare.
+- **Con file non vuoti**: da valutare autonomamente
+  (come step 1b del Caso A).
 
-### 2. Pre-processing di tutte le lezioni
+### 2. Pre-processing di tutte le lezioni da processare
 
-Per ogni cartella lezione che contiene almeno un `.txt`
+Per ogni lezione che contiene almeno un `.txt`
 in `risorse/`, esegui in sequenza:
 
 ```bash
 make preprocess FOLDER=<percorso-lezione>/risorse
 ```
 
-Se dopo aver completato il pre-processing di una lezione non ci sono più `.txt` in `risorse/`, salta la lezione e communica.
+Se dopo il pre-processing non ci sono `.txt` in `risorse/`,
+salta la lezione e comunica.
 
 ### 3. Subagenti A — Una lezione per subagente, max 2 in parallelo
 
 Lancia i subagenti A in batch da **massimo 2 alla volta**.
-Ogni subagente riceve le istruzioni del Caso A step 3
-con il suo percorso lezione.
+
+Per le lezioni **senza file**: ogni subagente riceve le
+istruzioni del Caso A step 3.
+
+Per le lezioni **con file esistenti**: ogni subagente
+riceve le istruzioni del Caso A step 1b (valutazione
+autonoma + azione scelta). Se l'azione è 3 (rigenera),
+il subagente esegue anche il pre-processing e la
+generazione completa.
+
+Se il flag è `super-forza`: i subagenti decidono e
+agiscono senza mai chiedere conferma.
+Se il flag **non** è `super-forza`: i subagenti chiedono
+conferma prima di un'azione 3 (rigenera) su lezioni
+con file esistenti.
 
 Aspetta che il batch corrente finisca prima di lanciare
 il successivo. Questo evita di esaurire il rate limit
