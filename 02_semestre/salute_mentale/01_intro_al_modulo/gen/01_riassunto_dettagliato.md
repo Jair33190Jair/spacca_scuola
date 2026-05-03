@@ -360,69 +360,6 @@ di 2500 anni fa.
 
 ---
 
-## Domande di orientamento allo studio
-
-**Perché nessuna delle sette condizioni di Boorse
-è sufficiente da sola a definire la salute?**
-Boorse dimostra che ogni criterio — valore, trattamento
-medico, norma statistica, sofferenza, disabilità,
-adattamento, omeostasi — presenta almeno un caso
-che lo contraddice. Ad esempio, la norma statistica
-escluderebbe dal concetto di "malato" condizioni rare
-ma gravi, e includerebbe come "anormale" chi devia
-dalla media per ragioni non patologiche (come
-l'omosessualità, classificata come patologia per
-decenni). La salute è un concetto complesso che non
-si chiude in una formula sola.
-
-**Qual è la differenza tra disease, illness e sickness?
-Perché questa distinzione conta per il lavoro sociale?**
-*Disease* è la malattia in senso biomedico, misurabile
-con parametri clinici. *Illness* è il vissuto soggettivo:
-come la persona si sente. *Sickness* è la dimensione
-sociale: come la società riconosce o stigmatizza quella
-condizione. Le tre possono non coincidere. Per l'operatore
-sociale conta soprattutto la *sickness*: lo stigma sociale
-su una condizione peggiora concretamente il benessere
-della persona, indipendentemente dalla diagnosi medica.
-
-**Quali sono le sei dimensioni del benessere secondo Carol
-Ryff? Come le usa un operatore sociale in pratica?**
-Le dimensioni sono: autonomia, controllo ambientale,
-relazioni positive, autoaccettazione, percezione di
-crescita, scopo nella vita. In pratica permettono di
-operare in modo concreto: se non si riesce a lavorare
-su tutte le dimensioni insieme, si può concentrarsi su
-quelle più accessibili in quel momento, compensando le
-altre. Il benessere migliora anche lavorando su una
-sola dimensione alla volta.
-
-**Quali sono i tre tipi di normalità? Quali rischi portano
-con sé — anche per l'operatore?**
-La norma statistica definisce la normalità come conformità
-alla media: chi devia rischia stigma. La norma di valore
-pone un ideale irraggiungibile che produce sofferenza
-perpetua — e può diventare penalizzante anche quando
-è l'operatore a proiettarla sull'utente. La norma
-personale riguarda il funzionamento precedente della
-persona: è utile clinicamente per capire il cambiamento,
-ma va usata con cautela — non sempre quella "normalità
-di prima" è da riconquistare, perché potrebbe essere
-stata proprio lei a causare il problema.
-
-**Cos'è l'agentività e come cambia il paradigma di cura
-quando il soggetto si identifica con la propria condizione?**
-L'agentività è l'atteggiamento attivo del soggetto verso
-la propria condizione. Quando una persona è passiva e non
-si identifica con la malattia, delega ("risolva lei").
-Quando è agentiva ma non si identifica, punta alla sola
-guarigione. Quando invece è agentiva *e* si identifica
-con la propria condizione, il paradigma passa dalla
-guarigione alla cura: non si tratta più di eliminare
-la malattia, ma di aumentare il benessere dentro di essa.
-*To cure* (terapia) non è sempre possibile; *to care*
-(prendersi cura del benessere) è sempre praticabile.
-
 ---
 
 ## Concetti chiave
@@ -442,6 +379,107 @@ la malattia, ma di aumentare il benessere dentro di essa.
 | **Omeostasi**        | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio                          |
 | **To cure**          | Terapia: eliminare la malattia                                                                                         |
 | **To care**          | Cura: prendersi cura del benessere, sempre praticabile                                                                 |
+
+## Domande di orientamento allo studio
+
+**Cosa si intende con la triade anglosassone
+disease, illness e sickness?**
+
+Disease è la malattia in senso biomedico:
+ciò che è misurabile con esami e parametri
+clinici. Illness è il vissuto soggettivo:
+come la persona si sente, indipendentemente
+dai dati oggettivi. Sickness è la dimensione
+sociale: il riconoscimento — o lo stigma —
+che la società attribuisce a una condizione.
+Le tre dimensioni possono non coincidere: si
+può avere una disease senza sentirsi malati,
+o essere stigmatizzati socialmente senza una
+patologia riconosciuta. Per l'operatore
+sociale, la sickness è la dimensione più
+critica: la stigmatizzazione ha effetti reali
+sul benessere anche in assenza di peggioramenti
+clinici.
+
+**Perché Boorse (1977) conclude che nessuna
+delle sette condizioni da lui analizzate
+basta a definire la salute?**
+
+Boorse esamina sette possibili definizioni
+— salute come valore, come ciò che il
+medico cura, come norma statistica, come
+assenza di sofferenza, come capacità
+funzionale, come adattamento e come omeostasi
+— e mostra che ciascuna presenta eccezioni
+che ne invalidano la portata universale.
+Per esempio, la norma statistica ha a lungo
+classificato l'omosessualità come patologia.
+L'omeostasi non regge perché il funzionamento
+umano si basa sul continuo perdere e
+riacquistare equilibrio: l'equilibrio statico
+è rigidità, non salute. La conclusione è che
+la salute non è riducibile a un'unica
+condizione necessaria e sufficiente.
+
+**Quali sono le sei dimensioni del benessere
+secondo Carol Ryff e perché questo modello
+è utile per il lavoro sociale?**
+
+Ryff individua sei dimensioni: autonomia
+(determinarsi senza dipendere dagli altri),
+controllo ambientale (sfruttare le risorse
+disponibili), relazioni positive (relazioni
+calde e fiduciose), autoaccettazione
+(consapevolezza dei propri limiti e qualità),
+percezione di crescita (senso di sviluppo
+continuo) e scopo nella vita (avere mete e
+senso in ciò che si fa). Il modello rende
+il lavoro sul benessere operativo e concreto:
+invece di un generico "aumentare il benessere",
+l'operatore identifica quale dimensione è più
+critica e interviene lì. Se una dimensione
+non è lavorabile in quel momento, si compensa
+sulle altre.
+
+**Quali sono i tre tipi di normalità e quali
+rischi comportano per l'operatore sociale?**
+
+Il professore distingue tre tipi: norma
+statistica (conformità alla media), norma
+di valore o ideale (conformità a uno standard
+desiderabile) e norma personale (normalità
+rispetto al proprio funzionamento precedente).
+Ogni tipo porta rischi specifici. La norma
+statistica può stigmatizzare chi è "fuori
+dalla media". La norma ideale, se usata
+inconsapevolmente dall'operatore, diventa un
+metro penalizzante verso l'utente. La norma
+personale rischia di idealizzare un passato
+che forse era esso stesso problematico:
+riportare qualcuno a "com'era prima" non è
+sempre terapeutico.
+
+**Qual è la differenza tra guarigione (to cure)
+e cura (to care) e perché è fondamentale
+per il lavoro sociale?**
+
+To cure è la terapia in senso stretto:
+eliminare la malattia. To care è prendersi
+cura del benessere della persona, indipendente-
+mente dalla possibilità di guarire. La
+distinzione è fondamentale perché non tutte
+le condizioni sono curabili, ma il benessere
+è sempre lavorabile. Quando il soggetto si
+identifica con la propria condizione e diventa
+agentivo, il paradigma si sposta dalla
+guarigione alla cura: non si combatte più la
+condizione per eliminarla, ma si lavora per
+vivere meglio dentro di essa. Per l'operatore
+sociale, che raramente dispone di strumenti
+terapeutici clinici, questo spostamento è la
+base del proprio mandato.
+
+---
 
 ## Collegamenti
 
