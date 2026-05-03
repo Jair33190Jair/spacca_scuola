@@ -1,0 +1,2688 @@
+LE CIFRE DELLA PARITÀ
+Un quadro statistico delle pari opportunità 
+tra donne e uomini in Ticino
+Edizione 2025
+Il 58,3% delle famiglie ricorre
+ad un aiuto esterno per la cura
+delle figlie e dei figli
+Il 57,7% delle donne occupate 
+lavora a tempo parziale
+
+---
+
+Si ringraziano per la collaborazione
+Paolo Bernasconi, Polizia cantonale, DI
+Cristiana Finzi, Delegata per l’aiuto alle vittime di reati, DSS 
+Davina Fitas, Commissione consultiva per le pari opportunità
+Ornella Larenza, Centro competenze lavoro, welfare e società, SUPSI
+Myriam Proce, Coordinatrice istituzionale in ambito violenza domestica, DI
+Pau Origoni, Maurizio Bigotta, Danilo Bruno, Sandro Burri, Silvia Giacomini, Vincenza Giancone,
+Sheila Paganetti, Mauro Stanga, Alessandra Zanzi, Ustat, DFE
+Impressum
+Repubblica e Cantone Ticino
+Dipartimento delle finanze e dell’economia
+Divisione delle risorse
+Ufficio di statistica (Ustat)
+Via Bellinzona 31
+6512 Giubiasco
++41 (0) 91 814 50 11
+dfe-ustat@ti.ch
+Responsabile della pubblicazione
+Pau Origoni, 
+Capo Ufficio di statistica 
+Edizione e coordinamento
+Francesco Giudici e Matteo Borioli, Ustat, DFE
+Rachele Santoro e Athina Greco, Servizio per
+le pari opportunità, CAN
+Impaginazione
+Sharon Fogliani, Ustat
+Progetto grafico
+Jannuzzi Smith, Lugano
+Stampa
+Finito di stampare nel giugno 2025 presso
+Salvioni Arti grafiche SA, Bellinzona
+ISBN 978-88-8468-062-4
+© Ufficio di statistica, 2025
+La riproduzione è autorizzata con la citazione 
+della fonte
+
+---
+
+1 
+Giugno 2025
+LE CIFRE DELLA PARITÀ
+Un quadro statistico delle pari opportunità
+tra donne e uomini in Ticino
+Edizione 2025
+
+---
+
+
+
+---
+
+3 
+Giugno 2025
+SOMMARIO
+Parità tra donne e uomini: cosa è cambiato negli ultimi decenni?	
+5
+Formazione	
+6 
+Attività professionale: settori e posizioni dirigenziali	
+8
+Attività professionale: persone attive e non attive	
+10
+Attività professionale: occupazione, lavoro a tempo parziale e disoccupazione	
+12
+Disparità salariale	
+14
+Disparità salariali secondo il settore, formazione, età e posizione lavorativa	
+16
+Conciliabilità tra famiglia e lavoro	
+18
+Divario pensionistico	
+20
+Politica	
+22
+Violenza	
+24 
+Sigle, fonti, segni e abbreviazioni	
+26
+
+---
+
+
+
+---
+
+5 
+Giugno 2025
+PARITÀ TRA DONNE E UOMINI: COSA È CAMBIATO NEGLI ULTIMI DECENNI?
+Per affrontare con la dovuta profondità il tema della parità 
+tra donne e uomini, non è sufficiente limitarsi a una fotogra-
+fia statica del presente ma è necessario adottare uno sguar-
+do storico, capace di cogliere le trasformazioni avvenute 
+nel tempo e le dinamiche che le hanno rese possibili. Non 
+si può, ad esempio, analizzare la sotto rappresentanza fem-
+minile in politica senza richiamare il lungo percorso che ha 
+condotto, dopo decenni di battaglie, al raggiungimento del 
+suffragio universale in Svizzera, avvenuto nel 1971. Allo 
+stesso modo, non è possibile comprendere appieno le attua-
+li disomogeneità nella distribuzione del lavoro domestico e 
+di cura, che continua a gravare in larga misura sulle donne, 
+senza riflettere sul modello di famiglia tradizionale domi-
+nante nella società del secondo dopoguerra e sui ruoli di ge-
+nere che lo hanno strutturato. La maggioranza degli aspetti 
+relativi alle pari opportunità non possono dunque prescin-
+dere da una chiave di lettura essenziale, capace di restituire 
+complessità ai fenomeni osservati: quella del tempo.
+È in questa prospettiva che si inserisce la presente pubbli-
+cazione, proseguimento del progetto Le cifre della parità, 
+nato nel 2013 dalla collaborazione tra l’Ufficio di statistica 
+e il Servizio per le pari opportunità. La prima edizione, 
+presentata in formato cartaceo, raccoglieva una serie di 
+schede tematiche contenenti dati statistici su vari ambiti 
+connessi alla parità di genere. Dal 2022, le schede sono 
+disponibili anche in versione digitale e consentono la con-
+sultazione online del dato più recente, grazie a un aggior-
+namento annuale. Questa nuova edizione cartacea, oltre a 
+offrire una lettura aggiornata della situazione attuale, si 
+propone di mettere in luce l’evoluzione osservata negli ul-
+timi 15-20 anni. Quali progressi sono stati compiuti? Dove 
+si registrano eventuali regressi? Quali cambiamenti gene-
+razionali emergono, ad esempio, nei percorsi professionali 
+o nella distribuzione del lavoro retribuito e di cura? In un 
+territorio come il Ticino, caratterizzato da specificità cul-
+turali, economiche e sociali, l’analisi diacronica permette 
+di riconoscere la persistenza di disuguaglianze strutturali. 
+Tuttavia, accanto alla prospettiva temporale, è altrettanto 
+fondamentale adottare uno sguardo sincronico, capace di 
+cogliere la trasversalità del concetto di parità di genere nei 
+molteplici ambiti della vita, profondamente interconnessi. 
+In questa pubblicazione l’attenzione si concentra su sette 
+aree principali: formazione, occupazione, salari, concilia-
+bilità tra famiglia e lavoro, divari pensionistici, politica e 
+violenza di genere. Per ognuno dei temi sviluppati, il com-
+mento a lato (a cura del Servizio per le pari opportunità 
+e di altri servizi) completa i dati statistici con una con-
+testualizzazione, una riflessione più ampia e un aggancio 
+tematico ai fenomeni osservati.
+La presente edizione de Le cifre della parità utilizza una 
+classificazione binaria dei generi, un’impostazione adottata 
+per ragioni metodologiche e legate alla struttura dei rileva-
+menti statistici. Il termine genere viene dunque utilizzato in 
+forma binaria per mettere in evidenza i ruoli sociali, cultu-
+rali ed economici che contribuiscono a creare e perpetuare 
+disuguaglianze strutturali tra donne e uomini nella società 
+e nel mercato del lavoro. Si riconosce tuttavia che tale clas-
+sificazione non riflette appieno la diversità e la complessità 
+delle identità di genere presenti nella società. In questo am-
+bito, la statistica pubblica sta progressivamente evolvendo 
+verso rilevamenti più inclusivi: un esempio è rappresentato 
+dall’Indagine sulla salute in Svizzera, che ha recentemente 
+introdotto domande sull’identità di genere. Secondo i dati 
+del 2022, circa lo 0,7% della popolazione residente in Sviz-
+zera non si identifica né come uomo né come donna1. Que-
+sti sviluppi segnano un progresso verso strumenti di rileva-
+zione sempre più capaci di rappresentare accuratamente la 
+diversità della popolazione.
+Questa pubblicazione si propone pertanto come uno stru-
+mento di analisi e conoscenza delle disuguaglianze tra don-
+ne e uomini, offrendo una base solida per lo sviluppo di po-
+litiche pubbliche fondate su evidenze statistiche e orientate 
+a una maggiore equità. La parità effettiva tra i generi, pur 
+essendo sancita dagli articoli 8 cpv. 3 della Costituzione 
+federale e 7 cpv. 2 e 3 della Costituzione cantonale, resta 
+dunque un obiettivo da perseguire con costanza e rigore.
+Athina Greco e Rachele Santoro
+Servizio per le pari opportunità
+Francesco Giudici
+Responsabile Settore Società, Ustat
+1	 In cifre assolute questo corrisponde a circa 50.000 persone.  
+In questa categoria sono incluse le persone che si definiscono 
+come “non binarie”, quelle che hanno segnato “altro” e infine le 
+persone che hanno indicato “non so”. Il campione a livello svizzero 
+permette inoltre di sapere che tra le persone di età compresa tra i 15 
+e i 34 anni la percentuale è più alta, dell’1,2%, rispetto alle persone 
+di 50 e più anni (con un tasso pari a 0,4%).
+
+---
+
+Giugno 2025
+Le cifre della parità
+6 
+I dati relativi alla formazione rivestono un ruolo cruciale 
+nell’ambito delle pari opportunità, poiché le scelte delle e 
+dei giovani determinano in larga misura il loro accesso e la 
+loro posizione nel mercato del lavoro.
+Negli ultimi dieci anni, il livello di formazione delle perso-
+ne residenti in Ticino ha registrato un aumento significativo, 
+indotto soprattutto dall’incremento del numero di persone 
+che hanno conseguito un titolo di grado terziario. Sebbene 
+questo incremento riguardi entrambi i generi, tra il 2010 e il 
+2023 l’aumento del livello formativo delle donne tra i 25 e 
+i 44 anni è stato particolarmente marcato, con una crescita 
+di 17,6 punti percentuali di titoli terziari rispetto ai 5,6 punti 
+percentuali registrati tra gli uomini [F. 1]. Questo andamento 
+riflette un cambiamento nelle scelte formative e scolastiche 
+della popolazione, dato da una maggiore valorizzazione 
+delle formazioni professionali superiori e universitarie. Di 
+conseguenza, nel 2023 la percentuale di donne tra i 25 e i 44 
+anni con un titolo terziario (51,8%) supera quella degli uo-
+mini di pari età (45,0%). Tale evoluzione è anche il risultato 
+delle riforme delle scuole universitarie professionali (SUP) 
+introdotte negli anni Novanta, che hanno inserito nel settore 
+terziario numerosi percorsi formativi tradizionalmente scelti 
+dalle donne, come l’infermieristica e il lavoro sociale, favo-
+rendone così una maggiore qualificazione accademica.
+Le scelte scolastiche e professionali delle ragazze e dei 
+ragazzi alla fine della scuola dell’obbligo rimangono tut-
+tavia piuttosto ripartite [F. 2]. Al termine dell’anno scolasti-
+co 2023/24, la metà delle ragazze si è orientata verso una 
+scuola media superiore, a fronte di poco più di un terzo dei 
+ragazzi. Di conseguenza, meno ragazze optano per una for-
+mazione professionale e, quando lo fanno, prediligono una 
+scuola a tempo pieno piuttosto che un tirocinio in azienda, 
+soluzione invece più diffusa tra i ragazzi. Questa suddivi-
+sione delle scelte formative è rimasta sostanzialmente inva-
+riata negli ultimi quattordici anni.
+Tale tendenza è riconducibile alla struttura dei settori for-
+mativi: le professioni in ambiti come la sanità e il lavoro 
+sociale, in cui la presenza femminile è storicamente più 
+marcata, richiedono generalmente percorsi scolastici a 
+tempo pieno. Al contrario, i settori tecnici e industriali, che 
+attraggono più frequentemente i ragazzi, prevedono spesso 
+l’accesso attraverso il sistema duale, che combina forma-
+zione scolastica e tirocinio in azienda. 
+Ma non sono solo i percorsi scolastici a essere suddivisi: 
+i dati del 2023 sulla formazione professionale di base evi-
+denziano anche una forte differenza nelle scelte fatte dalle 
+ragazze e dai ragazzi relative ai settori professionali [F. 3]. Al-
+cuni ambiti, come elettricità ed energia, restano quasi esclu-
+sivamente maschili (528 uomini e solo 3 donne), così come 
+la meccanica (286 uomini e solo 15 donne), le costruzioni 
+e il genio civile (686 uomini e solo 17 donne), ambiti solo 
+in parte mostrati in figura. Al contrario, le donne dominano 
+nettamente nel lavoro sociale e nell’orientamento (442 don-
+ne e 118 uomini) e nelle cure infermieristiche (354 contro 
+129). Le statistiche evidenziano tuttavia anche un lieve au-
+mento della presenza di uomini e donne in settori tradizio-
+nalmente atipici nel periodo 2010-2023.  
+La polarizzazione nelle scelte di studio si riflette anche in 
+ambito accademico: gli uomini sono prevalenti nelle scien-
+ze tecniche, nell’economia e nelle discipline esatte e natu-
+rali, mentre le donne risultano maggiormente rappresentate 
+nelle scienze umane e sociali [F. 4].
+FORMAZIONE 
+F.	2
+Scelte scolastiche e professionali al termine della scuola media (in %), secondo il tipo di scuola,
+in Ticino, negli anni scolastici 2010/2011 e 2023/2024
+Uomini	2010-2011									Uomini	2023-2024									Donne	2010-2011									Donne	2023-2024
+Fonte:	UOSP
+%
+Scuole	medie
+superiori
+Scuole	professionali
+secondarie	a	tempo
+pieno
+Scuole	professionali
+secondarie	a	tempo
+parziale
+Altre	scelte
+0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+37,5 36,2
+46,7 49,9
+18,6 18,9
+26,0
+22,7
+33,8 31,9
+15,0 13,1
+10,0 13,0 12,3 14,2
+F.	1
+Popolazione residente permanente di 25-44 anni (in %), secondo il livello di formazione, nel 2010
+e nel 2023
+Secondario	I																	Secondario	II																	Terziario
+Fonte:	RS,	UST
+%
+Uomini
+Donne
+Uomini
+Donne
+0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+70,0
+80,0
+90,0
+100,0
+2010
+2023
+39,4
+34,2
+45,0
+51,8
+46,0
+48,7
+44,0
+39,5
+14,5
+17,1
+11,0
+8,7
+
+---
+
+7 
+Giugno 2025
+F.	3
+Persone in formazione professionale di base (in %), secondo alcuni degli ambiti professionali
+maggiormente scelti, in Ticino, nel 2010 e nel 2023
+Uomini																	Donne
+Fonte:	SBG-SFPI,	UST
+%
+Lavoro
+sociale	e
+orientamento
+Vendita
+all’ingrosso
+e	al	dettaglio
+Cure
+infermie-
+ristiche
+Segretariato
+e	lavoro
+d’ufﬁcio
+Architettura
+e	urbanismo
+Veicoli	a	motore,
+costruzione
+navale	e
+aeronautica
+Meccanica
+e	lavoro	del
+metallo
+2010
+2023
+2010
+2023
+2010
+2023
+2010
+2023
+2010
+2023
+2010
+2023
+2010
+2023
+0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+70,0
+80,0
+90,0
+100,0
+F.	4
+Studentesse e studenti ticinesi delle università e dei politecnici della Svizzera, secondo l’ambito
+di studio, nei semestri autunnali 2010/11 e 2023/24
+Uomini																	Donne
+Fonte:	SHIS-studex,	UST
+%
+Scienze	
+umane	
+e	sociali
+Medicina
+e	farmacia
+Diritto
+2010/11
+2023/24
+2010/11
+2023/24
+2010/11
+2023/24
+2010/11
+2023/24
+2010/11
+2023/24
+2010/11
+2023/24
+2010/11
+2023/24
+0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+70,0
+80,0
+90,0
+100,0
+Scienze
+esatte
+e	naturali
+Scienze
+economiche
+Scienze
+tecniche
+Interdisci-
+plinare
+e	altro
+Avvertenze / definizioni
+Formazione professionale di base: formazione post 
+obbligatoria, comunemente definita “apprendistato”, 
+che permette alle e ai giovani di acquisire le conoscen-
+ze necessarie per svolgere una determinata professione. 
+Questa formazione può essere svolta sia secondo il si-
+stema duale (tirocinio in azienda e scuola professiona-
+le a tempo parziale) sia in una scuola professionale a 
+tempo pieno. In base al percorso scelto, la persona in 
+formazione può ottenere un certificato di formazione 
+professionale (CFP) o un attestato federale di capacità 
+(AFC). Si presentano i dati delle persone in formazione, 
+ovvero delle persone che al 31 dicembre dell’anno di 
+riferimento svolgono una formazione professionale di 
+base (numero di formazioni in corso).
+Gradi del sistema scolastico: il sistema scolastico è 
+suddiviso in gradi. Il grado primario comprende la 
+scuola dell’infanzia e la scuola elementare. Il grado 
+secondario I (o secondario inferiore) include invece la 
+scuola media. Segue il grado secondario II (o seconda-
+rio superiore), che comprende le scuole di formazione 
+generale (scuole di maturità liceale e scuole specializ-
+zate) e la formazione professionale di base. Infine, nel 
+grado terziario si trovano le formazioni professionali 
+superiori e le scuole universitarie (accademiche, profes-
+sionali e pedagogiche).
+Studentesse e studenti universitari: persone immatri-
+colate in un’università, un politecnico, una scuola uni-
+versitaria professionale (SUP) o un’alta scuola pedago-
+gica (ASP) svizzera nel semestre autunnale dell’anno 
+accademico considerato. Sono considerati tutti i percor-
+si formativi, inclusa la formazione continua.
+Il commento del Servizio per le pari opportunità
+Gli stereotipi sono pregiudizi o generalizzazioni che 
+vengono attuati nei confronti di un gruppo di persone. 
+Quelli di genere sono radicati nella nostra cultura e de-
+terminano comportamenti e ruoli sociali che le persone 
+spesso seguono per rispondere alle aspettative condivise 
+dalla maggior parte della popolazione. Così, bambine 
+e bambini vengono indirizzati verso giocattoli, sport e 
+atteggiamenti diversi in base al genere, una separazione 
+tra ciò che viene considerato femminile e maschile che 
+si riflette successivamente nelle scelte formative.
+Anche se la società ha fatto passi avanti per eliminare la 
+dicotomia tra mestieri “da maschio” e “da femmina”, i 
+cosiddetti pregiudizi inconsci permangono e continua-
+no a influenzare le scelte delle e dei giovani. Timore di 
+incontrare maggiori difficoltà, mancanza di modelli del 
+proprio genere, paura del giudizio dei pari e dei genito-
+ri, scarsità di autostima: sono molte le cause per cui an-
+cora oggi ragazze e ragazzi seguono curricula formativi 
+differenziati per genere. La suddivisione è significativa: 
+i ragazzi tendono a evitare formazioni considerate fem-
+minili perché percepite come meno valorizzanti, men-
+tre le ragazze, pur aspirando a ruoli tradizionalmente 
+maschili, spesso dubitano delle proprie competenze e 
+desistono per paura di fallire. 
+Questo fenomeno contribuisce alla segregazione oriz-
+zontale, che porta a una prevalenza femminile nei set-
+tori socio-sanitari e a una predominanza maschile nel-
+le professioni legate a scienza e tecnica. Ciò limita le 
+potenzialità individuali e perpetua disuguaglianze che 
+ostacolano la piena realizzazione delle persone.
+
+---
+
+Giugno 2025
+Le cifre della parità
+8 
+Le differenti scelte di orientamento professionale tra don-
+ne e uomini condizionano il loro inserimento lavorativo. 
+L’analisi dei dati relativi alle professioni in Ticino nel 
+2010 e 2024 [F. 1] evidenzia una distribuzione di genere non 
+del tutto equilibrata. Le professioni a prevalenza maschi-
+le rimangono quelle manuali e tecniche: ad esempio, nel 
+2024 gli operai qualificati dell’industria e dell’artigianato 
+rappresentano il 10,8% degli uomini occupati, a fronte di 
+appena l’1,1% delle donne. Parallelamente, le professioni 
+amministrative e di vendita risultano a prevalenza femmi-
+nile: nel 2024, le donne impiegate in ruoli amministrati-
+vi costituiscono il 21,2% del totale femminile, contro il 
+12,3% degli uomini. Per quanto riguarda l’evoluzione, tra 
+il 2010 e il 2024 il cambiamento più significativo riguar-
+da l’aumento delle donne nelle professioni intellettuali e 
+scientifiche (+4,0 punti percentuali).
+Le statistiche forniscono anche alcuni elementi sulle diffe-
+renze di posizione professionale tra i generi. Nel 2024 si 
+osserva che la maggioranza delle donne ricopre la posizio-
+ne di salariata senza funzione di responsabilità: se ne con-
+tano 49.440 pari al 66,0% delle donne occupate. Questo 
+valore supera sia in termini assoluti sia percentuali quanto 
+osservato fra gli uomini (43.757 pari al 50,4% degli occu-
+pati uomini) [F. 2]. Rispetto al 2010 si constata una crescita 
+importante delle donne occupate fra le indipendenti e le 
+salariate senza funzione quadro. Per le salariate membri di 
+direzione o con funzione di responsabilità si osserva una 
+leggera diminuzione rispetto al 2010, anno nel quale si è 
+però registrata la quota più elevata di tutto il periodo di os-
+servazione. Questa evoluzione si osserva in maniera simile 
+anche fra gli uomini. 
+Diventa dunque interessante soffermarsi proprio sul ruolo 
+delle donne nelle posizioni dirigenziali. I dati mostrano per 
+il 2024 una quota di donne del 35,6% fra tutti i salariati e le 
+salariate membri di direzione o con funzione quadro, pari a 
+12.506 persone occupate [F. 3]. L’evoluzione dal 2010, mo-
+stra diverse fluttuazioni nelle quote che variano fra il 31 e 
+il 35%, approssimativamente un terzo rispetto agli uomini. 
+Lo stesso dato può essere declinato anche per classi d’età, 
+dove si osserva la quota maggiore di donne fra le più gio-
+vani: nel 2024 fra chi ha dai 25 ai 39 anni, le donne sono 
+il 37,6% delle persone salariate membri di direzione o con 
+funzione di quadro [F. 4]. Per la classe d’età dai 40 ai 54 anni 
+la rappresentanza femminile scende al 35,5%. La classe di 
+età più anziana, dai 55 ai 64 anni è quella dove si misura 
+la quota più bassa, con il 30,3%. Rispetto al 2010 le donne 
+nelle classi di età più giovani hanno visto crescere la loro 
+partecipazione nelle posizioni dirigenziali. 
+ATTIVITÀ PROFESSIONALE: SETTORI E POSIZIONI DIRIGENZIALI
+F.	2
+Persone occupate, secondo la posizione nella professione, in Ticino, nel 2010 e nel 2024
+Uomini																	Donne
+*	Stima	con	afﬁdabilità	statistica	relativa	(v.	le	Avvertenze	/	deﬁnizioni).
+Fonte:	RIFOS,	UST
+Collaboratore/
+collaboratrice	familiare*
+Indipendente
+Salariato	membro	di
+direzione	o	con	funzione
+	di	responsabilità
+Salariato	senza
+funzione	quadro
+2010
+2024
+2010
+2024
+2010
+2024
+2010
+2024
+0
+10.000
+20.000
+30.000
+40.000
+50.000
+F.	1
+Persone occupate (in %), secondo alcune professioni, in Ticino, nel 2010 e nel 2024
+Uomini										Donne
+*	Stima	con	afﬁdabilità	statistica	relativa	(v.	le	Avvertenze	/	deﬁnizioni).
+Fonte:	RIFOS,	UST
+%
+Professioni	intellettuali
+e	scientiﬁche
+Impiegate/i
+amministrative/i
+Operatrici	e	operatori	del
+commercio	al	dettaglio
+e	delle	vendite
+Operaie*/operai
+qualiﬁcati	dell’industria
+e	dell’artigianato
+2010
+2024
+2010
+2024
+2010
+2024
+2010
+2024
+0,0
+5,0
+10,0
+15,0
+20,0
+25,0
+30,0
+
+---
+
+9 
+Giugno 2025
+F.	3
+Persone salariate nelle posizioni dirigenziali (in %), in Ticino, dal 2010*
+Uomini																	Donne
+*	Dal	2022	risultati	solo	parzialmente	confrontabili	con	quelli	precedenti.
+Fonte:	RIFOS,	UST
+%
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+70,0
+80,0
+90,0
+100,0
+F.	4
+Persone salariate nelle posizioni dirigenziali (in %), secondo la classe d’età, in Ticino, nel 2010 e
+nel 2024
+Uomini																	Donne
+*	Stima	con	afﬁdabilità	statistica	relativa	(v.	le	Avvertenze	/	deﬁnizioni).
+Fonte:	RIFOS,	UST
+%
+25-39
+40-54
+55-64*
+2010
+2024
+2010
+2024
+2010
+2024
+0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+70,0
+80,0
+90,0
+100,0
+Avvertenze / definizioni
+Affidabilità statistica relativa: in una fonte statistica 
+campionaria, la stima ha un’affidabilità statistica relati-
+va quando si basa su un numero di osservazioni limitato.
+Professioni: sono definite secondo la Nomenclatura 
+svizzera delle professioni CH-ISCO-19 (in inglese ISCO 
+= International Standard Classification of Occupations)1.
+Il commento del Servizio per le pari opportunità
+La persistente segregazione occupazionale di genere si 
+articola comunemente in due forme: orizzontale e verti-
+cale. La segregazione orizzontale si riferisce alla distri-
+buzione diseguale di uomini e donne tra i diversi setto-
+ri e professioni, riflettendo spesso stereotipi di genere 
+radicati e processi di socializzazione differenziata che 
+orientano le scelte formative e lavorative fin dall’inizio 
+del percorso professionale. La segregazione verticale, 
+invece, riguarda la difficoltà per le donne di accedere 
+alle posizioni più alte della gerarchia organizzativa, an-
+che in quei settori dove la presenza femminile è consi-
+stente. Entrambi i fenomeni contribuiscono a strutturare 
+un mercato del lavoro segmentato, dove la divisione dei 
+ruoli si combina con disuguaglianze di reddito, di auto-
+nomia professionale e di potere decisionale.
+Se la segregazione orizzontale tende a riprodursi attraver-
+so i meccanismi di selezione e auto-selezione nei percorsi 
+educativi e formativi, quella verticale è alimentata da bar-
+riere più sottili e spesso meno visibili, riconducibili a fat-
+tori culturali, organizzativi e istituzionali. I fenomeni del 
+cosiddetto soffitto di cristallo e dell’effetto a imbuto de-
+scrivono proprio queste difficoltà: da un lato, l’esistenza 
+di ostacoli invisibili che limitano l’avanzamento di carrie-
+ra delle donne; dall’altro, l’abbandono progressivo delle 
+donne man mano che si sale nella scala gerarchica e/o che 
+l’età delle professioniste e dei professionisti si alza.
+La maggiore presenza femminile tra i quadri più giova-
+ni può essere letta come un potenziale segnale di cam-
+biamento, ma non implica necessariamente un supera-
+mento dei meccanismi di selezione di genere. Piuttosto, 
+riflette anche dinamiche demografiche e di ricambio 
+generazionale, in un contesto in cui l’accesso ai vertici 
+rimane selettivo e spesso subordinato alla capacità di 
+conciliare tempi di lavoro e responsabilità familiari — 
+una dimensione che, ancora oggi, grava in modo asim-
+metrico sulle donne.
+1	 Per maggiori informazioni consultare: https://www.bfs.admin.ch/
+bfs/it/home/statistiche/lavoro-reddito/nomenclature/ch-isco-19.
+assetdetail.23530788.html
+
+---
+
+Giugno 2025
+Le cifre della parità
+10 
+La partecipazione di donne e uomini al mercato del lavoro 
+ha conosciuto un andamento altalenante nel periodo con-
+siderato, con un susseguirsi di variazioni positive e negati-
+ve del tasso di attività. Tuttavia, nel complesso, si registra 
+un calo di quest’ultimo, passato dal 59,3% nel 2010 al 
+57,5% nel 2024, con una conseguente crescita della quota 
+di persone inattive. Analizzando l’andamento per genere, 
+emergono differenze significative. Per le donne, il tasso di 
+attività ha mostrato delle oscillazioni nel tempo, raggiun-
+gendo nel 2024 il 51,4%, in leggero aumento rispetto al 
+50,6% del 2010. Per gli uomini, invece, si osserva una ten-
+denza al ribasso: il tasso di attività è diminuito dal 68,6% 
+nel 2010 al 64,1% nel 2024 [F. 1]. Anche a livello svizzero 
+si possono osservare tendenze simili nei tassi di attività di 
+donne e uomini, nel complesso più elevati a livello nazio-
+nale rispetto a quanto osservato in Ticino.
+Una dimensione chiave nell’evoluzione del tasso di atti-
+vità è il suo andamento in base all’età. Fino ai 30 anni, i 
+livelli di partecipazione al mercato del lavoro sono simili 
+per donne e uomini, ma successivamente – complice anche 
+l’arrivo di figlie e figli – si registra un calo nella parte-
+cipazione femminile, che resta sempre inferiore a quella 
+maschile [F. 2]. Nello specifico, il tasso di attività femminile 
+raggiunge il suo picco tra i 25 e i 34 anni, fascia d’età in cui 
+si concentra la nascita della prima figlia o del primo figlio. 
+Da quel momento, il tasso inizia a diminuire gradualmen-
+te, seppur lentamente. Per gli uomini, invece, la partecipa-
+zione al mercato del lavoro continua a crescere anche tra i 
+35 e i 44 anni. Solo a partire dai 45 anni si osserva un calo 
+significativo del tasso di attività per entrambi i generi.
+L’analisi della composizione delle persone inattive, il cui 
+numero complessivo è aumentato, evidenzia che la mag-
+gioranza di esse è costituita da persone pensionate [F. 3]. Dal 
+2010 al 2024, questa categoria ha registrato una crescita 
+significativa, con un incremento del 18,9% tra gli uomini e 
+del 21,9% tra le donne. Questo aumento è attribuibile prin-
+cipalmente al graduale invecchiamento della popolazione.
+Anche altre categorie di persone inattive, in particolare 
+quelle in formazione, sono aumentate per entrambi i gene-
+ri, andando ad ampliare la categoria delle inattive e degli 
+inattivi. L’unica categoria di persone inattive in diminuzio-
+ne è quella delle donne che si dedicano esclusivamente al 
+lavoro domestico. Tale calo è legato alla crescente parteci-
+pazione femminile al mercato del lavoro, come dimostrato 
+dall’aumento del tasso di attività femminile, e a un cam-
+biamento culturale dei ruoli di genere. 
+Di conseguenza, il divario di genere tra chi si dedica esclu-
+sivamente al lavoro domestico si è ridotto significativa-
+mente: il numero di donne casalinghe è passato da 18.600 
+a 8.237, registrando un dimezzamento, mentre gli uomini 
+sono diminuiti da 684 a 631 [F. 4]. 
+ATTIVITÀ PROFESSIONALE: PERSONE ATTIVE E NON ATTIVE	
+F.	2
+Tasso di attività (in %), secondo la classe d’età, in Ticino, nel 2010 e nel 2024
+Uomini										Donne
+*	Stima	con	afﬁdabilità	statistica	relativa	(v.	le	Avvertenze	/	deﬁnizioni).
+Fonte:	RIFOS,	UST
+%
+15-24
+25-34
+35-44
+45-54
+55-64
+65	e	più*
+0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+70,0
+80,0
+90,0
+100,0
+15-24
+25-34
+35-44
+45-54
+55-64
+65	e	più*
+2010
+2024
+F.	1
+Tasso di attività standardizzato (in %), in Svizzera e in Ticino, dal 2010
+Uomini,	Svizzera										Donne,	Svizzera										Uomini,	Ticino										Donne,	Ticino
+Fonte:	RIFOS,	UST
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+40,0
+45,0
+50,0
+55,0
+60,0
+65,0
+70,0
+75,0
+80,0
+%
+
+---
+
+11 
+Giugno 2025
+F.	3
+Persone non attive, secondo alcune caratteristiche, in Ticino, nel 2010 e nel 2024
+Uomini*										Donne
+*	Stima	con	afﬁdabilità	statistica	relativa	(v.	le	Avvertenze	/	deﬁnizioni).
+Fonte:	RIFOS,	UST
+2010
+2024
+Persone
+in	formazione
+Uomini/donne
+a	casa
+Pensionati
+Altre	persone
+non	attive
+Persone
+in	formazione
+Uomini/donne
+a	casa
+Pensionati
+Altre	persone
+non	attive
+0
+30.000
+20.000
+10.000
+50.000
+40.000
+70.000
+80.000
+90.000
+60.000
+100.000
+F.	4
+Persone che si dedicano esclusivamente al lavoro domestico, in Ticino, nel 2010 e nel 2024
+Uomini																	Donne
+Fonte:	RIFOS,	UST
+2010
+2024
+0
+2.000
+4.000
+6.000
+8.000
+10.000
+12.000
+14.000
+16.000
+18.000
+20.000
+684
+631
+18.600
+8.237
+Avvertenze / definizioni
+Affidabilità statistica relativa: in una fonte statistica 
+campionaria, la stima ha un’affidabilità statistica relativa 
+quando si basa su un numero di osservazioni limitato.
+Persone attive: persone che compongono l’insieme di 
+occupate/i e disoccupate/i. Le persone attive costituiscono 
+l’offerta di lavoro.
+Persone non attive: persone in età lavorativa (15 e più anni) 
+che non sono né occupate né disoccupate. Le persone non 
+attive si distinguono in persone in formazione, persone che 
+si occupano dell’economia domestica e persone pensionate.
+Tasso di attività standardizzato: rapporto tra le persone 
+attive e la popolazione di 15 e più anni.
+Il commento del Servizio per le pari opportunità
+I dati statistici evidenziano un cambiamento significati-
+vo nella partecipazione al mercato del lavoro tra donne 
+e uomini nel corso degli ultimi anni. Il calo del tasso di 
+attività complessivo, e la conseguente crescita della quota 
+di persone inattive, è determinato da dinamiche di genere 
+differenti.
+Risulta evidente che il divario di genere persiste, soprat-
+tutto dopo i 30 anni, quando le responsabilità familiari 
+incidono maggiormente sulle scelte professionali femmi-
+nili, portando molte donne a ridurre significativamente il 
+proprio impegno lavorativo o a rinunciarvi del tutto con 
+l’arrivo della maternità. La paternità non sembra invece 
+influire sulle carriere maschili, a dimostrazione che la ge-
+nitorialità è percepita come un ostacolo ai percorsi profes-
+sionali femminili.
+Tuttavia, nell’ultimo decennio si è riscontrata una straor-
+dinaria diminuzione del numero di donne dedite esclusi-
+vamente all’economia domestica, a fronte di un aumen-
+to della loro presenza nel mercato del lavoro. Questo 
+cambiamento è legato sia all’evoluzione del contesto 
+socioeconomico, che ha favorito una maggiore inclusio-
+ne lavorativa femminile, sia all’innalzamento del livello 
+formativo delle donne e del loro inserimento in contesti 
+professionali qualificati, con una conseguente minore fuo-
+riuscita dal mercato lavorativo anche in caso di maternità. 
+Inoltre, la situazione economica poco favorevole ha co-
+stretto numerose famiglie a ricercare il sostentamento su 
+due redditi.
+Questi dati segnalano una maggiore autonomia economi-
+ca per le donne, mentre per gli uomini si osserva un’ero-
+sione del ruolo tradizionale quale unico responsabile per 
+il mantenimento della famiglia.
+Nonostante questi progressi, permane una distribuzione 
+diseguale delle responsabilità familiari e domestiche, che 
+continua a rappresentare un ostacolo alla piena parità di 
+genere nel mondo del lavoro. Inoltre, il calo complessivo 
+del tasso di attività suggerisce la necessità di rafforzare 
+ulteriormente le politiche per favorire il reinserimen-
+to lavorativo e garantire condizioni che permettano una 
+conciliazione più equa tra vita professionale e privata per 
+entrambi i generi.
+
+---
+
+Giugno 2025
+Le cifre della parità
+12 
+L’evoluzione del mercato del lavoro mostra dinamiche dif-
+ferenti tra donne e uomini, in particolare per quanto riguar-
+da la diffusione del lavoro a tempo parziale, la sottoccupa-
+zione e i tassi di disoccupazione.
+Nel 2024 le persone occupate residenti in Ticino sono 
+161.779 di cui 86.897 uomini e 74.882 donne. La loro quo-
+ta è aumentata nel corso dell’ultimo decennio: passando dal 
+44,9% del 2010 al 46,3% del 2024. La maggior parte delle 
+donne lavora a tempo parziale, mentre gli uomini sono in 
+maggioranza occupati a tempo pieno. Dal 2010 si osserva 
+un aumento della quota di donne impiegate con contratti 
+part-time, che è passata dal 54,5% al 57,7% nel 2024. Que-
+sto incremento riguarda soprattutto il tempo parziale lungo 
+(tra il 50% e il 90% dell’orario pieno), che è aumentato 
+dal 32,3% al 38,2% nello stesso periodo [F. 1]. Anche tra gli 
+uomini il lavoro a tempo parziale è in crescita, con un incre-
+mento più marcato: dal 10,9% nel 2010 al 21,3% nel 2024. 
+Anche in questo caso ad aumentare sono i contratti a tempo 
+parziale lungo, che sono più che raddoppiati, passando dal 
+6,2% al 13,8%. 
+L’espansione del lavoro a tempo parziale è legata a cam-
+biamenti generazionali e dinamiche del mercato del lavoro, 
+che coinvolgono sia donne che uomini. Tuttavia, la distri-
+buzione di questa modalità di lavoro rivela una forte impli-
+cazione di genere: per le donne, il part-time è più frequen-
+temente associato alle responsabilità familiari, come la cura 
+di figlie e figli, mentre per gli uomini le motivazioni sono 
+legate ad altri fattori quali non aver trovato un impiego a 
+tempo pieno o l’essere in formazione [F. 2]. Tale differenza si 
+ripercuote anche nei risultati relativi alla distribuzione del 
+lavoro a tempo parziale tra donne e uomini in base all’età. 
+Per i primi, la percentuale di occupati a tempo parziale è più 
+elevata fra i giovani (15-24 anni) e si riduce all’aumentare 
+dell’età per poi crescere nuovamente all’avvicinarsi della 
+pensione. Al contrario, si nota che la percentuale di donne 
+che lavora a tempo parziale aumenta in maniera marcata tra 
+le occupate con più di 34 anni, periodo in cui le responsabi-
+lità familiari, come la cura di figlie e figli, di cui le donne si 
+fanno maggiormente carico, aumentano. Successivamente, 
+questa percentuale rimane elevata fino all’avvicinarsi della 
+pensione [F. 3]. 
+In Ticino, si contano 13.162 persone sottoccupate, di cui 
+8.576 donne e 4.586 uomini. Sebbene le donne risultino più 
+numerose, questo dato è influenzato dal fatto che sono in 
+maggioranza a lavorare a tempo parziale (condizione ne-
+cessaria per essere considerate sottoccupate). In termini 
+relativi, infatti, tra le persone occupate a tempo parziale, il 
+19,8% delle donne e il 24,7% degli uomini vorrebbe lavo-
+rare di più ed è disponibile a farlo. 
+Fra le persone attive, oltre alle persone occupate, si trova-
+no anche le persone disoccupate. La disoccupazione tocca 
+entrambi i generi in maniera diversa con un’incidenza re-
+golarmente e lievemente superiore tra le donne: nel 2024 
+il tasso di disoccupazione era del 6,8% per le donne e del 
+6,4% per gli uomini [F. 4]. L’evoluzione a partire dal 2010 
+mostra un andamento generalmente molto simile tra uomini 
+e donne poiché la disoccupazione segue dinamiche stretta-
+mente legate alla congiuntura economica.  Dal 2022 i tassi 
+si sono avvicinati molto, probabilmente grazie alla continua 
+crescita dell’occupazione femminile. 
+ATTIVITÀ PROFESSIONALE: OCCUPAZIONE, LAVORO A TEMPO PARZIALE E DISOCCUPAZIONE
+F.	2
+Persone occupate a tempo parziale (in %), secondo la motivazione* del lavoro a tempo parziale,
+in Ticino, nel 2024
+Uomini										Donne
+*	Stima	con	afﬁdabilità	statistica	relativa	(v.	le	Avvertenze	/	deﬁnizioni).
+Fonte:	RIFOS,	UST
+Cura	delle/dei	ﬁglie/i
+Nessun	interesse	per	un	impiego	a	tempo	pieno
+Impiego	a	tempo	pieno	non	trovato
+Altre	responsabilità	famigliari	o	personali
+Altre	ragioni
+Somma	di	più	impieghi	a	tempo	parziale
+Malattia/Handicap
+Formazione/Formazione	continua
+0,0
+5,0
+10,0
+15,0
+20,0
+25,0
+30,0
+%
+F.	1
+Persone occupate (in %), secondo il tempo di lavoro, in Ticino, dal 2010
+Tempo	pieno	(>=	90%)									Tempo	parziale	lungo	(50-89%)									Tempo	parziale	breve	(<	50%)
+Fonte:	RIFOS,	UST
+%
+2010
+2012
+2013
+2011
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2010
+2012
+2013
+2011
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+Uomini
+Donne
+0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+70,0
+80,0
+90,0
+100,0
+
+---
+
+13 
+Giugno 2025
+F.	3
+Quota persone occupate a tempo parziale (in %), secondola classe d’età, in Ticino, nel 2010 e nel 2024
+Uomini*										Donne
+*	Stima	con	afﬁdabilità	statistica	relativa	(v.	le	Avvertenze	/	deﬁnizioni).
+Fonte:	RIFOS,	UST
+%
+2010
+2024
+0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+70,0
+15-24
+25-34
+35-44
+45-54
+55-64
+15-24*
+25-34
+35-44
+45-54
+55-64
+F.	4
+Tasso di disoccupazione (in %), secondo il sesso, in Ticino, dal 2010
+Uomini										Donne
+Fonte:	RIFOS,	UST
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+5,0
+6,0
+7,0
+8,0
+9,0
+%
+Avvertenze / definizioni
+Affidabilità statistica relativa: in una fonte statistica 
+campionaria, la stima ha un’affidabilità statistica relati-
+va quando si basa su un numero di osservazioni limitato.
+Persone disoccupate ILO: persone tra i 15 e i 74 anni 
+che non erano occupate al momento dell’indagine, han-
+no cercato attivamente un posto di lavoro nelle quattro 
+settimane precedenti ed erano disposte ad assumere im-
+mediatamente un’attività.
+Persone occupate: lavorano almeno un’ora alla settima-
+na dietro compenso (come pure quelle che collaborano 
+nell’azienda familiare senza ricevere nessuna retribuzio-
+ne). Le apprendiste e gli apprendisti non sono inclusi.
+Le persone occupate sono suddivise secondo tre gradi di 
+occupazione o tempi di lavoro: 
+–	 Persone occupate a tempo parziale breve: svolgono 
+un’attività per una durata inferiore al 50% della du-
+rata normale di lavoro nell’azienda; 
+–	 Persone occupate a tempo parziale lungo: svolgono 
+un’attività per una durata dal 50% a meno del 90% 
+della durata normale di lavoro nell’azienda; 
+–	 Persone occupate a tempo pieno: svolgono un’at-
+tività per una durata di almeno il 90% della durata 
+normale di lavoro nell’azienda.
+Persone sottoccupate: lavorano a tempo parziale ma vor-
+rebbero lavorare di più e sono disposte ad assumere nei 
+tre mesi successivi un grado di occupazione più elevato. 
+Tasso di disoccupazione ai sensi dell’ILO: è il rapporto 
+(in percentuale) tra il numero di persone disoccupate ai 
+sensi dell’ILO sul totale della popolazione attiva. 
+Il commento del Servizio per le pari opportunità
+L’analisi dei dati relativi alla sottoccupazione evidenzia 
+come il confronto tra uomini e donne risulti metodolo-
+gicamente complesso. La forte disomogeneità tra i due 
+gruppi, legata in particolare alla marcata prevalenza di 
+donne impiegate a tempo parziale rispetto agli uomini, 
+rende poco immediata e talvolta fuorviante l’interpreta-
+zione comparata dei risultati.
+Per le donne, la minore disponibilità ad aumentare il 
+proprio grado di occupazione non è riconducibile a una 
+mancanza di interesse verso il lavoro o a un deficit di op-
+portunità, bensì riflette la presenza di vincoli strutturali, 
+legati soprattutto alla difficoltà di conciliare l’attività 
+professionale con le responsabilità familiari, che ancora 
+pesano in maniera preponderante sulla donna. La sottoc-
+cupazione femminile va dunque letta come espressione 
+di un equilibrio spesso forzato tra esigenze lavorative e 
+carichi domestici e di cura, in un contesto che non sem-
+pre garantisce strumenti di supporto adeguati.
+Tra gli uomini che lavorano a tempo parziale, invece, la 
+propensione a desiderare un aumento delle ore lavorati-
+ve è più diffusa. Pur in presenza di una crescita del part-
+time scelto anche tra la componente maschile, il lavoro 
+a tempo pieno rimane per molti uomini lo standard di 
+riferimento, in linea con modelli culturali ancora forte-
+mente radicati. In questo senso, la condizione di sottoc-
+cupazione maschile può talvolta essere percepita come 
+un parziale fallimento rispetto alle aspettative sociali 
+tradizionalmente associate al ruolo lavorativo maschile.
+
+---
+
+Giugno 2025
+Le cifre della parità
+14 
+La disparità salariale tra donne e uomini è una delle mani-
+festazioni più visibili delle disuguaglianze nel mondo del 
+lavoro, poiché rappresenta un indicatore concreto e misu-
+rabile del divario di genere ancora presente nella nostra so-
+cietà. Nel 2010, in Ticino, la mediana salariale degli uomini 
+è di 5.710 franchi, mentre quella delle donne di 4.736 fran-
+chi, registrando una disparità del 17,1%. Nel 2022, invece, 
+il salario mediano degli uomini è di 5.755 franchi, men-
+tre quello delle donne raggiunge i 5.272 franchi, con una 
+differenza dell’8,4% [F. 1]. Il divario retributivo si è dunque 
+ridotto grazie all’evoluzione dei salari femminili cresciuti 
+dell’11,3%, a fronte della parallela stagnazione di quelli 
+maschili (+0,8%). 
+A livello nazionale, la dinamica appare simile, ma con al-
+cune differenze. Nel 2010, gli uomini percepiscono 6.608 
+franchi al mese, mentre le donne 5.582 franchi, con una 
+differenza in termini di mediana del 15,5%. Nel 2022 gli 
+uomini guadagnano 7.066 franchi, mentre le donne 6.397 
+franchi, con una differenza del 9,5% [F. 2]. Anche in questo 
+caso, si osserva una riduzione della disparità, ma a differen-
+za del Ticino, i salari maschili crescono (+6,9%), seppur in 
+misura inferiore rispetto a quelli femminili (+14,6%).
+I risultati osservati sopra in termini di mediana forniscono 
+un’indicazione sintetica della complessa distribuzione dei 
+salari. In generale, la disparità salariale è più marcata tra i 
+salari più elevati. In Ticino, nel 2022, la soglia che identi-
+fica il 10% delle persone con le retribuzioni più alte (p90), 
+evidenzia un divario del 15,6% tra donne e uomini [F. 3]. 
+Quella che identifica il 10% con i salari più bassi (p10), 
+invece, mostra un divario del 7,6%. 
+Questa distribuzione dei salari è determinata da una com-
+plessa interazione tra fattori che determinano i livelli salaria-
+li. Tra le cause della disparità retributiva vi sono, ad esem-
+pio, la struttura del tessuto economico e le caratteristiche 
+della manodopera femminile e maschile. Per comprendere 
+meglio la natura di queste disparità, è utile distinguere tra 
+la parte di divario spiegabile – legata a variabili osservabili 
+come livello di formazione, anzianità o settore lavorativo – e 
+la parte non spiegata, non attribuibile a fattori oggettivi e 
+misurabili e quindi potenzialmente discriminatori.
+In Ticino, nel 2022, la differenza salariale tra donne e uo-
+mini non spiegata è pari all’11,1% del salario mediano ma-
+schile, in calo rispetto al 14,0% del 2010. Anche a livello 
+svizzero, nello stesso periodo, la disparità non spiegata è 
+calata, passando dal 9,6% al 7,0% [F. 4]. L’analisi dei dati 
+evidenzia che, sebbene in calo negli ultimi anni, la dispari-
+tà salariale non spiegata rappresenta ancora la componente 
+principale della differenza salariale tra donne e uomini. In 
+Ticino, la parte del divario retributivo spiegata dalla com-
+posizione della forza lavoro è inferiore rispetto al contesto 
+nazionale.
+DISPARITÀ SALARIALE
+F.	2
+Salari mensili lordi standardizzati (mediana in fr.) e differenza salariale (in % del salario maschile),
+nei settori pubblico e privato, in Svizzera, dal 2010
+Uomini										Donne
+Fonte:	RSS,	UST
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+0
+1.000
+2.000
+3.000
+4.000
+5.000
+6.000
+7.000
+8.000
+9.000
+15,5%
+15,1%
+12,5%
+12,0%
+11,5%
+10,8%
+ 
+9,5%
+F.	1
+Salari mensili lordi standardizzati (mediana in fr.) e differenza salariale (in % del salario maschile),
+nei settori pubblico e privato, in Ticino, dal 2010
+Uomini										Donne
+Fonte:	RSS,	UST
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+0
+1.000
+2.000
+3.000
+4.000
+5.000
+6.000
+7.000
+8.000
+9.000
+17,1%
+16,5%
+10,6%
+ 
+11,9%
+13,9%
+9,8%
+8,4%
+
+---
+
+15 
+Giugno 2025
+F.	3
+Salari mensili lordi standardizzati (percentili in fr.) e differenze salariali (in % del salario maschile),
+nei settori pubblico e privato, in Ticino, nel 2022
+Uomini										Donne
+Fonte:	RSS,	UST
+p10
+p25
+p50
+p75
+p90
+0
+2.000
+4.000
+6.000
+8.000
+10.000
+12.000
+7,6%
+10,5%
+ 8,4%
+ 8,2%
+15,6	%
+F.	4
+Differenza salariale non spiegata nei settori pubblico e privato (in %), in Svizzera e in Ticino,
+nel 2010 e nel 2022
+Fonte:	RSS,	UST
+%
+2010
+2022
+2010
+2022
+0,0
+2,0
+4,0
+6,0
+8,0
+10,0
+12,0
+14,0
+16,0
+Svizzera
+Ticino
+14,0
+7,0
+9,6
+11,1
+Avvertenze / definizioni
+La rilevazione svizzera della struttura dei salari (RSS) 
+viene realizzata ogni due anni presso imprese pubbliche e 
+private. Si basa su dipendenti (secondo il concetto interno) 
+di imprese con almeno tre addette/i dei settori secondario 
+e terziario. Sono quindi escluse/i dalla statistica le/gli indi-
+pendenti e il settore primario.
+Al fine di confrontare i salari di chi lavora a tempo pie-
+no con quelli di chi lavora a tempo parziale, si utilizza il 
+salario mensile lordo standardizzato, secondo cui tutti i 
+salari sono convertiti in base a una durata normale di lavo-
+ro (tempo pieno), corrispondente a 40 ore settimanali per 
+4,33 settimane al mese. Si tratta del salario lordo del mese 
+di ottobre (compresi i contributi sociali a carico di chi la-
+vora, le prestazioni in natura, i versamenti regolari di pre-
+mi, le partecipazioni alla cifra d’affari e le commissioni), 
+indennità per il lavoro a turni e per il lavoro domenicale o 
+notturno, 1/12 della tredicesima e 1/12 dei pagamenti an-
+nuali speciali (bonus). Gli assegni familiari, la retribuzione 
+degli straordinari e i contributi di tipo previdenziale a cari-
+co della datrice o del datore di lavoro non sono compresi.
+Disponendo i salari in ordine crescente, possiamo definire 
+i seguenti indicatori:
+–	 decimo percentile (p10): è il salario al di sotto del 
+quale si trova il 10% delle persone salariate meno 
+retribuite e al di sopra del quale troviamo il 90% di 
+quelle meglio retribuite;
+–	 venticinquesimo percentile (p25): è il salario al di 
+sotto del quale si trova il 25% delle persone salariate 
+meno retribuite e al di sopra del quale troviamo il 75% 
+di quelle meglio retribuite;
+–	 mediana o cinquantesimo percentile (p50): è il sala-
+rio al di sotto del quale si trova il 50% delle persone sa-
+lariate meno retribuite e al di sopra del quale troviamo 
+il 50% di quelle meglio retribuite. Si tratta del valore 
+centrale della distribuzione dei salari che divide esatta-
+mente in due la popolazione delle persone salariate;
+–	 settantacinquesimo percentile (p75): è il salario al 
+di sotto del quale si trova il 75% delle persone salaria-
+te meno retribuite e al di sopra del quale troviamo il 
+25% di quelle meglio retribuite;
+–	 novantesimo percentile (p90): è il salario al di sotto 
+del quale si trova il 90% delle persone meno retribuite 
+e al di sopra del quale troviamo il 10% di quelle me-
+glio retribuite.
+Le differenze sono tutte calcolate come percentuale del 
+salario maschile.
+Le caratteristiche considerate nel modello che compongo-
+no la parte spiegata del divario salariale tra uomini e don-
+ne sono le seguenti: Grande Regione, settore pubblico 
+e privato, residenza, età, formazione, posizione nella 
+professione, tempo di lavoro, dimensione dell’impresa, 
+sezione economica (1°livello NOGA 2008).
+Bibliografia
+Petrillo, Sandro e Gonzalez, Oscar. (2018), Scomposizio-
+ne delle differenze salariali tra due gruppi. Documenti, 
+Ufficio di Statistica, Bellinzona.
+Bigotta, Maurizio e Giancone, Vincenza. (2020). Struttura 
+ed evoluzione dei salari in Ticino. Extra Dati 1, Ufficio di 
+Statistica, Bellinzona.
+Bigotta, Maurizio e Giancone, Vincenza. (2025). Differen-
+ze salariali di genere. Extra Dati 5, Ufficio di Statistica, 
+Bellinzona.
+
+---
+
+Giugno 2025
+Le cifre della parità
+16 
+Le disparità salariali identificate nella scheda precedente 
+variano in base a diversi fattori, quali per esempio il settore 
+lavorativo, il livello di formazione, la posizione professio-
+nale o l’età, mostrati di seguito.
+Il primo elemento da tenere presente riguarda il settore 
+d’impiego. Nel 2022, il salario mediano nel pubblico è 
+di 7.529 franchi per gli uomini e di 6.952 per le donne, 
+con una differenza del 7,7%. Nel privato i salari risultano 
+generalmente inferiori ma la differenza salariale tra uomi-
+ni e donne è più marcata: la mediana salariale maschile 
+è di 5.532 franchi mentre quella femminile di 4.812, con 
+un divario del 13,0% [F. 1]. Rispetto al 2010, la disparità 
+è diminuita sia nel settore pubblico, dove era del 14,1% 
+(la mediana era di 7.610 franchi per gli uomini e di 6.534 
+franchi per le donne), sia nel privato, dove invece era del 
+20,6% (salari mediani di 5.404 franchi per gli uomini e di 
+4.290 per le donne). Il settore pubblico segue dinamiche 
+retributive più strutturate, essendo più regolamentato nella 
+determinazione dei salari e presenta divari meno importan-
+ti, pertanto l’analisi che segue si concentra esclusivamente 
+sul settore privato.  
+Un secondo fattore rilevante è il livello di formazione. In 
+generale, a un titolo di studio più elevato corrisponde un 
+salario più alto. Tuttavia, il divario salariale tra uomini e 
+donne non diminuisce necessariamente con l’aumentare 
+del livello formativo. Al contrario, i divari maggiori si re-
+gistrano tra chi ha un’istruzione obbligatoria (secondario 
+I) e chi ne ha una di grado terziario. Tra i primi le lavo-
+ratrici percepiscono un salario mediano di 3.783 franchi 
+mentre i lavoratori di 4.817 franchi, con un divario quindi 
+pari al 21,5%. Tra chi invece ha una formazione terziaria, 
+la mediana salariale è di 7.302 franchi per gli uomini e di 
+5.986 per le donne, con un divario del 18,0% [F. 2]. Infi-
+ne, è interessante notare che, tra chi possiede un titolo di 
+studio di livello secondario II (maturità o apprendistato), 
+che rappresenta la quota più numerosa della forza lavoro, 
+il divario si riduce al 9,6% (5.479 franchi per gli uomini e 
+4.955 per le donne), indicando una disparità meno marcata 
+ma comunque presente.
+Anche la posizione professionale ha un’influenza sulla dif-
+ferenza salariale. Difatti, il divario salariale tende ad au-
+mentare nei ruoli di maggiore responsabilità. Nel 2022 le 
+donne senza funzione quadro hanno un salario mediano di 
+4.430 franchi, inferiore del 12,9% rispetto ai 5.087 franchi 
+degli uomini nella stessa categoria [F. 3]. Nei ruoli dirigen-
+ziali, le disparità si accentuano ulteriormente: tra i quadri 
+medi o alti, il divario raggiunge il 18,7%, con salari me-
+diani di 8.883 franchi per gli uomini e 7.223 per le donne. 
+Una situazione leggermente diversa si osserva tra i quadri 
+inferiori, dove la differenza si attesta al 9,0%, con 6.130 
+franchi per gli uomini e 5.579 per le donne.
+Infine, l’analisi per classe d’età evidenzia che il divario 
+salariale cresce con l’avanzare dell’età. Tra le persone più 
+giovani (15-24 anni), la differenza è del 5,7% (4.075 fran-
+chi per le donne contro 4.321 per gli uomini). Nelle fasce 
+25-34 e 35-49 anni, il divario si attesta attorno al 10%: gli 
+uomini tra i 25-34 anni guadagnano una mediana di 4.943 
+franchi, contro i 4.476 franchi delle donne; tra i 35 e i 49 
+anni, il salario mediano maschile è di 5.587 franchi, quello 
+femminile di 5.000. Nella fascia di età più anziana (50 anni 
+e più), la disparità raggiunge il livello più elevato: 14,7%, 
+pari a una differenza di 898 franchi, con salari mediani di 
+6.118 franchi per gli uomini e 5.220 per le donne [F. 4].
+DISPARITÀ SALARIALI SECONDO SETTORE, FORMAZIONE, ETÀ E POSIZIONE LAVORATIVA
+F.	2
+Salari mensili lordi standardizzati (mediana in fr.) e differenza salariale (in % del salario maschile
+e in fr.) nel settore privato, secondo il livello di formazione, in Ticino, nel 2022
+Uomini										Donne
+Fonte:	RSS,	UST
+Secondario	I
+Secondario	II
+Terziario
+0
+1.000
+2.000
+3.000
+4.000
+5.000
+6.000
+7.000
+8.000
+9.000
+ 
+21,5%;	1.034	fr.
+ 9,6%;	524	fr.
+ 
+18,0%;	1.316	fr.
+F.	1
+Salari mensili lordi standardizzati (mediana in fr.) e differenza salariale (in % del salario maschile
+e in fr.), secondo il settore, in Ticino, nel 2022
+Uomini										Donne
+Fonte:	RSS,	UST
+Settore	privato
+Settore	pubblico
+0
+1.000
+2.000
+3.000
+4.000
+5.000
+6.000
+7.000
+8.000
+9.000
+13,0%;	720	fr.
+7,7%;	577	fr.
+
+---
+
+17 
+Giugno 2025
+F.	3
+Salari mensili lordi standardizzati (mediana in fr.) e differenza salariale (in % del salario maschile
+e in fr.) nel settore privato, secondo la posizione nella professione, in Ticino, nel 2022
+Uomini										Donne
+Fonte:	RSS,	UST
+0
+1.000
+2.000
+3.000
+4.000
+5.000
+6.000
+7.000
+8.000
+9.000
+Senza	funzione	quadro
+Quadro	inferiore
+Quadri	medio	e	superiore
+ 
+12,9%;	657	fr.
+ 9,0%;	551	fr.
+ 
+18,7%;	1.660	fr.
+F.	4
+Salari mensili lordi standardizzati (mediana in fr.) e differenza salariale (in % del salario maschile
+e in fr.) nel settore privato, secondo la classe d’età, in Ticino, nel 2022
+Uomini										Donne
+Fonte:	RSS,	UST
+15-24
+25-34
+35-49
+50	e	più
+0
+1.000
+2.000
+3.000
+4.000
+5.000
+6.000
+7.000
+8.000
+9.000
+ 5,7%;	246	fr.
+ 9,4%;	467	fr.
+ 
+14,7%;	898	fr.
+ 
+10,5%;	587	fr.
+Il commento del Servizio per le pari opportunità
+Negli ultimi decenni, la disparità salariale tra donne e 
+uomini ha mostrato una tendenza alla diminuzione, sia 
+in Ticino che a livello nazionale. Nonostante questo 
+progresso, il divario retributivo persiste e rimane signi-
+ficativo: le donne continuano a percepire salari inferiori 
+rispetto agli uomini.
+Questa differenza è solo in parte spiegabile attraverso fat-
+tori oggettivi e misurabili, come il tipo di occupazione, il 
+settore economico, il livello di formazione o la posizione 
+professionale. Alla base del divario salariale vi sono an-
+che dinamiche più profonde, come la segregazione setto-
+riale e professionale, le differenti traiettorie formative e 
+lavorative, e la distribuzione diseguale dei carichi fami-
+liari, che incidono sulla partecipazione e sulla progres-
+sione delle donne nel mercato del lavoro.
+Tuttavia, una quota rilevante della disparità salariale ri-
+mane non spiegata da variabili osservabili, suggerendo 
+la presenza di meccanismi potenzialmente discriminato-
+ri. Si parla infatti di discriminazione salariale quando, a 
+parità di caratteristiche personali e professionali – quali 
+ad esempio qualifiche, esperienza, ruolo e contesto la-
+vorativo – una persona riceve una retribuzione inferiore 
+esclusivamente in base al genere. In questo contesto è im-
+portante sottolineare che il principio di “lavoro di uguale 
+valore”, sancito peraltro all’articolo 8 della Costituzione 
+federale, non si limita a ruoli simili, ma si applica anche 
+a professioni diverse che richiedono competenze, respon-
+sabilità o impegno comparabili.
+I dati mostrano inoltre che il divario è più importante nel 
+settore privato rispetto a quello pubblico, che le differen-
+ze retributive aumentano nei ruoli di responsabilità, nei 
+livelli di formazione più alti e con l’avanzare dell’età. 
+Ciò suggerisce che le disuguaglianze tendono ad esse-
+re più marcate proprio nei contesti dove si concentrano 
+maggiori opportunità economiche e di carriera, penaliz-
+zando ulteriormente le donne nella fase di consolidamen-
+to della carriera.
+In conclusione, la riduzione della disparità è un segnale 
+positivo. Tuttavia, persistono squilibri strutturali che con-
+tinuano a incidere in modo significativo sulla condizione 
+economica delle donne, soprattutto per quanto riguarda 
+la componente non spiegata del divario, che costituisce 
+ancora la parte predominante della differenza salariale 
+complessiva.
+Le conseguenze di questa disparità sono rilevanti non 
+solo a livello individuale, ma anche sul piano sociale 
+ed economico: ostacola l’accesso e la permanenza delle 
+donne nel mercato del lavoro, riduce le entrate fiscali e 
+contributive dello Stato, aggrava la situazione finanzia-
+ria delle famiglie, compromette le rendite pensionistiche 
+femminili e può indebolire la reputazione e l’attrattività 
+delle aziende, che rischiano di perdere talenti preziosi.
+
+---
+
+Giugno 2025
+Le cifre della parità
+18 
+L’equilibrio tra vita professionale e vita privata è una del-
+le sfide più complesse della società contemporanea. In un 
+contesto in cui le esigenze del mercato del lavoro e le strut-
+ture familiari evolvono rapidamente, trovare soluzioni che 
+permettano di conciliare carriera e responsabilità familiari 
+diventa cruciale. Questo tema coinvolge entrambi i generi, 
+ma con implicazioni diverse: come visto nelle schede rela-
+tive all’attività professionale, per le donne, l’arrivo di una 
+figlia o un figlio, è spesso associato a una diminuzione del 
+grado d’occupazione o a un’interruzione dell’attività lavo-
+rativa. I motivi sono diversi e sono da ricercare nei modelli 
+occupazionali adottati dalla coppia e nelle difficoltà di ac-
+cesso alle strutture per la custodia esterna di figlie e figli.
+Dal 2004 al 2018, la percentuale di famiglie che ricorrono 
+a un aiuto esterno per la cura della prole è più che raddop-
+piata, passando dal 26,2% al 58,3% [F. 1]. Questo aumento 
+riflette il cambiamento nei modelli occupazionali delle cop-
+pie tra il 2000 e il 2023, periodo in cui si è registrata una so-
+stanziale riduzione delle famiglie in cui la madre si dedica 
+esclusivamente alla cura domestica. Nei casi in cui la figlia 
+o il figlio più giovane ha tra zero e cinque anni, nel 2000 
+la quota di famiglie in cui l’uomo lavora a tempo pieno e 
+la donna si occupa esclusivamente della cura e dei lavori 
+domestici è del 45%. Nell’arco di poco più di un ventennio 
+è scesa al 26,5% [F. 2].
+Attualmente, il modello occupazionale più diffuso tra le cop-
+pie con figlie o figli minori di 5 anni è quello in cui la donna 
+lavora a tempo parziale e l’uomo a tempo pieno, seguito dalla 
+suddivisione “tradizionale”, in cui solo l’uomo è occupato 
+professionalmente, un modello che tende però a ridursi con 
+l’aumentare dell’età della prole. In lieve crescita rispetto al 
+passato è il modello in cui entrambi i genitori lavorano a tem-
+po pieno, mentre la quota di coppie in cui entrambi i genitori 
+lavorano a tempo parziale è ancora modesta, ma ha comun-
+que subito una timida crescita dal 2,2% al 4,2%.
+Le donne continuano a dedicare significativamente più 
+tempo degli uomini al lavoro non retribuito, in particolare 
+alle attività domestiche e, nel caso in cui sono genitori, di 
+cura di figlie e figli. Nelle economie domestiche compo-
+ste da persone sole, la quantità di tempo destinata al lavoro 
+complessivo – sia retribuito che non retribuito – è simile 
+tra uomini e donne. Tra le coppie senza figlie e figli questa 
+dinamica cambia: le donne tendono a ridurre le ore dedi-
+cate al lavoro retribuito, mentre aumenta il loro impegno 
+nelle attività domestiche, mentre per gli uomini avviene il 
+contrario. Questa disparità si accentua ulteriormente nelle 
+coppie con figlie e figli, specialmente nella fascia tra zero e 
+cinque anni, in ragione anche della maggiore presa a carico 
+da parte delle donne dei compiti di cura della prole [F. 3].
+Inoltre, nonostante entrambi i genitori possano essere occu-
+pati professionalmente, la distribuzione dei carichi di lavo-
+ro domestico continua a ricadere in maniera sproporzionata 
+sulle donne [F. 4].
+Il lavoro non remunerato può essere monetizzato: l’UST 
+ha stimato che in Svizzera nel 2020 sono state fornite 9,8 
+miliardi di ore di lavoro non remunerato – per il lavoro 
+remunerato la cifra si ferma a 7,9 miliardi – per un totale di 
+434 miliardi di franchi. La parte più importante è rappre-
+sentata dal lavoro domestico (318.9 miliardi di franchi, il 
+73,4% del totale), seguita dalle attività di assistenza (com-
+prese le attività di cura di figlie e figli, 82.1 miliardi di fran-
+chi, il 18,9%) e dal volontariato (33.2 miliardi di franchi, 
+il 7,6%). Le donne hanno svolto il 60,5% del volume di 
+lavoro non remunerato.
+CONCILIABILITÀ TRA FAMIGLIA E LAVORO
+F.	2
+Economie domestiche: coppie con ﬁglie e ﬁgli (in %), secondo la classe d’età delle ﬁglie e dei ﬁgli
+e il modello occupazionale della coppia, in Ticino, nel 2000 e nel 2023*
+Uomo	occupato	a	tempo	pieno,	donna	non	occupata
+Uomo	occupato	a	tempo	pieno,	donna	occupata	a	tempo	parziale
+Entrambi	occupati	a	tempo	pieno										Entrambi	occupati	a	tempo	parziale										Altro	modello
+*	A	seguito	dei	cambiamenti	effettuati	a	partire	dal	2018	per	quanto	concerne	i	metodi	di	rilevazione,
+		la	ponderazione	e	l’identiﬁcazione	dei	valori	limite,	la	comparabilità	con	le	inchieste	precedenti	è
+		limitata.
+Fonte:	CFP	e	RS,	UST
+Il	più	giovane	6-14	anni	2023
+Il	più	giovane	6-14	anni	2020
+Il	più	giovane	0-5	anni	2023
+Il	più	giovane	0-5	anni	2000
+0,0
+20,0
+40,0
+60,0
+80,0
+100,0
+%
+45,0
+27,3
+14,9
+10,7
+26,5
+39,3
+13,2
+16,7
+37,8
+32,2
+15,4
+12,4
+23,2
+43,1
+12,7
+17,5
+4,2
+F.	1
+Economie domestiche: coppie con almeno una ﬁglia o un ﬁglio di età compresa tra zero e cinque
+anni che ricorrono a un aiuto esterno per la cura delle ﬁglie e dei ﬁgli (in %), in Ticino, nel 2004,
+2013 e 2018
+Fonte:	RIFOS,	UST
+%
+2004
+2013
+2018
+0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+70,0
+26,2
+43,9
+58,3
+
+---
+
+19 
+Giugno 2025
+F.	3
+Tempo dedicato al lavoro remunerato e al lavoro non remunerato delle persone di 15-65 anni (ore
+settimanali medie), secondo il tipo di economia domestica, in Ticino, nel 2020
+Remunerato										Non	remunerato
+Fonte:	RIFOS,	UST
+Totale
+Monoparentali
+Coppie	con	ﬁgli,	il	più	giovane	7-14	anni
+Coppie	con	ﬁgli,	il	più	giovane	0-6	anni
+Coppie	senza	ﬁglie	o	ﬁgli
+Persone	sole
+100
+80
+60
+40
+20
+0
+20
+40
+60
+80
+100
+33,9
+27,7
+19,7
+20,6
+32,6
+19,4
+13,8
+24,8
+38,9
+18,6
+36,7
+62,1
+40,2
+16,9
+25,5
+46,9
+24,6
+16,8
+14,2
+27,0
+31,6
+20,0
+18,1
+31,7
+Uomini
+Donne
+F.	4
+Coppie in cui è solamente la donna a occuparsi dei lavori domestici (in %), secondo il modello
+occupazionale, in Ticino, nel 2013, 2018 e 2023
+2013										2018										2023
+Fonte:	IFG,	UST
+%
+Lui	e	lei	occupati
+Lui	occupato,	lei	non	attiva
+0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+70,0
+80,0
+90,0
+100,0
+77,0
+69,3
+57,9
+86,0
+74,2
+68,7
+Avvertenze / definizioni
+Il lavoro non remunerato si suddivide in tre categorie:
+1.	 il lavoro domestico all’interno dell’economia dome-
+stica, che comprende per esempio la preparazione 
+dei pasti, il riordino e la pulizia della casa, il bucato, 
+i lavori manuali e amministrativi, ecc.;
+2.	 il lavoro di cura di bambine/i e di altre persone biso-
+gnose all’interno dell’economia domestica, che com-
+prende attività come nutrire e lavare le/i bambine/i, 
+aiutare nei compiti, giocare con loro, ecc.;
+3.	 il volontariato fuori dall’economia domestica, che 
+include il lavoro prestato in associazioni sportive, re-
+ligiose, caritative e/o culturali, in associazioni di dife-
+sa di interessi o partiti politici (in questo caso si tratta 
+di volontariato formale o organizzato) e le prestazioni 
+fornite ad altre economie domestiche, come la cura di 
+bambine/i o di persone bisognose, i lavori domestici, 
+il trasporto o il giardinaggio (volontariato informale).
+Il commento del Servizio per le pari opportunità
+A partire dal dopoguerra, il modello familiare fortemen-
+te standardizzato presente nei paesi occidentali è quello 
+in cui il padre lavora a tempo pieno e la madre si occupa 
+della gestione domestica e della cura delle figlie e dei fi-
+gli. Con il passare dei decenni, e grazie a importanti con-
+quiste sociali, le famiglie si sono adattate a nuovi mo-
+delli, con maggiore parità di diritti tra i generi. Tuttavia, 
+la storia ha lasciato cicatrici culturali e strutturali che 
+influenzano ancora oggi le dinamiche sociali ed econo-
+miche che influiscono sulle carriere di uomini e donne, 
+così come le aspettative riguardo ai compiti domestici 
+e alla cura di figlie e figli, creando una certa resistenza 
+nell’adozione di modelli familiari paritari.
+Il congedo parentale è uno degli strumenti più signifi-
+cativi in termini di politiche familiari per facilitare la 
+conciliazione tra lavoro e famiglia. Tuttavia, la cultura 
+del congedo come “diritto delle madri” resiste in molte 
+società, penalizzando le donne nel mercato del lavoro e 
+creando difficoltà per gli uomini che vorrebbero dedica-
+re più tempo alla famiglia.
+La possibilità di conciliare il lavoro con le esigenze fa-
+miliari dipende molto dalla cultura aziendale e dalle po-
+litiche pubbliche, che possono influenzare positivamen-
+te la parità di genere in ambito familiare con misure di 
+conciliabilità quali l’orario di lavoro flessibile, lo smart 
+working, il lavoro in part-time o in job-sharing, asili 
+aziendali o convenzioni con strutture di custodia. Adot-
+tare queste pratiche favorisce un equilibrio sano tra la 
+vita professionale e quella familiare, riducendo lo stress 
+e migliorando la qualità della vita, sia per le madri che 
+per i padri. In questo modo il lavoro di cura di figlie e 
+figli può essere distribuito in maniera più equa.
+
+---
+
+Giugno 2025
+Le cifre della parità
+20 
+Il divario pensionistico di genere rappresenta una delle 
+conseguenze più evidenti delle disuguaglianze nel mercato 
+del lavoro. Nelle schede sull’attività professionale è stato 
+evidenziato come le donne sono meno presenti nel mercato 
+del lavoro, guadagnano di meno e sono più spesso occupa-
+te a tempo parziale rispetto agli uomini. Queste differenze 
+si traducono, nel lungo periodo, in rendite pensionistiche 
+inferiori rispetto a quelle degli uomini. Questa disparità 
+può incidere sul benessere economico femminile in età 
+avanzata, e può aumentare la loro dipendenza da prestazio-
+ni complementari.
+In Svizzera, nel 2022, la rendita media annua della previ-
+denza per la vecchiaia percepita dalle donne è di 36.433 
+franchi, contro i 52.672 franchi degli uomini. Questa dif-
+ferenza corrisponde a un divario pensionistico di genere 
+pari al 30,8%. A incidere in modo particolare è il secondo 
+pilastro (previdenza professionale). Infatti, se per il primo 
+pilastro (AVS) non è possibile affermare con certezza la 
+presenza di differenze tra i due sessi, queste sono invece 
+evidenti nella previdenza professionale: tra chi percepi-
+sce il secondo pilastro, le donne ricevono in media 23.054 
+franchi all’anno, contro i 40.788 franchi degli uomini [F. 1]. 
+Questa differenza risulta in un divario a livello di previden-
+za professionale del 43,5%. Tra le persone pensionate dai 
+65 anni in su, le donne beneficiano meno frequentemente 
+del secondo pilastro rispetto agli uomini, con rispettiva-
+mente il 49,9% contro il 68,9%. Questa situazione va in-
+terpretata tenendo presente che i dati sono il riflesso della 
+situazione lavorativa passata, quando le disparità tra donne 
+e uomini erano più marcate rispetto al presente.
+Dall’analisi delle prestazioni complementari all’AVS, 
+emerge che le donne percepiscono più spesso questa pre-
+stazione rispetto agli uomini (19,4% a fronte del 14,1% 
+in Ticino nel 2023) [F. 2]. Questo dato sembra conferma-
+re una maggiore vulnerabilità economica delle donne in 
+età pensionabile, dovuta a salari mediamente più bassi nel 
+corso della carriera, una minor partecipazione nel mercato 
+del lavoro, interruzioni lavorative più frequenti e contributi 
+previdenziali inferiori, che le rendono più dipendenti da 
+misure di sostegno economico nella terza età. 
+DIVARIO PENSIONISTICO
+F.	1
+Rendite annue medie dell’assicurazione vecchiaia e superstiti e della previdenza professionale
+(in fr.), in Svizzera, nel 2022*
+Uomini										Donne
+*
+Le	barre	verticali	rappresentano	gli	intervalli	di	conﬁdenza	al	95%.
+**	 Persone	di	65	anni	e	più	che	ricevono	almeno	una	rendita	da	uno	dei	tre	pilastri	del	sistema	svizzero
+							della	previdenza	per	la	vecchiaia	o	dall’estero.	Le	persone	che	vivono	in	una	casa	per	anziani	non
+							sono	incluse.
+Fonte:	SILC,	UST
+Assicurazione	vecchiaia
+e	superstiti
+Previdenza	professionale
+Previdenza	professionale
+0
+5.000
+10.000
+15.000
+20.000
+25.000
+30.000
+35.000
+40.000
+45.000
+Tutte	le	persone	beneﬁciarie**
+Solo	le	persone	di	65	e	più	anni
+beneﬁciarie	di	una	rendita
+del	2°	pilastro
+
+---
+
+21 
+Giugno 2025
+F.	2
+Tasso di beneﬁciarie e beneﬁciari di prestazioni complementari all’assicurazione vecchiaia e
+superstiti (in %), in Ticino, dal 2008
+Uomini										Donne
+Fonte:	Statistica	delle	prestazioni	complementari	all’AVS	e	all’AI,	UFAS
+%
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+0,0
+5,0
+10,0
+15,0
+20,0
+25,0
+Avvertenze / definizioni
+Il divario pensionistico di genere corrisponde alla diffe-
+renza percentuale delle rendite medie tra donne e uomini 
+della popolazione residente permanente dai 65 anni in su 
+che vivono in un’economia domestica privata e che rice-
+vono almeno una rendita da uno dei tre pilastri del sistema 
+svizzero della previdenza per la vecchiaia o dall’estero. Le 
+persone che vivono in una casa per anziani non fanno par-
+te della popolazione di riferimento. Il calcolo tiene conto 
+delle rendite dell’assicurazione vecchiaia e superstiti AVS 
+(primo pilastro), delle rendite della previdenza professio-
+nale (secondo pilastro), della previdenza privata (terzo 
+pilastro) e delle rendite di un sistema di previdenza per 
+la vecchiaia estero. Conformemente alle norme di Euro-
+stat, il calcolo include anche gli assegni per grandi invalidi 
+dell’AVS e le prestazioni complementari (PC) all’AVS.
+Le persone che beneficiano di prestazioni complementari 
+AVS sono persone le cui rendite vecchiaia o altre entrate 
+non sono sufficienti a coprire il sostentamento e ricevono 
+un aiuto supplementare. Il tasso di beneficiarie e benefi-
+ciari di prestazioni complementari all’AVS misura la quo-
+ta percentuale di persone beneficiarie della prestazione 
+sul totale di persone che ricevono una rendita dell’assi-
+curazione vecchiaia e superstiti AVS (primo pilastro). Il 
+periodo di riferimento è il mese di dicembre.
+Nell’Indagine sui redditi e sulle condizioni di vita (SILC), 
+il periodo di riferimento dei redditi riguarda l’anno prece-
+dente quello di indagine; ad esempio, per la SILC 2022 
+riguarda il 2021. Per i dati provenienti da questa fonte nel 
+testo sono citati unicamente i valori centrali dell’interval-
+lo di confidenza al 95%.
+L’intervallo di confidenza, calcolato sulla base dei dati del 
+campione, identifica un intervallo di valori che racchiude 
+con un certo livello di confidenza il valore reale del pa-
+rametro studiato. Il livello dell’intervallo di confidenza è 
+normalmente fissato al 95%; ciò significa che, se la rile-
+vazione fosse ripetuta un gran numero di volte in maniera 
+indipendente e nelle stesse condizioni, in media il 95% de-
+gli intervalli ottenuti conterrebbero effettivamente il valore 
+reale del parametro.
+Il commento del Servizio per le pari opportunità
+Le disparità di genere analizzate nei capitoli precedenti 
+non si limitano a influenzare la vita lavorativa, ma si ma-
+nifestano anche al momento del pensionamento attraverso 
+delle rendite pensionistiche inferiori per le donne. Di con-
+seguenza, esse sono maggiormente toccate dalla povertà 
+in età avanzata e ricorrono più frequentemente alle presta-
+zioni complementari.
+Il sistema previdenziale svizzero si basa su un modello 
+che presuppone un’attività lavorativa a tempo pieno e 
+senza interruzioni, un approccio che non tiene conto del 
+lavoro non retribuito (come il lavoro di cura e domestico), 
+né delle interruzioni lavorative legate a responsabilità fa-
+miliari o alla minore partecipazione al mercato del lavoro, 
+aspetti che caratterizzano in particolare i percorsi profes-
+sionali femminili.
+Nel confronto europeo, la Svizzera si colloca tra i Paesi 
+con il divario pensionistico di genere più ampio, pari al 
+30,8%, superando la media europea del 26,0% nel 2022. 
+A incidere in maniera importante su questo posiziona-
+mento è l’elevata percentuale di donne che lavora a tem-
+po parziale (pari a circa il 60%), uno dei tassi più elevati 
+d’Europa.
+
+---
+
+Giugno 2025
+Le cifre della parità
+22 
+In ambito politico, si può iniziare a parlare di parità, o 
+quantomeno di un’esplicita aspirazione alla parità, a parti-
+re dall’inizio degli anni Settanta, quando le donne acquisi-
+scono infine i diritti politici, dapprima a livello cantonale e 
+comunale (dopo la votazione popolare del 19 ottobre 1969) 
+e in seguito anche sul piano federale (votazione del 7 feb-
+braio 1971).
+Tuttavia, per assistere all’ingresso di una donna nel governo 
+cantonale bisognerà attendere le elezioni del 1995. Nelle tre 
+legislature successive (dal 1999 al 2011) la presenza fem-
+minile raddoppia, mentre una sola donna è presente nell’e-
+secutivo dal 2011 al 2015. Tra il 2015 e il 2023 il Consiglio 
+di Stato ticinese ha attraversato due legislature senza alcuna 
+rappresentanza femminile. Attualmente nell’esecutivo tici-
+nese siede una donna, che occupa il nono seggio conquista-
+to da una rappresentante femminile [F. 1].
+Passando al Gran Consiglio, è utile ricordare come nel 1971 
+il numero dei seggi sia stato portato da 65 a 90 per favorire 
+l’ingresso delle donne nel legislativo, dopo l’ottenimento 
+del diritto di voto e di eleggibilità. Tuttavia, i 25 seggi ag-
+giunti con questo intento sono stati effettivamente raggiunti 
+(e superati) solo nelle ultime due elezioni del 2019 e 2023. 
+Nel 2015 le donne elette in Gran Consiglio erano ancora 
+soltanto 22, mentre prima non erano mai stati raggiunti i 
+15 seggi [F. 2].
+Oltre al numero di seggi conquistati, è interessante analiz-
+zare la percentuale di successo elettorale ottenuta da can-
+didate e candidati nel corso degli anni. Fino al 2011, gli 
+uomini registravano percentuali di successo decisamente 
+più alte rispetto alle donne, ma a partire dal 2015 questa 
+differenza si è assottigliata. Nel 2019, in particolare, sono 
+risultati eletti il 12,5% dei candidati, rispetto a una quasi 
+analoga quota dell’11,9% ottenuta dalle candidate. Sebbe-
+ne donne e uomini abbiano una probabilità simile di essere 
+eletti, la possibilità di conquistare il seggio dipende anche 
+dalla presenza di un equo numero di candidate e candidati 
+in tutte le liste, soprattutto in quelle dei partiti principali.
+La sottorappresentanza femminile nelle istituzioni politiche 
+è evidente a tutti i livelli, ma risulta particolarmente marca-
+ta negli esecutivi, con una donna su cinque in Consiglio di 
+Stato e il 21,6% nei Municipi [F. 3]. Anche nei legislativi la 
+presenza femminile rimane insufficiente, con il 32,7% nei 
+Consigli comunali e il 34,4% nel Gran Consiglio. Inoltre, la 
+Deputazione ticinese alle Camere federali registra una delle 
+percentuali più basse, con una sola donna su dieci. Questi 
+dati tendono a collocare il Ticino al di sotto della media 
+nazionale, dove le donne occupano il 35,7% dei seggi ne-
+gli esecutivi cantonali, il 34,3% nei legislativi cantonali e 
+il 37,8% nell’Assemblea federale. Infine, nei Municipi ti-
+cinesi, la percentuale di donne che ricoprono la carica di 
+sindaca è del 15,0% (15 su 100, stato al 6 aprile 2025), un 
+dato in leggera crescita rispetto alle legislature precedenti.
+Un ultimo aspetto fondamentale riguarda la partecipazione 
+al voto di donne e uomini. I dati delle elezioni cantonali del 
+2023 mostrano che fino ai 49 anni le donne hanno votato in 
+misura leggermente maggiore rispetto agli uomini. Tuttavia, 
+dai 50 anni in poi, il trend si inverte, con una differenza che 
+diventa sempre più marcata con l’aumentare dell’età [F. 4]. Il 
+dato evidenzia una differenza generazionale: le donne sotto 
+i 50 anni partecipano al voto più degli uomini, segno di un 
+maggiore coinvolgimento civico delle nuove generazioni. Al 
+contrario, tra gli over 50 il trend si inverte, probabilmente 
+per effetto di modelli culturali passati che limitavano l’ac-
+cesso delle donne alla sfera pubblica e politica.
+POLITICA
+F.	2
+Persone elette al Gran Consiglio ticinese e tasso di successo elettorale* (in %), dal 1971
+Uomini									Donne									Tasso	di	successo	degli	uomini									Tasso	di	successo	delle	donne
+*	Percentuale	di	eletti	sui	candidati,	rispettivamente	di	elette	sulle	candidate.
+Fonte:	CAN;	elab.	Ustat
+1971 1975 1979 1983 1987 1991 1995 1999 2003 2007 2011 2015 2019 2023
+0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+70,0
+80,0
+90,0
+100,0
+%
+F.	1
+Persone elette al Consiglio di Stato ticinese, dal 1971
+Uomini										Donne
+Fonte:	CAN;	elab.	Ustat
+1971
+1975
+1979
+1983
+1987
+1991
+1995
+1999
+2003
+2007
+2011
+2015
+2019
+2023
+0
+1
+2
+3
+4
+5
+
+---
+
+23 
+Giugno 2025
+F.	3
+Persone elette nelle istituzioni politiche ticinesi (in %), al 6 aprile 2025
+Uomini										Donne
+Fonte:	CAN;	elab.	Ustat
+Municipi
+Consigli
+comunali
+Consiglio
+di	Stato
+Gran	Consiglio
+Assemblea
+federale
+(deputazione	ticinese)
+0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+70,0
+80,0
+90,0
+100,0
+%
+21,6
+32,7
+20,0
+34,4
+10,0
+78,4
+67,3
+80,0
+65,6
+90,0
+F.	4
+Partecipazione alle elezioni cantonali* (in % su iscritte e iscritti), secondo la classe d’età, in Ticino,
+nel 2023
+Uomini																	Donne
+*	Dati	relativi	a	51	comuni	(160.424	iscritti	in	catalogo,	71,6%	del	totale).
+Fonte:	Cancellerie	comunali;	elab.	Ustat
+%
+18-19
+20-29
+30-39
+40-49
+50-59
+60-69
+70-79
+80	e	più
+0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+70,0
+80,0
+Avvertenze / definizioni
+Quando non indicato diversamente, il numero di seg-
+gi nelle istituzioni si riferisce alla situazione a inizio 
+legislatura.
+Il tasso di successo elettorale risulta dal rapporto (in ter-
+mini percentuali) tra il numero di candidate/i nelle liste 
+elettorali e il numero di deputate/i elette/i.
+I dati sulla partecipazione elettorale per sesso e età ven-
+gono forniti all’Ustat da alcuni comuni, che rappresen-
+tano oltre 2/3 del corpo elettorale ticinese.
+Il commento del Servizio per le pari opportunità
+L’ottenimento del diritto di voto e di eleggibilità per le 
+donne in Svizzera e in Ticino è il risultato di una lun-
+ga e faticosa battaglia, segnata da resistenze culturali e 
+politiche. Mentre in altri Paesi europei le donne aveva-
+no già acquisito questi diritti nel primo dopoguerra, in 
+Svizzera il processo è stato particolarmente tardivo, con 
+l’introduzione del suffragio femminile nel 1969 a livello 
+cantonale e nel 1971 sul piano federale, dopo decenni 
+di campagne e bocciature referendarie. L’ottenimento 
+dei diritti politici ha rappresentato il punto di partenza 
+di un lungo cammino verso la parità, ma il ritardo con 
+cui le donne hanno iniziato a ricoprire cariche elettive 
+dimostra quanto il processo sia stato lento e ostacolato 
+da dinamiche consolidate.
+Tradizionalmente, la politica era di dominio esclusiva-
+mente maschile, poiché l’uomo rappresentava la sfera 
+pubblica, mentre la donna era confinata nel privato, alla 
+gestione domestica e familiare. Questo retaggio viene 
+perpetrato da stereotipi di genere che scoraggiano molte 
+donne dal candidarsi o dal perseguire una carriera politi-
+ca. Anche il carico di responsabilità familiari, che spesso 
+ricade in misura maggiore sulle donne, rappresenta un 
+ostacolo significativo, rendendo più difficile conciliare 
+vita privata, lavoro e impegno politico.
+Complessivamente i dati mostrano una tendenza positiva 
+verso una maggiore inclusione delle donne nelle istitu-
+zioni politiche ticinesi, ma il divario rispetto alla media 
+nazionale ed europea sottolinea la necessità di politiche 
+e strategie mirate a incentivare la partecipazione fem-
+minile, sia in termini di candidature che di elezione e di 
+sensibilizzazione dell’opinione pubblica.
+
+---
+
+Giugno 2025
+Le cifre della parità
+24 
+Sebbene il tema della violenza riguardi sia le donne sia gli 
+uomini, le statistiche mostrano alcune differenze significa-
+tive di genere, a seconda del tipo di violenza (violenza in 
+generale, violenza domestica o violenza sessualizzata) e del 
+soggetto esaminato (la vittima o la persona imputata). 
+Secondo le statistiche gli uomini sono più spesso vittime di 
+reati violenti [F. 1], mentre per quanto riguarda i reati di poca 
+entità (sia le minacce che i reati compiuti) la distribuzione 
+di uomini e donne è la medesima. Se si considerano invece 
+gli imputati per questi reati, gli uomini ne rappresentano la 
+maggioranza (tre imputati su quattro per reati violenti), una 
+presenza che cresce fino a raggiungere il 95% tra gli autori 
+per i reati gravi. Rispetto a quanto osservato nel 2010 non 
+si segnalano cambiamenti di rilievo, ma vi è comunque un 
+leggero incremento della presenza di uomini imputati nei 
+reati gravi. 
+I numeri relativi alla violenza domestica [F. 2] mostrano che 
+a livello nazionale in quasi sette casi su dieci le vittime di 
+violenza sono donne e in sette casi su dieci gli autori sono 
+uomini. Si tratta di proporzioni analoghe a quelle osservate 
+nel 2010, anche se vi è una leggera crescita della quota di 
+donne tra le persone imputate e una loro diminuzione tra 
+le vittime. La situazione in termini assoluti mostra invece 
+un’importante crescita del fenomeno. Tra il 2010 e il 2024 
+le persone vittime di violenza domestica sono cresciute del 
+28%, in tutto +2.616 persone, metà delle quali sono donne. 
+Questo aumento in termini statistici non è per forza un indi-
+catore della crescita del fenomeno, ma potrebbe anche es-
+sere legato a una maggiore sensibilità di cittadine e cittadini 
+sulla tematica che porta a un maggior numero di persone 
+che segnalano i reati o che cercano aiuto.
+Al momento non si dispone ancora di queste cifre a livello 
+cantonale, ma il dato riguardante gli interventi di polizia 
+per disagi familiari ci permette di monitorare la situazione 
+ticinese. A livello cantonale il numero di interventi di po-
+lizia per disagi in famiglia si attestava fino al 2016 attorno 
+alle 800 unità. Tra il 2017 e il 2020 sono stati superati i 
+1.000 casi all’anno, mentre si è tornati di poco sotto questa 
+soglia nel 2024. All’interno di questi interventi, 162 riguar-
+dano i reati perseguiti d’ufficio (dato 2024). In questi casi 
+l’autorità interviene indipendentemente dal fatto che ci sia 
+la denuncia o l’accordo da parte della vittima.
+Un altro dato interessante a livello ticinese è costituito da-
+gli allontanamenti ordinati per violenza domestica [F. 3]. Dal 
+2008 è infatti in vigore la misura dell’allontanamento dal 
+nucleo familiare della persona responsabile della violenza 
+per la durata di dieci giorni. Il numero di questi allontana-
+menti varia significativamente di anno in anno, passando 
+dai 105 casi del 2010 ai 51 del 2024. Ciò che invece resta 
+invariato è che in circa nove casi su dieci le persone al-
+lontanate sono uomini. I dati sulla violenza sessualizzata 
+indicano che in quasi nove casi su dieci la vittima è una 
+donna e che in oltre nove casi su dieci la persona imputata 
+è un uomo. Rispetto al 2010 il numero di donne vittime 
+di violenza sessualizzata è cresciuto del 74% (+51 donne).
+Sono soprattutto le donne a usufruire delle consulenze presso 
+i centri di aiuto alle vittime di reati [F. 4]. Nella maggior parte 
+dei casi, la vittima che richiede queste consulenze ha un lega-
+me affettivo o relazionale con il proprio aggressore. L’elevata 
+presenza di donne tra l’utenza di questi centri è quindi, alme-
+no in parte, riconducibile al fenomeno della violenza dome-
+stica. Nel corso degli anni, la percentuale di donne che si è 
+rivolta a questo servizio è aumentata leggermente.
+VIOLENZA
+F.	2
+Persone imputate e vittime per violenza domestica (in %), in Svizzera, nel 2010 e nel 2024
+Uomini									Donne
+Fonte:	SCP,	UST
+2010
+2024
+%
+Vittime
+Imputati
+Vittime
+Imputati
+0,0
+20,0
+40,0
+60,0
+80,0
+100,0
+79,9
+20,1
+24,5
+75,5
+26,3
+73,7
+30,2
+69,8
+F.	1
+Persone imputate e vittime per reati violenti (in %), in Ticino, nel 2010 e nel 2024
+Uomini									Donne
+Fonte:	SCP,	UST
+Totale	reati	violenti
+Reati	di	poca	entità	(minacce)
+Reati	di	poca	entità	(compiuti)
+Reati	gravi	(compiuti)
+Totale	reati	violenti
+Reati	di	poca	entità	(minacce)
+Reati	di	poca	entità	(compiuti)
+Reati	gravi	(compiuti)
+Totale	reati	violenti
+Reati	di	poca	entità	(minacce)
+Reati	di	poca	entità	(compiuti)
+Reati	gravi	(compiuti)
+Totale	reati	violenti
+Reati	di	poca	entità	(minacce)
+Reati	di	poca	entità	(compiuti)
+Reati	gravi	(compiuti)
+0,0
+20,0
+40,0
+60,0
+80,0
+100,0
+2010
+2024
+2024
+2010
+Imputati
+Vittime
+%
+
+---
+
+25 
+Giugno 2025
+F.	3
+Allontanamenti ordinati per violenza domestica, in Ticino, dal 2010
+Uomini									Donne									Totale
+Fonte:	POL
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+0
+20
+40
+60
+80
+100
+120
+105
+73
+60
+69
+40
+36
+64
+73
+53
+77
+82
+88
+79
+60
+51
+F.	4
+Consulenze a vittime di reati, in Ticino, dal 2010
+Uomini									Donne									Sconosciuto
+Fonte:	OHS,	UST
+%
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+70,0
+80,0
+90,0
+100,0
+594
+517
+552
+515
+508
+479
+579
+584
+602
+598
+586
+564
+552
+671
+Avvertenze / definizioni 
+Reati violenti: si intendono tutte le fattispecie penali carat-
+terizzate dalla minaccia o dall’impiego intenzionale della 
+violenza contro altre persone. Sono esclusi dalla nozione 
+gli atti violenti contro le cose. Il totale dei reati violen-
+ti non corrisponde alla somma delle tre tipologie di reati 
+(reati gravi compiuti, reati di poca entità compiuti e reati 
+di poca entità sotto forma di minacce) perché un imputato 
+indipendentemente dal numero di reati contestati è contato 
+una sola volta nel totale.
+Violenza domestica: secondo la Convenzione di Istanbul (RS 
+0.311.35) l’espressione «violenza domestica» designa tutti gli 
+atti di violenza fisica, sessuale, psicologica o economica che 
+si verificano all’interno della famiglia o del nucleo familiare o 
+tra attuali o precedenti coniugi o partner, indipendentemente 
+dal fatto che l’autore di tali atti condivida o abbia condiviso la 
+stessa residenza con la vittima. In ambito di statistica crimi-
+nale di polizia, tale definizione si basa invece su specifici reati 
+ai sensi del Codice penale. Il numero di interventi non corri-
+sponde per forza al numero di persone coinvolte come attrici/
+tori o vittime di violenza domestica: le stesse persone posso-
+no essere implicate in molteplici casi registrati dalla Polizia.
+Violenza sessualizzata: nella statistica criminale della 
+polizia (SCP), vengono utilizzati gli articoli del Codice 
+penale svizzero (CP). Il termine violenza sessualizzata si 
+riferisce alle fattispecie dei reati che comportano violenza 
+e in particolare atti sessuali. Questi vengono minacciati, 
+forzati o imposti a una persona minorenne o adulta senza 
+il suo esplicito consenso e contro la sua volontà.
+Il commento del Servizio per l’aiuto alle vittime di reati e della Divisione della giustizia
+Quando si parla di un tema come quello della violenza, in 
+particolare quella domestica, è importante ricordare che le 
+informazioni fornite dalla polizia si limitano solo ai casi 
+segnalati e non restituiscono l’intera portata del fenomeno. 
+Secondo alcuni sondaggi, le persone vittime di violenza 
+domestica che decidono di segnalare l’accaduto alla po-
+lizia si situano tra il 10% e il 22% (Confederazione Sviz-
+zera, Cifre sulla violenza domestica in Svizzera, Berna, 
+luglio 2024, p. 3). I dati non raccontano dunque appieno 
+la complessità del problema ma ci dicono che la violenza 
+è ancora profondamente ancorata a dinamiche di potere, a 
+ruoli sociali e culturali radicati che continuano a riprodursi 
+nel tempo. Il fatto che siano soprattutto le donne a chiedere 
+aiuto, e/o a denunciare non significa solo che subiscono 
+di più ma forse hanno strumenti diversi dagli uomini per 
+riconoscere la violenza. Anche gli uomini possono essere 
+vittime di violenza e questo significa ancora oggi confron-
+tarsi con uno stereotipo che li vuole forti, inscalfibili e per 
+cui chiedere aiuto o esporsi rappresenta ancora un tabù.
+La complessità della violenza di genere e della violenza 
+domestica rendono difficile la spiegazione del fenomeno 
+attraverso le cifre. Certo è che le importanti conseguenze 
+della violenza – non solo fisica o sessualizzata, ma anche 
+delle forme più nascoste quali quella psicologica, econo-
+mica e sociale esercitate per esempio attraverso il control-
+lo, l’isolamento, l’umiliazione, la minaccia – coinvolgono 
+oltre alle persone direttamente toccate dalla violenza, la 
+società nel suo insieme.
+Per contrastare il problema della violenza domestica, 
+della violenza sessualizzata e della violenza in generale, 
+l’attività di prevenzione è fondamentale. Attraverso la 
+sensibilizzazione della società passando dalle e dai più 
+giovani, alle persone adulte ma anche alle professioniste e 
+ai professionisti attivi sul territorio, è possibile favorire il 
+riconoscimento precoce di situazioni di violenza, orienta-
+re chi lo necessita verso i servizi preposti, ma anche ridur-
+re il rischio di recidiva di chi la esercita.
+
+---
+
+Giugno 2025
+Le cifre della parità
+26 
+SIGLE, FONTI, SEGNI E ABBREVIAZIONI
+Sigle e fonti
+AVS	
+Assicurazione vecchiaia e superstiti
+CAN	
+Cancelleria dello Stato, Bellinzona 
+CFP	
+Censimento federale della popolazione 
+DFE	
+Dipartimento delle finanze e dell’economia, Bellinzona
+DI	
+Dipartimento delle istituzioni, Bellinzona
+DSS	
+Dipartimento della sanità e della socialità, Bellinzona
+IFG*	
+Indagine sulle famiglie e sulle generazioni 
+ISS*	
+Indagine sulla salute in Svizzera 
+OHS	
+Statistica dell’aiuto alle vittime 
+POL	
+Polizia cantonale, Bellinzona 
+RIFOS*	
+Rilevazione sulle forze di lavoro in Svizzera 
+RS*	
+Rilevazione strutturale 
+RSS*	
+Rilevazione svizzera della struttura dei salari 
+SBG-SFPI	
+Statistica della formazione professionale di base
+SCP	
+Statistica criminale di polizia 
+SHIS-studex	 Studenti ed esami delle scuole universitarie
+SILC*	
+Indagine sui redditi e sulle condizioni di vita 
+STATPOP	
+Statistica della popolazione e delle economie domestiche 
+SUPSI	
+Scuola universitaria professionale della Svizzera italiana
+UFAS	
+Ufficio federale delle assicurazioni sociali, Berna
+UOSP	
+Ufficio dell’orientamento scolastico e professionale, 
+Bellinzona
+UST	
+Ufficio federale di statistica, Neuchâtel
+Ustat	
+Ufficio di statistica, Giubiasco
+* Fonte campionaria.
+Segni e abbreviazioni
+.	
+Separatore delle migliaia
+,	
+Separatore dei valori decimali
+( )	
+Dato non pubblicato per insufficiente
+	
+attendibilità statistica
+(cifra)	
+Affidabilità statistica del dato relativa
+V.	
+Vedi
+%	
+Valori percentuali
+Per saperne di più
+Per una visione esaustiva di quanto offerto sul tema a li-
+vello nazionale e nei diversi cantoni, o per approfondire 
+alcuni specifici aspetti di questa vasta tematica:
+Ufficio di statistica (Ustat)
+www.ti.ch/ustat
+Le Cifre della parità online
+www.ti.ch/ustat-schede-parita
+Ufficio federale di statistica (UST)
+www.bfs.admin.ch  > Statistiche > Situazione economi-
+ca e sociale della popolazione > Uguaglianza tra donna 
+e uomo
+Ufficio federale per l’uguaglianza tra donna e uomo 
+(UFU)
+www.ebg.admin.ch, in particolare > Pubblicazioni
+Conferenza svizzera delle/dei delegate/i alla parità (CSP)
+www.equality.ch
+Servizio per le pari opportunità
+www.ti.ch/pariopportunita
+Commissione federale per le questioni femminili (CFQF)
+www.ekf.admin.ch, in particolare > Temi  > Donne e 
+pari opportunità in generale
+
+---
+
+Le donne guadagnano l’8,4% in meno rispetto
+agli uomini (differenza salariale mediana)
+Le donne sono il 35,6% 
+delle persone occupate in 
+posizione dirigenziale
+L’82,4% delle persone 
+che si rivolgono ai servizi
+di consulenza per vittime
+di reati sono donne
+Ufficio di statistica 
+Via Bellinzona 31 
+6512 Giubiasco
++41(0) 91 814 50 11
+dfe-ustat@ti.ch
+www.ti.ch/ustat

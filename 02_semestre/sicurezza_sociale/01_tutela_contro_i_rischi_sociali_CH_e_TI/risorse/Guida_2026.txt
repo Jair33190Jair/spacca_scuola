@@ -1,0 +1,1973 @@
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+ 
+TUTELA CONTRO I RISCHI SOCIALI NEL 
+SISTEMA SVIZZERO E TICINESE DI SICUREZZA 
+SOCIALE - UN’INTRODUZIONE SOTTO FORMA 
+DI GUIDA 
+Autore: Gregorio Avilés 
+Documento preparato per il modulo “Sicurezza sociale e forme 
+di solidarietà”. Responsabile del modulo: Gregorio Avilés. 
+Docenti: Spartaco Greppi, Oliver Galfetti, Ornella Larenza, Anja 
+Tamò-Gafner. 
+ 
+ 
+ 
+Le immagini sono opera di Aline Passardi. 
+Salvo indicazioni contrarie, i dati sono aggiornati al 01.01.2026
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+2 
+ 
+Indice 
+1. 
+Introduzione ...............................................................................................................................4 
+1.1. 
+Definizione funzionale di sicurezza sociale.................................................................................. 4 
+1.2. 
+Definizione analitica di sicurezza sociale: copertura contro i rischi sociali .................................. 5 
+1.3. 
+Sintesi fra definizione funzionale e definizione analitica di sicurezza sociale .............................. 8 
+1.4. 
+Assicurazioni sociali e prestazioni commisurate al bisogno ........................................................ 9 
+1.5. 
+Dispositivi di sicurezza sociale e tutela dei rischi sociali ............................................................ 12 
+1.6. 
+Principi di coordinamento fra prestazioni sociali ...................................................................... 13 
+1.6.1  Coordinamento fra assicurazioni sociali ................................................................................ 14 
+1.6.2 Coordinamento fra prestazioni commisurate al bisogno ...................................................... 15 
+1.7. 
+Contenuti e struttura della guida .............................................................................................. 16 
+1.8. 
+Come utilizzare la guida ............................................................................................................ 18 
+2. 
+Cure mediche e assistenza ........................................................................................................ 19 
+2.1 
+Scopo ........................................................................................................................................ 19 
+2.2  
+Assicurazioni sociali ................................................................................................................... 19 
+Assicurazione militare (AMIL) ........................................................................................................... 19 
+Assicurazione infortuni (AINF) .......................................................................................................... 19 
+Assicurazione invalidità (AI) .............................................................................................................. 20 
+Assicurazione vecchiaia e superstiti (AVS) ........................................................................................ 21 
+Assicurazione malattia (AMAL) ......................................................................................................... 21 
+2.3  
+Prestazioni commisurate al bisogno ......................................................................................... 22 
+Riduzione dei premi dell’assicurazione malattia (RIPAM) ................................................................. 23 
+Prestazioni complementari all’AVS/AI (PC) ....................................................................................... 23 
+Prestazioni transitorie per disoccupati anziani (PT) .......................................................................... 24 
+Aiuti diretti (o contributo di sostegno per il mantenimento a domicilio) ......................................... 24 
+Aiuto sociale ..................................................................................................................................... 24 
+3. 
+Perdita di guadagno in caso di vecchiaia, decesso e invalidità: il sistema dei tre pilastri .............. 25 
+3.1 
+Rischio vecchiaia: scopo ............................................................................................................ 26 
+3.2 
+Rischio decesso: scopo .............................................................................................................. 26 
+3.3 
+Rischio invalidità: scopo ............................................................................................................ 26 
+3.4 
+Primo pilastro ............................................................................................................................ 26 
+Assicurazioni sociali .......................................................................................................................... 27 
+Prestazioni commisurate al bisogno ................................................................................................. 28 
+3.5 
+Secondo pilastro ....................................................................................................................... 28 
+Assicurazioni sociali .......................................................................................................................... 29 
+3.6 
+Terzo pilastro ............................................................................................................................ 30 
+4. 
+Perdita di guadagno in caso di malattia non professionale ......................................................... 31 
+4.1 
+Scopo ........................................................................................................................................ 31 
+4.2 
+Copertura assicurativa di diritto privato ................................................................................... 31 
+4.3 
+Obbligo di pagamento del salario da parte del datore di lavoro ............................................... 32 
+5. 
+Perdita di guadagno in caso di infortunio e di malattia professionale ......................................... 33 
+5.1 
+Scopo ........................................................................................................................................ 33
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+3 
+ 
+5.2 
+Assicurazioni sociali ................................................................................................................... 34 
+Assicurazione militare (AMIL) ........................................................................................................... 34 
+Assicurazione infortuni (AINF) .......................................................................................................... 34 
+6. 
+Perdita di guadagno in caso di disoccupazione........................................................................... 36 
+6.1 
+Scopo ........................................................................................................................................ 36 
+6.2 
+Assicurazioni sociali ................................................................................................................... 36 
+Assicurazione contro la disoccupazione (AD) .................................................................................... 36 
+6.3 
+Prestazioni commisurate al bisogno ......................................................................................... 37 
+Prestazioni transitorie per disoccupati anziani (PT) .......................................................................... 37 
+Indennità straordinaria per disoccupati ex-indipendenti (ISD) ......................................................... 37 
+7. 
+Perdita di guadagno in caso di maternità e paternità ................................................................. 38 
+7.1 
+Scopo ........................................................................................................................................ 38 
+7.2 
+Assicurazioni sociali ................................................................................................................... 38 
+Indennità per perdita di guadagno (IPG) ........................................................................................... 38 
+Indennità cantonali di adozione ............................................................................................................ 39 
+8. 
+Perdita di guadagno in caso di servizio ...................................................................................... 40 
+8.1 
+Scopo ........................................................................................................................................ 40 
+8.2 
+Assicurazioni sociali ................................................................................................................... 40 
+Indennità per perdita di guadagno (IPG) ........................................................................................... 40 
+9. 
+Oneri famigliari ........................................................................................................................ 41 
+9.1 
+Scopo ........................................................................................................................................ 41 
+9.2 
+Assicurazioni sociali ................................................................................................................... 41 
+Assegni famigliari (AF) ....................................................................................................................... 41 
+Altre assicurazioni sociali .................................................................................................................. 42 
+9.3 
+Prestazioni commisurate al bisogno ......................................................................................... 42 
+Assegni famigliari integrativi (AFI)..................................................................................................... 42 
+Assegni di prima infanzia (API) .......................................................................................................... 43 
+Assegno parentale ............................................................................................................................ 44 
+Anticipo alimenti ............................................................................................................................... 44 
+Aiuti allo studio ................................................................................................................................. 44 
+9.4 
+Contributi cantonali per la conciliabilità fra famiglia e lavoro/formazione ............................... 45 
+Aiuto universale ................................................................................................................................ 46 
+Aiuto soggettivo per i beneficiari di RIPAM ...................................................................................... 46 
+Aiuto soggettivo per i beneficiari di API ............................................................................................ 46 
+10. Povertà e esclusione sociale ...................................................................................................... 47 
+10.1 
+Scopo ........................................................................................................................................ 47 
+10.2 
+Prestazioni commisurate al bisogno ......................................................................................... 47 
+Aiuto sociale ..................................................................................................................................... 47 
+Aiuto sociale per persone provenienti dall’ambito dell’asilo ............................................................ 48
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+4 
+ 
+1. Introduzione 
+La sicurezza sociale è una componente fondamentale degli Stati sociali moderni. Si possono 
+distinguere due distinti approcci alla definizione della sicurezza sociale, per i quali, tuttavia, è 
+possibile trovare una convergenza almeno parziale. Si tratta della definizione funzionale e della 
+definizione analitica di sicurezza sociale.  
+ 
+1.1. Definizione funzionale di sicurezza sociale 
+Secondo la definizione funzionale, la sicurezza sociale garantisce 4 funzioni principali: 
+• Protezione della salute. Questa funzione rimanda al diritto d’accesso all'assistenza 
+sanitaria e a cure mediche di base efficaci. 
+• Garanzia di un reddito sociale di sostituzione del reddito professionale. Questa 
+funzione è orientata verso il mantenimento dello standard di vita precedente l’insorgere 
+di un’incapacità al guadagno (dovuta per esempio a malattia, infortunio, 
+disoccupazione, maternità, ecc.).  
+• Garanzia di un reddito sociale di complemento. A seconda delle circostanze, un reddito 
+di complemento può:  
+o coprire gli oneri famigliari (totalmente o parzialmente), in particolare quelli legati 
+all’accudimento dei figli; 
+o offrire, più in generale, la garanzia di un reddito minimo per ciascuna persona 
+impedita di lavorare o che riceve un reddito dal lavoro o un reddito sociale di 
+sostituzione insufficiente per coprire le proprie spese essenziali.  
+• (Re)integrazione sociale e professionale. Questa funzione concerne la protezione 
+contro la disoccupazione, non solo in termini di indennizzo finanziario ma anche di 
+prevenzione, integrazione, riadattamento e reinserimento nel mondo del lavoro. In 
+Svizzera, le misure integrative, soprattutto quelle di carattere professionale, hanno 
+assunto importanza crescente non solo nell’assicurazione contro la disoccupazione, ma 
+anche nell’assicurazione invalidità e nell’aiuto sociale. In quest’ultimo comparto, le 
+misure integrative hanno sovente un obiettivo d’inclusione sociale più ampio a favore di 
+persone che dispongono di scarse possibilità di reintegrare i normali circuiti lavorativi.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+5 
+ 
+1.2. Definizione analitica di sicurezza sociale: copertura contro i rischi sociali 
+Secondo la definizione analitica di sicurezza sociale, gli interventi a favore delle persone sono 
+volti a tutelare i cittadini contro le conseguenze economiche provocate da una serie di eventi o 
+rischi sociali1: 
+ 
+1. Cure mediche e assistenza  
+L’evento coperto comprende qualsiasi stato morboso (indipendentemente dalla causa), la 
+gravidanza, il parto e le loro conseguenze (art. 8 Convenzione 102 OIL). 
+In questo evento possono essere incluse anche l’assistenza - diversa dalle cure mediche - e la 
+sorveglianza nello svolgimento delle attività quotidiane prestata da terze persone a favore di 
+persone anziane o disabili non autosufficienti2, così come il ricorso a mezzi ausiliari, ossia 
+apparecchiature che servono a diagnosticare o curare una malattia oppure a compensare un 
+pregiudizio fisico o funzionale. 
+ 
+Troviamo successivamente una serie di rischi che concernono la perdita di reddito per 
+incapacità al guadagno in caso di: 
+ 
+2. Vecchiaia 
+L’evento è costituito dalla sopravvivenza oltre un’età prescritta (art. 26 Convenzione 102 OIL), 
+detta età di pensionamento o di riferimento (attualmente in Svizzera l’età di riferimento è di 65 
+anni per gli uomini, anche per le donne si raggiungerà progressivamente l’età di 65 anni entro il 
+2028). Il rischio è da intendersi come il giungere al pensionamento senza risorse economiche o 
+con risorse insufficienti.  
+ 
+ 
+1 L’elenco di rischi sociali è ripreso e adattato da uno dei fondamenti normativi più noti nel campo della sicurezza 
+sociale, ossia la Convenzione 102 dell’Organizzazione Internazionale del Lavoro (OIL) sulle norme minime in 
+materia di sicurezza sociale. Questa convenzione, che data del 1952, è stata ratificata dalla Svizzera nel 1977. Ai 9 
+rischi sociali elencati nella convenzione, se ne possono aggiungere almeno due: la perdita di guadagno in caso di 
+servizio (servizio militare, protezione civile, servizio civile, ecc.) e la povertà (o esclusione sociale). 
+2 In questo caso, il diritto sociale elvetico rimanda alla nozione di “grande invalidità” (da non confondere con 
+quella di invalidità!). La “grande invalidità” si riferisce alle persone che, a causa di un danno alla salute, hanno 
+bisogno in modo permanente dell’aiuto di terzi o di una sorveglianza personale per compiere gli atti ordinari della 
+vita, quali vestirsi, provvedere alla propria igiene personale, mangiare ecc. (art. 9 LPGA). La grande invalidità non 
+implica necessariamente una incapacità al guadagno sul mercato del lavoro, aspetto essenziale, invece, per 
+definire il rischio di invalidità.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+6 
+ 
+3. Decesso (del sostegno di famiglia, con prestazioni a favore dei superstiti) 
+L’evento comprende la perdita di mezzi d’esistenza subita dalla vedova, dal vedovo o dagli 
+orfani a causa della morte del sostegno di famiglia (art. 60 Convenzione 102 OIL).  
+ 
+4. Invalidità 
+L’evento coperto consiste nell’incapacità totale o parziale al guadagno, presumibilmente 
+permanente o di lunga durata, provocata da un danno alla salute fisica, mentale o psichica (artt. 
+7-8 LPGA). L'invalidità può essere conseguente a infermità congenita, malattia o infortunio (art. 
+4 cpv. 1 LAI). 
+Le persone minorenni senza attività lucrativa sono ritenute invalide se hanno un danno alla 
+salute che probabilmente provocherà in età adulta un’incapacità al guadagno totale o parziale 
+(art. 8 cpv. 2 LPGA).  
+I maggiorenni che prima di subire un danno alla salute non esercitavano un’attività lucrativa e 
+dai quali non si può ragionevolmente esigere che l’esercitino sono considerati invalidi se tale 
+danno impedisce loro di svolgere le proprie mansioni consuete (art. 8 cpv. 3 LPGA). 
+ 
+5. Malattia (non professionale) 
+L’evento coperto comprende l’incapacità al lavoro risultante da uno stato morboso e 
+cagionante la sospensione del guadagno (art. 14 Convenzione 102 OIL). 
+È considerata malattia qualsiasi danno alla salute fisica, mentale o psichica che non sia la 
+conseguenza di un infortunio e che richieda un esame o una cura medica oppure provochi 
+un’incapacità al lavoro (art. 3 LPGA). 
+ 
+6. Infortunio o malattia professionale 
+L’evento comprende l’incapacità al lavoro risultante da uno stato morboso dovuto a infortunio 
+(professionale o non professionale) o malattia professionale e provocante la sospensione del 
+guadagno.  
+È considerato infortunio qualsiasi influsso dannoso, improvviso e involontario, apportato al 
+corpo umano da un fattore esterno straordinario che comprometta la salute fisica, mentale o 
+psichica o provochi la morte (art. 4 LPGA).
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+7 
+ 
+7. Disoccupazione 
+L’evento coperto comprende la sospensione del guadagno dovuta all’impossibilità di ottenere 
+un impiego adeguato (p.e a seguito di un licenziamento) nel caso di una persona protetta 
+capace di lavorare e disponibile al lavoro (art. 20 Convenzione 102 OIL).  
+ 
+8. Maternità e paternità 
+L’evento coperto è costituito dalla sospensione del guadagno risultante dalla maternità, dalla 
+paternità o dall’adozione.  
+ 
+9. Servizio 
+L’evento coperto comprende la sospensione del guadagno durante il servizio nell’esercito 
+svizzero, nel servizio di protezione civile e nel servizio civile. 
+ 
+Troviamo, infine, il rischio “oneri famigliari” e il rischio “povertà e esclusione sociale”: 
+ 
+10. Oneri famigliari 
+L’evento coperto è il mantenimento dei figli (art. 40 Convenzione 102 OIL).  
+In questo rischio sociale, possono essere classificati anche i sussidi per la formazione, in 
+particolare quelli destinati a famiglie di condizione economica modesta con figli minorenni o 
+giovani adulti ancora in formazione (conosciuti anche come “aiuti allo studio”) e i contributi 
+economici atti a favorire la conciliabilità fra lavoro e famiglia. 
+ 
+11. Povertà e esclusione sociale  
+L’evento coperto è multidimensionale e non facilmente definibile. Si riferisce, in primo luogo 
+ma non solo, a un livello di reddito insufficiente (povertà materiale) e concerne prestazioni in 
+denaro o in natura (esclusa l'assistenza sanitaria) specificamente destinate a garantire un 
+reddito minimo e combattere l'esclusione sociale e non attribuibili a uno degli altri eventi/rischi 
+sociali3. 
+ 
+3 Fonte: Eurostat (2019). European system of integrated social protection statistics — ESSPROS. Manual and User 
+Guidelines. Luxembourg: Publications Office of the European Union.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+8 
+ 
+1.3. Sintesi fra definizione funzionale e definizione analitica di sicurezza sociale 
+Benché si tenda ad opporre la definizione analitica alla definizione funzionale, se la seconda 
+funzione, ossia quella di garantire un reddito sostitutivo del salario, è ben collegata a una serie 
+di eventualità (o rischi sociali), allora diventa possibile una sintesi dei due concetti (Tabella 1)4: 
+• 
+Il rischio cure mediche e assistenza corrisponde alla prima funzione (protezione della 
+salute). 
+• 
+Il rischio di perdita di guadagno derivante da malattia, maternità, infortunio e malattia 
+professionale, invalidità, vecchiaia, decesso, disoccupazione, maternità e servizio, si 
+riferisce alla seconda funzione (garanzia di un reddito di sostituzione). 
+• 
+Gli oneri familiari, così come la povertà materiale e l’esclusione sociale, rientrano nella 
+terza funzione (garanzia di un reddito di complemento). 
+• 
+Gli interventi per favorire l’integrazione sociale e professionale (presenti soprattutto 
+nei dispositivi della disoccupazione, dell’invalidità e dell’aiuto sociale) corrispondono 
+alla quarta funzione (integrazione sociale e professionale). 
+ 
+Tabella 1: Rischi sociali e funzioni del sistema di sicurezza sociale: una sintesi 
+Evento/Rischio sociale 
+Funzione della sicurezza sociale 
+Cure mediche e assistenza 
+Protezione della salute 
+Vecchiaia 
+Garanzia di un reddito di sostituzione 
+Decesso/superstiti 
+Garanzia di un reddito di sostituzione 
+Invalidità 
+Garanzia di un reddito di sostituzione; (Re)integrazione 
+professionale 
+Malattia (non professionale) 
+Garanzia di un reddito di sostituzione 
+Infortunio e malattia professionale 
+Garanzia di un reddito di sostituzione 
+Disoccupazione 
+Garanzia di un reddito di sostituzione; (Re)integrazione 
+professionale 
+Maternità e paternità 
+Garanzia di un reddito di sostituzione 
+Servizio 
+Garanzia di un reddito di sostituzione 
+Oneri famigliari 
+Garanzia di un reddito di complemento 
+Povertà e esclusione sociale 
+Garanzia di un reddito di complemento; (Re)integrazione 
+professionale e sociale  
+ 
+4 Fonte : Greber, P.-Y. (2010). La sécurité sociale : une histoire, une culture, des défis : approche de droit 
+international. Cahiers genevois et romands de sécurité sociale, n. 44, 9-28.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+9 
+ 
+1.4. Assicurazioni sociali e prestazioni commisurate al bisogno 
+Nel nostro paese, il termine di sicurezza sociale fa riferimento, in prima approssimazione, 
+all’insieme delle assicurazioni sociali e delle prestazioni commisurate al bisogno (Figura 1).  
+Questi dispositivi di sicurezza sociale prevedono due tipi di prestazioni: 
+• Prestazioni pecuniarie (o in denaro). Una prestazione in denaro è una prestazione 
+pagata in contanti e che non richiede una prova delle spese effettive da parte dei 
+destinatari. Sono prestazioni pecuniarie segnatamente (art. 15 LPGA): le indennità 
+giornaliere, le rendite, le prestazioni complementari annue, gli assegni per grandi 
+invalidi e i loro complementi. 
+• Prestazioni in natura. Le prestazioni in natura sono prestazioni concesse sotto forma di 
+beni e servizi. Si distinguono le prestazioni fornite a titolo di rimborso di spese certificate 
+e le prestazioni erogate direttamente senza alcun prefinanziamento da parte del 
+beneficiario. Nel nostro sistema di sicurezza sociale sono considerate prestazioni in 
+natura (art. 14 LPGA): le cure medico-farmaceutiche, i mezzi ausiliari, i provvedimenti 
+individuali di prevenzione e integrazione, le spese di trasporto e le prestazioni analoghe.  
+ 
+Figura 1: Architettura del sistema di sicurezza sociale svizzero
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+10 
+ 
+Le ASSICURAZIONI SOCIALI sono 12 e hanno quale riferimento giuridico altrettante leggi 
+federali (i Cantoni hanno dei compiti legati soprattutto all’applicazione delle leggi): 
+• AVS: Assicurazione per la Vecchiaia e per i Superstiti (LAVS). 
+• AI: Assicurazione per l’Invalidità (LAI). 
+• PC AVS/AI: Prestazioni Complementari all’AVS/AI (LPC). 
+• PP: Previdenza Professionale (LPP). 
+• AINF: Assicurazione contro gli Infortuni (LAINF). 
+• AMAL: Assicurazione Malattie (LAMAL). 
+• AMIL: Assicurazione Militare (LAM). 
+• IPG: Indennità per Perdita di Guadagno (LIPG). 
+• AD: Assicurazione contro la Disoccupazione (LADI). 
+• PT: Prestazioni Transitorie per disoccupati anziani (LPTD). 
+• AF: Assegni Famigliari nell’agricoltura (LAF). 
+• AF: Assegni Famigliari cantonali (LAFAM, legge quadro federale che definisce una serie 
+di criteri minimi che devono essere rispettati dalle leggi cantonali). 
+Ad eccezione delle Prestazioni Complementari all’AVS/AI e delle Prestazioni Transitorie per 
+disoccupati anziani, le assicurazioni sociali applicano il cosiddetto principio assicurativo. Tale 
+principio garantisce una tutela contro i rischi sociali che si dovessero realizzare in futuro basata 
+generalmente sull’obbligo di pagamento anticipato di contributi sociali o di premi pro capite5. I 
+contributi sociali degli assicurati e - nel caso di persone salariate - dei datori di lavoro sono la 
+principale fonte di finanziamento delle assicurazioni sociali. Altre possibili fonti sono i contributi 
+pubblici (imposte dirette e indirette, tasse, ecc.) e i rendimenti del capitale investito nei mercati 
+finanziari e immobiliare. 
+Le PRESTAZIONI COMMISURATE AL BISOGNO, per la maggior parte di competenza cantonale, 
+sono fondate sul principio del bisogno e vengono quindi concesse solo dopo un accertamento 
+dei mezzi economici disponibili. Tale accertamento - detto anche “prova dei mezzi” - è teso a 
+verificare che le risorse economiche a disposizione del richiedente e di eventuali altri membri 
+ 
+5 Grazie al principio di solidarietà, vi sono però delle eccezioni a questa regola. È il caso, per esempio, degli invalidi 
+precoci o dalla nascita che sono tutelati dall’assicurazione invalidità pur non avendo mai potuto versare dei 
+contributi. Oppure degli studenti che si iscrivono alla disoccupazione dopo aver terminato degli studi a tempo 
+pieno, i quali possono ottenere un numero limitato di indennità giornaliere dopo un periodo di attesa di 120 giorni, 
+anche qualora non abbiano contribuito negli ultimi due anni all’assicurazione contro la disoccupazione.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+11 
+ 
+del nucleo famigliare (reddito e patrimonio) siano inferiori ad una determinata soglia finanziaria 
+stabilita dalla legge. Pertanto, queste prestazioni sono selettive: sono cioè indirizzate in modo 
+mirato unicamente alle persone e alle famiglie di condizioni economiche modeste. Le 
+prestazioni commisurate al bisogno hanno lo scopo garantire il minimo vitale o coprire un costo 
+quando vi è una lacuna nel sistema delle assicurazioni sociali. Esse sono finanziate quasi 
+esclusivamente da contributi pubblici ricavati dalle imposte.  
+L’esempio paradigmatico per questo tipo d’intervento è rappresentato dall’assistenza sociale (o 
+aiuto/sostegno sociale, come si tende a chiamarlo oggi). Anche le Prestazioni Complementari 
+all’AVS/AI e le Prestazioni Transitorie per disoccupati anziani, pur facendo parte del diritto delle 
+assicurazioni sociali, applicano il principio del bisogno.  
+In Ticino, le principali prestazioni cantonali commisurate al bisogno sono coordinate e in parte 
+armonizzate dalla Legge sull’armonizzazione e il coordinamento delle prestazioni sociali (LAPS). 
+Le 9 prestazioni cantonali coordinate e/o armonizzate sono, in ordine di priorità, le seguenti: 
+• Riduzione del premio dell’assicurazione obbligatoria contro le malattie (RIPAM).  
+• Aiuto sociale speciale e Assegno per sportivi d’élite. 
+• Assegno di studio (borsa di studio o assegno di tirocinio). 
+• Assegno di formazione terziaria sociosanitaria. 
+• Assegno di riqualificazione professionale.  
+• Indennità straordinaria ai disoccupati ex-indipendenti (ISD).  
+• Assegno familiare integrativo (AFI).  
+• Assegno di prima infanzia (API).  
+• Aiuto sociale (AS). 
+Vi sono poi alcune prestazioni sociali cantonali che non sono incluse nel sistema LAPS. Si 
+possono citare in particolare: 
+• Aiuti diretti per il mantenimento a domicilio (aiuti per anziani e invalidi). 
+• Anticipo alimenti (AA)6. 
+ 
+ 
+6 In Ticino, contrariamente ad altri cantoni, l’anticipo alimenti non è condizionato al reddito; non si tratta quindi 
+propriamente di una prestazione commisurata al bisogno, ma è stato qui collocato per una questione di semplicità.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+12 
+ 
+1.5. Dispositivi di sicurezza sociale e tutela dei rischi sociali 
+Quasi tutti i dispositivi e le prestazioni di sicurezza sociale del sistema federale e cantonale 
+(Figura 1) sono collegabili ad uno o più eventi e rischi sociali descritti al cap. 1.2 (Tabella 2) e 
+sono ripresi nei capitoli da 2-10 della guida. I rischi vecchiaia, decesso e invalidità sono inclusi in 
+un unico capitolo in quanto sono coperti dal cosiddetto “sistema dei tre pilastri”. 
+ 
+Tabella 2: Dispositivi di sicurezza sociale a copertura dei rischi sociali 
+Evento/Rischio sociale 
+Cap. 
+Dispositivi di sicurezza sociale 
+Assicurazioni sociali 
+Prestazioni comm. al bisogno 
+Cure mediche e assistenza 
+2 
+AMIL, 
+AINF, 
+AI, 
+AVS, 
+AMAL 
+RIPAM, PC AVS/AI*, PT*, Aiuti 
+diretti, AS 
+Vecchiaia 
+3 
+AVS, PP 
+PC AVS* 
+Decesso/superstiti 
+3 
+AVS, AINF, AMIL, PP 
+PC AVS* 
+Invalidità 
+3 
+AI, AINF, AMIL, PP 
+PC AI* 
+Malattia (non professionale) 
+4 
+AMAL (facolt.), LCA**, 
+CO, AI(IG) 
+ 
+Infortunio e malattia prof. 
+5 
+AMIL, AINF, AMAL, AI(IG) 
+RIPAM 
+Disoccupazione 
+6 
+AD 
+PT*, ISD 
+Maternità e paternità 
+7 
+IPG (IMat, IPat, IAdo***, 
+IAss) 
+ 
+Servizio 
+8 
+IPG 
+ 
+Oneri famigliari 
+9 
+AF, (AVS, AI, PP, IPG, AD) 
+AA, AFI, API, Aiuti allo studio, AP 
+(assegno parentale) + contributi 
+per la conciliabilità 
+Povertà e esclusione sociale 
+10 
+ 
+AS 
+* Assicurazioni sociali che applicano il principio del bisogno. 
+** Legge federale sul contratto d’assicurazione (assicuratori privati). 
+*** A complemento delle indennità di adozione federali, il Canton Ticino prevede delle indennità 
+cantonali di adozione che possono raggiungere i 98 giorni di durata e essere versate anche per figli 
+adottati minorenni con età superiore ai 4 anni. 
+ 
+Fanno eccezione le seguenti prestazioni commisurate al bisogno, che non sono direttamente 
+riconducibili ad alcun rischio sociale summenzionato:
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+13 
+ 
+• Aiuto alle vittime7. 
+• Assistenza giuridica e giudiziaria gratuita8. 
+• Aiuti per l’alloggio9. 
+Gli aiuti allo studio versati dopo accertamento dei mezzi e inclusi nel sistema LAPS (aiuto sociale 
+speciale e assegno per sportivi di élite, assegno di studio, assegno di formazione terziaria 
+sociosanitaria e assegno di riqualificazione professionale) sono stati classificati nel rischio 
+sociale “oneri famigliari”, giacché coprono un costo generalmente a carico delle famiglie per 
+l’istruzione dei propri figli. Tuttavia, in alcuni casi possono beneficiare di questi aiuti anche 
+persone adulte, economicamente indipendenti dai loro genitori, per la conclusione di una prima 
+formazione in età avanzata oppure per un aggiornamento o una riqualifica professionale.   
+Sono stati inclusi negli “oneri famigliari” anche i contributi cantonali per la copertura dei costi 
+legati alla conciliabilità fra lavoro/formazione e famiglia. 
+ 
+1.6. Principi di coordinamento fra prestazioni sociali 
+Il nostro sistema di assicurazioni sociali non è stato costruito con un approccio uniforme, bensì 
+si fonda sull’esistenza di molte istituzioni autonome che coprono uno o più rischi specifici. 
+Come osservato nella Tabella 2, per la maggior parte dei rischi e dei bisogni possono essere 
+chiamate ad intervenire più assicurazioni sociali e ciò può causare dei problemi di 
+coordinamento.  
+Se per uno stesso evento/rischio sociale esistono più dispositivi di sicurezza sociale che 
+prevedono un diritto a prestazioni, è importante verificare:  
+a) se, e in che misura, le diverse prestazioni possono essere cumulate (cioè sommate fra 
+loro); 
+b) qual è l’ordine di priorità secondo il quale le prestazioni vengono concesse. 
+Un principio generale da tener presente è che le prestazioni commisurate al bisogno sono 
+sussidiarie rispetto alle assicurazioni sociali.  
+ 
+7 Per l’aiuto alle vittime di reato, si rimanda al sito dell’amministrazione cantonale (DSS, Aiuto alle vittime di reati). 
+Questo tema sarà ripreso anche nella lezione sulle Politiche famigliari.  
+8 Per l’assistenza giuridica e giudiziaria gratuita, si rimanda al sito dell’amministrazione cantonale (DI, Assistenza 
+giudiziaria). 
+9 I sussidi alla persona per la copertura specifica delle spese di alloggio sono, in Canton Ticino, di competenza dei 
+Comuni (di fatto solo pochi Comuni dispongono di aiuti di questo genere). Essi non figurano quindi in questa guida.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+14 
+ 
+Ciò significa che le assicurazioni sociali hanno la precedenza sulle prestazioni commisurate al 
+bisogno e che queste ultime intervengono solo se non vi è un diritto a ricevere prestazioni da 
+assicurazioni sociali, oppure se questo diritto è insufficiente per raggiungere il “minimo vitale”.  
+ 
+1.6.1  Coordinamento fra assicurazioni sociali 
+I principi generali di coordinamento fra assicurazioni sociali sono sanciti agli articoli 63-71 della 
+Legge federale sulla parte generale del diritto delle assicurazioni sociali (LPGA). 
+ 
+Prestazioni in natura 
+Le cure mediche sono assunte esclusivamente da un’unica assicurazione sociale. Se le 
+condizioni della singola legge sono soddisfatte, il rimborso delle cure medico-farmaceutiche è a 
+carico, in ordine di priorità, di: 
+• Assicurazione militare (AMIL). 
+• Assicurazione contro gli infortuni (AINF). 
+• Assicurazione per l’invalidità (AI). 
+• Assicurazione contro le malattie (AMAL). 
+Le altre prestazioni in natura, quali ad esempio i mezzi ausiliari o i provvedimenti 
+d’integrazione, sono assunte secondo le disposizioni della singola legge e nel seguente ordine: 
+• Assicurazione militare (AMIL) o Assicurazione contro gli infortuni (AINF). 
+• Assicurazione per l’invalidità (AI) o Assicurazione per la vecchiaia e per i superstiti (AVS). 
+• Assicurazione contro le malattie (AMAL). 
+ 
+Prestazioni in denaro 
+Gli assegni per grandi invalidi sono accordati, secondo le disposizioni della singola legge 
+interessata, esclusivamente da un’unica assicurazione sociale e nel seguente ordine: 
+• Assicurazione militare (AMIL) o Assicurazione contro gli infortuni (AINF). 
+• Assicurazione per l’invalidità (AI) o Assicurazione per la vecchiaia e per i superstiti (AVS). 
+Le rendite e le indennità in capitale possono essere cumulate e sono fornite nel seguente 
+ordine: 
+• Assicurazione per la vecchiaia e per i superstiti (AVS) o Assicurazione per l’invalidità (AI).
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+15 
+ 
+• Assicurazione militare (AMIL) o Assicurazione contro gli infortuni (AINF). 
+• Previdenza professionale (PP).  
+Attenzione: il cumulo di prestazioni delle assicurazioni sociali non deve provocare un sovra-
+indennizzo del beneficiario. Vi è sovra-indennizzo se le prestazioni sociali legalmente dovute 
+superano il guadagno di cui il beneficiario è stato privato in seguito all’evento assicurato, 
+incluse le spese supplementari provocate dallo stesso evento ed eventuali diminuzioni di 
+reddito subite da congiunti. Il divieto di sovra-indennizzo intende evitare la possibilità che una 
+persona goda, grazie al cumulo di prestazioni sociali, di una situazione finanziaria migliore 
+rispetto a quella precedente la realizzazione del rischio sociale.  
+Salvo sovra-indennizzo, le indennità giornaliere sono cumulabili con le rendite di altre 
+assicurazioni sociali. 
+ 
+1.6.2 Coordinamento fra prestazioni commisurate al bisogno 
+Fra le prestazioni commisurate al bisogno, le Prestazioni Complementari all’AVS/AI (PC) e le 
+Prestazioni Transitorie per disoccupati anziani (PT), che fanno parte del diritto delle 
+assicurazioni sociali, hanno priorità rispetto alle prestazioni di competenza cantonale.  
+In Canton Ticino, la Legge sull’armonizzazione e il coordinamento delle prestazioni sociali (LAPS) 
+definisce i principi di coordinamento fra 9 prestazioni cantonali commisurate al bisogno. Lo 
+scopo della LAPS è garantire il minimo vitale a tutte le economie domestiche del Cantone, 
+evitando per quanto possibile il ricorso all’aiuto sociale, che è l’ultima prestazione in ordine di 
+priorità. 
+Le prestazioni LAPS sono concesse nel seguente ordine e possono essere cumulate solo fino al 
+raggiungimento della soglia di “minimo vitale” prevista dalla legge: 
+1. Riduzione del premio dell’assicurazione obbligatoria contro le malattie (RIPAM). Si 
+veda il capitolo 2 (Cure mediche) e il capitolo 5 (Perdita di guadagno in caso di 
+infortunio).  
+2. Aiuto sociale speciale e Assegno per sportivi d’élite. Si veda il capitolo 9 (Oneri 
+famigliari). 
+3. Assegno di studio (borsa di studio o assegno di tirocinio). Si veda il capitolo 9 (Oneri 
+famigliari).  
+4. Assegno di formazione terziaria sociosanitaria. Si veda il capitolo 9 (Oneri famigliari).  
+5. Assegno di riqualificazione professionale. Si veda il capitolo 9 (Oneri famigliari).
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+16 
+ 
+6. Indennità straordinaria ai disoccupati ex-indipendenti (ISD). Si veda il capitolo 6 
+(Perdita di guadagno in caso di disoccupazione).  
+7. Assegno familiare integrativo (AFI). Si veda il capitolo 9 (Oneri famigliari).  
+8. Assegno di prima infanzia (API). Si veda il capitolo 9 (Oneri famigliari). 
+9. Aiuto sociale. Si veda il capitolo 10 (Povertà e esclusione sociale).  
+ 
+1.7. Contenuti e struttura della guida 
+I successivi capitoli della guida sono strutturati in funzione degli eventi e rischi sociali tutelati 
+dal sistema svizzero e ticinese di sicurezza sociale (v. cap. 1.2). Per ogni rischio sociale, si 
+elencano i dispositivi e le prestazioni pecuniarie e in natura che intervengono a tutela dei 
+cittadini: dapprima le assicurazioni sociali, in quanto hanno priorità, e successivamente le 
+prestazioni commisurate al bisogno (per una visione d’insieme si rimanda alla Tabella 2). 
+Come già sottolineato, le Prestazioni Complementari (PC AVS/AI) e le Prestazioni Transitorie per 
+disoccupati anziani (PT), pur facendo parte del diritto delle assicurazioni sociali, sono classificate 
+fra le prestazioni commisurate al bisogno, in quanto sono aiuti selettivi fondati sul principio del 
+bisogno e concessi solo dopo accertamento dei mezzi economici del richiedente.  
+Poiché la previdenza per i rischi vecchiaia, decesso e invalidità è organizzata nel cosiddetto 
+“sistema dei tre pilastri”, questi 3 rischi sociali sono raggruppati in un unico capitolo dedicato 
+(Capitolo 3). 
+La guida si concentra sui dispositivi di sicurezza sociale federali e cantonali (Svizzera e Ticino). 
+Nel nostro Stato federalista, organizzato su tre livelli istituzionali, anche molti Comuni, in 
+particolare quelli di medio-grande dimensione, prevedono delle prestazioni di sicurezza sociale 
+per i loro domiciliati. Tuttavia, sarebbe troppo oneroso integrare anche gli interventi comunali 
+in questa guida. 
+Allo scopo di agevolare la comprensione da parte delle lettrici e dei lettori, nel testo sono stati 
+inseriti diversi esempi pratici, per affrontare i quali ci serviremo dell’aiuto della famiglia 
+Bernasconi. 
+La famiglia Bernasconi è composta da10: 
+Luigi, 80 anni, il nonno. Attualmente pensionato, è arrivato in Svizzera all’età di 35 anni. Nella 
+sua carriera ha svolto diversi mestieri umili e poco retribuiti. Ha difficoltà d’udito. Luigi vive in 
+un appartamento di 3 locali a Bellinzona pagando un affitto di 1'200 franchi al mese, comprese 
+ 
+10 Tutti i nomi sono di fantasia.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+17 
+ 
+le spese accessorie. Paga un premio di cassa malati (assicurazione di base LAMAL) di 600 franchi 
+al mese. 
+Giovanni, 48 anni, il padre di Luca e Sara. È figlio di Luigi. Lavora da 3 anni presso l’attuale 
+datore di lavoro in qualità di pittore edile, percependo uno stipendio mensile lordo di 5'000 
+franchi (cui si aggiunge il tredicesimo salario).  
+Anna, 44 anni, la madre di Luca e Sara, sposata con Giovanni. Formata nel settore commerciale, 
+è stata per molti anni segretaria in uno studio fiduciario, ma ha smesso di lavorare 10 anni fa 
+dopo la nascita del primogenito. Anna è incinta al nono mese di Mauro, che nascerà fra poco.  
+Luca, 10 anni, primogenito di Giovanni e Anna. È affetto da una infermità congenita grave che 
+richiede delle cure giornaliere a domicilio. Luca si sposta con una sedia a rotelle e necessita di 
+aiuto e sorveglianza regolare per svolgere le attività di base della vita quotidiana come alzarsi, 
+vestirsi, mangiare e provvedere alla cura del corpo e all’igiene personale.   
+Sara, 6 anni, secondogenita di Giovanni e Anna, frequenta la prima elementare.  
+Giovanni, Anna, Luca e Sara, vivono in affitto in un appartamento di 4 locali, a pochi passi da 
+Luigi, pagando una pigione lorda di 1'600 franchi (acconto spese incluso). Pagano un premio di 
+cassa malati di base di 1'180 franchi al mese (480 franchi Giovanni e Anna, 110 Luca e Sara). 
+Entro 3 mesi dalla nascita, occorrerà assicurare anche Mauro (altri 110 franchi di premio di 
+cassa malati). La famiglia ha pochi risparmi.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+18 
+ 
+1.8. Come utilizzare la guida 
+La guida ha l’obiettivo di fornire una panoramica generale sulla sicurezza sociale e le sue 
+prestazioni, facilitando la capacità del lettore poco esperto di orientarsi nella complessità del 
+sistema.   
+Quando confrontati a una concreta situazione di bisogno, occorre procedere nel modo 
+seguente: 
+1.  
+Per prima cosa, bisogna identificare il rischio sociale o i rischi sociali rilevanti per il caso 
+in questione (v. cap. 1.2). Si possono distinguere i rischi a breve termine (p.e. la necessità 
+di ricevere cure e ottenere un reddito sostitutivo in caso di malattia) dai rischi a medio-
+lungo termine (p.e. il rischio di d’invalidità se, nonostante le cure e le eventuali misure 
+reintegrative, non si riacquista una adeguata capacità di guadagno).  
+2. 
+Consultare i capitoli dedicati ai singoli rischi sociali identificati (v. cap. 2-10) e individuare i 
+dispositivi - assicurazioni sociali e/o dispositivi commisurati al bisogno - e le prestazioni di 
+sicurezza sociale che potrebbero intervenire a tutela del cittadino e dei suoi famigliari. 
+3. 
+Se per uno stesso evento/rischio sociale possono intervenire più dispositivi di sicurezza 
+sociale, è necessario verificare i principi di coordinamento (v. cap. 1.6). In questo modo, 
+si potrà appurare qual è l’ordine di priorità in cui vengono concesse le prestazioni e se, e 
+in quale misura, possono essere cumulate. In linea di principio, le prestazioni delle 
+assicurazioni sociali hanno la precedenza rispetto alle prestazioni commisurate al bisogno. 
+4. 
+La guida offre solo informazioni di carattere generale sulle prestazioni sociali. Per stabilire 
+se le persone nel bisogno adempiano effettivamente tutte le condizioni di diritto, per 
+verificare la natura e l’importo previsto e la procedura di richiesta degli aiuti, è necessario 
+ricercare informazioni più dettagliate sui singoli dispositivi nelle diapositive e nel 
+manuale a supporto del modulo, nella documentazione accessibile attraverso i 
+collegamenti ipertestuali disseminati all’interno della guida, oppure consultando le basi 
+legali (in particolare leggi, ordinanze e regolamenti11).   
+ 
+11 Le leggi e le ordinanze sulle assicurazioni sociali sono consultabili nella Raccolta Sistematica (RS) del diritto 
+federale. Le leggi e i regolamenti cantonali concernenti la sicurezza sociale possono essere reperiti nella Raccolta 
+delle leggi del Cantone Ticino.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+19 
+ 
+2. Cure mediche e assistenza 
+2.1 
+Scopo 
+L’obiettivo della sicurezza sociale è: 
+- 
+Garantire prestazioni alle persone protette, se il loro stato esige cure mediche efficaci, 
+appropriate e economiche, siano esse profilattiche o curative. 
+- 
+Garantire prestazioni alle persone protette, se il loro stato esige assistenza o 
+sorveglianza nel compimento degli atti ordinari della vita, così come il ricorso a mezzi 
+ausiliari. 
+ 
+2.2  
+Assicurazioni sociali 
+Questo rischio sociale può essere coperto da diverse assicurazioni sociali con livelli di tutela che 
+possono variare da un dispositivo all’altro. 
+ 
+Assicurazione militare (AMIL) 
+L’AMIL si assume i costi delle cure in caso di malattia e infortunio, nonché i costi derivanti dalle 
+misure di riabilitazione, che si realizzano nel corso del servizio militare, della protezione civile e 
+del servizio civile. Se necessario, l’AMIL versa anche degli assegni per grandi invalidi e dei 
+contributi per mezzi ausiliari.  
+ 
+Assicurazione infortuni (AINF) 
+L’AINF rimborsa integralmente le cure mediche a seguito di un infortunio o di una malattia 
+professionale (per le definizioni di infortunio e di malattia professionale si veda il capitolo 5). 
+L’AINF può versare anche degli assegni per grandi invalidi e dei contributi per mezzi ausiliari. 
+L’AINF è obbligatoria per tutti i lavoratori dipendenti. Le persone che lavorano almeno 8 ore alla 
+settimana presso un singolo datore di lavoro, sono assicurate obbligatoriamente non solo 
+contro gli infortuni professionali, ma anche contro gli infortuni non professionali. I lavoratori 
+indipendenti possono assicurarsi all’AINF facoltativamente.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+Un giorno sfortunato Giovanni cade da una scala durante un lavoro di 
+verniciatura riportando gravi fratture agli arti inferiori e superiori. Giovanni, 
+in qualità di lavoratore salariato, è assicurato obbligatoriamente 
+all’assicurazione infortuni, che coprirà integralmente le spese di salvataggio 
+e di trasporto, così come le cure mediche necessarie per il trattamento dei 
+postumi dell’infortunio. 
+ 
+ 
+ 
+  
+Assicurazione invalidità (AI) 
+L’AI rimborsa fino all’età di 20 anni le cure legate ad infermità congenite12 (ossia presenti a 
+nascita avvenuta) e le misure mediche necessarie per la riabilitazione professionale. A partire 
+dai 20 anni, l'assicurazione malattie (AMAL) è responsabile del finanziamento delle misure 
+mediche. 
+Luca necessita di cure infermieristiche giornaliere al proprio domicilio. Tali cure, 
+prestate da personale formato e riconosciuto, sono coperte integralmente dall’AI.  
+ 
+L’AI versa anche degli assegni per grandi invalidi13 (AGI) e dei contributi per mezzi ausiliari fino 
+al raggiungimento dell’età di riferimento AVS (in seguito tali aiuti saranno coperti dall’AVS).  
+I beneficiari di un assegno grandi invalidi dell’AI che intendono vivere al loro domicilio possono 
+ottenere, a determinate condizioni, un contributo di assistenza per poter assumere una 
+persona che fornisca loro il sostegno di cui necessitano. 
+Luca necessita di aiuto e sorveglianza costante da parte della madre per alzarsi, 
+vestirsi, mangiare e provvedere alla cura del corpo e all’igiene personale. Per questa 
+ragione, Luca ha ottenuto dall’assicurazione invalidità un assegno per grandi invalidi di 
+grado elevato che corrisponde a 2’016 franchi al mese. Inoltre, l’AI rimborsa le spese 
+legate all’acquisto di una carrozzella senza motore semplice, adeguata ed economica 
+(mezzo ausiliario). 
+ 
+ 
+12 Le affezioni riconosciute come infermità congenite dall’AI sono elencate nell'Ordinanza sulle infermità congenite 
+(OIC-DFI). 
+13 Nel 2018, è stato introdotto un supplemento per le famiglie che assicurano le cure e assistono i loro figli 
+gravemente malati o fortemente andicappati (supplemento per cure intensive).
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+21 
+ 
+Assicurazione vecchiaia e superstiti (AVS) 
+L’AVS può versare degli assegni per grandi invalidi (AGI) a persone anziane che hanno raggiunto 
+l’età pensionabile. Può anche versare dei contributi per l’acquisto, il noleggio o il prestito di 
+mezzi ausiliari, ma l’elenco dei mezzi riconosciuti è più limitato rispetto all’AI.  
+A causa dell’invecchiamento, Luigi, pur mantenendo una buona autonomia, 
+comincia ad accusare grossi problemi di udito (ipoacusia). Per questa ragione, 
+l’AVS gli riconosce ogni 5 anni un contributo forfettario per l’acquisto di due 
+apparecchi acustici (mezzo ausiliario), che gli consentono di migliorare 
+notevolmente la sua acutezza uditiva.  
+ 
+Assicurazione malattia (AMAL) 
+L’AMAL rimborsa le spese mediche, anche se dispensate a domicilio o in una casa di cura, a 
+seguito di malattia non professionale, maternità e infortunio (quest’ultimo rischio solo se non 
+tutelato già da altre assicurazioni, in particolare dall’assicurazione infortuni). L’AMAL può anche 
+versare un contributo per dei mezzi e degli apparecchi prescritti da un medico, come bendaggi, 
+medicazioni, apparecchi per l’inalazione, mezzi ausiliari per l’incontinenza, ecc.  
+L’AMAL è obbligatoria e tutela, salvo eccezioni, tutti i residenti in Svizzera.  
+Luigi, Anna, Luca e Sara non sono attivi professionalmente e 
+non sono quindi tutelati dall’assicurazione contro gli infortuni 
+(AINF). Pertanto, hanno stipulato con la loro cassa malati una 
+polizza che include anche il rimborso di cure mediche in caso 
+d’infortunio; ciò comporta un premio leggermente più alto. 
+Contrariamente ad altre assicurazioni, l’AMAL non copre la totalità dei costi delle cure mediche. 
+Una parte dei costi rimane in genere a carico dell’assicurato (si parla di “partecipazione ai 
+costi”). La partecipazione ai costi è composta da: 
+• Franchigia ordinaria, che è di 300 franchi annui (esclusi i minorenni, che non la pagano). 
+Gli assicuratori possono offrire delle franchigie opzionali più elevate fino ad un massimo 
+di 2'500 franchi, in cambio di una riduzione del premio.  
+• Aliquota percentuale, che è pari al 10% dei costi che superano la franchigia14, ma al 
+massimo 700 franchi all’anno per gli adulti e 350 per i minorenni.  
+ 
+14 La partecipazione ai costi è del 20% se viene prescritto un farmaco originale invece del generico.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+22 
+ 
+Luigi paga un premio superiore a Giovanni e Anna, anche se è 
+assicurato presso la stessa cassa malati e rientra nella stessa 
+categoria d’età. Infatti, Luigi ha scelto una franchigia ordinaria 
+perché è confrontato con spese di malattia piuttosto 
+importanti. Per contro, Giovanni e Anna hanno scelto la 
+franchigia massima di 2'500 franchi all’anno, in modo da 
+ottenere uno sconto sul premio.  Tuttavia, i primi 2'500 franchi 
+di spesa annua saranno interamente a loro carico. Come nel 
+caso di Luigi, anche Giovanni e Anna dovranno inoltre pagare 
+l’aliquota percentuale del 10% per i primi 700 franchi di spesa 
+che superano la franchigia.  
+Per contro, in caso di maternità non vi è alcuna partecipazione ai costi per prestazioni specifiche 
+legate alla gravidanza. Inoltre, a partire dalla 13esima settimana di gravidanza e fino a 8 
+settimane dopo il parto, le donne non devono più partecipare ai costi delle prestazioni mediche 
+generali, che comprendono i costi per le cure mediche di malattie senza alcun nesso con il 
+parto. 
+Questa è una buona notizia per Anna che è al nono mese di gravidanza e non 
+deve quindi pagare alcuna partecipazione ai costi legati alla maternità, p.e. esami 
+di controllo durante e dopo la gravidanza, costi del parto, consulenza per 
+l’allattamento e costi delle cure e della degenza del neonato Mauro finché 
+soggiornerà con lei in ospedale. Neppure per altre spese sanitarie, le potrà essere 
+richiesta una partecipazione ai costi, e ciò fino a 8 settimane dopo il parto. 
+Maggiori informazioni sull’AMAL si possono trovare in una guida pubblicata dall’Ufficio federale 
+della sanità pubblica: L‘assicurazione malattie obbligatoria. 
+ 
+2.3  
+Prestazioni commisurate al bisogno 
+La riduzione dei premi di assicurazione malattia è una prestazione che consente di coprire 
+almeno parzialmente il costo del premio dell’AMAL. Vi sono poi alcune prestazioni commisurate 
+al bisogno che possono riconoscere dei rimborsi per spese legate alla malattia e all’invalidità.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+23 
+ 
+Riduzione dei premi dell’assicurazione malattia (RIPAM) 
+La RIPAM, comunemente conosciuta come “sussidio di cassa malati”, è un aiuto accordato agli 
+assicurati di condizione economica modesta e copre, in genere solo parzialmente, il premio 
+dell’assicurazione malattia obbligatoria (LAMAL). La base legale della RIPAM è la Legge 
+cantonale di applicazione della legge federale sull’assicurazione malattie (LCAMal, artt. 23 ss.). 
+La RIPAM è la prima prestazione coordinata dalla LAPS in ordine di priorità. 
+Il Simulatore di calcolo online dello IAS offre un calcolo indicativo del diritto alla RIPAM. 
+A dicembre 2025, Giovanni ha presentato al Servizio sussidi assicurazione 
+malattia di Bellinzona una richiesta RIPAM per il 2026. Dopo esame della 
+domanda, il servizio riconosce alla famiglia di Giovanni un sussidio di 13'516 
+franchi all’anno, che versa direttamente all’assicuratore malattia. Alla famiglia 
+rimane da pagare uno scoperto di soli 644 franchi all’anno, che corrispondono 
+a 53.65 franchi al mese.  
+ 
+Luigi è beneficiario di PC all’AVS e non deve quindi fare richiesta per la RIPAM, 
+perché il suo caso è trattato d’ufficio. Le PC versano direttamente all’assicuratore 
+malattia la totalità del premio effettivo dovuto da Luigi, in quanto l’importo di 600 
+franchi al mese è inferiore al premio massimo riconosciuto. Pertanto, Luigi non deve 
+sopportare alcun costo per il premio dell’assicurazione malattie di base. 
+ 
+Prestazioni complementari all’AVS/AI (PC) 
+I beneficiari di Prestazioni Complementari all’AVS e all’AI (PC AVS-AI) possono richiedere il 
+rimborso per spese legate alla malattia e all’invalidità non coperte dalle assicurazioni sociali 
+(dentista, cure e assistenza a domicilio e in strutture diurne, cure balneari, diete d’importanza 
+vitale, spese di trasporto, mezzi ausiliari, partecipazione ai costi dell’AMAL). Sono previsti degli 
+importi massimi annui. 
+Luigi è un beneficiario di PC AVS. Richiede perciò regolarmente al Servizio 
+prestazioni complementari dello IAS di Bellinzona il rimborso delle spese di 
+partecipazione ai costi dell’AMAL (rimborso massimo di 1'000 franchi 
+all’anno). Inoltre, le PC AVS gli possono versare un contributo per l’acquisto 
+degli apparecchi ortofonici, pari ad un terzo del contributo già riconosciuto 
+dall’AVS. La richiesta di rimborso per spese di malattia e invalidità deve essere 
+fatta valere entro 15 mesi dalla fatturazione.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+24 
+ 
+Prestazioni transitorie per disoccupati anziani (PT) 
+I beneficiari di Prestazioni Transitorie per disoccupati anziani (PT) possono richiedere il 
+rimborso per spese legate alla malattia e all’invalidità (dentista, diete, spese di trasporto, mezzi 
+ausiliari, partecipazione ai costi dell’AMAL). La richiesta di rimborso deve essere fatta valere 
+entro 15 mesi dalla fatturazione. Sono previsti degli importi massimi annui.  
+ 
+Aiuti diretti (o contributo di sostegno per il mantenimento a domicilio) 
+La base legale degli aiuti diretti è la Legge cantonale sull'assistenza e cura a domicilio (LACD). 
+Possono ottenere l’aiuto diretto le persone beneficiarie di una rendita AVS o AI il cui stato di 
+dipendenza esige l’aiuto di altre persone per poter rimanere al proprio domicilio. Questo 
+contributo cantonale è sussidiario rispetto ad altre prestazioni sociali concesse al medesimo 
+scopo, quali ad esempio l’assegno per grandi invalidi dell’AVS o dell’AI, i contributi riconosciuti 
+dalle PC per cure mediche e d’invalidità, e i contributi giornalieri concessi dalle casse malati per 
+le cure a domicilio. 
+Rientrano fra gli aiuti diretti anche i contributi per l'acquisto di mezzi ausiliari (p.e. montascale, 
+lift) e per l'esecuzione di lavori atti ad eliminare le barriere architettoniche all’interno 
+dell’abitazione, allo scopo di consentire il mantenimento a domicilio.  
+Maggiori informazioni possono essere reperite sul sito della Divisione dell’azione sociale e delle 
+famiglie del DSS (Contributo per il mantenimento a domicilio).   
+ 
+Aiuto sociale 
+I beneficiari di aiuto sociale possono ottenere, a determinate circostanze ed entro dei limiti 
+d’importo prefissati, le seguenti prestazioni circostanziali (rimborsi per spese legate alla salute): 
+partecipazione ai costi dell’AMAL, cure dentarie, occhiali, cure e assistenza a domicilio o presso 
+centri diurni, spese di trasporto e mezzi ausiliari.  
+Maggiori informazioni sull’aiuto sociale in Canton Ticino sono contenute in un opuscolo 
+pubblicato dal DSS: Sostegno sociale in Ticino.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+25 
+ 
+3. Perdita di guadagno in caso di vecchiaia, decesso e invalidità: il 
+sistema dei tre pilastri 
+I rischi legati all’incapacità di guadagno per vecchiaia, decesso e invalidità sono tutelati dal 
+sistema dei tre pilastri, che comprende l’Assicurazione vecchiaia e superstiti (AVS), 
+l’Assicurazione invalidità (AI), le Prestazioni Complementari all’AVS e all’AI (PC AVS-AI), la 
+Previdenza Professionale (PP), l’Assicurazione infortuni (AINF) e il terzo pilastro15 (Figura 1).  
+ 
+Figura 3: Organizzazione del sistema dei tre pilastri 
+ 
+Fonte: Crédit Suisse Svizzera 
+ 
+“Il sistema dei tre pilastri”: Video esplicativi dell'Ufficio federale delle assicurazioni sociali. 
+ 
+ 
+15 Attenzione: se questi rischi si realizzano durante il servizio militare, la protezione civile o il servizio civile, 
+interviene l’assicurazione militare (AMIL).
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+26 
+ 
+3.1 
+Rischio vecchiaia: scopo 
+L’obiettivo della sicurezza sociale è garantire alle persone protette delle prestazioni di vecchiaia 
+sotto forma di rendite (prestazioni ricorrenti) o di indennità in capitale (prestazioni una 
+tantum).  
+ 
+3.2 
+Rischio decesso: scopo 
+L’obiettivo della sicurezza sociale è garantire alle persone protette (vedovi.e e orfani) delle 
+prestazioni per superstiti sotto forma di rendite (prestazioni ricorrenti) o di indennità in capitale 
+(prestazioni una tantum).  
+ 
+3.3 
+Rischio invalidità: scopo 
+L’obiettivo della sicurezza sociale è garantire alle persone protette delle rendite per invalidità se 
+l’incapacità al guadagno perdura dopo aver sottoposto la persona alle cure e alle misure 
+d’integrazione ragionevolmente esigibili. L’obiettivo d’integrazione professionale prevale sul 
+diritto alla rendita. 
+Per le persone minorenni con un danno alla salute, che probabilmente provocherà in età adulta 
+un’incapacità al guadagno totale o parziale, lo scopo della sicurezza sociale è coprire i costi dei 
+provvedimenti sanitari destinati direttamente all’integrazione nella scuola dell’obbligo, nella 
+formazione professionale iniziale o nella vita professionale o a favorire lo svolgimento delle 
+mansioni consuete. 
+ 
+3.4 
+Primo pilastro 
+Il primo pilastro è composto dall’assicurazione vecchiaia e superstiti (AVS), dall’assicurazione 
+invalidità (AI) e dalle Prestazioni Complementari all’AVS e all’AI (PC AVS/AI). Il primo pilastro è 
+obbligatorio per tutta la popolazione. La sua gestione è prevalentemente compito di organi 
+statali. Il suo mandato costituzionale è garantire un reddito minimo esistenziale.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+27 
+ 
+Assicurazioni sociali 
+Assicurazione vecchiaia e superstiti (AVS) 
+L’AVS versa delle rendite di vecchiaia e delle rendite per superstiti (rendite vedovili e rendite 
+per orfani). L’importo è calcolato sulla base degli anni di contribuzione, del reddito proveniente 
+dall’attività lucrativa e degli accrediti per compiti educativi e assistenziali. Se non vi sono degli 
+anni di contribuzione mancanti, gli importi delle rendite semplici di vecchiaia variano da un 
+minimo di 1'260 franchi fino ad un massimo di 2'520 franchi al mese. Se vi sono delle lacune 
+contributive, le rendite sono ridotte proporzionalmente al numero di anni mancanti. La rendita 
+vedovile corrisponde all’80%, mentre la rendita per orfani al 40% della rendita semplice. 
+Dall’età di 65 anni, Luigi beneficia di una rendita di vecchiaia dell’AVS di 1'500 franchi al 
+mese. 
+ 
+Assicurazione invalidità (AI) 
+L’AI versa delle rendite d’invalidità. Se non vi sono degli anni di contribuzione mancanti, gli 
+importi delle rendite intere16 variano da un minimo di 1'260 franchi fino ad un massimo di 2'520 
+franchi al mese. L’importo della rendita intera si applica se il grado di invalidità supera il 70%, 
+mentre il diritto a ricevere una rendita parziale decorre da un grado d’invalidità di almeno il 
+40%17. Prima di concedere delle rendite, l’AI esamina la capacità dell’assicurato di ottenere un 
+guadagno sul mercato del lavoro nonostante il danno alla salute, anche in attività professionali 
+alternative rispetto a quella abituale. La capacità di guadagno può essere ristabilita o 
+mantenuta anche grazie alla partecipazione a provvedimenti integrativi. Durante lo svolgimento 
+di tali provvedimenti, l’AI versa generalmente agli assicurati delle indennità giornaliere che 
+corrispondono all’80% del guadagno assicurato. 
+Giovanni, a seguito del grave infortunio subito, e nonostante le cure ricevute, non 
+è più in grado di tornare a svolgere la professione di pittore. Il suo caso è stato 
+quindi segnalato all’AI, che ha valutato la sua capacità di guadagno in altre attività 
+esigibili in base al suo stato di salute. Successivamente a tali rilievi, l’AI ha calcolato 
+per Giovanni un grado d’invalidità del 100% e deciso l’attribuzione di una rendita 
+d’invalidità intera di 2'000 franchi al mese.  
+ 
+ 
+16 Le rendite intere vengono versate agli assicurati che non hanno delle lacune contributive. 
+17 Il grado d’invalidità viene calcolato confrontando il reddito da sano e il reddito da invalido, ossia il reddito che 
+l’assicurato guadagna o potrebbe guadagnare nonostante il danno alla salute.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+28 
+ 
+Prestazioni commisurate al bisogno 
+ 
+Prestazioni complementari all’AVS e all’AI (PC AVS/AI) 
+Gli importi delle rendite del primo pilastro, in aggiunta ad eventuali altre entrate, possono non 
+bastare a garantire il fabbisogno esistenziale minimo. Se possiedono risorse insufficienti, i 
+beneficiari di una rendita dell’AVS o dell’AI possono richiedere, a determinate condizioni, le PC 
+AVS-AI. La PC ordinaria copre la differenza fra i redditi computabili e le spese riconosciute. 
+Queste ultime comprendono, in particolare, un importo forfetario per il fabbisogno vitale 
+minimo (il forfait riconosciuto per l’anno 2025 corrisponde a 20’670 franchi all’anno per le 
+persone sole e 31’005 franchi per le coppie di coniugi o partner registrati), le spese per 
+l’alloggio (entro limiti prestabiliti) e il premio dell’AMAL. 
+Per stimare un eventuale diritto alle PC, si può utilizzare il Calcolatore PC.  
+Luigi riceve mensilmente una rendita di vecchiaia di 1'500 franchi 
+dall’AVS (primo pilastro) e una rendita di vecchiaia di 600 franchi dalla 
+PP (secondo pilastro). Non dispone di un terzo pilastro. Le rendite e i 
+pochi risparmi a disposizione non bastano per coprire le spese 
+riconosciute, ossia il fabbisogno minimo annuale di 20'670 franchi, cui 
+si aggiungono le spese dell’affitto (1'200 franchi al mese) e per il 
+premio di cassa malati (600 franchi). Pertanto, Luigi ha chiesto e 
+ottenuto la PC AVS, che gli riconosce una prestazione ordinaria di 
+17'000 franchi all’anno (1'416.65 franchi al mese). La parte di PC che 
+copre il costo del premio di cassa malati viene versata direttamente al 
+suo assicuratore malattia.  
+ 
+3.5 
+Secondo pilastro 
+Il secondo pilastro è composto dalla previdenza professionale (PP) e dall’assicurazione infortuni 
+(AINF). La PP tutela obbligatoriamente solo i lavoratori salariati che ottengono un reddito 
+superiore a 22’680 franchi all’anno presso un unico datore di lavoro, mentre i lavoratori 
+indipendenti possono assicurarsi a titolo facoltativo. Tutti i lavoratori salariati sono assicurati 
+obbligatoriamente all’AINF.  
+L'obiettivo del secondo pilastro è quello di garantire, in aggiunta alle prestazioni del primo 
+pilastro, il tenore di vita precedente l’insorgere dell’evento assicurato. Lo scopo è perseguito 
+tramite il versamento di rendite, il versamento di un capitale e la promozione della proprietà
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+29 
+ 
+dell’alloggio (il capitale accumulato può essere prelevato anticipatamente per l’acquisto della 
+propria abitazione). 
+ 
+Assicurazioni sociali 
+ 
+Previdenza professionale (PP) 
+La PP versa delle rendite di vecchiaia, d’invalidità e per i superstiti che sono proporzionali al 
+capitale accumulato durante la carriera lavorativa. La Legge sulla previdenza professionale (LPP) 
+definisce i criteri di base da rispettare, che possono però essere migliorati dalle singole casse 
+pensioni nei loro regolamenti: si parla in questo caso di copertura sovra-obbligatoria. La vedova 
+o il vedovo hanno diritto, a determinate condizioni, al 60% della rendita intera d’invalidità cui 
+avrebbe avuto diritto il defunto, mentre l’orfano ha diritto al 20% di tale rendita. 
+Durante la sua carriera lavorativa, Luigi e i suoi datori di lavoro hanno versato dei 
+contributi al secondo pilastro che, uniti agli interessi maturati, hanno formato il 
+suo capitale di vecchiaia. Al momento del pensionamento, Luigi ha richiesto che 
+una parte del capitale di vecchiaia accumulato gli fosse versata sotto forma di 
+indennità unica (una tantum). Per la parte restante, Luigi riceve mensilmente una 
+rendita di vecchiaia del secondo pilastro (PP) di 600 franchi al mese.  
+ 
+Assicurazione infortuni (AINF) 
+L’AINF versa delle rendite in caso di invalidità e di decesso a seguito di un infortunio o di una 
+malattia professionale. Nell’AINF, il diritto alla rendita d’invalidità decorre già da un grado 
+d’invalidità del 10%. In caso d’invalidità totale, l’ammontare della rendita è pari all’80% del 
+guadagno assicurato. La rendita è ridotta in proporzione, nel caso di invalidità parziale. Le 
+rendite per superstiti corrispondono al 40% del guadagno assicurato per le vedove e i vedovi se 
+soddisfano determinate condizioni (il 20% per il coniuge superstite se divorziato), al 15% per gli 
+orfani di un genitore e al 25% per gli orfani di entrambi i genitori.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+30 
+ 
+Siccome l’invalidità di Giovanni è conseguenza di un infortunio, oltre all’AI 
+(primo pilastro) anche l’AINF gli versa una rendita d’invalidità. Poiché il 
+grado d’invalidità è del 100%, la rendita dell’AINF corrisponde all’80% del 
+guadagno assicurato. Il guadagno assicurato è di 5'846.65 franchi (5’000 
+franchi al mese di stipendio cui vanno aggiunti la tredicesima e gli assegni 
+famigliari), perciò la rendita corrisponde a 4'677.35 franchi. Tuttavia, 
+secondo il principio del sovra-indennizzo, la somma delle rendite 
+d’invalidità dell’AI (2'000 franchi) e dell’AINF (4'677.35 franchi) non può 
+superare il 90% del guadagno assicurato (5'262 franchi al mese). Perciò, la 
+rendita dell’AINF viene ridotta dell’importo del sovra-indennizzo.  
+ 
+3.6 
+Terzo pilastro 
+Il terzo pilastro serve a colmare le lacune di reddito dei primi due pilastri, per esempio nel caso 
+di lavoratori autonomi che non possiedono un secondo pilastro o di lavoratori dipendenti con 
+un reddito elevato. Lo scopo è perseguito tramite il versamento di rendite, il versamento di un 
+capitale e la promozione della proprietà dell’alloggio.  
+Il terzo pilastro è una forma di risparmio individuale e facoltativo. Non si tratta quindi di 
+un’assicurazione sociale, poiché non è obbligatorio e non prevede alcuna forma di solidarietà. 
+Vi sono due forme di terzo pilastro:  
+• Pilastro 3a (anche detto previdenza vincolata): è una previdenza a lungo termine, 
+destinata ai lavoratori, in cui il capitale pensionistico rimane vincolato, perciò i prelievi 
+prima dell’età di pensionamento sono possibili solo nei casi previsti dalla legge.  
+• Pilastro 3b (anche detto previdenza libera): è una forma di previdenza flessibile, la cui 
+durata non è regolamentata (il capitale rimane perciò sempre disponibile) ed è aperta 
+anche a persone senza attività lucrativa. 
+Il terzo pilastro può anche essere sfruttato a fini di ottimizzazione fiscale: i contributi al terzo 
+pilastro possono, infatti, essere dedotti dal calcolo del reddito imponibile (la deduzione è 
+particolarmente vantaggiosa per il pilastro 3a). 
+A causa della limitata capacità di risparmio, né Luigi né Giovanni hanno 
+avuto la possibilità di costituirsi una previdenza individuale sotto forma di 
+terzo pilastro. Pertanto, in età pensionistica possono (o potranno) contare 
+unicamente sui redditi dei primi due pilastri.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+31 
+ 
+4. Perdita di guadagno in caso di malattia non professionale 
+ 
+4.1 
+Scopo 
+L’obiettivo della sicurezza sociale è garantire alle persone protette la concessione di indennità 
+di malattia. 
+La malattia è “un qualsiasi danno alla salute fisica, mentale o psichica che non sia la 
+conseguenza di un infortunio18 e che richieda un esame o una cura medica oppure provochi 
+un’incapacità al lavoro” (art. 3 LPGA).  
+Attenzione:  
+Se una malattia è stata causata in maniera preponderante dall’attività 
+professionale si applica il regime AINF (si veda il capitolo 5).  
+Questo è l'unico rischio sociale per il quale non esiste un'assicurazione sociale obbligatoria in 
+Svizzera, ciò che può essere causa di grave disagio.  
+Per i salariati, solitamente vi sono due opzioni alternative: 1) copertura assicurativa di diritto 
+privato stipulata dal datore di lavoro; 2) obbligo di pagamento del salario da parte del datore di 
+lavoro per un certo periodo. Gli indipendenti possono assicurarsi facoltativamente. 
+ 
+4.2 
+Copertura assicurativa di diritto privato 
+Molti datori di lavoro assicurano i propri dipendenti tramite una polizza collettiva ai sensi del 
+diritto privato, ossia della Legge sul contratto di assicurazione (LCA). Rispetto alle assicurazioni 
+sociali, ciò rende più complicato avere una visione giuridica d’insieme, in quanto le condizioni e 
+le prestazioni possono variare da un assicuratore all’altro. In genere, le polizze assicurative 
+offrono una tutela fino all’80% del guadagno assicurato (salario lordo) per una durata massima 
+di 720 o 730 giorni nell’arco di 900 giorni consecutivi. Tuttavia, nel caso di inabilità prolungata 
+su diversi mesi, l’assicuratore potrebbe calcolare un grado d’invalidità in altre attività esigibili, 
+chiedendo all’assicurato un cambio di professione e procedendo successivamente ad una 
+riduzione delle indennità. Se un’incapacità lavorativa perdura per più di 6 mesi, la maggior 
+parte degli assicuratori invita i beneficiari di indennità giornaliere ad annunciarsi all’AI19.  
+ 
+18 Per la definizione di infortunio e la distinzione fra infortunio e malattia, si rimanda al capitolo 5.   
+19 Fonte: Pro Infirmis, Guida giuridica (https://www.proinfirmis.ch/it/guida-giuridica/dritti-in-caso-di-perdita-di-
+guadagno/indennita-giornaliera-in-caso-di-malattia.html).
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+32 
+ 
+Giovanni comincia ad accusare forti dolori alla schiena sempre più frequenti. Dopo alcuni mesi, 
+Giovanni si reca dal medico curante che lo dichiara inabile al lavoro al 100% per due mesi. 
+Durante il termine di attesa di 30 giorni previsto nel contratto assicurativo di diritto privato, il 
+datore di lavoro continua a corrispondergli lo stipendio. A partire dal trentesimo giorno di 
+malattia, l’assicuratore per perdita di guadagno versa a Giovanni delle indennità giornaliere, 
+che corrispondono all’80% del suo salario, fino a quando egli recupera la sua capacità di lavoro.  
+ 
+4.3 
+Obbligo di pagamento del salario da parte del datore di lavoro 
+Se il datore di lavoro non è obbligato da un contratto collettivo e decide di non tutelare i propri 
+dipendenti, egli è comunque tenuto a rispettare i criteri minimi stabiliti dal Codice delle 
+Obbligazioni (CO) per il pagamento del salario in caso di malattia (art. 324a CO). Nondimeno, la 
+durata dell’obbligo varia in funzione dell’anzianità di servizio. La giurisprudenza dei tribunali ha 
+definito i dettagli: il criterio maggiormente utilizzato è la cosiddetta “Scala bernese” (Tabella 3). 
+ 
+Tabella 3: Scala bernese per il pagamento del salario in caso di malattia 
+Durata del rapporto di lavoro 
+Durata del diritto al salario 
+Fino a 3 mesi 
+Nessun salario. Se tuttavia il rapporto di lavoro è stato 
+stipulato per più di 3 mesi, l'indennità deve essere 
+corrisposta durante 3 settimane. 
+Da 3 a 12 mesi 
+3 settimane 
+Durante il 2° anno di servizio 
+1 mese 
+Dal 3° al 4° anno 
+2 mesi 
+Dal 5° al 9° anno 
+3 mesi 
+Dal 10° al 14° anno 
+4 mesi 
+Dal 15° al 19° anno 
+5 mesi 
+Dal 20° al 25° anno 
+6 mesi 
+In seguito  
+Un mese supplementare ogni 5 anni di servizio
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+33 
+ 
+5. Perdita di guadagno in caso di infortunio e di malattia 
+professionale 
+ 
+5.1 
+Scopo 
+L’obiettivo della sicurezza sociale è garantire alle persone protette la concessione di indennità 
+di infortunio o di malattia professionale.  
+È considerato infortunio “qualsiasi influsso dannoso, improvviso e involontario, apportato al 
+corpo umano da un fattore esterno straordinario che comprometta la salute fisica, mentale o 
+psichica o provochi la morte” (art. 4 LPGA). 
+In assenza di anche uno solo di questi attributi, l'evento non va classificato come infortunio, 
+bensì come malattia e si applicano quindi le disposizioni della LAMAL o della LCA (si veda il 
+capitolo 4). Ciò non è privo di conseguenze: infatti l’AMAL, al contrario dell’AINF, prevede una 
+partecipazione ai costi da parte dell’assicurato. Inoltre, non tutti i lavoratori sono assicurati 
+contro la perdita di guadagno in caso di malattia (v. cap. 4). Infine, in caso di invalidità dovuta a 
+infortunio, si ha diritto a una rendita già con un grado di invalidità del 10% e non del 40% come 
+per la malattia.  
+La distinzione fra malattia e infortunio non è sempre evidente. Vediamo alcuni esempi tratti dal 
+sito della SUVA, il principale assicuratore contro gli infortuni: 
+Eventi di malattia: 
+Supponiamo che il nuovo allievo della scuola reclute Gabriel si amputi un dito per evitare il 
+servizio militare: poiché il ragazzo ha agito con intenzione, l'evento non viene classificato come 
+infortunio (manca l’attributo di involontarietà).  
+Un altro caso da attribuire alla cassa malati è quello della giovane Kathrin, che soffre di forte 
+acufene dopo avere assistito a un concerto rock. A impedire che il caso rientri nell'assicurazione 
+infortuni è la mancanza dell'attributo “improvviso”, dato che Kathrin è rimasta esposta alla 
+musica ad alto volume per parecchio tempo.  
+Un altro esempio è quello di Ernesto, che solleva una pesante cassa in cantiere e all'improvviso 
+avverte una fitta alla schiena: qui manca il fattore esterno straordinario, perché sollevare casse 
+pesanti rientra fra le normali attività di un operaio edile. 
+Ecco invece alcuni eventi che soddisfano tutti i criteri di un infortunio:
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+34 
+ 
+A seguito dell'urto con un altro veicolo all'autoscontro, Leila batte la bocca contro il manubrio 
+riportando un danno a un nervo dentale. 
+Mentre rientra a casa in bicicletta, Bernhard viene investito da un'auto. 
+Isabelle scende le scale portando una cassa, non vede un gradino e cade. 
+Noah viene punto da una zecca. 
+A questo riguardo, si può consultare anche il video SUVA: Infortunio o malattia?  
+ 
+Le malattie professionali sono quelle causate esclusivamente o prevalentemente da sostanze 
+nocive o da determinati lavori nell'esercizio dell'attività professionale. L’elenco delle sostanze 
+nocive e delle malattie professionali causate da determinati lavori è contenuto nell’Allegato 1 
+dell’Ordinanza sull’assicurazione infortuni (OAINF).  
+Sono considerate professionali anche altre malattie di cui è provato siano state causate 
+esclusivamente o in modo affatto preponderante dall'esercizio dell'attività professionale (art. 9 
+cpv. 2 LAINF). 
+ 
+5.2 
+Assicurazioni sociali 
+ 
+Assicurazione militare (AMIL) 
+L’AMIL interviene versando delle indennità giornaliere per eventi infortunistici avvenuti nel 
+corso del servizio militare, della protezione civile e del servizio civile. 
+ 
+Assicurazione infortuni (AINF) 
+L’AINF è un’assicurazione che tutela i lavoratori versando, a partire dal terzo giorno seguente 
+all’infortunio, delle indennità giornaliere nel caso di infortuni professionali e non professionali20 
+o di malattie professionali. I lavoratori salariati sono tutelati obbligatoriamente dal proprio 
+ 
+20 Sono infortuni non professionali in particolare gli infortuni occorsi sul tragitto per recarsi al lavoro o sulla via di 
+ritorno e nel tempo libero, quali per esempio gli infortuni occorsi durante un'attività sportiva, nel traffico o al 
+domicilio.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+35 
+ 
+datore di lavoro. Anche i disoccupati sono assicurati contro gli infortuni. Le persone che 
+lavorano a tempo parziale e la cui durata di lavoro è inferiore a 8 ore settimanali presso un 
+datore di lavoro non sono assicurati contro gli infortuni non professionali.  
+Dal canto loro, i lavoratori indipendenti e i loro famigliari occupati in azienda senza salario 
+possono assicurarsi facoltativamente all’AINF.  
+L’AINF mira anche a prevenire infortuni e malattie professionali. 
+Maggiori informazioni sull’assicurazione infortuni si trovano nell’opuscolo: Guida SUVA 
+all’assicurazione contro gli infortuni.  
+Un giorno sfortunato Giovanni cade da una scala durante un lavoro di 
+verniciatura riportando gravi fratture agli arti inferiori e superiori. Giovanni, 
+in qualità di lavoratore salariato, è assicurato obbligatoriamente 
+all’assicurazione infortuni. A partire dal terzo giorno di inabilità totale al 
+lavoro, l’AINF gli verserà delle indennità giornaliere pari all’80% del suo 
+salario assicurato. L’indennità giornaliera terminerà quando Giovanni avrà 
+recuperato la capacità completa al lavoro, oppure con l’assegnazione di una 
+rendita d’invalidità.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+36 
+ 
+6. Perdita di guadagno in caso di disoccupazione 
+ 
+6.1 
+Scopo 
+L’obiettivo della sicurezza sociale è duplice:  
+• garantire alle persone protette delle indennità di disoccupazione; 
+• prevenire la disoccupazione incombente e favorire la reintegrazione dei disoccupati sul 
+mercato del lavoro. 
+ 
+6.2 
+Assicurazioni sociali 
+ 
+Assicurazione contro la disoccupazione (AD) 
+L’AD tutela obbligatoriamente i lavoratori salariati che ottengono un guadagno mensile 
+superiore a 500 franchi. L’AD versa principalmente delle indennità di disoccupazione, ma 
+interviene anche in caso di lavoro ridotto, intemperie e insolvenza del datore di lavoro.  
+Oltre alle indennità finanziarie, l’AD può attribuire i Provvedimenti del Mercato del Lavoro che 
+hanno l’obiettivo di favorire l’integrazione professionale rapida e possibilmente duratura dei 
+disoccupati.  
+Maggiori informazioni sull’AD possono essere ottenute consultando: Disoccupazione – Un 
+opuscolo per i disoccupati. 
+A causa di difficoltà economiche, il datore di lavoro è costretto a lasciare a casa alcuni 
+dipendenti, fra cui Giovanni. Egli ha versato dei contributi all’AD per un periodo superiore ai 12 
+mesi negli ultimi 2 anni e ha perciò maturato il diritto a ottenere delle indennità di 
+disoccupazione. Dopo aver cercato lavoro senza successo durante il periodo di disdetta, 
+Giovanni si iscrive all’Ufficio Regionale di Collocamento e sceglie una cassa di disoccupazione 
+che gli potrà versare nei prossimi 2 anni fino ad un massimo di 400 indennità giornaliere, 
+corrispondenti all’80% del suo salario (il 70% se non avesse in carico figli minori di 25 anni). 
+In Ticino, la Legge cantonale sul rilancio dell’occupazione e sul sostegno ai disoccupati (L-Rilocc) 
+prevede delle misure che completano e rafforzano i Provvedimenti del Mercato del Lavoro
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+37 
+ 
+previsti dall’AD (per maggiori informazioni si consulti il Rapporto annuale delle misure di 
+rilancio dell’occupazione). 
+ 
+6.3 
+Prestazioni commisurate al bisogno 
+ 
+Prestazioni transitorie per disoccupati anziani (PT) 
+A determinate condizioni, gli assicurati che hanno esaurito le indennità di disoccupazione 
+dell’AD dopo il compimento dei 60 anni possono beneficiare delle PT prima di ricevere la 
+pensione di vecchiaia. Le PT sono calcolate sul modello delle PC AVS/AI in base alle spese 
+riconosciute e al reddito del beneficiario. Le spese comprendono, in particolare, un importo 
+forfetario per il fabbisogno vitale minimo (il forfait riconosciuto per l’anno 2024 corrisponde a 
+20’670 franchi all’anno per le persone sole e 31’005 franchi per le coppie di coniugi o partner 
+registrati), le spese per l’alloggio (entro limiti prestabiliti) e il premio dell’AMAL. Le PT ordinarie 
+sono versate fino a un importo massimo annuo di 46'508 franchi per le persone sole e di 69'761 
+franchi per le coppie sposate. 
+ 
+Indennità straordinaria per disoccupati ex-indipendenti (ISD) 
+L’ISD è una prestazione sociale cantonale di sostegno ai disoccupati che hanno cessato da 6 
+mesi al massimo un’attività indipendente e non hanno diritto alle indennità giornaliere dell’AD. 
+La base legale dell’ISD è la Legge sul rilancio dell’occupazione e sul sostegno ai disoccupati (L-
+Rilocc, artt. 11-12). Il Cantone può versare al richiedente delle indennità straordinarie di 
+disoccupazione che coprono il minimo vitale dell’intero nucleo famigliare secondo i criteri della 
+LAPS. Possono essere concesse al massimo 120 indennità giornaliere intere sull’arco di un anno. 
+L’ISD è la sesta prestazione LAPS in ordine di priorità.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+38 
+ 
+7. Perdita di guadagno in caso di maternità e paternità 
+ 
+7.1 
+Scopo 
+L’obiettivo della sicurezza sociale è garantire alle persone protette delle indennità di maternità, 
+indennità per l’altro genitore o indennità d’adozione (congedi pagati dal lavoro). Sono incluse 
+anche le indennità versate per compensare la perdita di guadagno risultante dall’assistenza a 
+un figlio gravemente malato o infortunato. 
+ 
+7.2 
+Assicurazioni sociali 
+ 
+Indennità per perdita di guadagno (IPG) 
+Il dispositivo IPG versa alle madri lavoratrici delle indennità di maternità successive al parto per 
+una durata di 14 settimane (98 indennità giornaliere), mentre per i padri (o le mogli delle 
+madri) sono previste delle indennità per l’altro genitore21 per la durata di 14 giorni.  
+Dal 2023, il dispositivo IPG prevede anche, per i genitori che accolgono un adottando di età 
+inferiore ai 4 anni, il versamento di indennità di adozione fino ad un massimo di 2 settimane nel 
+primo anno dalla data dell’accoglimento.  
+I genitori di un figlio minorenne con gravi problemi di salute dovuti a malattia o infortunio, che 
+interrompono l’attività lucrativa per assistere il figlio, hanno diritto all’indennità di assistenza 
+per una durata complessiva di 14 settimane su un periodo di 18 mesi. Per ogni caso di malattia 
+o infortunio sussiste un solo diritto.  
+Le IPG ammontano all’80% del reddito lavorativo. 
+ 
+ 
+ 
+21 Dal 2024, i termini “congedo di paternità” e “indennità di paternità” lasciano spazio nella legge a “congedo per 
+l'altro genitore” e “indennità per l'altro genitore” per tener conto dell'introduzione del matrimonio civile per tutti 
+nel 2022. La moglie della madre è riconosciuta come genitore legale se il figlio è stato concepito mediante 
+donazione di sperma (fonte: Sauvain, M. (2023). Assurances sociales : ce qui va changer en 2024. Sécurité sociale 
+CHSS).
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+39 
+ 
+Visto che Anna non lavora, non avrà diritto alle indennità di maternità dopo la 
+nascita di Mauro. Per contro, Giovanni avrà diritto a 14 indennità giornaliere di 
+paternità da riscuotere entro un periodo di 6 mesi dalla nascita del figlio. Poiché 
+una disabilità o un’infermità congenita non costituisce di per sé un grave 
+problema di salute ai sensi della LIPG, Giovanni potrebbe aver diritto a delle 
+indennità di assistenza solo nel caso in cui lo stato di salute di Luca peggiori 
+notevolmente. 
+ 
+Indennità cantonali di adozione 
+Nel 2017, il Canton Ticino ha introdotto la possibilità per il genitore che adotta un bambino di 
+percepire le indennità cantonali di adozione sulla base della Legge sulle indennità di perdita di 
+guadagno in caso di adozione (LIPGA). 
+La legge cantonale prevede che le indennità di adozione per i bambini accolti di età inferiore ai 
+4 anni sono versate una volta esaurite le indennità federali di adozione, mentre se il minore 
+adottato ha 4 o più anni, il diritto alle indennità cantonali inizia il giorno dell’accoglimento del 
+minore in vista dell’adozione.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+40 
+ 
+8. Perdita di guadagno in caso di servizio 
+  
+8.1 
+Scopo 
+L’obiettivo della sicurezza sociale è garantire alle persone protette delle indennità di servizio. 
+ 
+8.2 
+Assicurazioni sociali 
+ 
+Indennità per perdita di guadagno (IPG) 
+Il dispositivo IPG versa delle indennità di servizio, indipendentemente dall’esercizio di 
+un’attività lucrativa. Per le persone che hanno un lavoro, l’indennità di base ammonta all’80% 
+del reddito medio conseguito prima del servizio. Hanno diritto alle indennità di servizio le 
+persone che prestano servizio nell’esercito svizzero, nel servizio di protezione civile, nel servizio 
+civile, nel servizio della Croce Rossa o che prendono parte ai corsi federali o cantonali per 
+quadri di Gioventù+Sport oppure ai corsi per monitori di giovani tiratori. Alle persone che non 
+ricevono un salario durante il servizio, l’indennità è versata direttamente. Se invece il datore di 
+lavoro versa il salario anche durante il servizio, l’indennità spetta a quest’ultimo. 
+Giovanni ha svolto la scuola reclute dopo la conclusione dell’apprendistato di 
+pittore, quando ancora era celibe e senza figli a carico.  Durante questo periodo, 
+ha ottenuto delle indennità base di servizio per un importo che, nel 2025, sarebbe 
+stato di 69 franchi al giorno. Nei corsi di ripetizione successivi, svolti in qualità di 
+lavoratore salariato, le indennità di servizio erano pari all’80% del salario e sono 
+state versate direttamente al datore di lavoro di Giovanni, che continuava a 
+versargli lo stipendio.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+41 
+ 
+9. Oneri famigliari 
+ 
+9.1 
+Scopo 
+L’obiettivo è garantire alle persone protette la concessione di assegni familiari (o rendite per 
+figli) sotto forma di prestazioni ricorrenti o una tantum. 
+Sono stati inseriti in questo capitolo anche l’anticipo di contributi di mantenimento per figli 
+minorenni, gli aiuti allo studio e alcuni sussidi per favorire la conciliabilità fra gli oneri famigliari 
+e il lavoro o la formazione. 
+ 
+9.2 
+Assicurazioni sociali 
+ 
+Assegni famigliari (AF) 
+Gli assegni famigliari coprono parzialmente l’onere finanziario legato all’accudimento dei figli 
+attraverso degli assegni per figli e degli assegni di formazione. L’assegno per figli viene 
+corrisposto fino al compimento dei 16 anni (fino ai 15 anni se il figlio ha iniziato una formazione 
+post-obbligatoria, fino a 20 anni se il figlio è incapace al guadagno), mentre l’assegno di 
+formazione è versato durante la formazione post-obbligatoria, ma al massimo fino ai 25 anni di 
+età.  
+Sono assicurati i lavoratori salariati, i lavoratori indipendenti non agricoli e le persone senza 
+attività lucrativa con redditi modesti22. A queste categorie è applicabile la Legge federale sugli 
+assegni familiari (LAFam), che definisce degli importi minimi a cui tutte le normative cantonali 
+devono sottostare. L’assegno per figli deve corrispondere ad almeno 215 franchi al mese, 
+mentre l’assegno di formazione a 268 franchi (il Ticino applica questi importi minimi).  
+Importi analoghi valgono per gli agricoltori indipendenti e i lavoratori agricoli. Tuttavia, gli 
+assegni famigliari nell’agricoltura sottostanno ad una normativa speciale, la cui base legale è la 
+Legge federale sugli assegni familiari nell’agricoltura (LAF). Nelle regioni di montagna, ai 
+ 
+22 Alcuni Cantoni, fra cui il Ticino, hanno abolito i limiti di reddito per le persone senza attività lucrativa (PSAL). Nel 
+nostro cantone, le PSAL hanno quindi diritto agli assegni famigliari indipendentemente dalla loro condizione 
+economica. Tuttavia, se uno dei genitori riceve Prestazioni Complementari annue all’AVS o all’AI, non vi è alcun 
+diritto agli assegni familiari.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+42 
+ 
+lavoratori agricoli (salariati e indipendenti) è accordato un supplemento di 20 franchi al mese. 
+Ai salariati agricoli può inoltre essere accordato un assegno per l'economia domestica di 100 
+franchi al mese. 
+Giovanni percepisce, in aggiunta allo stipendio, degli assegni per figli di 430 
+franchi (215 franchi per Luca e 215 franchi per Sara). Dalla nascita di Mauro, 
+potrà percepire 215 franchi al mese in più. A questo scopo, dovrà fare una 
+richiesta al suo datore di lavoro. Gli AF vengono versati a Giovanni e non ad 
+Anna, poiché Giovanni è attivo professionalmente.  
+ 
+Altre assicurazioni sociali 
+I beneficiari di rendite dell’assicurazione vecchiaia e superstiti (AVS), dell’assicurazione 
+invalidità (AI) e della previdenza professionale (PP) che hanno in carico figli minorenni o agli 
+studi ricevono delle rendite per figli23. Le indennità di servizio (IPG) e l’assicurazione contro la 
+disoccupazione (AD) prevedono degli assegni o dei supplementi per figli a carico in aggiunta 
+all’indennità. L’assicurazione infortuni (AINF) non contempla delle rendite o degli assegni per 
+figli, ma gli assegni famigliari percepiti dal lavoratore sono computati nel salario assicurato che 
+funge da base per il calcolo delle prestazioni in contanti. 
+In aggiunta alla rendita d’invalidità versata a seguito del grave infortunio subito, l’AI 
+versa a Giovanni anche delle rendite per i figli minorenni o agli studi, ossia per Luca e 
+Sara. Le rendite per figli corrispondono al 40% della rendita d’invalidità di 2'000 franchi 
+mensili, ossia 800 franchi a testa per figlio. Il guadagno assicurato che funge da base per 
+il calcolo della rendita d’invalidità dell’AINF include gli assegni famigliari.  
+ 
+9.3 
+Prestazioni commisurate al bisogno 
+ 
+Assegni famigliari integrativi (AFI) 
+L'AFI è una prestazione cantonale ricorrente. L’assegno è riconosciuto ai genitori per i figli di età 
+inferiore ai 15 anni e copre, assieme all'assegno per figli (AF), il fabbisogno del figlio. Gli AFI 
+vengono versati fino al raggiungimento della soglia di minimo vitale da parte del nucleo 
+ 
+23 In alcuni casi, queste rendite non sono cumulabili con gli assegni famigliari, per esempio quando un genitore ha 
+raggiunto l’età di riferimento per l’ottenimento di una rendita di vecchiaia dell’AVS e non svolge più alcuna attività 
+professionale.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+43 
+ 
+famigliare, ma al massimo fino a 818 franchi al mese per il primo e il secondo figlio, 545.25 
+franchi per il terzo ed il quarto figlio e 272.65 franchi per ogni ulteriore figlio. 
+La base legale dell’AFI è la Legge cantonale sugli assegni di famiglia (LAF). L’AFI è la settima 
+prestazione LAPS in ordine di priorità.  
+ 
+Assegni di prima infanzia (API) 
+L’API è una prestazione cantonale ricorrente. L’assegno è riconosciuto fino alla fine del mese 
+durante il quale l’ultimo figlio inizia l’obbligo scolastico (scuola dell’infanzia), in pratica fino ad 
+agosto dell’anno in cui compie i 4 anni. A complemento dell’assegno famigliare per figli (AF) e 
+dell’assegno famigliare integrativo (AFI), l’API permette all’economia domestica di raggiungere 
+il minimo vitale (l’API copre quindi il costo di mantenimento di tutto il nucleo famigliare e non 
+solo del figlio, contrariamente all’AFI).  
+La base legale dell’API è la Legge cantonale sugli assegni di famiglia (LAF). L’API è l’ottava 
+prestazione LAPS in ordine di priorità.  
+Dopo la nascita di Mauro, Giovanni si reca in Comune per chiedere aiuto in quanto con il solo 
+salario e gli assegni famigliari non riesce a sostenere tutte le spese essenziali del nucleo 
+famigliare. Dopo aver offerto consulenza e aiutato Giovanni a raccogliere i documenti necessari, 
+il Comune fissa un appuntamento con lo Sportello LAPS per la richiesta di prestazioni e 
+l’istruzione della domanda. Per una famiglia di 5 persone domiciliate nel Comune di Bellinzona, 
+la LAPS riconosce una spesa per l’alloggio massima di 26'064 franchi; essendo la spesa effettiva 
+inferiore (19'200 franchi), si considererà quest’ultimo importo. Per quanto concerne il forfait 
+per il mantenimento, che copre spese quali l’alimentazione, l’abbigliamento, i trasporti, la 
+comunicazione, la cura personale, ecc., il costo riconosciuto alla famiglia Bernasconi è di 45'279 
+franchi annui. Va poi aggiunto, fra le spese, anche il premio di cassa malati LAMAL. 
+In seguito all’accertamento dei mezzi (confronto fra redditi e spese riconosciuti), il Servizio 
+centrale delle prestazioni sociali di Bellinzona, cui è stata trasmessa la documentazione, 
+concede a Giovanni un AFI complessivo di 1’789 franchi all’anno per i 3 figli, in quanto nessuno 
+di essi ha ancora compiuto 15 anni. Grazie alla RIPAM (che per beneficiari AFI copre il 100% del 
+premio LAMAL) e all’AFI la famiglia Bernasconi raggiunge la soglia del minimo vitale prevista 
+dalla LAPS. Pertanto, benché Mauro non abbia ancora raggiunto l’età dell’obbligo scolastico, 
+non sussiste alcun diritto all’API. Secondo il principio di coordinamento della LAPS, infatti, l’AFI 
+è prioritario rispetto all’API.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+44 
+ 
+Assegno parentale 
+L’assegno parentale è una prestazione cantonale unica (una tantum), che ammonta a 3'000 
+franchi per ogni figlio nato o accolto in vista di adozione. Il diritto all’assegno parentale viene 
+determinato tenendo conto della situazione personale e finanziaria del nucleo famigliare 6 mesi 
+dopo la nascita o l’accoglimento a casa del minore (non è quindi un aiuto che viene concesso a 
+tutte le famiglie). 
+Dopo 6 mesi dalla nascita di Mauro, la famiglia avrà diritto all’assegno parentale di 3'000 
+franchi, perché i redditi complessivi sono inferiori a 110'000 franchi e la sostanza netta è 
+inferiore a 400'000 franchi all’anno. 
+ 
+Anticipo alimenti 
+Lo Stato garantisce l’anticipo e l’incasso degli alimenti dovuti per i figli minorenni, quando 
+l’obbligato (per esempio l’ex coniuge che non dispone della custodia legale dei figli) non vi 
+provvede. L’importo anticipato è quello fissato nella decisione del giudice o nella convenzione, 
+considerando un importo massimo mensile di 700 franchi per figlio. In linea di principio, la 
+durata massima di concessione dell’anticipo alimenti è di 60 mesi.  
+La base legale dell’anticipo alimenti è Legge sull’assistenza sociale (art. 27 LAS). Contrariamente 
+ad altri cantoni, in Ticino l’anticipo alimenti è versato indipendentemente dalle condizioni 
+economiche del richiedente. Non si tratta quindi, di fatto, di una prestazione commisurata al 
+bisogno, poiché non è richiesto un accertamento dei mezzi. Occorre tuttavia dimostrare di 
+avere fatto tutto il possibile per ottenere il dovuto dall’ex-coniuge.  
+ 
+Aiuti allo studio 
+Le prestazioni 2, 3, 4 e 5 della LAPS sono prestazioni per la formazione concesse sulla base della 
+Legge cantonale sugli aiuti allo studio (LASt) e versate dopo un accertamento dei mezzi: 
+• Aiuto sociale speciale e Assegno per sportivi d’élite. L’aiuto sociale speciale è pensato 
+per situazioni in cui un allievo, per motivi sociali comprovati, non è in grado di 
+frequentare la scuola pubblica dell’obbligo, ma deve iscriversi presso una scuola privata 
+parificata (scuola dell’infanzia, scuole elementari e medie). L’assegno copre i costi di 
+formazione. L’assegno per sportivi d’élite o talenti artistici può essere concesso a giovani 
+di talento che per l’esercizio della loro attività sportiva o artistica sono tenuti a 
+frequentare fuori Cantone una scuola pubblica o privata con statuto particolare.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+45 
+ 
+• Assegno di studio (borsa di studio o assegno di tirocinio). Si tratta di sussidi a fondo 
+perso che coprono i costi diretti di formazione e sono concessi per la frequenza di scuole 
+o studi post-obbligatori. Il contributo concesso corrisponde alla differenza tra i costi di 
+formazione e il contributo personale dello studente, dei genitori (a meno che il 
+richiedente non sia economicamente indipendente), dell’eventuale coniuge, partner 
+registrato o partner convivente. L’importo massimo previsto è di 20'000 franchi all’anno 
+(se lo studente ha oneri di famiglia è concesso un supplemento di 4’000 franchi per ogni 
+figlio a carico).  
+• Assegno di formazione terziaria sociosanitaria. È un contributo che può essere 
+concesso per la frequenza di scuole ticinesi di grado terziario del settore sociosanitario e 
+delle cure infermieristiche. Il sussidio può coprire sia i costi di formazione, sia i bisogni 
+generali di mantenimento del nucleo famigliare dello studente. 
+• Assegno di riqualificazione professionale. Per riqualificazione professionale s’intende 
+una nuova formazione professionale che porta a un titolo dello stesso livello di quello 
+posseduto in precedenza. L’assegno può essere concesso anche a persone non 
+qualificate ma con un'esperienza lavorativa adeguata e che intendono assolvere un 
+nuovo tirocinio professionale. Il sussidio garantisce non solo la copertura dei costi di 
+formazione, ma anche il fabbisogno minimo vitale di tutto il nucleo famigliare dello 
+studente. 
+Maggiori informazioni si possono trovare nel seguente opuscolo: Richiedere un aiuto allo 
+studio. 
+ 
+9.4 
+Contributi cantonali per la conciliabilità fra famiglia e lavoro/formazione  
+Il Canton Ticino prevede 3 aiuti soggettivi cumulativi per coprire i costi che i genitori sostengono 
+per conciliare l’attività professionale o formativa e l’accudimento dei figli. Esistono 3 forme di 
+aiuto che le famiglie residenti in Ticino possono richiedere per la copertura dei costi delle 
+rette24, se affidano i propri figli a nidi dell’infanzia, micro-nidi, famiglie diurne o centri 
+extrascolastici riconosciuti dal Cantone: l’aiuto universale, l’aiuto soggettivo per beneficiari 
+RIPAM e l’aiuto soggettivo per beneficiari API. 
+ 
+ 
+24 Sono esclusi dai sussidi gli oneri supplementari, quali pasti e spese di trasporto.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+46 
+ 
+Aiuto universale 
+L’aiuto universale viene concesso a tutte le famiglie. Per i fruitori di nidi d’infanzia e micro-nidi 
+l’assegno varia da 100 a 200 franchi al mese a seconda delle ore di frequenza. Per i fruitori di 
+famiglie diurne e di centri extrascolastici, l’assegno corrisponde al 20% della retta fino a un 
+massimo di 200 franchi mensili. 
+ 
+Aiuto soggettivo per i beneficiari di RIPAM 
+Per ottenere quest’aiuto, almeno un membro del nucleo famigliare del minore deve essere al 
+beneficio della Riduzione del premio di assicurazione malattia (RIPAM). Il contributo ammonta 
+al 33% della retta (dedotto il contributo universale). Il costo massimo riconosciuto per la retta è 
+di 1'200 franchi al mese (per una retta a tempo pieno). 
+ 
+Aiuto soggettivo per i beneficiari di API 
+Il contributo concesso alle famiglie beneficiarie di API ammonta alla totalità della retta, dedotti 
+l’aiuto universale e l’aiuto per beneficiari RIPAM, fino a un rimborso massimo mensile di 800 
+franchi. 
+ 
+Maggiori informazioni sono ottenibili sul sito dell’amministrazione cantonale: Contributi 
+economici per la conciliabilità famiglia e lavoro/formazione.
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+47 
+ 
+10. 
+Povertà e esclusione sociale 
+ 
+10.1 Scopo 
+L’obiettivo della sicurezza sociale è garantire alle persone protette i mezzi sufficienti per 
+un’esistenza dignitosa e un’integrazione nella società, indipendentemente dalle cause dello 
+stato di bisogno (principio di finalità) e quando le risorse necessarie per raggiungere il minimo 
+vitale non sono garantite da altri dispositivi della sicurezza sociale.  
+Questo rischio sociale ha una funzione residuale. Pertanto, tutte le prestazioni commisurate al 
+bisogno soggette all'accertamento del reddito e del patrimonio, che prevedono il diritto ad un 
+minimo esistenziale in caso di vecchiaia, decesso, invalidità (PC AVS/AI), disoccupazione (PT, 
+ISD) e oneri famigliari (AFI, API), non sono classificate sotto questo cappello, bensì nei capitoli 
+dedicati ai rischi sociali specifici.  
+ 
+10.2 Prestazioni commisurate al bisogno 
+ 
+Aiuto sociale 
+L’aiuto sociale, o assistenza sociale, è un dispositivo che interviene sussidiariamente a tutte le 
+altre prestazioni sociali e mira a garantire un reddito minimo a persone e famiglie che si trovano 
+in una situazione d’indigenza. Il fabbisogno minimo dell’aiuto sociale è inferiore rispetto a 
+quello riconosciuto da altre prestazioni commisurate al bisogno (in Ticino si pensi alle 
+prestazioni LAPS che si situano a monte dell’aiuto sociale, come gli AFI o gli API). Nel 2025, 
+l’aiuto sociale riconosce, oltre alle spese di alloggio e al premio LAMAL, un importo forfettario 
+che varia in funzione della numerosità dell’economia domestica (p.e. 1'061 franchi al mese per 
+una persona sola e 2'568 franchi per un nucleo famigliare di 5 persone).  
+In aggiunta alla prestazione ordinaria, possono essere concesse delle prestazioni circostanziali 
+(dette anche speciali), qualora vi siano bisogni più specifici, per esempio dei costi legati alla 
+salute. I dispositivi cantonali o comunali dell’aiuto sociale prevedono in genere anche delle 
+misure integrative con lo scopo di favorire l’inserimento professionale e sociale dei beneficiari. 
+In Ticino, l’aiuto sociale è di competenza cantonale ed è gestito dall’Ufficio del Sostegno Sociale 
+e dell’Inserimento di Bellinzona, mentre i Comuni sono coinvolti nell’esecuzione della legge e
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+48 
+ 
+nel finanziamento delle prestazioni. La base legale è la Legge sull’assistenza sociale (LAS). 
+L’aiuto sociale è la nona e ultima prestazione LAPS in ordine di priorità. 
+Maggiori informazioni sull’aiuto sociale in Canton Ticino sono contenute in un opuscolo 
+pubblicato dal DSS: Sostegno sociale in Ticino. 
+Dopo avere esaurito le indennità di disoccupazione, Giovanni non ha trovato un nuovo lavoro e 
+la famiglia si ritrova quindi senza entrate, eccetto gli assegni famigliari (AF) di 645 franchi. Gli 
+AFI per i 3 figli sono ricalcolati alla luce della nuova situazione economica e vengono aumentati 
+a 2'181 franchi complessivi al mese.  
+Poiché permane una lacuna di reddito per raggiungere il minimo vitale, si procede con il calcolo 
+dell’API. Tuttavia, visto che nessuno dei due genitori ha un lavoro, l’Istituto delle Assicurazioni 
+Sociali (IAS) considera nel calcolo un reddito ipotetico di almeno 37'418 franchi all’anno. 
+Pertanto, risulta che la famiglia, nonostante il reddito insufficiente, non abbia diritto all’API.  
+Rimane da esaminare l’ultima prestazione LAPS in ordine di priorità, ossia l’aiuto sociale, che 
+non considera alcun reddito ipotetico da lavoro ma riconosce un fabbisogno inferiore rispetto 
+alle altre prestazioni sociali. L’Ufficio del Sostegno Sociale e dell’Inserimento (USSI) riconosce a 
+Giovanni il diritto ad una prestazione ordinaria di aiuto sociale di 1'430 franchi al mese.  
+Finché i genitori non troveranno un lavoro o un’altra fonte di reddito, la famiglia dovrà quindi 
+vivere con 4'256 franchi al mese (645 AF + 2'181 AFI + 1'430 aiuto sociale). I premi di cassa 
+malati sono coperti totalmente dalla RIPAM. Per le spese relative a eventuali partecipazioni ai 
+costi sanitari può essere richiesto un rimborso a USSI. 
+ 
+Aiuto sociale per persone provenienti dall’ambito dell’asilo 
+Le persone in procedura d’asilo (permessi N), i beneficiari di un’ammissione provvisoria 
+(permessi F) e i rifugiati (permessi B-rif e F-rif) che la Confederazione ha attribuito al Canton 
+Ticino possono beneficiare dell’aiuto sociale se non sono in grado di provvedere 
+finanziariamente a sé stessi. Le richieste di sostegno sono gestite dall'Ufficio dei richiedenti 
+l'asilo e dei rifugiati (URAR), in collaborazione con altri servizi dell'Amministrazione cantonale e 
+con i partner sociali.  
+Le prestazioni assistenziali concesse per i richiedenti l’asilo e le persone ammesse 
+provvisoriamente sono inferiori a quelle accordate ai residenti in Svizzera. Per contro, fra i 
+rifugiati riconosciuti o ammessi provvisoriamente (permessi B-rif o F-rif) e le persone residenti 
+in Svizzera viene garantita la parità di trattamento. Le persone la cui domanda d’asilo è stata 
+respinta oppure che sono oggetto di una decisione di non entrata in materia e che devono
+
+---
+
+Sicurezza sociale e forme di solidarietà – SP 2026 
+ 
+ 
+ 
+49 
+ 
+lasciare il territorio svizzero non hanno diritto a prestazioni assistenziali, ma unicamente a un 
+aiuto d’urgenza. 
+Maggiori informazioni si trovano sul sito della Divisione dell’azione sociale e delle famiglie: 
+Prestazioni assistenziali per persone provenienti dall’ambito dell’asilo.

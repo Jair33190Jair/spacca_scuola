@@ -1,0 +1,2599 @@
+Gli indipendenti in Svizzera  
+Composizione, protezione sociale, crisi pandemica 
+ 
+ 
+ 
+ 
+ 
+ 
+Spartaco Greppi, Centro competenze lavoro, welfare e società, SUPSI-DEASS, Manno 
+Francesco Giudici, Dottore in scienze sociali e ricercatore, Bellinzona 
+Carlo Marazza, Avvocato, già direttore dell’Istituto delle assicurazioni sociali, Bellinzona 
+Christian Marazzi, Centro competenze lavoro, welfare e società, SUPSI-DEASS, Manno 
+Nicolas Pons-Vignon, Centro competenze lavoro, welfare e società, SUPSI-DEASS, Manno 
+ 
+ 
+ 
+Manno, aprile 2021
+
+---
+
+Gli indipendenti in Svizzera 
+2/51 
+Sommario 
+Introduzione ...................................................................................................................................................... 5 
+Le caratteristiche del mondo del lavoro su scala nazionale .............................................................................. 6 
+Gli indipendenti in Svizzera: un approccio sociologico ..................................................................................... 8 
+Caratteristiche socio-demografiche ............................................................................................................ 11 
+Caratteristiche lavorative ............................................................................................................................ 18 
+La protezione sociale degli indipendenti ..................................................................................................... 26 
+Percezione soggettiva .................................................................................................................................. 28 
+Analisi dell’impatto della pandemia sui lavoratori indipendenti .................................................................... 28 
+Evoluzione del numero di indipendenti tra il I trimestre 2019 e il III trimestre 2020 ................................. 28 
+Tempo effettivo di lavoro: confronto fra trimestri 2019 e 2020 ................................................................. 29 
+Gli indipendenti nell’AVS ................................................................................................................................. 32 
+Classificazione degli indipendenti ............................................................................................................... 33 
+Regola generale ....................................................................................................................................... 34 
+Contributi AVS/AI/IPG sul reddito di un’attività lucrativa indipendente .................................................... 34 
+Salario di poco conto ................................................................................................................................... 36 
+Titolari di Sagl .............................................................................................................................................. 37 
+Giurisprudenza TCA ..................................................................................................................................... 37 
+Indipendenti AVS e redditi .......................................................................................................................... 38 
+IPG e covid-19 .................................................................................................................................................. 40 
+Sistema di calcolo ........................................................................................................................................ 41 
+Le IPG Corona erogate al 29 novembre 2020 .............................................................................................. 42 
+Considerazione generale ................................................................................................................................. 43 
+Conclusione ..................................................................................................................................................... 45 
+Riferimenti bibliografici ................................................................................................................................... 46 
+Allegato: Categorie considerate esplicitamente dalle direttive federali (DSD) ....................................... 48
+
+---
+
+Gli indipendenti in Svizzera 
+3/51 
+Indice delle figure 
+Figura 1 Evolution de la part des indépendants (activité principale) dans les personnes actives occupées de 1991 à 2020 
+(jusqu’au troisième trimestre), en Suisse .......................................................................................................................................... 9 
+Figura 2 Evolution des indépendants par sous-catégorie, de 2002 à 2019, en Suisse................................................................ 10 
+Figura 3 Evolution des indépendants selon le sexe, de 1991 à 2020 (trois premiers trimestres), en Suisse............................ 11 
+Figura 4 Évolution des indépendants par classe d’âges, de 1991 à 2020 (trois premiers trimestres) en %, en Suisse ........... 12 
+Figura 5 Taux d’indépendants (activité principale) sur le total des actifs occupés en fonction de l’âge (entre 30 et 50 ans) et 
+de l’année de l’enquête (2002 jusqu’à 2019), en Suisse ................................................................................................................. 14 
+Figura 6 Taux d’indépendants (activité principale) sur le total des actifs occupés en fonction de l’âge (entre 55 et 70 ans) et 
+de l’année de l’enquête (2002 jusqu’à 2019), en Suisse ................................................................................................................. 14 
+Figura 7 Personnes actives occupées indépendantes en fonction de la nationalité depuis 1991, en Suisse .......................... 15 
+Figura 8 Part des étrangers parmi les personne actives occupées indépendantes depuis 1991, en Suisse ............................ 15 
+Figura 9 Frontaliers indépendants en fonction du secteur économique depuis 2002, en Suisse .............................................. 16 
+Figura 10 Pourcentage de travailleurs indépendants selon la formation et le sexe en 2020 (premiers trois trimestres, en 
+Suisse .................................................................................................................................................................................................. 17 
+Figura 11 Personnes actives occupées indépendantes selon la type de famille de 2002 à 2019 en %, en Suisse .................. 17 
+Figura 12 Personnes actives occupées selon le statut d’activité (indépendants, collaborateurs familiaux, salariés, 
+apprentis) et le secteur économique en 2020 (trois premiers trimestres), en Suisse ................................................................. 18 
+Figura 13 Travailleurs indépendants selon le secteur économique en 2020 (trois premiers trimestres), en Suisse ............... 19 
+Figura 14 Part des actifs occupés indépendants selon la sous-catégorie1 et le secteur économique, en Suisse ................... 20 
+Figura 15 Travailleurs indépendants selon la typologie1 de 2002 à 2019, en Suisse .................................................................. 21 
+Figura 16 Personnes actives occupées indépendantes avec et sans collaborateurs selon le secteur économique en 2020 
+(trois premiers trimestres), en Suisse .............................................................................................................................................. 22 
+Figura 16b Organisation de l’horaire hebdomadaire selon le statut d’activité, en 2019 ……………………………………………23  
+Figura 17 Part des indépendants avec un revenu annuel brut supérieur à CHF 78'000 selon le secteur économique en 2019, 
+en Suisse ............................................................................................................................................................................................. 24 
+Figura 18 Part des indépendants avec un revenu annuel brut supérieur à CHF 78'000 selon la sous-catégorie en 2019, en 
+Suisse .................................................................................................................................................................................................. 25 
+Figura 19 Versements réguliers de la population active occupée à une caisse de pension ou à un 3e pilier lié (a) selon le 
+statut d'activité, en 2019 .................................................................................................................................................................... 26 
+Figura 20 Substitution du revenu selon les risques, différence entre salariés et indépendants (à leur compte)..................... 27 
+Figura 21 Évolution des indépendants par classe d’âges et par trimestre, en Suisse ................................................................ 29 
+Figura 22 Variation de la durée hebdomadaire effective du travail par personne active occupée entre le II et le III trimestre 
+2019 et 2020 selon le statut d’activité ............................................................................................................................................... 30 
+Figura 23 Variation de la durée hebdomadaire effective du travail par personne active occupée entre le II et le III trimestre 
+2019 et 2020 selon la section économique ...................................................................................................................................... 31 
+Figura 24 Variation de la durée hebdomadaire effective du travail par personne active occupée entre le II et le III trimestre 
+2019 et 2020 selon la sous-catégorie d’indépendant ...................................................................................................................... 32 
+Figura 25 Indépendants selon AVS (2015) et indépendants selon ESPA (2013-2015) ................................................................. 38 
+Figura 26 Répartition des revenus de la population indépendante âgée de 18 à 63/64 ans dans les comptes individuels de 
+l’AVS, en 2015 ..................................................................................................................................................................................... 39 
+Indice delle tabelle 
+Tabella 1 Statut d'activité de la population résidante permanente selon la nationalité ................................................................. 7 
+Tabella 2 Prestations corona en faveur des indépendants, état 29 novembre 2020.................................................................... 43 
+Tabella 3 Indennità corona erogate secondo la tipologia in mln, stato al 20 novembre 2020 .................................................... 43
+
+---
+
+Gli indipendenti in Svizzera 
+4/51 
+ 
+  
+ 
+Ringraziamenti  
+Gli autori desiderano ringraziare il gruppo parlamentare del PS alle Camere federali per il sostegno 
+dato alla realizzazione di questo rapporto di ricerca, l’Ufficio federale delle assicurazioni sociali per 
+le informazioni statistiche ottenute e le preziose discussioni avute, nonché Nicoletta De Carli, co-
+titolare della Gridencont Sagl fiduciaria, e Cristina Galbiati, membro di comitato Professionisti dello 
+spettacolo Svizzera, per gli utili suggerimenti e le preziose osservazioni.
+
+---
+
+Gli indipendenti in Svizzera 
+5/51 
+ 
+ 
+Introduzione 
+Il presente rapporto rappresenta un primo passo verso la conoscenza di come si configura il mondo 
+degli indipendenti. Come affermato nell’offerta in risposta al mandato del gruppo parlamentare 
+socialista alle camere federali, l’emergenza sanitaria legata alla diffusione del covid-19, il lockdown 
+e i confinamenti che ne sono seguiti hanno colpito in maniera grave molte categorie professionali, tra 
+le quali quella delle persone con attività indipendente, svelandone la condizione di precarietà e 
+l’estrema varietà. Questo pluriverso è poco rappresentato e poco conosciuto, sia dal punto di vista 
+politico e sociologico, sia da quello statistico, ma esprime in sé un profondo cambiamento del mondo 
+del lavoro e dei modi di produrre e di scambiare beni e servizi. La crisi pandemica, da una parte ha 
+dato voce a questo mondo attraverso inchieste giornalistiche, prese di posizione individuali e 
+collettive, e dall’altra ha mobilitato il mondo istituzionale e politico-amministrativo predisponendo 
+in tempi rapidi misure volte a alleviare condizioni finanziarie altrimenti del tutto scoperte. Questo 
+dimostra, al di qua di un’analisi sistemica del fenomeno degli indipendenti, la sua strutturalità, come 
+puntualmente colto da un’inchiesta giornalistica apparsa sul quotidiano Le Temps il 17 marzo 2020, 
+ossia prima dell’implementazione delle misure di sostegno al reddito degli indipendenti toccati dalla 
+crisi (Aline Bassin, Laure Lugon, “La solitude des petits indépendants face au coronavirus”). Si pensi 
+alle persone attive nel mondo dello spettacolo e della cultura, nei servizi alla persona, ai piccoli 
+artigiani titolari di una società a garanzia limitata, per esempio nel settore della ristorazione o 
+dell’intrattenimento, agli addetti alle pulizie, ai migranti, ecc. accomunati da condizioni contrattuali 
+deboli e da vulnerabilità sociale e occupazionale. Nella loro specificità, gli indipendenti rimandano a 
+un mondo del lavoro sempre più complesso all’interno del quale emerge il lavoro a chiamata, il lavoro 
+interinale, il lavoro a tempo determinato, il lavoro a tempo parziale, la pluriattività e, in forma sempre 
+più significativa, il lavoro per l’economia delle piattaforme. In questo mondo, le molteplici forme di 
+attività professionale si intersecano e si sovrappongono sotto più aspetti (condizioni e rapporti di 
+lavoro, in particolare), rendendo sempre meno pertinente la tradizionale dicotomia tra lavoro 
+dipendente salariato e indipendente (una volta quasi esclusivamente circoscritto ai liberi 
+professionisti, ai commercianti e ai contadini). In effetti, molte delle caratteristiche del lavoro precario 
+e l’insicurezza lavorativa sono trasversali a salariati e indipendenti e si traducono con la paura di 
+perdere il posto di lavoro nei salariati o con la mancanza di commesse negli indipendenti.   
+A partire da questo contesto in divenire, l’obiettivo generale del presente studio è di avviare un 
+percorso di ricerca volto a capire il pluriverso del lavoro indipendente che si caratterizza come uno 
+degli elementi centrali e di maggiore criticità su cui si sta orientando il dibattito pubblico sulle 
+trasformazioni del lavoro e sulle sue ricadute per lo Stato sociale. Più precisamente, si vogliono 
+fornire gli elementi utili per una riflessione sull’adeguatezza o meno dei dispositivi della sicurezza 
+sociale a fronte delle nuove istanze socio-economiche emergenti da un mondo del lavoro 
+radicalmente mutato.
+
+---
+
+Gli indipendenti in Svizzera 
+6/51 
+L’obiettivo specifico di questo studio è di raccogliere e sistematizzare le varie informazioni e ricerche 
+intorno al mondo degli indipendenti. Compatibilmente con i dati e le informazioni disponibili e 
+raccolte, si fornisce al Committente un quadro esaustivo circa:  
+1. le caratteristiche del mondo del lavoro su scala nazionale, con una serie di dati per 
+comprendere il contesto e le specificità;  
+2. il mondo degli indipendenti, con particolare riferimento alla loro definizione sociologica, 
+economica e normativa;  
+3. le principali categorie socio-demografiche, i settori di attività, le posizioni reddituali, la 
+protezione sociale dei lavoratori indipendenti;  
+4. gli aiuti agli indipendenti in tempo di crisi pandemica, con uno sguardo d’insieme sulle misure 
+prese in loro favore. 
+Le caratteristiche del mondo del lavoro su scala nazionale  
+Una prima osservazione relativa alla natura e alla composizione del mondo del lavoro svizzero, è che 
+le sue molteplici componenti, pur avendo, ma non sempre, una dimensione statistica, non sono 
+aggregabili in modo tale da avere un quadro d’assieme sintetico e coerente, e questo perché la classica 
+ripartizione fra salariati, indipendenti, disoccupati, inattivi e pensionati, se sempre utile per aver una 
+visione d’insieme, non consente, se non parzialmente e comunque difficilmente, di rendere conto 
+dell’ulteriore frammentazione interna a queste grandi categorie, per non parlare delle realtà lavorative 
+emergenti che sfuggono alla rilevazione statistica. Un’ulteriore difficoltà è determinata dai processi 
+di diversificazione delle condizioni e dei rapporti di lavoro e di de-standardizzazione dei percorsi 
+lavorativi propriamente detti che moltiplicano nel tempo le situazioni vissute dalle persone. 
+Analizzare la configurazione del mondo del lavoro oggi, significa entrare in ogni singola categoria, 
+sviscerandone tutte le interne articolazioni. I salariati, ad esempio, si suddividono tra tempo parziale, 
+a tempo pieno, a chiamata, a tempo determinato, indeterminato, interinali, sottooccupati, occupati in 
+un programma di inserimento, stagisti. Ciascuno di essi è quantitativamente rilevato, ma con 
+metodologie non sempre omogenee. Un riflesso di queste suddivisioni è che la misurazione della 
+disoccupazione non è sempre univoca, a causa delle finalità delle misurazioni stesse (amministrativa 
+o sociologica). Lo stesso vale per gli indipendenti che, a partire da una prima suddivisione tra 
+indipendenti in senso stretto e indipendenti salariati di sé stessi, statisticamente accertabile, si 
+differenziano poi tra coloro che ad esempio hanno un’attività secondaria salariale, più attività, gli 
+indipendenti intermittenti, oppure quelli che non sono consapevoli di esserlo o quelli che 
+soggettivamente si considerano tali, per non parlare dei lavoratori digitali. La stessa categoria dei 
+pensionati non può essere considerata omogenea, se è vero che vi si trovano beneficiari di rendita che 
+hanno un’attività professionale.  
+In attesa di poter superare i limiti delle singole statistiche, come si vuole fare con una successiva 
+ricerca con l’analisi degli indipendenti collegando le varie banche dati esistenti (Conti individuali
+
+---
+
+Gli indipendenti in Svizzera 
+7/51 
+dell’AVS, Rifos, Statpop) e anche con approfondimenti di tipo qualitativo, si può comunque 
+presentare un primo quadro d’assieme con i dati complessivi disponibili. 
+Tabella 1 Statut d'activité1) de la population résidante permanente selon la nationalité 
+Moyennes annuelles, en milliers  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Total 
+2010 
+2011 
+2012 
+2013 
+2014 
+2015 
+2016 
+2017 
+2018 
+2019 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Suisses 
+5175 
+5212 
+5247 
+5278 
+5311 
+5343 
+5378 
+5409 
+5437 
+5466 
+Indépendants                             
+498 
+493 
+493 
+491 
+497 
+496 
+508 
+500 
+493 
+490 
+Collaborateurs familiaux                 
+77 
+83 
+80 
+85 
+82 
+79 
+81 
+84 
+82 
+73 
+Salariés 
+2513 
+2552 
+2571 
+2590 
+2623 
+2660 
+2684 
+2703 
+2731 
+2758 
+Apprentis                                
+184 
+183 
+180 
+174 
+170 
+169 
+170 
+167 
+166 
+155 
+Chômeurs au sens du BIT 
+123 
+116 
+117 
+117 
+122 
+122 
+127 
+127 
+124 
+117 
+En formation 
+230 
+225 
+238 
+235 
+233 
+228 
+224 
+224 
+227 
+230 
+Au foyer                   
+205 
+189 
+181 
+159 
+141 
+131 
+128 
+125 
+118 
+122 
+Retraités et rentiers                             1238 
+1256 
+1275 
+1305 
+1317 
+1322 
+1338 
+1360 
+1383 
+1408 
+Autres non-actifs             
+107 
+115 
+111 
+122 
+124 
+134 
+119 
+120 
+115 
+114 
+Etrangers2) 
+1422 
+1454 
+1501 
+1551 
+1604 
+1653 
+1684 
+1707 
+1728 
+1747 
+Indépendants                             
+79 
+77 
+83 
+88 
+94 
+89 
+94 
+94 
+105 
+102 
+Collaborateurs familiaux                 
+8 
+8 
+10 
+10 
+10 
+10 
+11 
+11 
+10 
+11 
+Salariés 
+810 
+863 
+895 
+912 
+950 
+991 
+1015 
+1036 
+1043 
+1073 
+Apprentis                                
+39 
+38 
+39 
+43 
+43 
+43 
+41 
+42 
+47 
+43 
+Chômeurs au sens du BIT 
+90 
+82 
+88 
+102 
+104 
+107 
+112 
+107 
+108 
+100 
+En formation 
+63 
+58 
+64 
+67 
+65 
+70 
+67 
+62 
+67 
+72 
+Au foyer                   
+98 
+90 
+86 
+81 
+86 
+89 
+85 
+89 
+83 
+81 
+Retraités et rentiers                             175 
+177 
+181 
+185 
+190 
+188 
+193 
+199 
+203 
+204 
+Autres non-actifs             
+61 
+60 
+55 
+63 
+62 
+66 
+66 
+67 
+63 
+61 
+Total 
+6597 
+6666 
+6747 
+6829 
+6915 
+6995 
+7062 
+7116 
+7165 
+7214 
+Indépendants                             
+577 
+570 
+576 
+579 
+591 
+586 
+602 
+594 
+598 
+592 
+Collaborateurs familiaux                 
+85 
+92 
+90 
+94 
+92 
+89 
+91 
+95 
+91 
+84 
+Salariés 
+3323 
+3415 
+3467 
+3502 
+3574 
+3651 
+3699 
+3739 
+3774 
+3831 
+Apprentis                                
+223 
+221 
+219 
+217 
+213 
+213 
+212 
+209 
+212 
+198 
+Chômeurs au sens du BIT 
+213 
+198 
+205 
+219 
+227 
+229 
+238 
+234 
+231 
+216 
+En formation 
+293 
+283 
+302 
+302 
+298 
+298 
+291 
+286 
+294 
+302 
+Au foyer                   
+303 
+278 
+267 
+240 
+228 
+220 
+213 
+214 
+201 
+202 
+Retraités et rentiers                             1413 
+1433 
+1456 
+1489 
+1507 
+1510 
+1531 
+1559 
+1585 
+1612 
+Autres non-actifs             
+168 
+176 
+166 
+186 
+186 
+200 
+185 
+187 
+178 
+175 
+1) Définition sociologique: les salariés dans leur propre entreprise comptent comme des indépendants 
+2) Résidants permanents (titulaires d'une autorisation d'établissement, titulaires d'une autorisation de séjour et titulaires d'une autorisation de courte durée résidant  
+depuis 12 mois ou plus en Suisse).  
+Source : OFS, Neuchâtel / Source: OFS - Enquête suisse sur la population active (ESPA) 
+I dati mostrano una presenza consolidata di lavoratori e lavoratrici con statuto d’attività indipendente. 
+Sull’arco dei dieci anni considerati, la tendenza al rialzo è contrassegnata da un andamento oscillante 
+anche in rapporto alla tendenza alla crescita del numero dei salariati.   
+Oltre al quadro d’assieme, coerente e omogeneo, occorre citare la presenza di altre sotto-categorie di 
+persone attive nel mercato del lavoro che attraversano o affiancano quelle appena citate: persone 
+occupate a tempo determinato, persone occupate a tempo parziale, peraltro con tempi parziali 
+tendenzialmente sempre più brevi, persone attive occupate con più di un impiego (multiattività), 
+anch’esse in crescita, a chiamata, interinali, senza contare coloro che svolgono un’attività lavorativa
+
+---
+
+Gli indipendenti in Svizzera 
+8/51 
+nel cosiddetto mercato complementare la cui quantificazione pone non pochi problemi (si veda 
+Zurbuchen et al,, 2020). Occorre poi considerare i lavoratori e le lavoratrici attivi nella cosiddetta gig 
+economy, ossia coloro che sono attivi come crowdworker e, più in generale, attraverso 
+l’intermediazione di una tecnologia digitale (si veda Huws et al., 2017; OFS, 2020). Si tratta di un 
+sottouniverso di lavoratori la cui dimensione statistico-quantitativa è di difficile misurazione e 
+categorizzazione.  
+Secondo i dati dell’Ufficio federale di statistica, nel 2019 mediamente e in migliaia, le persone attive 
+occupate (indipendenti, collaboratori familiari, salariati e apprendisti) erano complessivamente 4.706 
+(si veda la tabella 1 qui sopra), di cui 2.947 a tempo pieno e 1.759 a tempo parziale (698 con tempi 
+parziali inferiori al 50%). Dei 3.831 salariati, il 91,5% aveva un contratto a durata indeterminata, 
+mentre l’8,5% aveva un contratto a tempo determinato. Da notare che, secondo i dati dell’UST, quasi 
+un quarto dei salariati di età compresa tra 15 e 24 anni aveva un contratto a durata determinata e di 
+questi ben il 40% erano costituiti di stages (si veda OFS, 2018). Inoltre, il 5,1% dei salariati, ossia 
+195 mila persone, lavorava a chiamata. La multiattività è un fenomeno che nel 2019 toccava 
+complessivamente l’8,3% delle persone attive occupate (senza gli apprendisti). Ai dati fin qui 
+riportati, occorre aggiungere quelli relativi ai salariati che hanno trovato lavoro attraverso un’agenzia 
+di lavoro interinale, ossia complessivamente in media annuale 266 mila nel 2019, e coloro che nel 
+corso del 2019 hanno dichiarato di avere fornito lavoro tramite piattaforme digitali, ovvero 116 mila 
+persone (OFS, 2020).   
+Gli indipendenti in Svizzera: un approccio sociologico 
+La RIFOS (ESPA) distingue i lavoratori attivi occupati in funzione del loro statuto d’attività in quattro 
+categorie: indipendenti, collaboratori famigliari, salariati e apprendisti. Per caratterizzare gli 
+indipendenti, l’Ufficio federale di statistica (UST) adotta una definizione detta “sociologica”, dove 
+gli indipendenti sono sia i lavoratori e le lavoratrici indipendenti in proprio (1. ditte individuali – 
+entreprise individuelle ou raison individuelle – e 2. società di persone – société de personnes -, ossia 
+a) società in nome collettivo – société en nom collectif -, b) società in accomandita – société en 
+accomandite -  e c) società semplice – société simple), sia i salariati che detengono una parte 
+importante del capitale della società anonima (SA) o della società a garanzia limitata (Sagl) – société 
+à responsabilité limitée (SàRL) – nella quale esercitano la loro attività professionale.  
+Se si considerano le persone che indicano come attività principale quella di indipendente (in proprio 
+o salariato della propria azienda), l’evoluzione nel tempo indica una leggera diminuzione della loro 
+percentuale sul totale degli attivi occupati. Dal 2000 gli indipendenti sono passati dal 15% degli attivi 
+occupati, a circa il 12,6% nel 2020, per un totale di 588.802 individui (media sui primi tre trimestri 
+2020).
+
+---
+
+Gli indipendenti in Svizzera 
+9/51 
+Figura 1 Evolution de la part des indépendants (activité principale) dans les personnes actives occupées de 
+1991 à 2020 (jusqu’au troisième trimestre), en Suisse 
+ 
+Source: Élaboration sur la base des données ESPA disponibles sur le site de l’OFS.  
+I dati individuali della RIFOS a disposizione dal 2002 al 20191permettono di distinguere chi è 
+indipendente “in proprio” da chi è “salariato della propria azienda” (F.2). Andando a distinguere 
+queste due categorie, si osserva nel tempo una leggera diminuzione degli indipendenti in proprio 
+(“ind”) e un leggero aumento dei salariati della propria azienda (“SPE”). Questa migrazione di una 
+parte degli indipendenti in proprio verso indipendenti come salariati della propria azienda può voler 
+indicare una ricerca di stabilità e di una migliore protezione sociale e pensionistica (si veda Silvia 
+Walker, USTAT, 2019, p. 19). Si tratta comunque di una tutela relativa o parziale. Solo 
+eccezionalmente, infatti, durante il primo lockdown hanno avuto diritto alle indennità di 
+disoccupazione per lavoro ridotto nell’ambito dell’Ordinanza covid-19. In altre parole, è stato tolto 
+temporaneamente il vincolo che li equipara a datori di lavoro, ma è stato introdotto un massimale a 
+cui hanno diritto i datori di lavoro in regime di lavoro ridotto (4.200 franchi, a fronte dell’80% del 
+proprio salario di cui invece beneficiano i dipendenti salariati). Successivamente, tra l’altro con 
+effetto retroattivo, l’Ordinanza COVID-19 indennità perdita di guadagno ha conferito loro a 
+determinate condizioni il diritto all’IPG Corona. L’indennità di perdita di guadagno ha così sostituito 
+l’indennità per lavoro ridotto. Pertanto la legislazione svizzera in materia Covid 19 ha esteso il diritto 
+dell’IPG Corona, in tempo di pandemia, pure alle persone assimilabili a quelle di un datore di lavoro 
+(titolari di Sagl e SA) in virtù dell’art. 2 cpv. 3, 3 bis, 3 ter, 3 quinquies dell’Ordinanza Covid-
+19. Interessante notare che da salariati, con posizione assimilabile a quella di datore di lavoro, sono 
+diventati salariati, con posizione assimilabile a quella di un indipendente, per quanto riguarda 
+l’erogazione della prestazione. In altre parole, l’indennità per lavoro ridotto conferisce al salariato 
+indipendente lo status di salariato, mentre l’IPG conferisce allo stesso salariato lo status di 
+                                                        
+1 Le serie storiche sono calcolate sulla banca dati annuale della RIFOS. Invece l’ultimo dato disponibile al momento 
+della stesura del presente rapporto è quello relativo ai primi 3 trimestri del 2020, quindi con le banche dati trimestrali.  
+0.0%
+2.0%
+4.0%
+6.0%
+8.0%
+10.0%
+12.0%
+14.0%
+16.0%
+18.0%
+1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2010 2012 2014 2016 2018 2020
+
+---
+
+Gli indipendenti in Svizzera 
+10/51 
+indipendente, il che muta considerevolmente la base giuridica sulla quale poggia il diritto sociale. 
+Indipendentemente dal motivo all’origine di questo slittamento da salariato a indipendente (per pesare 
+meno sulla LADI, per meglio controllarli, o altro?), si tratta di un importante precedente giuridico 
+che può rivelarsi prezioso in sede di legiferazione in materia di tutela del lavoro salariato 
+intermittente.  
+Figura 2 Evolution des indépendants par sous-catégorie, de 2002 à 2019, en Suisse 
+ 
+Source: Élaboration sur la base de la banque de données ESPA.  
+Sempre nella F.2 sono raffigurati anche i salariati che hanno come attività secondaria (la seconda 
+attività più importante, in base a quanto dichiarato dalle persone intervistate) un’attività indipendente, 
+“in proprio” o come “salariati della propria azienda” (“ACS ind o SPE”). Essi sono rappresentati dalla 
+curva grigia. Sebbene questi siano pochi rispetto a coloro la cui attività principale è indipendente o 
+di salariato nella propria azienda, si può notare un leggero aumento nel tempo: sono lo 0,8% degli 
+attivi occupati nel 2002 e l’1,3% nel 2019. Benché non vi sia un’esplosione, la loro crescita è 
+probabilmente indicativa di un fenomeno qualitativo che meriterebbe di essere seguito e 
+approfondito. Si intravvede in esso una aspirazione a esercitare un’attività indipendente, ovviando 
+alle difficoltà con un’attività salariata di supporto, sia in termini remunerativi che tutela assicurativa.  
+Nei primi tre trimestri del 2020 (dato disponibile più recente al momento della stesura del rapporto), 
+le persone la cui attività principale è indipendente, sia in proprio sia nella propria azienda, sono il 
+12,6% degli attivi occupati e si suddividono così: 60% sono indipendenti in proprio (353.153) e 40% 
+salariati della propria azienda come attività principale (in totale 235.639 persone). I salariati che 
+hanno come attività secondaria un’attività da indipendente (in proprio o come salariati della propria 
+azienda) sono complessivamente 53.101. 
+Rispetto alla media europea (14,3%), in Svizzera la percentuale di lavoratori indipendenti è 
+leggermente inferiore. Come visto, nel corso degli ultimi anni, oltre al passaggio dallo statuto di 
+indipendente in proprio a quello di salariato della propria azienda, l’insieme degli indipendenti è 
+lievemente diminuito. Una spiegazione di questa diminuzione può essere solo ipotetica: in generale 
+è risaputo che “mettersi in proprio” comporta una serie di difficoltà di varia natura (amministrativa, 
+0.0%
+2.0%
+4.0%
+6.0%
+8.0%
+10.0%
+12.0%
+2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+ind
+SPE
+ACS ind o SPE
+
+---
+
+Gli indipendenti in Svizzera 
+11/51 
+assicurativa, economica, ad esempio determinata dalla crescente concorrenza su scala globale, specie 
+per una serie di attività che sono svolte on line); inoltre, è possibile che i processi di digitalizzazione 
+abbiano alimentato l’apparizione e la crescita di forme di lavoro indipendente sommerso. L’aumento 
+recente delle persone senza attività lucrativa affiliate alle casse di compensazione AVS, potrebbe 
+essere anch’essa un’ipotesi esplicativa. Nell’arco di tempo considerato, la riduzione, seppur modesta, 
+della percentuale di indipendenti, si spiega probabilmente meglio come effetto delle condizioni 
+oggettive che non dal punto di vista delle preferenze soggettive di mettersi in proprio. Si tenga 
+presente che dal 2000 al 2019, per non parlare del 2020, si sono susseguite ben tre crisi economico-
+finanziarie, dalla bolla delle dot.com del 2001 a quella dei subprime del 2008 alla crisi pandemica. 
+Un’analisi longitudinale permetterebbe di chiarire meglio le ragioni di questa oscillazione 
+dell’incidenza degli indipendenti in Svizzera.  
+Caratteristiche socio-demografiche  
+Consideriamo ora gli indipendenti, ossia le persone che hanno indicato avere un’attività principale 
+come indipendente, in funzione delle principali caratteristiche sociodemografiche; sesso, età, coorte, 
+nazionalità, residenza, formazione e tipologia di famiglia.   
+La F. 3 illustra l’andamento nel tempo in funzione del sesso. Gli indipendenti sono in maggioranza 
+uomini, benché la loro incidenza diminuisca nel corso del periodo considerato, passando dal 18% di 
+indipendenti uomini sul totale degli attivi occupati di sesso maschile del 2000 al 14% del 2020. Il 
+valore per le donne nel periodo considerato si situa tra il 12 e il 10 per cento.  
+Figura 3 Evolution des indépendants selon le sexe, de 1991 à 2020 (trois premiers trimestres), en Suisse 
+ 
+Source: Élaboration sur la base des données ESPA disponibles sur le site de l’OFS.  
+Il grafico degli uomini mostra delle caratteristiche che meritano un approfondimento. È interessante 
+infatti notare una serie di aumenti repentini del numero di indipendenti da un anno all’altro nel corso 
+del periodo osservato: i picchi degli anni 90 e del 2003 corrispondono a momenti di crisi, come pure 
+0.0%
+2.0%
+4.0%
+6.0%
+8.0%
+10.0%
+12.0%
+14.0%
+16.0%
+18.0%
+20.0%
+1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2010 2012 2014 2016 2018 2020
+hommes
+femmes
+total
+
+---
+
+Gli indipendenti in Svizzera 
+12/51 
+quello del 2008 concomitante alla crisi finanziaria. Non si può escludere che molti salariati dopo aver 
+perso il lavoro siano stati spinti dalla crisi a avviare un’attività indipendente, magari beneficiando 
+degli incentivi previsti dalla LADI e dalla possibilità offerta dalla LPP di prelevare parte del secondo 
+pilastro per finanziare un’attività indipendente. Le successive riduzioni di questi aumenti 
+testimoniano verosimilmente la difficoltà a rimanere sul mercato in qualità di indipendente, 
+contribuendo così a determinare la pendenza della curva nel tempo. Il fossato in corrispondenza del 
+2015 si può interpretare come una conseguenza dell’abbandono da parte della Banca nazionale della 
+soglia minima di cambio di un euro per 1,20 franchi. Ciò dimostrerebbe che il mondo degli 
+indipendenti, perlomeno una sua parte, è anche integrato nell’economia globale, subendone le 
+oscillazioni. In altre parole, il mondo degli indipendenti si rivela parte integrante di un’economia 
+orientata all’esportazione come quella svizzera, subendone però i contraccolpi in qualità di anello 
+debole della catena del valore. Non potendo beneficiare di forme di lavoro ridotto come fu il caso, 
+invece, delle industrie penalizzate dalla rivalutazione del franco. Da sottolineare che gli uomini sono 
+maggiormente presenti e quindi gli sbalzi si vedono di più, ma la stessa tendenza è presente tra le 
+donne, anche se meno visibile.  
+Per quel che riguarda l’età, la popolazione degli indipendenti è generalmente più anziana rispetto alla 
+popolazione dei salariati: nei primi tre trimestri del 2020 risulta che solo il 20% degli indipendenti ha 
+meno di 40 anni (sono invece il 45% tra i salariati). Questo sembrerebbe indicare sia un processo di 
+invecchiamento della popolazione indipendente sia una tendenza all’acquisizione tardiva dello statuto 
+di indipendente, non all’inizio ma una volta intrapresa la carriera professionale, ossia dopo aver 
+esercitato la professione come dipendente e/o dopo aver accumulato un capitale iniziale da poter 
+investire nella propria attività e aver acquisito un portafoglio di potenziali clienti. Di nuovo, un’analisi 
+longitudinale aiuterebbe a fare chiarezza.  
+Figura 4 Évolution des indépendants par classe d’âges, de 1991 à 2020 (trois premiers trimestres) en %, en 
+Suisse 
+Source: Élaboration sur la base des données ESPA disponibles sur le site de l’OFS.  
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+15-24
+25-39
+40-54
+55-64
+65 e plus
+
+---
+
+Gli indipendenti in Svizzera 
+13/51 
+ 
+In passato però, la percentuale di “giovani indipendenti” era ben più importante. Nel 1991, infatti, 
+ben il 35,9% degli indipendenti aveva meno di 40 anni. Questa tendenza all’invecchiamento della 
+popolazione degli indipendenti si è quindi accentuata negli ultimi 20 anni e sempre meno giovani 
+intraprendono un’attività come indipendente o ne ritardano l’inizio. Le possibili cause possono essere 
+la crisi economica, i cui effetti cominciano a vedersi nel 2001 e si accentuano nel 2009, ma con molta 
+probabilità l’aumento dei contratti a durata determinata e degli stages e in generale l’avvio di carriere 
+intermittenti e precarie.   
+Questi risultati fanno pensare all’esistenza di effetti generazionali, vale a dire una diseguaglianza 
+nelle opportunità concrete nell’intraprendere un’attività come indipendente da una generazione 
+all’altra. Gli stessi effetti generazionali possono essere osservati nel passaggio all’età del 
+pensionamento ai sensi dell’AVS: si può ipotizzare che vi siano delle differenze tra le generazioni al 
+momento del raggiungimento dell’età del pensionamento e che tra le coorti andate in pensione più 
+recentemente, vi sia la necessità o il desiderio legato alla possibilità professionale di continuare a 
+esercitare un’attività come indipendente anche dopo l’età legale del pensionamento. Dal 1991 al 
+2020, infatti, il numero di persone che indicano come attività principale quella di indipendenti con 
+65 anni e più è praticamente raddoppiato, passando da circa 37.698 a 78.237; il tasso di indipendenti 
+tra gli attivi occupati dopo l’età legale del pensionamento è aumentato anch’esso in modo 
+particolarmente significativo, passando in 20 anni dal 26,2% al 44,5%. Si tratta di un fenomeno che 
+meriterebbe indubbiamente di essere ulteriormente approfondito, non da ultimo pensando a una 
+ridefinizione delle tutele assicurative degli indipendenti o al conflitto intergenerazionale tra vecchi e 
+giovani indipendenti.   
+Oltre all’effetto di età (con l’avanzare dell’età il tasso di indipendenti aumenta), è possibile mostrare 
+attraverso il grafico di Lexis (F. 5) i tassi di indipendenti sul totale degli attivi occupati in funzione 
+dell’età e dell’anno di osservazione. Attraverso questo particolare tipo di elaborazione, è possibile 
+notare la presenza di alcuni effetti generazionali: per alcune coorti i tassi di indipendenti sul totale 
+degli attivi occupati sono più elevati che per altre. Ad esempio, tra la coorte di 38enni nel 2002 i tassi 
+sono compresi tra il 15% e il 20% di indipendenti sul totale degli attivi occupati, percentuali che 
+restano costanti se si segue la coorte nel loro invecchiamento in diagonale (38 anni nel 2002, 39, nel 
+2003, ecc.). Chi aveva 38 anni nel 2006, ha invece dei tassi più bassi, che si abbassano ulteriormente 
+per i 38enni dal 2016 in poi. Vediamo inoltre, sempre in diagonale, un tasso elevato di indipendenti 
+tra 47enni nel 2002 (in blu), vale a dire per le generazioni che avevano 25 anni nel 1980. Questa 
+sembra essere la coorte che, più facilmente di altre, ha potuto intraprendere un’attività da 
+indipendente. Vale la pena osservare che questo tipo di analisi meglio permette di capire l’importanza 
+del fenomeno indipendenti all’interno della nostra società, perché rende conto della dimensione 
+dinamica del fenomeno e della necessità di analizzarlo in termini longitudinali, sia qualitativi, ma 
+anche quantitativi.
+
+---
+
+Gli indipendenti in Svizzera 
+14/51 
+Figura 5 Taux d’indépendants (activité principale) sur le total des actifs occupés en fonction de l’âge (entre 30 et 
+50 ans) et de l’année de l’enquête (2002 jusqu’à 2019), en Suisse 
+ 
+Source: Élaboration sur la base de la banque de données ESPA.  
+La F.6 mostra lo stesso grafico, ma per le fasce d’età più elevate (da 55 a 70 anni). Anche in questo 
+caso è possibile rilevare la presenza di effetti generazionali (in diagonale) legati al pensionamento. 
+Se la generazione di indipendenti andata in pensione attorno al 2002 riesce a mantenere in seguito 
+tassi bassi, quindi ad andare effettivamente in pensione, le generazioni seguenti subiscono un 
+aumento importante del tasso di indipendenti sul totale degli attivi occupati, compreso tra il 40% e il 
+60%. C’è probabilmente un deterioramento delle condizioni economiche che induce a prolungare 
+l’attività professionale, senza però dimenticare un miglioramento delle condizioni fisiche e cognitive 
+all’interno dei processi di invecchiamento.  
+Figura 6 Taux d’indépendants (activité principale) sur le total des actifs occupés en fonction de l’âge (entre 55 et 
+70 ans) et de l’année de l’enquête (2002 jusqu’à 2019), en Suisse 
+ 
+Source: Élaboration sur la base de la banque de données ESPA.  
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+30 32 34 36 38 40 42 44 46 48 50
+0.0%-5.0%
+5.0%-10.0%
+10.0%-15.0%
+15.0%-20.0%
+20.0%-25.0%
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+55
+57
+59
+61
+63
+65
+67
+69
+0.0%-20.0%
+20.0%-40.0%
+40.0%-60.0%
+
+---
+
+Gli indipendenti in Svizzera 
+15/51 
+ 
+Se si considera la nazionalità, notiamo che la percentuale di indipendenti sugli attivi occupati è più 
+elevata tra gli svizzeri (14% nel 2019) che tra gli stranieri (8% nel 2019).  
+Figura 7 Personnes actives occupées indépendantes en fonction de la nationalité depuis 1991, en Suisse 
+ 
+Source: Élaboration sur la base des données ESPA disponibles sur le site de l’OFS 
+Se si guarda all’insieme degli indipendenti, la percentuale di stranieri è aumentata nel tempo: era del 
+12,6% nel 2000 ed è del 17% nel 2020 (primi tre trimestri).  
+Figura 8 Part des étrangers parmi les personne actives occupées indépendantes depuis 1991, en Suisse 
+ 
+Source: Élaboration sur la base des données ESPA disponibles sur le site de l’OFS  
+ 
+0.0%
+2.0%
+4.0%
+6.0%
+8.0%
+10.0%
+12.0%
+14.0%
+16.0%
+18.0%
+1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2010 2012 2014 2016 2018 2020
+suisses
+étrangers
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+1991
+2000
+2010
+2020
+suisses
+étrangers
+
+---
+
+Gli indipendenti in Svizzera 
+16/51 
+Secondo Murier (2018), quest’evoluzione è dovuta al fatto che dal 2002 gli stranieri sono facilitati 
+nell’intraprendere un’attività indipendente grazie a un cambiamento nella legge legato agli accordi 
+con l’UE nell’ambito della libera circolazione delle persone. Ciò conferma che un cambiamento della 
+normativa si riflette sull’attività indipendente, svelandone la natura strutturale.  
+L’accordo ha anche facilitato l’esercizio di professioni indipendenti da parte dei frontalieri, 
+soprattutto nel settore terziario. I frontalieri non rientrano nell’inchiesta campionaria RIFOS poiché 
+non residenti permanenti. Vengono invece censiti dalla Statistica dei frontalieri (STAF).  
+Figura 9 Frontaliers indépendants en fonction du secteur économique depuis 2002, en Suisse  
+ 
+Source: Élaboration sur la base des données STAF disponibles sur le site de l’OFS.   
+Per quel che riguarda la formazione, risultano generalmente sovra rappresentate tra gli indipendenti 
+le persone che hanno terminato una formazione terziaria. Nei primi 3 trimestri del 2020, il 17,5% 
+degli uomini attivi occupati con una formazione terziaria e l’11,3% delle donne è un lavoratore 
+indipendente. Questa percentuale scende al 6,5% per gli uomini e al 5,5% per le donne con una 
+formazione di secondario I.  
+ 
+ 
+0.0
+500.0
+1000.0
+1500.0
+2000.0
+2500.0
+3000.0
+3500.0
+4000.0
+4500.0
+5000.0
+2002Q1
+2002Q3
+2003Q1
+2003Q3
+2004Q1
+2004Q3
+2005Q1
+2005Q3
+2006Q1
+2006Q3
+2007Q1
+2007Q3
+2008Q1
+2008Q3
+2009Q1
+2009Q3
+2010Q1
+2010Q3
+2011Q1
+2011Q3
+2012Q1
+2012Q3
+2013Q1
+2013Q3
+2014Q1
+2014Q3
+2015Q1
+2015Q3
+2016Q1
+2016Q3
+2017Q1
+2017Q3
+2018Q1
+2018Q3
+2019Q1
+2019Q3
+2020Q1
+2020Q3
+Division économique - total
+- Secteur primaire
+- Secteur secondaire
+- Secteur tertiaire
+
+---
+
+Gli indipendenti in Svizzera 
+17/51 
+Figura 10 Pourcentage de travailleurs indépendants selon la formation et le sexe en 2020 (premiers trois 
+trimestres, en Suisse 
+ 
+Source: Élaboration sur la base de la banque de données ESPA.  
+Se invertiamo la logica e ci interessiamo all’insieme degli indipendenti (non mostrato nei grafici), è 
+interessante notare come, nel tempo, aumentano proporzionalmente le persone con una formazione 
+terziaria tra gli indipendenti: se nel 2002, sul totale degli indipendenti, erano il 35,5%, nel 2020 quasi 
+il 50% degli indipendenti ha una formazione terziaria (il 49,6%). 
+Per quel che riguarda la tipologia di famiglia di appartenenza dei lavoratori indipendenti dal 2002 
+al 2019, è interessante notare come diminuiscano quelli appartenenti a coppie con figli (da 58,3% a 
+46,6%), a fronte di un aumento di indipendenti che vivono invece in coppia senza figli (da 32,5% a 
+37%).  
+Figura 11 Personnes actives occupées indépendantes selon la type de famille de 2002 à 2019 en %, en Suisse 
+ 
+Source: Élaboration sur la base de la banque de données ESPA.  
+0.065
+0.144
+0.175
+0.055
+0.102
+0.113
+0.06
+0.123
+0.147
+0
+0.02
+0.04
+0.06
+0.08
+0.1
+0.12
+0.14
+0.16
+0.18
+0.2
+Secondaire I
+Secondaire II
+Tertiaire
+hommes
+femmes
+total
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Couple sans enfant
+Couple avec enfants
+Un parent seul avec enfants
+Sans aucun lien de parenté
+En partie avec des liens de parenté
+Tous avec des liens de parenté
+
+---
+
+Gli indipendenti in Svizzera 
+18/51 
+ 
+Caratteristiche lavorative  
+Passiamo ora in rassegna le caratteristiche lavorative degli indipendenti: settore economico, presenza 
+di collaboratori, tasso d’occupazione, orari e giorni di lavoro, salario e multi attività. Talvolta, per 
+queste caratteristiche, saranno fatti dei confronti tra indipendenti “in proprio” e “salariati della propria 
+azienda”, così come tra indipendenti e salariati.  
+Figura 12 Personnes actives occupées selon le statut d’activité (indépendants, collaborateurs familiaux, 
+salariés, apprentis) et le secteur économique en 2020 (trois premiers trimestres), en Suisse 
+ 
+Source: Élaboration sur la base de la banque de données ESPA.  
+Come mostra la F. 12, la parte di lavoratori indipendenti varia fortemente secondo il settore 
+economico. Il settore con una più alta percentuale di indipendenti risulta essere, nei primi tre trimestri 
+del 2020, il settore dell’“agricoltura, la selvicoltura e la pesca”. In altri settori, come le “attività 
+immobiliari”, “attività specializzate, scientifiche e tecniche”, “arti spettacoli e attività ricreative” e 
+ancora “altre attività di servizio” gli indipendenti superano di poco il 20% sul totale degli attivi 
+occupati di quel settore. Sono attorno al 5% gli indipendenti attivi nei settori “trasporti e deposito”, 
+“attività finanziarie e d’assicurazione”, “insegnamento” e “produzione e distribuzione d’acqua e 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90% 100%
+administration publique
+produc. et distr. d'électricité
+industries extractives
+activités financières et d'assurance
+transports et entreposage
+produc. et distr. d'eau; assainissement
+enseignement
+activités extra-territoriales
+industrie manufacturière
+activ. des ménages en tant qu'employeurs
+santé humaine et action sociale
+activités de services administratifs et de soutien
+commerce; réparation d'automobiles et de motocycles
+Total
+information et communication
+hébergement et restauration
+construction
+activités immobilières
+arts, spectacles et activités récréatives
+autres activités de services
+activités spécialisées, scientifiques et techniques
+agriculture, sylviculture et pêche
+indépendants
+coll. fam
+salariés
+apprentis
+
+---
+
+Gli indipendenti in Svizzera 
+19/51 
+igiene”. È chiaro che al di là delle percentuali di indipendenti intrasettoriali, quello che conta è il peso 
+dei settori all’interno dell’economia nazionale.  
+Consideriamo ora l’insieme degli indipendenti: quali sono i settori maggiormente rappresentati 
+all’interno dell’universo degli indipendenti in Svizzera (F.13)? Le “attività specializzate, scientifiche 
+e tecniche”, il “commercio, le riparazioni d’automobili e motocicli”, la “salute e l’azione sociale” e 
+la “agricoltura, selvicoltura e la pesca” sono i 4 settori che assieme occupano più della metà degli 
+indipendenti attivi in Svizzera nei primi tre trimestri del 2020. La categoria “arti, spettacoli e attività 
+ricreative” rappresenta, a titolo di paragone, solamente il 3% circa degli indipendenti attivi e residenti 
+in Svizzera. 
+Figura 13 Travailleurs indépendants selon le secteur économique en 2020 (trois premiers trimestres), en Suisse 
+ 
+Source: Élaboration sur la base de la banque de données ESPA.  
+Una categoria che ha manifestato il proprio disagio e rivendicando misure a sostegno della propria 
+attività, è quella della “cultura, arti e spettacoli”. Un’analisi comparata della distribuzione dei redditi, 
+mostra che gli indipendenti attivi a tempo pieno in questo settore sono quelli con la % più alta di 
+persone con redditi bassi inferiori a 39.000.- CHF annui (quasi la metà di loro).  
+In quali settori economici prevalgono gli indipendenti “in proprio” e in quali altri invece vi è una 
+maggioranza di indipendenti “salariati della propria azienda”? La F. 14 risponde a questa domanda 
+mostrando come in alcuni settori prevale la presenza di indipendenti salariati della propria azienda 
+(come nei settori della “produzione e distribuzione di elettricità”, “informazione e comunicazione”, 
+“attività finanziarie e assicurative” e “attività immobiliari”), mentre in altri settori prevalgono gli 
+indipendenti in proprio (“agricoltura, selvicoltura e pesca”, “industria estrattiva”, “insegnamento”, 
+“salute e azione sociale”, “arti spettacoli e attività ricreative”, “attività di pulizia” e “altre attività e 
+servizi”).  
+ 
+ 
+0
+20000
+40000
+60000
+80000
+100000
+120000
+
+---
+
+Gli indipendenti in Svizzera 
+20/51 
+ 
+Figura 14 Part des actifs occupés indépendants selon la sous-catégorie1 et le secteur économique, en Suisse  
+ 
+1 La question est présente uniquement dans la banque de données annuelle. En cette début d’année, l’année 2020 complète sera disponible.  
+Source: Élaboration sur la base de la banque de données ESPA.  
+Nel 2019 (domanda presente solo nella banca dati annuale), il 55,8% degli indipendenti non hanno 
+collaboratori dipendenti (elaborazione su dati RIFOS). La loro presenza presso i lavoratori 
+indipendenti varia però in funzione della tipologia di indipendenti. La F.15 mostra come siano 
+diminuiti gli indipendenti in proprio con dipendenti a loro carico, soprattutto dal 2014 in poi e siano 
+aumentati gli indipendenti salariati della propria azienda con dipendenti.  
+ 
+ 
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+Total
+activités extra-territoriales
+activ. des ménages en tant qu'employeurs
+autres activités de services
+arts, spectacles et activités récréatives
+santé humaine et action sociale
+enseignement
+activités de services administratifs et de…
+activités spécialisées, scientifiques et…
+activités immobilières
+activités financières et d'assurance
+information et communication
+hébergement et restauration
+transports et entreposage
+commerce; réparation d'automobiles et…
+construction
+produc. et distr. d'eau; assainissement
+produc. et distr. d'électricité
+industrie manufacturière
+industries extractives
+agriculture, sylviculture et pêche
+ind
+SPE
+
+---
+
+Gli indipendenti in Svizzera 
+21/51 
+Figura 15 Travailleurs indépendants selon la typologie1 de 2002 à 2019, en Suisse  
+ 
+1 Sont exclus les indépendants sans informations sur la présence de salariés.  
+Source: Élaboration sur la base de la banque de données ESPA.  
+Tra gli indipendenti in proprio o proprietari della propria azienda quali sono i settori con una maggiore 
+presenza di collaboratori dipendenti? Gli indipendenti senza collaboratori, quindi che essenzialmente 
+lavorano da soli, sono maggiormente presenti nei settori delle “industrie estrattive”, “attività di 
+pulizia”, insegnamento” e “arti, spettacolo e attività ricreative”. Prevalgono invece gli indipendenti 
+che a loro volta hanno dei dipendenti nei settori delle “costruzioni”, “alberghiero e ristorazione”, 
+“produzione e distribuzione di elettricità” e “attività extra territoriali”2. 
+                                                        
+2 Les personnes se trouvant dans cette section économique sont celles travaillant dans les ambassades étrangères en 
+Suisse ainsi que dans les organisations internationales. La plupart de ces personnes ne sont pas couvertes par l’ESPA 
+car elles disposent d’une autorisation de séjour spécifique qui est gérée par le registre ORDIPRO. Il est possible qu’il y 
+ait quelques personnes dans l’ESPA, soit celles de nationalité suisse, ou avec un permis B ou C, soit un très très faible 
+effectif. Dans les statistiques du concept intérieur liées à la comptabilité nationale, telles que la SPO ou la SVOLTA, on 
+les exclut, car l’activité des ambassades étrangère en Suisse et des organisations internationales n’entrent pas dans la 
+comptabilité nationale. Dans les analyses, afin d’être cohérent avec le total, elles sont agrégées aux personnes 
+travaillant dans l’administration publique. 
+0
+50000
+100000
+150000
+200000
+250000
+300000
+2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+A leur propre compte, sans dépendants
+A leur propre compte, avec dépendants
+Salariés de leur entreprise, sans dépendants
+Salariés de leur entreprise, avec dépendants
+
+---
+
+Gli indipendenti in Svizzera 
+22/51 
+Figura 16 Personnes actives occupées indépendantes avec et sans collaborateurs selon le secteur économique 
+en 2020 (trois premiers trimestres), en Suisse  
+ 
+ 
+Source: Élaboration sur la base de la banque de données ESPA.  
+Per quel che riguarda il grado di occupazione, nel 2019 la percentuale di persone che hanno 
+dichiarato di essere indipendenti come attività principale occupata a tempo pieno è simile a quella dei 
+salariati: escludendo gli apprendisti, 63,7% degli indipendenti lavora a tempo pieno (con una 
+percentuale lavorativa uguale o superiore al 90%) mentre sono il 61,8% tra i salariati e i collaboratori 
+famigliari.  
+Tra i salariati e gli indipendenti che lavorano a tempo pieno, possiamo osservare anche differenze 
+sostanziali nell’organizzazione dell’orario settimanale di lavoro: i dipendenti lavorano nella 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90% 100%
+total
+U activités extra-territoriales
+D produc. et distr. d'électricité
+I hébergement et restauration
+F construction
+E produc. et distr. d'eau; assainissement
+N activités de services administratifs et de soutien
+C industrie manufacturière
+G commerce; réparation d'automobiles et de motocycles
+A agriculture, sylviculture et pêche
+H transports et entreposage
+J information et communication
+K activités financières et d'assurance
+L activités immobilières
+M activités spécialisées, scientifiques et techniques
+Q santé humaine et action sociale
+R arts, spectacles et activités récréatives
+S autres activités de services
+P enseignement
+T activ. des ménages en tant qu'employeurs
+B industries extractives
+sans collaborateurs
+avec collaborateurs
+
+---
+
+Gli indipendenti in Svizzera 
+23/51 
+stragrande maggioranza tra lunedì e venerdì, mentre gli indipendenti lavorano spesso anche il 
+weekend.  
+Inoltre, è risaputo che una parte importante del tempo di lavoro degli indipendenti è dedicata alla 
+ricerca dei potenziali committenti. Il loro tempo di lavoro non è rappresentato esclusivamente da 
+attività di esecuzione. Questo significa anche che ci sono spese legate alla ricerca del lavoro che ne 
+facilitano l’acquisizione: la cura di sé, avere una macchina, mantenere e sviluppare una rete di 
+relazioni, ecc. Tempo e spese per il conseguimento del reddito che andrebbero tenuti in 
+considerazione nel calcolo del reddito determinante al fine del calcolo delle forme di sostituzione del 
+reddito in caso di mancata attività.    
+Figure 16b Organisation de l’horaire hebdomadaire selon le statut d’activité, en 2019 
+ 
+Source: Élaboration sur la base de la banque de données ESPA.  
+Andiamo ora ad osservare i redditi degli indipendenti, e in particolare come si distribuiscono i redditi 
+elevati (ci si riferisce solo all’attività principale, quindi in questo caso solo all’attività principale come 
+indipendente). Tra gli indipendenti, i redditi elevati sono presenti in quantità diverse in funzione del 
+settore economico. Più della metà degli indipendenti che operano nei settori delle “costruzioni”, delle 
+“informazione e comunicazione”, delle “attività finanziarie e d’assicurazione”, delle “attività 
+specializzate scientifiche e tecniche” e della “salute e azione sociale” ha un reddito lordo annuo 
+elevato, pari o maggiore a 78.000.- CHF. Mentre sono solo il 15% degli indipendenti attivi 
+nell’insegnamento che hanno salari elevati che raggiungono o superano questa soglia. 
+Al di là di queste soglie di reddito, merita di essere osservato che il nostro sistema di assicurazioni 
+sociali, poggia sul principio meritocratico-occupazionale, in base al quale la posizione acquisita nel 
+mercato del lavoro determina l’entità della tutela assicurativa: più elevato il reddito assicurato, 
+maggiore il reddito sostituito. Dato che il livello del reddito è fortemente influenzato dal reddito 
+fiscalmente dichiarato, diventa cruciale la percezione del rischio di perdere la capacità di guadagnare 
+tale reddito. Se prevale un calcolo di breve termine, basato ad esempio sul bisogno di liquidità, si 
+49.3%
+80.3%
+45.1%
+13.6%
+5.6%
+5.9%
+0%
+20%
+40%
+60%
+80%
+100%
+indépendants à plein temps
+salariés à plein temps
+Entre lundi et vendredi uniquement
+Le week-end uniquement (samedi et/ou dimanche)
+Entre lundi et vendredi et le week-end (samedi et/ou dimanche)
+Horaire variable
+
+---
+
+Gli indipendenti in Svizzera 
+24/51 
+tenderà a privilegiare un approccio al ribasso, che inevitabilmente sottovaluta la portata del rischio. 
+È sulla natura del rischio in una società dei rischi, per parafrasare l’espressione del sociologo tedesco 
+Ulrich Beck, che occorre agire per evitare comportamenti economicamente autolesionisti. Qualsiasi 
+modifica o riforma dei dispositivi assicurativi a favore degli indipendenti, dovrebbe considerare la 
+mutata natura dei rischi sociali e il velo di ignoranza che impedisce di conoscere e prevedere 
+l’avverarsi del rischio sul piano individuale. In altre parole, in una prospettiva pandemica, 
+converrebbe iscrivere il rischio individuale in una dimensione mutualistica di socializzazione dei costi 
+dei rischi.  
+Figura 17 Part des indépendants avec un revenu annuel brut supérieur à CHF 78'000 selon le secteur 
+économique en 2019, en Suisse 
+ 
+ 
+Source: Élaboration sur la base de la banque de données ESPA.  
+Gli indipendenti salariati della propria azienda hanno generalmente dei redditi più elevati. Più della 
+metà di loro, il 53%, guadagna 78.000.- CHF annui lordi o più, mentre hanno un salario elevato meno 
+di un terzo, ossia il 28,8%, degli indipendenti in proprio.  
+ 
+ 
+0.00%
+10.00%
+20.00%
+30.00%
+40.00%
+50.00%
+60.00%
+
+---
+
+Gli indipendenti in Svizzera 
+25/51 
+ 
+Figura 18 Part des indépendants avec un revenu annuel brut supérieur à CHF 78'000 selon la sous-catégorie en 
+2019, en Suisse  
+ 
+ 
+Source: Élaboration sur la base de la banque de données ESPA.  
+ 
+ 
+37.70%
+14.10%
+33.50%
+32.10%
+28.80%
+53.80%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Ind. à leur propre compte
+Salariés propriétaires de leur entreprise
+0-39.001
+39.001-78.000
+78.001+
+
+---
+
+Gli indipendenti in Svizzera 
+26/51 
+ 
+La protezione sociale degli indipendenti 
+I dati sulla situazione relativa alla protezione sociale dei lavoratori sono contenuti in un modulo 
+specifico della RIFOS presente ogni 4 anni. L’ultimo modulo è stato realizzato nel 2019. Dall’analisi 
+di Murier (2018), risulta come meno della metà degli indipendenti3 è assicurato a una cassa pensione. 
+Gli indipendenti, infatti, non sono tenuti a iscriversi a una cassa pensione, ma hanno la possibilità di 
+farlo in maniera autonoma. Il 90% dei salariati sono iscritti a una cassa pensione, mentre sono solo il 
+45% tra gli indipendenti.  
+Figura 19 Versements réguliers de la population active occupée à une caisse de pension ou à un 3e pilier lié (a) 
+selon le statut d'activité, en 2019  
+ 
+ 
+Source: Élaboration sur la base de la banque de données ESPA.  
+Gli indipendenti sono in generale meno tutelati dal sistema delle assicurazioni sociali che mostra 
+perciò un ritardo rispetto alle trasformazioni del mondo del lavoro e ai nuovi bisogni che esso 
+determina.  
+La figura che segue riassume le differenze tra salariati e indipendenti (in senso stretto) in caso di 
+incapacità di guadagno.  
+ 
+ 
+                                                        
+3 Sono esclusi in questo capitolo del lavoro di Murier gli indipendenti salariati e proprietari della propria azienda.  
+27.7%
+8.3%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Indépendants
+Salariés
+Ne cotisent pas à une caisse de pension et ne cotisent pas régulièrement à un 3e pilier lié
+Ne cotisent pas à une caisse de pension, mais cotisent régulièrement à un 3e pilier lié
+Cotisent à une caisse de pension, mais ne cotisent pas régulièrement à un 3e pilier lié
+Cotisent à une caisse de pension et cotisent régulièrement à un 3e pilier lié
+
+---
+
+Gli indipendenti in Svizzera 
+27/51 
+ 
+Figura 20 Substitution du revenu selon les risques, différence entre salariés et indépendants (à leur compte) 
+ 
+Source: Bruno Parnisari, 2020 
+Dal confronto con i salariati, traspare la fragile copertura assicurativa degli indipendenti in caso di 
+incapacità lavorativa. Colpiscono in particolare le lacune assicurative in caso di disoccupazione, 
+malattia e infortunio. Eventi che per i salariati sono coperti finanziariamente, anche se parzialmente 
+e temporaneamente, per gli indipendenti possono compromettere un ritorno all’attività lavorativa. Un 
+percorso relativamente frequente è quello che vede gli indipendenti sprovvisti di una tutela dar fondo 
+ai propri risparmi o a quelli dei loro familiari, ricorrere all’indebitamento per poi infine cadere in 
+assistenza. L’evento pandemico ha evidenziato le faglie della sicurezza sociale degli indipendenti, 
+facendo emergere al contempo degli elementi di contenimento degli effetti a breve termine della crisi. 
+Il riferimento è alle IPG che, pur non essendo state concepite per coprire l’incapacità lavorativa degli 
+indipendenti, sono state ad essi estese in modo tale da garantire una sostituzione parziale del reddito 
+compromesso dalle chiusure forzate e dal confinamento. La questione sarà ripresa in sede di 
+conclusione.
+
+---
+
+Gli indipendenti in Svizzera 
+28/51 
+Percezione soggettiva 
+In questa sezione ci limitiamo a raccogliere informazioni elaborate da Murier (2018) nel suo lavoro 
+sugli indipendenti del 2018. Il motivo è che il modulo contente questi dati è stato realizzato l’ultima 
+volta nel 2017 e le stesse domande non sono più state riprese nella RIFOS, quindi si tratta delle ultime 
+informazioni disponibili. Si tratta naturalmente di un tema da riprendere e approfondire con un 
+approccio qualitativo in una prossima analisi.  
+In estrema sintesi, gli indipendenti si ritengono soddisfatti in proporzioni simili ai salariati della 
+propria condizione lavorativa: solo il 9,5% vorrebbe diventare salariato. A una domanda posta invece 
+ai salariati sui motivi per i quali non voglio diventare indipendenti, vengono citati l’insicurezza 
+finanziaria, i problemi d’accesso ai finanziamenti, lo stress, la troppa responsabilità e i rischi. Tra gli 
+indipendenti, le difficoltà incontrate sul lavoro sono di diversa natura: carico amministrativo 
+importante, ritardi nei pagamenti da parte dei clienti, periodi senza lavoro, reddito insufficiente per 
+vivere. 
+Questo in un anno “normale”. Nel corso del 2020, la pandemia ha svelato ben altri motivi di 
+insoddisfazione raccolti attraverso vari canali: il carico dei costi fissi a fronte di un reddito da mera 
+sopravvivenza; le lungaggini amministrative, soprattutto a partire da ottobre 2020; la difficoltà di 
+programmare il proprio futuro; l’aumento della complessità burocratico-amministrativa; la 
+consapevolezza crescente di andare verso la perdita dell’attività; le conseguenze negative sulla salute.  
+Analisi dell’impatto della pandemia sui lavoratori indipendenti  
+Evoluzione del numero di indipendenti tra il I trimestre 2019 e il III 
+trimestre 2020  
+Uno studio della Fondazione Studi e Consulenti del Lavoro in Italia ha mostrato come tra il secondo 
+e il terzo trimestre del 2020 siano andati persi un numero importante di lavoratori autonomi (gli 
+indipendenti, secondo la nostra terminologia), in particolare nella fascia di età tra i 20 e i 39 anni 
+(Fondazione Studi (2020). La crisi senza fine del lavoro autonomo; Persi nell’ultimo anno 219 mila 
+lavoratori, 
+la 
+metà 
+ha 
+tra 
+i 
+30 
+e 
+39 
+anni. 
+http://www.consulentidellavoro.it/files/PDF/2020/FS/Focus_autonomi.pdf). Nonostante si osservi 
+anche in Svizzera sul lungo periodo una diminuzione di giovani indipendenti, come descritto in 
+precedenza, non riscontriamo nei dati a nostra disposizione un “effetto Covid”, ossia un’accelerazione 
+della diminuzione di lavoratori indipendenti tra i giovani, come descritto dallo studio italiano. Questo 
+risultato potrebbe indicare che le “indennità Covid-19” per gli indipendenti hanno contributo a 
+mantenerli in attività, raggiungendo l’obiettivo di non farli fallire. Ciò nonostante, bisognerà capire 
+se questi aiuti sono stati sufficienti visto che le indennità coprono il fabbisogno (in alcuni casi 
+nemmeno quello) mentre l’attività in sé con le “spese aziendali” che genera (come per esempio, 
+l’affitto) non è coperta. Sarà importante monitorare in futuro l’evoluzione degli indipendenti, in 
+particolare quelli “in proprio”, con una copertura sociale meno estesa in caso di fallimento.
+
+---
+
+Gli indipendenti in Svizzera 
+29/51 
+Nei primi tre trimestri del 2020 non si osservano particolari diminuzioni nel numero di indipendenti 
+rispetto all’anno precedente, nemmeno se si declina il dato per fasce d’età.  
+Figura 21 Évolution des indépendants par classe d’âges et par trimestre, en Suisse 
+ 
+Source: Élaboration sur données ESPA disponibles sur le site de l’OFS.  
+Si tratta comunque di risultati parziali e provvisori che andranno ripresi più in là quando sarà possibile 
+un maggiore distacco e si potrà attingere a nuovi dati. Va però osservato che in questo frangente, le 
+associazioni di terzo settore hanno segnalato aumenti significativi delle richieste di aiuto, in 
+particolare da parte degli indipendenti, ciò che rappresenta una novità. Solo verso novembre, si sono 
+registrati aumenti di richieste d’aiuto presso gli uffici di assistenza. Gli indipendenti temporeggiano 
+e rimandano fino a esaurimento per evitare di liquidare il proprio capitale strumentale per avere il 
+diritto all’aiuto sociale. Se prima dell’evento pandemico, erano pochi gli indipendenti a fare richiesta 
+di assistenza sociale (circa 2.000 secondo la CSIAS (Document d’analyse: Pandémie du Covid 19. 
+Bilan actuel et défis à venir pour l’aide sociale. Version actualisée janvier 2021, Berne, le 7 janvier 
+2021), si prevede che il loro numero aumenterà drasticamente nel corso dei prossimi mesi e dei 
+prossimi anni.  
+ 
+Tempo effettivo di lavoro: confronto fra trimestri 2019 e 2020 
+Quali sono i settori che hanno ridotto maggiormente il tempo effettivo di lavoro durante il II e il III 
+trimestre del 2020? Quali settori, in altre parole, hanno subito maggiormente l’impatto delle chiusure 
+avvenute durante il primo “lockdown”?  
+0
+50000
+100000
+150000
+200000
+250000
+1.00 I 2019
+2.00 II 2019
+3.00 III 2019
+4.00 IV 2019
+5.00 I 2020
+6.00 II 2020
+7.00 III 2020
+15-24 ans
+25-39 ans
+40-54 ans
+55-64 ans
+65+ ans
+
+---
+
+Gli indipendenti in Svizzera 
+30/51 
+Un’analisi dell’OFS (OFS (2020). Communiqué de presse - COVID-19: la durée du travail a reculé 
+de 9,5% au 2e trimestre 2020. https://www.bfs.admin.ch/bfs/de/home.assetdetail.14447733.html) 
+mette a confronto i dati del secondo trimestre 2019 con quelli del secondo trimestre del 2020 e mostra 
+una diminuzione globale, per tutti gli attivi occupati, del 9,5% nelle ore effettive di lavoro. L’analisi, 
+mostra come a diminuire il tempo effettivo di lavoro settimanale siano soprattutto gli indipendenti e 
+le donne. Considerando tutti gli attivi occupati, la diminuzione più netta del tempo di lavoro è visibile 
+tra i lavoratori attivi nei settori “alberghiero e ristorazione” (-54,1%) e “arte, spettacolo e 
+intrattenimento” (-23%). I motivi elencati dai lavoratori sono soprattutto la disoccupazione parziale 
+e “altri motivi”, ovviamente in riferimento ai blocchi imposti dalla pandemia.  
+Figura 22 Variation de la durée hebdomadaire effective du travail par personne active occupée entre le II et le III 
+trimestre 2019 et 2020 selon le statut d’activité  
+ 
+Source: Élaboration sur la base de la banque de données ESPA.  
+Abbiamo replicato i risultati dettagliandoli unicamente per le persone che hanno indicato essere 
+indipendenti come attività principale, includendo anche un confronto tra il III trimestre 2019 e il III 
+trimestre 2020. I risultati confermano come abbiano diminuito maggiormente il tempo di lavoro gli 
+indipendenti nel II trimestre 2020 rispetto al II trimestre 2019. Un confronto tra i due anni sul III 
+trimestre mostra invece che la diminuzione del lavoro è meno importante dal 2019 al 2020, e che le 
+differenze tra salariati e indipendenti non ci sono più. Questo indica che se durante il primo 
+“lockdown”, quindi durante il II trimestre 2020, l’attività risultava fortemente rallentata rispetto a un 
+anno prima, soprattutto per gli indipendenti, durante l’estate (III trimestre) alcune attività sono riprese 
+e il tempo di lavoro risulta quindi diminuito meno rispetto al 2019. Anche qui occorre cautela, perché 
+come sappiamo a partire da ottobre la crisi pandemica si è riacutizzata. Si può forse osservare una 
+certa resilienza del lavoro indipendente, comunque nel breve termine.  
+Quali settori, tra gli indipendenti, hanno visto una diminuzione della durata del lavoro settimanale 
+più importante? Le categorie di indipendenti che hanno subito una riduzione importante della durata 
+-9.5%
+-13.2%
+-9.2%
+-2.9%
+-3.3%
+-3.2%
+-14.0%
+-12.0%
+-10.0%
+-8.0%
+-6.0%
+-4.0%
+-2.0%
+0.0%
+total
+Indépendants
+Salariés
+III
+II
+
+---
+
+Gli indipendenti in Svizzera 
+31/51 
+effettiva di lavoro settimanale tra il II trimestre 2019 e il II trimestre 2020 sono il “commercio e la 
+riparazione di auto”, “trasporti”, ”alberghiero e ristoranti”, “attività immobiliari”, “insegnamento”, 
+“arti spettacolo e intrattenimento”, “altri servizi” e “pulizie”, quest’ultima con una riduzione di quasi 
+il 70% del tempo di lavoro effettivo. Un confronto tra il 2019 e il 2020 sul III trimestre mostra che se 
+alcuni settori si sono ripresi (“alberghiero e ristorazione” e “insegnamento” passano da una 
+diminuzione a un aumento), altri restano in negativo (“commercio e riparazioni di automobili”, 
+“attività immobiliari”, “arte, spettacolo e intrattenimento” e “pulizie”) anche per il III trimestre. 
+Quest’ultimi sono quindi i settori che risentiranno maggiormente delle chiusure avvenute durante 
+l’anno e a maggior ragione con le chiusure dei primi mesi del 2021.  
+Figura 23 Variation de la durée hebdomadaire effective du travail par personne active occupée entre le II et le III 
+trimestre 2019 et 2020 selon la section économique  
+ 
+Résultats provisoires.   
+Source: Élaboration sur la base de la banque de données ESPA.  
+Se ci si interessa alle differenze tra indipendenti “in proprio” o “salariati della propria azienda” risulta 
+che quest’ultimi hanno ridotto di più rispetto agli indipendenti “in proprio”, indipendentemente dalla 
+presenza o meno di collaboratori.  
+ 
+ 
+-80.0%
+-60.0%
+-40.0%
+-20.0%
+0.0%
+20.0%
+40.0%
+T activ. des ménages en tant qu'employeurs
+R arts, spectacles et activités récréatives
+I hébergement et restauration
+H transports et entreposage
+S autres activités de services
+L activités immobilières
+P enseignement
+G commerce; réparation d'automobiles et de motocycles
+Total
+N activités de services administratifs et de soutien
+M activités spécialisées, scientifiques et techniques
+C industrie manufacturière
+Q santé humaine et action sociale
+J information et communication
+F construction
+A agriculture, sylviculture et pêche
+K activités financières et d'assurance
+III
+II
+
+---
+
+Gli indipendenti in Svizzera 
+32/51 
+ 
+Figura 24 Variation de la durée hebdomadaire effective du travail par personne active occupée entre le II et le III 
+trimestre 2019 et 2020 selon la sous-catégorie d’indépendant  
+ 
+Source: Élaboration sur la base de la banque de données ESPA.  
+ 
+A complemento di quanto scritto, occorre sottolineare che secondo un recentissimo studio basata su 
+un’inchiesta campionaria, la pandemia ha avuto un impatto negativo sulla distribuzione dei redditi, 
+colpendo in modo particolare gli indipendenti (si veda Martínez et al., 2021).  
+Gli indipendenti nell’AVS 
+Oltre alla definizione sociologica adottata nei capitoli in relazione all’analisi dei dati RIFOS, occorre 
+considerare la definizione amministrativa e legale di lavoratore indipendente in vigore nell’AVS. 
+Prima di esaminare i dati a disposizione, è utile chiarire questa definizione amministrativa e legale 
+sia per affinare la dimensione quantitativa dell’universo, sia per definire i diversi aspetti suscettibili 
+di essere eventualmente rivisti ai fini di una riforma della protezione sociale degli indipendenti.  
+L’AVS, nell’ambito della nostra sicurezza sociale, è l’istanza preposta a stabilire se l’attività che una 
+persona dichiara è effettivamente un’attività indipendente. In definitiva sono le varie casse di 
+compensazione a decidere se si può essere considerati o meno indipendenti. Sulla base di specifici 
+criteri, essa stabilisce in quali casi un'attività lucrativa è indipendente.  
+-25.0%
+-20.0%
+-15.0%
+-10.0%
+-5.0%
+0.0%
+Ind. à leur propre compte sans coll
+Ind. à leur propre compte avec coll
+SPE sans coll
+SPE avec coll
+II
+III
+
+---
+
+Gli indipendenti in Svizzera 
+33/51 
+Sono considerati indipendenti i lavoratori che  
+ 
+agiscono verso l’esterno con una propria ragione sociale:  
+sono per esempio iscritti nel registro di commercio, nell’elenco degli indirizzi e 
+nell’elenco telefonico, utilizzano carta da lettera e materiale pubblicitario propri e sono 
+autorizzati ad esercitare una professione; inoltre rilasciano fatture a proprio nome e 
+conteggiano l’imposta sul valore aggiunto. 
+ 
+assumono il proprio rischio economico:  
+concludono per esempio investimenti a lunga scadenza, finanziano essi stessi l’esercizio, 
+assumono il rischio d’incasso e pagano gli affitti dei locali in cui lavorano.  
+ 
+possono scegliere liberamente come organizzare l’azienda:  
+determinano personalmente il proprio orario di lavoro e l’organizzazione della propria 
+attività e decidono se dare lavoro a terzi; di regola, inoltre, sono liberi di scegliere i lavori 
+da svolgere ed esercitano la loro attività in locali al di fuori della loro abitazione. 
+ 
+lavorano per diversi mandanti: l’attività svolta unicamente per un mandante è normalmente 
+considerata come attività lucrativa dipendente. 
+Le persone indipendenti possono occupare salariati.  
+(Fonte: Centro d’informazione AVS/AI. 2.02: Contributi degli indipendenti all’AVS, all’AI e alle 
+IPG. Stato al 1° gennaio 2020. Disponibile in: https://www.ahv-iv.ch/p/2.02.i) 
+A complemento di quanto elencato, nella pratica, come ci è stato detto dalla titolare di una fiduciaria, 
+si parla di “più clienti, di cui nessuno preponderante” come uno dei criteri determinanti per poter 
+essere considerato indipendente.  
+Se la Cassa di compensazione non concede lo statuto di indipendente, un’alternativa è la creazione di 
+una SAGL oppure una SA, ossia una persona giuridica. Come abbiamo visto in precedenza, negli 
+anni a partire dal 2000, e in particolare dopo la crisi del 2008 sull’onda delle ristrutturazioni in ambito 
+finanziario, si è assistito ad un aumento della forma SAGL a fronte di una diminuzione delle ditte 
+individuali, confrontate probabilmente con frequenti difficoltà a farsi riconoscere come indipendenti.  
+Dato questo primo quadro normativo generale, è opportuno entrare più precisamente nel merito della 
+questione legislativa.   
+Classificazione degli indipendenti 
+L’AVS conosce tre tipologie di assicurati che devono pagare i contributi: 
+ i dipendenti (salariati e salariati il cui datori di lavoro non è soggetto all’obbligo contributivo, 
+cosiddetti PSDL; 
+ gli indipendenti; 
+ le persone senza attività lucrativa.
+
+---
+
+Gli indipendenti in Svizzera 
+34/51 
+Gli articoli 8 e 9 LAVS disciplinano l’obbligo contributivo degli assicurati che esercitano un’attività 
+lucrativa indipendente. La normativa di applicazione la troviamo negli articoli 17 e seguenti 
+dell’OAVS, nella giurisprudenza e nelle direttive federali, in particolare nelle: 
+ direttive sul salario determinante nell’AVS/AI e nelle IPG (DSD) - stato: 1° gennaio 2021; 
+ direttive sui contributi dei lavoratori indipendenti e delle persone senza attività lucrativa 
+nell’AVS/AI e nelle IPG (DIN) - stato 1° gennaio 2021. 
+Regola generale 
+Sono considerati lavoratori indipendenti coloro che conseguono un reddito proveniente da un’attività 
+lucrativa indipendente giusta l’art. 9 cpv. 1 LAVS. 
+Con reddito da attività lucrativa indipendente s’intende ogni reddito del lavoro che non sia 
+retribuzione di un lavoro svolto in situazione dipendente (art. 9 cpv. 1 LAVS). L’esistenza di 
+un’attività lucrativa indipendente non è tuttavia presunta. Ciò che si deve intendere per situazione 
+dipendente e indipendente è definito nelle DSD. Esercita un’attività lucrativa indipendente chi 
+sopporta il rischio economico e ha il diritto di prendere disposizioni relative all’andamento 
+dell’impresa. 
+L’impostazione legislativa attuale (presunzione del lavoro dipendente, quindi salariato, a meno che 
+non si dimostri il contrario) costringe nel riportare gli indipendenti nell’alveo dei dipendenti e non 
+consente di affrontare in modo appropriato la caratteristica strutturale del fenomeno degli 
+indipendenti, che non dev’essere considerata un’anomalia, al contrario di quanto tendenzialmente 
+impone di fare la normativa attuale. La strutturalità del fenomeno è data dalle trasformazioni 
+dell’organizzazione aziendale e dei modi di produrre che spingono verso una crescente 
+esternalizzazione di segmenti di forza lavoro per alleggerire il costo del lavoro, come pure dai 
+processi di digitalizzazione che favoriscono la nascita e la diffusione di forme di lavoro “agile” 
+(Smartwork) che predispongono a modalità di lavoro indipendente e ubique. Come risulta dalla 
+categorizzazione delle professioni indipendenti ai sensi della normativa che riproduciamo in allegato, 
+l’aggiornamento continuo delle nuove professioni indipendenti richiede uno sforzo costante e 
+infinito, tale da lasciare zone grigie e categorie non contemplate.  
+Contributi AVS/AI/IPG sul reddito di un’attività lucrativa indipendente 
+La fissazione dei contributi dovuti dagli indipendenti si basa sul concetto di reddito determinante4. 
+Questo aspetto interessa la modalità di finanziamento contributivo dell’AVS. Come si vedrà in 
+seguito, anche il calcolo delle IPG, quindi delle prestazioni per gli indipendenti, si basa sul reddito 
+                                                        
+4 In generale e semplificando, per la fissazione dei contributi è determinante il reddito secondo il risultato dell’esercizio 
+commerciale chiuso nell’anno di contribuzione. I redditi comunicati dalle autorità fiscali vanno considerati come redditi 
+netti da cui sono già stati dedotti anche i contributi AVS/AI/IPG. Le casse di compensazione aggiungono di nuovo i 
+contributi AVS/AI/IPG al reddito comunicato e deducono l’interesse del capitale proprio investito nell'azienda nonché 
+dell’eventuale franchigia per i beneficiari di rendite.
+
+---
+
+Gli indipendenti in Svizzera 
+35/51 
+determinante, con delle implicazioni penalizzanti, quali ad esempio la diminuzione del reddito da 
+sostituire con le IPG in conseguenza della deduzione delle spese fisse.   
+Le disposizioni di legge interessate sono gli articoli 8, 9 e 9bis LAVS e gli articoli da 17 a 27 OAVS. 
+La LAI e la LIPG rinviano alla LAVS. 
+A queste si aggiungono le varie direttive federali, in particolare le Direttive sui contributi dei 
+lavoratori indipendenti e delle persone senza attività lucrativa nell’AVS/AI e nelle IPG (DIN) e le 
+Direttive sul salario determinante nell’AVS/AI e nelle IPG (DSD).  
+Art. 8 LAVS Contributi sul reddito di un’attività lucrativa indipendente 1. Regola 
+1 Dal reddito di un’attività lucrativa indipendente è prelevato un contributo dell’8,1 per cento. Per il 
+calcolo del contributo il reddito è arrotondato al multiplo di 100 franchi immediatamente inferiore. 
+Se il reddito è inferiore a 57400 franchi, ma è almeno di 9600 franchi l’anno, il tasso del contributo 
+è ridotto fino al 4,35 per cento secondo una tavola scalare stabilita dal Consiglio federale. 
+2 Se il reddito annuo di un’attività lucrativa indipendente è uguale o inferiore a 9500 franchi, 
+l’assicurato deve pagare il contributo minimo di 413 franchi l’anno, salvo che tale importo sia già 
+stato pagato sul suo salario determinante. In questo caso l’assicurato può chiedere che il contributo 
+sul reddito dell’attività lucrativa indipendente sia riscosso al tasso più basso della tavola scalare. 
+Art. 9 2. Nozione e determinazione 
+1 Il reddito proveniente da un’attività lucrativa indipendente comprende qualsiasi reddito che non 
+sia mercede per lavoro a dipendenza d’altri. 
+2 Il reddito proveniente da un’attività lucrativa indipendente è stabilito deducendo dal reddito lordo: 
+a. le spese generali necessarie per conseguire il reddito lordo; 
+b. gli ammortamenti e le riserve di aziende commerciali consentiti dall’uso commerciale e 
+corrispondenti alle svalutazioni subite; 
+c. le perdite commerciali subite e allibrate; 
+d. le elargizioni fatte dal titolare dell’azienda, nel periodo di computo, a istituzioni previdenziali a 
+favore del proprio personale, purché sia escluso che possano servire ad altro uso, nonché le 
+elargizioni fatte esclusivamente a scopo di utilità pubblica; 
+e. i versamenti personali fatti a istituzioni di previdenza, per quanto equivalgano alla quota 
+generalmente assunta dal datore di lavoro; 
+f. l’interesse del capitale proprio impegnato nell’azienda; il tasso d’interesse corrisponde al 
+rendimento medio annuo dei prestiti in franchi svizzeri dei debitori svizzeri che non sono enti 
+pubblici. 
+Il Consiglio federale può accordare, all’occorrenza, altre deduzioni dal reddito lordo proveniente 
+da un’attività lucrativa indipendente. 
+3 Il reddito proveniente da un’attività lucrativa indipendente e il capitale proprio impegnato 
+nell’azienda sono accertati dalle autorità fiscali cantonali e comunicati alle casse di 
+compensazione.  
+4 … 
+ 
+Dal reddito lordo devono essere dedotte le spese e quanto contemplato dal cpv. 2 dell’art. 9 LAVS.
+
+---
+
+Gli indipendenti in Svizzera 
+36/51 
+Il reddito netto è fissato conformemente all’art. 9 cpv. 1 e 2 LAVS e determina il calcolo dei contributi 
+sul reddito da attività lucrativa indipendente.  
+Questo reddito può risultare dall’esercizio di un’attività sia principale sia accessoria.  
+Le casse di compensazione AVS si avvalgono della collaborazione delle Autorità fiscali cantonali 
+che inviano loro i dati (la procedura è automatizzata). 
+Le disposizioni in materia d’imposta federale diretta sono applicabili per distinguere e determinare le 
+deduzioni conformemente all’art. 9 cpv. 2 lett. a–e LAVS (art. 18 cpv. 1 OAVS).  
+Le casse di compensazione fissano i contributi d’acconto che sono dei contributi provvisori basati sui 
+redditi stimati per l’anno contributivo corrente. Le persone indipendenti devono trasmettere alla loro 
+cassa di compensazione i documenti necessari alla determinazione dei contributi d’acconto e devono 
+informarla di qualsiasi variazione rilevante del reddito. Una persona indipendente che al momento 
+della chiusura dell’esercizio constata che i contributi d’acconto sono troppo bassi, deve informarne 
+la sua cassa di compensazione. Chi omette di informarla, rischia di dover pagare degli interessi di 
+mora. 
+I contributi definitivi sono solitamente fissati sulla base della tassazione fiscale (art. 23 OAVS). Le 
+casse di compensazione calcolano la differenza tra i contributi d’acconto versati e i contributi 
+definitivi. Se gli acconti versati sono superiori ai contributi definitivi, la cassa di compensazione 
+rimborsa la differenza. Se gli acconti versati sono inferiori ai contributi definitivi, la cassa di 
+compensazione fattura la differenza. Al reddito netto secondo la tassazione fiscale vengono aggiunti 
+i contributi personali AVS, AI e IPG. 
+ 
+Redditi di poco conto 
+Per i salariati, se il salario determinante non supera 2300 franchi per anno civile e per datore di lavoro, 
+il contributo è percepito soltanto a richiesta dell’assicurato salariato.  
+I contributi devono essere versati in ogni caso: 
+ sul salario determinante delle persone impiegate nelle economie domestiche; sono eccettuati, 
+salvo se gli assicurati esigono il versamento dei contributi, i salari: 
+o conseguiti fino al 31 dicembre dell’anno in cui esse compiono il 25° anno d’età, e 
+o non superiori a 750 franchi per datore di lavoro e per anno civile; 
+ sul salario determinante delle persone impiegate da produttori di danza e di teatro, orchestre, 
+produttori di supporti audio o audiovisivi ed emittenti radiofoniche o televisive nonché da 
+scuole del settore artistico.  
+ 
+Questa disposizione interessa, fra gli altri, i lavoratori della gig economy.
+
+---
+
+Gli indipendenti in Svizzera 
+37/51 
+Interessante notare la tutela introdotta con la modifica dell’ordinanza in vigore dal 2015 per il settore 
+artistico, al fine di evitare lacune contributive. 
+L’art. 19 OAVS prevede una regola analoga limitatamente ai redditi di poco conto provenienti da 
+attività indipendenti esercitate a titolo accessorio.  
+Titolari di Sagl 
+La presunzione a favore dell’attività salariata, spinge molte persone a creare soprattutto una Sagl. In 
+questo modo i titolari della propria piccola società, in particolare Sagl, alimentano pure il fenomeno 
+degli indipendenti, benché considerati legalmente dei dipendenti.  
+La società a garanzia limitata è una forma mista tra società anonima e società in nome collettivo. In 
+Svizzera ci sarebbero oltre 207'000 Sagl5. Esse rappresentano una realtà importante nel panorama 
+imprenditoriale svizzero. 
+I titolari della propria società a garanzia limitata sono considerati dei dipendenti e salariati della 
+propria società. 
+I gerenti di una Sagl, perché hanno una posizione analoga a quella di un datore di lavoro, non hanno 
+però diritto, in virtù dell’art. 31 cpv. 3 lett. c LADI, alle indennità per lavoro ridotto (IRL); la 
+limitazione si applica ugualmente ai coniugi che lavorano per la Sagl. 
+Come i lavoratori indipendenti, non rientrano quindi nel campo di applicazione personale della LADI 
+in particolare limitatamente all’IRL. 
+Giurisprudenza TCA6 
+Le sentenze pubblicate relative all’attività indipendente sono diverse. In Ticino sono 179. 
+Interessante e premonitore notare che quelle relative al tema che ci interessa, l’affiliazione come 
+indipendente, sono poche. Medesima cosa in merito a quelle pubblicate e commentate dall’UFAS. 
+Due recenti sentenze del TCA in materia sono: 
+ sentenza TCA del 12 ottobre 2018 che conferma la qualifica dipendente di un broker 
+assicurativo7; 
+                                                        
+5 Si veda Portale PMI per piccole e medie imprese: https://www.kmu.admin.ch/kmu/it/home/consigli-
+pratici/costituire-una-pmi/costituzione-d-impresa/scegliere-una-forma-giuridica/sagl.html 
+6 www.sentenze.ti.ch 
+7 L'agente e il rappresentante di commercio esercitano un’attività lucrativa indipendente se sopportano un vero e 
+proprio rischio imprenditoriale, vale a dire se dispongono di una propria organizzazione di vendita. 
+Secondo la prassi amministrativa questo si verifica quando le tre condizioni seguenti sono soddisfatte 
+contemporaneamente: l'agente o il rappresentante di commercio utilizza locali commerciali propri o in affitto (non 
+sono considerati locali commerciali quelli adibiti ad abitazione), occupa del personale (non sono considerati
+
+---
+
+Gli indipendenti in Svizzera 
+38/51 
+ sentenza del TCA del 17 luglio 2017 che conferma la qualifica di dipendente di un levabolli 
+che lavorava per una società specializzata in tale ramo. 
+ 
+Indipendenti AVS e redditi  
+ 
+L’UFAS, autorità federale di vigilanza, e la Centrale di compensazione di Ginevra (UCC), raccolgono 
+i dati degli assicurati necessari all’esecuzione del loro mandato. Per gli indipendenti, i tempi di 
+raccolta e plausibilizzazione dei dati sono relativamente lunghi e per questa ragione al momento gli 
+ultimi dati disponibili risalgono al 2015. Tuttavia, nell’ambito di questa analisi lo scopo è di 
+descrivere l’universo degli indipendenti a partire dai dati disponibili. I dati AVS hanno l’indubbio 
+vantaggio di essere aderenti al mandato e ai criteri di definizione e come tali di offrire la possibilità 
+di analisi quantitative più fini, in particolare rispetto a variabili come il reddito.  
+Nel 2015, gli indipendenti rilevati dall’AVS secondo i propri criteri erano 350 mila, di cui 50 mila 
+agricoltori, tutti compresi tra i 18 e i 63/64 anni. Sulla base della medesima fascia d’età, risulta che il 
+numero di indipendenti in proprio AVS e RIFOS coincidono.  
+Figura 25 Indépendants selon AVS (2015) et indépendants selon ESPA (2013-2015) 
+ 
+Source: OFAS, élaborations internes mises à disposition  
+ 
+                                                        
+personale la moglie e gli altri membri della famiglia che non ricevono un salario) e sopporta la maggior parte delle 
+spese di esercizio. 
+ 
+0
+10'000
+20'000
+30'000
+40'000
+50'000
+60'000
+70'000
+80'000
+90'000
+100'000
+18-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+Anzahl Selbstständige
+Alterskategorie
+Selbstständige inkl. Angestellte im eigenen Betrieb (BFS)
+Selbstständige (BFS)
+Selbstständige in AHV-IK (ZAS, BSV)
+
+---
+
+Gli indipendenti in Svizzera 
+39/51 
+La distribuzione dei redditi della popolazione indipendente, così precisamente enumerata, è 
+rappresentata nel seguente grafico.  
+Figura 26 Répartition des revenus de la population indépendante âgée de 18 à 63/64 ans dans les comptes individuels de 
+l’AVS, en 2015 
+ 
+Source: OFAS sur la base des comptes individuelles de l’AVS, élaborations mises à disposition 
+Si osserva che la percentuale maggiore di indipendenti si concentra nella fascia di reddito tra 10.000 
+e 90.000 franchi, con una differenza fra uomini e donne relativamente marcata: più donne che versano 
+il contributo minimo al quale corrisponde un reddito (figurativo) di 9.333 franchi e meno donne che 
+guadagnano dai 90.000 franchi in su.   
+Questa distribuzione dei redditi situa la maggioranza degli indipendenti nella classe media, benché 
+allo stato attuale non è possibile avere un’idea più precisa all’interno di queste grandi classi.  
+Dai dati Rifos aggiornati al 2019, come visto sopra, è comunque possibile affermare che gli 
+indipendenti salariati della propria azienda hanno generalmente dei redditi più elevati. Più della metà 
+di loro, il 53%, guadagna 78.000.- CHF annui lordi o più, mentre hanno un salario elevato meno di 
+un terzo, ossia il 28.8%, degli indipendenti in proprio.  
+In conclusione di questa disamina, una questione resta in sospeso: cosa ne è di una persona che si 
+vede rifiutato lo statuto di indipendente da parte della cassa di compensazione? Benché casi simili 
+siano relativamente poco frequenti (si parla di circa il 5%), le casse di compensazione agiscono 
+sempre con la dovuta attenzione e in modo pragmatico, certamente escludendo coloro che, anche 
+20.7%
+34.2%
+14.4%
+27.6%
+2.6%
+3.3%
+0.9%
+1.9%
+52.5%
+54.4%
+70.7%
+67.6%
+24.2%
+8.1%
+13.9%
+3.0%
+0.0%
+10.0%
+20.0%
+30.0%
+40.0%
+50.0%
+60.0%
+70.0%
+80.0%
+90.0%
+100.0%
+Männer
+Frauen
+Männer
+Frauen
+Selbstständige
+Selbstständige Landwirte
+G3: Einkommensverteilung der Selbstständigen (18-63/64 Jahre) nach 
+Beitragsart, 2015
+Mindest-IK
+(9333 Fr.)
+< 10'000 Fr.
+10'000 - 90'000
+> 90'000
+Quelle: Individuelle Konten (IK) der AHV, BSV-ZAS
+
+---
+
+Gli indipendenti in Svizzera 
+40/51 
+dopo vari avvisi e richiami continuano ad operare per un solo committente o coloro che di propria 
+iniziativa rinunciano alla richiesta di affiliazione o semplicemente non inoltrano la documentazione. 
+Per pochi che siano, coloro che si vedono rifiutato lo statuto di indipendente, vengono a determinarsi 
+dei problemi seri per quanto riguarda il calcolo dei contributi sociali sul salario conseguito, sia da 
+parte loro sia soprattutto dagli ex committenti ora datori di lavoro. Si tratta di un ulteriore esempio di 
+un conflitto fra dimensione strutturale del fenomeno indipendenti e dimensione normativa.  
+IPG e covid-19 
+A seguito delle conseguenze della pandemia, sulla base della nuova legge COVID-19 approvata dal 
+Parlamento federale, il Consiglio federale ha prolungato e ampliato il diritto all’indennità di perdita 
+di guadagno per il coronavirus.  
+In particolare le seguenti persone, la cui attività lucrativa subisce una limitazione a causa di 
+provvedimenti adottati per far fronte all’epidemia di COVID-19, hanno diritto all’indennità corona 
+in virtù dell’ordinanza COVID-19 perdita di guadagno (stato 20 gennaio 2021)8:  
+ gli indipendenti, le persone in posizione assimilabile a quella di un datore di lavoro nonché i 
+rispettivi coniugi e i partner registrati che lavorano nell’azienda la cui struttura deve chiudere 
+in seguito a provvedimenti cantonali o federali; 
+ gli indipendenti, le persone in posizione assimilabile a quella di un datore di lavoro nonché i 
+rispettivi coniugi e i partner registrati che lavorano nell’azienda la cui manifestazione è stata 
+annullata, non è stata autorizzata da un’autorità cantonale o che non può aver luogo a causa 
+di provvedimenti federali; 
+ gli indipendenti, le persone in posizione assimilabile a quella di un datore di lavoro nonché i 
+rispettivi coniugi e i partner registrati che lavorano nell’azienda che, in seguito a 
+provvedimenti per combattere il coronavirus, devono limitare considerevolmente la propria 
+attività lucrativa e che nel 2019 hanno conseguito un reddito da lavoro soggetto all’AVS di 
+almeno 10 000 franchi.  
+In un primo tempo l’Ordinanza COVID-19 assicurazione contro la disoccupazione (versione del 20 
+marzo 2020), in deroga alla LADI, ha esteso il diritto all’IRL pure alle persone in posizione 
+assimilabile a quella di un datore di lavoro. Successivamente, tra l’altro con effetto retroattivo, 
+l’Ordinanza COVID-19 indennità perdita di guadagno ha conferito loro a determinate condizioni il 
+diritto all’IPG Corona. L’indennità di perdita di guadagno ha così sostituito l’indennità per lavoro 
+ridotto. Pertanto la legislazione svizzera in materia Covid 19 ha esteso il diritto dell’IPG Corona, in 
+tempo di pandemia, pure alle persone assimilabili a quelle di un datore di lavoro (titolari di Sagl e 
+SA) in virtù dell’art. 2 cpv. 3, 3 bis, 3 ter, 3 quinquies dell’Ordinanza Covid-19. Interessante notare, 
+come già sottolineato in precedenza, che da salariato, con posizione assimilabile a quella di datore di 
+lavoro, sono diventati salariati, con posizione assimilabile a quella di un indipendente, per quanto 
+                                                        
+8 Tra queste persone, assumono una rilevanza emblematica i lavoratori e le lavoratrici dello spettacolo, ai quali, con 
+effetto retroattivo al 1° novembre 2020, sono state estese le IPG.
+
+---
+
+Gli indipendenti in Svizzera 
+41/51 
+riguarda l’erogazione della prestazione. Ciò potrebbe costituire un precedente interessante di cui 
+tenere conto qualora si volesse estendere la tutela del reddito ai lavoratori salariati intermittenti, oggi 
+protetti solo grazie ad una riduzione del periodo quadro per il diritto alle indennità di disoccupazione.  
+Fermo restando che la pronta reazione nell’implementare ammortizzatori sociali da parte del 
+Consiglio federale ha permesso di evitare il crollo reddituale e occupazionale per un numero elevato 
+di lavoratori e lavoratrici, è opportuno entrare nel merito delle modalità di calcolo e delle somme 
+erogate durante la crisi pandemica.     
+Sistema di calcolo 
+ 
+Le basi legali per la determinazione delle IPG Corona sono: 
+ 
+Legge federale sulle basi legali delle ordinanze del Consiglio federale volte a far fronte all’epidemia 
+di COVID-19, detta Legge COVID-19 del 25 settembre 2020, stato 19 dicembre 2020 (RS 818.102); 
+si richiama l’art. 11; 
+ 
+Ordinanza sui provvedimenti in caso di perdita di guadagno in relazione con il coronavirus (COVID-
+19), detta Ordinanza COVID-19 perdita di guadagno del 20 marzo 2020, stato 20 gennaio 2021 (RS 
+830.31). 
+Le indennità perdita di guadagno corona sono determinate nella medesima maniera delle IPG per 
+servizio militare, protezione civile, maternità e paternità (LIPG). Pertanto, ci si riferisce pure alle 
+Direttive sull’ordinamento delle indennità di perdita di guadagno per le persone che prestano servizio, 
+in caso di maternità e paternità (DIPG). 
+L’indennità per i lavoratori indipendenti è calcolata in base al reddito, convertito in guadagno 
+giornaliero, preso in considerazione per fissare l’ultimo contributo AVS prima del diritto all’indennità 
+(vedi sotto la determinazione del reddito netto per gli indipendenti sul quale si pagano i contributi 
+AVS). 
+Per determinare il reddito giornaliero medio bisogna dividere il reddito annuale per 360. 
+Alle persone assimilabili ad un datore di lavoro l’indennità è calcolata sulla base dell’ultimo salario 
+indicativo percepito prima dell’inizio del diritto all’indennità, convertito in salario giornaliero medio.  
+Per gli indipendenti l’indennità giornaliera ammonta all’80 per cento del reddito soggetto all’AVS su 
+cui sono prelevati i contributi d’acconto per il 2019, ma al massimo a 196 franchi al giorno. L’importo 
+massimo è raggiunto con un reddito soggetto all’AVS di 88 200 (88 200 x 0,8 / 360 giorni = 196 
+franchi al giorno).  
+Se i contributi d’acconto sono bassi oppure non sono stati aggiornati (ciò che accade spesso) al fine 
+di pagare acconti inferiori, l’indipendente è penalizzato.
+
+---
+
+Gli indipendenti in Svizzera 
+42/51 
+Nel caso delle persone assimilabili ad un datore di lavoro l’indennità corrisponde all’80 per cento 
+della perdita di salario attestata nel mese da indennizzare in rapporto al reddito soggetto all’AVS del 
+2019, ma al massimo a 196 franchi giornalieri. L’importo massimo dell’indennità giornaliera è di 196 
+franchi, ciò che corrisponde a una perdita di salario di 7 350 franchi mensili (7 350 x 0,8 / 30 giorni 
+= 196 franchi/giorno). 
+Esempi di calcolo9  
+Alcuni esempi possono chiarire la natura del calcolo delle indennità IPG Corona.  
+A seguito delle misure cantonali l’esibizione al LAC di un musicista indipendente è stata annullata. 
+Per il calcolo della sua indennità è determinante il reddito annuale considerato dall’ultima decisione 
+di fissazione dei contributi AVS, dell’anno precedente il diritto, ricalcolato in giorni. Il reddito annuo 
+è moltiplicato per 0.8 e diviso per 360 giorni. Nel caso specifico il reddito annuo determinante è di 
+45 000 franchi, che conferisce il diritto a un’indennità giornaliera di 100 franchi (45 000 x 0.8 / 360 
+giorni = 100 franchi/giorno).  
+Un socio di una SAGL, in seguito a provvedimenti per combattere il coronavirus, deve limitare 
+considerevolmente la propria attività lucrativa. La cifra d’affari nel mese per il quale presenta 
+richiesta è stata inferiore del 60 per cento rispetto alla cifra d’affari media degli anni 2015–2019. Per 
+il calcolo della sua indennità è determinante la perdita di guadagno convertita in reddito giornaliero 
+rispetto al salario mensile medio nel 2019. La perdita di guadagno è quindi moltiplicata per 0,8 e 
+divisa per 30 giorni. In questo caso la perdita di guadagno ammonta a 3000 franchi, il che corrisponde 
+a un’indennità di 80 franchi al giorno (3000 x 0,8 / 30 giorni = 80 CHF al giorno).  
+Le IPG Corona erogate al 29 novembre 2020 
+ 
+La tabella che segue riassume in forma aggregata i dati fin qui disponibili relativi all’erogazione di 
+IPG Corona agli indipendenti ai sensi dell’AVS per tipologia di prestazione, ovvero casi di rigore, 
+chiusure forzate e divieto di eventi. Al momento non è possibile utilizzare i dati individuali, perché 
+non ancora accessibili. I dati disponibili, benché aggregati, permettono di avere una visione d’insieme 
+dei casi e delle somme erogate. Come si vede nella tabella, al 29 novembre 2020 gli indipendenti ai 
+sensi dell’AVS beneficiari di prestazioni corona per casi di rigore erano 52 mila, ossia un terzo degli 
+aventi diritto (ossia coloro il cui reddito si situa tra 10 e 90 mila franchi). Complessivamente hanno 
+beneficiato di 800 mln. I casi di indennità per chiusura forzata erano 65 mila per un ammontare 
+complessivo di 1 mld. I casi che hanno beneficiato delle erogazioni per divieto di organizzare eventi 
+erano 10 mila per un ammontare complessivo di 108 mln.  
+                                                        
+9 Centro d’informazione AVS/AI, Contributi degli indipendenti all’AVS, all’AI e alle IPG, stato al 1° gennaio 2021. Opuscolo 
+informativo pubblicato dal Centro d’informazione AVS/AI in collaborazione con l’Ufficio federale delle assicurazioni 
+sociali. Disponibile su www.avs-ai.ch.
+
+---
+
+Gli indipendenti in Svizzera 
+43/51 
+Complessivamente, le somme erogate sono cospicue (1,9 mld), ciò che conferma indirettamente 
+l’importanza del fenomeno indipendenti. A maggior ragione se si pensa che queste somme stanno 
+crescendo e sono destinate a crescere ulteriormente. Tenuto conto della natura delle IPG corona e del 
+suo sistema di calcolo, ossia una copertura parziale di un mancato guadagno, siamo indotti a riflettere 
+sulle somme mediamente erogate per singolo caso che si aggirano attorno agli 8 e 10 mila franchi. Si 
+tratta indubbiamente di un sostegno che permette di colmare una lacuna di reddito, ma non di 
+sostenere anche l’attività soggiacente che permette di generare quel reddito. Se protratte nel tempo, è 
+lecito prevedere, a fronte di un aumento significativo delle somme complessivamente erogate, alla 
+scomparsa di un numero non indifferente di attività indipendenti con effetti economici ben maggiori 
+delle somme erogate.  
+Tabella 2 Prestations corona en faveur des indépendants, état 29 novembre 2020  
+ 
+ 
+Source: OFAS, élaborations internes mises à disposition  
+A queste somme, si aggiungono 130 mln erogati per altre tipologie di prestazioni, tra cui 32 mln di 
+indennità ai dipendenti in posizione analoga a quella di un datore di lavoro (Entschädigung an 
+Arbeitnehmer in Arbeitgeber ähnlicher Stellung).  
+Tabella 3 Indennità corona erogate secondo la tipologia in mln, stato al 20 novembre 2020 
+Entschädigung AN in AG ähnlicher Stellung: 32 
+Entschädigung Kinderbetreuung Arbeitnehmer: 34 
+Entschädigung Kinderbetreuung SE: 7,2 
+Entschädigung Quarantäne Arbeitnehmer: 46,8 
+Entschädigung Quarantäne SE: 1,4  
+Entschädigung Zwangsschliessung SE: 1000 
+Entschädigung für SE Veranstaltungsverbot: 108  
+Entschädigung Härtefälle SE: 800  
+Entschädigung Kinderbetreuung Intensivpflege/Sonderschule-AN: 0,3 
+Entschädigung Kinderbetreuung Intensivpflege/Sonderschule-SE: 0,04 
+ 
+Source: OFAS, élaborations internes sur la base des données des caisses de compensation.  
+Considerazione generale 
+Il reddito netto, determinato dalle casse di compensazione AVS sulla base delle informazioni fiscali, 
+rappresenta quindi la base per fissare e prelevare i contributi AVS/AI/IPG degli indipendenti. 
+Rappresenta pure la base per determinare l’indennità di perdita di guadagno giornaliera (servizio 
+militare, civile, maternità, paternità, covid-19) che spetta loro.
+
+---
+
+Gli indipendenti in Svizzera 
+44/51 
+L’IPG Corona dal 17 settembre è calcolata sulla base d’acconto 2019. Fino al 16 settembre le casse 
+consideravano il reddito considerato nell’ultima decisione di fissazione dei contributi cresciuta in 
+giudicato. 
+Ad esempio gli ammortamenti (per furgoncino, strumenti di lavoro, materiale, ecc.) sono dedotti dal 
+reddito lordo conseguito dall’indipendente (art. 9 cpv. 2 lett. b). Il reddito determinante per il calcolo 
+dell’IPG non li considera quindi. Le spese di varia natura necessarie a conseguire il reddito non sono 
+considerate. Il medesimo concetto, quello di reddito netto, è utilizzato per fissare i contributi 
+AVS/AI/IPG e per determinare le prestazioni IPG. L’indennità è inferiore rispetto a quella percepita 
+dal salariato a parità di reddito lordo. L’IPG Corona applica i medesimi criteri validi per le altre IPG; 
+ciò rappresenta un vantaggio notevole in termini amministrativi e di rapidità nell’erogazione della 
+prestazione. Gli indipendenti, in quanto titolari di un’impresa, come pure le SAGL, possono 
+beneficiare dei provvedimenti per le imprese decise dal Consiglio federale in virtù della legge covid-
+19 e relative agli aiuti in caso di rigore e al sostegno alle imprese.  
+L’IPG Corona, come le altre è una prestazione assicurativa. Ricevo in funzione di quanto ho pagato. 
+È uguale all’IPG maternità ad esempio. Le considerazioni fatte si possono applicare ad una mamma 
+indipendente? 
+È chiaro che se a seguito delle diverse spese il reddito netto dell’indipendente si riduce di molto, la 
+conseguenza è che pagherà poco di AVS e che sarà penalizzato nel caso dovesse chiedere delle 
+prestazioni determinate in funzione del suo reddito netto, come pure al momento del calcolo della 
+rendita AVS, con il rischio di dover chiedere le prestazioni complementari. 
+All’imprenditore di sé con poco “reddito netto” (piccoli artigiani, artisti, nuove figure a seguito della 
+rivoluzione digitale come i lavoratori delle piattaforme, crowdworkers, lavoratori della gig economy, 
+freelance, ecc.), confrontato con la situazione emergenziale dovuta alla pandemia, è opportuno e 
+corretto applicare in misura preponderante il principio assicurativo? Bisogna andare oltre ed applicare 
+in misura maggiore il principio di solidarietà introducendo anche dei minimi e non solo dei massimali 
+(196 franchi giornalieri) o delle prestazioni supplementari di sostegno? 
+In che misura occorre estendere i diritti degli indipendenti, evitando di ostinarsi a riportarli nell’alveo 
+dei dipendenti?  
+Si tratta di interrogativi che nascono dalla dimensione sistemica delle trasformazioni del mondo del 
+lavoro di cui il fenomeno degli indipendenti rappresenta la tendenza generale. Interrogativi, va da sé, 
+ai quali solo il legislatore può dare risposte funzionali.   
+Allo stato attuale della ricerca e dei dati disponibili, è possibile dare una descrizione sintetica di 
+quanto erogato. Lo abbiamo fatto sopra sulla base dei dati aggregati e aggiornati al 29 novembre 2020 
+forniti dall’UFAS.
+
+---
+
+Gli indipendenti in Svizzera 
+45/51 
+Conclusione  
+Questo rapporto in primo luogo ha voluto dare una rappresentazione del pluriverso degli indipendenti 
+sulla base di studi e di dati statistici esistenti, uno stato dell’arte della ricognizione di un fenomeno in 
+divenire. Già a questo livello di indagine del mondo degli indipendenti, è possibile sostenere la 
+strutturalità del fenomeno che riflette una più ampia trasformazione del lavoro, della sua natura e 
+delle sue caratteristiche occupazionali, organizzative e contrattuali.  
+Si tratta di una realtà composita, differenziata al suo interno, e soprattutto iscritta dentro processi di 
+innovazione tecnologica, come in particolare la digitalizzazione che ne rendono complessa la 
+rappresentazione statistica. Al di là della definizione sulla base di criteri normativi, sociologici e 
+amministrativi, il lavoro indipendente prefigura il futuro di una parte importante del lavoro, e del 
+lavoro dipendente stesso, se è vero che l’economia digitale, delle piattaforme e la gig economy, stanno 
+rapidamente assurgendo a paradigma dei nuovi modi di lavorare. In questo risiede la sua dimensione 
+strutturale. Una strutturalità che si conferma a più livelli: statistico-quantitativo, se il fenomeno viene 
+misurato, come si conviene, per fasce d’età e non solo in modo aggregato; sociale e antropologico, 
+se è vero che in questo universo differenziato e policentrico, maturano forme di vita più inclini a 
+sperimentazioni e innovazioni esistenziali e professionali; assicurativo, se è vero che quello degli 
+indipendenti è un vettore di possibile riforma della sicurezza sociale capace di includere, 
+rappresentandole, alcune delle tendenze più avanzate del mondo del lavoro.  
+La crisi pandemica ha svelato l’esistenza del fenomeno indipendenti sia sotto il profilo soggettivo sia 
+sotto quello socio-economico. Ha rivelato altresì i limiti dell’interpretazione della realtà del lavoro 
+indipendente da parte del sistema di sicurezza sociale che, se è intervenuto prontamente con misure 
+a sostegno del reddito, non ha per contro preso in considerazione l’attività soggiacente il reddito degli 
+indipendenti. Le IPG attivate a partire dalla crisi pandemica, sono infatti un’indennità per perdita di 
+guadagno ma non per perdita di attività. Una lacuna, un’aporia, nella concezione stessa della 
+copertura del rischio che andrebbe ridefinita alla luce del cambiamento della natura stessa del rischio: 
+non più rischio individuale, rapportabile a una perdita di guadagno imputabile a una disfunzione del 
+mercato, ma rischio collettivo, di società, che trascende la responsabilità individuale e la capacità del 
+singolo di farvi fronte. Se non si ripensa questa tutela assicurativa, il rischio concreto è che le ingenti 
+e crescenti somme erogate per far fronte agli effetti della crisi pandemica, vengono vanificati dalla 
+insostenibilità e dalla conseguente scomparsa di molte attività di indipendenti. Il punto sembra essere 
+questo: se si sostiene il reddito senza sostenere l’attività che lo genera, tale attività è destinata a 
+scomparire. A maggior ragione, se le tempistiche burocratiche per la determinazione del diritto di 
+accesso alle IPG si rivelano lunghe e farraginose. Sarebbe bene se ci si ispirasse al principio secondo 
+cui, parafrasando Marx, l’uomo è tutto e il tempo è niente.
+
+---
+
+Gli indipendenti in Svizzera 
+46/51 
+Riferimenti bibliografici  
+Bauer, Ann Barbara (2020). “Les indépendants et l’AVS”. Sécurité sociale CHSS. 1/2020, pp. 49-55. 
+Disponibile in: https://soziale-sicherheit-chss.ch/fr/artikel/les-independants-et-lavs/ 
+Centro d’informazione AVS/AI (in collaborazione con l’Ufficio federale delle assicurazioni sociali). 
+2.02: Contributi degli indipendenti all’AVS, all’AI e alle IPG. Stato al 1° gennaio 2020. Disponibile 
+in: https://www.ahv-iv.ch/p/2.02.i. Centre d’information AVS/AI (en collaboration avec l’Office 
+fédéral des assurances sociales). 2.02 : Cotisations des indépendants à l’AVS, à l’AI et aux APG. Etat 
+au 1er janvier 2020. Disponible ici : https://www.ahv-iv.ch/p/2.02.f 
+CSIAS (2021). Document d’analyse: Pandémie du Covid 19. Bilan actuel et défis à venir pour 
+l’aide sociale. Version actualisée janvier 2021, Berne, le 7 janvier 2021. 
+Fondazione Studi (2020). La crisi senza fine del lavoro autonomo; Persi nell’ultimo anno 219 mila 
+lavoratori, 
+la 
+metà 
+ha 
+tra 
+i 
+30 
+e 
+39 
+anni. 
+http://www.consulentidellavoro.it/files/PDF/2020/FS/Focus_autonomi.pdf 
+Huws, Ursula; Spencer, Neil H. ; Syrdal, Dag S. (2017, september). “First survey results reveal high 
+levels of crowd work in Switzerland”. Crowd Working Survey.  
+Martínez, Isabel Z.; Kopp, Daniel; Lalive, Rafael; Pichler, Stefan; Siegenthaler, Michael (2021). 
+Corona und Ungleichheit in der Schweiz Eine erste Analyse der Verteilungswirkungen der Covid-19-
+Pandemie, Finanziert durch Bundesamt für Gesundheit BAG, Enterprise 4 Society Center und KOF 
+Konjunkturforschungsstelle; Datenzugang von Forschungsstelle sotomo. KOF Studien, Nr. 161, 
+Februar 2021. 
+Mattmann, Michael; Walther, Ursula; Frank, Julian; Marti, Michael (2018). “La part des emplois « 
+atypiques-précaires » reste stable”. La vie économique. 1-2, pp. 24-26. Disponibile in: 
+https://dievolkswirtschaft.ch/fr/2017/12/mattmann-01-02-2018fr/ 
+Murier, Thierry (2018). La multiactivité en Suisse 2018. Neuchâtel : OFS. Disponibile in: 
+https://www.bfs.admin.ch/bfs/fr/home/statistiques/catalogues-banques-
+donnees/publications.assetdetail.5546049.html 
+Murier, Thierry (2018). L’activité indépendante en Suisse en 2017. Neuchâtel : OFS. Disponibile in: 
+https://www.bfs.admin.ch/bfs/fr/home/statistiques/catalogues-banques-
+donnees/publications.assetdetail.6386014.html 
+OFS (2020). Communiqué de presse - COVID-19: la durée du travail a reculé de 9,5% au 2e 
+trimestre 2020. Disponinbile in : https://www.bfs.admin.ch/bfs/de/home.assetdetail.14447733.html
+
+---
+
+Gli indipendenti in Svizzera 
+47/51 
+OFS (2020). Communiqué de presse – 3° trimestre 2020: le persone occupate calano dello 0,4% e il 
+tasso 
+di 
+disoccupazione 
+ai 
+sensi 
+dell'ILO 
+aumenta 
+al 
+5,3%. 
+Disponibile 
+in:  
+https://www.bfs.admin.ch/bfs/fr/home/statistiques/travail-remuneration.assetdetail.14716084.html 
+OFS (2020). Communiqué de presse - Travailleurs des plateformes numériques en 2019 : Le travail 
+via 
+les 
+plateformes 
+numériques 
+est 
+peu 
+répandu 
+en 
+Suisse. 
+Disponibile 
+in : 
+https://www.bfs.admin.ch/bfs/fr/home/statistiques/travail-remuneration/activite-professionnelle-
+temps-travail/actifs-occupes/conditions-travail/services-plateformes-
+numeriques.assetdetail.12787863.html 
+OFS (2018). Communiqué de presse - Enquête suisse sur la population active 2017 : Contrat à durée 
+déterminée 
+pour 
+un 
+salarié 
+sur 
+douze 
+en 
+2017. 
+Disponibile 
+in : 
+https://www.bfs.admin.ch/bfs/fr/home/statistiques/catalogues-banques-donnees/communiques-
+presse.assetdetail.4942066.html 
+Parnisari, Bruno (2020, 3 septembre). Après la crise du Covid-19, quels défis pour nos assurances 
+sociales? Forum Prévoyance, 3 septembre 2020.  
+Bruno Parnisari (2020, 4. September). Soziale Sicherheit, die Corona-Krise und Selbstandige 
+Erwerbstatigkeit in der Schweiz, Schweizerischer Verband Freier Berufe, Generalversammlung, 
+04.09.2020.  
+Staffelbach, Bruno; Sender, Anna (2020). White Paper. Flexworker. Motivi, intenzioni, esigenze. 
+Swissstaffing (Associazione svizzera dei prestatori e collocatori di personale). Disponibile in: 
+https://www.swissstaffing.ch/docs/it/Publicazioni/Studi/RZ_swissstaffing_WhitePaper04_ES_I_10.
+6.20.pdf 
+swissstaffing. (2019). White Paper: Flexwork e protezione sociale – Il lavoro temporaneo come 
+precursore. 
+Disponibile 
+in: 
+https://www.swissstaffing.ch/docs/it/Publicazioni/Studi/swissstaffing_WhitePaper02_I.pdf 
+Walker, Silvia (2019). “Una panoramica dell’attività indipendente in Ticino”. Dati – Statistiche e 
+società. 
+Giugno, 
+pp. 
+17-25. 
+Disponibile 
+in: 
+https://www3.ti.ch/DFE/DR/USTAT/allegati/articolo/2583dss_2019-1_2.pdf 
+Williams, Colin C. ; Lapeyre, F. (2017). Dependent self-emoloyment: Trends, challenges and policy 
+responses in the EU. Employment Working Paper No. 228, Geneva, International Labour Office.  
+Zurbuchen, Antonin ; Streckeisen, Peter ; Kuehni, Morgane ; Greppi, Spartaco ; Benelli, Natalie 
+(2010). «Le marché complémentaire en chiffres», REISO, Revue d'information sociale, mis en ligne 
+le 26 novembre 2020, https://www.reiso.org/document/6675
+
+---
+
+Gli indipendenti in Svizzera 
+48/51 
+ 
+Allegato: Categorie considerate esplicitamente dalle direttive federali (DSD) 
+Bambinaie e babysitter 
+I redditi delle persone che si occupano della custodia di un minore nell’economia domestica dei suoi 
+genitori rientrano nel salario determinante. 
+Collaboratori di un call center 
+I compensi corrisposti ai collaboratori di un call center che rispondono alle chiamate facendo 
+compagnia o fornendo aiuto e assistenza ai loro interlocutori fanno parte del salario determinante. 
+Collaboratori dei media 
+Le indennità versate a giornalisti e fotoreporter fanno parte del salario determinante, come pure in 
+generale gli onorari fissi e variabili dei collaboratori della radio e della televisione.  
+Le indennità versate a collaboratori occasionali per articoli e fotografie inviati spontaneamente e 
+pubblicati di tanto in tanto rappresentano un reddito d’attività indipendente.  
+I cosiddetti “onorari d’autore”, vale a dire indennità versate ad autori per la creazione o 
+l’interpretazione di proprie opere, fanno parte del reddito d’attività lucrativa indipendente.  
+Le indennità versate a influencer o per la pubblicazione di contributi (di natura pubblicistica o 
+commerciale) su un blog, su un proprio sito web o a proprio nome su altre piattaforme Internet 
+(YouTube, Instagram ecc.) costituiscono di regola un reddito da attività indipendente. 
+Commessi viaggiatori e professioni analoghe 
+Di regola i commessi viaggiatori sono considerati quali persone che esercitano un’attività lucrativa 
+dipendente. Generalmente sono in un rapporto di subordinazione e di dipendenza nei confronti della 
+ditta che rappresentano e non sopportano rischi d’imprenditore 
+Si deve presumere l’esistenza di un’attività dipendente anche quando il commesso viaggiatore: 
+ non percepisce uno stipendio fisso, ma solo provvigioni;  
+ si assume le spese generali; – non è vincolato a una regione geografica ben definita;  
+ non deve presentare al datore di lavoro un rapporto d’attività;  
+ non è obbligato a rispettare un determinato orario di lavoro;  
+ lavora per più ditte;  
+ svolge la sua attività solamente a titolo accessorio;  
+ è affiliato a una cassa di compensazione per un’altra attività indipendente; 
+ risponde per il del credere (art. 348a e 418c CO), ossia s’impegna a rispondere del pagamento 
+o dell’adempimento di certi obblighi da parte del cliente; 
+ è iscritto nel registro di commercio quale titolare di un’azienda individuale;  
+ è designato quale agente o è agente ai sensi degli art. 418a segg. CO; 
+ occupa rappresentanti ausiliari; 
+ conclude con la clientela contratti a proprio nome, ma ne trasferisce i diritti e gli obblighi al 
+fornitore, agendo quindi come un rappresentante indiretto. 
+I commessi viaggiatori vengono considerati solo eccezionalmente quali persone con attività lucrativa 
+indipendente. Affinché un rappresentante di commercio possa essere considerato tale, deve 
+sopportare un vero e proprio rischio imprenditoriale, vale a dire disporre di una propria 
+organizzazione di vendita.
+
+---
+
+Gli indipendenti in Svizzera 
+49/51 
+Fotomodelle e indossatrici 
+Le fotomodelle e le indossatrici ingaggiate a seconda dei bisogni (in occasione di sfilate di moda, 
+esposizioni, presentazioni di articoli sportivi ecc.), senza essere in un manifesto rapporto di 
+subordinazione per ciò che riguarda l’organizzazione del lavoro nei confronti dell’organizzatore della 
+manifestazione o di un’agenzia di collocamento, esercitano un’attività lucrativa indipendente. 
+Giornalai, venditori di biglietti della lotteria e distributori di riviste e periodici 
+Il reddito dei giornalai, dei venditori di biglietti della lotteria e dei distributori di riviste e periodici fa 
+generalmente parte del salario determinante (salariati quindi). 
+Lavoratori a domicilio 
+In generale il reddito dei lavoratori a domicilio è considerato salario determinante.  
+Ciò vale anche per il reddito degli intermediari. Questo reddito dev’essere considerato reddito 
+dell’attività lucrativa indipendente solo se l’intermediario sopporta il rischio imprenditoriale. 
+Costituisce un indizio in tal senso l’esercizio di un laboratorio proprio con lavoratori occupati 
+stabilmente. 
+Lavoratori a cottimo 
+Di regola i lavoratori a cottimo hanno qualità di lavoratori dipendenti.  
+Si deve ammettere l’esistenza di un’attività indipendente quando almeno una delle seguenti 
+caratteristiche principali è comprovata: 
+ Esistenza di un’organizzazione d’impresa. Ciò si verifica quando esiste un laboratorio 
+equipaggiato con installazioni e macchine in uso nel ramo, oppure vengono impiegati 
+importanti mezzi d’esercizio, propri o noleggiati, quali betoniere, montacarichi per materiale 
+da costruzione, trax, draghe, compressori, presse, fili a sbalzo e traini speciali per il trasporto 
+di legname ecc., oppure il materiale utilizzato, come ferri per cemento armato, materiale 
+d’isolazione, tubi, radiatori, arredamenti interni, tappezzerie ecc., è fornito per proprio conto 
+dallo stesso cottimista, oppure vengono occupati regolarmente diversi gruppi propri di operai 
+che lavorano contemporaneamente in diversi cantieri. 
+Assunzione regolare di mandati direttamente da terzi (proprietari d’opera, committenti, 
+architetti ecc.).  
+Lavoratori nelle imprese di trasporto 
+In generale i tassisti sono considerati lavoratori dipendenti; ciò vale anche se utilizzano un proprio 
+veicolo, ma sono collegati a una centrale radio. 
+Gli autisti contrattuali sono persone che tengono dei mezzi di trasporto a disposizione di uno o più 
+mandanti per contratto (centrali di trasporto, case editrici, grandi distributori, servizio del corriere), 
+eseguendo trasporti. Si considera che costoro esercitano un’attività indipendente se sopportano un 
+rischio economico d’imprenditore e non dipendono particolarmente dal mandante per ciò che riguarda 
+l’organizzazione del lavoro. 
+Musicisti, artisti et DJ 
+La retribuzione dei musicisti che suonano in locali ricreativi, alberghi, ristoranti, caffè, sale da ballo 
+(dancings, cabarets), sia come membri di un’orchestra, sia come solisti (pianisti di bar), fa parte del 
+salario determinante, indipendentemente dal fatto che questi musicisti esercitino la loro attività a 
+titolo principale (musicisti professionisti) o accessorio.
+
+---
+
+Gli indipendenti in Svizzera 
+50/51 
+Le retribuzioni versate dagli organizzatori di concerti (società orchestrali o musicali) a 
+soprannumerari d’orchestra sono considerate salario determinante. Il datore di lavoro è 
+l’organizzatore del concerto. Dalla retribuzione percepita dai musicisti senza domicilio fiscale o 
+dimora in Svizzera può essere dedotto un forfait del 20 per cento a titolo di forfait sostitutivo per 
+spese generali, come nel diritto tributario federale. È fatta salva la documentazione di spese generali 
+più elevate. In generale per persona con dimora in Svizzera si intende una persona che soggiorna in 
+Svizzera per almeno 30 giorni esercitando un’attività lucrativa.  
+Le norme valide per i musicisti si applicano per analogia agli artisti ed ai DJ.  
+Per principio un DJ che lavora regolarmente per un organizzatore (ad esempio come “resident DJ”) 
+deve essere considerato come dipendente. Un DJ assunto grazie alla sua notorietà (DJ ospite) per un 
+evento unico è invece considerato come indipendente. 
+Interessante notare che la retribuzione di musicisti e artisti (ad es. direttori d’orchestra, musicisti, 
+solisti, cantanti, ballerini, attori, intrattenitori), che si esibiscono singolarmente o collettivamente nel 
+quadro di una manifestazione speciale (concerti, serate musicali, settimane musicali, serate di società, 
+matrimoni) fa parte del reddito di un’attività indipendente anche se lo spettacolo non è organizzato 
+dagli stessi musicisti o artisti ma da terzi. 
+Parrucchieri 
+Sono considerati salariati i dipendenti occupati a tempo pieno o a tempo parziale, come pure i 
+cosiddetti “sublocatari” di poltrone di clienti. 
+Persone incaricate di attività di portineria e altri compiti analoghi 
+Le attività di portineria comprendono in particolare le attività svolte al di fuori degli appartamenti in 
+case plurifamiliari e in immobili ad uso industriale o commerciale che non rientrano nella nozione di 
+lavori domestici (art. 34d OAVS). Di regola il portinaio è considerato salariato del proprietario 
+dell’immobile o dell’agenzia immobiliare. 
+Ragazze/i alla pari, stagisti 
+Sono considerati ragazze o ragazzi alla pari, stagisti ecc., le persone che, per imparare una lingua 
+straniera o per motivi analoghi, lavorano parzialmente in una famiglia di accoglienza e ricevono una 
+retribuzione. Il salario determinante delle ragazze o dei ragazzi alla pari – e delle persone loro 
+equiparate – comprende il salario in natura e in contanti dal primo gennaio dell’anno seguente quello 
+in cui essi hanno compiuto 17 anni. Per i volontari senza salario in contanti, il salario determinante 
+corrisponde al salario in natura. 
+Specialisti informatici 
+Uno specialista informatico esercita un’attività lucrativa dipendente se è sottoposto a direttive per 
+l’organizzazione del lavoro, utilizza le apparecchiature del mandante e deve eseguire personalmente 
+l’incarico che gli è stato affidato. L’attività è invece considerata indipendente se lo specialista 
+sopporta un rischio imprenditoriale e non esiste rapporto di subordinazione tra lui e il suo mandante 
+per ciò che riguarda l’organizzazione del lavoro. 
+Traduttori ed interpreti 
+Il reddito di traduttori ed interpreti, che sono integrati, dal punto di vista dell’organizzazione del 
+lavoro, nell’azienda del datore di lavoro o del mandante, per cui questi ultimi impongono il 
+programma, il luogo e l’orario di lavoro, costituisce un salario determinante.
+
+---
+
+Gli indipendenti in Svizzera 
+51/51 
+Il reddito di un traduttore sarà invece considerato proveniente da un’attività lucrativa indipendente se 
+egli esegue traduzioni a domicilio o in locali da lui affittati, senza dipendere in modo determinante 
+da direttive altrui nell’organizzazione del proprio lavoro.  
+Il reddito di un interprete sarà considerato proveniente da un’attività lucrativa indipendente se egli è 
+chiamato a fornire le sue prestazioni di volta in volta (in occasione di conferenze, seminari, congressi 
+ecc.) senza essere integrato, oltre a ciò, nell’azienda del datore di lavoro per ciò che riguarda 
+l’organizzazione del lavoro.

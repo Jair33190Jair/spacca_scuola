@@ -1,0 +1,1619 @@
+Espace de l’Europe 10 CH-2010 Neuchâtel www.statistica.admin.ch
+La pubblicazione «Indicatori del  mercato del  lavoro» fornisce 
+parametri di riferimento all’interno dell’ampia gamma di dati 
+sull’occupazione. Le informazioni sono strutturate in modo da 
+fornire una panoramica del mercato del lavoro svizzero e delle 
+relative statistiche. Le aree trattate comprendono l’occupazione, 
+l’orario di lavoro, la disoccupazione, i posti di lavoro vacanti, gli 
+aspetti dinamici del mercato del lavoro, la struttura e le tendenze 
+salariali.
+Questa pubblicazione è composta da tre sotto-pubblicazioni. 
+Questo documento commenta i risultati degli indicatori del mer­
+cato del lavoro per il periodo 2019–2024 e le prospettive per il 
+2025. I documenti «Definizioni» e «Fonti statistiche», pubblicati 
+come supplementi, forniscono rispettivamente una panoramica 
+delle definizioni utilizzate nelle statistiche del mercato del lavoro 
+e degli aspetti metodologici delle diverse fonti di dati.
+  
+Abbreviazioni nei grafici
+AELS	
+Associazione europea di libero scambio
+CML 	
+Conti globali del mercato del lavoro
+CHOM-BIT	
+Statistica delle persone disoccupate ai sensi 
+dell’ILO
+EUROSTAT 	 Ufficio statistico dell’Unione europea
+IAS	
+Inchiesta sugli accordi salariali	
+ILO 	
+International Labour Office
+ISS 	
+Indice svizzero dei salari
+PIL 	
+Prodotto interno lordo
+RIFOS 	
+Rilevazione sulle forze di lavoro in Svizzera
+RSS 	
+Rilevazione svizzera della struttura dei salari
+SECO 	
+Segreteria di Stato dell’economia
+SPO 	
+Statistica delle persone occupate
+STATIMP 	
+Statistica dell’impiego
+SVOL 	
+Statistica del volume di lavoro
+UE	
+Unione europea
+Neuchâtel, Luglio 2025
+03 Lavoro e reddito
+Risultati commentati
+Indicatori del mercato del lavoro 2025
+
+---
+
+
+
+---
+
+ATTUALITÀ UST
+3
+Indice
+2019–2024: principali evoluzioni sul mercato 
+del lavoro svizzero
+4
+2019–2024: la situazione di uomini e donne sul mercato 
+del lavoro
+6
+2019–2024: manodopera svizzera e straniera
+8
+2019–2024: condizioni di lavoro in Svizzera
+10
+Situazione del mercato del lavoro nel primo trimestre 2025
+e prospettive a breve termine
+12
+Il mercato del lavoro svizzero nel confronto internazionale 14
+
+---
+
+ATTUALITÀ UST
+4
+0,3%, e la seconda ha smesso di aumentare. Entrambe sono poi 
+tornate a registrare un andamento positivo a partire dal 2021 
+(+4,6 e +6,4% tra i quarti trimestri del 2020 e del 2023). Tra il 
+quarto trimestre del 2023 e il quarto trimestre del 2024, il numero 
+di persone occupate e quello degli impieghi sono aumentati 
+rispettivamente dello 0,8% e dello 0,9%.
+  
+Aumento della disoccupazione
+Nel confronto quinquennale, sia il tasso di disoccupazione ai 
+sensi dell’ILO che la quota di persone disoccupate iscritte (presso 
+un ufficio regionale di collocamento, URC) sono aumentati, pas­
+sando rispettivamente dal 3,9 al 4,4% e dal 2,3 al 2,6% tra il quarto 
+trimestre del 2019 e lo stesso trimestre del 2024. La differenza 
+relativamente importante tra le due quote è riconducibile al fatto 
+che la prima tiene conto anche delle persone in cerca di impiego 
+che non sono iscritte presso un URC.
+Per quanto riguarda il lavoro ridotto, alla fine del 2019 circa 
+3816 persone lavoravano con orario ridotto, contro le 5733 nel 
+2024. Dopo il forte aumento generato dalla pandemia di COVID-
+19, che lo ha portato a 1,3 milioni di persone nell’aprile 2020, il 
+numero di persone con orario ridotto è costantemente calato, 
+scendendo fino a 2848 nell’aprile del 2023. Da allora si osserva 
+una tendenza all’aumento. 
+Posti liberi
+Secondo la STATIMP, nel quarto trimestre del 2024 il numero di 
+posti liberi disponibili era superiore del 10,6% rispetto a quello 
+registrato cinque anni prima. Questa quota ha subìto forti oscilla­
+zioni durante la pandemia (–18,6% nel 4°  trimestre del  2020 
+rispetto allo stesso trimestre dell’anno precedente, poi +54,7% 
+un anno dopo). Ha poi continuato a crescere fino al quarto trime­
+stre del 2022, ma a un ritmo più lento (+18,1% tra il 4° trimestre 
+del 2021 e il 4° trimestre del 2022). Dal 2022, tuttavia, il numero 
+di posti liberi è diminuito: da 121 000 , il loro numero è sceso a 
+109 000 un anno dopo, per attestarsi a 91 000 alla fine del 2024.
+  
+2019–2024: principali evoluzioni sul mercato 
+del lavoro svizzero
+Dal quarto trimestre del 2019 al quarto trimestre del 2024, il 
+numero di persone occupate in Svizzera è aumentato. Nello 
+stesso periodo, sia il tasso di disoccupazione ai sensi dell’ILO 
+(Ufficio Internazionale del lavoro) che la quota di persone iscritte 
+presso un ufficio regionale di collocamento (URC; disoccupa­
+zione ai sensi della SECO) sono aumentati. Negli ultimi cinque 
+anni è aumentato anche il numero di posti liberi. Dopo essere 
+diminuiti per tre anni consecutivi, i salari reali sono in aumento 
+anche rispetto al 2023. 
+Crescita economica moderata
+Tra il quarto trimestre del 2019 e lo stesso del 2024, il prodotto 
+interno lordo (PIL) reale della Svizzera è cresciuto dell’8,2%. 
+­Tuttavia, ha risentito della pandemia di COVID, passando dal 
+–1,2% tra il quarto trimestre del  2019 e il quarto trimestre 
+del 2020, al +5,8% tra il quarto trimestre del 2020 e lo stesso tri­
+mestre del 2021. L’attività economica svizzera ha poi continuato 
+a crescere, tanto che tra il quarto trimestre del 2021 e il quarto 
+trimestre del 2023 il PIL è cresciuto del 2,0%. Tra la fine del 2023 
+e la fine del 2024 il PIL è aumentato dell’1,6%.
+Aumento del numero di impieghi
+Secondo la statistica delle persone occupate (SPO), basata sulla 
+rilevazione sulle forze di lavoro in Svizzera (RIFOS), tra il quarto 
+trimestre del 2019 e il quarto trimestre del 2024 il numero delle 
+persone occupate è aumentato del  4,8%, passando da 5,1  a 
+5,4  milioni di persone. La statistica dell’impiego (STATIMP), 
+basata invece su un’indagine svolta presso le imprese dei settori 
+secondario e terziario, presentava un aumento degli impieghi pari 
+al 7,3%, passando da 5,2 a 5,5 milioni. Sia la SPO che la STATIMP 
+hanno risentito della pandemia di COVID-19, poiché tra i quarti 
+trimestri del 2019 e del 2020 la prima ha registrato un calo dello 
+Variazione del prodotto interno lordo (PIL) in termini reali, del numero di persone occupate e del numero
+di impieghi, 2019–2024
+Q1
+2019
+Q2
+Q3
+Q4
+Q1
+2020
+Q2
+Q3
+Q4
+Q1
+2021
+Q2
+Q3
+Q4
+Q1
+2022
+Q2
+Q3
+Q4
+Q1
+2023
+Q2
+Q3
+Q4
+Q1
+2024
+Q2
+Q3
+Q4
+−8%
+−6%
+−4%
+−2%
+0%
+2%
+4%
+6%
+8%
+0,6
+0,6
+0,2
+0,2
+0,9
+0,9
+Persone occupate
+Impieghi nelle imprese dei settori secondario e terziario
+PIL
+N.B.: PIL rispetto al trimestre precedente, numero di persone occupate e di impieghi rispetto allo stesso trimestre dell’anno precedente
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-01
+Fonte: UST – Statistica delle persone occupate (SPO), statistica dell'impiego (STATIMP); SECO
+© UST 2025
+
+---
+
+ATTUALITÀ UST
+5
+Persone disoccupate ai sensi dell'ILO, persone disoccupate registrate e posti liberi, 2019–2024
+In migliaia
+Q1
+2019
+Q2
+Q3
+Q4
+Q1
+2020
+Q2
+Q3
+Q4
+Q1
+2021
+Q2
+Q3
+Q4
+Q1
+2022
+Q2
+Q3
+Q4
+Q1
+2023
+Q2
+Q3
+Q4
+Q1
+2024
+Q2
+Q3
+Q4
+0
+50
+100
+150
+200
+250
+300
+224
+224
+91
+91
+130
+130
+Persone disoccupate ai sensi dell'ILO
+Persone disoccupate registrate
+Posti liberi
+N.B.: CHOM-BIT: medie trimestrali; SECO e STATIMP: valori alla fine del trimestre
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-02
+Fonte: UST – Statistica delle persone disoccupate ai sensi dell’ILO (CHOM-BIT), Statistica dell'impiego (STATIMP); SECO
+© UST 2025
+Il 37,6% degli stabilimenti (ponderati secondo il numero di 
+impieghi) ha indicato di aver avuto difficoltà a reclutare forza di 
+lavoro qualificata nel quarto trimestre del 2024 (–2,4 punti per­
+centuali rispetto al 4° trimestre del 2023). Dal quarto trimestre 
+del 2021, questa quota è rimasta relativamente stabile (36,0%), 
+ma si è attestata a un livello superiore a quello osservato durante 
+la pandemia di COVID (4°  trimestre del  2020: 28,0%). Con la 
+ripresa economica, è aumentato il numero di imprese che segna­
+lano difficoltà: erano infatti il 40,8% alla fine del 2022 contro il 
+40,0% alla fine del 2023. Confrontando i dati degli ultimi cinque 
+anni, si nota inoltre che le imprese hanno più difficoltà a repe­
+rire personale qualificato (+5,6 punti percentuali tra i 4i trimestri 
+del 2019 e del 2024).
+Aumento dei salari nominali e reali
+Nel 2024, i salari nominali sono aumentati in media dell’1,8% 
+rispetto all’anno precedente. Grazie al netto rallentamento 
+dell’inflazione, che nel 2024 si è attestata all’1,1% (rispetto al 
+2,1% del 2023 e al 2,8% del 2022), il potere d’acquisto dei salari 
+è cresciuto dello 0,7% nell’intera economia. Si tratta del primo 
+aumento dal 2020, dopo tre anni consecutivi di calo (–0,4% nel 
+2023, –1,9% nel 2022 e –0,8% nel 2021). La crescita dei salari 
+nominali varia tuttavia da settore a settore: è stata più marcata 
+in quello dei servizi (+1,9%) rispetto a quello industriale (+1,5%), ed 
+è stata maggiore per le donne (+2,6%) che per gli uomini (+1,2%). 
+La progressione più marcata dell’indice dei salari delle donne 
+rientra in una tendenza a lungo termine. I salari delle donne si 
+sono avvicinati a quelli degli uomini (divario del 23,7% nel 1994 
+contro il 9,5% nel 2022 sulla mediana dei salari), ma la disparità 
+salariale tra i sessi permane ancora oggi.
+   
+Variazione dell'indice dei salari nominali e reali,
+2019–2024
+−2,0%
+−1,5%
+−1,0%
+−0,5%
+0,0%
+0,5%
+1,0%
+1,5%
+2,0%
+2019
+2020
+2021
+2022
+2023
+2024
+Indice dei salari reali
+Indice dei salari nominali
+N.B.: Rispetto all'anno precedente
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-03
+Fonte: UST – Indice svizzero dei salari (ISS)
+© UST 2025
+
+---
+
+ATTUALITÀ UST
+6
+Variazione del numero di persone occupate secondo il sesso, 2019–2024
+Q1
+2019
+Q2
+Q3
+Q4
+Q1
+2020
+Q2
+Q3
+Q4
+Q1
+2021
+Q2
+Q3
+Q4
+Q1
+2022
+Q2
+Q3
+Q4
+Q1
+2023
+Q2
+Q3
+Q4
+Q1
+2024
+Q2
+Q3
+Q4
+−3%
+−2%
+−1%
+0%
+1%
+2%
+3%
+0,4
+0,4
+0,8
+0,8
+Donne
+Uomini
+N.B.: Rispetto allo stesso trimestre dell’anno precedente
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-04
+Fonte: UST – Statistica delle persone occupate (SPO)
+© UST 2025
+2019–2024: la situazione di uomini e donne 
+sul mercato del lavoro
+Tra il quarto trimestre del 2019 e lo stesso trimestre del 2024, la 
+partecipazione delle donne al mercato del lavoro è leggermente 
+aumentata. Tuttavia, le donne continuano a lavorare più spesso a 
+tempo parziale rispetto agli uomini (2024: il 59,5% contro il 20,6%). 
+Nel raffronto sull’arco di cinque anni, il tasso di disoccupazione ai 
+sensi dell’ILO è aumentato sia per gli uomini (+0,4 punti percen­
+tuali, arrivando al 4,1%) che per le donne (+0,5 punti percentuali, 
+attestandosi al 4,6%). Mettendo a confronto i salari mediani degli 
+equivalenti a tempo pieno dell’economia nel suo complesso, si 
+osserva che nel 2020 il divario salariale tra donne e uomini era 
+del 9,5% e che solo una parte di questa differenza si spiega con 
+fattori oggettivi.
+In aumento il lavoro a tempo parziale degli uomini
+Le donne lavorano nettamente più spesso a tempo parziale 
+degli uomini. Nel quarto trimestre del 2024, il 59,5% di tutte le 
+donne occupate lavorava a tempo parziale (e cioè con un tasso 
+di occupazione inferiore al 90%), ovvero 0,2 punti percentuali in 
+più rispetto al quarto trimestre del 2019. Per gli uomini il tasso 
+di occupazione è aumentato di 2,9 punti percentuali dalla fine 
+del 2019, portandosi al 20,6%. L’ineguale diffusione del lavoro a 
+tempo parziale spiega perché nel 2024 le donne abbiano con­
+tribuito solo per il 39,8% al totale delle ore di lavoro effettive. 
+Nel quarto trimestre del 2024 si contavano 540 000 uomini che 
+lavoravano a tempo parziale contro 1,4 milioni di donne.
+Più donne che uomini nel settore terziario
+L’andamento del numero di persone occupate tra il quarto trime­
+stre del 2019 e il quarto trimestre del 2024 nei settori secondario 
+e terziario era simile per entrambi i sessi. Il numero di donne e 
+uomini occupati nel settore secondario è aumentato rispettiva­
+mente dell’1,6 e dello 0,2%. Nel terziario, la crescita registrata 
+è maggiore (risp. +5,4  e +6,6%). In proporzione, nel quarto 
+trimestre del 2024 le donne che lavoravano nel settore terziario 
+erano molto più numerose degli uomini (l’88,3% di tutte le donne 
+occupate contro il 68,8% degli uomini). Solo il 10,2% delle donne 
+lavorava nell’industria e l’1,5% nell’agricoltura. Per gli uomini le 
+quote erano rispettivamente del 28,1 e del 3,0%.
+  
+Leggero aumento della quota di donne nella popolazione attiva
+Tra il quarto trimestre del 2019 e il quarto trimestre del 2024, il 
+numero di persone attive (le persone occupate e quelle disoccu­
+pate ai sensi dell’ILO, che corrispondono nel complesso ­all’offerta 
+di lavoro) è aumentato del  4,3% tra gli uomini (passando a 
+2,7  mio.), mentre nello stesso periodo la popolazione attiva 
+femminile ha registrato un incremento del  4,5% (passando a 
+2,4 mio.). Nell’arco di cinque anni, quindi, la percentuale femminile 
+della popolazione attiva è leggermente salita (+0,1 punti percen­
+tuali, passando al 47,0%). Sia il numero delle donne occupate che 
+quello degli uomini occupati sono aumentati (risp. +4,9 e +4,8%).
+  
+Ripartizione della popolazione attiva secondo il
+sesso, 2024
+Uomini
+Donne
+Persone attive
+Persone disoccupate ai sensi
+dell'ILO
+Persone occupate a tempo
+parziale
+Volume delle ore di lavoro
+effettive
+0%
+20%
+40%
+60%
+80%
+100%
+N.B.: Persone attive, persone disoccupate ai sensi dell’ILO e persone occupate a
+tempo parziale: media nel 4° trimestre; volume delle ore di lavoro effettive: valori
+annuali
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-05
+Fonte: UST – Rilevazione sulle forze di lavoro in Svizzera
+(RIFOS), statistica delle persone disoccupate ai sensi dell’ILO
+(CHOM-BIT), statistica del volume di lavoro (SVOL)
+© UST 2025
+
+---
+
+ATTUALITÀ UST
+7
+Tasso di disoccupazione ai sensi dell’ILO secondo il sesso, 2019–2024
+Q1
+2019
+Q2
+Q3
+Q4
+Q1
+2020
+Q2
+Q3
+Q4
+Q1
+2021
+Q2
+Q3
+Q4
+Q1
+2022
+Q2
+Q3
+Q4
+Q1
+2023
+Q2
+Q3
+Q4
+Q1
+2024
+Q2
+Q3
+Q4
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+7%
+4,4
+4,4
+4,1
+4,1
+4,6
+4,6
+Totale
+Donne
+Uomini
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-06
+Fonte: UST – Statistica delle persone disoccupate ai sensi dell’ILO (CHOM-BIT)
+© UST 2025
+Aumento del tasso di disoccupazione di entrambi i sessi 
+Tra il quarto trimestre del 2019 e il quarto trimestre del 2024, il 
+tasso di disoccupazione ai sensi dell’ILO è aumentato sia tra le 
+donne (dal 4,1 al 4,6%) che tra gli uomini (dal 3,7 al 4,1%). Sebbene 
+le donne abbiano maggiormente subito gli effetti della pandemia 
+di COVID rispetto agli uomini (+1,2 punti percentuali tra il quarto 
+trimestre del 2019 e lo stesso trimestre del 2020, raggiungendo 
+quota 5,4% per le prime, contro i +0,8 punti percentuali per una 
+quota del 4,5% per i secondi), il divario si è poi dissolto nel quarto 
+trimestre del 2021 (–1,1 punti tra le donne contro i –0,3 punti tra 
+gli uomini), per attestarsi rispettivamente al 4,3 e al 4,2%. Per le 
+donne il tasso di disoccupazione si è poi mantenuto stabile fino 
+al quarto trimestre del 2023 (2022: 4,3%; 2023: 4,2%), mentre per 
+gli uomini è sceso dello 0,5% punti prima di assestarsi rimanendo 
+relativamente stabile (2022: 3,7%; 2023: 3,8%).
+  
+Progressiva diminuzione delle disparità salariali 
+tra donne e uomini
+Nel 2022 il salario mensile lordo mediano standardizzato delle 
+donne nell’insieme dell’economia era di 6397 franchi e quello 
+degli uomini di 7066 franchi. Dal 2016 la differenza salariale è 
+diminuita, passando dal 12,0% all’11,5% nel 2018, al 10,8% nel 
+2020 e al 9,5% nel 2022. Nel settore privato, nel 2022 le donne 
+hanno guadagnato l’11,7% in meno degli uomini (2020: 13,8%), 
+mentre nel settore pubblico la differenza salariale globale tra i 
+generi è stata del 9,8% (2020: 10,5%).
+La quota di donne nelle fasce salariali più basse (salari inferiori 
+ai 6000 fr.) è superiore a quella degli uomini. Al contrario, que­
+sti ultimi sono più rappresentati nelle classi salariali più elevate 
+(salari superiori ai 9000 fr.).
+Secondo un’analisi svolta su mandato dell’Ufficio federale di 
+statistica (UST), nel 2022 il 51,8% della differenza salariale (media 
+aritmetica) nell’insieme dell’economia era riconducibile a fattori 
+oggettivi quali il livello gerarchico, l’età o la formazione. Il 48,2% 
+delle differenze salariali resta inspiegabile.
+  
+Distribuzione del personale dipendente secondo la
+classe di salario e il sesso (settori privato e
+pubblico insieme), 2022
+Donne
+Uomini
+0–3 000
+3 001–4 000
+4 001–5 000
+5 001–6 000
+6 001–7 000
+7 001–8 000
+8 001–9 000
+9 001–10 000
+10 001–11 000
+11 001–12 000
+12 001–13 000
+13 001–14 000
+14 001–15 000
+15 001–16 000
+16 001–17 000
+17 001–18 000
+18 001–19 000
+19 001–20 000
+20 001+
+20%
+10%
+0%
+10%
+20%
+N.B.: salario mensile lordo standardizzato in franchi
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-07
+Fonte: UST – Rilevazione della struttura dei salari (RSS)
+© UST 2025
+
+---
+
+ATTUALITÀ UST
+8
+Variazione della popolazione attiva secondo la nazionalità, 2019–2024
+Q1
+2019
+Q2
+Q3
+Q4
+Q1
+2020
+Q2
+Q3
+Q4
+Q1
+2021
+Q2
+Q3
+Q4
+Q1
+2022
+Q2
+Q3
+Q4
+Q1
+2023
+Q2
+Q3
+Q4
+Q1
+2024
+Q2
+Q3
+Q4
+−3
+−2
+−1
+0
+1
+2
+3
+4
+5
+3,1
+3,1
+-0,2
+-0,2
+Popolazione attiva svizzera
+Popolazione attiva straniera
+N.B.: Rispetto allo stesso trimestre dell’anno precedente
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-08
+Fonte: UST – Statistica delle persone occupate (SPO), statistica delle persone disoccupate ai sensi dell’ILO (CHOM-BIT)
+© UST 2025
+2019–2024: manodopera svizzera e straniera
+Dal 2001 la Svizzera ha assistito a una forte immigrazione di 
+manodopera straniera. Tra il 2019 e il 2024 il numero di persone 
+attive straniere è fortemente cresciuto, mentre quello delle 
+persone di nazionalità svizzera è aumentato solo leggermente. 
+Senza le naturalizzazioni, la differenza sarebbe ancora più mar­
+cata. Nell’insieme del periodo in esame, il tasso di disoccupa­
+zione ai sensi dell’ILO delle persone straniere è stato circa dalle 
+due alle tre volte superiore a quello delle persone svizzere. Nel 
+complesso, i salari di queste ultime erano più elevati rispetto a 
+quelli delle persone straniere, fatta eccezione per gli impieghi che 
+comportano un alto grado di responsabilità.
+  
+Continua la forte immigrazione di manodopera straniera
+Tra il quarto trimestre del 2019 e il quarto trimestre del 2024, 
+il numero di persone attive di nazionalità straniera (persone 
+straniere occupate e disoccupate ai sensi dell’ILO) è aumentato 
+nettamente di più (+13,7%; arrivato a 2,0 mio.) rispetto a quello 
+delle persone di nazionalità svizzera (+1,2%, passato a 3,6 mio.). 
+L’incremento della manodopera straniera riflette una forte 
+immigrazione: nell’arco del periodo tra il 2019 e il 2023 (5 anni 
+cumulati) il numero di immigrazioni di manodopera straniera ha 
+superato di 268 000 persone quello della manodopera emigrata. 
+Per contro, la migrazione della manodopera svizzera ha portato 
+a un saldo negativo di 20 000 persone. Le naturalizzazioni hanno 
+inciso sulla struttura della popolazione attiva: dal 2019 al 2023, 
+circa 120 000 persone attive di origine straniera hanno acqui­
+sito la cittadinanza svizzera. Senza queste naturalizzazioni, tra 
+il 2019 e il 2024 la presenza di manodopera straniera sarebbe 
+aumentata del 20,6%, mentre il numero di persone attive svizzere 
+avrebbe registrato un calo (–2,2%). Nel quarto trimestre del 2024, 
+la quota di persone straniere sulla popolazione attiva si attestava 
+al 35,2%, contro il 32,6% di cinque anni prima.
+  
+  
+Migrazione di persone attive straniere, 2019–2023
+In migliaia
+2019
+2020
+2021
+2022
+2023
+0
+50
+100
+150
+200
+178
+178
+79
+79
+99
+99
+Immigrazione
+Emigrazione
+Saldo
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-09b
+Fonte: UST – Conti globali del mercato del lavoro (CML)
+© UST 2025
+Migrazione di persone attive svizzere, 2019–2023
+In migliaia
+2019
+2020
+2021
+2022
+2023
+−10
+−5
+0
+5
+10
+15
+20
+11
+11
+-6
+-6
+17
+17
+Immigrazione
+Emigrazione
+Saldo
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-09a
+Fonte: UST – Conti globali del mercato del lavoro (CML)
+© UST 2025
+
+---
+
+ATTUALITÀ UST
+9
+La disoccupazione colpisce maggiormente le persone straniere
+Nel quarto trimestre del 2024, la popolazione attiva di naziona­
+lità svizzera era composta da 3,5 milioni di persone occupate e 
+113 000 persone disoccupate ai sensi dell’ILO. Il tasso di disoccu­
+pazione delle persone di nazionalità svizzera si attestava al 3,1%, 
+in leggero aumento rispetto al quarto trimestre del 2019 (3,0%). 
+La popolazione straniera è stata quella maggiormente colpita 
+dalla disoccupazione: nel quarto trimestre del 2024, 1,9 milioni 
+di persone erano occupate e 112 000 disoccupate. Il tasso di 
+disoccupazione ai sensi dell’ILO si attestava quindi al 7,4%, anche 
+in questo caso in aumento rispetto al quarto trimestre del 2019 
+(6,3%).
+Meno lavoro a tempo parziale tra le persone straniere
+Tra il quarto trimestre del 2019 e il quarto trimestre del 2024 la 
+quota di persone che lavoravano a tempo parziale è aumentata 
+sia tra la popolazione occupata di nazionalità svizzera (+2,0 punti 
+percentuali, passando al 43,1%) che tra quella straniera (+1,8 punti 
+percentuali, passando al 27,9%). Questa forma di attività è molto 
+diffusa tra le donne, ma molto di più tra quelle di nazionalità 
+­svizzera che tra quelle di nazionalità straniera: nel quarto tri­
+mestre del 2024 il 63,5% delle donne svizzere lavorava a tempo 
+parziale, contro il 47,9% di quelle straniere. Tra gli uomini, le quote 
+erano rispettivamente del 24,0 e del 12,8%.
+  
+Le persone straniere lavorano più spesso come dipendenti
+La manodopera straniera lavorava come dipendente con una 
+frequenza maggiore rispetto a quella di nazionalità svizzera (il 
+94,6 contro l’89,7%). Solo il 5,4% lavorava come indipendente o 
+in un’azienda di famiglia, ovvero una quota nettamente inferiore 
+a quella delle persone di nazionalità svizzera (10,3%). Questa 
+differenza è riconducibile a vari fattori, alcuni dei quali legati 
+all’integrazione e all’impossibilità per la stragrande maggioranza 
+delle persone straniere di prima generazione di rilevare un’attività 
+a gestione familiare. Inoltre, contrariamente alle persone di nazio­
+nalità svizzera, gran parte della popolazione straniera è risultata 
+avere meno di 40 anni, mentre la quota di indipendenti tra le 
+persone dai 40 ai 64 anni è notevolmente superiore che tra gli 
+under 40.
+Aumento della quota di manodopera straniera con permesso 
+di soggiorno
+Negli ultimi cinque anni la struttura della popolazione occupata 
+di nazionalità straniera secondo il permesso di soggiorno si è 
+sviluppata in modo eterogeneo. Mentre la quota di manodopera 
+con permesso di dimora (permesso B o L, in Svizzera da 12 mesi 
+o più) e con permesso per frontalieri (permesso G) è aumentata 
+(risp. di 3,1 punti percentuali arrivando al 30,7% e di 1,3 punti 
+percentuali passando al 21,7%), la quota di manodopera con 
+permesso di domicilio (permesso C) è diminuita (–4,4 punti per­
+centuali, scendendo al 42,6%), così come la quota delle persone 
+titolari di un permesso per dimoranti temporanei (permesso L, in 
+Svizzera da meno di 12 mesi; –0,6 punti percentuali, attestandosi 
+al 2,2%).
+  
+Manodopera straniera: disparità salariali secondo i permessi 
+di soggiorno
+Nel 2022, nell’insieme dell’economia, il salario mensile mediano 
+del personale dipendente di nazionalità svizzera erano più elevati 
+di quello versato alla manodopera straniera, ovvero 7164 franchi 
+contro 6089. Questa disparità salariale a favore del personale 
+dipendente di nazionalità svizzera rispetto a quello straniero si 
+ritrovava in tutte le categorie di permessi di soggiorno.
+Nei posti che richiedono un alto grado di responsabilità, 
+invece, il salario del personale straniero è risultato più elevato di 
+quello delle persone di nazionalità svizzera. Per posti di quadro 
+superiore, alle persone frontaliere è stato versato un salario di 
+10 707 franchi, alle persone con permesso di dimora un salario 
+di 12 791 franchi e al personale svizzero di 10 476 franchi.
+Persone occupate a tempo parziale secondo il
+sesso e la nazionalità
+In % delle persone occupate, 4° trimestre
+Uomini svizzeri, Donne svizzere
+Uomini stranieri, Donne straniere
+Uomini
+2019
+2024
+Donne
+2019
+2024
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-10
+Fonte: UST – Rilevazione sulle forze di lavoro in Svizzera
+(RIFOS)
+© UST 2025
+Persone occupate di nazionalità straniera secondo
+l'autorizzazione di residenza
+4° trimestre 2024
+Permesso di domicilio
+(42,6%)
+Altri stranieri² (2,7%)
+Permesso di
+soggiorno di breve
+durata (2,2%)
+Frontalieri (21,7%)
+Permesso di dimora¹
+(30,7%)
+¹ incl. persone titolari di un permesso per dimoranti temporanei che vivono in
+Svizzera da più di 12 mesi
+² Persone nel processo d’asilo, personale delle ambasciate, dei consolati e della
+marina svizzera, cittadini dell’UE/AELS che esercitano un’attività lucrativa dipendente
+non superiore ai 90 giorni per anno civile presso un datore di lavoro svizzero
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-11
+Fonte: UST – Statistica delle persone occupate (SPO)
+© UST 2025
+
+---
+
+ATTUALITÀ UST
+10
+Questa situazione si capovolge se prendiamo in esame i 
+posti di lavoro che non comportano responsabilità gerarchiche. 
+Il personale dipendente di nazionalità svizzera ha guadagnato 
+6496 franchi, vale a un salario più alto di quelli versati al perso­
+nale straniero, pari a 5859 franchi per le persone frontaliere e a 
+5300 franchi per quelle con permesso di dimora.
+2019–2024: condizioni di lavoro in Svizzera
+Tra il 2019 e il 2024 le condizioni di lavoro in Svizzera hanno 
+subìto cambiamenti. L’orario di lavoro effettivo è diminuito. Nello 
+stesso periodo è stato osservato un incremento degli orari di 
+lavoro flessibili, del numero di contratti a durata determinata e 
+del lavoro da casa. 
+Diminuisce la durata annua effettiva del lavoro
+Tra il 2019 e il 2024, la durata annua effettiva del  lavoro per 
+impiego è leggermente diminuita, attestandosi a 1417 ore, pari a 
+un decremento dell’1,8% in cinque anni (1443 ore). 
+Nello stesso periodo, la durata annua effettiva del  lavoro 
+degli uomini è diminuita (–3,3%) mentre quella delle donne è 
+aumentata (+0,8/%). Il calo è stato più elevato tra i lavoratori e le 
+lavoratrici indipendenti (–11,0%) che tra quelli dipendenti (–0,9%).
+Considerando solo il personale dipendente occupato a tempo 
+pieno, tra il 2019 e il 2024 la durata settimanale effettiva del lavoro 
+ha subìto un calo di 1 ora e 6 minuti, per attestarsi a 40,1 ore. 
+  
+Maggiore frequenza degli orari di lavoro flessibili
+Nel 2024 il 47,3% del personale dipendente lavorava con orari 
+flessibili (2019: 45,9%). Gli uomini beneficiavano più spesso di tali 
+orari rispetto alle donne (il 51,5% contro il 42,9%), ma dal 2019 la 
+quota è aumentata maggiormente per le donne (+2,7 punti per­
+centuali) che per gli uomini (+0,3 punti percentuali).
+I giovani occupati cambiano lavoro più spesso
+Tra il 2019 e il 2024, in Svizzera la mobilità professionale è leg­
+germente aumentata. In totale, nel 2024 il 13,4% delle persone 
+occupate ha cambiato lavoro (contro il 12,7% del 2019); di queste, 
+il 4,0% è rimasto nella stessa impresa e il restante 9,4% l’ha invece 
+cambiata passando ad un’altra. 
+Il tasso di cambiamento di impiego era leggermente diverso 
+tra donne e uomini (risp. il 13,9 e il 13,0%). Tuttavia, la mobilità 
+professionale diminuiva significativamente all’aumentare dell’età: 
+mentre circa un quinto delle persone dai 15 ai 24 anni (21,6%) 
+e di quelle dai 25 ai 39 anni (19,4%) hanno cambiato lavoro nel 
+2024, la quota corrispondente per le persone dai 55 ai 64 anni si 
+attestava solo al 6,3%. 
+  
+Durata annua effettiva del lavoro secondo il sesso,
+2019–2024
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+1 600
+1 800
+2019
+2020
+2021
+2022
+2023
+2024
+Uomini
+Donne
+Totale
+N.B.: In ore per impiego
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-12
+Fonte: UST – Statistica del volume di lavoro (SVOL)
+© UST 2025
+Quota di persone occupate che hanno cambiato
+posto di lavoro l'anno scorso secondo la fascia di
+età
+2019
+2024
+15–24 anni
+25–39 anni
+40–54 anni
+55–64 anni
+Totale
+0%
+5%
+10%
+15%
+20%
+25%
+N.B.: Tasso di rotazione netto
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-13
+Fonte: UST – Rilevazione sulle forze di lavoro in Svizzera
+(RIFOS)
+© UST 2025
+
+---
+
+ATTUALITÀ UST
+11
+I contratti dei giovani dipendenti sono più spesso a tempo 
+determinato
+Nel quarto trimestre del 2024, l’8,3% del personale dipendente 
+(apprendisti esclusi) aveva un contratto a durata determinata, 
+contro il 7,9% del 2019. Tale quota era più alta tra le donne (9,0%) 
+che tra gli uomini (7,7%). Questo tipo di contratto era quello più 
+diffuso tra il personale dipendente dai 15 ai 24 anni di età (23,3%). 
+Viceversa, le persone dai 55 ai 64 anni erano la fascia di età 
+con la quota più bassa di contratti a durata determinata (4,6%), 
+seguite a ruota dalle persone dai 40 ai 54 anni (4,7%).
+  
+Tasso di sottoccupazione più alto per le donne
+Nel quarto trimestre del 2024, circa 248 000 persone che lavora­
+vano a tempo parziale hanno dichiarato di voler aumentare il loro 
+grado di occupazione nel breve periodo. Tale cifra corrispondeva 
+al 4,8% della popolazione attiva. Le donne erano sottoccupate più 
+spesso degli uomini (il 7,3% contro il 2,6%). La stessa cosa vale 
+per la popolazione attiva di nazionalità straniera: a essere sot­
+toccupato era il 5,8%, contro il 4,4% del personale di nazionalità 
+svizzera. Tra le persone sottoccupate, il 49,7% cercava un lavoro 
+a tempo pieno, mentre il 50,3% restante voleva continuare a lavo­
+rare a tempo parziale ma con un grado di occupazione più alto.
+  
+Lavoro su chiamata più diffuso tra il personale dipendente 
+giovani e over 64 
+Nel 2024, il 16,2% delle persone occupate lavorava regolarmente 
+di sera, ovvero tra le 19 e mezzanotte, e il 5,4% di notte, ovvero 
+tra mezzanotte e le sei del mattino. Il lavoro serale era più diffuso 
+tra le donne (17,0%) che tra gli uomini (15,5%), mentre per quello 
+notturno le proporzioni sono invertite (il 5,9% per gli uomini con­
+tro il 5,0% per le donne).
+Nel 2024, il 26,2% delle persone occupate lavorava regolar­
+mente di sabato. Le donne lavoravano di sabato più spesso degli 
+uomini (il 29,2% contro il 23,5%). Si osservano grandi differenze 
+in funzione dell’età: la fascia di età delle persone occupate dai 
+15 ai 24 anni e la fascia dai 65 anni in su erano quelle nelle quali 
+era più diffuso il lavoro di sabato (risp. con il 36,3 e il 31,5%). Il 
+lavoro di domenica nel 2024 riguardava il 15,6% della popolazione 
+occupata (il 14,0% degli uomini e il 17,3% delle donne).
+Nel 2024, l’8,3% del personale dipendente (apprendisti esclusi) 
+lavorava su chiamata. Tale modalità di lavoro era più diffusa tra 
+le donne (9,6%) che tra gli uomini (7,1%). Prendendo in considera­
+zione le diverse fasce di età, era quella del personale dipendente 
+dai 65  anni in su a lavorare più spesso su chiamata (24,6%), 
+seguita dalla fascia delle persone dai 15 ai 24 anni (16,7%).
+  
+Personale dipendente (apprendisti esclusi) 
+con contratto a tempo determinato, 
+secondo il sesso e l'età
+In % delle persone occupate, 4° trimestre
+Uomini
+ 
+2019
+2024
+Donne
+ 
+2019
+2024
+Totale
+7,2%
+7,7%
+8,6%
+9,0%
+65 anni e più¹
+55–64 anni
+3,3%
+5,1%
+3,9%
+4,1%
+40–54 anni
+2,4%
+4,0%
+4,1%
+5,5%
+25–39 anni
+9,8%
+8,3%
+9,8%
+15–24 anni
+¹ Meno di 50 osservazioni. I risultati devono essere interpretati con molta cautela.
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-14
+Fonte: UST – Rilevazione sulle forze di lavoro in Svizzera
+(RIFOS)
+© UST 2025
+19,3%
+11,4%
+20,3%
+10,8%
+23,4%
+27,9%
+23,2%
+19,5%
+21,9%
+Grado di occupazione desiderato dalle persone
+sottoccupate
+4° trimestre 2024
+Aumento del tempo parziale
+Tempo pieno
+Donne
+Uomini
+0%
+20%
+40%
+60%
+80%
+100%
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-15
+Fonte: UST – Rilevazione sulle forze di lavoro in Svizzera
+(RIFOS)
+© UST 2025
+Orari di lavoro atipici e flessibili, lavoro su
+chiamata
+In % delle persone occupate, 2024
+Uomini
+Donne
+Lavoro su chiamata¹
+Orari di lavoro flessibili¹
+Lavoro domenicale
+Lavoro del sabato
+Lavoro notturno
+Lavoro serale
+0%
+20%
+40%
+60%
+¹ Dipendenti
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-16
+Fonte: UST – Rilevazione sulle forze di lavoro in Svizzera
+(RIFOS)
+© UST 2025
+
+---
+
+ATTUALITÀ UST
+12
+Nel 2024 una persona su dieci lavorava principalmente 
+da casa
+Nel 2024, il 9,1% delle persone occupate lavorava principalmente 
+da casa1. Le donne e gli uomini ricorrevano a questa forma di 
+lavoro con quote simili (risp. il 9,6  e l’8,7%). Considerando le 
+fasce di età, sono state soprattutto le persone dai 65 anni in su 
+a ricorrere al lavoro da casa (29,7%), seguite dalle persone dai 
+55 ai 64 anni (9,2%). 
+Aumento del numero di dipendenti sottoposti a contratti 
+­collettivi di lavoro (CCL) e a contratti normali di lavoro (CNL)
+Al 1° marzo 2021 si contavano 575 CNL, a cui erano sottoposti 
+poco più di 2,1 milioni di dipendenti. Di questi, 562 erano CNL con 
+disposizioni normative (2 mio. di persone sottoposte) e 13 erano 
+senza tali disposizioni (190 000 persone sottoposte).
+Per quanto riguarda i CNL in Svizzera stabiliti dal Consiglio 
+federale o dai Cantoni, al 1° marzo 2021 erano in vigore 114 CNL, 
+il che corrisponde a 68 CNL ordinari e 46 CNL che prevedono 
+salari minimi obbligatori se in un ramo economico o in una pro­
+fessione vengono offerti abusivamente e ripetutamente salari 
+inferiori a quelli usuali.
+In riferimento ai principali contratti collettivi di lavoro (CCL), 
+ovvero contratti ai quali sono sottoposte almeno 1500 persone, 
+per il 2024 le parti sociali si sono accordate su un aumento 
+nominale dei salari effettivi pari a una media del 2,1% (2023: 
+2,5%; 2022: 0,8%; 2020: 0,9%; 2019: 1,1%). I CCL assicurano 
+un aumento salariale spesso maggiore di quello osservato per 
+l’insieme del personale dipendente. 
+Per il 2024 sono stati registrati 5 casi di sciopero che hanno 
+coinvolto un totale di 2694 lavoratori, pari a 3712 giornate di 
+lavoro non effettuate.
+  
+1	
+Occorre distinguere tra il «lavoro da casa» e il «telelavoro da casa». Il primo 
+termine si riferisce a qualsiasi attività professionale svolta da casa, mentre 
+il secondo è usato specificamente quando Internet viene utilizzato per 
+scambiare informazioni con il datore di lavoro o con i clienti. In altre parole, 
+il «telelavoro da casa» è una forma di «lavoro da casa».
+Situazione del mercato del lavoro nel primo 
+trimestre 2025 e prospettive a breve termine
+Nel primo trimestre del 2025 il numero di persone occupate è 
+aumentato rispetto allo stesso trimestre dell’anno precedente. 
+Il tasso di disoccupazione, sia ai sensi dell’ILO che ai sensi della 
+SECO è leggermente aumentato. Inoltre, alla fine del primo tri­
+mestre del 2025 le previsioni sull’evoluzione dell’impiego erano 
+contrastanti: l’economia nel suo complesso offriva 18 400 posti 
+liberi in meno rispetto al primo trimestre del  2024 (–16,4%), 
+mentre dall’indicatore delle previsioni di evoluzione dell’impiego è 
+risultato un aumento dell’occupazione nel breve periodo, sebbene 
+leggermente inferiore rispetto al primo trimestre del 2024 (–0,5%, 
+passato dall’1,05 all’1,04%2).
+Aumento del numero di persone occupate e di impieghi
+Il numero di persone occupate è aumentato di 39 000 persone, 
+pari allo 0,7% tra i primi trimestri del 2024 e del 2025. Tale numero 
+è aumentato sia per gli uomini (+0,5%, passando a 2,9 mio.) che 
+per le donne (+1,0%, raggiungendo i 2,5 mio.). Inoltre, il numero 
+di persone occupate di nazionalità svizzera è diminuito (–0,1%, 
+arrivando a 3,5  mio.) mentre quello delle persone straniere è 
+aumentato (+2,4%, attestandosi a 1,9 mio.). Riguardo a queste 
+ultime, il numero di persone occupate è progredito soprattutto 
+per quelle titolari di un permesso di dimora (permesso B o L, in 
+Svizzera da almeno 12 mesi; +4,9%, arrivato 563 000 persone) e 
+per le persone frontaliere (+2,2%, passato a 405 000 ). Il numero 
+di persone occupate con permesso di soggiorno di breve durata 
+(permesso L per dimoranti temporanei, in Svizzera da meno di 
+12 mesi) è invece sceso del 4,0%, attestandosi a 40 000 persone.
+  
+2	
+Un valore superiore a 1,00 indica che la maggior parte delle imprese prevede 
+di aumentare gli effettivi entro tre mesi, mentre un valore inferiore a detta 
+soglia indica il contrario. Se il valore è pari a 1,00, ciò significa che non è 
+previsto alcun cambiamento.
+Andamento dei salari nominali nei settori
+secondario e terziario, 2019–2024
+2019
+2020
+2021
+2022
+2023
+2024
+−1,0%
+0,0%
+1,0%
+2,0%
+3,0%
+2,1
+2,1
+1,8
+1,8
+Salari effetivi dei principali CCL (>1 500 assoggettati)
+Indice svizzero dei salari (ISS)
+N.B.: Rispetto all'anno precedente
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-17
+Fonte: UST – Inchiesta sugli accordi salariali (IAS), indice
+svizzero dei salari (ISS)
+© UST 2025
+Variazione del numero di persone occupate
+secondo il settore economico
+dal 1° trimestre 2024 al 1° trimestre 2025
+−1,0%
+−0,5%
+0,0%
+0,5%
+1,0%
+1,5%
+2,0%
+Q1 2024
+Q2 2024
+Q3 2024
+Q4 2025
+Q1 2025
+Totale
+Settore secondario
+Settore terziario
+N.B.: Rispetto allo stesso trimestre dell’anno precedente
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-18
+Fonte: UST – Statistica delle persone occupate (SPO)
+© UST 2025
+
+---
+
+ATTUALITÀ UST
+13
+Tra il primo trimestre del 2024 e lo stesso trimestre del 2025, 
+il numero di impieghi è aumentato anche nei settori secondario 
+e terziario (+0,6%)3. L’evoluzione del numero di impieghi varia a 
+seconda dei rami economici considerati. Il calo più netto è stato 
+registrato nei rami «Attività di ricerca, selezione, fornitura di per­
+sonale» (–14,4%) ed «Editoria, audiovisivi e attività radiotelevisive» 
+(–4,5%). Al contrario, gli impieghi sono aumentati in particolare 
+nei rami « Attività immobiliari» (+4,2%) e «attività dei servizi sani­
+tari» (+3,7%).
+Aumento del numero di persone disoccupate
+Nel primo trimestre del 2025, in Svizzera 240 000 persone erano 
+disoccupate secondo la definizione dell’Ufficio internazionale 
+del Lavoro (ILO). Queste persone rappresentavano il 4,7% della 
+popolazione attiva, contro il 4,3% del primo trimestre del 2024. 
+A fine marzo del 2025, il tasso di disoccupazione secondo la 
+SECO si attestava al 2,9%, ovvero a un livello superiore di 0,5 punti 
+percentuali rispetto allo stesso mese dell’anno precedente. In 
+termini assoluti, tale tasso rappresentava circa 133 000 persone 
+iscritte come disoccupate presso un ufficio regionale di colloca­
+mento alla fine del primo trimestre del 2025, il che corrisponde 
+a un aumento di circa 24 000 persone rispetto a un anno prima.
+Calo del numero di posti liberi
+Nei settori secondario e terziario, nel primo trimestre del 2025 
+sono stati registrati 93 800 posti liberi, 18 400 in meno rispetto 
+allo stesso trimestre dell’anno precedente (–16,4%). Il numero di 
+posti liberi è diminuito sia nel settore secondario (–16,8%) che 
+in quello terziario (–16,3%). Rispetto al primo trimestre del 2024, 
+anche la quota degli stabilimenti che hanno avuto difficoltà nel 
+reclutare personale qualificato è diminuita (–3,0 punti percentuali, 
+raggiungendo il 36,1%).
+3	
+Le evoluzioni diverse tra loro del numero di persone occupate (statistica delle 
+persone occupate, SPO) e del numero di impieghi (statistica dell’impiego, 
+STATIMP) possono, tra le altre cose, derivare dalle differenze di universo di 
+base (economie domestiche per la prima e imprese per la seconda), dall’unità 
+statistica (persone per la prima e impieghi per la seconda) e dal periodo di 
+riferimento (media trimestrale per la prima e fine del trimestre per la seconda). 
+Al deteriorarsi della congiuntura, la SPO tende a fornire un’immagine spesso 
+più positiva rispetto alla STATIMP, o più negativa in caso di evoluzione positiva 
+della congiuntura.
+Prospettive d’impiego ottimistiche alla fine 
+del primo ­trimestre 2025
+L’indicatore delle previsioni di evoluzione dell’occupazione, che 
+rappresenta la volontà delle imprese dei settori secondario e 
+terziario di assumere nuovo personale nei tre mesi successivi, 
+mostra che la maggior parte delle imprese intende mantenere 
+o aumentare i propri effettivi nel corso del secondo trimestre 
+del 2025. Tuttavia è stato registrato un leggero calo rispetto al 
+primo trimestre del 2024 (da 1,05 a 1,04). Tale calo è stato osser­
+vato sia nel settore secondario che nel terziario (in entrambi i casi 
+passato da 1,05 a 1,04). I rami per i quali è stato registrato il calo 
+maggiore sono stati quello della fabbricazione di prodotti di elet­
+tronica e di orologi (da 1,05 a 1,04) e quello della fabbricazione di 
+prodotti in metallo (da 1,03 a 0,99). Al contrario, le previsioni sono 
+aumentate nel ramo dell’amministrazione pubblica (da 1,04 a 
+1,07), in quello dell’«Istruzione» (da 0,99 a 1,02). Fatta eccezione 
+per il ramo «Fabbricazione di prodotti in metallo », l’indicatore è 
+rimasto sopra alla soglia di 1,00 in tutte le divisioni economiche, 
+il che significa che la maggior parte delle imprese intendono 
+mantenere o accrescere i loro effettivi.
+  
+Posti liberi, difficoltà di reclutamento di personale 
+qualificato e prospettive d’impiego
+ 
+Posti liberi
+In migliaia
+0
+20
+40
+60
+80
+100
+120
+Totale
+Settore secondario
+Settore terziario
+Difficoltà di reclutamento di personale qualificato¹
+In %
+0%
+10%
+20%
+30%
+40%
+50%
+Totale
+Settore secondario
+Settore terziario
+Prospettive d’impiego²
+Indicatore
+0,00
+0,20
+0,40
+0,60
+0,80
+1,00
+1,20
+Totale
+Settore secondario
+Settore terziario
+Q1 2024
+Q1 2025
+¹ Ponderazione secondo il numero di impieghi
+² La scala va da 0,50 (riduzione) a 1,50 (aumento), passando per 1,00 (nessun 
+cambiamento)
+Stato dei dati al 03.07.2025
+Fonte: UST – Statistica dell'impiego (STATIMP)
+gd-i-03.01-ami-19
+© UST 2025
+
+---
+
+ATTUALITÀ UST
+14
+Il mercato del lavoro svizzero nel confronto 
+internazionale
+Nel raffronto internazionale, il mercato svizzero del  lavoro è 
+rimasto competitivo. Il tasso di attività e la partecipazione delle 
+donne alla vita attiva sono tra i più alti d’Europa. L’elevata parteci­
+pazione delle donne al mercato del lavoro è peraltro correlata con 
+la forte diffusione dell’occupazione a tempo parziale: la quota di 
+persone occupate a tempo parziale è sensibilmente più elevata 
+in ­Svizzera che nella maggior parte degli altri Paesi europei. Con­
+vertiti in euro, i salari della Svizzera sono più elevati di quelli dei 
+Paesi dell’Unione europea (UE). Tuttavia, convertendo i salari in 
+standard di potere d’acquisto per tenere conto dei vari livelli dei 
+prezzi, le differenze si assottigliano.
+Tasso di attività elevato in Svizzera
+Nel quarto trimestre del 2024, in Svizzera il tasso di attività della 
+popolazione di 15 anni e più era del 67,8%, uno dei più alti in 
+Europa. Solo l’Islanda e i Paesi Bassi hanno registrato valori più 
+elevati (risp. il 74,5 e il 68,4%). Nei Paesi limitrofi la partecipazione 
+alla vita attiva è stata nettamente più bassa (Germania: 62,3%; 
+Austria: 61,4%; Francia: 56,3%; Italia: 49,6%). L’Italia presentava 
+il tasso di attività più basso d’Europa, seguita dalla Romania 
+(51,3%), dalla Grecia (52,5%) e dalla Croazia (53,3%). La media 
+dell’UE si situava a quota 58,0%.
+  
+Forte partecipazione delle donne alla vita attiva in Svizzera 
+e nei Paesi nordici
+La partecipazione delle donne alla vita attiva varia fortemente 
+da un Paese all’altro. Nel quarto trimestre del 2024, in Romania 
+(41,8%) e in Italia (41,2%) partecipavano alla vita attiva due donne 
+su cinque dai 15 anni in su, mentre i tassi di attività professionale 
+delle donne nei Paesi dell’Europa del Nord superavano il 60% 
+(Islanda: 69,1%; Paesi Bassi: 64,2%; Svezia: 63,2%; Estonia: 
+62,6%; Norvegia 62,1%; Danimarca: 61,0% e Irlanda: 60,6%). Nella 
+media europea, una donna su due è professionalmente attiva 
+(52,5%). Nel confronto con gli altri Paesi europei, la Svizzera, con 
+una quota del 63,0%, si aggiudica la quarta posizione, mentre 
+nei Paesi limitrofi il tasso di attività professionale delle donne è 
+nettamente inferiore (Germania: 57,4%; Austria: 56,9%; Francia: 
+52,8%). In Svizzera la partecipazione delle donne alla vita attiva è 
+incentivata dalla vasta offerta di posti di lavoro a tempo parziale. 
+Nel nostro Paese, infatti, il 42,0% delle persone occupate lavora 
+a tempo parziale (donne: 63,3%). Soltanto i Paesi Bassi hanno 
+presentato una quota più elevata (43,5%; donne: 63,9%). Quote 
+particolarmente basse sono invece state riscontrate in Bulgaria 
+(1,8%; donne: 2,0%), e in Romania (3,3%; donne: 2,8%).
+In tutti i Paesi oggetto di analisi, la partecipazione alla vita 
+attiva degli uomini è più elevata di quella delle donne. Il più alto 
+tasso di attività degli uomini è stato registrato in Islanda (79,6%), 
+seguita da Malta (74,9%) nonché dai Paesi Bassi e dalla Svizzera 
+(entrambe al 72,7%). Nei Paesi limitrofi alla Svizzera tale tasso è 
+nettamente inferiore (Germania: 67,4%; Austria: 66,2%; Francia: 
+60,2%; Italia: 58,5%), con una media europea del 63,9%.
+Tasso d’attività standardizzato (15 anni e più) in
+Svizzera e nei Paesi dell’UE e dell’AELS
+4° trimestre 2024
+Islanda
+Paesi Bassi
+Svizzera
+Malta
+Estonia
+Svezia
+Irlanda
+Danimarca
+Norvegia
+Cipro
+Lituania
+Lussemburgo
+Germania
+Slovacchia
+Austria
+Ungheria
+Cechia
+Lettonia
+Finlandia
+Portogallo
+Slovenia
+UE
+Polonia
+Spagna
+Francia
+Belgio
+Bulgaria
+Croazia
+Grecia
+Romania
+Italia
+0%
+20%
+40%
+60%
+80%
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-20
+Fonte: UST – Rilevazione sulle forze di lavoro in Svizzera
+(RIFOS); EUROSTAT (stato: marzo 2025)
+© UST 2025
+
+---
+
+ATTUALITÀ UST
+15
+Tasso di disoccupazione relativamente basso in Svizzera
+Tra il quarto trimestre del 2023 e lo stesso trimestre del 2024, in 
+Svizzera il tasso di disoccupazione ai sensi dell’ILO è aumentato 
+dal 4,0 al 4,4%. Nello stesso periodo, il tasso di disoccupazione 
+medio dell’UE è diminuito di 0,4  punti, attestandosi al 5,7%. 
+Rispetto ai Paesi dell’UE, la Svizzera è uno dei Paesi con i tassi 
+di disoccupazione ai sensi dell’ILO più bassi. In Francia (7,4%), 
+in Italia (6,1%), e in Austria (5,2%) il tasso di disoccupazione è 
+superiore, mentre è più basso in Germania (3,3%). I tassi minori 
+sono stati registrati in Cechia (2,5%), in Polonia (2,8%) e a Malta 
+(2,9%). Viceversa, la Grecia e la Spagna presentano i tassi di 
+disoccupazione ai sensi dell’ILO più alti d’Europa, rispettivamente 
+il 9,5% e il10,6%.
+  
+Confronto internazionale dei salari 
+Dal confronto dei salari annui lordi medi nel ramo «Industria e 
+servizi» emerge l’entità della forbice salariale esistente tra i Paesi 
+dell’UE. Esistono notevoli differenze a seconda della loro distri­
+buzione geografica. 
+Nel 2022 le disparità salariali tra i Paesi dell’Unione europea 
+con 27  Stati membri sono rimaste nette, in particolare tra i 
+Paesi del Nord, del Sud e dell’Est. I salari annui lordi medi più alti 
+sono stati registrati in Lussemburgo (74 542 euro), Danimarca 
+(65 622 euro) e Belgio (53 642 euro). Al contrario, quelli più bassi 
+sono stati rilevati in Bulgaria (12 592 euro), Ungheria (16 563 euro) 
+e Romania (16 592 euro). Paesi come la Spagna (31 186 euro), 
+la Grecia (24 513 euro) e il Portogallo (23 112 euro) si trovavano 
+invece a metà classifica. Con un salario annuo lordo medio pari 
+a 95 698 euro, livello influenzato in parte dalla forza del franco, 
+la Svizzera occupava il primo posto in classifica, davanti al 
+­Lussemburgo.
+Per paragonare salari che esprimano davvero il potere d’acqui­
+sto reale, quelli indicati in valuta nazionale devono essere conver­
+titi in una valuta fittizia, il cosiddetto standard di potere d’acquisto 
+(SPA). Se si considerano le differenze di livello dei prezzi tra i vari 
+Stati, il divario osservato si riduce. In effetti, espressi in euro, i 
+salari pagati in Svizzera erano più di sette volte e mezzo superiori 
+a quelli pagati in Bulgaria (+760%), mentre se i salari vengono 
+convertiti in SPA la differenza è di circa tre volte inferiore (+291%). 
+Rispetto ai salari dei Paesi limitrofi alla Svizzera espressi in euro, 
+i salari annui svizzeri erano superiori dell’82% a quelli versati in 
+Austria, dell’87% a quelli versati in Germania, del 135% a quelli 
+versati in Francia e del 161% a quelli versati in Italia. Queste dif­
+ferenze si assottigliano se il confronto viene effettuato tra i salari 
+lordi medi convertiti in SPA. In tal caso i divari si riducono al +30% 
+con l’Austria, +33% con la Germania, +62% con la Francia e +59% 
+con l’Italia. 
+  
+Tasso di disoccupazione ai sensi dell’ILO (15–74
+anni), in Svizzera e nei Paesi dell’UE e dell’AELS
+4° trimestre
+2024
+2023
+Spagna
+Grecia
+Finlandia
+Svezia
+Estonia
+Francia
+Lettonia
+Lussemburgo
+Portogallo
+Danimarca
+Lituania
+Italia
+Belgio
+Romania
+UE
+Austria
+Slovacchia
+Croazia
+Cipro
+Ungheria
+Svizzera
+Irlanda
+Bulgaria
+Norvegia
+Paesi Bassi
+Slovenia
+Germania
+Islanda
+Malta
+Polonia
+Cechia
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+Dati aggiornati: 03.07.2025
+gr-i-03.01-ami-21
+Fonte: UST – Rilevazione sulle forze di lavoro in Svizzera
+(RIFOS); EUROSTAT (stato: marzo 2025)
+© UST 2025
+
+---
+
+ATTUALITÀ UST
+16
+Editore:  
+Ufficio federale di statistica (UST)
+Informazioni: 
+Sezione Lavoro e occupazione, UST, tel. +41 58 463 64 00,
+ 
+info.arbeit@bfs.admin.ch
+Redazione: 
+ Yan Monnard, UST; Silvia Perrenoud, UST; Nathalie Nünlist, 
+UST; Elisabetta Capezzali, UST; Davide de Brito Figueiredo, 
+UST; Julia Ignaczewska, UST; Damien Droz, UST; Simon 
+Tripod, UST; Christoph Eichenmann, UST; Luca Mathys, UST; 
+Maxime Dénervaud, UST
+Serie: 
+Statistica della Svizzera
+Settore: 
+03 Lavoro e reddito
+Testo originale: 
+francese
+Traduzione: 
+Servizi linguistici dell’UST
+Grafica 
+e impaginazione: 
+Publishing e diffusione PUB, UST
+Grafici: 
+ Publishing e diffusione PUB, UST
+I grafici in versione interattiva sono anche disponibili 
+nel nostro catalogo online.
+Versione digitale: 
+www.statistica.admin.ch 
+Versione cartacea: 
+www.statistica.admin.ch 
+ 
+Ufficio federale di statistica, CH-2010 Neuchâtel,
+ 
+order@bfs.admin.ch, tel. +41 58 463 60 60
+ 
+stampato in Svizzera
+Copyright: 
+UST, Neuchâtel 2025
+ 
+Riproduzione autorizzata, eccetto per scopi commerciali, 
+ 
+con citazione della fonte.
+Numero UST: 
+206-2505
+Il sistema di indicatori MONET 2030
+www.statistica.admin.ch → Statistiche → Sviluppo sostenibile 
+→ Il sistema di indicatori MONET 2030
+Le informazioni contenute in questa pubblicazione contribuiscono 
+alla misurazione degli obiettivi di sviluppo sostenibile (OSS).
+  
+Salario annuo lordo medio¹ (imprese con 10
+dipendenti o più, settori dell’industria e dei servizi
+commerciali²), in Svizzera e negli Stati dell’UE e
+dell’AELS
+In SPA³ e in euro, 4° trimestre 2022
+SPA
+Euro
+Svizzera
+Lussemburgo
+Danimarca
+Belgio
+Austria
+Norvegia
+Germania
+Irlanda
+Paesi Bassi
+Finlandia
+UE4
+Italia
+Francia
+Svezia
+Slovenia
+Malta
+Spagna
+Cipro
+Lituania
+Grecia
+Romania
+Polonia
+Cechia
+Portogallo
+Ungharia
+Estonia
+Slovacchia
+Lettonia
+Croazia
+Bulgaria
+Islanda
+0
+20 000
+40 000
+60 000
+80 000
+100 000
+¹ Gli importi sono calcolati a partire dai salari del personale dipendente a tempo
+pieno e a tempo parziale (ricalcolati sulla base di un grado di occupazione del 100%)
+² Sezioni economiche da B a N (NACE Rev. 2)
+³ I salari espressi in SPA (standard di potere d'acquisto) eliminano gli effetti delle
+differenze nei livelli di prezzo tra i Paesi
+⁴ Composizione dell'UE nel 4° trimestre 2022
+Dati aggiornati: 10.12.2024
+gr-i-03.01-ami-22
+Fonte: UST – Rilevazione della struttura dei salari (RSS);
+EUROSTAT (stato: 12.02.2025)
+© UST 2025

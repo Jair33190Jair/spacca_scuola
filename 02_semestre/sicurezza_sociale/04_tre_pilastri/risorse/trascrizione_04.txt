@@ -1,0 +1,1044 @@
+Benvenute, benvenuti Questa mattina sorprendentemente la tecnica ci è assistibile, quindi possiamo partire
+senza problemi e riprendiamo la lezione dove labbiamo interrotta la settimana prossima la settimana scorsa la
+settimana prossima cercheremo di come dire di approfondire i temi che vi ho consegnato nelle diapositive che
+trovate in piattaforma, cioè sarà un'introduzione al sistema dei tre pilastri, uno dei fondamenti del nostro
+sistema di
+
+sicurezza sociale avremo modo di approfondirlo compatibilmente con il tempo che abbiamo a disposizione si
+tratta di un di uno dei dei fondamenti di uno dei nostri di uno degli elementi costitutivi del nostro sistema
+di sicurezza sociale in particolare del sistema delle assicurazioni sociali che comunque questa mattina
+vogliamo continuare a descrivere nella sua architettura generale nel suo perimetro generale, proprio per
+contestualizzare quelli che sono saranno i temi di questa di questo modulo e di questo di questo semestre.
+Come già vi dissi la settimana scorsa.
+
+Io non come dire, non non mi aspetto da voi che mandiate a memoria dati date informazioni quantitative di
+vario genere e che sappiate nei dettagli di ogni singola assicurazione sociale e di ogni singolo dispositivo
+di sicurezza sociale. Per fare questo avremo avrete tempo più in là nel vostro curriculum informativo e
+soprattutto.
+
+Quando sarete immersi nella realtà professionale che vi aspetta quello che importa sapere quello che porta a
+capire e dove reperire informazioni, quell'informazione di cui avete di cui avrete assolutamente bisogno nel
+momento in cui dovrete fare un carico di una serie di problemi di bisogni della popolazione che si rivolgerà a
+volti dovrete essere in qualche modo pronti a a rispondere o a rispondere dopo aver reperito l'informazione.
+Adeguata all'informazione ideale, insomma, per dare una risposta appropriata ed efficace alla persona che si
+rivolge a voi, piena di come dire di speranze e di aspettative.
+
+Quindi come dire a noi interessa l'architettura del sistema, poi sì un modo di entrare un po' nei dettagli, ma
+senza senza esagerare, come si dice noi parliamo di Quando noi parliamo di assicurazioni sociali sappiamo
+perché l'abbiamo visto da Settimana scorsa parliamo di dispositivi che tra le altre cose sono preposti a
+erogare delle prestazioni a favore delle persone. prestazioni sotto sotto diverse forme e queste assicurazioni
+sociali fanno
+
+parte di un sistema che abbiamo rappresentato schematicamente sotto forma di piramide rovesciata che vi dà un
+po' una una sintesi, una visione d'insieme di come funziona di come è costituito di quali sono gli elementi
+costitutivi di questo sistema che noi chiamiamo sicurezza sicurezza sociale e al centro fulcro di questo
+sistema di sicurezza sociale è rappresentato dalle assicurazioni sociali dalle 11 assicurazioni sociali di cui
+avete l'acronimo
+
+descritto nella fascia intermedia in questa superficie intermedia della piramide della piramide rovesciata. in
+cui parliamo parleremo ancora dopo adesso questa e sulle quali avremo modo di ritornare nel corso del
+semestre, approfondendo alcuni aspetti di queste assicurazioni sociali non solo le prestazioni e le tipologie
+di prestazioni di queste assicurazioni prevedono anche sistema organizzativo e soprattutto il finanziamento
+perché come abbiamo
+
+detto la settimana scorsa tutto questo sistema che prevede l'erogazione di aiuti di prestazioni sotto varie
+forme a un costo e qualcuno questo posto lo deve sostenere deve coprire questi questi costi Questo aspetto
+legato ai legato al finanziamento del sistema di sicurezza sociale lo vedremo ancora nel corso di questa
+lezione con un altro schema riassuntivo che vi dovrebbe permettere di capire dove ci siiamo quando parliamo di
+sicurezza dovrebbe
+
+permettere di capire l'architettura di avere una visione d'insieme di come funziona il sistema, quindi due
+strumenti solvi, due rappresentazioni schematiche del sistema di sicurezza sociale che dovrebbe permettere
+ogni volta di situare contestualmente ai vostri bisogni, il sistema di sicurezza sociale e le sue diverse
+componenti, i suoi diversi elementi costitutivi e fra questi non vi sono soltanto lezioni sociali, ma vi sono
+anche in competenza
+
+federale contatti, quello che abbiamo dizioni sociali, dobbiamo sempre pensare a livello istituzionale
+superiore a livello di livello istituzionale federale della confederazione che si occupa e competenti in
+materia dizione sociale. ma di questo sistema di sicurezza sociale fanno parte anche le cosiddette prestazioni
+con misurate al dis quei dispositivi che erogano principalmente sostanzialmente via prioritaria molto spesso
+prestazioni dopo
+
+accertamento dei mezzi di cui rappresentativo è l'aiuto sociale in senso stretto o quello che si chiama ancora
+oggi nelle normative, in particolare in quella cinese del cantotticino, assistenza sociale che in quanto tale
+è ancora stigmatizzante quando si parla di assistenza in qualche modo si incolla alla persona che ne beneficia
+a uno stigma per cui appunto ricorre alle prestazioni assistenziali all'assistenza sociale, perché non ce la
+fa con i troppi mezzi con le proprie risorse, quindi ha bisogno di un sostegno da parte della collettività
+sotto forma appunto di di prestazioni di prestazioni sociali.
+
+L'assistenza sociale o l'aiuto sociale in senso stretto è paradigmatica di questo elemento costitutivo del
+sistema di sicurezza sociale che chiamiamo come dire in mancanza di meglio prestazioni commisurate al bisogno
+o con accertamento dei mezzi dogati dopo accertamento dei mezzi. Ci sono molte altre prestazioni simili alla
+all'assistenza sociale che quindi funzionano sulla base di un accertamento dei mezzi.
+
+Occorre dimostrare di non avere risorse sufficienti per far fronte alle spese quotidiane per far fronte ai
+propri bisogni per coprire quello che i legislatore ha chiamato il minimo vitale o il fabbisogno o il
+fabbisogno vitale E di queste anche questo ricordatevelo ricordatelo bene di questi di questi dispositivi con
+accertamento dei mezzi. Fanno parte anche due dispositivi assicurativi, non perché la competenza cade A
+livello a livello cantonale perché se ne occupano i cantoni competenti per questi due prestazioni assicurative
+che erogano prestazioni dopo accertamento dei mezzi.
+
+Rimangono assicurazioni sociali, quindi fanno parte a pieno titolo del diritto delle assicurazioni sociali per
+questo motivo che ritroviamo nella fascia intermedia e parlo delle prestazioni complementari a, quindi avremo
+modo di capire di vedere come funzionano nello specifico concretamente e le cosiddette prestazioni transitorie
+PT, l'acronimo PT per disoccupati per disoccupati anziani ed è una assicurazione sociale relativamente recente
+nel
+
+2021. vedremo con quali obiettivi, quindi pur facendo parte del diritto della situazione sociale, pur essendo
+due delle 11 assicurazioni sociali funzionano in modo un po' diverso rispetto alle altre situazioni sociali
+cioè funzionano in maniera simile in maniera analoga possiamo dire all'assistenza sociale e alle prestazioni
+alle altre prestazioni con misurate al bisogno o con con accertamento dei mezzi. questo dovrebbe essere
+chiaro, diciamo la
+
+la la visione di poi come dire un altro come dire un altro richiamo è alle prestazioni che ho scritto che
+trovate in rosso nel vertice della piramide rovesciata sono quelle prestazioni commisurate al bisogno che
+incanton Ticino sono coordinate e armonizzate da una legge cantonale.
+
+La laps che sta per legge sull'armonizzazione e il coordinamento delle prestazioni sociali di cui parlerete di
+cui sentirete parlare verso la fine del del semestre e quindi sarà un tema che approfondiremo e che
+approfondirete con il con il collega Gregorio verso la fine del del del semestre, proprio per dargli un'idea
+di come funzionano concretamente anche queste queste prestazioni sociali di cui vedremo ogni tanto farò
+qualche qualche qualche richiamo proprio per ricorarvi come funzionano e per sottolineare enfatizzare
+l'importanza di queste di queste di queste prestazioni. Il secondo richiamo è ai servizi che qui trovate
+separati non fanno parte come dire non sono integrate.
+
+Nel perimetro della piramide rovesciata, ma fanno parte di questo sistema di un sistema più più è più è più
+ampio che chiamiamo. politiche sociali. Quindi compcorrono esattamente come la situazioni sociali e le
+prestazioni con accertamento dei mezzi aiutare a sostenere le le persone nel bisogno con dei servizi alla
+persona, quindi tutto quello che pensate a quello che è relazionale, il sostegno sotto forma di di aiuto di
+consiglio, ma anche sotto forma di come dire a volte di prestazioni di prestazioni di prestazioni in denaro
+meno meno frequenti più più rari rispetto agli altri alle altre
+
+prestazioni piuttosto diciamo in natura, ma anch'essi in qualche modo presenti e contemplati dai secondo
+pensate ai servizi per capire cosa intendo e perché li ho rappresentanti accanto alla fuori dal perimetro
+della piramide rovesciata, pensate agli ospedali, per esempio al lento ospedaliero cantonale, che è un
+servizio molto particolare, molto peculiare, anche molto è importante, sociale, proprio della promissione di
+benessere per la per la popolazione.
+
+Ebbene, i servizi ospedalieri l'ospedale ospedaliero cantonale funziona anche grazie alla presenza di
+situazioni sociali. parte sono finanziati grazie alle assicurazioni sociali pensate semplicemente banalmente
+all'assicurazione malattia l'assicurazione obbligatoria contro le malattie. ospedalizzati quando dovete
+ricorrere al servizio ospedalieri ebbene parte di quei servizi di cui beneficiate Si parla della di una
+banale, non so fatto di malattie non bisogna mai utilizzare il termine banale comunque pensate
+all'appendicite, alla calcolosi, insomma.
+
+Purtroppo anche a malattie più gravi ogni tanto sì come dire anzi sempre più spesso si comicizzano lo vedremo
+In questi casi quali sono gli strumenti per intervenire per come dire in qualche modo arginare o riparare la
+cronicizzazione. Però in parte questi servizi ospedalieri sono finanziati grazie all'assicurazione contro le
+malattie, assicurazioni obbligatoria. Contro contro le malattie e poi ci sono altri come dire altri
+finanziatori Pensate per esempio allo Stato in questo caso per l'interpedaliero cantonale il il canton vicino
+che annualmente eroga versa all'ente ospedaliero o cartonale centinaia di milioni di franchi sotto forma di
+finanziamento all'enti ospedali ospedaliero cantonale.
+
+Ecco, diciamo questo quadro è chiaro è chiaro, vado lentamente, ma come dire, cerco di di fare in modo che
+butti siano sullo stesso piano e allo stesso e allo stesso livello. Perché sopra dici perché nella fascia, ma
+nella fascia superiore, perché come dire non pensi al sistema educativo, per esempio Sì, ma è per questo che è
+in alto e perché la Confederazione dà comunque delle linee generali, la scuola deve essere obbligatoria, deve
+esserci un accesso universale al sistema educativo fino ad una certa età naturalmente.
+
+Essenzialmente si dà delle direttive da un quadro giuridico generale e poi da questo quadro giuridico generale
+derivano una serie di dispositivi che sono o di competenza della considerazione, come nel caso delle
+assicurazioni sociali o dei cantoni. Prendiamo appunto il sistema educativo, la considerazione dice che c'è un
+l'obbligo scolastico, c'è un sistema educativo che deve essere accessibile a tutti indipendentemente dalle
+loro condizioni fino ad una certa ad una un certo limite di età e questo è lasciato alla competenza dei
+cartoni, poi su poi i cartoni che organizzano la scuola del la scuola dell'obbligo, i carton Ticino, appunto
+da tanti anni esiste un obbligo scolastico ancora prima
+
+monte della scuola della scuola elementare. Il cantone poi in qualche modo costruisce questo sistema educativo
+secondo parametri funzione della loro sensibilità politica filosofica e sociale. però cosa diciamo cosa
+comporta un sistema evocativo che deve essere obbligatorio e nei limiti del possibile accessibile a tutti nel
+caso in cui lo lo desiderassero.
+
+Questo comporta come dire comunque una serie di aiuti di interventi a valle di questo obbligo di questo
+sistema educativo generale di questo sistema educativo articolato insomma, in qualche modo elaborato a livello
+a livello federale, quindi per permettere effettivamente per concretizzare per tradurre concretamente la
+possibilità di accedere alla educazione, cosa si è previsto, ma se non basta declamare l'obbligo scolastico,
+l'obbligo educativo, la frequenza obbligatoria al sistema al sistema educativo, al sistema scolastico occorre
+anche dare concretamente alle persone la possibilità di accedergli completamente.
+
+Se come dire non vi è la possibilità concreta di frequentare una una una scuola per vari per vari motivi
+ebbene. Questo questo obbligo di legge è inevitabilmente vanificato, ma proprio per questo che a valle Di
+questo diciamo di questo sistema generale di questo sistema educativo generale vi sono per esempio le borse di
+studio. Sappiamo quanto non sono adeguate a concretizzare concretamente il bisticcio, questo obbligo
+educativo. Le borse di studio, i prestiti, l'angolo, insomma sono il sistema sistema sistema politico.
+
+Come dire l'esina, i mezzi, le risorse alla formazione in un periodo oltretutto dove ci sarebbe molto bisogno
+di formazione, invece cosa si fa Inspiegabilmente o forse proprio spiegabilmente si lesinano i mezzi alla
+formazione si va a tagliare a risparmiare nella formazione nella ricerca, cosa che assurda, pensando come
+vanno le cose nel nel mondo nel mondo oggi.
+
+Ma sempre pensando alla fascia superiore della della alla base rovesciata di questa piramide rota, prendete il
+sistema sanitario possiamo declamare il come dire l'accesso universale, il diritto alla salute e l'accesso a
+cure mediche. di di qualità, ma poi bisogna come dire in qualche modo concretizzarlo se poi questo obbligo è
+lasciato alla alla volontà al desiderio alla alla come dire all' pulsioni alle propensioni a curare la propria
+salute alle alle singole alle singole persone sappiamo che questo diciamo questo diritto alla alle cure medico
+ospedaliere universali è inevitabilmenteanificato perché sappiamo quanto sono care le cure ospedaliere quanto
+sono care le cure mediche.
+
+Ebbene per questo motivo che si è previsto a valle di questo sistema sanitario in generale, insomma che per
+esempio dice ci vogliono degli ospedali gli ospedali devono pianificare i posti letto, la loro offerta di
+prestazioni. Evidentemente non basta occorre finanziare gli ospedali occorre finanziare l'accesso alla salute
+e a cure medie di ospedaliere, quando stessidono necessarie da qui, per esempio, come nel caso delle borse di
+studio a valle di questo sistema sanitario del sistema sanitario, così come fissato nelle normative federali
+vi è per esempio un'assicurazione obbligatoria contro le malattie che prevede una serie di come dire processi
+di procedure di
+
+finanziamentizzazione e tutta una serie di prestazioni sulle quali interviene l'assicurazione obbligatoria
+contro le malattie. Non so se ho risposto, anche infortuni giusto? Sì, per non è la Sval in senso molto molto
+vasto, molto ampio per cui c'è anche per esempio un'assicurazione contro gli infortuni professionali e non
+professionali E poi una serie di di altri altri dispositivi che non si riallacciano, non si ricollegano
+direttamente alle assicurazioni sociali, ma che fanno parte di altri dispositivi di altri elementi costitutivi
+di questo sistema di sicurezza sociale, quindi vedete un sistema molto complesso,
+
+molto articolato, fatto un po' incastri, il problema è che questi incastri si sono sedimentati nel corso degli
+anni nel corso dei decenni, quindi oggi ci troviamo con un sistema incastri, ma dove gli incastri non
+combaciano esattamente un sistema che ha molte lacune, come vedremo nel corso del corso del servizio. Quindi
+questa è diciamo questo è uno degli elementi uno degli schemi riassuntivi. al quale ai quali dovreste rifarli
+ogni qualvolta dovete o volete situare un determinato dispositivo, un determinato un determinato aspetto, un
+determinato elemento nel più vasto contesto del sistema di sicurezza sociale o ancora più vasto delle
+politiche delle politiche sociali.
+
+L'altro elemento dell'altro elemento parlerò alla fine più più in là nel corso della della della lezione un
+altro schema riassuntivo è quel certificato di salario trovati in una delle diapositive del queste questo
+insieme di diapositive che vi dovrebbe permettere permetterebbe di o vi permette di riassumere concretamente
+come funziona il sistema quali sono le sue basi operative organizzative finanziarie. sul quale torneremo poi
+in seguito e come hai detto tutto questo sistema ha un costo questo costo deve essere sostenuto da qualcuno.
+Ed è uno come dire come sapete dei temi in discussione, perennemente in discussione.
+
+Il costo del sistema sociale, il costo della sicurezza sociale, il costo delle politiche sociali ci costa
+quanto ci costa il sistema sanitario. Quanto quanto costa la salute cara e lì dobbiamo lesinare, dobbiamo
+tagliare perché sono più di 100 miliardi all'anno di costi per la per la per la salute Non tutti evidentemente
+non tutti sostenuti dalle assicurazioni sociali. Non tutti sostenuti dall'assicurazione obbligatoria contro le
+malattie o dall'assicurazione contro gli infortuni. ci sono altri attori che partecipano al finanziamento di
+questi oltre 100 miliardi di franchi che ci posta.
+
+Il sistema sanitario per parlare di costi sempre un po' problematico perché sappiamo quanto è importante la
+salute e sappiamo che non necessariamente è un costo può essere giudicato e valutata solo ed esclusivamente in
+base a quello che costo puoi anche capire occorre anche valutare quanto questi costi ci permettono di vivere
+una vita di qualità una vita degna di essere di essere di essere vissuta per per lavorare per inserirsi nella
+comunità nella collettività, insomma in qualità in in forma di di di come dire di investimento.
+
+Nella nella salute, perché chi è in buona salute può fare una serie di attività lavoro comp peso che
+altrimenti non potrebbe fare di queste attività in famiglia nella società sul posto di lavoro vanno a
+vantaggio di tutta la collettività e con tutta la collettività che trae vantaggio da un sostegno alla salute e
+al sistema e al sistema sanitario.
+
+Anche questo come dire come sapete è motivo di dibattito c'è chi appunto desidera sono voci piuttosto forti,
+piuttosto importanti risparmiare su questi su questi su questi elementi sanità educazione, insomma lesinari
+fondi pubblici affinché come dire in qualche modo sia la responsabilità di ognuno Va a coprire, va a
+rispondere a quei bisogni educativi a quei bisogni sanitari naturalmente la responsabilità di ognuno ma nella
+misura in cui ognuno
+
+ognuna è in grado di rispondere adeguatamente con i mezzi dei fondi risorse proprie a questi a questi a questi
+bisogni come sapete appunto se non ci fosse un sistema sanitario che il parco della parte segreti sui risorse
+pubbliche su risorse collettive in poche persone servono in grado di permettersi una protezione sanitaria
+adeguata all'altezza delle legittime aspettative o un sistema sanitario educativo adeguato successo Niente di
+ritornato a
+
+funzionare A volte le maniere forti è chiaro questo scusate la lunga introduzione, ma andiamo ad prima di aver
+come dire in qualche modo evocato quello che già e la settimana scorsa, te sui quali sui quali torneremo, cioè
+quando parliamo di principi generali dell'assicurazione sociale e quando parliamo di solidarietà nelle
+assicurazionizioni sociali. quantificazione ve l'ho data, ma Solo per ribadire che ne parleremo ancora nel
+corso del semestre
+
+ne avremo già occasione alla fine della lezione di evocare soprattutto l'aspetto l'aspetto l'aspetto
+assicurativo, l'aspetto legato ai principi di funzionamento del sistema di delle delle assicurazioni delle
+assicurazioni sociali e poi la solidarietà come vedrete un tema filo conduttore, un tema federatore della
+prossima lezione focalizzata sul sistema dei tre filastri, che in gran parte si regge su un principio di
+solidarietà, un aspetto
+
+fondamentale nel funzionamento del sistema delle assicurazioni sociali e non solo delle assicurazioni sociali,
+ma anche delle prestazioni commisuratete al bisogno. io vado un po' come dire un po' rapidamente, soprattutto
+sull'versità diapositiva, solo per dare concretezza e tradurre quelli gli acronmi che trovate nella piramide
+rovesciata nella fase intermedia della piramide della piramide nel campo delle assicurazioni sociali il nome
+in esteso
+
+di ogni singola assicurazione sociale, laddove la L ricordo sta semplicemente per legge questo per ricordarvi
+che dietro ogni prestazione dietro ogni intervento dietro ogni misura non solo di tipo sociale dietro ogni
+intervento pubblico dietro ogni intervento dello Stato vi è una legge e se vi sono delle prestazioni a favore
+delle persone anziane delle prestazioni di natura pensionistica, per esempio erogate dall'AABS assicurazione
+vecchiaia e
+
+superstiti e perché vi è una legge che lo prevede senza una legge e senza una normativa non esistono
+prestazioni non esiste possibilità di intervento da parte dello Stato a favore delle delle persone in questo
+caso a favore di persone che hanno bisogno che hanno necessità di un intervento che hanno vissuto che vivono
+le conseguenze di un rischio In questo caso, nel caso dell'APS il rischio vecchiaia da dove il rischio non è
+tanto quello di quello della vecchiaia in sé o quello della longevità, come dicono i demografi, piuttosto il
+rischio è piuttosto quello di arrivare alla vecchiaia senza risorse.
+
+Per sostenersi, sostentarsi in un periodo del ciclo di vita dove come dire lavorare, procurarsi un reddito da
+lavoro diventa sempre più difficile benché tra l'altro, così per inciso oggi assistiamo ad un ritorno del
+lavoro dopo l'età pensionistica, quindi un aumento dei cosiddetti tassi di attività dopo i 65 anni, cioè
+concretamente in soldoni significa che in termini relativi, ma anche in termini assoluti ci sono sempre più
+persone che continuano a lavorare dopo l'età canonica della della pensione, cioè dopo i 65 anni, anno in cui
+scatta il diritto alla prestazione Della di di vecchiaia della prestazione alla cosiddetta rendita di
+vecchiaia erogata dall'assicurazione vecchiaia e superstiti.
+
+Ecco qui avete riassunto riassunto in una sola diapositiva le 11 leggi che si va dall'assicurazione vecchiaia
+e superstiti agli assegni familiari, quindi da un estremo all'altro del del ciclo del ciclo di vita vedremo
+quanto questo collegamento tra questi due estremi di cicli di vita è importante ai fini delle assicurazioni
+sociali, ma anche ai fini dello sviluppo economico e sociale del nostro del nostro paese.
+
+Ecco due cose Una per non complicare le cose vedete accanto ad ogni singola legge mi ricordo L sta per legge,
+vedete un numerino che è un codice Il codice della singola assicurazione sociale, cioè ogni legge
+fondamentalmente ogni legge ha un codice un codice che permette di reperire di trovare o ritrovare la legge in
+questione nella cosiddetta raccolta sistematica del diritto federale. 31. 10 sta per assicurazione vecchiai
+superstiti infatti
+
+mettete in nel motore di ricerca 83110 il motore di ricerca restituisce immediatamente la legge
+sull'assicurazione vecchiaia e superstiti, quindi un modo semplice per reperire per ritrovare ogni singola
+legge E questo è importante sarà importante quando troverete per esempio a Scrivere la vostra tesi di laurea
+con binnografia, cioè non avrete solo una bibliografia, una sitografia. Avrete anche un elenco delle leggi. A
+seconda del tema naturalmente ci andrete a sviscerare avrete anche una una parte dedicata alle singole leggi,
+dove ogni singola legge deve essere essere descritta, deve essere riportata deve essere documentata secondo
+dei criteri ben precisi.
+
+La legge il nome della legge in esteso, l'anno in cui è stata è stata promulgata, se parliamo di legge sulla
+situazione vecchiaia e superstiti, la legge è quella del 1946 che è stata votata dagli elettori nel 1947 è
+statacitata Siamo in una democrazia semiretta, dove come dire le leggi l'assemblea federale, ma poi sovente
+elettore allora erano solo gli elettori che hanno l'ultima l'ultima parola che sanciscono La la normativa
+adottata prolulgata dall'assemblea dall'assemblea nazionale. E poi questo codice, il caso della PS 831.
+
+Ecco, ripeto tra queste 11 assicurazioni sociali trovate anche le prestazioni transitorie per disoccupati
+anziani è l'11ª l'assicurazione sociale l'ho messa come dire in qualche modo nell'elenco puntato l'ho distinta
+dall'assicurazione contro la disoccupazione, ma fa parte a pieno titolo del diritto dell'assicurazione sociale
+ed è una assicurazione sociale a stante l'omessa separata ho cercato di di distinguerla dalle altre 10
+assicurazioni
+
+sociali solo per enfatizzare il fatto che l'ultima assicurazione sociale che è stata introdotta nel nostro
+paese nel 2021 e Catania Livorno nel 2021 entrata in vigore nel 2021 l'ultima che è stata introdotta proprio
+perché come dire l'assicurazione in cottura disoccupazione era la cuosa, cioè non era più sufficiente non era
+più sufficiente a sostenere come vedremo poi più là, i disoccupati anziani, cioè coloro che hanno perso il
+proprio lavoro a
+
+58 anni e dopo due anni di beneficio dell'indennità di disoccupazione non hanno ancora trovato un lavoro, una
+posizione Nel mercato del del lavoro, perché come sapete è molto difficile rientrare nel mondo del lavoro a
+un'età avanzata o un'età più o meno avanzata e cosa succedeva con queste persone?
+
+Normalmente di solito di norma, ma dovevano far capo dovevano far ad un certo punto all'assistenza sociale non
+c'erano altre risorse, ma molto spesso vi facevano capo chiedevano la prestazione assistenziale dopo aver
+attinto alle proprie risorse personali ai propri risparmi, magari anche al proprio secondo pilastro, quindi in
+qualche modo svuotando le proprie le proprie casse le proprie le proprie i propri fondi, le proprie le proprie
+riserve
+
+pregiudicando in qualche modo la possibilità poi di vivere una vecchiaia adeguata senza troppi problemi
+problemi finanziari, perché nel frattempo si fanno capo alle risorse personali compreso il secondo pilastro
+compresi magari anche i risparmi e le risorse e le i fondi dei propri dei propri familiari arrivando quindi
+all'età della pensione 65 anni o poco oltre senza più risorse adeguate, insomma dissanguanti è per questo che
+il legislatore ha
+
+deciso di venire incontro a questa categoria di persone proponendo una prestazione transitoria per disoccupati
+anziani transitoria, perché ma perché permette di fare da ponte tra l'uscita definitiva del mercato del lavoro
+dopo il beneficio dell'indennità di Gsoccupazione alle quali si ha diritto per legge e il pensionamento vero e
+proprio, cioè il beneficio di una prestazione di una di una rendita via di vecchiaia o di una rendita del
+secondo pilastro. Ecco siamo d'accordo su questo su questo punto È chiaro 11 assicurazioni sociali e vedremo
+un po' come come funzionano nel dettaglio.
+
+Prima però Voglio parlare anche qui molto rapidamente dell'altro elemento costitutivo del sistema di sicurezza
+sociale. E sono le cosiddette prestazioni commisurate al bisogno o o l'aiuto l'aiuto sociale in senso largo,
+cioè tutte quelle prestazioni che trovate nel vertice della piramide della piramide rovesciata e che
+funzionano in maniera molto peculiare peculiare rispetto alle situazioni sociali e di cui è paradigmatico
+l'aiuto sociale in senso stretto, ossia l'assistenza sociale. quello che chiamiamo appunto ancora oggi
+assistenza assistenza sociale e che il cantotticino è regolata da una legge tipicamente tanto.
+
+Una cosa non ho caricato diapositivi piattaforme perché riprendo la lezione diapositivi della settimana
+scorsa, quindi come dire l'obiettivo non è quello di di caricarvi e sovraccaricarvi di informazioni,
+depositive, eccetera, ma di. Come abbiamo detto che come abbiamo ribadito più volte di di dargli una visione
+disieme di come funziona questo questo sistema. Che chiamiamo di sicurezza sociale Oggi ci ci addentreremo un
+po' più in dettaglio in alcuni dispositivi.
+
+Costitutivi che qualificano il sistema di sicurezza sociale. ma prima desidero chiamare la vostra attenzione
+su un documento che ho messo in piattaforma e non è che sostituisce il depositive, però è una lezione è una è
+un documento. utile per integrare le lezioni sono queste elezioni sullo stato sociale. Alle quali mi rifarò
+che richiamerò di tanto in tanto a lezione per indicarvi alcuni passaggi utili ai fini della comprensione di
+quello che vediamo di quello che vediamo in aula, perché tempo è quello che abbiamo possiamo vedere tutto non
+possiamo addentrarci nei minimi dettagli del sistema di sicurezza sociale, però come dire il il vostro mandato
+il vostro compito.
+
+Il vostro contratto con la scuola prevede anche del lavoro a casa sotto forma di lettura naturalmente non vi
+caricherò di letture, però poi vi richiamerò richiamerò alcuni passaggi di questo documento che potete leggere
+per integrare quello che viviamo quello che vediamo in classe o per Percorre per approfondire quello che non
+possiamo vedere in in aula per forza di cose, quindi appunto vedete che c'è comunque un indice sommario
+piuttosto denso, piuttosto piuttosto nutrito. Oggi ci addentreremo.
+
+In di questi temi, il sistema dei tre pilastri e le politiche a favore della popolazione anziana e della
+popolazione disabile. cosiddetto sistema di terpilastri della previdenza vecchiaia, invalidità e decesso.
+Questo è l'obiettivo della della lezione di oggi. Sono le diapositive 03 lezione 03 però prima di entrare nel
+merito. Della lezione di oggi destinata ad approfondire il sistema di trekilastri Desideravo riprendere il
+filo del discorso interrotto la settimana la settimana scorsa.
+
+Ecco, insieme alla piramide rovesciata, il modello di conteggio del salario e l'elemento e lo schema
+riassuntivo che dovrebbe farvi un po' da guida nel corso del semestre e che mi dovrebbe di volta in volta
+indicare dove è situate un determinato dispositivo e interpretate un determinato elemento del sistema di
+sicurezza sociale. Abbiamo detto l'abbiamo ribadito più volte che il sistema di sicurezza sociale per quanto
+riguarda le assicurazioni sociali, quindi uno dei due elementi costitutivi del sistema di sicurezza sociale è
+finanziato in gran parte finanziato prevalentemente attraverso dei contributi sociali. dei prelievi sui
+redditi e sui salari della popolazione attiva.
+
+Ma abbiamo detto, abbiamo visto che vi sono delle assicurazioni sociali degli elementi costitutivi del sistema
+delle assicurazioni sociali che come dire, non sono obbligatori per per tutta la popolazione sono obbligatori
+per determinati luoghi di popolazione. in altri termini il salario si determinante e si una fonte di
+finanziamento, una fonte di finanziamento prevalente. per il sistema di sicurezza sociale, però appunto, ci si
+può chiedere
+
+alcuni gruppi di persone, taluni gruppi di popolazione, talune persone. hanno un lavoro hanno perso o non
+l'hanno mai avuto o comunque fanno in qualche modo fatica a rientrare nel mondo del lavoro e in quel frangente
+di tempo che può essere più o meno lungo, più o meno prolungato del tempo, evidentemente non hanno un salario,
+non dispongono di un reddito. sul quale prelevare i contributi assicurativi, contributi destinati a finanziare
+l'assicurazioni assicurazioni sociali.
+
+E poi abbiamo anche visto, l'abbiamo ribadito più volte l'avete visto anche in sede di seminario, non tutta la
+popolazione attiva, non tutta la popolazione che ha un'entrata da da da lavoro e salariata nell'esempio dello
+schema nel modello di conteggio del salario abbiamo appunto visto un modello di conteggio del salario. che fa
+capo a un salariato, ma l' indipendenti non sono salariati evidentemente però non lavorano hanno un reddito
+sul quale anch'essi hanno come dire sul sul quale su cui il reddito si prelevano di contributi sociali.
+
+L'assicurazione vecchiaia superstiti, l'assicurazione in validità, le indennità per perdita di guadagno,
+quella prima voce del conteggio di salario AVSIG È obbligatoria per tutta la popolazione residente, quindi
+anche non solo non solo per i salariati, ma anche per gli dipendenti e anche per coloro che non hanno un un
+lavoro. In questo caso è come come come la mettiamo per quanto riguarda gli dipendenti abbiamo ne abbiamo
+parlato, ne abbiamo parlato seminario, ne abbiamo parlato qui a lezione, vi è comunque un obbligo contributivo
+anche per essi, per quanto riguarda per quanto attiene questa prima voce del certificato di salari del modello
+di conteggio del salario.
+
+ASIPG sono obbligatori per tutta la popolazione residente, quindi non solo per i salariati, ma anche per
+indipendenti e anche per coloro che danno occupazione che non sono attivi professionalmente e quindi non hanno
+un reddito, non hanno un salario. I per essi naturalmente il conteggio del contributo, la quota con la quale
+devono partecipare al finanziamento di queste assicurazioni sociali è un po' è un po' diversa rispetto a
+quella di rispetto a quella dei salariani per i dipendenti, non hanno i dipendenti in senso proprio, quindi
+gli indipendenti in per proprio per proprio conto, il classico libero professionista, ma non è non soltanto
+dipende questi contributi sono interamente a loro
+
+carico devono pensare se stessi a contribuire assicurazioni sociali a queste tre assicurazioni sociali senza
+il contributo di un datore di lavoro anche perché sono datori di lavoro di stessi quindi i contributi sociali
+all'ABS alla e all'indennità per perdita di guadagno sono interamente a loro carico contrariamente ai
+salariati che possono possono contare sulla partecipazione dei propri datori dei propri datori dei propri
+datori di lavoro per versare i contributi sociali alle assicurazioni sociali. L'abbiamo visto più volte
+l'abbiamo richiamato più volte i dipendenti non sono tutelati alla stessa maniera. e allo stesso livello con
+le stesse coperture, le stesse tutele dei salariati.
+
+Sì, sono delle assicurazioni sociali alle quali sonocolati, sono legati agli SIPG, ma sono altre assicurazioni
+sociali alle quali sono che devono sostenere, non devono non devono finanziare e non sono obbligatoriamente
+assicurati come vedremo il salariato lo vedremo ribadiremo più volte è obbligato e obbligatoriamente affiliato
+a partire da una certa soglia. che vedremo ad affiliarsi a un secondo pilastro con una cosiddetta tassa
+pensione. cui vedremo il dettaglio più in là nella nella lezione gli indipendenti no non sono obbligati ad
+affiliarsi ad un secondo pilastro, non sono obbligati ad avere una cassa pensione.
+
+Lo possono fare volontariamente se lo desiderano Come vedremo ancora nel dettaglio, non ci sono altri come
+vedete già visto altri coordini sociali che non coprono obbligatoriamente indipendenti. Oprendo
+obbligatoriamente i salariati per esempio di nuovo il caso dell'assicurazione infortuni. e via discorrendo
+come come come vedremo questo è solo per richiamarvi per richiamare il fatto che la sicurezza sociale non è
+uguale per tutti, non copre tutti e tutte allo stesso modo copre la popolazione presidente nel caso di AVSI
+indennità per perdita di guadagno copre determinati gruppi della popolazione della popolazione attiva
+segnatamente i
+
+salariati, lasciando agli indipendenti la facoltà di assicurarsi secondo la loro volontà, secondo la loro
+disponibilità finanziaria ed economica. quindi quando parliamo di sicurezza sociale, non ci riferiamo ad un
+sistema universale, cosiddetto universale, cioè che copre tutta la popolazione residente indistintamente dal
+suo statuto professionale dal suo statuto sul sul sul mercato sul mercato del lavoro. Quindi non è come si
+dice tecnicamente con un concetto tecnico. La sicurezza sociale non è universale, non è destinata a tutti e
+tutte indistintamente.
+
+Ecco, c'è una distinzione nel mondo del lavoro tra chi salario, quindi uno statuto di salariato e chi invece
+ha uno statuto di indipendente sono coperti tutelati in maniera diseguale Sono appunto sono sono sono distinti
+dal punto di vista del loro statuto sul sul sul mercato sul mercato del lavoro.
+
+Mi beneficiano secondo del caso non nel caso del secondo pilastro, per esempio non di una copertura
+universale, perché il secondo pilastro detto lodiamo, non è obbligatorio per tutta la popolazione attiva, ma
+solo per i salariati a determina determinate condizioni, quindi parliamo E parliamo piuttosto di un un sistema
+che non è universale, bensì professionale nel caso del secondo pilastro, non copre tutta la popolazione in non
+copre nemmeno tutta la popolazione attiva professionalmente copre solo gli i salariati a certe determinate
+condizioni.
+
+È per questo che parliamo non di sistema universale, ma di sistema professionale di un regime professionale
+come come sess Però è come dire giustamente mi direte, ma chi non ha un salario o chi ha perso il proprio
+salario per vari motivi, ad esempio per motivi legati alla congiuntura sta attraversando un momento di
+disoccupazione di Di allontananza forzata dal mondo del lavoro, quindi non riceve un salario ricevesse mai
+un'indennità di disoccupazione per un certo periodo periodo che imitato quindi non ha diciamo un salario vero
+vero e proprio non ha un vero e proprio datore di lavoro.
+
+A maggior ragione chi non ha un salario, non perché è disoccupato, ma perché semplicemente non ha ha avuto un
+lavoro, non ha un lavoro e non avrà un lavoro per un determinato orizzonte, il caso per esempio di del mondo
+del mondo universitario, del mondo degli studenti è il caso di chi ha fatto una scelta, magari anche forzata
+di stare a casa, quindi lontano dal mondo del lavoro Per definizione queste persone non hanno un salario.
+
+E quindi chi paga i contributi c'è una contraddizione, visto che come dire, sono ASIPG sono immediatamente a
+questi tre regimi che sono obbligatori per tutta la popolazione residenti, ma non avendo un salario da
+assicurare e non avendo un salario sul quale prelevare i contributi l'ABS alla i e all'IPG come come si fa
+cosa cosa ha previsto il il legislatore semplicemente nel caso delle persone cosiddette senza attività
+lucrativa, come si dice nel gergo giuridico, vedervi le leggi sulle assicurazioni sociali si parla spesso di
+persona senza attività locativa.
+
+C'è una persona che non ha un salario, non ha un reddito. ma che deve essere obbligatoriamente assicurata a
+determinate assicurazioni sociali, segnatamente all'APS alla I e alle indennità per perdita di guadagno IPG,
+questo caso è cosa cosa si fa ma Il legislatore, la legge ricordatevi che a monte di una situazione sociale a
+monte di una prestazione sociale erogata vi è sempre una legge vi è sempre una normativa che definisce i
+dettagli di applicazione della della legge per le persone cosiddette senza attività lucrativa il legislatore
+ha previsto prevede il versamento di un minimo di contributi alle assicurazioni sociali a queste tre
+assicurazioni sociali.
+
+AVSI IPG ed è un un ammontare è un forfait minimo che viene adeguato ogni due anni in funzione appunto del del
+livello dei prezzi del dell'inflazione. Oggi nel 2026, chi non ha un'attività educativa Le PAL è un acronimo
+che che trovate che troverete spesso. Ebbene, queste persone senza attività lucrativa devono versare 535
+franchi di contributo minimo forfettario. Perché ma proprio per rimanere assicurati nell'ambito dell'AABS
+della i e dell'indennità per perdita di guadagno.
+
+E vedremo quanto è importante alla fine della della della lezione, non dimenticare quest'obbligo, quindi
+ottemperare questo obbligo di contribuire alle assicurazioni sociali di mantenersi assicurati alle
+assicurazioni alle assicurazioni sociali perché dai propri contributi dipende poi anche il diritto ad un
+eventuale prestazione erogata da questa situazione sociale. ASIPG vedremo quanto è importante, vedremo quanto
+è importante per voi come operatori e operatrici sociali, non dimenticarlo. Non solo perché voi siete spesso a
+seconda degli anni in questa condizione di persone senza attività locrativa. O siete stati o lo sarete se
+appunto il vostro i vostri studi, la vostra formazione.
+
+Prende il 100% del vostro tempo a disposizione. Ma è altrettanto importante per le persone delle quali avrete
+qualche responsabilità delle quali dovrete farvi il carico e che verranno da voi allo sportello dei servizi
+sociali e alle quali dovrete chiedere determinate cose Tra le quali appunto la loro situazione il loro livello
+di di tutela ci ci torniamo ci torniamo dopo. Ecco questo punto, questo aspetto questo tema è chiaro è chiaro
+a tutti salariati dipendenti, persone senza attività lucrative, senza attività lucrativa, una serie di
+assicurazioni sociali presuppongono un contributo, un contributo sociale solitamente prelevato sui redditi sui
+salari.
+
+Ma non tutti hanno un reddito un salario per cui appunto devono contribuire se stessi con i propri con i
+propri con i propri mezzi nel caso di una. Un contributo forfettario di un contributo minimo oppure nel caso
+degli indipendenti devono pensare se stessi non tanto a versare un contributo minimo, ma un contributo che è
+quota che una quota a parte che una percentuale del proprio del proprio reddito con la differenza rispetto ai
+salariati che questa quota interamente a loro carico. possono contare sul sul sui contributi dei datori di
+lavoro ASIPG ricordate sono finanziati i salariati parti
+
+uguali dal datore di lavoro e dal salariato 5-3% il salariato 53% il datore di lavoro Per l'indipendente non è
+così deve pensare di finanziare quei contributi con i propri mezzi e con le proprie con le proprie risorse
+naturalmente c'è una una scala i contributi sono scalati in funzione del reddito del dell'indipendente Un
+indipendente che guadagna poco relativamente poco che ha un reddito modesto è il caso di molti indipendenti
+che lavorano nel
+
+settore dell'artigianato, per esempio non possono certo permettersi di pagare ogni mese un e quindi sul
+sull'arco di un anno un oltre il 10% Del proprio reddito a finanziare le assicurazioni sociali c'è una scala
+che che è inferiore rispetto a quella di salariati, ma che comunque per redditi da indipendente piuttosto
+elevanti sono comunque una parte cospicua, sono comunque una parte una Una quota relativamente significativa
+del proprio reddito si va fino all'8% del del proprio del proprio reddito. Questo è il tetto. Il tetto il
+tetto massimo che devono versare alle assicurazioni sociali, perlomeno queste tre assicurazioni sociali di cui
+abbiamo parlato.
+
+Lo devono finanziare se stessi non hanno un datore di lavoro che è più di finanzia che contribuisce a
+finanziare le proprie assicurazioni sociali. Ecco molto rapidamente se questo punto è chiaro e volevo
+semplicemente, ma promemoria poi comunque ci ci torneremo e ci tornerete. Nella seconda parte del seestre
+abbiamo parlato di Servizi sociali che sono in qualche modo che abbiamo rappresentato all'Ater rispetto al
+sistema di sicurezza sociale.
+
+Non perché non facciano parte del cosiddetto delle cosiddette politiche sociali e non perché non hanno un
+ruolo nella produzione di benessere a favore della della della popolazione, ma perché come dire, non sono né
+assicurazioni sociali né prestazioni o misurate al bisogno o che erogano prestazioni dopo accertamento dei
+mezzi e sono finanziati prevalentemente attraverso la fiscalità generale, cioè attraverso i contributi
+pubblici, attraverso i contributi dello Stato, laddove vi ricordo Stato, Il nostro paese significa evoca i tre
+livelli istituzionali che sapete. Confederazione Cantone comuni.
+
+Questo che intendiamo quando parliamo di Stato, il nostro paese. con un assetto istituzionale, appunto
+federalista di tipo di tipo federalista. Qui avete una una una selezione di alcuni servizi essenziali, alcuni
+dei principali servizi presenti sul territorio, alcuni dei quali naturalmente voi conoscete o perché ci avete
+lavorato, avete svolto uno stage o perché ne avete beneficiato, pensando per esempio agli ospedali. Sono un
+servizio essenziale, un servizio cruciale nel nostro sistema di di di sicurezza di sicurezza sociale.
+
+Abbiamo visto che sono finanziati in gran parte appunto attraverso la fiscalità generale, cioè attraverso
+fondi pubblici attraverso contributi pubblici ricavati per imposte destinati appunto parte di questi di questi
+imposte del ricavando del genito fiscale destinato agli ospedali a finanziare gli ospedali, non soltanto gli
+ospedali, ma anche tante altre cose, tante altre funzioni i compiti, enti allo Stato.
+
+Gli ospedali abbiamo detto che sono anche finanziati in parte parzialmente dai pazienti che devono sborsare
+una somma di tasca propria ad ogni ricovero e ad ogni erogazione sanitaria in ambito ospedaliero, ma soltanto
+in ambito ospedaliero, anche in ambito In ambito in ambito medico e sono finanziati in parte anche dalla
+assicurazione contro le malattie. come voi siete ricoverati quando vi ricoverano in ambito ospedaliero, chi
+paga le prestazioni
+
+delle quali beneficiate, ma in parte sono coperte appunto dai contributi pubblici da quello che versa lo Stato
+annualmente agli agli ospedali, ma in parte sono coperti coperte queste prestazioni dall'assicurazione contro
+le malattie proprio destinate proprio per vista. proprio preposta a versare a pagare finanziare le cure medico
+ospedaliere.
+
+D'accordo su questo punto, poi avete altri servizi che voi conoscete molto bene istituti perali, di centri
+educativi per per minorenni, gli asili nido, il centro professionale sociale, il centro di accertamento
+professionale di cui parleremo ancora, perché è strettamente legato alle attività dell'assicurazione contro
+contro l'invalidità e il servizio che si trova nel sopra cenere che si trova a Gerrapiano che nella parte CPS
+è destinato a capire
+
+è destinato a verificare le potenzialità, soprattutto dei giovani. di rientrare nel mondo del lavoro, quindi
+si fanno degli accertamenti professionali destinati soprattutto soprattutto ai giovani si cerca di capire
+quale potrebbe essere il loro destino professionale se ci sono dei potenziali affinché possano essere
+integrati o integrati nel mondo del del lavoro, magari attraverso una formazione, una prima formazione
+professionale E poi il centro
+
+di accertamento professionale che è destinato soprattutto a quelle persone adulte che hanno perso il proprio
+lavoro, per esempio era una malattia per una malattia professionale magari invalidante che rischia di
+concizzarsi e sono a beneficio questo centro di accertamenti. Si tratta di capire se attraverso un Una nuova
+un sostegno, una nuova informazione è possibile reintegrarli nel mondo del lavoro affinché ritrovano ritrovino
+una loro autonomia. E poi vabbè, l'assistenza cura a domicilio in cui si parla molto in questi giorni. Se
+leggete I giornali. E poi le autorità regionali di protezione di culture si parla. si è parlato spesso in
+passato, non sempre in maniera lusinghiera e positiva.
+
+E poi Ho inserito l'ispettorato del lavoro. Sembra un po' strano, ma lavoro cosa c'entra con la sequenza
+sociale cosa c'entra con le politiche sociali? Beh l'ispettorato del lavoro è proposto al controllo alle
+verifiche, per esempio alle verifiche salariali nel mondo del lavoro è preposto a rifiutare di condizioni di
+lavoro, condizioni di lavoro, quando pessime anche quando non necessariamente pessime, ma negative, insomma,
+qualche modo penalizzanti per la salute delle persone di coloro che esercitano. Un lavoro che esercitano quel
+quel lavoro hanno poi delle ripercussioni sul sistema di sicurezza sociale.
+
+Sul sistema sanitario per per per dirne un Tra l'altro, a margine della terza colonna ho inserito anche Un
+elemento che vi permette di risalire all'informazione. Del caso, se cercate delle informazioni, se volete
+approfondire questo quel dispositivo, ve ne sappiate che dovete andare a consultare. un determinato
+dipartimento dell'amministrazione cantonale, un determinato servizio, un determinato ufficio della
+dell'amministrazione cantonale. nel caso dell'ispettorato del lavoro E il Dipartimento finanze diconomia, in
+particolare la divisione dell'economia che se ne occupa e che ha competenze in materia di ispettorato del
+lavoro.
+
+Mentre gli altri servizi che ho citato nella diapositiva fanno capo al Dipartimento sanità di socialità
+dell'amministrazione cattoonale. Come dire in qualche modo una collocazione più pertinente pertinente
+trattandosi di politiche sociali e trattandosi di benessere della della popolazione, mentre il l'ispettorato
+del lavoro si trova collocato non nel Dipartimento Senza Socialità, ma nel Dipartimento finanze ed Economia.
+Questo per semplicemente per dirgli quanto è Frammentato il nostro il nostro sistema, le competenze sono
+competenze diffuse frammentate sul territorio, ma anche a livello di amministrazione di amministrazione
+cantonale.
+
+E poi vabbè, questi sono alcuni di dispositivi che si aggiungono a quelli che abbiamo visto contestualmente al
+sistema di sicurezza sociale. Questo per dirvi che vi sono interventi, vi sono mezzi vi sono dispositivi che
+non fanno parte di quello che abbiamo descritto e rappresentato.
+
+Come sistema di sicurezza sociale, ma che hanno un'importanza hanno il loro ruolo nel mantenimento e nel
+miglioramento del benessere della della popolazione. pur non facendo parte del sistema di sicurezza sociale,
+non sono né assicurazioni sociali non sono nemmeno né prestazioni Come ha bisogno con accertamento con
+l'accertamento dei mezzi e ne abbiamo Visto uno in particolare contestualmente al modello di qualcheggio del
+salario. di questi dispositivi che ha la sua importanza, cioè sono le indennità giornaliere per malattia. Che
+non è un'assicurazione sociale, anche se figura nel conteggio del salario del modello di conteggio del
+salario.
+
+Non è un'assicurazione sociale, non è obbligatoria. ma un'assicurazione privata di diritto privato che
+determinati datori di lavoro devono stipulare, perché obbligati da un contratto collettivo di lavoro. Ma vi
+sono datori di lavoro che non sono non aderiscono ad un contratto collettivo di lavoro e quindi formalmente
+giuridicamente non sarebbero obbligati ad assicurare i propri dipendenti contro il rischio di perdita di
+guadagno in caso di malattia.
+
+Ebbene, vi sono dei datori di lavoro che pur non essendo obbligati ad assicurare i propri dipendenti contro
+queste eventualità, li assicurano comunque stipulano una assicurazione per indennità perdita di guadagno in
+caso di malattia, idnità giornaliere per per malattia. Però, ahimè, vi sono salariati e sono relativamente
+molti che non sono coperti da questo rischio, perché il loro datore di lavoro non li ha non li ha assicurati
+perché non è obbligato e perché lui stesso lei stessa ha deciso altrimenti di correre il rischio. che tauni i
+suoi dipendenti Si si assentino da proprio lavoro per malattia. In questo caso, cosa succede? L'abbiamo detto.
+
+La settimana scorsa, noi ribadiamo oggi il datore di lavoro ha un'unica responsabilità nei confronti di questo
+salariato o di questa salariata che sia che si che si ammala. E non è assicurata Contro questa perdita di
+guadagno, in caso di di di malattia. Bene versare comunque il salario al salariato o alla salariata che si
+ammala Non per una malattia professionale per un determinato periodo di tempo che è relativamente breve di
+questo periodo è funzione dell'anzianità di servizio.
+
+Quindi questo è un dato fondamentale sul quale sono già mi sono già soffermato nelle elezioni precedenti e
+ritornerò ancora in Nelle prossime elezioni è un dato fondamentale del nostro sistema di sicurezza sociale o
+meglio del non sistema di sicurezza sociale e sul quale c'è spesso Come dire incertezza proprio lo dico
+appunto è spesso una domanda d'esame che spongo spesso all'esame. proprio perché è una lacuna una grossa
+lacuna del nostro sistema
+
+di sicurezza sociale che non prevede una sociale in quest'ambito, la copertura di questo rischio
+L'assicurazione malattia l'assicurazione obbligatoria contro le malattie vi tutela contro i costi medico
+ospedalieri generati determinati da una malattia. costo del medico, i farmaci ma non vi sostituisce un
+salario. È chiaro a questo punto È chiaro ci ritorneremo ci ritorneremo spesso. Ecco qui come sempre avete una
+piccola bibliografia che vi invito comunque a consultare. quello che vi come dire, ecco quello che in qualche
+modo vi consiglio. Vi suggerisco di consulta ogni tanto è questo sito.
+
+Il il centro di informazione AVS e Interessante, soprattutto importante per voi come operatori operatrici
+sociali, perché trovate tutta una serie di informazioni relative contestualmente alle assicurazioni sociali,
+soprattutto in particolare alle assicurazioni sociali e trovate tutta la modulistica che vi serve per chiedere
+una prestazione o per Semplicemente per per per chiedere un'informazione sul vostro livello di tutele.
+
+Poi alla fine della della lezione vi mostro un un paio di moduli che potete ricavare da questo questo sito che
+ripeto piuttosto piuttosto utile, piuttosto importante per voi per il vostro lavoro, non solo di studenti e
+studentesse, ma anche di operatori operatrici sociali. Trovate anche gli opuscoli informativi che descrivono
+il funzionamento l'organizzazione delle varie situazioni sociali. Quindi sicuramente un sito da tenere
+d'occhio da consultare più o meno regolarmente, beh naturalmente in funzione dei vostri bisogni conoscitivi.
+
+Al di là di tanti altri siti, però appunto meglio concentrarsi su su pochi Su pochi siti, questo come in
+qualche modo ha i crismi dell'ufficialità in quello che trovate qui in forma di modulo anche in formulativo
+opuscolo informativo, ma proprio un valore un valore ufficiale, se volete potete scaricare il modulo
+compilarlo e inviarlo a di dovere. Ci siamo chiaro domande. Io avrei una domanda non ho capito solo una cosa,
+ma quindi il datore di lavoro non è obbligato a pagare gli oneri sociali ai suoi dipendenti in tutti i casi?
+Cioè, nel senso se ho un SGL, un S oppure una una attività indipendente, giusto. In determinati casi, magari
+sono obbligato e in altri no ho capito giusto.
+
+Allora, SAGL-SA fondamentalmente il proprietario di quella di quella SSAGL è un salariato come qualsiasi altro
+salariato. quindi paga i contributi sociali come qualsiasi altro salariato e i contributi sociali che spettano
+al datore di lavoro le paga la sua azienda, quindi contabilmente come dire c'è una contabilità in cui figura
+il suo salario come proprietario dell'SA o della SGL sul quale persi i contributi e in contabilità trovate
+anche i contributi del datore di lavoro, quindi direte sì è sempre lo stesso. Sì, è chiaro che che che è così,
+però contabilmente è diverso una volta versa i contributi sociali come datore di lavoro. E una volta diversa
+come salariato.
+
+Quindi è obbligato come pure obbligato a aderire ad un secondo pilastro, perché pur sempre un salariato
+obbligato a stipulare un'assicurazione contro gli infortuni professionali non professionali, come qualsiasi
+altro salariato. Diverso il discorso per gli indipendenti in senso stretto, cioè il libero professionista. è
+obbligato perché lo prevede la normativa a pagare a versare i contributi all'ABS alla I e all'indennità per
+perdita di guadagno. Perché sono assicurazioni cosiddette universali. Quindi anche lui a prescindere dal
+proprio statuto sul mercato del lavoro li deve deve deve versare con i contributi, però non è obbligato con i
+dipendente. A aderire ad un secondo pilastro.
+
+Adesso non mi riferivo tanto a se stessi, ma diciamo pagare i propri dipendenti. Nel caso dell'indipendente,
+per esempio, cheriati Esatto ai propri operai deve pagare gli socialiendenti Quindi se un indipendente, non so
+pensate ad uno studio, dico uno studio notarile, che non necessariamente è una S una SAGL Ci sono studi medici
+o studi notarivi che funzionano secondo i principi Della dell'indipendenza. Se ha come spesso accade di
+salariati, il segretario, la segretaria, l'aiutante. deve versare come datore di lavoro. i contributi sociali
+per questi salariati.
+
+Indipendente in senso stretto non significa che non non ha dei salariati, anche se indipendente a lui stesso
+in o lei, in senso in senso stretto. È chiaro a questo punto. Sì, grazie mille perché appunto a me è successo
+di non è che non mi sono stati pagati e gli oneri sociali da datore di lavoro, quindi è una realtà possibile
+anche quella sì. possibile siamo Ci sono altre domande? Tutto chiaro. Ecco su taluni aspetti torneremo.
+Torneremo ancora. T presente questi dati e questi temi che abbiamo che abbiamo affrontato. Ecco se siete
+d'accordo. Passiamo. Alla lezione di oggi dire e propria. Ci cambiamo Pilar tecnica mi aiuta in modalità in
+modalità presentazione.
+
+Ce l'ho fatta Ecco il sistema di tre pilastri. E qui siamo se volete al cuore di di quella fascia intermedia
+della piramide rovesciata. Il sistema dei tre pilastri è un sistema previdenziale che sta al cuore di quel
+sistema di assicurazioni sociali. Quindi in quella fascia intermedia della piramide rovesciata e lì trovate
+alcune anzi trovate le principali assicurazioni sociali, le principali Assicurazioni di quelle 11
+assicurazioni sociali di cui abbiamo parlato la settimana scorsa e due settimane fa. Come descrivere al meglio
+questo questo sistema?
+
+Beh, in maniera molto come dire in maniera molto semplice. per iniziare un sistema che copre tre rischi
+sociali tre di quei rischi sociali che le assicurazioni sociali sono chiamati a coprire. Sono diversi rischi,
+disoccupazione, fortuni, malattia, eccetera, famiglia, figli Il sistema di tre pilastri è stato concepito per
+coprire per tutelare la popolazione o parte di essa da tre rischi convenzionali vecchiaia invalidità e
+decesso. E lo fa attraverso tre pilastri Un primo pilastro Che per semplicità per un po' giornalistici, ma un
+po'' divulgativi possiamo chiamare previdenza previdenza statale.
+
+Ed è un pilastro, primo pilastro che è obbligatorio per tutta la popolazione, un cosiddetto pilastro
+universale. Ed è preposto a garantire alla popolazione un minimo vitale un fabbisogno vitale, come spesso
+viene chiamato. E come lo fa? Come raggiunge questo obiettivo lo raggiunge attraverso tre dispositivi
+attraverso tre regimi assicurativi. tre di quei regimi di quegli 11 regimi assicurativi di cui abbiamo parlato
+in relazione alla piramide rovesciata. AVS e prestazioni complementari. Questi sono i tre regimi che
+caratterizzano e che qualificano il primo pilastro, il primo pilastro obbligatorio per tutta la popolazione
+residente.
+
+Quindi, un cosiddetto pilastro universale E come si finanzia questo questo sistema ma si finanzia
+prevalentemente attraverso prelievi sui redditi sui salari. Ricorte la PS ITG come vengono finanziati
+conteggio del salario, il modello di conteggio del salario. Contributi forfettari per chi non ha un salario e
+nemmeno un reddito. Poi c'è una piccola parte che è coperta da contributi pubblici, però è minima. prevalente
+sono i contributi sociali, cosiddetti prelievi sui redditi sui e sui e sui salami. E dove vanno a finire
+questi prelievi, cioè quello che noi ricaviamo quello che vuoi concedete quello che si preleva.
+
+Sul vostro sul vostro salario, anche sui salari di stagista, anche come dire anche i contributi forfettari.
+Che fine fanno questi contributi? Ebbene servono di volta in volta di mese in mese di anno in anno in cui sono
+prelevati. dei salari dei redditi servono a finanziare le pensioni in corso in quello stesso periodo.
+
+Quindi quello che entra nelle casse di AVSI IPG, anche nelle ci limitiamo all'AVS e alla perché PG non fanno
+parte di un pilastro comprono un altro come dire altri rischi. viene immediatamente riversato agli aventi
+diritto, cioè chi in pensione oggi che è in età AVS beneficia di una pensione di una rendita di vecchiaia di
+25220 Fr al massimo Che vengono finanziati attraverso i prelievi sui salari. E questo sistema di finanziamento
+delle pensioni correnti attraverso i prelievi sui redditi e sui salari è chiamato sistema di finanziamento a
+ripartizione. D'accordo. Ma i pilastri sono tre, giustamente il secondo pilastro è un pilastro più diciamo
+particolare, peculiare.
+
+Al nostro sistema di sicurezza sociale. Perché eroga, copre concede una quello che possiamo chiamare una
+pensione integrativa, cosiddetta integrativa è la cosiddetta previdenza professionale o quello che appunto
+chiamiamo normalmente in maniera abbastanza come dire impropria a volte cassa pensione. O istituto
+previdenziale sono gli istituti previdenziali che organizzano e si occupano.
+
+Di gestire questo questo secondo questo secondo pilastro che contrariamente al primo pilastro non è
+obbligatorio per tutta la popolazione residente, è obbligatorio solo per i salariati a determina determinate
+condizioni, cioè per cui i salariati che superano la soglia dei 22. 680 Fr di salario di salario annuale Sono
+questi che sono obbligatoriamente assicurati nell'ambito del secondo pilastro. Quindi nemmeno tutti i
+salariati non solo non tutti i salariati sono affiliati ad un secondo pilastro, ma gli indipendenti sono sono
+obbligati ad affiliarsi.
+
+Semmai se lo volessero possono stipulare una forma di secondo pilastro facoltativa e volontaria se desiderano
+farlo, ma non sono obbligati a farlo. E il secondo pilastro è destinato a integrare il primo pilastro che è
+destinato unicamente a coprire il fabbisogno vitario, il minimo vitale attraverso le l'S le rendite di
+superstiti e le rendite di ptà e con le rendite di vecchiaia, le rendite di invalietà non si dovesse
+raggiungere questo fabbisogno vitale, questo minimo vitale Ebbene, ci sono le cosiddette prestazioni
+complementari alla VS alla. Che vanno a complemento di una eventuale insufficienza di vendita di una eventuale
+lacuna di reddito.
+
+Il secondo pilastro ha un'altra funzione ed è quella di Nei limiti del possibile di mantenere o di contribuire
+a mantenere quel tenore di vita al quale gli ex Saraiati erano abituati. attraverso delle erogazioni della
+cassa pensione. Come funziona questo sistema l'abbiamo visto certificato di salario Funziona anch'esso con dei
+prelievi sui salari. Ricordate la seconda la la seconda o la terza voce del certificato di Salano sono dei
+prelievi sui salari che vanno a finanziare il secondo pilastro.
+
+Ma contrariamente al primo pilastro, questo secondo pilastro funziona in maniera un po' diversa, cioè quello
+che noi versiamo al fondo pensione alla cassa pensione all'istituto previdenziale non viene immediatamente
+riversato a degli eventuali eventi diritto. va ad aggiungersi, va ad alimentare un capitale individuale, un
+risparmio individuale. Cioè funziona come se volete come un libretto di risparmio Cioè quello che noi
+preleviamo che viene prelevato mensilmente annualmente sul nostro salario, va ad alimentare non una pensione
+corrente, ma va alimentare un capitale nostro individuare una specie di libretto di risparmio, se volete.
+
+Ed è per questo che il sistema di finanziamento non è detto a ripartizione è detto a capitalizzazione. cioè si
+accumula un capitale. Come nel caso del del risparmio individuale solo che qui siamo nell'ambito delle
+assicurazioniciali è un prelievo obbligatorio che va a tutela del rischio va a coprire il rischio di rischio
+di vecchiaia al momento del del pensionamento il raggiungimento dell'età della pensione, quel capitale
+accumulato nel corso dell'attività lavorativa ci viene versato o sotto forma di rendite, di vecchiaia o sotto
+forma di capitale possiamo chiedere l'intero capitale l'intero risparmio accumulato al momento al momento
+della pensione. Arrivo subito E poi vedete vabbè a parte.
+
+La cassa pensione avete un'altra assicurazione sociale che è contemplata nel secondo pilastro l'assicurazione
+contro gli infortuni. perché? Ma perché non copre soltanto le spese medico ospedaliere determinate da un
+infortunio sul lavoro. o da una da un infortunio nel tempo libero. da una malattia da una malattia
+professionale brivo relativamente breve.
+
+Quindi, con delle prestazioni erogate in funzione appunto della della necessità del del del caso. eroga anche
+purtroppo capita delle rendite delle cosiddette rendite a lungo termine nello specifico delle rendite di
+invalidità Perché è un infortunio professionale, un infortunio non professionale o anche una malattia
+professionale può purtroppo capita generare una forma di invalidità. Quindi cronicizzare quello stato di
+salute precario determinato dall'infortunio della malattia.
+
+E e quindi non solo copre l'assicurazione contro infortuni, il rischio infortunio in senso stretto è quello
+che ne deriva in termini di di costi di bisogni di necessità compre anche il rischio di invalidità.
+naturalmente se la velocità prosegue si prolunga del tempo e va anche oltre l'età pensionabile e quella
+rendita di invalidità erogata durante la l'età potenzialmente attiva. erogata anche oltre l'età pensionistica
+e quindi come dire in
+
+qualche modo l'assicurazione con infortuni fa parte anche del secondo pilastro in virtù del fatto che copre il
+rischio di invalidità e il rischio di vecchiaia e il rischio di decesso, perché se manco durante appunto il
+beneficio di una di queste di una di queste rendite. Parte di quella rendita viene poi riversata agli aventi
+diritto ai familiari. Appunto, abbiamo parlato I tre pilastri, i pilastri sono tre questo terzo pilastro in
+realtà non fa parte del sistema di sicurezza sociale. della piramide rovesciata non vi è come dire una voce
+terzo terzo pilastro.
+
+È un terzo pilastro che contrariamente agli altri due, che sono obbligatori per tutta la popolazione
+obbligatori per parte di essa questo terzo pilastro non è per nulla obbligatorio è facoltativo Ed è una specie
+di una sorta, la possiamo chiamare una integrazione individuale. Negli altri due pilastri. E funziona
+anch'esso esattamente come un libretto di risparmio, cioè durante l'attività lavorativa durante come dire
+durante l'attività professionale, si versa regolarmente ad un terzo pilastro ad una forma di terzo pilastro,
+una forma di terzo pilastro vincolata o libera in una fondazione bancaria o presso un'assicurazione.
+
+Una somma che poi si ritrova alla fine del proprio percorso lavorativo della propria attività professionale. E
+per è concepito almeno in origine per chi era concepito prevalentemente questo terzo pilastro, Questa
+previdenza privata, questa previdenza facoltativa non non obbligatoria. Era pensata soprattutto per gli
+indipendenti, non essendo obbligatoriamente affiliati al secondo pilastro, a loro il legislatore ha concesso
+la possibilità di stipulare una forma di terzo pilastro, Stipulando la quale stipulando questa forma di terzo
+pilastro, l'edificio non beneficicerebbero avrebbero beneficiato l'idea del legislatore di una serie di
+agevolazioni fiscali.
+
+Tu versisilmente annualmente in una somma di denaro ad una forma di terzo pilastro, una specie di libretto di
+risparmio, se volete, vincolato questo ti permette di scalare le imposte di pagare le imposte, perché
+accantoni un risparmio che ti serve Per coprire un rischio, un rischio vecchiaio, un rischio decesso, Questo
+permette in qualche modo di compensare naturalmente nessuno obbligato a farlo di compensare l'assenza di un
+secondo pilastro obbligatorio, naturalmente non tutti indipendenti lo è lo fanno soprattutto quelli
+indipendenti che.
+
+Hanno ricavano dalla propria attività di indipendente un reddito modesto relativamente modesto non tutti sono
+notai medici architetti o grandi proprietari di di di aziende di aziende agricole. Tant'è vero che più o meno
+a seconda delle statistiche, a seconda delle stime, più o meno un quarto tra un quarto e un terzo di questi
+indipendenti in senso stretto, non parlo dei proprietari di S o di SAGL, ho proprio un quarto tra un quarto un
+terzo degli indipendenti in senso stretto non hanno ben un secondo né un terzo pilastro.
+
+E questi sono saranno molto probabilmente, ma già lo si vede già lo si vede oggi lo statisti le statistiche
+non mostrano proprio quei quei quei candidati che arriveranno alla pensione con redditi con risorse. personali
+o assicurative previdenziali insufficienti, quindi come dire, la VS ce l'avranno perché è obbligatoria. solo
+come dire pensato di versare mensilmente annualmente i contributi all'AVS, però molto probabilmente. oltre
+alla'AVS, oltre alla rendita di vecchiaia, non avranno molto altro.
+
+Forse qualche risorsa personale, qualche risorsa familiare eene queste persone di cui come dire che
+incontrerete spesso nel vostro percorso professionale sono candidati, non solo non gli unici candidati Cosa a
+quale tipo di prestazione? Probabilmente sono coloro che più di altri faranno ricorso, dovranno fare ricorso
+alle prestazioni complementari. D'accordo che ricordiamoci, fanno parte del sistema delle assicurazioni
+sociali, ma funzionano in maniera analoga all'assistenza sociale, cioè non tutti coloro che raggiungono l'età
+pensionabile o non tutti coloro che hanno una rendita di intualidità beneficiano automaticamente di una
+prestazione complementare alla PS alla I.
+
+Devono dimostrare di averne bisogno, cioè di avere un un di avere delle risorse insufficienti. compresa
+inclusa l'eventuale rendita di vecchiaia e la rendita la rendita di ingelidità se del caso. Sì la parte 3 da
+parte Si può parlare di normali risparmi da integrare, ma anche la polizza vita e non capisco bene cosa si
+tratta della polizza vita. Sì, più o meno la stessa più o meno la stessa cosa, cioè un terzo pilastro
+solitamente Equiparato ad una polizza sulla sulla vita ad un'assicurazione su una vita, cioè si stipula una
+forma di terzo pilastro.
+
+Prevedendo fin da subito che in caso di decesso nei benefici qualcuno che può essere un familiare solitamente
+un familiare, un familiare stretto. questi questi aspetti sono sono chiari, sono il sistema generale come
+funziona la sua architettura è chiara. Sì? No, mi chiedevo se ci fossero delle differenze per quanto riguarda
+l'attuazione di queste di questa struttura generale di termini di vari cantoni. O se riproducessero in modo
+usuale la struttura svizzera. Ma la risposta ce l'hai nella tiramide rovesciata, quindi quando parliamo di
+assicurazioni sociali, dove ci situiamo. A che livello istituzionale ci situiamo? Eh sì, lo so. Come?
+
+Non lo so Sì, in mezzo alla piramide rovesciata, ma che è competente in materia di sociale. Eh sì, la
+confederazione. Quindi la risposta è chiara. Non ci possono essere differenze cantonali. Perché sapevo che nel
+terzo pilastro alcune delle differenze per quanto riguardazioni fis Non per quanto riguarda il terzo pilastro
+vincolato, non sono delle delle come dire. vi sono delle delle deduzioni possibili, ma queste non dipendono
+dipendono dal cantone se tu stipuli come dire un terzo pilastro vincolato in un cantone con un assicuratore
+che solitamente un assicuratore nazionale, ciò che attivo su tutto il territorio su tutto il
+
+territorio nazionale se lo stipuli con quelle assicuratore che ne so AXA o chi per o chi per esso in Canton
+Ticino e poi ti sposti a Zurigo o a Ginevra, non è che poi come dire le condizioni cambiano stipurato
+un'assicurazione che ha quelle quei parametri e che ha quelle condizioni. Ci sono delle differenze, come dire
+che possono essere Condotte al cantone. Chiaro Nel caso in cui ci sia una forma di invalidità prima del
+pensionamento. E ci forse che prima di finire del terzo pilastro No, però in tutta la vita ha avuto sia il
+secondo che il terzo pilastro. Arrivato al pre cioè al pensionamento e solamente con il primo pilastro non ce
+la faccio.
+
+È possibile che il non so decide Non non gli dia la garanzia del minimo vitale, ma li faccia prelevare tutto
+il secondo e il terzo pilastro insieme. Non nessuno può obbligarti a prelevare il secondo pilastro. la tua No,
+Nel senso ci sono vari casi, però io appunto, avendo fatto lo sta come assistente sociale, mi è capitato
+spesso di vedere persone che. O entravano in invalidità durante un periodo post lavoro a seguito Chi ha il
+terzo pilastro, il secondo a volte hanno diritto delle rendite a seconda del grado di invalidità direttamente
+dal secondo dal terzo pilastro. O addirittura al ritiro di tutto il terzo, seconda un po'' delle direttive dei
+codici condizioni generali.
+
+Però secondo me la tua domanda era più da rispondere con le prestazioni complementari, perché se la persona è
+sempre stata invalida, probabilmente non ha potuto mettere da parte soldi E di conseguenza, se non arriva il
+minimo vitale con l'ABS ha diritto alle prestazioni complementari.
+
+Chi arriva con con risorse proprie insufficienti all'età della tensione necessariamente come dire una persona
+che ha avuto un'attività professionale con redditi modesti che essere qualcuno che come in qualche modo non ha
+ha avuto un guadagno sufficiente oppure è stato escluso dal mercato del lavoro per diversi titivi e quindi,
+come dire per un motivo per un altro, se le risorse sono insufficienti al momento del pensionamento. L'abbiamo
+detto più volte intervengono le prestazioni complementari intervengono proprio a colmare quella lacuna di
+vendito, quella lacuna di risorse che servono per garantire almeno per coprire almeno il minimo totale.
+
+Questa è la funzione delle delle prestazioni complementare. Sì, certo, sì. Spese mediche, vedremo vi farò vi
+darò un esempio di di come funzionano le Lo vedremo un dettaglio. studiato aziendale nel suo tempo che una
+parte del terzo pilastro poteva essere dedotto dalle imposte. Sì, quello che ho detto prima, nell'anno, quello
+vincolante, sì. Il B, quello non vincolante, c'è la previdenza libera a pochi vantaggi fiscali. fai per te e
+poi puoi dedurre molto poco dall'imposta qualche qualche interesse un poco altro. Il il Sì Là permette di
+dedurre se sei salariato circa adesso sono circa 7000600 Fr all'anno. delle imposte. Sì, certo, sì. Ma devi
+avere già un bel terzo pilastro.
+
+Dei 150. 000 Fr in su d'accordo su questo su questo punto ci torneremo se il caso. Altre domande? Ecco, ci
+avviciniamo alla fine poi le riprendo la settimana prossima. Le altre. Le altre positive, anche per entrare
+nel merito della dei dispositivi dei regimi di sicurezza sociale. Guardate che se non vi interessa la lezione,
+potete anche uscire non è che mi offenda. Ecco, forse entriamo nel nel nel merito di quello che anticipato
+prima, cioè cosa importante per voi come operatori operatrici sociali, ma sono importanti diverse diverse
+cose, la prima è questa non tutto è automatico. È vero che Contribuire al finanziamento dell'AVS è importante.
+
+A partire da una certa età da 18 anni se lavorate da 21 anni non avete un'attività nucrativa, ma se siete per
+esempio studenti, ecco ricordatevi che a partire dal ventunesimo anno di età l'assicurazione vecchiaia
+superstiti è obbligatoria per tutti tutti sono tenuti a versare un contributo alla PS. E se non lo versate
+Nella migliore delle ipotesi vi arriva a casa una lettera come come questa che vi ricorda guarda che sei
+tenuto all'obbligo del versamento delle I contenuti sociali all'AVS ricordati di farlo.
+
+Su questa è una lettera vera autentica, anonimizzata naturalmente, perché se non lo fai, se non versi i
+contributi alla VS, ebbene sappi che al momento del pensionamento ogni anno di lacuna ogni lacuna ha
+diversamento al finanziamento della PS, cioè ogni contributo mancante, un anno di contributi mancanti
+determina una diminuzione della rendita di vecchiaia del 2, 3% Questo è già come dire, insomma, le rendite di
+vecchiaia non sono enormi, c'è poco da sciare anche con la rendita di vecchiaia piena, compta se poi questa
+rendita vi viene diminuita prorata in funzione degli anni che vi mancano i contributi mancanti, questa reddita
+si attiglia ancora di più.
+
+Quindi ecco ha un giovane che si presenta da voi con l'operatore operatrici sociali. Di 23 anni, per esempio,
+cosa vi chiedete la prima cosa che vi chiedete qual è? Sì, è probabile che se viene da voi non è salariato,
+però è probabile che non abbia versato i contributi in PS in questo caso cosa gli dite?
+
+Ha 23 anni non ha fatto non ha mai lavorato fino ad allora. cinque anni in modo che se dovesse quando
+arriveranno la pensione, non avranno più contributitivi di conseguenza si spera che la reddita sarà Esatto, sì
+quindi ricordatevi che vi sono c'è la possibilità di pagare retroattivamente i vostri contributi fino a cinque
+anni disare i contributi pregressi fino ad un massimo di cinque anni, però se la persona che arriva da voi a
+30 anni non ha mai versato un soldo alla PS potrà eventualmente se del caso pagare gli ultimi cinque
+contributi mancanti gli ultimi cinque anni, ma non di più, non i nove anni. per i quali avrebbe dovuto potuto
+versare i propri contributi.
+
+Ecco un'altra cosa sempre in questo in quest'ambito magari appunto si presenta da voi una persona. Con anni
+alle spalle magari di 40 45 anni sono con problemi finanziari con problemi economici. A quel punto una delle
+cose che potete suggerire è qual è ma anche per capire qual è la sua situazione, la sua condizione, ma gli
+potete suggerire di chiedere un estratto del suo conto AVS individuale, cioè per chiedere alla AVS al fondo di
+compensazione AVS a chi è proposto a organizzare e gestire la PS di fargli capire com'è la sua situazione si è
+sempre pagata e versato i contributi quanti ne ha versati per capire qual è la sua situazione
+
+economica e finanziaria, anche in prospettiva futura per non avere poi sorprese o brutte o brutte sorprese,
+perché a 45 cinquant'anni magari sei ancora in grado sei ancora in forze di Riparare di rimediare a talune a
+talune lacune. Poi magari arriva anche una persona più molto più là con con gli anni, magari a 62 o 63 o 64
+anni che non ha idea di come vivere di come come dire di come continuare a finanziare la propria la propria
+esistenza Ma magari non ha mai pensato, non si è mai reso conto di essere affiliato alla viS e quindi di avere
+diritto ad una rendita di vecchiaia superstiti, una rendita erogata dalla PS.
+
+Non parlare del secondo blastro, capita a volte che non ci si ricorda nemmeno di essere stati affiliati ad un
+secondo pilastro. La maggiore ragione coloro che hanno lavorato sartoriamente temporaneamente
+all'intermittenza Capita che il loro fondo pensioni, il loro risparmio, rimanga in giacenza e che non lo
+ricamano. bisogna fare presente questo alla persona che viene da voi, soprattutto nel caso dell'AVS bisogna
+renderlo detto che la vendita di vecchiaia non gli arriva automaticamente da un giorno all'altro.
+
+Devi chiedere deve fare richiesta e questa richiesta va fatta attraverso un modulo in cui vedete la prima
+pagina questo modulo lo trovate sul sito del centro di informazione ABSI modulo aiutate la persona a compilare
+il modulo a spedirlo va molto più veloce se lo si fa per via per via per l'informatica e poi come dire. Da lì
+a quando maturerai il proprio diritto alla rendita riceverà la rendita di questa operazione va fatta per
+tempo, cioè non dall'ultimo momento, non da un mese dallo scadire, un mese dall'inizio dell'età pensionabile.
+Va fatto con parecchi mesi di anticipo, idealmente un 12 mesi prima del pensionamento.
+
+Anche questo l'ha ricordato alle alle persone, questo per dire che appunto nulla è automatico in questo
+sistema ci sono degli obblighi ci sono dei diritti, ma questi obblighi questi diritti vanno come dire
+enunciati vanno fatti vanno fatti valere. Poi sempre la persona di 23 anni che si presenta da voi al servizio
+sociale, servizio sociale comunale al servizio sociale cantonale, una fondazione, un'associazione, cosa
+chiedete?
+
+Parte la risposta c'è stata prima chiedete soltanto se è pagato se è versato i contributi all'AVSS alla e alle
+IPG che tra l'altro appunto ricordate perché non fanno parte del primo pilastro dei PG dignità per perdita di
+guadagno pur essendo come dire sorelle di AVSP, la prima voce nel conteggio di salario è AVSIPG. documenta le
+i contributi sociali a finanziare queste tre assicurazioni sociali, questi tre regimi assicurativi. ABSA fanno
+parte del primo pilastro insieme alle prestazioni complementari, che però non sono finanziate attraverso
+preghivi su salari, ma attraverso la fiscalità generale. di PG non ne abbiamo parlato lo figurano nel primo
+pilastro.
+
+E perché secondo voi, così faccio la domanda. Così Il primo pilastro, il sistema di tre pilastri, quali rischi
+copre? invalidità e super Sì, questi tre rischi e quindi logicamente le PG non fanno parte del primo pilastro
+del sistema previdenziale vecchia varidità superstito, vecchia di varidità decesso perché non coprono.
+
+Nessuno di questi tre dischi, e quali rischi coprono lePG? nitàrono il servizio civile e limitare Sì,
+maternità e servizio, chi presta il servizio di leva la protezione civile del servizio civile o nel
+nell'esercito o coprono il rischio maternità erogano dell'indennità di maternità, quindi rischi che non fanno
+parte del sistema previdenziale vecchiaia, validità superstiti. c'è anche perché io so che c'ho la maternità,
+però ultimamente si parte della è un fatto congedo parentale.
+
+E di tempo e economico e finanziario, un fatto relativamente recente, quello dellaternità di sicuro, ma anche
+la l'indennità di maternità non è da molto che esistono dal 2005 benché come dire la costituzione non
+prevedesse già dagli anni 50. Ecco, ma al vostro giovane che viene da voi o da giovane che viene da voi è
+pieno di speranze e che ha bisogno di un sostegno. Oltre Come dire le formalità legate al funzionamento delle
+assicurazioni sociali, oltre come dire le formalità legate alle tutele. Alle quali A o avrebbe diritto cosa
+cosa gli chiedete?
+
+Il pagato il versato i contributi sociali. almeno io sulla mia esperienza, la prima cosa che fa è proprio una
+versione, cioè 360° qual è la sua situazione a parte letà di che sono una piccola di una persona ci sono di
+altre persone che si possono verificare per capire anche se senza lavoro ad diritto tutto se addirittura
+l'assistente se ha diritto a presezione perché se una donna che magari ha avuto un figlio da poco e non riesce
+a lavorare, ci
+
+sono gli asmi, gli api ci sono un sacco di situazioni e per capire che quando siano le eventuali possibilità
+si fa in check nel senso si capisce qual è la situazione della persona è da lì che si fa in generale si
+chiedono le sue motivazioni, perché perché proprio ora cosa è successo Come se le cate nei frattempo, cosa è
+successo di recente, la situazione abitativa, la situazione lavorativa ha lavorato, però come dire, potrebbe
+essere utile indirizzarlo verso un ufficio regionale di collocamento. Probabilmente non ha diritto
+all'indennità di disoccupazione, ma diritto potrebbe aver diritto ad una serie di sostegni di consigli.
+
+Per l' avviarlo verso un percorso di integrazione professionale, per esempio, magari senza avere diritto ad
+un'entità di disoccupazione e per questo che si chiede anche la sua situazione abitativa, per esempio la
+situazione familiare. Ricordatevi che appunto il nostro il nostro giovane, la nostra giovane ha 23 anni fino
+all'età di 25 anni c'è l'obbligo di mantenimento da parte dei genitori. Naturalmente nella misura in cui i
+genitori possono permetterselo e sono in grado di mantenere il figlio o o la figlia.
+
+E poi naturalmente si entra nel merito anche della formazione. e delle e delle e delle competenze sulla quali
+eventualmente far leva per avviarlo o per avviarla verso un percorso virtuoso di inserimento sociale e
+professionale e poi naturalmente non da ultimo Nella cosa meno importante da chiedere, soprattutto oggi, come
+come come voi sapete, si chiede ci si informa del suo stato di salute, non solo fisico, ma soprattutto mentale
+e sapete che vi è una recdescenza, vi è una un intensificarsi vi è una crescita, un aumento dei casi di
+disagio psichico tra i giovani. Quando parlo di giovani parlo di persone in età anche molto bassa.
+
+L'età in cui si manifestano i problemi di natura psichica, si sta abbassando in maniera allarmante. E sono
+persone di cui avrete una responsabilità in futuro e che non necessariamente come dire quando si presentano da
+voi in un ambiente formale o semiformale, dovete per forza indirizzare verso l'assistenza sociale. Vi sono
+altre possibilità prima di consigliare prima di fare il corso all'assistenza all'assistenza sociale.
+
+C'era una domanda di invalidità e eventu esatto prima ancora dell'assistenza, anche se appunto prima di
+arrivare. a consigliare una prestazione di invalidità, forse occorre come dire in qualche modo esplorare altre
+vie, però questo è sicuramente una possibilità non necessariamente l'assicurazione contro l'invalidità eroga
+subito d'ufficio una rendita di invalidità può anche essa ci sono molti esempi, per esempio penso alle al
+dragato a Bellinzona
+
+che offre la possibilità alle persone in fase in procedura AI Gli hanno fatto richiesta di una prestazione AI
+non beneficiano di una rendita di invalidità, però sono inseriti in quel dispositivo A attraverso il quale
+sono presi in carico e viene offerta loro la possibilità di una formazione per poi reintegrarsi nel mondo del
+lavoro e trovare una propria autonomia.
+
+Dragonato, fondazione Sirio Ecco, sforato di due minuti ne riparliamo la settimana prossima riprendiamo un po'
+il discorso però state sempre come dire attenzione a questo sistema che un sistema che è molto complesso,
+molto articolato che però mi permette anche una serie di margini di manovra per aiutare per soccorrere per
+sostenere le persone che vengono vengono da voi e che bisogna appunto conoscere i meccanismo occorre conoscere
+il sistema, non la memoria naturalmente, ma sapere perlomeno dove andare a reperire le informazioni quanto
+serve.
+
+E questo il l'obiettivo e una di quelle fonti che vi permette di capire come aiutare la persona che si
+presenta da voi con dei problemi di natura economica, finanziaria, ma anche di di salute e quel sito che vi ho
+mostrato il centro di formazione ABSI che vi permette perlomeno di di avere così un'idea un'idea generale di
+cominciare da qualche parte, magari la persona ha diritto o potrebbe avere il diritto di una situazione
+sociale alla quale non ha pensato, ma potrebbe ricorrergli con il vostro con il vostro aiuto facendo i dovuti
+passi formali.

@@ -1,0 +1,390 @@
+Biblioteche
+Il mondo a portata di mano
+1
+Nash Pettinaroli, 
+bibliotecario
+
+---
+
+Scuola universitaria professionale della Svizzera italiana
+
+SUPSI
+SWISSCOVEery
+
+Guida alla registrazione
+
+---
+
+Swisscovery… un unico catalogo per le biblioteche  
+universitarie svizzere!
+Dal 2020 i cataloghi delle biblioteche SUPSI sono consultabili sulla piattaforma
+Swisscovery / SLSP
+•
+Per poter utilizzare SLSP è necessario registrarsi in qualità di utenti
+2
+
+---
+
+Pagina di registrazione a SLSP
+Il link per la registrazione al catalogo è il seguente:
+https://registration.slsp.ch
+3
+
+---
+
+Inizio
+Per iniziare la procedura, cliccare su «Avviare la registrazione».
+4
+
+---
+
+Login SWITCH edu-ID con account esistente
+Avete già un conto SWITCH edu-ID?
+Inserite le vostre credenziali e cliccate su «Accedi».
+5
+
+---
+
+Consenso dell’utente
+Se avete già creato un account
+SWITCH edu-ID, è possibile 
+che
+appaia
+un
+messaggio
+dopo il login nel quale vi sarà 
+chiesto il consenso per il 
+rilascio delle informazioni.
+7
+
+---
+
+Dopo il login
+8
+Opzioni possibili dopo il login corretto:
+1. Dati dell’utente mancanti;
+2. Utente già registrato;
+3. Registrazione a SLSP.
+Dopo il login, è possibile che manchino alcuni vostri dati o che siate già registrati. 
+Se non si verifica alcuna di queste situazioni, potete proseguire la registrazione.
+
+---
+
+Situazione 1: Dati dell’utente mancanti
+9
+Eventuali dati mancanti sono da aggiungere nell'account SWITCH edu-ID sulla
+base dei messaggi di errore. 
+Per farlo, cliccate semplicemente sulle scritte in rosso.
+
+---
+
+Aggiungere dati mancanti
+10
+Esempio - data di nascita mancante
+•
+aggiungete i dati mancanti
+•
+cliccate sul pulsante «Salva».
+
+---
+
+Situazione 3: Registrazione a SLSP
+12
+Quando tutte le informazioni necessarie saranno inserite, sarà visualizzata una 
+panoramica dei dati inviati a SLSP:
+•
+Se non avete ancora un numero di tessera registrato, potrete inserirlo;
+•
+È necessario accettare i termini di utilizzo di SLSP spuntando la  casella;
+•
+Cliccate il pulsante «Registrarsi» per completare la registrazione.
+
+---
+
+SUPSI
+
+Situazione 3: Registrazione a SLSP
+
+Per effettuare delle ricerche e avere accesso ai documenti della biblioteca, è necessario prima registrarsi con
+SLSP.
+
+Dati di registrazione
+
+Nome:
+Harry Potter
+Data di nascita:
+1980-07-31
+Contatto e-mail principale:
+harry.p80@hogwarts-mail.com
+Altri indirizzi e-mail:
+e harry.potter@uni-example.ch
+
+Indirizzi postali:
+e Teststrasse 1291, 3333, Examplingen, Switzerland
+
+Numeri di telefono:
+® +41 44 234 56 78
+
+Numero di tessera della biblioteca
+
+Se possedete una tessera utente non elencata, fornite il numero della tessera.
+Prendere in prestito libri in una biblioteca diventa più facile con una tessera della biblioteca.
+
+andizioni di utilizzo SLSP
+
+no d'accordo con le condizioni di utilizzo SLSP.
+
+Aiuto
+
+Registrarsi
+
+. Suggerimento
+Se siete affiliati a un'università o istituto di ricerca svizzero, per favore collegate l'identità AAI della vostra
+organizzazione al vostro account edu-ID. In questo modo avrete un accesso più ampio ai contenuti delle
+biblioteche di ricerca svizzere.
+
+13
+
+---
+
+Registrazione corretta e completa
+14
+Ora siete iscritti al servizio SLSP.
+Potete accedere al catalogo cliccando sul pulsante blu nell’immagine.
+Per vostra comodità, consigliamo di salvare il link come segnalibro nel browser.
+
+---
+
+Swisscovery
+Associare il conto all’istituzione SUPSI
+1
+Nash Pettinaroli
+
+---
+
+Pagina Switch_edu-ID
+Il link per associare il conto utente all’istituzione SUPSI è il seguente:
+https://eduid.ch/
+3
+
+---
+
+SUPSI
+
+Profilo Sicurezza Privacy
+
+Identità organizzative
+
+Il tuo account è collegato alle seguenti identità organizzative:
+SUPSI - Scuola Universitaria Professionale della Svizzera Italiana
+
+SUPSI _ collaboratrice/collaboratore, studentessa/studente
+nash.pettinaroli@supsi.ch
+
+Aggiungere un'identità organizzativa
+
+14
+
+---
+
+Scuola universitaria professionale della Svizzera italiana
+
+SUPSI
+SWISSCOVEry
+
+La ricerca
+
+Nash Pettinaroli
+
+---
+
+Swisscovery SUPSI
+Per prima cosa, vi consigliamo di effettuare sempre il login.
+La pagina iniziale generica si trova a questo indirizzo:
+https://swisscovery.slsp.ch/ 
+2
+
+---
+
+La ricerca generica
+Immaginiamo che si cerchi del materiale inerente al lavoro di rete.
+È possibile inserire il termine «lavoro rete» nel campo di ricerca semplice.
+Nei risultati di ricerca si visualizzeranno risultati brevi con: il tipo di risorsa, il titolo,
+l’autore, i dettagli di pubblicazione e i link per le azioni successive.
+4
+
+---
+
+Dove cercare
+5
+Per espandere i risultati della ricerca da «solo SUPSI» a tutta la Svizzera o 
+viceversa, possiamo semplicemente cambiare l’opzione di ricerca nel manu a 
+tendina.
+
+---
+
+I filtri di ricerca
+Si possono filtrare i risultati
+con le
+categorie,
+che
+appaiono
+nel 
+menu 
+di 
+sinistra.
+6
+
+---
+
+Dettagli dei risultati
+È possibile cliccare sui titoli
+brevi in modo da aprire una
+pagina di descrizione completa, 
+dove 
+si 
+visualizzano
+più
+opzioni e dettagli a seconda
+delle disponibilità nelle diverse
+biblioteche.
+Con il login è possibile procedere 
+a riservazioni 
+o richieste 
+di 
+prestito interbibliotecario.
+7
+
+---
+
+Il campo di ricerca avanzata
+Per le ricerche più dettagliate è possibile
+utilizzare la funzione di ricerca avanzata.
+Se necessario, è possibile filtrare i risultati per tipo di materiale, lingua o data di
+pubblicazione.
+8
+
+---
+
+1
+Swisscovery
+Guida alla prenotazione e alla 
+riservazione 
+Nash Pettinaroli
+
+---
+
+Richiesta di materiale fisico
+Dopo il login e la ricerca, è necessario controllare dove si trova il documento.
+- Se si trova nella propria sede, basta cliccare sulla barra della biblioteca, poi su 
+«prestito»
+8
+
+---
+
+Richiesta di materiale fisico
+-
+Se il documento si trova presso un’altra biblioteca, scorrere in basso su «Altre 
+opzioni di richiesta», selezionare «SUPSI – DEASS ECONOMIA» e cliccare su 
+«Richiesta», e su «Invia richiesta». Per utenti SUPSI il prestito è gratuito.
+ 
+8
+
+---
+
+Scuola universitaria professionale della Svizzera italiana
+
+SUPSI
+
+Banche dati e riviste
+
+1.1
+
+Nash Pettinaroli
+
+---
+
+A disposizione molte banche dati con milioni di documenti.
+Link: https://www.biblioteche.supsi.ch/risorse
+•
+Per l’accesso alle banche dati e l’eventuale download sarà richiesto lo 
+Switch_edu-ID o l’accesso Microsoft.
+ 
+Questo serve ad associarvi alla SUPSI e permettervi la gratuità del servizio.
+2
+
+---
+
+La suddivisione
+Le banche dati sono in ordine alfabetico per nome.
+Cliccando su «Filtra e cerca», troverete una suddivisione per ambiti disciplinari, 
+se non sapete da dove cominciare affidatevi a una banca dati generica, come 
+Science Direct (Elsevier). 
+3
+
+---
+
+Banche dati in italiano?
+•
+L’unica banca dati in italiano è Torrossa.
+ 
+ 
+ 
+ATTENZIONE: 
+salvare il file prima di aprirlo per evitare 
+ 
+ 
+ 
+problemi con la lettura e la stampa
+4
+
+---
+
+NON divulgate gli articoli sul web.
+A parte le conosciute violazioni del copyright, il formato elettronico (PDF) 
+contiene una stringa rintracciabile dagli editori, con conseguenti multe 
+salatissime.
+
+---
+
+Alternative in italiano
+Al di fuori delle Banche dati, per le tematiche di lavoro sociale sono importanti:
+•
+Archivio della Rivista «Animazione sociale» (embargo di 2 anni)
+https://www.animazionesociale.it/it-ricerca_articoli   
+•
+Editore Franco Angeli
+https://www.francoangeli.it/ricerca-avanzata (cerca fra le riviste)
+•
+ESSPER
+ 
+https://www.biblio.liuc.it/scripts/essper/default.asp 
+•
+La rivista Lavoro sociale
+https://rivistedigitali.erickson.it/lavoro-sociale/ 
+5
+
+---
+
+Social Network e contatti della Biblioteca
+33
+Facebook: 
+https://www.facebook.com/SUPSIbibliotecaDEASS/ 
+Instagram: 
+supsi_biblioteca_deass 
+LinkedIn: 
+https://www.linkedin.com/company/supsi-biblioteca-deass
+X: 
+ 
+https://x.com/SUPSIbibDEASS 
+Telefono:  
++41 58 666 61 90
+E-mail: 
+biblioteca.deass.economia-sociale@supsi.ch
+Siamo qui per aiutarvi e guidarvi attraverso le fonti d’informazione ☺
+
+---
+
+«Cosa è più importante delle biblioteche, 
+se non il fatto che esistono?»
+(Archibald Macleish, poeta americano)
