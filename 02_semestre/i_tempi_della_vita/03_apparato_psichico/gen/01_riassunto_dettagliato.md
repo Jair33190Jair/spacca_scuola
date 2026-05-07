@@ -333,6 +333,28 @@ Il prof collega esplicitamente tutto questo al lavoro dell'educatore:
 
 ---
 
+## Domande di orientamento allo studio
+
+**Qual è la differenza tra prima e seconda topica di Freud?**
+La prima topica (1900–1915) divide la mente in conscio, preconscio e inconscio — una mappa di "livelli di accessibilità" dei contenuti mentali. La seconda topica (1923–1937) introduce tre istanze personificate: Es (pulsionale, principio di piacere), Io (mediatore tra Es, realtà esterna e Super-Io) e Super-Io (voce morale, interiorizzazione delle norme genitoriali). Le due topiche non si escludono: convivono nella teoria freudiana. Il passaggio avviene perché la prima topica non riusciva a spiegare certi fenomeni clinici come la resistenza inconscia durante la terapia.
+
+**Cosa si intende per principio di piacere e principio di realtà?**
+Il principio di piacere è la tendenza primitiva a cercare soddisfazione immediata della tensione, evitando qualsiasi frustrazione — è il funzionamento dell'Es. Quando la soddisfazione reale non arriva, l'apparato psichico produce allucinazioni o scariche motorie. Il principio di realtà subentra gradualmente: permette di differire, rinunciare, posticipare la soddisfazione facendo i conti con il mondo esterno. È il funzionamento dell'Io. Nell'adulto coesistono entrambi: sogni, gioco e fantasie restano isole del principio di piacere.
+
+**Cosa si intende per stato di vigilanza (arousal) e perché è così importante per lo sviluppo del bambino?**
+L'arousal è il livello di attivazione del sistema nervoso — la "messa a fuoco" del bambino sugli stimoli esterni. Se troppo basso, il bambino è assonnato e non apprende; se troppo alto, è sopraffatto e la sua attività diventa disorganizzata. La zona ottimale (media attivazione) è l'unica in cui il bambino può fare esperienza, giocare, apprendere. Holtzman afferma che questa competenza condiziona l'efficacia di tutte le altre. La regolazione avviene sia attraverso l'adulto (regolazione esterna interattiva) sia attraverso strategie rudimentali del bambino stesso (autoregolazione).
+
+**Quali sono le tre funzioni di Winnicott — holding, handling, object presenting — e cosa costruiscono?**
+Holding è il modo in cui il bambino viene fisicamente tenuto: crea i primi confini psicosomatici del Sé (il bambino comincia a sentire di avere un "dentro" e un "fuori"). Handling è il modo in cui viene manipolato e curato nel corpo: costruisce il senso di sé fisico e i confini corporei. Object presenting è la mediazione materna nella presentazione del mondo esterno: crea un breve periodo di "onnipotenza" in cui il bambino sente che il mondo risponde ai suoi bisogni — esperienza fondamentale prima di imparare che il mondo non è sempre disponibile.
+
+**Cosa si intende per "mis-match e riparazione" e perché è fondamentale per lo sviluppo?**
+Il mis-match è un momento di mancata sintonizzazione tra caregiver e bambino. Studi osservativi mostrano che la madre risponde in modo sintonizzato solo il 27% delle volte. Questo non è un problema: è parte fisiologica dello sviluppo. La riparazione — il ritorno alla sintonizzazione dopo il mis-match — è il vero motore della crescita emotiva. Impara a gestire le dissincronie relazionali costruisce la capacità di regolare le emozioni, di affrontare i conflitti e di costruire relazioni intime.
+
+**Quali sono i quattro stili di attaccamento identificati dalla Strange Situation e come si differenziano?**
+La Strange Situation di Ainsworth identifica: 1) Sicuro — equilibrio tra esplorazione e ricerca di conforto; sa usare il caregiver come base sicura. 2) Insicuro-evitante — privilegia la regolazione autonoma, si disinteressa alla separazione, continua a giocare in modo "chiuso". 3) Insicuro-ansioso/ambivalente — alta dipendenza relazionale nei momenti di stress, ma difficoltà a consolarsi una volta ottenuta la vicinanza. 4) Disorganizzato — reazioni contraddittorie, sistemi incompatibili attivati contemporaneamente, possibile indicatore che la figura di attaccamento è anche fonte di paura.
+
+---
+
 ## Collegamenti
 
 - **Lezione 01–02**: introduzione alla psicoanalisi, Freud, l'inconscio, le fantasie originarie — questa lezione integra e approfondisce.

@@ -69,7 +69,7 @@ La **Convenzione ONU (CDPD)** adotta la visione sociale: la disabilità è il ri
 - Classifica il **funzionamento** della persona nel contesto
 - Modello biopsicosociale: considera persona *e* ambiente insieme
 - Si chiede cosa la persona *può fare*, non solo cosa non riesce a fare
-- Precede il **PPH** (Processo di Produzione dell'Handicap): l'handicap è il risultato dell'interazione tra fattori personali e fattori ambientali
+- È preceduto concettualmente dal **PPH** (Processo di Produzione dell'Handicap): l'handicap è il risultato dell'interazione tra fattori personali e fattori ambientali — il PPH ha anticipato questa logica, poi recepita dall'ICF nel 2001
 
 ---
 

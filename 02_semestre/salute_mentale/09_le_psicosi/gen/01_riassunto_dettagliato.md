@@ -289,4 +289,36 @@ Il prof insiste su diversi punti pratici per chi lavora in campo psichiatrico:
 **Temi aperti / da approfondire per i seminari**:
 - Psicosi postparto e bufere deliranti acute
 - Farmacologia neurolettici e gestione dello scompenso
+
+---
+
+## Domande di orientamento allo studio
+
+**1. Qual è la differenza tra psicosi organiche e psicosi funzionali, e perché questa distinzione è utile anche se il DSM attuale non la usa più?**
+
+Le **psicosi organiche** hanno una causa organica identificata e condivisa scientificamente (es. delirium da intossicazione alcolica, demenza, crisi epilettica). Le **psicosi funzionali** (es. schizofrenia) hanno una componente biologica ipotizzata (neurotrasmettitori, genetica) ma non univoca — l'origine è multifattoriale. Il DSM attuale ha abbandonato la distinzione, ma resta utile come mappa orientativa: nel primo caso puoi cercare e trattare la causa organica; nel secondo, devi lavorare su più livelli (biologico, psicologico, sociale).
+
+**2. Cosa sono i sintomi positivi, negativi e di disorganizzazione nella schizofrenia? Fai almeno un esempio per categoria.**
+
+- **Positivi** (aggiunta di qualcosa che non dovrebbe esserci): allucinazioni, deliri, comportamento bizzarro
+- **Negativi** (sottrazione di qualcosa che dovrebbe esserci): appiattimento affettivo, alogia (povertà del linguaggio), abulia, anedonia, ritiro sociale
+- **Disorganizzazione** (perdita della coerenza): pensiero tangenziale, deragliamento, neologismi, ecolalia, manierismi
+
+La distinzione è clinicamente rilevante perché i farmaci antipsicotici trattano meglio i sintomi positivi, mentre i negativi sono più resistenti e più legati al deterioramento funzionale a lungo termine.
+
+**3. Qual è la differenza tra delirio e allucinazione, e perché entrambi rappresentano un problema di rapporto con la realtà?**
+
+Il **delirio** è una convinzione falsa, non condivisibile e non modificabile dalla critica razionale. L'**allucinazione** è una percezione in assenza di stimolo esterno (si sente una voce che non esiste). In entrambi i casi il soggetto è convinto della propria esperienza — il delirio e l'allucinazione non sono vissuti come "sogni" ma come realtà. È questo che li rende così destabilizzanti: non c'è accesso critico alla propria esperienza.
+
+**4. Cos'è l'angoscia di frammentazione e in cosa si distingue dall'angoscia di castrazione (nevrotica) e dall'angoscia di abbandono (borderline)?**
+
+L'**angoscia di frammentazione** è l'angoscia primaria psicotica: il terrore che l'io si dissolva completamente — che non ci sia più un "io qui adesso" coerente. È la più arcaica e la più devastante. L'**angoscia di castrazione** è nevrotica: paura della punizione, della perdita di qualcosa di prezioso, ma il sé rimane intatto. L'**angoscia di abbandono** (borderline) è intermedia: il sé esiste ma è terrorizzato dall'assenza dell'altro che lo regola. La distinzione orienta l'intervento: con uno psicotico non ha senso fare insight terapeutico — serve prima stabilizzare il contatto con la realtà.
+
+**5. Descrivere il decorso della schizofrenia: fasi e fattori prognostici favorevoli.**
+
+Le fasi tipiche sono: (1) **premorboso** — ritiro progressivo, trascuratezza, comportamento eccentrico; (2) **prodromico** — sintomi sempre più specifici; (3) **esordio psicotico** — scompenso acuto; (4) **fase residua** — con possibile recupero parziale o cronicizzazione. I fattori prognostici **favorevoli** includono: esordio acuto (non insidioso), sesso femminile, età di esordio più tardiva, buon funzionamento premorboso, prevalenza di sintomi positivi (tipo 1), buon supporto sociale. La schizofrenia **tipo 2** (sintomi negativi prevalenti) ha un decorso più cronico e deteriorante.
+
+**6. Qual è il ruolo specifico dell'operatore sociale in psichiatria nei confronti di una persona con psicosi?**
+
+L'operatore sociale non fa diagnosi né terapia, ma ha un ruolo cruciale nell'**individuazione precoce** (riconoscere i segnali del periodo prodromico), nel **supporto al reinserimento** (abitativo, lavorativo, relazionale) e nel **mantenimento della rete**. È spesso il professionista con il contatto più continuativo con la persona e la famiglia. Nella psicosi — dove i legami con la realtà sono fragili — la continuità, la coerenza e la prevedibilità del rapporto con l'operatore hanno di per sé un valore terapeutico.
 - Materiale clinico: video, testimonianze, dipinti dei pazienti

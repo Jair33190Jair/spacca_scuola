@@ -292,6 +292,28 @@ Bisogna allenare l'occhio a non vedere solo il bruco, ma la farfalla che verrà.
 
 ---
 
+## Domande di orientamento allo studio
+
+**Qual è la definizione di deficit intellettivo secondo l'AAIDD (2022) e quali sono i tre criteri necessari per la diagnosi?**
+L'AAIDD (2022) definisce il deficit intellettivo come una condizione caratterizzata da limitazioni significative nel funzionamento intellettivo e nel comportamento adattivo (nelle abilità concettuali, sociali e pratiche), con origine durante il periodo dello sviluppo (prima dei 22 anni). I tre criteri sono tutti e tre necessari: (1) funzionamento intellettivo significativamente limitato (QI inferiore a 70–75); (2) comportamento adattivo significativamente limitato in almeno uno dei tre domini (concettuale, sociale, pratico); (3) esordio durante il periodo dello sviluppo, prima dei 22 anni. Se manca anche uno solo, la diagnosi non è possibile.
+
+**Cosa sono le abilità concettuali, sociali e pratiche nel comportamento adattivo? Perché questo criterio è importante quanto il QI?**
+Il comportamento adattivo comprende tre domini: le abilità concettuali (pianificazione autonoma, pensiero astratto, uso di simboli come tempo e denaro, comunicazione di pensieri, lettura/scrittura/aritmetica); le abilità sociali (risposta e giudizio sociale, tendenza alla credulità e suggestionabilità, vulnerabilità alla vittimizzazione, difficoltà nel lavoro di gruppo); le abilità pratiche (cura di sé, abilità domestiche, gestione del denaro, mantenimento di un lavoro, sicurezza ambientale). Questo criterio è fondamentale perché spiega perché il DI riguarda solo l'1–1,5% della popolazione e non il 2,3% (tutti quelli sotto QI 70): alcune persone con QI basso si adattano bene e non ricevono la diagnosi.
+
+**Qual è la differenza tra deficit intellettivo, ritardo mentale e disabilità cognitiva?**
+Il deficit intellettivo (o disabilità intellettiva) è il termine corretto oggi: descrive una popolazione definita dai tre criteri diagnostici (QI, comportamento adattivo, esordio). Il termine "ritardo mentale" è obsoleto e da non usare: implica solo uno sviluppo più lento, ignorando le differenze qualitative nei traguardi cognitivi finali. La disabilità cognitiva è un termine più ampio che funziona da "cappello": include il deficit intellettivo ma anche i disturbi dell'apprendimento (dislessia, discalculia), i deficit attentivi (ADHD), le difficoltà cognitive tipiche dell'autismo con QI normale, e le disabilità sensoriali. Non tutte le disabilità cognitive sono disabilità intellettive — ma tutte le disabilità intellettive sono disabilità cognitive.
+
+**Cos'è il QI, come viene calcolato e quali sono i suoi limiti?**
+Il QI (Quoziente Intellettivo) è una misura standardizzata dell'intelligenza, introdotta da Binet e Simon nel 1905 con la prima Scala metrica dell'intelligenza. La formula classica è QI = (Età Mentale / Età Cronologica) × 100 — il termine "quoziente" si deve a Stern. La soglia diagnostica per il DI è QI < 70 (due deviazioni standard sotto la media di 100). I limiti principali: il numero grezzo del QI dice poco sulla persona reale (non dice cosa sa fare né come funziona nella vita quotidiana); i test devono essere somministrati nella lingua madre della persona con discriminanti culturali adeguate (storicamente, errori di questo tipo hanno prodotto conclusioni razziste); non considera il comportamento adattivo, che può variare molto a parità di QI.
+
+**Cosa sono i sistemi di sostegno per le persone con DI e quali caratteristiche devono avere per essere efficaci?**
+I sistemi di sostegno sono reti interconnesse di risorse e strategie che permettono alle persone con DI di migliorare il loro funzionamento e la qualità di vita. Due presupposti fondamentali: la descrizione delle limitazioni serve a sviluppare un profilo dei sostegni necessari; con sostegni adeguati, personalizzati e prolungati nel tempo, il funzionamento generalmente migliora. Per essere efficaci (AAIDD 2022), i sistemi devono essere: centrati sulla persona (bisogni e desideri, non solo deficit), completi (coprono tutti i contesti di vita), coordinati (qualcuno gestisce la rete), orientati agli esiti (impatto misurabile nella quotidianità). Si distinguono sostegni naturali (famiglia, amici, tecnologia, ambienti inclusivi) e sostegni specialistici (operatori sociali, terapisti, didattica speciale).
+
+**Cosa sono lo scaffolding e la zona di sviluppo prossimale (Vygotskij) e come si applicano al lavoro con persone con DI?**
+La zona di sviluppo prossimale (ZSP) di Vygotskij è la distanza tra ciò che una persona sa fare da sola e ciò che sa fare con supporto: è la zona dove i sostegni sono più efficaci. L'implicazione pratica è che i sostegni vanno calibrati vicino ai bisogni attuali e modulati man mano che la persona cresce — lo stesso sostegno per 20 anni senza ricalibrarlo blocca lo sviluppo. Lo scaffolding (Wood, Bruner e Ross, 1976) è il tipo di sostegno corrispondente: una "impalcatura" che orienta senza dirigere, che aiuta a risolvere un problema senza sostituirsi alla persona. Quando l'obiettivo è raggiunto, l'impalcatura si toglie — proprio come succede in edilizia. Il rischio opposto è tenerla sempre alzata, facendo le cose al posto della persona invece di supportarla verso l'autonomia.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

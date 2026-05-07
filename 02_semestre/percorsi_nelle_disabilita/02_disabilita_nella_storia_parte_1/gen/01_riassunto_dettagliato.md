@@ -234,6 +234,28 @@ E soprattutto il concetto che oggi guida ancora il nostro lavoro: **tutte le per
 
 ---
 
+## Domande di orientamento allo studio
+
+**Come venivano trattate le persone con disabilità nell'antichità greca e romana, e cosa cambia con il Cristianesimo?**
+Nel mondo greco-romano le pratiche più diffuse erano l'infanticidio e l'esposizione: a Sparta il consiglio degli anziani (lesché) poteva ordinare di gettare i neonati non idonei dal monte Taigeto, ad Atene la decisione spettava al padre, a Roma durante l'Impero i neonati venivano abbandonati presso la Columna Lactaria. Con l'avvento degli imperatori cristiani, a partire da Costantino (274–337), viene sancito lo ius vivendi — il diritto alla vita di ogni neonato senza eccezioni — rendendo illegali infanticidio ed esposizione.
+
+**Cos'era la "grande reclusione" e che ruolo ha avuto nello sviluppo dell'educazione speciale?**
+La grande reclusione è un fenomeno di fine Medioevo: i lebbrosari (lazzaretti), svuotati dalla scomparsa della lebbra ma mantenuti per interessi economici, vengono riempiti con tutti gli "indesiderati" della società — folli, disabili, poveri, prostitute, omosessuali — creando gli ospedali generali. Paradossalmente, questa concentrazione di persone diverse in un unico luogo ha creato le condizioni per le prime classificazioni e, di conseguenza, per i primi tentativi di risposta educativa differenziata.
+
+**Chi era Philippe Pinel e in cosa consiste il "trattamento morale"?**
+Philippe Pinel (1745–1826) era uno psichiatra all'ospedale Bicêtre di Parigi. Nel 1793 compì un gesto simbolico fondamentale: fece togliere le catene agli "alienati", riconoscendo che erano persone e meritavano di essere trattati come tali. Il trattamento morale che elaborò si basava su: creazione di un'atmosfera calma, sorveglianza di carattere umano, eliminazione delle sanzioni fisiche, sospensione degli abusi del personale, messa a disposizione di libri e musica, e coinvolgimento in lavori agricoli.
+
+**Qual è la distinzione fondamentale introdotta da Esquirol nel 1818 tra idiozia e demenza?**
+Esquirol fu il primo a stabilire scientificamente la differenza tra disagio psichico e deficit intellettivo. Definì l'idiozia come un ritardo dello sviluppo intellettuale di origine organica, osservabile e incurabile, presente dalla nascita — la persona non ha mai acquisito certe capacità. La demenza invece è la perdita di facoltà precedentemente presenti — la persona le aveva e le ha perse. Esquirol distinse anche tra idiozia (con utilizzo del linguaggio) e imbecillità (senza linguaggio). Queste distinzioni, rozze per gli standard odierni, erano rivoluzionarie per l'epoca.
+
+**Quali erano i cinque principi pedagogici di Itard e qual è la loro eredità nella pedagogia moderna?**
+Itard elaborò cinque principi lavorando con Victor: (1) introdurlo alla vita sociale adattando anche l'ambiente a lui; (2) risvegliare la sensibilità nervosa tramite stimolazioni sensoriali; (3) estendere la sfera delle idee creando bisogni nuovi — dissonanza cognitiva come leva di apprendimento; (4) portarlo all'uso della parola tramite imitazione e necessità; (5) procedere dal concreto all'astratto e generalizzare gli apprendimenti a nuovi contesti. L'eredità di Itard include il metodo scientifico applicato alla pedagogia, l'ipotesi del periodo sensibile per l'acquisizione del linguaggio, la diagnosi funzionale dell'udito, il metodo orale per bambini con disturbi d'udito, e il principio fondante che tutte le persone sono educabili — quello che è "speciale" è la pedagogia, non la persona.
+
+**Perché la pedagogia nasce dalla pedagogia speciale e non dall'educazione "normale"?**
+I primi pedagogisti di fine '700 non hanno iniziato dall'educazione dei bambini cosiddetti "normali": hanno iniziato da chi era considerato ineducabile — i sordi, i ciechi, le persone con deficit intellettivo. È da questa sfida — dimostrare che anche chi sembrava irrecuperabile poteva imparare — che nasce la scienza pedagogica moderna. Il caso di Itard con Victor è emblematico: non si trattava solo di educare un singolo ragazzo, ma di dimostrare con metodo scientifico che l'educazione era possibile per chiunque.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

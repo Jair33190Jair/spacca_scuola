@@ -138,3 +138,22 @@ Semestre 02 · 1 lezione elaborata
 ### Filo conduttore
 
 La materia parte da una domanda fondamentale: come si governa un mondo di Stati sovrani che non si fidano l'uno dell'altro, ma che condividono problemi che nessuno può risolvere da solo? Il percorso segue l'evoluzione storica della risposta: dall'ONU del 1945 (struttura di sicurezza collettiva nata dalle macerie della WWII), all'ordine economico di Bretton Woods, fino alla grande scommessa dell'Agenda 2030 — un impegno globale, negoziato per consenso, che per la prima volta mette al centro il pianeta e non solo le persone. La riforma interna dell'ONU (QCPR 2012) mostra che anche le istituzioni più grandi possono cambiare — se c'è volontà politica. La domanda aperta è se quella volontà reggerà, con le grandi potenze che sembrano tornare a muoversi da soli.
+
+---
+
+## Domande di orientamento allo studio
+
+**Qual è il filo conduttore dell'intera materia "Sostenibilità e Benessere"?**
+Il corso segue l'evoluzione del modo in cui l'umanità ha cercato di governare problemi condivisi che nessuno Stato può affrontare da solo. Si parte dalla nascita dell'ONU nel 1945 — risposta alle macerie della WWII — e si arriva all'Agenda 2030: il tentativo più ambizioso di costruire un'agenda globale negoziata per consenso, che mette al centro il pianeta anziché solo le nazioni ricche o povere. Il filo è sempre lo stesso: costruire cooperazione in un mondo di interessi divergenti (Lez. 00).
+
+**Perché l'Agenda 2030 rappresenta un momento storico unico e cosa è cambiato dopo il 2015?**
+L'Agenda 2030, adottata nel 2015 da 193 Stati per consenso, è la prima e unica volta nella storia in cui un'agenda che mette al centro la sostenibilità del pianeta è stata negoziata da tutti i governi e approvata senza voti contrari. Il risultato è un'agenda davvero globale, non più Nord-Sud. Ma il paradosso è che immediatamente dopo si è scatenata la reazione opposta: negazione del cambiamento climatico, nazionalismo, smantellamento delle politiche energetiche. Il 2015 è al tempo stesso il punto più alto della cooperazione internazionale e l'inizio della sua crisi (Lez. 00).
+
+**Qual è la differenza concettuale tra MDG e SDG, e perché il negoziato per consenso è centrale?**
+Gli MDG erano un'agenda settoriale Nord–Sud, costruita da tecnici ONU senza un vero negoziato tra governi, con scarsa legittimità politica. Gli SDG sono stati negoziati tra il 2011 e il 2015 da tutti i 193 Stati: ogni paese ha potuto influenzare il risultato, e nessuno ha votato contro. Questa è la massima legittimità possibile — nessuno Stato può disattendere un accordo che ha contribuito a costruire. Il negoziato per consenso non è solo una procedura: è ciò che trasforma un accordo in un impegno reale (Lez. 00).
+
+**Cosa si intende per "approccio sistemico" e perché è necessario per affrontare le sfide globali?**
+L'approccio sistemico riconosce che i problemi globali — clima, povertà, salute, alimentazione — sono interconnessi e non risolvibili con interventi settoriali isolati. I modelli lineari causa-effetto non bastano: ogni elemento influenza tutti gli altri, come in un ecosistema. Gli SDG sono stati progettati con questa logica — 17 obiettivi interrelati — ma la difficoltà è che i governi funzionano per ministeri separati, ognuno con il proprio mandato. La sfida è tradurre la visione sistemica in politiche pratiche (Lez. 00).
+
+**Che ruolo ha la Svizzera nel sistema multilaterale internazionale?**
+La Svizzera ha assunto un ruolo di facilitatrice nei negoziati QCPR del 2004, 2007 e 2012, guadagnandosi alta reputazione come mediatore neutro e affidabile nel sistema multilaterale. Il docente Pio Wennubst ha personalmente facilitato la risoluzione QCPR 67/226 del 2012 — un anno di lavori, negoziato per consenso — che ha posto le basi per la riforma ONU del 2019. A livello interno, dal 2016 la Svizzera ha allineato la propria strategia di sviluppo agli SDG, con un bilancio formale nel Rapporto VNR del 2022 (Lez. 00).

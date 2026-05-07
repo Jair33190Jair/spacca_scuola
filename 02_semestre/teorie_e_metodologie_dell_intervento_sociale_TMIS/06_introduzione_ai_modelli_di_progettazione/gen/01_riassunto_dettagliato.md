@@ -237,6 +237,25 @@ Chiaro: non si può progettare *al posto* delle persone. Si progetta *con* loro.
 
 ---
 
+## Domande di orientamento allo studio
+
+**Cos'è la progettazione nel lavoro sociale e cosa si intende per "postura progettuale"?**
+La progettazione (dal latino *pro-iectum*, gettare in avanti) è il processo che guida i percorsi di trasformazione e cambiamento personale, di gruppo e delle comunità, con l'obiettivo di cogliere il potenziale dei soggetti per promuoverne lo sviluppo (Kanisza & Tramma, 2011). Ha tre dimensioni fondamentali: immaginativa (immagina qualcosa che non esiste ancora), temporale (richiede un lasso di tempo definito) e relazionale (nasce e vive nelle relazioni). La **postura progettuale** (Brambilla, 2023) è più di uno strumento tecnico: è un modo di stare nel lavoro, continuo e riflessivo, che va difeso dall'ansia applicativa e dalla routine quotidiana dei servizi.
+
+**Quali sono le cinque tappe di un progetto e come si relazionano tra loro nella pratica?**
+Le cinque tappe (Leone & Prezza, 2003) sono: ideazione (nasce un'ipotesi di intervento), attivazione (si verificano le risorse, si focalizza il problema, si ottiene il consenso), progettazione (elaborazione del progetto scritto con obiettivi, fasi, tempistiche, risorse), realizzazione (avvio delle attività e aggiustamenti in itinere), e verifica (valutazione conclusiva e riformulazione). Nella pratica queste tappe non sono stagne e sequenziali: ci si sposta avanti e indietro, si riformula, si ricorre alla tappa precedente. Questo è il normale funzionamento di un progetto ben gestito, non un fallimento.
+
+**Descrivi i tre approcci alla progettazione e indica quando è opportuno usare ciascuno.**
+L'**approccio sinottico-razionale** è lineare e pianificato: l'operatore analizza la realtà, definisce obiettivi a priori e pianifica le azioni. Funziona per micro-apprendimenti specifici e contesti controllati (es. insegnare una procedura a una persona con difficoltà cognitive). L'**approccio concertativo-partecipato** co-costruisce il progetto con tutti gli attori attraverso dialogo e negoziazione: i destinatari sono co-autori, il processo è circolare e la responsabilità è condivisa. L'**approccio euristico** parte senza obiettivi definiti a priori: si conosce la realtà agendo dentro di essa (ricerca-azione), e il progetto emerge progressivamente. È adatto quando la complessità è alta e l'imprevedibilità è strutturale. Nessun approccio è superiore: il professionista formato sa scegliere quello giusto per la situazione.
+
+**Cosa sono i livelli di partecipazione di O'Sullivan e perché il livello D è problematico?**
+O'Sullivan (2011) identifica quattro livelli: A (la persona decide autonomamente), B (decisionalità condivisa — livello minimo a cui aspirare), C (essere consultati — le opinioni vengono considerate ma la decisione è dei professionisti), D (essere informati — la decisione è già presa). Il livello D è problematico non solo perché è poco ideale: abbraccia, consapevolmente o no, una prospettiva oppressiva e disabilitante che rischia di generare percorsi istituzionalizzanti. C'è spesso uno scarto tra ciò che i servizi dichiarano di fare (A o B) e ciò che effettivamente avviene (C o D). Coinvolgere l'utenza nel progetto funziona anche sul piano pratico: chi ha partecipato a costruirlo ci crede di più.
+
+**Cosa comprende l'analisi del contesto e perché è un prerequisito della progettazione?**
+L'analisi del contesto (Tramma, 2018) è la mappatura sistematica della realtà in cui si opera, necessaria prima di qualsiasi progetto. Comprende il **contesto socio-culturale** (popolazione, ambiente geografico e urbanistico, situazione economica, mobilità, spazi di aggregazione formali e informali, servizi, storia del territorio), il **contesto istituzionale** (storia, mandato, modello d'intervento, équipe, utenza), e l'**auto-osservazione dell'operatore** (premesse personali, risorse e limiti, pratica riflessiva). Non conoscere il contesto significa rischiare di costruire progetti già tentati e falliti, o inadeguati ai bisogni reali. La storia del territorio è fondamentale quanto gli elementi attuali.
+
+---
+
 ## Autori e Riferimenti
 
 | Autore | Contributo | Anno |

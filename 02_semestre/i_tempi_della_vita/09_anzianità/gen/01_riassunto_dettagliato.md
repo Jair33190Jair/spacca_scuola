@@ -260,6 +260,34 @@ Cavalli invita alla cautela critica: i dati demografici sulle zone blu vanno pre
 
 ---
 
+## Domande di orientamento allo studio
+
+**1. Quali sono le quattro idee chiave di Cavalli sull'invecchiamento e perché sono importanti per il lavoro sociale?**
+
+Cavalli propone una lettura dell'anzianità che rompe con gli stereotipi deficit-centrici: (1) *invecchiare non equivale a declinare* — la perdita di alcune capacità coesiste con guadagni in saggezza ed esperienza; (2) l'anzianità è una *costruzione sociale*, quindi le aspettative culturali modellano concretamente l'esperienza di chi invecchia; (3) esiste una profonda *eterogeneità* tra anziani — non esiste "l'anziano" come categoria monolitica; (4) il futuro sarà diverso — le generazioni baby boomer porteranno nell'anzianità valori e aspettative del tutto nuovi. Per il lavoro sociale queste idee significano: non assumere automaticamente fragilità, personalizzare gli interventi, e non proiettare sull'utente l'immagine dell'anziano stereotipato.
+
+**2. Quali sono le tre grandi teorie dell'invecchiamento e in cosa differiscono?**
+
+Le tre teorie si interrogano su come le persone si adattano alla vecchiaia: la *teoria del disimpegno* (Cumming & Henry, 1961) sostiene che anziano e società si ritirano reciprocamente — una separazione "naturale" che facilita la trasmissione di ruoli alle generazioni giovani; la *teoria dell'attività* (Havighurst, 1963) contesta questa visione e afferma che l'invecchiamento riuscito richiede di mantenere attività e ruoli sociali sostitutivi a quelli persi; la *teoria della continuità* (Atchley, 1989) propone una via di mezzo — le persone cercano di mantenere strutture abituali di pensiero, comportamento e relazione adattandole al contesto che cambia. Oggi queste teorie convivono: dipende dalla persona, dal contesto, e dalla cultura.
+
+**3. Qual è la differenza tra intelligenza fluida e cristallizzata, e cosa cambia nell'invecchiamento?**
+
+L'*intelligenza fluida* (Cattell) è la capacità di ragionare in modo astratto e rapido su problemi nuovi, indipendentemente dall'esperienza — declina progressivamente con l'età. L'*intelligenza cristallizzata* si basa su conoscenze accumulate, vocabolario, competenze pratiche — resta stabile o può crescere fino a tarda età. Baltes aggiunge il concetto di *riserva cognitiva*: il cervello ha margini di adattamento che possono rallentare il declino; fattori come educazione, stimolazione intellettuale e reti sociali potenziano questa riserva. Questo spiega perché due persone della stessa età biologica possono avere performance cognitive molto diverse.
+
+**4. Cosa si intende per strategia SOC e come funziona concretamente?**
+
+La SOC (*Selezione, Ottimizzazione, Compensazione*) di Baltes descrive come le persone invecchiano con successo adattando le proprie risorse ai limiti crescenti. **Selezione**: si sceglie di concentrarsi sulle aree più importanti e si abbandonano attività secondarie. **Ottimizzazione**: si investe tempo ed energia nelle aree selezionate per mantenere alti livelli di performance. **Compensazione**: si usano strategie alternative (tecnologia, aiuto esterno, ausili) quando le risorse dirette diminuiscono. L'esempio di Rubinstein è emblematico: da pianista anziano, selezionò un repertorio più ridotto (S), si esercitò più intensamente su quei brani (O), e usò rallentamenti strategici prima dei passaggi rapidi per creare contrasto (C).
+
+**5. Qual è la distinzione tra fragilizzazione e fragilità, e perché conta nella pratica?**
+
+Lalive d'Epinay e Spini (2008) distinguono due condizioni spesso confuse: la *fragilizzazione* è un processo dinamico — una persona è "a rischio" di diventare fragile, ma la traiettoria può essere invertita o rallentata con interventi adeguati. La *fragilità* è invece una condizione di vulnerabilità consolidata, dove la capacità di risposta allo stress è strutturalmente ridotta. La distinzione è cruciale per il lavoro sociale: intervenire durante la fragilizzazione (prevenzione, rinforzo delle risorse) è molto più efficace che intervenire quando la fragilità è già conclamata. Non tutte le persone anziane sono fragili, e nemmeno tutte quelle fragili lo sono allo stesso modo.
+
+**6. Cosa distingue la dignità universale dalla dignità meritocratica secondo Mormino, e qual è la posta in gioco etica?**
+
+Mormino propone due concezioni della dignità: la *dignità universale* riconosce che ogni essere umano ha valore intrinseco per il solo fatto di esistere — indipendentemente da produttività, autonomia o contributo sociale. La *dignità meritocratica* lega invece il valore della persona a ciò che ha fatto o che ancora riesce a fare — una logica pericolosa per chi non è più "produttivo". Nell'anzianità, dove la perdita di ruoli lavorativi e l'aumento della dipendenza sono spesso inevitabili, la dignità meritocratica può portare a esclusione, marginalizzazione e perdita di senso. Per il lavoro sociale è essenziale fondare la relazione sulla dignità universale: l'utente non deve "guadagnarsi" il rispetto — lo ha già.
+
+---
+
 ## Collegamenti
 
 - **Lezioni precedenti (adultità, identità):** L'identità che si consolida in età adulta qui si trasforma: identità di luogo, continuità biografica, gestione della perdita di ruoli. Il lavoro sull'identità non finisce con la giovinezza — si evolve.

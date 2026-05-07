@@ -200,6 +200,28 @@ Piaget non è solo teoria. La sua visione ha implicazioni pratiche concrete per 
 
 ---
 
+## Domande di orientamento allo studio
+
+**Cosa sono le invarianti funzionali nella teoria di Piaget e perché si chiamano così?**
+Le invarianti funzionali sono tre processi — organizzazione, adattamento ed equilibrazione — che rimangono attivi e invariati lungo tutto lo sviluppo, indipendentemente dall'età. Si chiamano "invarianti" proprio perché non cambiano mai: sono il motore sempre acceso dello sviluppo cognitivo. L'organizzazione spinge a creare strutture coerenti; l'adattamento (assimilazione + accomodamento) permette di relazionarsi con l'ambiente; l'equilibrazione mantiene la spinta verso un equilibrio tra schemi interni e realtà esterna.
+
+**Qual è la differenza tra assimilazione e accomodamento? Fai un esempio.**
+L'assimilazione è il processo con cui nuove informazioni vengono incorporate negli schemi già esistenti, senza modificarli. L'accomodamento è il processo opposto: quando le nuove informazioni non rientrano in nessuno schema esistente, gli schemi si modificano per adattarsi. Esempio: un bambino che conosce i cani e vede un cavallo per la prima volta lo chiama "cane grande" (assimilazione). Quando capisce che il cavallo è qualcosa di diverso e crea un nuovo schema, avviene l'accomodamento. Entrambi lavorano sempre in coppia.
+
+**Quali sono i 4 stadi di sviluppo cognitivo secondo Piaget e le loro fasce d'età?**
+I quattro stadi sono: 1) Sensomotorio (0–2 anni): il bambino conosce il mondo attraverso sensi e movimento, senza pensiero simbolico. 2) Preoperatorio (18 mesi–7 anni): compare il pensiero simbolico, ma con limitazioni importanti (egocentrismo, animismo, artificialismo, costanza dell'identità). 3) Operatorio concreto (7–11 anni): compare la logica, ma solo applicata a situazioni concrete; conquista principale è la conservazione. 4) Operatorio formale (dai 12 anni): pensiero astratto e ipotetico-deduttivo. La sequenza è universale e non può essere saltata.
+
+**Quali sono i 4 limiti cognitivi del periodo preoperatorio?**
+I quattro limiti del preoperatorio sono: l'egocentrismo (incapacità di assumere la prospettiva altrui, presente fino a circa 8 anni); l'animismo (credenza che gli oggetti inanimati siano vivi); l'artificialismo (credenza che tutto ciò che esiste in natura sia stato creato dall'uomo); e la costanza dell'identità (incapacità di comprendere che l'identità di una persona resta la stessa nonostante i cambiamenti esteriori). Questi limiti non sono difetti morali — riflettono semplicemente il funzionamento della mente a quella fase.
+
+**Cosa si intende per "décalage orizzontale" nello stadio operatorio concreto?**
+Il décalage orizzontale indica il fatto che capacità simili non emergono tutte nello stesso momento nello stesso bambino. Per esempio, la conservazione del numero si acquisisce prima di quella del peso, che a sua volta precede quella del volume — anche se logicamente sembrano problemi dello stesso tipo. Questo fenomeno mostra che lo sviluppo non è un processo uniforme, ma che l'applicazione di una stessa operazione logica a contenuti diversi richiede tempi diversi.
+
+**Cosa si intende per pensiero post-formale e perché non è considerato un vero quinto stadio?**
+Il pensiero post-formale (Kramer, 1983) è una forma di ragionamento più matura che emerge nell'età adulta, caratterizzata da relativismo (la verità dipende dal contesto), accettazione delle contraddizioni (si possono tenere insieme idee opposte) e integrazione (sintesi di prospettive diverse). Non è considerato un vero quinto stadio perché non ha la rigidità e la sequenzialità degli stadi di Piaget: secondo Strassen Berger (2012) è più corretto descriverlo come una costellazione di stili di pensiero legati all'esperienza di vita, all'istruzione e alla maturità adulta.
+
+---
+
 ## Collegamenti
 
 - **Lezione precedente (01)**: Il framework dello sviluppo nell'arco di vita fa da contesto a questa teoria degli stadi — Piaget ne è uno dei pilastri teorici centrali.

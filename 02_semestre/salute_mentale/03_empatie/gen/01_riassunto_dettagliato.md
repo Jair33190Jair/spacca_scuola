@@ -188,6 +188,32 @@ Singer e Klimecki (2014): la compassione è "sentire *per* l'altro" (*feeling fo
 
 ---
 
+---
+
+## Domande di orientamento allo studio
+
+**Perché la definizione popolare dell'empatia come "mettersi nei panni degli altri" è problematica?**
+
+Perché togliere i panni all'altro significa privarlo della sua identità e del suo posto nell'esperienza. La sofferenza è una dimensione identitaria: appartiene a chi la vive, non a chi la osserva. Come ricorda Ricoeur citato nel materiale, il medico non muore con il paziente ma può restargli accanto — accanto, e non al suo posto. Il corretto atteggiamento empatico è stare di fianco, non sostituirsi. Chi si pone al posto dell'altro lo lascia senza il suo posto e rischia di interpretare la sua esperienza attraverso la propria soggettività, commettendo l'errore dell'empatia egocentrica.
+
+**Quali sono le tre componenti dell'empatia secondo Norma Feshbach e perché tutte e tre sono necessarie?**
+
+Feshbach distingue due componenti cognitive e una affettiva. La prima componente cognitiva è l'assunzione di prospettiva: la capacità di decentrarsi e cogliere il punto di vista dell'altro, possibile solo dopo il superamento dell'egocentrismo piagetiano (dai 6-7 anni). La seconda è la decodifica degli stati emotivi altrui: saper leggere e interpretare i segnali emotivi dell'interlocutore. La componente affettiva è la risonanza emotiva: sentire qualcosa di simile a ciò che prova l'altro. Quest'ultima è il "sale" dell'empatia — senza di essa non c'è vera empatia — ma da sola non basta: senza le componenti cognitive, la risonanza diventa contagio emotivo non elaborato.
+
+**Descrivi i cinque stadi dell'empatia secondo Hoffman. Quale errore possono commettere gli operatori se rimangono al terzo stadio?**
+
+Hoffman descrive uno sviluppo evolutivo: stadio 1 (distress empatico globale, neonato) — contagio emotivo, non distinzione tra sé e altro; stadio 2 (distress empatico egocentrico, dai 12 mesi) — distingue fisicamente sé dall'altro, ma consola con ciò che sarebbe consolante per sé; stadio 3 (distress quasi-egocentrico, dai 2-3 anni) — capisce che l'altro ha stati interni diversi, ma usa ancora proprie soluzioni consolatorie; stadio 4 (empatia vera, dai 6 anni) — decentramento reale, rappresentazione accurata del vissuto altrui; stadio 5 (empatia oltre la situazione, dall'adolescenza) — empatizza con ciò che sa della vita dell'altro, non solo con ciò che vede. Un operatore che rimane al terzo stadio offre all'utente ciò che lui troverebbe consolante — il suo orsacchiotto invece di quello dell'utente. In ambito professionale questo si manifesta come incapacità di sintonizzarsi sul bisogno specifico dell'altro, soprattutto se molto diverso culturalmente.
+
+**Quali sono i sei bias dell'empatia e qual è il loro significato per il lavoro con le persone?**
+
+Il primo bias è la familiarità: l'empatia si attiva di più verso chi ci somiglia. Il secondo è la colpa attribuita: se riteniamo l'altro responsabile della sua condizione (o lo troviamo esteticamente ripugnante), la risposta empatica si riduce. Il terzo riguarda inganno e invidia: verso chi ci ha tradito o chi invidiiamo, la risonanza emotiva cala. Il quarto è la non-sensibilità ai numeri: una statistica non mobilita l'empatia, ma una singola persona con nome e volto sì. Il quinto è il paradosso: empatia cognitiva elevata senza empatia emotiva è la struttura dello psicopata, che usa la lettura dell'altro per manipolarlo. Il sesto è la sovrattivazione: sentire troppo il dolore altrui può portare all'evitamento e al ritiro dalla relazione. Per il lavoro sociale, questi bias indicano che l'empatia da sola non è una garanzia: va coltivata consapevolmente ed integrata con la componente cognitiva.
+
+**Qual è la differenza tra empatia, simpatia e compassione? Perché la compassione può essere più stabile nel lavoro di cura?**
+
+L'empatia implica sentire con l'altro (feeling with), cioè condividere la sua esperienza emotiva. La simpatia è un'attivazione emotiva di fronte alla sofferenza altrui, ma più distanziata. La compassione (Singer e Klimecki, 2014) è sentire per l'altro (feeling for): include il riconoscimento della sofferenza e la motivazione proattiva a migliorare il benessere dell'altro, ma non richiede necessariamente di condividerne il dolore. Nel lavoro di cura la compassione è più stabile perché non espone alla sovrattivazione empatica: l'operatore resta mosso a intervenire senza essere travolto dalla sofferenza dell'altro. È possibile stare accanto senza essere risucchiati.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

@@ -254,6 +254,32 @@ Riflessione finale della prof, importante per l'operatore sociale: quando il dol
 
 ---
 
+---
+
+## Domande di orientamento allo studio
+
+**Qual è la differenza tra tristezza normale e depressione clinica? Perché è importante non confonderle?**
+
+La tristezza è un'emozione normale, funzionale e necessaria: permette di elaborare perdite, riconoscere errori, avvicinarsi al dolore. La depressione clinica è invece uno stato psicopatologico che inibisce le risposte emotive e limita la capacità di adattamento della persona all'ambiente. Il nucleo semiologico comune alle forme depressive include umore depresso (pendolo timico spostato verso il basso), sindrome da rallentamento psicomotorio, anedonia (incapacità di provare piacere), rallentamento psichico e spesso apatia. Non confonderle è importante perché trattare la tristezza come patologia rischia di medicalizzare una risposta normale, mentre non riconoscere la depressione lascia la persona senza supporto in un momento in cui ne ha bisogno.
+
+**Descrivi il pendolo timico nel disturbo bipolare. Perché somministrare un antidepressivo durante una fase depressiva bipolare può essere pericoloso?**
+
+Il pendolo timico è la metafora dell'oscillazione dell'umore: al centro c'è l'eutimia (umore in equilibrio), a sinistra la depressione, a destra la mania. Nel disturbo bipolare il pendolo oscilla tra i due poli in modo patologico e repentino. Somministrare un antidepressivo durante una fase depressiva bipolare è pericoloso perché può spostare il pendolo verso il polo maniacale, scatenando un episodio maniacale invece di stabilizzare il tono dell'umore. La terapia corretta per il disturbo bipolare sono gli stabilizzatori dell'umore (sali di litio o anticonvulsivi), non gli antidepressivi.
+
+**Cosa caratterizza un episodio maniacale? Quali segnali precoci possono riconoscere i familiari?**
+
+L'episodio maniacale si caratterizza per: euforia eccessiva e prolungata, insonnia senza stanchezza, agitazione psicomotoria e logorrea, accelerazione dei processi psichici con fuga di idee, autostima ipertrofica e possibili deliri di grandezza, comportamenti disinibiti (spendere denaro, impegnarsi in progetti senza competenze, disinibizione sessuale), reattività aggressiva e progressiva perdita di contatto con la realtà. I segnali precoci che i familiari possono riconoscere includono il diminuito bisogno di sonno senza stanchezza, il cambiamento nel ritmo del parlare, l'irritabilità fuori contesto e il dispendio di denaro inusuale. La psicoeducazione ai familiari è parte integrante del trattamento.
+
+**Qual è la differenza tra rimuginio ansioso e ruminazione depressiva? Come aiuta distinguerli nella pratica?**
+
+Il rimuginio ansioso è orientato al futuro: costruisce ripetutamente scenari negativi ipotetici in condizione di incertezza. La funzione è quella di prepararsi a una minaccia anticipata, ma il paradosso è che più si rumina per abbassare l'ansia, più si generano nuovi scenari negativi. La ruminazione depressiva è invece orientata al passato: torna ripetutamente sulle cause di eventi già accaduti, sulla perdita e sulla svalutazione di sé. Distinguerli aiuta nella pratica perché indicano dinamiche diverse: il rimuginante va aiutato ad abitare il presente e a tollerare l'incertezza; il ruminante va aiutato a riattivare risorse e a costruire una narrativa di sé più articolata.
+
+**Cosa è l'attacco di panico? Come risponde un operatore sociale?**
+
+L'attacco di panico è un episodio di paura intensissima con sintomi fisici marcati (aumento del battito, iperventilazione, tremori, vertigini, nausea) e sensazione di perdita totale di controllo, con convinzione di stare per morire. Il picco si raggiunge in pochi minuti. La persona non muore dall'attacco di panico in sé, ma è convinta del contrario — e le risposte impulsive possono creare situazioni di rischio. L'operatore sociale risponde con accoglienza senza giudizio, presenza calma e non caotica, spiegazione chiara di cosa sta succedendo. Non minimizzare, non agitarsi insieme alla persona. La validazione dell'esperienza emotiva è il punto di partenza.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

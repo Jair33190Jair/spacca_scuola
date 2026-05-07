@@ -306,6 +306,25 @@ Conseguenze osservate:
 
 ---
 
+## Domande di orientamento allo studio
+
+**Perché non esiste una definizione universale di famiglia e quali sono le principali tipologie contemporanee?**
+Non esiste una definizione universale perché il concetto di famiglia è storicamente, culturalmente e socialmente determinato. Ciò che viene considerato "famiglia" cambia nel tempo e tra culture diverse. Le principali tipologie contemporanee includono: nucleare, monoparentale, ricomposta, omo-genitoriale, d'affido, adottiva, da procreazione assistita, di genitori separati, unipersonale, LAT (Living Apart Together) e DINKS (Double Income, No Kids). I sociologi oggi parlano di "famiglie" al plurale, sottolineando che un individuo può attraversare più forme familiari nel corso della vita.
+
+**Cosa sono le cinque funzioni della genitorialità secondo Esther Goody e come si dissociano nella contemporaneità?**
+Goody (1976, 1999) ha scomposto la genitorialità in cinque funzioni: concepire e mettere al mondo, nutrire, educare, dare un'identità alla nascita, garantire l'accesso allo statuto di adulto. Nelle società occidentali queste funzioni tendono a concentrarsi sugli stessi genitori biologici, ma in molte culture non occidentali vengono distribuite tra più adulti. Nella contemporaneità questa dissociazione si manifesta tra genitorialità biologica (chi concepisce), istituzionale/giuridica (chi ha il riconoscimento legale) e domestica (chi si occupa della cura quotidiana).
+
+**Quali sono i quattro livelli di conflitto della genitorialità secondo Cramer, Palacio Espasa e collaboratori?**
+I quattro livelli sono: 1) Genitorialità "normale" — identificazioni proiettive flessibili e bidirezionali, prevalentemente positive, che lasciano spazio alla specificità del bambino reale. 2) Genitorialità nevrotica — il bambino viene usato inconsciamente per negare o riparare dolori infantili del genitore; il bambino rappresenta l'infanzia idealizzata che il genitore vorrebbe aver avuto. 3) Genitorialità masochistica — il genitore si sottomette alla tirannia del bambino come espiazione di sensi di colpa; proietta sul bambino l'immagine del bambino-difficile. 4) Genitorialità narcisistica — il livello più grave: proiezioni rigide, unidirezionali e deformanti; il bambino viene vissuto come ostile; conseguenze gravi per lo sviluppo del bambino.
+
+**Cosa si intende per "trasparenza psichica" nel processo di accesso alla genitorialità?**
+La trasparenza psichica è uno stato di estrema sensibilità emotiva che la donna attraversa in gravidanza: c'è una riemersione del passato infantile, emergono domande fondamentali su cosa significa diventare genitore, e il genitore compie un movimento regressivo verso i propri vissuti infantili. Questo processo implica dei "lutti di sviluppo": la rinuncia alle immagini idealizzate dei propri genitori. Quando questi lutti vengono ben elaborati, la genitorialità diventa un'opportunità di crescita. Quando non lo sono, il bambino rischia di essere arruolato inconsciamente per riparare ciò che il genitore non ha risolto.
+
+**Cosa si intende per "rispettare lo spazio psichico del bambino" nelle famiglie ricomposte o plurigenitoriali?**
+Rispettare lo spazio psichico del bambino significa: spiegargli, in modo misurato e adeguato alla sua età, quello che succede nelle trasformazioni familiari; accettare che abbia sentimenti e opinioni proprie, anche scomodi; dargli il diritto al segreto; aiutarlo a conservare buoni ricordi degli assenti; prendere misura delle discontinuità che vive. È fondamentale ammettere la bilinearità delle origini — il bambino cresciuto nella certezza della propria doppia provenienza riesce meglio a trovare un senso alle assenze e agli "abbandoni".
+
+---
+
 ## Collegamenti
 
 - **Lezione 01 (ciclo di vita):** la genitorialità come transizione identitaria — uno dei momenti di crisi/sviluppo del ciclo vitale

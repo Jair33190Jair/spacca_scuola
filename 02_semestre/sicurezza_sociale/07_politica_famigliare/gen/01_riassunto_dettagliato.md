@@ -267,6 +267,28 @@ Le madri descrivono percorsi estenuanti per recuperare le somme dovute, con il r
 
 ---
 
+## Domande di orientamento allo studio
+
+**Quali sono le tre principali definizioni di famiglia usate in Svizzera e in cosa differiscono?**
+La definizione statistica (USTAT) si basa sull'economia domestica familiare: persone che coabitano e sono legate da parentela, anche senza figli. La definizione costituzionale (art. 41 Cost.) identifica la famiglia come comunità di adulti e bambini, senza specificare il tipo di legame tra adulti e senza esigere la coabitazione. La definizione COFF (2000) è la più ampia: la famiglia come gruppo fondato sul legame genitori-figli e socialmente riconosciuto, che include famiglie non coniugate, genitori non biologici, figli maggiorenni conviventi e famiglie senza coabitazione (es. custodia alternata dopo separazione).
+
+**Perché il Rapporto Lüscher del 1982 è un punto di svolta per la politica famigliare svizzera?**
+Prima del 1982, la famiglia era considerata un affare privato in cui lo Stato non doveva interferire. Il Rapporto Lüscher afferma per la prima volta esplicitamente che la famiglia produce prestazioni utili per tutta la società — cura dei figli, sostegno degli anziani, assistenza ai malati — e che quindi lo Stato ha responsabilità concrete nel sostenerla. Questo cambia radicalmente la legittimazione dell'intervento pubblico in ambito famigliare.
+
+**Quali sono le tre gambe dello "sgabello" della politica famigliare e cosa comprende ciascuna?**
+Le tre gambe sono: (1) il sostegno monetario, che include assegni familiari (AF), AFI, API, indennità IPG, borse di studio, anticipi alimenti e misure fiscali; (2) il tempo, che comprende i congedi (maternità, per l'altro genitore, adozione) e la corrispondente indennità economica; (3) i servizi, come nidi, famiglie diurne, servizi extrascolastici e servizi di protezione dei minori.
+
+**Come funzionano gli assegni familiari (AF) in Svizzera e quali sono gli importi minimi?**
+Gli assegni familiari sono prestazioni obbligatorie finanziate dai contributi dei datori di lavoro. Esistono due tipi: l'assegno per i figli (minimo CHF 215/mese per figli fino a 16 anni, o 20 se incapaci al guadagno) e l'assegno di formazione (minimo CHF 268/mese dall'inizio della formazione post-obbligatoria fino a 25 anni). I cantoni possono prevedere importi superiori. In caso di più aventi diritto, la priorità va a chi esercita attività lucrativa; tra due lavoratori, a chi ha il reddito più alto.
+
+**Cosa sono AFI e API in Ticino e a chi si rivolgono?**
+AFI (Assegno Famigliare Integrativo) e API (Assegno di Prima Infanzia) sono prestazioni cantonali ticinesi introdotte nel 1996 per ridurre la povertà delle famiglie ed evitare il ricorso all'assistenza sociale. L'AFI è riconosciuto ai genitori con figli sotto i 15 anni (818 CHF/mese per il primo e secondo figlio) e si cumula con l'assegno per figli federale. L'API è riconosciuto fino all'ingresso del figlio alla scuola dell'infanzia (circa 4 anni) e serve a garantire il minimo vitale alle famiglie. Hanno diritto i domiciliati in Ticino da almeno 3 anni (svizzeri) o 5 anni (stranieri).
+
+**Perché in Svizzera il costo dei nidi è un problema per la conciliazione famiglia-lavoro?**
+I nidi svizzeri sono tra i più costosi dell'OCSE: nel 2020 rappresentavano quasi il 35% del reddito famigliare per due figli, contro una media OCSE del 14%. Questo crea un effetto paradossale: per le madri con salari bassi o medi, il costo del nido può avvicinarsi o superare il guadagno che otterrebbero lavorando. Il risultato è un disincentivo strutturale al lavoro materno, che colpisce soprattutto le famiglie svantaggiate — proprio quelle che beneficerebbero di più dalla frequenza del nido per i bambini. È un fallimento del mercato che le politiche pubbliche cercano di correggere con sussidi alle rette.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

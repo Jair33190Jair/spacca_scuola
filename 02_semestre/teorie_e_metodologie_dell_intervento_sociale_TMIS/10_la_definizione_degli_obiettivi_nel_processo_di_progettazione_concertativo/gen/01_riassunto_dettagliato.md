@@ -240,6 +240,25 @@ La valutazione deve considerare anche gli **esiti inattesi positivi**. E il buon
 
 ---
 
+## Domande di orientamento allo studio
+
+**Qual è la differenza tra obiettivi generali e obiettivi specifici nella progettazione?**
+Gli **obiettivi generali** sono le macro-finalità a medio-lungo termine che danno l'orizzonte di senso al progetto: descrivono la direzione di cambiamento desiderata (es. "sviluppare l'autonomia nella vita quotidiana"). Non sono misurabili direttamente ma orientano il lavoro. Gli **obiettivi specifici** sono mete concrete, osservabili e misurabili a breve-medio termine, che concorrono agli obiettivi generali (es. "entro 3 mesi la persona gestirà autonomamente la spesa settimanale"). Devono rispettare i criteri SMART: Semplici, Monitorabili, Auspicabili, Realistici, Temporali. Ogni obiettivo specifico richiede azioni progettuali concrete e responsabilità attribuite.
+
+**Cosa si intende per zona di sviluppo prossimale (Vygotskij) e come si applica alla progettazione degli obiettivi?**
+La zona di sviluppo prossimale (ZSP) di Vygotskij è la distanza tra ciò che una persona sa fare da sola (zona effettiva) e ciò che riesce a fare con l'accompagnamento di qualcuno più esperto. Gli obiettivi ben formulati devono posizionarsi nella ZSP: non troppo bassi (già raggiunti autonomamente — non stimolano crescita) e non troppo alti (fuori portata anche con aiuto — generano frustrazione e impotenza appresa). La ZSP è il "gradino accessibile" — quello che con il giusto supporto si riesce a salire. Questo principio richiede una conoscenza profonda della situazione della persona, che si costruisce nella fase di lettura condivisa.
+
+**Quali sono le funzioni degli obiettivi nel processo di progettazione?**
+Gli obiettivi svolgono quattro funzioni principali: 1) orientano il lavoro di tutti gli attori coinvolti verso una direzione comune, evitando dispersione; 2) rendono espliciti e condivisi i cambiamenti attesi, creando corresponsabilità; 3) permettono la valutazione in itinere e la verifica finale — senza obiettivi chiari non si può valutare se si sta andando nella direzione giusta; 4) motivano la persona e l'equipe, perché i piccoli traguardi raggiunti alimentano la speranza e la fiducia nel processo. Obiettivi formulati senza la partecipazione della persona sono spesso non condivisi e difficilmente realizzati.
+
+**Cosa distingue il monitoraggio in itinere dalla verifica finale?**
+Il **monitoraggio** è il processo continuo di raccolta di informazioni durante la realizzazione del progetto: serve a capire se si sta procedendo nella direzione giusta, a identificare ostacoli e a fare aggiustamenti in corso d'opera. Non è una valutazione del prodotto finale, ma un feedback processuale. La **verifica finale** è invece la valutazione conclusiva: analizza lo scarto tra gli obiettivi attesi e i risultati effettivamente raggiunti, include anche gli esiti inattesi (positivi o negativi), e alimenta la riformulazione del progetto. Entrambe sono indispensabili: il monitoraggio evita di arrivare alla fine con sorprese, la verifica serve a imparare dall'esperienza per i progetti futuri.
+
+**Cos'è l'approccio delle capabilities (Sen) e come si connette alla progettazione?**
+Amartya Sen (2000) propone di valutare il benessere non a partire dai beni posseduti o dai bisogni soddisfatti, ma dalle **capabilities** — le libertà reali che le persone hanno di fare e di essere ciò che hanno ragione di valorizzare. Non basta che una risorsa esista: bisogna che la persona possa effettivamente usarla. Nella progettazione, questo significa partire non dai deficit ma dalle capacità della persona, costruire obiettivi che amplino le sue libertà reali, e valutare l'intervento in base a quanto ha effettivamente aumentato la possibilità per la persona di scegliere e agire. È una prospettiva che si oppone radicalmente agli approcci che misurano il successo con indicatori standardizzati senza considerare la situazione specifica.
+
+---
+
 ## Collegamenti
 
 **Lezione precedente collegata:**

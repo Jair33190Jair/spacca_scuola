@@ -208,6 +208,22 @@ Il **pensiero critico** significa: non fermarsi alla superficie, analizzare le s
 
 ---
 
+## Domande di orientamento allo studio
+
+**Cosa caratterizza il concetto di autodeterminazione?**
+L'autodeterminazione (Wehmeyer, 1992, 2005) è la possibilità di fare scelte e prendere decisioni in accordo con le proprie preferenze, valori e obiettivi, per determinare il grado di controllo che si desidera avere sulla propria vita e mantenerne o aumentarne la qualità. Implica agire come **agente causale** della propria vita — essere chi guida le proprie scelte, non chi le subisce. Non significa "decido sempre da solo": nessuno vive in un vuoto. Si allena attraverso esperienze, successi ed errori. Richiede la negoziazione con tutti i partner educativi e implica la disponibilità ad assumersi **rischi misurati** — senza rischio non c'è crescita né emancipazione.
+
+**Cosa caratterizza il concetto di integrazione sociale?**
+L'integrazione sociale è un processo che inserisce le persone in un contesto mantenendo il focus sull'individuo e sulle sue condizioni biologiche. Brandani e Tramma (2014) identificano tre significati: compensare il difetto (rendere intero ciò che è incompleto), includere senza isolare (in contrapposizione alla segregazione), e dinamica di scambio reciproco di risorse e capacità. Il limite fondamentale: il punto di partenza è sempre il deficit della persona, non il contesto. Non è assimilazione, ma mantiene la logica norma/deviazione. È un passo avanti rispetto alla segregazione, ma meno ambizioso dell'inclusione.
+
+**Cosa caratterizza il concetto di inclusione sociale?**
+L'inclusione sociale è un processo in cui tutti gli individui e i gruppi di un sistema sociale possono vivere secondo i propri valori e le proprie scelte, migliorare le proprie condizioni, e in cui le differenze tra le persone sono socialmente accettate (Strategia di Lisbona 2000; UNDESA 2009; Medeghini et al. 2013). Si riferisce a **tutte** le persone, è multidimensionale (cultura, economia, spazi, politiche, relazioni), e contrasta le forme di esclusione e ingiustizia strutturali. Il focus è sul contesto, non sul deficit della persona. Richiede di superare il linguaggio abilista e costruire contesti che rispondano alle differenze di tutti. L'inclusione totale è un orizzonte al quale tendere, non un punto di arrivo definitivo.
+
+**Quale differenza sostanziale connota i concetti di inclusione e integrazione?**
+La differenza fondamentale è il **focus dell'azione**: l'integrazione agisce principalmente sull'individuo per adattarlo al contesto (es. lo studente chiede la rampa e il contesto risponde al suo bisogno specifico), mentre l'inclusione agisce principalmente sul contesto per renderlo accessibile a tutti preventivamente (es. la rampa è già predisposta prima che arrivi chiunque ne abbia bisogno). L'integrazione parte dal deficit della persona; l'inclusione parte dalla diversità come condizione normale e costruisce ambienti che la accolgono. Nella rappresentazione grafica: l'integrazione agisce su entrambi (soggetto e contesto) ma con focus sul soggetto; l'inclusione agisce soprattutto sul contesto.
+
+---
+
 ## Collegamenti
 
 - **Lezione 03:** benessere e qualità di vita — l'autodeterminazione non esiste in un vuoto, va ancorata al benessere della persona

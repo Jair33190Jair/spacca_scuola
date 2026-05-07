@@ -497,22 +497,6 @@ senza numero) come metafora della follia:
 
 ---
 
-## Il DSM e il Malleus Maleficarum
-
-Il prof fa un parallelo provocatorio tra il **DSM** e il
-**Malleus Maleficarum** (1486, manuale per identificare
-le streghe): entrambi sono sistemi categoriali che
-stabiliscono criteri di inclusione/esclusione.
-
-La differenza che conta non è lo strumento ma il **fine**:
-diagnosticare per curare e migliorare il benessere della
-persona, o diagnosticare per stigmatizzare?
-
-> _"Basta cambiare lo scopo e si finisce dalla cura
-> allo stigma."_ — Pezzoli
-
----
-
 ## Il punto di arrivo: Cargnello e l'ambiguità irriducibile
 
 **Danilo Cargnello** formula la sfida fondamentale di chi
@@ -534,6 +518,36 @@ risolta.
 
 L'invito non è a scegliere un paradigma, ma a stare in
 piedi nel mezzo.
+
+---
+
+---
+
+## Domande di orientamento allo studio
+
+**Qual è la differenza tra Gehirnpsychiatrie e Geistespsychiatrie? Fai un esempio concreto per ciascuna.**
+
+Gehirnpsychiatrie è lo sguardo organicista sulla follia: la malattia mentale è una malattia del cervello, un danno biologico. Esempio: Donizetti che, colpito dalla sifilide al terzo stadio, sviluppò la paralisi progressiva — un deterioramento neurologico irreversibile senza radici nelle passioni o nella storia personale. Geistespsychiatrie è lo sguardo psicologico: la follia nasce dall'eccesso emotivo, dalle ferite della vita, dalle relazioni. Esempio: Lucia di Lammermoor, che impazzisce dopo essere stata ingannata, costretta a sposare un uomo che non ama e a subire violenza — la sua follia ha una quota di comprensibilità, ci riconosciamo qualcosa.
+
+**Quali sono i quattro principi di Pinel e perché sono ancora rilevanti per il lavoro sociale?**
+
+Pinel identifica quattro principi fondamentali. La guaribilità: la follia da passioni può essere curata, quindi l'ospedale non è una condanna definitiva. Il principio patoplastico: la malattia si imprime su un substrato soggettivo unico — due persone con la stessa diagnosi la vivono in modo diverso. Il principio di parzialità della follia: nel malato rimane sempre una parte sana e interlocutrice; ci si rivolge a quella, non si attacca il delirio frontalmente. Il trattamento morale: la cura passa attraverso la relazione, l'ascolto, il riordino emotivo. Per il lavoro sociale sono ancora rilevanti perché spostano il centro della cura dalla malattia alla persona — la conoscenza biografica del paziente diventa precondizione della presa in carico.
+
+**Come si distingue la follia organica dalla follia delle passioni secondo Jaspers? Perché la comprensibilità conta nel lavoro clinico?**
+
+Jaspers distingue le due follie attraverso il criterio della comprensibilità. Davanti alla follia delle passioni — come quella di Lucia, nata da inganno, costrizione, eccesso emotivo — l'osservatore riconosce qualcosa di proprio, espresso all'estremo: non condivide l'atto, ma capisce la sofferenza che lo ha generato. Davanti alla follia organica — come quella di Donizetti nella fase terminale della sifilide — non si riesce a trovare nessuna familiarità. La comprensibilità conta nel lavoro clinico perché indica la possibilità di un incontro autentico con la persona: se c'è comprensibilità, c'è un terreno comune su cui costruire la relazione terapeutica.
+
+**Cosa introduce Kraepelin con la sua nosologia e in cosa si differenzia dall'approccio di Pinel ed Esquirol?**
+
+Kraepelin costruisce la prima grande classificazione moderna delle malattie mentali, distinguendo tra malattie esogene (cause esterne: psicologiche e somatiche) e endogene (prodotte dall'interno del SNC: psicosi maniaco-depressiva e demenza precoce). A differenza di Pinel ed Esquirol, per i quali i sintomi — ciò che il paziente racconta di vivere — erano il punto di partenza della cura, per Kraepelin i sintomi sono segni di un sistema biologico malfunzionante: non c'è interesse per le parole del paziente, solo per la classificazione. Questo segna un arretramento rispetto all'ascolto della soggettività, che Bleuler cercherà poi di recuperare con la distinzione tra sintomi primari e secondari.
+
+**In che modo la pellagra illustra il rapporto tra cause somatiche e sintomi psichici?**
+
+La pellagra è causata dal monofagismo maidico — dieta quasi esclusiva di mais nelle comunità povere del nord Italia — che produce una carenza di vitamina B3 (niacina). Questa carenza genera le tre D: Dermatosi, Diarrea, Demenza. Prima di identificarne la causa, i malati in fase avanzata finivano in manicomio. Il caso illustra che cause somatiche esterne possono produrre sintomi psichici gravi, e che la psichiatria organicista, paradossalmente, denunciava la povertà come fattore causale — un risultato politicamente significativo, anche se ottenuto con metodo riduzionista.
+
+**Qual è la distinzione tra "avere" una malattia ed "essere" una malattia? Cosa implica per la presa in carico?**
+
+L'ausiliare usato non è neutro. "Ho la depressione" segnala non-identificazione con la condizione: la malattia è qualcosa di esterno, che si combatte per eliminarla. "Sono depresso" implica identificazione identitaria: la condizione fa parte di sé. Le malattie psichiche tendono a usare "essere", e questo non è irrilevante per la cura. Se la condizione è identitaria, il paradigma della guarigione (to cure, eliminare la malattia) cede il posto a quello della cura (to care, lavorare per il benessere dentro la condizione). Per il lavoro sociale questo è fondamentale: l'operatore non punta a cancellare la condizione, ma ad accompagnare la persona nel vivere meglio con essa.
 
 ---
 

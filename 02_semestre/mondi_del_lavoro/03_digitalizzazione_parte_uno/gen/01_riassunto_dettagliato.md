@@ -216,6 +216,28 @@ Il lavoro di gruppo vale il **30%** della nota finale complessiva.
 
 ---
 
+## Domande di orientamento allo studio
+
+**Cosa significa concretamente che il digitale è "materiale" e non immateriale?**
+Ogni operazione digitale attiva una catena fisica: le parole vengono tradotte in codice binario (0 e 1), viaggiano via cavo o Wi-Fi fino a un data center (un enorme magazzino di computer attivo 24 ore su 24), dove un algoritmo elabora la richiesta e restituisce una risposta. Dietro ogni AI ci sono anche decine di migliaia di lavoratori — spesso nelle click farm del Sud-Est asiatico — pagati pochissimo per addestrare i modelli. Anche i CAPTCHA sono un meccanismo di addestramento gratuito delle macchine da parte degli utenti.
+
+**Cos'è l'Industria 4.0 e come si inserisce nella storia delle rivoluzioni industriali?**
+L'Industria 4.0 è il nome dato (ufficialmente nel 2011 ad Hannover) alla quarta rivoluzione industriale, caratterizzata da automazione avanzata, Internet of Things, sistemi cyber-fisici, intelligenza artificiale e catene globali del valore con logiche just-in-time. Si innesta su tre rivoluzioni precedenti: la prima (vapore e carbone, fine '700), la seconda (elettricità e automobile, fine '800), e la terza (ICT e globalizzazione, anni '80). Ogni rivoluzione ha trasformato profondamente il lavoro — il 4.0 ne rappresenta l'ultima tappa, con la digitalizzazione che permea tutti gli ambiti della vita.
+
+**Quale ruolo ha avuto il container nella ristrutturazione del sistema produttivo?**
+Il container — uno scatolone standardizzato interoperabile su tutti i mezzi di trasporto (gomma, rotaia, nave, aereo) — ha reso possibile la globalizzazione delle merci. Oggi il 96% delle merci mondiali viaggia via mare in container. Questo ha permesso di smantellare la grande fabbrica fordista in Occidente e delocalizzare la produzione in paesi dove il lavoro costava meno (le ex colonie), frammentando le catene produttive globalmente. Ha anche ridotto il potere operaio: 50.000 operai concentrati in una fabbrica possono fare sciopero compatto; una catena spezzata in 200 aziende in 20 paesi è molto più difficile da organizzare.
+
+**Come nasce Internet e perché la narrazione del "genio nel garage" della Silicon Valley è solo parzialmente vera?**
+Internet nasce da un progetto militare statunitense (ARPANET) durante la Guerra Fredda: l'obiettivo era creare una rete distribuita che sopravvivesse a un attacco nucleare. Viene poi diffuso dalle università. Gli anni '80 portano l'esplosione dei personal computer, gli anni '90 la finanziarizzazione e la bolla dot-com, esplosa nel 2000. Le poche aziende sopravvissute (GAFAM: Google, Apple, Facebook/Meta, Amazon, Microsoft) hanno conquistato posizioni di monopolio. La narrazione del genio solitario è vera solo a metà: dietro queste trasformazioni ci sono enormi investimenti pubblici — universitari, statali, militari.
+
+**Cos'è il capitalismo di piattaforma e in che senso è "egemonico"?**
+Il capitalismo di piattaforma è un modello economico in cui le piattaforme digitali non producono merci ma fungono da infrastruttura che mette in contatto domanda e offerta, raccoglie dati e organizza il lavoro altrui. Amazon non produce prodotti — organizza distribuzione e commercio. Uber non ha auto — organizza il lavoro dei guidatori. Il modello è diventato egemonico perché oggi qualsiasi settore (trasporti, sanità, logistica, manifattura, cura) tende a organizzarsi in questa forma. La conseguenza per il lavoro: è sempre più mediato da algoritmi, senza contratto fisso, con flessibilità che spesso è precarietà mascherata.
+
+**Cosa si intende per "neo-taylorismo" e in cosa differisce dal taylorismo classico?**
+Il neo-taylorismo è la riproduzione della logica taylorista — frammentare e monitorare il lavoro in modo scientifico per massimizzare la produttività — tramite algoritmi invece che capireparto. La differenza con il taylorismo classico (Taylor, 1911) è che il controllo è ora invisibile, a distanza e globalmente distribuito. Non c'è più una fabbrica fisica come luogo delimitato: il processo lavorativo è frammentato in micro-pacchetti distribuiti nel mondo, connessi digitalmente. La gig economy, il crowdworking e la gamification sono le manifestazioni concrete di questo neo-taylorismo.
+
+---
+
 ## Collegamenti
 
 - **Lezioni precedenti**: la professoressa Lepori aveva già introdotto il tema delle rivoluzioni industriali e del mercato del lavoro — questa lezione ne approfondisce la dimensione storica e tecnologica.

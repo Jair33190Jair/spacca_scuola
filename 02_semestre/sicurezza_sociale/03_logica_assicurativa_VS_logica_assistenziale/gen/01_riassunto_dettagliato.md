@@ -207,6 +207,28 @@ Il **CPS (Centro professionale e sociale)** è un esempio concreto: accoglie per
 
 ---
 
+## Domande di orientamento allo studio
+
+**Qual è la differenza tra logica assicurativa e logica assistenziale? Fai un esempio per ciascuna.**
+La logica assicurativa (causale) interviene quando si verifica un rischio specifico assicurato, a condizione che l'assicurato abbia versato i contributi: esempio, l'indennità di disoccupazione erogata a chi ha perso il lavoro e ha contribuito all'AD. La logica assistenziale (finale) interviene in presenza di un bisogno generico di risorse economiche, dimostrato tramite la prova dei mezzi: esempio, l'aiuto sociale erogato a chi non riesce a coprire il minimo vitale. La prima copre un rischio specifico; la seconda copre qualsiasi situazione di insufficienza economica.
+
+**Quali sono le quattro forme di solidarietà nel sistema delle assicurazioni sociali svizzere?**
+Le quattro forme di solidarietà sono: (1) solidarietà orizzontale — tra chi è sano e contribuisce e chi è malato e beneficia; (2) solidarietà verticale — tra redditi alti e redditi bassi, poiché i contributi sono proporzionali al reddito; (3) solidarietà generazionale — tra giovani lavoratori che finanziano le pensioni degli anziani; (4) solidarietà regionale — tra abitanti di cantoni con livelli di reddito diversi.
+
+**Perché gli indipendenti hanno una copertura assicurativa inferiore rispetto ai salariati? Quali sono le lacune principali?**
+Il sistema è stato costruito sul modello del lavoratore salariato industriale del XX secolo, e gli indipendenti (ditte individuali) non sono obbligati al secondo pilastro (previdenza professionale) né all'assicurazione infortuni. Il Rapporto SUPSI documenta che solo il 45% degli indipendenti è iscritto a una cassa pensione (contro il 90% dei salariati) e più di un quarto non ha né secondo né terzo pilastro. In caso di crisi, il percorso tipico è: utilizzo dei risparmi, indebitamento, caduta in assistenza sociale.
+
+**Qual è il paradosso del titolare di SAGL rispetto alla disoccupazione?**
+Il titolare di una SAGL paga i contributi all'assicurazione contro la disoccupazione esattamente come un salariato. Tuttavia, se la sua azienda perde clienti, non ha diritto all'indennità di disoccupazione, perché si ritiene che in quanto proprietario possa "orientare l'attività della propria azienda". Paga come un salariato ma non ha le stesse tutele: è un paradosso esplicito del sistema costruito per i lavoratori dipendenti.
+
+**Come si distingue un lavoratore indipendente da un pseudo-indipendente ai fini AVS?**
+Ai fini AVS, un lavoratore è considerato indipendente se: ha un'attività economica propria, ha almeno 5 clienti, e nessun cliente è finanziariamente prevalente rispetto agli altri. Chi non soddisfa questi criteri — ad esempio chi lavora quasi esclusivamente per un grande cliente — viene classificato come salariato dell'azienda cliente, con le relative conseguenze previdenziali. I rider delle piattaforme digitali sono il caso più discusso: le piattaforme li trattano come indipendenti, ma diversi tribunali li riconoscono come salariati.
+
+**Che cos'è un lavoro precario secondo la definizione emersa nel seminario?**
+Un lavoro è considerato precario quando una o più forme di insicurezza sono indesiderate e non vengono compensate finanziariamente. Le tre dimensioni di insicurezza sono: (1) rispetto al futuro, ossia la stabilità del posto di lavoro; (2) economica, ossia la sufficienza del reddito; (3) rispetto alla protezione sociale, ossia l'adeguatezza della copertura assicurativa.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

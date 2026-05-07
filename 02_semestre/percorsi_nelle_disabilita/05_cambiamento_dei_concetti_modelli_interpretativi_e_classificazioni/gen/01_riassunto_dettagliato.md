@@ -236,6 +236,28 @@ Lo **strumento in sé** è inclusivo: rendere la comunicazione più chiara benef
 
 ---
 
+## Domande di orientamento allo studio
+
+**Qual è la differenza tra ICD, ICIDH e ICF? Cosa rappresenta questa evoluzione?**
+L'ICD classifica le malattie per cause (eziologia → patologia → manifestazione clinica) — è un modello medico-riabilitativo che non considera le conseguenze nella vita della persona. L'ICIDH (1980) fa un passo avanti: guarda alle conseguenze delle malattie, introducendo i concetti di menomazione, disabilità e handicap in sequenza lineare. L'ICF (2001) abbandona la logica delle conseguenze per classificare il funzionamento della persona nel suo contesto — si chiede cosa la persona può fare, non solo cosa non riesce a fare. Questa evoluzione riflette il passaggio dal modello medico al modello biopsicosociale: l'attenzione si sposta dalla "persona da riparare" al "sistema da adattare".
+
+**Cosa si intende per menomazione, disabilità e handicap nell'ICIDH? Perché è stato criticato questo strumento?**
+Nell'ICIDH: la menomazione è il danno organico o funzionale (anomalia di organi, strutture o funzioni mentali); la disabilità è la restrizione o carenza di capacità che ne consegue; l'handicap è lo svantaggio vissuto dalla persona nell'interazione con l'ambiente. Le critiche principali: la sequenza lineare menomazione→disabilità→handicap non è sempre vera (una persona sorda non è "disabile" mentre ascolta musica); il linguaggio è negativo perché descrive la persona solo per ciò che non sa fare; i fattori ambientali — che hanno un ruolo determinante — sono sottovalutati; l'handicap non è concepito come fenomeno dinamico, sebbene possa essere temporaneo.
+
+**Qual è la differenza pratica tra integrazione e inclusione? Perché questa distinzione è fondamentale per il lavoro sociale?**
+Nell'integrazione, la persona con disabilità entra in contesti ordinari, ma con misure speciali ed eccezionali, negoziate caso per caso: è la persona che si adatta al sistema. È "nell'ordine delle possibilità" — richiede una battaglia individuale. Esempio: una rampa costruita per un bambino specifico. Nell'inclusione, invece, le misure speciali diventano la norma per tutta la popolazione, a priori: è il sistema che si adatta a tutti. Esempio: rampe in tutti gli edifici pubblici indipendentemente da chi li usa. Per il lavoro sociale, capire questa distinzione è fondamentale: agire in ottica inclusiva significa progettare il contesto pensando a tutti, non solo rispondere a emergenze individuali. Attenzione: non si tratta di una scala del bene e del male — in certi momenti, per certe persone, la soluzione più adeguata è separativa.
+
+**Perché il linguaggio che usiamo per descrivere la disabilità è importante? Quali termini sono da evitare e perché?**
+Il linguaggio non è neutro: riflette e rinforza il modello interpretativo che abbiamo della persona. L'evoluzione terminologica (invalido → handicappato → persona disabile → persona con disabilità) segue l'evoluzione dei modelli interpretativi. La regola fondamentale è "la persona prima del deficit": si dice "persona con disabilità", non "il disabile" o "il disabile". Da evitare: invalido (retaggio assicurativo), diversamente abile (presuppone sempre capacità alternative — non necessariamente vero), portatore di handicap (la persona vive situazioni di handicap, non le porta), "il cieco" o "il sordo" (riduce la persona a un tratto). Da usare: persona con disabilità, persona in situazione di handicap, persona con disabilità visiva/uditiva/motoria.
+
+**Cos'è il Processo di Produzione dell'Handicap (PPH) e come si differenzia dall'ICIDH?**
+Il PPH è un modello sistemico che introduce una visione dell'handicap come risultato dell'interazione tra fattori personali (sistemi organici, attitudini, capacità) e fattori ambientali (che possono essere facilitatori o ostacoli), in relazione alle abitudini di vita della persona. A differenza dell'ICIDH — che presenta una sequenza lineare e colpevolizza la persona per le sue limitazioni — il PPH mostra che lo stesso deficit produce handicap diversi a seconda dell'ambiente: un ambiente favorevole riduce l'handicap, uno ostile lo amplifica. Il PPH ha anticipato concettualmente l'ICF, portando la logica dell'interazione persona-ambiente al centro della classificazione.
+
+**Qual è il rischio principale dell'inclusione mal applicata? Cosa significa che l'inclusione è una "direzione" e non uno "stato raggiunto"?**
+Il rischio principale è creare contesti formalmente inclusivi (aprire le porte) senza garantire i sostegni necessari nel tempo. Se le risorse vengono tagliate dopo l'inserimento, le persone vengono gradualmente dimenticate e ri-escluse — si torna all'esclusione di partenza, ma mascherata da inclusione. L'inclusione non è un traguardo raggiunto una volta per sempre: è una direzione verso cui tendere continuamente. Per alcune categorie (es. accessibilità fisica) si è già avanzato molto; per altre (inserimento lavorativo, scelta della residenza) c'è ancora molto lavoro. Questo richiede continuità di risorse, attenzione e impegno politico nel tempo.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

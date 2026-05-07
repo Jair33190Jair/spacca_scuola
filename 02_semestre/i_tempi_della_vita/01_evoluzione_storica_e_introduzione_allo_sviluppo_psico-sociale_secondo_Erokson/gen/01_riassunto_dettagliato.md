@@ -251,6 +251,28 @@ Erikson ha applicato la sua teoria a:
 
 ---
 
+## Domande di orientamento allo studio
+
+**Qual è la differenza tra psicologia dell'età evolutiva e psicologia dello sviluppo?**
+La psicologia dell'età evolutiva studiava lo sviluppo esclusivamente nelle prime fasi della vita — dall'infanzia all'adolescenza — considerando l'adulto come punto d'arrivo e di stabilità. La psicologia dello sviluppo, nata nella seconda metà del Novecento, studia invece i cambiamenti sistematici che caratterizzano l'evoluzione psicologica di ciascun individuo nel corso dell'intera vita, fino alla morte. Il focus si sposta dal prodotto al processo: non importa solo cosa diventa la persona, ma come avvengono i cambiamenti.
+
+**Cosa critica la metafora del fiume rispetto alla metafora della collina?**
+La metafora della collina rappresentava lo sviluppo come ascesa verso un apice (l'età adulta), seguito da un declino. Era adultocentrica: il bambino era un adulto incompleto, l'anziano un adulto che aveva perso competenze. La metafora del fiume (Schroors, 1998) supera questa visione: il fiume scorre, si adatta al terreno e lo modifica a sua volta. Non c'è un picco dopo cui tutto declina, ma un percorso continuo con guadagni e perdite in ogni fase. Ogni fiume è unico — come ogni percorso di vita.
+
+**Quali sono i 7 principi fondamentali della Life Span Psychology di Baltes?**
+1. Lo sviluppo dura tutta la vita. 2. È multidimensionale e multidirezionale (fisico, cognitivo, emotivo, sociale). 3. È caratterizzato da plasticità (le traiettorie si possono modificare). 4. Implica guadagni e perdite in ogni fase. 5. È un processo interattivo (individuo ↔ ambiente). 6. È calato nella realtà storica e culturale. 7. È multidisciplinare. Questi sette principi segnano il passaggio definitivo da una visione lineare dello sviluppo a una visione complessa e contestualizzata.
+
+**Cosa si intende per "conflitto bipolare" nella teoria di Erikson e cosa significa sviluppo ottimale?**
+In ogni stadio della teoria di Erikson è presente un conflitto bipolare: una tensione tra un polo positivo e uno negativo. Lo sviluppo ottimale non consiste nel "vincere" il polo positivo, ma nell'uscire dalla fase sbilanciati sul polo positivo integrando la parte utile del polo negativo. Per esempio, nello stadio 1 (fiducia vs. sfiducia), lo sviluppo ottimale significa imparare a fidarsi della figura di cura, ma non ciecamente di tutti — la sfiducia selettiva è protettiva. Questa logica si applica a tutti gli 8 stadi.
+
+**Perché Erikson è considerato ottimista rispetto alle possibilità di recupero?**
+Erikson sostiene che se una fase non viene superata in modo ottimale, il recupero è sempre possibile nelle fasi successive, grazie alle esperienze e alle figure di riferimento che si incontrano nel percorso. Questo è fondamentale per chi lavora nel sociale ed educativo: significa che non esistono destini segnati, e che il lavoro professionale con bambini, adolescenti o adulti ha sempre senso e potenziale di cambiamento.
+
+**Quali applicazioni concrete ha avuto la teoria di Erikson?**
+Erikson ha applicato la sua teoria a diversi ambiti: le crisi di identità in adolescenza, il conflitto tra generazioni, l'adattamento post-bellico dei soldati (ha lavorato con veterani), le relazioni tra razze e le pratiche di accudimento dei bambini in diverse culture. Questo dimostra la portata universale e multiculturale della sua teoria.
+
+---
+
 ## Collegamenti
 
 - **Lezione successiva**: teoria freudiana dello sviluppo psicosessuale — troverai molti parallelismi con gli stadi di Erikson.

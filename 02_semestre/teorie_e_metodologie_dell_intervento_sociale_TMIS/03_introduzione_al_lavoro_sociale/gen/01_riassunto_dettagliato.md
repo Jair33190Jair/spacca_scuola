@@ -231,6 +231,25 @@ Esempio della professoressa: posso essere bravissima con Excel (alta autoefficac
 
 ---
 
+## Domande di orientamento allo studio
+
+**Cosa si intende oggi per promozione della Qualità di Vita e quali sono i domini che la costituiscono?**
+La Qualità di Vita (QdV) è intesa come la percezione soggettiva dell'individuo della propria posizione nella vita nel contesto dei sistemi culturali e dei valori di riferimento (OMS, 1995). Il modello di Schalock e Verdugo (2006/2008) identifica 8 domini organizzati in tre aree: **indipendenza** (sviluppo personale, autodeterminazione), **partecipazione sociale** (relazioni interpersonali, inclusione sociale, diritti) e **benessere** (emozionale, fisico, materiale). I domini si influenzano reciprocamente — un cambiamento in uno ha effetti trasversali su tutti gli altri. La parola chiave è "percezione": la QdV non si misura solo dall'esterno, ma dipende da come la persona vive la propria situazione.
+
+**Quali sono i principi di funzionamento del modello QdV?**
+Il modello QdV si fonda su 7 principi (Carbonari, 2017; Schalock e Verdugo): multidimensionalità (superamento degli approcci unidimensionali), visione olistica (i domini si influenzano reciprocamente), temporalità (i valori variano nel tempo), variabilità personale (ogni persona pesa diversamente i domini), soggettività e oggettività insieme (entrambe necessarie), empowerment (emancipazione della persona), ed estendibilità a tutte le persone (non solo quelle con disabilità). Il contesto sociale co-costruisce la qualità di vita — la stessa condizione può essere vissuta in modo molto diverso a seconda del contesto.
+
+**Cosa caratterizza il concetto di benessere nel modello PERMA? Cosa si intende per flourishing?**
+Il modello PERMA (Seligman, 2011) descrive il benessere individuale come **flourishing** — funzionamento ottimale: non solo stare bene, ma funzionare efficacemente. Si compone di cinque elementi: **P**ositive Emotions (emozioni positive verso passato, presente e futuro), **E**ngagement (coinvolgimento totale in ciò che si fa, incluso il concetto di flow), **R**elationships (relazioni positive e legami forti), **M**eaning (sentire che la propria vita ha senso), **A**ccomplishment (traguardi raggiunti, autostima, ottimismo). Ogni elemento contribuisce al benessere in modo indipendente e intrinsecamente motivato.
+
+**Come si è evoluto il concetto di empowerment nel lavoro sociale e qual è l'accezione postmoderna di empowerment relazionale?**
+L'empowerment nasce dai movimenti di emancipazione afroamericani con radici politiche e conflittuali. Nel lavoro sociale si declina come processo sociale, culturale, psicologico e politico che permette alle persone di esprimere bisogni, partecipare al processo decisionale e agire per soddisfarli (OMS). La versione classica distingue tra empowerment individuale (controllo sulla propria vita) e di comunità (azione collettiva). L'**empowerment relazionale** (Folgheraiter, 2004) è l'accezione postmoderna: gli esperti cedono parte del loro potere di trovare soluzioni agli utenti, che diventano partner attivi. Il ruolo dell'operatore diventa di orientamento, accompagnamento e sostegno — non di sostituzione. Il potere ceduto non si perde, si moltiplica.
+
+**Quali sono le principali caratteristiche e differenze tra autonomia, autostima e autoefficacia?**
+L'**autonomia** (Tramma, 2018) è la capacità di governarsi con leggi proprie nella rete di dipendenze — non assenza di dipendenza, ma processo graduale (autonomizzazione, Meirieu). L'operatore organizza aiuti graduali che vengono progressivamente ridotti. L'**autostima** è il giudizio di valore personale ("quanto valgo come persona?"), determinato da aspettative su sé stessi, modelli di riferimento e feedback ricevuti. L'**autoefficacia** (Bandura, 2012) è il giudizio di capacità specifica in un determinato contesto ("sono capace di fare questa cosa?") — è il motore motivazionale che determina se la persona investe energie nell'azione. La differenza chiave: posso avere alta autoefficacia in un'attività (sono bravissimo con Excel) senza che questo mi dia autostima, e viceversa.
+
+---
+
 ## Collegamenti
 
 - **Lezioni precedenti:** il concetto di autonomia e di lavoro *con* le persone richiama la definizione di lavoro sociale e il principio del rispetto dell'autodeterminazione (Lezione 01–02)

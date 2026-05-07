@@ -133,7 +133,7 @@ Implicazione pratica: non cerco *la* causa del problema. Cerco di capire le rela
 
 ## 7. Il modello bioecologico di Bronfenbrenner
 
-**Urie Bronfenbrenner** (1917–2005) ha formulato il **Modello Multidimensionale Bioecologico dello Sviluppo Umano** per spiegare come lo sviluppo di una persona sia il risultato dell'interazione dinamica tra caratteristiche biologiche, psicologiche e ambientali.
+**Urie Bronfenbrenner** (1917–2015) ha formulato il **Modello Multidimensionale Bioecologico dello Sviluppo Umano** per spiegare come lo sviluppo di una persona sia il risultato dell'interazione dinamica tra caratteristiche biologiche, psicologiche e ambientali.
 
 L'idea centrale: per capire una persona, devi guardare tutto l'ecosistema in cui vive.
 
@@ -209,13 +209,22 @@ Perché è utile per il lavoro sociale? Perché ti dà una mappa. Prima di inter
 
 ---
 
-## Domande guida per l'esame
+## Domande di orientamento allo studio
 
-1. Cosa si intende per lavoro sociale?
-2. Quali sono i principali elementi della dimensione politica del lavoro sociale?
-3. Quali sono le specificità dei sistemi complessi?
-4. Qual è l'interpretazione del concetto di persona negli approcci alla modernità liquida?
-5. Descrivi le strutture costituenti il modello multidimensionale di Bronfenbrenner.
+**Cosa si intende per lavoro sociale?**
+Il lavoro sociale è una professione basata sulla pratica e una disciplina accademica che promuove il cambiamento sociale e lo sviluppo, la coesione e l'emancipazione sociale, nonché la liberazione delle persone (IFSW, 2014). I suoi principi fondanti sono la giustizia sociale, i diritti umani, la responsabilità collettiva e il rispetto delle diversità. Si basa su teorie delle scienze sociali, discipline umanistiche e saperi indigeni, e lavora sia con le persone che con le strutture che le circondano.
+
+**Quali sono i principali elementi della dimensione politica del lavoro sociale?**
+Il lavoro sociale non è mai neutro: ha una posizione valoriale esplicita orientata all'emancipazione, alla democrazia e alla giustizia sociale (Freire, 2017). La giustizia sociale è il valore fondante e si concretizza attraverso l'equo accesso alle risorse, l'inclusione, il contrasto alla discriminazione e all'oppressione istituzionale. L'approccio anti-oppressivo richiede che gli operatori riconoscano il proprio potere (come gatekeeper con ampi margini di discrezionalità) e lavorino attivamente per promuovere la partecipazione autentica delle persone nei processi decisionali.
+
+**Quali sono le specificità dei sistemi complessi?**
+I sistemi complessi sono insiemi di elementi in costante relazione reciproca, in continua trasformazione, alla ricerca di equilibrio. La loro specificità centrale è la causalità circolare: non è possibile risalire a una causa unica di un comportamento o di un fenomeno, né prevedere con certezza i comportamenti futuri. Negli organismi viventi non ha senso attribuire un fenomeno a una serie lineare di eventi — gli elementi si influenzano continuamente a vicenda in modo non lineare e i sistemi si riorganizzano secondo schemi nuovi.
+
+**Qual è l'interpretazione del concetto di persona negli approcci alla modernità liquida?**
+Nella modernità liquida (Bauman), la persona è vista nella sua globalità — fisica, cognitiva, affettiva, relazionale, creativa e spirituale — come soggetto unico, in continua evoluzione, inserito in un contesto in trasformazione. È soggetto di diritti, potenzialità, bisogni, aspirazioni, risorse e limiti; soprattutto è co-costruttore del proprio destino, protagonista e attore del cambiamento. Questa visione si contrappone esplicitamente alla visione deterministica e diagnostica dell'essere umano: la persona si trova in una situazione di disagio, non è il disagio.
+
+**Descrivi le strutture costituenti il modello multidimensionale di Bronfenbrenner.**
+Il modello bioecologico di Bronfenbrenner descrive lo sviluppo umano come il risultato dell'interazione dinamica tra la persona e cinque sistemi ambientali concentrici. Il **microsistema** è l'ambiente primario con relazioni dirette (famiglia, scuola, amici). Il **mesosistema** comprende le relazioni tra i diversi microsistemi (es. rapporto genitori-insegnanti). L'**esosistema** include ambienti in cui la persona non è direttamente presente ma che la influenzano (es. orari lavorativi del genitore). Il **macrosistema** racchiude cultura, leggi, valori e ideologie della società. Il **cronosistema** aggiunge la dimensione temporale — come il tempo cambia la persona e il contesto, a livello micro e macro. Il modello aggiornato si riassume nell'acronimo PPCT: Processo, Persona, Contesto, Tempo.
 
 ## Collegamenti
 

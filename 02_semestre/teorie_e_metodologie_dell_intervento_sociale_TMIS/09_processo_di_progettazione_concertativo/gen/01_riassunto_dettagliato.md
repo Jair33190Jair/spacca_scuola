@@ -246,6 +246,25 @@ La progettazione dialogico-partecipata mira al livello **A** e si muove tra **A 
 
 ---
 
+## Domande di orientamento allo studio
+
+**Cosa differenzia l'approccio concertativo-partecipato dal modello sinottico-razionale nella progettazione?**
+Il modello sinottico-razionale è lineare e pianificato: l'operatore analizza la realtà, definisce obiettivi a priori e guida il processo assumendosi tutta la responsabilità. Il modello concertativo-partecipato parte invece dal presupposto che i problemi sociali non hanno causalità lineare e che esistono sempre più letture dei bisogni. Per questo co-costruisce il progetto con tutti gli attori coinvolti attraverso dialogo e negoziazione. La tappa dell'attivazione diventa centrale: si costruiscono ipotesi condivise, si negozia la lettura del problema, la valutazione è in itinere e partecipata. La responsabilità è distribuita. Il livello minimo di partecipazione richiesto è il B (decisionalità condivisa) di O'Sullivan.
+
+**Qual è la differenza tra progetto di vita (PdV) e progetto di sviluppo individuale (PSI/PEI)?**
+Il **Progetto di Vita (PdV)** è centrato sulla dimensione di senso della vita della persona: parte dai suoi desideri, aspirazioni, relazioni significative e visione del futuro. È un documento co-costruito con la persona stessa come protagonista, che rispetta la sua autodeterminazione e valorizza le sue capacità (Sen). Il **PSI** (Progetto di Sviluppo Individuale) e il **PEI** (Progetto Educativo Individualizzato) sono modelli più tecnici e spesso centrati sul deficit, costruiti prevalentemente dai professionisti. Il PdV è l'evoluzione che mette al centro la persona come soggetto di diritti e autore del proprio percorso.
+
+**Cosa si intende per "lettura condivisa" e perché è fondamentale nel processo concertativo?**
+La lettura condivisa è il processo attraverso cui tutti gli attori coinvolti (persona, famiglia, operatori, reti formali e informali) costruiscono insieme un significato comune della situazione-problema. Non è una fase tecnica — è il cuore del processo concertativo. Senza una comprensione condivisa, ogni obiettivo e ogni azione risulterà percepita come imposta dall'esterno. Richiede la capacità di ascoltare prospettive diverse, valorizzare i saperi dell'esperienza (non solo quelli esperti), e lavorare con la complessità. L'operatore assume il ruolo di facilitatore: stimola il dialogo, raccoglie punti di vista, riformula senza imporre.
+
+**Cosa sono le aspirazioni (Appadurai) e perché sono più utili dei soli bisogni nella progettazione?**
+Le aspirazioni (Appadurai) sono la capacità di immaginare un futuro più favorevole — trasformano la mancanza in percorso, il bisogno in possibilità. A differenza dei bisogni, che fotografano una mancanza presente, le aspirazioni orientano verso il futuro e attivano la motivazione intrinseca. Partire anche dai desideri e dalle aspirazioni sposta il focus dal deficit alle potenzialità, rispetta l'autodeterminazione, e produce un coinvolgimento più autentico nel progetto. "Di cosa hai bisogno?" e "Come vorresti che fosse la tua vita tra un anno?" producono conversazioni molto diverse — e la seconda spesso apre spazi più utili.
+
+**Quali sono le cinque "trappole interpretative" nell'analisi pedagogica dei problemi?**
+Brambilla identifica cinque errori ricorrenti: 1) ridurre il problema a una singola causa ignorando la complessità sistemica, 2) confondere la descrizione del comportamento con la spiegazione del problema, 3) attribuire il problema solo alla persona ignorando il contesto, 4) saltare all'intervento prima di aver compreso la situazione (ansia applicativa), 5) proiettare le proprie categorie interpretative sulla situazione dell'altro. Riconoscere queste trappole è fondamentale per condurre una lettura condivisa autentica, che parta dai significati delle persone coinvolte e non dai pregiudizi del professionista.
+
+---
+
 ## Collegamenti
 
 **Lezioni precedenti:**

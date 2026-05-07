@@ -550,6 +550,32 @@ Miglioramenti sono possibili, ma la strada è lunga.
 
 ---
 
+---
+
+## Domande di orientamento allo studio
+
+**Qual è la differenza tra temperamento, carattere e personalità? Perché è importante per capire i disturbi di personalità?**
+
+Il temperamento è la base biologica, l'insieme dei tratti congeniti che stabiliscono il modo emotivo con cui una persona risponde al mondo — relativamente stabile e influenzato anche da fattori prenatali. Il carattere è l'insieme dei tratti acquisiti quando il temperamento innato entra in contatto con l'ambiente e le relazioni — viene "modellato" dall'esperienza. La personalità è il risultato dell'interazione tra temperamento e carattere. La distinzione è importante perché i disturbi di personalità derivano da tratti abnormi (stabili, pervasivi), non da stati abnormi temporanei. Il modello bio-psico-sociale di Paris (1997) spiega che la diatesi (vulnerabilità innata temperamentale) determina il tipo di patologia, mentre i fattori stressanti attivano questo potenziale.
+
+**Cosa distingue uno stile di personalità da un disturbo di personalità? Quali sono i criteri del DSM-5-TR?**
+
+Lo stile di personalità indica tratti presenti ma relativamente adattivi, che non compromettono significativamente il funzionamento. Il disturbo di personalità si configura quando i tratti sono così estremi e disadattivi da causare sofferenza significativa e compromissione del funzionamento in ambito sociale, lavorativo o in altre aree. Il DSM-5-TR richiede che il pattern sia: marcatamente deviante rispetto alle aspettative culturali, pervasivo e inflessibile, clinicamente significativo, stabile e di lunga durata, con esordio nell'adolescenza o nella prima età adulta. Il pattern deve manifestarsi in almeno due di queste aree: cognitività, affettività, funzionamento interpersonale, controllo degli impulsi.
+
+**Descrivi i tre cluster del DSM-5-TR e indica almeno un disturbo per ciascuno.**
+
+Il Cluster A raggruppa i disturbi detti "strani ed eccentrici", caratterizzati da diffidenza e isolamento: disturbo paranoide (sospettosità pervasiva, convinzione di essere perseguitato), disturbo schizoide (distacco dalle relazioni, gamma ristretta di emozioni), disturbo schizotipico (distorsioni cognitive e percettive, vicinanza all'ambito psicotico con esame di realtà ancora conservato). Il Cluster B raggruppa i disturbi "drammatici, emotivi, imprevedibili", con difetti nella regolazione emotiva: disturbo antisociale (violazione dei diritti altrui, assenza di rimorso), disturbo borderline (instabilità relazionale, identitaria e dell'umore), disturbo istrionico (ricerca di attenzione, emotività superficiale), disturbo narcisistico (grandiosità, mancanza di empatia affettiva). Il Cluster C raggruppa i disturbi "ansiosi e inibiti": disturbo evitante (inibizione sociale per paura del rifiuto, ma desiderio di relazioni — contrariamente allo schizoide), disturbo dipendente (bisogno eccessivo di essere accuditi), DOCP (perfezionismo e controllo a scapito dell'efficienza, egosintonico a differenza del DOC).
+
+**Quali sono i tre criteri dell'organizzazione borderline secondo Kernberg e come si differenzia dalla struttura nevrotica e psicotica?**
+
+Kernberg descrive tre livelli strutturali su un continuum. L'organizzazione nevrotica ha identità ben integrata, meccanismi difensivi maturi e esame di realtà conservato. L'organizzazione psicotica ha identità gravemente compromessa, meccanismi primitivi e esame di realtà perduto. L'organizzazione borderline si caratterizza per: (1) diffusione dell'identità — il senso di sé e degli altri non è integrato e cambia radicalmente in base all'umore; (2) meccanismi difensivi primitivi — il meccanismo centrale è la scissione, tenere separati aspetti "buoni" e "cattivi" senza zona grigia; (3) esame di realtà conservato — a differenza della psicosi, la persona borderline distingue ancora il dentro dal fuori, anche se il contatto con la realtà può vacillare sotto stress intenso.
+
+**Cos'è la "costanza dell'oggetto" e perché la sua compromissione è centrale nel disturbo borderline?**
+
+La costanza dell'oggetto è la capacità di mantenere una rappresentazione stabile e integrata di una persona anche quando non è fisicamente presente — sapere che l'altro esiste e che ci vuole bene anche quando non è davanti ai nostri occhi. Nel disturbo borderline questa capacità è compromessa: se l'altro non è davanti agli occhi, c'è il vuoto. Questo spiega gli sforzi disperati per evitare l'abbandono (reale o immaginato): senza l'altro, la persona sente di non esistere. Spiega anche le relazioni intense e instabili con alternanza rapida di idealizzazione e svalutazione — l'altro è o tutto buono o tutto cattivo, senza integrazione degli aspetti contraddittori.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

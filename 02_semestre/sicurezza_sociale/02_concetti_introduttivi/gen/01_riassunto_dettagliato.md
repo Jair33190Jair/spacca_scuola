@@ -203,6 +203,28 @@ Vengono riconosciuti a persone anziane che, in modo **cronico e regolare**, nece
 
 ---
 
+## Domande di orientamento allo studio
+
+**Qual è la definizione di Stato sociale e quali valori lo fondano?**
+Lo Stato sociale (*Welfare State*) è un insieme di politiche, norme, pratiche, istituzioni, valori e ideologie volto a rispondere a una serie di rischi e bisogni e a correggere gli effetti prodotti dai meccanismi di mercato, con l'obiettivo di mantenere e migliorare il benessere dei cittadini. I valori fondanti sono: uguaglianza, solidarietà, giustizia sociale, sussidiarietà e responsabilità individuale.
+
+**Perché è nato lo Stato sociale e qual è la prima legge federale importante in Svizzera?**
+Lo Stato sociale nasce nel XIX secolo come risposta alle durissime condizioni del capitalismo industriale: lavoro minorile, orari lunghissimi, salari di sussistenza, nessuna tutela in caso di malattia o infortuni. In Svizzera il primo intervento federale rilevante fu la Legge sulle fabbriche del 1877, che introduceva la responsabilità del datore di lavoro per gli incidenti sul lavoro. Il salto più importante avvenne nel dopoguerra, con l'introduzione dell'AVS nel 1948 — la conquista sociale più significativa del XX secolo svizzero.
+
+**Quali sono le quattro componenti dello Stato sociale?**
+Le quattro componenti sono: (1) la sicurezza sociale, che tutela contro rischi sociali riconosciuti tramite assicurazioni e prestazioni al bisogno; (2) le politiche sociali, ossia tutte le azioni pubbliche per promuovere il benessere e i diritti sociali (sanità, famiglia, istruzione, alloggio, ecc.); (3) il diritto del lavoro, che regola il rapporto tra lavoratori e datori di lavoro (CO, LL, LAINF); (4) i servizi pubblici a finalità sociale, erogati sia da enti pubblici sia da attori privati (associazioni, fondazioni).
+
+**Che cos'è il welfare mix e perché è rilevante?**
+Il welfare mix descrive il sistema allargato in cui il benessere dei cittadini è prodotto non solo dallo Stato, ma anche dalla famiglia, dal mercato e dal terzo settore (associazioni, fondazioni, volontariato). È rilevante perché riconosce che lo Stato da solo non può rispondere a tutti i bisogni e che il volontariato può essere un complemento prezioso — ma non deve sostituire il lavoro professionale degli operatori sociali.
+
+**Qual è il ruolo dell'art. 41 della Costituzione federale in materia sociale?**
+L'art. 41 Cost. fed. elenca gli obiettivi sociali che la Confederazione e i Cantoni devono perseguire: sicurezza sociale, salute, famiglia, lavoro, abitazione, formazione, protezione dei giovani. Tuttavia non si tratta di diritti soggettivi esigibili in tribunale, ma di indirizzi politici. L'articolo sancisce anche il principio di sussidiarietà: lo Stato interviene *a complemento* delle responsabilità e dell'iniziativa privata, non al loro posto.
+
+**Qual è la differenza tra assicurazioni sociali e prestazioni commisurate al bisogno, con un esempio concreto?**
+Le assicurazioni sociali (AVS, AI, AD, LAINF, AMAL, ecc.) funzionano sulla logica contributiva: chi versa premi o contributi acquisisce il diritto alla tutela; sono di competenza prevalentemente federale. Le prestazioni commisurate al bisogno (assistenza pubblica, sussidio cassa malati) funzionano sulla logica del bisogno: il richiedente deve dimostrare che reddito e patrimonio sono sotto una certa soglia; sono spesso di competenza cantonale e intervengono in modo sussidiario, solo dopo le assicurazioni sociali. Esempio concreto: gli assegni per grandi invalidi AVS vengono erogati come assicurazione sociale a chi, per danno alla salute, ha bisogno di assistenza regolare per vestirsi, lavarsi, mangiare — indipendentemente dal reddito.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

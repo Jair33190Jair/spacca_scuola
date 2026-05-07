@@ -229,6 +229,28 @@ Copre le conseguenze economiche di infortuni professionali e non professionali, 
 
 ---
 
+## Domande di orientamento allo studio
+
+**Come si calcola la rendita AVS e quali sono i tre elementi che la determinano?**
+La rendita AVS dipende da tre fattori: (1) gli anni di contributi versati — per una rendita piena (scala 44) occorrono 44 anni ininterrotti di contribuzione dal 21° al 65° anno di età; ogni anno mancante riduce la rendita del 2,3%; (2) il reddito medio realizzato durante la vita lavorativa, rivalutato per tener conto dell'inflazione; (3) gli accrediti per compiti educativi e assistenziali — per ogni anno di cura di un figlio fino ai 16 anni viene riconosciuto un reddito figurativo che migliora la futura rendita, diviso in parti uguali tra i due genitori.
+
+**Che cos'è il fenomeno del non-ricorso alle prestazioni complementari? Quali sono le cause principali?**
+Il non-ricorso è il fenomeno per cui circa un terzo degli aventi diritto alle PC non le richiede. Le cause principali identificate dallo studio UFAS 2025 sono: mancanza di conoscenza dell'esistenza delle PC (23% degli interessati non ne ha mai sentito parlare); complessità della procedura di domanda (31%); paura dell'obbligo di restituzione dagli eredi (28%); mancanza di supporto (24%). Si aggiungono ostacoli strutturali come difficoltà linguistiche, mobilità ridotta e stigma.
+
+**Come si calcolano le Prestazioni Complementari? Fai l'esempio con i numeri.**
+Le PC si calcolano con la formula: uscite riconosciute − entrate disponibili = PC. Le uscite comprendono il bisogno vitale riconosciuto, l'affitto lordo e il premio cassa malati. Le entrate comprendono le rendite AVS/AI, i redditi da capitale e una quota del patrimonio (dopo deduzione di una franchigia, solo 1/10 del patrimonio residuo entra nel calcolo come reddito figurativo). Esempio del prof: uscite CHF 38.754, entrate CHF 20.325 → PC annua CHF 18.429, cioè circa CHF 1.537 al mese.
+
+**Cosa prevede la regola di restituzione delle PC agli eredi introdotta nel 2021?**
+Dal 1° gennaio 2021, gli eredi di chi ha percepito prestazioni complementari devono restituire le PC ricevute se l'eredità netta supera CHF 40.000. L'importo massimo da restituire corrisponde all'eredità netta meno CHF 40.000. Questa regola ha un effetto pratico significativo: alcune persone aventi diritto rinunciano a richiedere le PC per timore di lasciare meno patrimonio ai figli.
+
+**Qual è la differenza tra accredito educativo e accredito assistenziale nella previdenza AVS?**
+L'accredito educativo è un reddito figurativo riconosciuto per ogni anno in cui si accudisce un figlio fino ai 16 anni: viene diviso tra i due genitori e migliora la futura rendita di entrambi. L'accredito assistenziale funziona con lo stesso meccanismo, ma vale per chi si prende cura di un familiare con disabilità grave (almeno grado medio). Entrambi devono essere richiesti esplicitamente; quello assistenziale deve essere rinnovato ogni anno per iscritto.
+
+**Chi ha diritto al prelievo anticipato del capitale del secondo pilastro e a quali condizioni?**
+Il capitale del secondo pilastro può essere prelevato anticipatamente in tre situazioni: (1) acquisto di abitazione primaria; (2) avvio di un'attività indipendente; (3) abbandono definitivo della Svizzera per un paese extra-UE/AELS. Il prelievo anticipato riduce il capitale accumulato e quindi la futura rendita del secondo pilastro. Le fluttuazioni dei mercati finanziari, le lacune contributive (per lavori stagionali, disoccupazione o divorzio) rappresentano ulteriori ragioni per cui il secondo pilastro può non bastare al pensionamento.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

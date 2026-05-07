@@ -159,6 +159,28 @@ Il lavoro sociale — se fatto bene — appartiene alla seconda categoria.
 
 ---
 
+## Domande di orientamento allo studio
+
+**Qual è l'obiettivo centrale del modulo Percorsi nelle Disabilità?**
+Il modulo propone un'introduzione al mondo della disabilità mettendo al centro la persona e l'analisi della sua situazione, con l'obiettivo di sviluppare un intervento educativo attento al benessere della persona stessa. Non si tratta di memorizzare elenchi di patologie, ma di capire come la società costruisce (e decostruisce) l'idea di disabilità e come un operatore sociale può agire concretamente in quella realtà.
+
+**Come è strutturato il modulo? Quali sono i quattro percorsi tematici?**
+Il modulo si articola in quattro percorsi: (1) Percorso nei concetti — evoluzione storica dei termini e classificazioni; (2) Percorso nei modelli interpretativi — le diverse letture dell'handicap nei contesti di vita; (3) Percorso nelle situazioni di vita — handicap di situazione, valutazione, progettualità e intervento educativo; (4) Percorso nei quadri etici e legislativi — diritti, norme e servizi riferiti alle disabilità.
+
+**Qual è la differenza tra integrazione e inclusione secondo Gardou?**
+Nell'integrazione, la persona con disabilità entra in un sistema preesistente e deve adattarsi ad esso con l'obiettivo di conformarsi. Nell'inclusione, invece, è il sistema che si modifica per accogliere tutti, rendendo il contesto flessibile e accessibile: l'obiettivo non è la conformità ma la piena partecipazione. Per il lavoro sociale questa distinzione è fondamentale: operare in un'ottica inclusiva significa agire sul contesto, non solo sulla persona.
+
+**Cosa sono i cinque assiomi di Gardou e perché sono rilevanti per il lavoro sociale?**
+Gardou costruisce la sua visione di società inclusiva attorno a cinque principi: (1) il patrimonio umano e sociale appartiene a tutti; (2) nessuno ha l'esclusività della normalità — siamo tutti "singolari plurali"; (3) nessuna vita vale meno di un'altra — la vulnerabilità è universale; (4) vivere senza esistere — avere identità, voce e progetto di vita — è la forma più crudele di esclusione; (5) ogni essere umano è nato per l'equità e la libertà, quindi l'inclusione è un imperativo democratico. Questi assiomi orientano il lavoro sociale verso il riconoscimento della dignità e della soggettività di ogni persona.
+
+**Cosa distingue l'agire strumentale dall'agire comunicativo (Habermas) nel contesto del lavoro con le persone con disabilità?**
+Nell'agire strumentale l'altro viene trattato come un oggetto da gestire: la logica è quella dell'efficienza, della norma e dell'adattamento. È il modello dell'assistenzialismo e della medicalizzazione. Nell'agire comunicativo invece si instaura un rapporto dialogico autentico che riconosce l'altro come soggetto portatore di storia, desideri e diritti. Il lavoro sociale di qualità appartiene alla seconda categoria.
+
+**Come si svolge la valutazione del modulo e cosa copre ciascuna prova?**
+La valutazione è divisa in due prove: l'esame intermedio (24 marzo 2026, ore 8.45–10.15) vale il 40% del voto finale e copre i contenuti delle lezioni tra il 17 febbraio e il 17 marzo 2026; l'esame finale (giugno 2026) vale il 60% e copre le lezioni dall'1 aprile al 27 maggio 2026, con possibili connessioni alla prima parte del corso.
+
+---
+
 ## Concetti Chiave
 
 | Termine | Significato |

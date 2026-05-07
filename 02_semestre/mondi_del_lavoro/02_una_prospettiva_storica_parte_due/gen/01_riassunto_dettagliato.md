@@ -237,6 +237,28 @@ Il professore integra le schede statistiche de *Le cifre della parità* (Ustat T
 
 ---
 
+## Domande di orientamento allo studio
+
+**Quali sono i principi fondamentali del taylorismo e quali conseguenze ha avuto sull'organizzazione del lavoro?**
+Il taylorismo (Taylor, 1911) si basa su tre principi: divisione verticale del lavoro (separare chi pensa dal chi esegue — la "one best way"), divisione orizzontale (parcellizzazione e specializzazione estrema dei compiti) e sistema di controllo (capireparto che eliminano i tempi morti). Le conseguenze concrete sono gesti monotoni e ripetitivi, riduzione dell'autonomia operaia, utilizzo di manodopera poco qualificata e immigrata, e controllo serrato dei tempi di produzione.
+
+**In che cosa il fordismo supera il taylorismo e perché è considerato un "sistema completo"?**
+Ford porta i principi di Taylor alla loro logica estrema con la catena di montaggio: il controllo non è più esercitato da un essere umano (il caporeparto) ma dal ritmo della macchina, che è impersonale e implacabile. Ma il fordismo è molto di più: è un sistema che comprende produzione di massa di beni standardizzati, intervento statale nell'economia, aumento dei salari (per manodopera maschile e bianca), nascita del welfare state e dei sindacati. Gramsci analizza questo sistema come una combinazione di coercizione e consenso: il salario più alto è anche un meccanismo per ottenere l'adesione del lavoratore al nuovo ritmo produttivo.
+
+**Quali sono le cause principali della crisi del fordismo negli anni '70?**
+La crisi del fordismo è il risultato di più fattori convergenti: le critiche interne (dai sociologi delle relazioni umane, dai lavoratori con gli scioperi degli anni '60–'70, e dal management stesso per l'efficacia limitata) e una crisi strutturale negli anni '70 con la rottura degli Accordi di Bretton Woods (1973), l'intensificarsi della competizione globale, la rivoluzione tecnologica e la crisi di sovrapproduzione in un mercato dei beni di consumo ormai saturo.
+
+**Cosa distingue il modello post-fordista da quello taylorista-fordista? Usa la tabella di confronto come guida.**
+Il post-fordismo sostituisce la produzione di massa standardizzata con quella flessibile just-in-time orientata alla domanda; le grandi imprese gerarchiche con reti di piccole e medie imprese; il lavoro parcellizzato e monotono con maggiore autonomia (ma ritmi intensi); i contratti standard a piena occupazione con contratti non standard e segmentazione del mercato. La caratteristica più importante è la flessibilizzazione totale: anche i lavoratori entrano ed escono dal processo produttivo in funzione della domanda.
+
+**Che cos'è la segregazione occupazionale di genere e quali sono le sue due forme principali?**
+La segregazione occupazionale di genere descrive la distribuzione disuguale delle donne rispetto agli uomini nel mercato del lavoro. La segregazione orizzontale indica l'alta concentrazione femminile in certi settori (sanità, lavoro sociale, amministrazione) generalmente meno pagati e valorizzati rispetto a quelli tipicamente maschili. La segregazione verticale riguarda invece la gerarchia: le donne sono meno presenti ai ruoli dirigenziali (in Ticino 35,6% nel 2024) e assumono più frequentemente contratti precari. I meccanismi che producono questo effetto sono il soffitto di cristallo (barriere invisibili all'avanzamento) e l'effetto a imbuto (abbandono progressivo delle donne salendo nella gerarchia).
+
+**Quali sono i dati chiave sulla partecipazione femminile al mercato del lavoro in Svizzera/Ticino?**
+In Svizzera (2023) il tasso di attività femminile è del 62,6% contro il 72,9% maschile — un divario di 10,3 punti, in calo dal 13 del 2013. Il tasso femminile inizia a decrescere a partire dai 25 anni per motivi familiari. In Ticino (2024) il 57,7% delle donne lavora a tempo parziale, motivazione principale: cura dei figli. Il divario salariale mediano in Ticino è dell'8,4% (in calo dal 17,1% del 2010), ma la parte non spiegata — potenzialmente discriminatoria — è ancora dell'11,1%, e raggiunge il 18,7% tra i quadri medi e alti. Le donne svolgono il 60,5% del lavoro non remunerato in Svizzera.
+
+---
+
 ## Collegamenti
 
 - **Lezione 01** — Definizione di lavoro occupazionale e prima prospettiva storica (Reynaud & Maruani)

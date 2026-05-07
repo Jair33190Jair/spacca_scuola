@@ -346,6 +346,36 @@ Le tre grandi aree psicopatologiche hanno angosce e difese dominanti diverse —
 
 ---
 
+---
+
+## Domande di orientamento allo studio
+
+**Cosa insegna il mito di Perseo e Medusa sul modo di affrontare la paura? Quali sono i tre messaggi fondamentali?**
+
+Il mito trasmette tre lezioni. Prima: le paure, anche le più grandi, si possono affrontare — a condizione di attrezzarsi. Chi si avvicina a Medusa senza preparazione rimane pietrificato. Secondo: occorre un medium — non si guarda la paura frontalmente ma di riflesso. Lo scudo di Atena rappresenta la capacità di riflettere, di mediare l'incontro con la paura visto che visto di riflesso il pericolo è meno deflagrante e più trattabile. Terzo: una volta affrontata, la paura diventa risorsa — la testa di Medusa diventa il "superpotere" di Perseo. Aver elaborato le proprie paure non rende automaticamente esperti delle paure altrui (quello sarebbe empatia egocentrica), ma permette di stare vicino a qualcuno senza essere travolti.
+
+**Qual è la differenza tra paura e ansia a livello psicologico e neurologico?**
+
+La paura ha un oggetto specifico (una minaccia reale e presente), durata breve e coinvolge principalmente l'amigdala. È funzionale e porta a una risposta comportamentale precisa (fuga, attacco, mimetismo). L'ansia non ha oggetto definito, è proiettata nel futuro, dura nel tempo e coinvolge una struttura diversa, il Nucleo della stria terminale (BNST). Per Plutchik è una combinazione di paura e anticipazione: è la paura privata del suo oggetto e del suo tempo presente. Come metafora: la paura è un imbuto che si restringe verso una minaccia specifica, l'ansia è un imbuto al contrario che si allarga verso l'indeterminato.
+
+**In che modo la paura diventa disfunzionale? Descrivi i due meccanismi di inceppamento.**
+
+La paura smette di essere funzionale in due situazioni. La prima è l'intensità eccessiva: sopra una certa soglia di arousal si produce il freezing, un blocco totale invece della fuga o dell'attacco. Come nota Freud, quando l'angoscia raggiunge un'intensità eccessiva paralizza ogni azione compresa quella di fuga. Il freezing non è una scelta: è una risposta automatica all'iper-attivazione, e non va interpretata come consenso o passività volontaria. La seconda è la durata eccessiva: un pericolo percepito che perdura consuma le risorse del soggetto e può spingerlo verso soluzioni temporanee (sostanze, farmaci) per sospendere l'esposizione.
+
+**Cosa sono i meccanismi di difesa? Contro cosa difendono e come si valuta il loro grado di adattamento?**
+
+I meccanismi di difesa (MDD) sono risposte automatiche e inconsce attivate dall'Io sotto la pressione dell'angoscia. Non difendono dalla minaccia esterna, ma dall'angoscia che quella minaccia genera. Questa distinzione è cruciale: il diniego elimina l'angoscia ma non la minaccia reale che continua ad avanzare (come un neo che cambia aspetto). Anna Freud distingue tre fonti di angoscia: istintuale (dall'Es), del reale (dall'esterno) e morale (dal Super-Io). Per valutare se un MDD è adattivo o disadattivo si usano tre criteri: age adequateness (è adeguato all'età?), intensità (quanto distorce la realtà?) e balance (il soggetto usa una varietà di difese o è bloccato sulle stesse?).
+
+**Spiega la differenza tra meccanismi di difesa primitivi e maturi. Fai almeno un esempio per ciascun gruppo.**
+
+I meccanismi primitivi compaiono nella prima infanzia: sono semplici, molto efficaci nell'eliminare l'angoscia, ma distorcono molto la realtà. Esempio: il diniego — non si percepisce ciò che genera angoscia (i genitori che "non vedono" la dipendenza del figlio). Esempio: la scissione — il mondo diviso in tutto buono o tutto cattivo, senza sfumature. La presenza di meccanismi primitivi in un adulto segnala un grado elevato di angoscia, non una caratteristica di personalità. I meccanismi maturi compaiono dopo la prima infanzia: mantengono un contatto maggiore con la realtà conflittuale e la distorcono meno. Esempio: la razionalizzazione — si costruisce una spiegazione logica per evitare il contatto emotivo. Esempio maturo per eccellenza: l'umorismo — il paziente che fa battute sulla propria malattia è in contatto con la sua situazione e la elabora trasformandola in qualcosa di condivisibile.
+
+**Cosa significa "identificazione proiettiva" e qual è il suo impatto nel lavoro sociale?**
+
+L'identificazione proiettiva è un meccanismo complesso: non basta proiettare un contenuto sull'altro, si agisce nella relazione in modo che l'altro provi davvero ciò che gli è stato proiettato. Non è ipocrisia consapevole — è inconscio. Nel lavoro sociale si manifesta quando un utente con vissuto di frustrazione e fallimento porta l'assistente sociale a costruire progetto dopo progetto che fallisce, finché l'operatore prova esattamente le stesse emozioni dell'utente all'inizio: frustrazione, senso di inadeguatezza, rabbia. Ha vissuto dall'interno il mondo interno dell'utente. Riconoscere questo meccanismo permette all'operatore di non confondere le proprie emozioni indotte con una valutazione obiettiva della situazione.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

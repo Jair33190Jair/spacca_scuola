@@ -308,6 +308,28 @@ un bilancio strutturato dell'attuazione degli obiettivi.
 
 ---
 
+## Domande di orientamento allo studio
+
+**Qual era il principale problema della Società delle Nazioni e perché fu sostituita dall'ONU?**
+La Società delle Nazioni, istituita nel 1920, aveva tre debolezze strutturali: la regola dell'unanimità che paralizzava le decisioni, il predominio delle grandi potenze coloniali e l'assenza degli USA — che pure ne erano stati i promotori. Non riuscì a prevenire né la crisi degli anni '30 né la Seconda Guerra Mondiale. L'ONU nacque nel 1945 con un sistema di gestione della violenza più robusto: il Consiglio di Sicurezza con risoluzioni vincolanti e un meccanismo — il diritto di veto dei 5 permanenti — che garantiva l'adesione delle grandi potenze.
+
+**Qual è la differenza tra Assemblea Generale e Consiglio di Sicurezza dell'ONU?**
+L'Assemblea Generale è l'organo deliberativo principale: ogni Stato ha un voto, ma le sue decisioni sono raccomandazioni non vincolanti. Il Consiglio di Sicurezza è il cuore del sistema di sicurezza: 15 membri, di cui 5 permanenti (Cina, Francia, Russia, UK, USA) con diritto di veto. Le sue risoluzioni sono giuridicamente vincolanti per tutti i membri. Il veto garantisce che nessuna grande potenza sia costretta ad accettare decisioni contro il suo interesse strategico — ma è anche la principale fonte di paralisi del Consiglio.
+
+**Qual è il cambio di paradigma tra MDG e SDG? Perché è importante?**
+Gli MDG (2000–2015) erano un'agenda Nord–Sud: i paesi ricchi aiutavano quelli poveri, mettendo al centro l'umano (povertà, salute, istruzione). Non erano negoziati tra governi ma costruiti da tecnici ONU, con legittimità limitata. L'Agenda 2030 con i 17 SDG cambia tutto: al centro non c'è più solo l'umano ma il pianeta, e la responsabilità è condivisa da tutti i paesi — anche Svizzera, Germania e USA devono rendere conto. È stata negoziata per consenso dal 2011 al 2015: la massima legittimità possibile. Non è un aggiornamento di lista — è un cambio di paradigma radicale.
+
+**Cos'è il QCPR e quale problema cercava di risolvere?**
+Il QCPR (Quadrennial Comprehensive Policy Review) è lo strumento normativo principale per riformare il sistema operativo dell'ONU. La risoluzione 67/226 del dicembre 2012, adottata per consenso e facilitata da Pio Wennubst per conto della Svizzera, affrontava quattro problemi strutturali: la frammentazione tra agenzie (ognuna come un feudo separato, 17.000 report annui inutili), lo squilibrio dei finanziamenti, la complessità amministrativa e l'assenza di accountability dei risultati. La soluzione chiave fu "Delivering as One" — un unico coordinamento politico per paese tramite il Resident Coordinator — poi attuata compiutamente nel 2019.
+
+**Perché il Goal 13 fu negoziato separatamente e a Parigi?**
+Il cambiamento climatico era storicamente gestito dai ministeri dell'ambiente, separati dalla diplomazia multilaterale che governava gli altri obiettivi. I restanti 16 SDG furono negoziati a New York tra il 2013 e il 2015. Solo quando il ministro francese Fabius riuscì a trovare l'accordo alla COP21 di Parigi nel dicembre 2015 — con la partecipazione anche di paesi tradizionalmente contrari come la Cina — l'Agenda 2030 fu definitivamente completa.
+
+**Cosa si intende per "negoziato per consenso" e perché dà maggiore legittimità?**
+Un negoziato per consenso significa che tutti i governi partecipanti hanno potuto discutere e nessuno ha votato contro. Non si tratta di unanimità formale, ma di un processo negoziale dove ogni Stato può influenzare il risultato e alla fine nessuno può dire "non ero d'accordo". Questa è la massima legittimità in diplomazia multilaterale: le risoluzioni negoziate per consenso sono molto più difficili da disattendere perché non lasciano spazio all'obiezione retroattiva.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

@@ -253,10 +253,17 @@ Il pensiero complesso nasce dalla consapevolezza che non è possibile conoscere 
 
 ## Domande di orientamento allo studio
 
-- Quali sono le principali peculiarità della relazione professionale dell'operatore sociale?
-- Che cosa sono le meta-competenze? Come si costruiscono?
-- Quali atteggiamenti di fondo deve possedere un buon operatore sociale?
-- Perché è fondamentale considerare l'asimmetria nella relazione educativa?
+**Quali sono le principali peculiarità della relazione professionale dell'operatore sociale?**
+La relazione professionale dell'operatore sociale è intenzionale e finalizzata (orientata al cambiamento e alla promozione del benessere), contrattuale (si svolge in un contesto istituzionale con mandato specifico) e asimmetrica (c'è una differenza di ruoli, potere e responsabilità tra operatore e persona). A differenza di una relazione amicale, è circoscritta nel tempo e nello spazio, soggetta a supervisione e riflessione critica, e richiede che l'operatore sappia gestire la prossimità relazionale senza perdere la dimensione professionale. L'obiettivo finale è rendere l'operatore inutile — promuovere l'autonomia della persona fino a che non ha più bisogno di quell'accompagnamento.
+
+**Che cosa sono le meta-competenze? Come si costruiscono?**
+Le meta-competenze sono le competenze sulle proprie competenze — la capacità di osservare criticamente il proprio modo di lavorare, di riflettere sull'agire professionale, di riconoscere i propri punti ciechi e di continuare a imparare dall'esperienza. Non si acquisiscono una volta per tutte, ma si costruiscono in modo progressivo attraverso la pratica riflessiva (Schön), la supervisione, l'auto-osservazione e il confronto con i colleghi. Includono la capacità di contestualizzare le proprie azioni, di valutare il loro impatto, e di riadattare il proprio intervento in base al feedback della realtà.
+
+**Quali atteggiamenti di fondo deve possedere un buon operatore sociale?**
+Gli atteggiamenti fondamentali includono: l'empatia — la capacità di sentire la prospettiva dell'altro senza perdersi, di entrare nel mondo dell'altro mantenendo la propria identità professionale; l'autenticità — coerenza tra ciò che si pensa, si dice e si fa; il rispetto incondizionato della persona — al di là dei comportamenti e delle scelte che fa; la speranza — la capacità di credere nel potenziale di cambiamento della persona (Snyder); e la riflessività — il costante interrogarsi sulla propria pratica. L'operatore non porta soluzioni preconfezionate: porta una presenza professionale che crea le condizioni perché la persona possa trovare le proprie.
+
+**Perché è fondamentale considerare l'asimmetria nella relazione educativa?**
+L'asimmetria nella relazione educativa (Tramma, 2018) è strutturale e non va negata: c'è sempre una differenza di ruolo, di potere, di responsabilità tra operatore e persona. Ignorarla o negarla è pericoloso per due motivi: primo, l'operatore rischia di non vedere il proprio potere e di usarlo inconsapevolmente in modo oppressivo; secondo, si rischia di confondere la relazione professionale con un'amicizia, perdendo la distanza professionale necessaria. Riconoscere l'asimmetria non significa esercitare il potere arbitrariamente — significa usarlo consapevolmente per promuovere l'autonomia, sapendo che la posizione dell'operatore comporta sempre responsabilità etiche e deontologiche specifiche.
 
 ## Riferimenti bibliografici principali
 

@@ -620,3 +620,39 @@ non è la condizione ma la sofferenza che essa genera.
 Il filo rosso, ribadito da Cargnello fin dall'inizio,
 resta uno solo: la clinica è l'incontro con qualcuno,
 mai la gestione di qualcosa.
+
+---
+
+## Domande di orientamento allo studio
+
+**1. Qual è il filo conduttore dell'intera materia di Salute Mentale?**
+
+Il modulo costruisce progressivamente gli strumenti per incontrare chi soffre. Si parte dalle definizioni fondamentali di salute, malattia e normalità (Lez. 01) e dalla storia della psichiatria come oscillazione tra paradigma organico e passionale (Lez. 02). Si acquisiscono poi strumenti relazionali (empatia, Lez. 03), strumenti emotivi e difensivi (Lez. 04) e strumenti osservativi clinici (semiologia, Lez. 05). Infine si applicano questi strumenti ai grandi quadri clinici — sindromi affettive e ansiose, nevrosi, disturbi di personalità, psicosi, sessualità — in un continuum che va dalla nevrosi (esame di realtà mantenuto) alla psicosi (esame di realtà compromesso). Il filo rosso è sempre uno: la clinica è incontro, non classificazione.
+
+**2. Come si collega il dualismo storico Gehirnpsychiatrie/Geistespsychiatrie (Lez. 02) con i quadri clinici trattati nelle lezioni successive?**
+
+La distinzione tra psichiatria "cerebrale" (organicista) e psichiatria "dell'anima" (passionalista) attraversa tutto il corso. Le **psicosi organiche** (Lez. 09) appartengono al filone organicista: causa nota, io–qui–adesso crollato. Le **psicosi funzionali** e la schizofrenia sono multifattoriali e richiedono entrambi gli sguardi. Le **nevrosi** (Lez. 07) e i **disturbi di personalità** (Lez. 08) affondano le radici nel paradigma passionalista (traumi, conflitti, storia di vita). Anche le sindromi affettive (Lez. 06) oscillano: le depressioni endogene verso il polo biologico, le psicogene verso quello passionale.
+
+**3. Come si collegano i meccanismi di difesa (Lez. 04) con i tre grandi quadri strutturali — nevrosi, disturbi di personalità, psicosi?**
+
+I meccanismi di difesa sono il ponte tra la filiera emotiva e la struttura psicopatologica. Le **difese primitive** (diniego, scissione, proiezione, identificazione proiettiva) dominano nei **disturbi di personalità di cluster A e B** e nella struttura borderline e psicotica (Lez. 08, 09). Le **difese mature/secondarie** (rimozione, formazione reattiva, spostamento, isolamento) sono caratteristiche della **struttura nevrotica** (Lez. 07). Il tipo di angoscia prevalente orienta ulteriormente: angoscia di castrazione (nevrosi) · angoscia di abbandono (borderline) · angoscia di frammentazione (psicosi) — tutte introdotte in Lez. 04.
+
+**4. Qual è la differenza tra sintomo egodistonico ed egosintonico, e perché è clinicamente rilevante?**
+
+Il sintomo **egodistonico** è vissuto come estraneo all'io — il soggetto ne soffre, lo riconosce come problema e chiede aiuto: è la caratteristica della **nevrosi** (Lez. 07). Il sintomo **egosintonico** è vissuto come parte del sé — il soggetto non lo percepisce come problema, non soffre per esso (ma spesso fanno soffrire gli altri): è la caratteristica dei **disturbi di personalità** (Lez. 08). La distinzione è cruciale per la motivazione al trattamento: il nevrotico chiede aiuto; il soggetto con disturbo di personalità spesso no, o viene portato da altri.
+
+**5. Qual è la traiettoria dal normale al patologico che emerge dai quadri clinici, e quali sono i tre criteri per distinguerli?**
+
+Normalità e patologia non hanno un confine netto. I tre criteri trasversali — introdotti in Lez. 07 e applicabili ovunque — sono: **durata** (il sintomo è transitorio o stabile?), **intensità** (compromette il funzionamento?), **compromissione** (del lavoro, delle relazioni, della qualità della vita?). La traiettoria clinica va dalla nevrosi (conflitto egodistonico, esame di realtà integro) ai disturbi di personalità (tratti rigidi e pervasivi, egosintonia) fino alla psicosi (rottura o dissociazione radicale con la realtà). Non sono categorie separate ma gradi di compromissione crescente dell'identità e del contatto con il reale.
+
+**6. Come si collega la distinzione Körper/Leib (Lez. 10) con i temi dell'incontro clinico che attraversano tutta la materia?**
+
+La distinzione husserliana tra **Körper** (corpo-oggetto) e **Leib** (corpo-vissuto) è la versione somatica del filo conduttore dell'intero modulo. Trattare l'altro come Körper — oggetto da usare, misurare, classificare — è esattamente l'errore clinico che Cargnello critica fin dalla Lez. 02: "avere qualcosa di fronte" anziché "essere con qualcuno". Nelle parafilie (Lez. 10) questo si manifesta nel disturbo: il corpo altrui è usato come strumento senza riconoscimento soggettivo. L'empatia matura (Lez. 03) è precisamente la capacità di mantenere il registro Leib — sentire l'altro come soggetto, non come oggetto.
+
+**7. Come si leggono i disturbi di personalità di cluster A alla luce della continuità con le psicosi?**
+
+Il cluster A — paranoide, schizoide, schizotipico (Lez. 08) — si posiziona nel continuum tra personalità e psicosi. Lo **schizotipico** è quello più vicino alla psicosi franca, con distorsioni cognitive e percettive che sfiorano il delirio. Il **paranoide** usa difese primitive (proiezione, identificazione proiettiva) comuni alla struttura psicotica di Kernberg (Lez. 08, 09). Il periodo **premorboso** della schizofrenia (Lez. 09) assomiglia spesso al profilo del cluster A: ritiro progressivo, eccentricità, sospettosità. Questa continuità suggerisce che psicosi e disturbi di personalità non sono categorie separate ma punti di uno stesso spettro.
+
+**8. Come descriveresti l'approccio complessivo di questo corso alla persona che soffre?**
+
+Il corso rifiuta la logica della catalogazione: non si tratta di imparare a etichettare i disturbi, ma di sviluppare la capacità di incontrare chi soffre. Questo richiede: capire la storia (Lez. 02) per non ripetere gli errori di chi ha ridotto la follia a malattia del cervello o a vizio morale; sviluppare empatia matura con consapevolezza dei suoi limiti (Lez. 03); saper leggere le emozioni e le difese (Lez. 04); osservare con rigore semiologico (Lez. 05); conoscere i quadri clinici senza ridurre la persona ad essi (Lez. 06–10). La distinzione tra *to cure* (guarire) e *to care* (curare) — introdotta fin dalla prima lezione — è la bussola: non tutto si può guarire, ma tutto può essere curato. (Lez. 01)

@@ -1,107 +1,101 @@
-# Introduzione al modulo di Salute Mentale — Sintesi
-Salute Mentale · Sessione 01
+# Materiale Esame Finale TMIS — Progettazione — Sintesi
+TMIS · Sessione 13
 
-> Salute, benessere e normalità: tre parole che
-> sembrano semplici, ma non lo sono per niente.
-> Questa lezione smonta le certezze e costruisce
-> basi solide per tutto il modulo.
-
-## Struttura del modulo
-
-- Tre tappe: **clinica**, **mondo**, **corpo**
-- Attraversate da: spazio, tempo, identità,
-  incontro
-- L'operatore sociale come ponte tra discipline
-  specialistiche, non specialista di una sola
-
-## Salute: le 7 condizioni di Boorse (1977)
-
-Nessuna delle sette regge da sola:
-- **Valore** — non universale: contesti in cui
-  la malattia è "preferibile" esistono
-- **Trattamento medico** — la medicina colonizza
-  ambiti non patologici
-- **Norma statistica** — fuori dalla media ≠ malato
-- **Sofferenza** — malattie asintomatiche e
-  dolori fisiologici esistono
-- **Disabilità** — fasi di "non abilità" sono
-  normali nella vita (neonato, sonno)
-- **Adattamento** — l'uomo adatta anche l'ambiente
-  a sé, non solo il contrario
-- **Omeostasi** — la vita si fonda sulla rottura
-  e riconquista dell'equilibrio, non sull'equilibrio
-  statico
-
-## Disease, illness, sickness
-
-- **Disease** → dimensione biomedica (misurabile)
-- **Illness** → vissuto soggettivo della persona
-- **Sickness** → riconoscimento/stigma sociale
-- Le tre dimensioni possono non coincidere — e lo
-  stigma sociale peggiora l'andamento della malattia
-
-## Benessere: le 6 dimensioni di Ryff
-
-- **Autonomia** — autodeterminarsi senza dipendere
-  dagli altri per ogni scelta
-- **Controllo ambientale** — valorizzare le risorse
-  disponibili
-- **Relazioni positive** — relazioni calde, fiduciose,
-  reciproche
-- **Autoaccettazione** — consapevolezza di qualità
-  e limiti
-- **Percezione di crescita** — sentire di evolvere
-- **Scopo nella vita** — avere mete e dare senso
-
-Salute ≠ benessere. Si può stare bene senza essere
-in salute (Terzani) e male pur essendo "sani".
-Per l'operatore: queste dimensioni rendono il lavoro
-sul benessere *concreto e operativo*.
-
-## Tre tipi di normalità
-
-- **Statistica** — nella media; fuori dalla norma
-  porta stigma
-- **Di valore** — ideale irraggiungibile → sofferenza
-  perpetua; attenzione: anche i *nostri* ideali sugli
-  utenti possono diventare penalizzanti
-- **Personale** — rispetto a come funzionavo prima;
-  attenzione a non idealizzare il passato, e a non
-  considerare quella normalità come obiettivo se era
-  proprio lei la causa del problema
-
-## Posizione del soggetto verso la malattia
-
-Due assi: **identificazione** con la condizione ×
-**agentività** (attivo/passivo)
-
-- Passivo + non identificato → **delega** ("guariscimi")
-- Agentivo + non identificato → **guarigione** come
-  unico obiettivo
-- Agentivo + identificato → **cura**: lavora sul
-  benessere dentro la condizione
-
-Passaggio chiave: dalla guarigione alla cura.
-*To cure* ≠ *to care*: la cura è sempre possibile,
-anche quando la guarigione non lo è.
-
-## La tragedia greca
-
-- Dispositivo pedagogico parallelo al modulo
-- 5 gruppi, 5 tragedie per estrazione
-- Tappe: leggere → condividere → sintetizzare →
-  mettere in scena (~20 min)
-- Allena: ascolto di linguaggi non familiari, lavoro
-  di équipe, sintesi, capacità di rinuncia
-- Quest'anno tutte le tragedie convergono sulla
-  violenza sulle donne nei conflitti armati —
-  tema antico e attualissimo (Nadia Murad, Congo,
-  Iraq)
+> La progettazione è il cuore metodologico del lavoro sociale: non un prodotto tecnico ma un processo dialogico e partecipato, co-costruito con tutte le persone coinvolte.
 
 ---
 
-**Da ricordare:** salute, benessere e normalità
-sono tre concetti distinti ma intrecciati. La cura
-è sempre possibile, anche quando la guarigione non
-lo è. Il contesto è fondamentale per interpretare
-qualsiasi comportamento.
+## Definizione e Postura Progettuale
+
+- **Progettare** = gettare qualcosa in avanti (*pro-iectum*); orientare trasformazione e cambiamento
+- La progettazione è complessa sul piano logico, metodologico e relazionale
+- **Postura progettuale** (Brambilla): atteggiamento riflessivo e intenzionale che caratterizza il professionista — va oltre la «mera ansia applicativa»
+- **Progettualità** = asse di continuità tra proposito e razionalità; richiede intenzionalità (Ferguson, 2001)
+
+---
+
+## I Tre Modelli di Progettazione
+
+| Modello | Caratteristica chiave |
+|---------|----------------------|
+| **Sinottico-razionale** | Lineare, causalità diretta, operatore decide tutto; destinatari = oggetti |
+| **Concertativo-partecipativo** | Circolare/spirale, co-costruzione dialogica, corresponsabilità; destinatari = co-autori |
+| **Euristico** | Problem solving cooperativo, obiettivi co-costruiti in corso d'opera |
+
+- **Bachtin** (1895-1975): padre del termine "dialogico"
+- **Arnkil & Seikkula:** il dialogo è «l'arte di valicare i confini»
+- La questione centrale: costruire un **significato comune del problema** prima della soluzione
+- Il modello concertativo rifiuta la lettura «a priori» dei bisogni; usa una **razionalità plurima** (Bruner, 1991)
+
+---
+
+## Livelli di Partecipazione (O'Sullivan)
+
+- **A — Being in control:** massima autodeterminazione (livello ideale)
+- **B — Being a partner:** decisionalità condivisa (livello **minimo** a cui i servizi dovrebbero aspirare)
+- **C — Being consulted:** le opinioni sono considerate, ma decidono i professionisti
+- **D — Being told:** comunicazione unidirezionale → prospettiva oppressiva/disabilitante
+
+La progettazione dialogica mira a muoversi tra A e B.
+
+---
+
+## Processo Tipo del Progetto di Vita (PdV)
+
+Il **PdV** supera PSI/PEI: è co-costruito e centrato sulla vita globale della persona.
+
+### Conoscenza del contesto (Tramma, 2018)
+Tre livelli: 1) contesto socio-culturale (popolazione, ambiente, servizi, storia); 2) istituzione (mandato, modello, équipe); 3) auto-osservazione dell'operatore (premesse personali + risorse/limiti)
+
+### Ideazione
+- Nascita e analisi della prima idea di progetto
+- Co-costruzione: analisi situazione-problema, individuazione risorse e bisogni emancipativi
+- **Problema** = distanza tra situazione esistente e auspicata
+- **Analisi pedagogica (Brambilla):** evitare letture deterministiche, oggettivizzazione, ineducabilità preconcetta
+
+### Desideri, Aspirazioni, Capabilities
+- **Desiderio** (breve termine, impulso) vs **Aspirazione** (lungo termine, tendenza orientata)
+- **Appadurai:** aspirare = capacità di immaginare un futuro migliore; richiede capacità culturale, di navigare norme, di «voce»
+- **Sen:** valorizzare le **capabilities** di tutte le persone; anche le vulnerabili sono risorse sociali
+
+### Attivazione (negoziazione)
+- Definizione della **rete** da coinvolgere
+- **Facilitatore:** l'operatore aiuta a costruire una **lettura condivisa**
+- Ostacoli: slogan cristallizzati, resistenza ai punti di vista altrui, ansia di «fare» prima di concordare
+- **Funzioni degli obiettivi** (Traverso): orientativa, comunicativa, decisionale, valutativa
+- **Obiettivi generali** (medio-lungo termine, verbi all'infinito) → **obiettivi specifici** (breve-medio, prestazioni osservabili)
+- **ZSP (Vygotskij):** differenza tra ciò che la persona sa fare da sola e con aiuto → calibra il realismo degli obiettivi
+- **Obiettivi SMART:** Semplice · Monitorabile · Auspicabile · Realistico · Temporale
+- **Azioni progettuali:** pianificazione dettagliata (chi fa cosa, con che risorse, in che tempo)
+
+### Scrittura, Realizzazione, Verifica
+- **Scrittura:** dichiarare e lasciare traccia condivisibile
+- **Realizzazione:** monitoraggio continuo con griglie e diario di bordo
+- **Valutazione continua:** efficacia, coerenza, integrazione
+- **Verifica finale:** scarto tra attese e risultati, inclusi **esiti inattesi**
+
+---
+
+## L'Osservazione nella Progettazione
+
+- **Etimologia:** *ob + servare* = stare attento verso
+- **Guardare** (atto analitico) vs **Vedere** (presa di coscienza e comprensione)
+- L'osservazione accompagna **tutto il processo** progettuale, non solo una fase
+- **5 componenti:** curiosità · soggetto · oggetto · obiettivo · tempo e spazio
+- **Auto-osservazione costante:** l'osservatore produce effetti sul contesto → Bateson: osservare «con occhi differenti»
+
+### Tipologie
+- Occasionale · Documentaria · **Partecipante** (Malinowski, visione «dal di dentro», limite: effetto Hawthorne) · Sistematica (limite: parcellizza) · Con tecniche narrative
+
+### Tecniche narrative
+- **Annotazioni aneddotiche** (incidenti critici sintetici) · **Diario di bordo** (narrativo, descrittivo + interpretativo) · **Verbale** (équipe, memoria delle scelte)
+
+### Tecniche sistematiche
+- **Check-list** · **Griglia** (doppio asse osservatore/osservato) · **Scale di valutazione** · **Videoregistrazione**
+
+### Accorgimenti per la soggettività (Braga, 1994)
+Chiarezza obiettivi · osservazioni ripetute · trascrizione rapida · strumenti testati · più osservatori · raccolta dati sul contesto · precisione temporale · linguaggio descrittivo
+
+---
+
+**Da ricordare:** Il modello concertativo-partecipativo co-costruisce significati con i protagonisti (livello B di O'Sullivan come minimo) · Gli obiettivi SMART ancorati alla ZSP di Vygotskij sono il cuore operativo della progettazione · L'osservazione è uno sguardo intenzionale che accompagna tutto il processo, non un atto isolato

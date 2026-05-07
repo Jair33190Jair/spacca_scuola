@@ -266,6 +266,32 @@ Errore da evitare: dedurre la diagnosi dalla terapia. Il paracetamolo si prende 
 
 ---
 
+---
+
+## Domande di orientamento allo studio
+
+**Qual è la differenza tra segni e sintomi in semiologia psichiatrica? Fai un esempio per ciascuno.**
+
+I segni sono indicatori di malattia oggettivamente rilevabili dal curante dall'esterno — ad esempio un tremore, la frequenza cardiaca, o la mimica ridotta (amimia). I sintomi sono invece indicatori soggettivi riferiti dal paziente, come il mal di testa, la sensazione di angoscia o la mancanza di piacere. La distinzione è fondamentale perché cambia il punto di vista: il segno è ciò che osservo io; il sintomo è ciò che l'altro mi racconta di vivere. In psichiatria, la perdita dell'ascolto del sintomo (cioè della parola del paziente) è stato uno dei rischi storici dell'approccio organicista di Kraepelin.
+
+**Descrivi le principali alterazioni della coscienza dal punto di vista quantitativo e qualitativo. Qual è clinicamente il più grave?**
+
+Le alterazioni quantitative seguono una scala progressiva: lucidità → ottundimento → torpore → sopore → coma. Il torpore è già clinicamente rilevante perché il paziente, se non stimolato, perde i sensi. Le alterazioni qualitative includono lo stato confusionale/delirium, la mania à potu (stato maniacale da bassi quantitativi di alcol, da distinguere dal delirium tremens che è sindrome da astinenza), lo stato crepuscolare, lo stato oniroide, l'automatismo e lo stupore. Il disorientamento nella persona (non sapere chi si è) è clinicamente il più grave, specialmente se associato a disorientamento in spazio e tempo — segnala una problematica cerebrale seria.
+
+**Distingui illusione da allucinazione. Quando l'illusione non è patologica?**
+
+L'illusione è un'interpretazione erronea di uno stimolo reale presente: la realtà c'è, ma viene percepita in modo distorto. Può essere da completamento (il cervello completa un'immagine incompleta, come nel triangolo di Kanizsa) o affettiva (lo stato emotivo altera l'interpretazione, come il bambino che vede una sagoma spaventosa nel buio dove c'è solo il maglioncino). Non è necessariamente patologica. L'allucinazione invece è una percezione in assenza di oggetto: non c'è nessuno stimolo reale, ma la persona la vive come reale — può riguardare tutti i sensi. Forme non patologiche di allucinazione possono comparire dopo 48 ore senza dormire.
+
+**Cos'è l'anosognosia e perché è rilevante clinicamente?**
+
+L'anosognosia è l'incapacità di riconoscere il proprio stato di malattia. Non è negazione volontaria o meccanismo di difesa: è un deficit neurologico. La persona non sa di stare male. Questo ha implicazioni pratiche importanti: un paziente che non riconosce la propria condizione non cercherà aiuto e non sarà in grado di partecipare attivamente alla presa in carico. È frequente nelle demenze avanzate e in alcune forme di schizofrenia. Per l'operatore sociale è fondamentale distinguerla dal diniego — la risposta relazionale e clinica è molto diversa.
+
+**Cosa deve sapere un operatore sociale sui principali farmaci psichiatrici? Quali sono i rischi chiave legati agli antidepressivi?**
+
+L'operatore sociale deve conoscere le classi principali: antipsicotici (agiscono sui sintomi positivi — deliri, allucinazioni), antidepressivi (usati anche per ansia, DOC, disturbi alimentari — non solo per la depressione), ansiolitici come le benzodiazepine (effetto immediato ma rischio di dipendenza), stabilizzatori dell'umore come i sali di litio (richiedono monitoraggio ematico regolare). Il rischio chiave degli antidepressivi è la bifasicità: passano 2-3 settimane prima che il paziente senta l'effetto, e nelle prime settimane il rischio suicidario può aumentare — il paziente va informato e accompagnato. Un altro rischio è che il paziente interrompa la terapia da solo quando si sente meglio, esponendosi a recidive che rispondono meno al farmaco.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

@@ -367,6 +367,25 @@ incertezze. Non è possibile fissare caratteristiche distintive rigide.
 
 ---
 
+## Domande di orientamento allo studio
+
+**Quali sono i quattro punti di vista per definire l'adultità e quale ha più valore psicologico?**
+L'adultità può essere definita sul piano 1) etimologico (adultus = cresciuto, che ha raggiunto maturità); 2) normativo (marcatori legali: maggiore età, diritto di voto, responsabilità penale); 3) cronologico (convenzionalmente 20-60 anni, suddiviso in prima e seconda adultità); 4) psicologico — il più ricco. Sul piano psicologico emerge il contributo dei grandi teorici: Jung con il processo di individuazione, Erikson con gli stadi di intimità e generatività, Levinson con il modello delle "stagioni della vita". I soli criteri normativi e cronologici non bastano a definire un adulto psicologicamente maturo.
+
+**Cosa si intende per processo di individuazione in Jung e come si collega alla "fase di mezzo"?**
+Per Jung l'individuazione è il percorso con cui l'individuo emerge dall'indifferenziazione e diventa pienamente se stesso — un processo di integrazione tra le diverse parti della psiche (conscio, inconscio personale, inconscio collettivo). Si attiva in modo decisivo intorno ai 35-40 anni, nella cosiddetta "età del dubbio": i sogni dell'infanzia si spezzano e emerge la tensione tra due archetipi interni — il Puer (parte infantile, creativa, esplorativa) e il Senex (parte responsabile, stabile, ordinata). La maturità adulta consiste nell'integrare entrambi: non eliminare il Puer, ma dargli forma attraverso il Senex.
+
+**Quali sono i compiti evolutivi della Novice Phase di Levinson e cosa significa il "Sogno"?**
+Levinson chiama Novice Phase la prima adultità, suddivisa in tre momenti: Early Adult Transition (separazione dal mondo pre-adulto, indipendenza economica), Entering the Adult World (prima struttura adulta, provvisoria) e Age Thirty Transition (opportunità di modificare quella struttura, presa di coscienza che il tempo non è infinito). I quattro compiti centrali sono: creare un Sogno (visione possibile di sé, motore dell'azione), trovare un mentore, radicarsi professionalmente, costruire relazioni mature. Il Sogno è cruciale: è una visione ancora poco articolata di sé futuro, che genera vitalità e guida le scelte, anche se deve poi fare i conti con i limiti del reale.
+
+**Come cambia il pensiero cognitivo nell'adultità secondo Warner Schaie?**
+Schaie (1977-78) descrive tre stadi cognitivi: la fase acquisitiva (infanzia/adolescenza) centrata sull'imparare, la fase realizzativa/esecutiva (età adulta) centrata sull'applicare le conoscenze per obiettivi concreti, e la fase reintegrativa (terza età) centrata sul selezionare ciò che ha valore personale. Il pensiero adulto si distingue da quello adolescenziale perché rinuncia al pensiero in assoluti razionali e sviluppa un pensiero soggettivo, pratico e integrativo — sa compensare una minore velocità con una maggiore capacità di integrare le esperienze. Questo corrisponde al pensiero post-formale (quinto stadio) introdotto nella lezione 02.
+
+**Cos'è la generatività in Erikson e quali sono le 12 funzioni della genitorialità?**
+La generatività è il bisogno psichico di relazionarsi con gli altri e di lasciare un impatto positivo sulle generazioni future — non solo come genitori, ma come mentori, professionisti, educatori. Si colloca nello stadio 7 di Erikson (generatività vs stagnazione, 30-60 anni). Le 12 funzioni della genitorialità sono: protettiva, affettiva, regolativa, normativa, predittiva, rappresentativa, significante, fantasmatica, proiettiva, triadica, differenziale e transgenerazionale. Queste funzioni non presuppongono necessariamente la nascita di un figlio biologico: la genitorialità è uno spazio mentale e relazionale che fa parte dello sviluppo di ogni persona adulta.
+
+---
+
 ## Collegamenti
 
 - **Lezione precedente (Adolescenza):** la trascrizione di questa sessione tratta

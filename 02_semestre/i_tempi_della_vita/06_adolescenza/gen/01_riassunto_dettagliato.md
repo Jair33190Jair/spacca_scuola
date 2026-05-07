@@ -224,6 +224,25 @@ Togliere il sintomo senza capirlo è pericoloso. Banalizzarlo ("è una ragazzata
 
 ---
 
+## Domande di orientamento allo studio
+
+**Cosa si intende per "moratoria psicosociale" di Erikson e perché è importante per lo sviluppo dell'identità?**
+La moratoria psicosociale è uno spazio temporale "protetto" in cui l'adolescente può sperimentare ruoli diversi — a scuola, nei gruppi, nelle relazioni — senza che le scelte siano ancora definitive. È il periodo in cui l'Io lavora su due processi complementari: la sperimentazione (provare ruoli e identità diverse) e l'identificazione (integrare elementi presi da persone significative). Se questo processo funziona si arriva all'identità dell'Io — sapere chi si è, conoscer il proprio posto nel mondo. Se fallisce si produce confusione dei ruoli. Erikson sottolinea che perché questo funzioni serve anche una cultura adulta convenzionale come struttura di riferimento contro cui definirsi.
+
+**Quali sono i quattro stati dell'identità identificati da Marcia e come si distinguono?**
+Marcia operativizza il modello eriksoniano identificando quattro stati basati su due variabili — esplorazione (ha cercato e sperimentato?) e impegno (ha fatto scelte?): 1) Acquisizione — ha esplorato e fatto scelte consapevoli; 2) Chiusura — si è impegnato ma sulle identità dell'infanzia senza mai metterle in discussione; 3) Moratorium — sta ancora esplorando, la crisi è aperta; 4) Diffusione — tentativi superficiali, nessun impegno reale.
+
+**Cosa si intende per separazione-individuazione in adolescenza e perché è diversa da quella dei 1-3 anni?**
+La separazione-individuazione adolescenziale (Blos, 1962) è il "secondo processo di separazione-individuazione": il primo (1-3 anni) era una separazione fisica dalla madre, questo è più profondo — è una separazione esistenziale dalle immagini idealizzate dei genitori interiorizzate nell'infanzia. L'adolescente deve ridimensionare le figure genitoriali onnipotenti dell'infanzia (il papà supereroe, la mamma onnipotente), e questo fa male perché è una perdita. Il processo è sempre ambivalente: l'adolescente vuole separarsi e nello stesso tempo tornare — il che spiega comportamenti apparentemente contraddittori come fare il diavolo a quattro a casa ma essere educato fuori.
+
+**Cosa dice la neuroscienze sul cervello adolescente e come si traduce nel comportamento?**
+Il cervello adolescente presenta una asimmetria di maturazione: il sistema limbico (emozioni, ricompensa) matura prima della corteccia prefrontale (controllo degli impulsi, pianificazione, valutazione del rischio). Questo crea emozioni fortissime con freni ancora in sviluppo. Le tre conseguenze concrete sono: aumento dell'impulsività, maggiore predisposizione alle dipendenze (sistema dopaminergico ipersensibile), e a volte iper-razionalità. Ma Siegel sottolinea anche il lato positivo: questo stesso cervello è fonte di creatività, intensità emotiva e apertura alle novità — quella che lui sintetizza nell'acronimo ESSENza: Esplorazione creativa, Socialità, Effervescenza emotiva, Novità.
+
+**Come si leggono i sintomi adolescenziali nel lavoro educativo e sociale?**
+Secondo Lancini, il sintomo adolescenziale non va né patologizzato né banalizzato: va letto come un linguaggio. Il sintomo ha due funzioni: segnala il disagio (comunica il dolore, chiede aiuto) e funziona da automedicazione (è il modo che il ragazzo ha trovato per non essere sopraffatto dall'insopportabile). Togliere il sintomo senza capirlo è pericoloso. Il compito dell'adulto è allearsi con il sintomo — capirne le ragioni, drammatizzarlo nella giusta misura, aiutare il ragazzo a tradurlo in parole. In preadolescenza le emozioni non riescono a essere pensate e quindi si agiscono (acting out): compito dell'adulto è dare significato all'azione, non solo punirla.
+
+---
+
 ## Collegamenti
 
 - **Lezioni precedenti (Erikson, stadi)**: L'adolescenza è il quinto stadio del ciclo di vita eriksoniano. Tutto lo sviluppo precedente è il "bagaglio" con cui si parte.

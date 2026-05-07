@@ -250,6 +250,32 @@ Come stare accanto a una persona con DOC? Il prof. Pezzoli ha dato indicazioni c
 
 ---
 
+---
+
+## Domande di orientamento allo studio
+
+**Cosa si intende per sintomo egodistonico e perché è un elemento centrale nella diagnosi delle nevrosi?**
+
+Egodistonico significa che la persona è consapevole dell'irrazionalità dei propri sintomi: li vive come disturbanti, come qualcosa di estraneo a sé che non vorrebbe avere. Questa consapevolezza porta la persona a soffrire per i propri sintomi e a chiedere aiuto più facilmente. È il contrario di egosintonico, che caratterizza invece i disturbi di personalità: lì la persona vive i propri tratti come parte di sé, non li riconosce come problematici, e spesso sono i familiari o le terze parti a portarla in cura. Esempio concreto: chi soffre di DOC sa benissimo che i rituali sono irrazionali, ma non riesce a farne a meno — è egodistonico. Chi ha invece il disturbo ossessivo-compulsivo di personalità (DOCP) pensa che il suo modo di controllare e organizzare il mondo sia semplicemente corretto — è egosintonico.
+
+**Quali sono i tre criteri per distinguere una preoccupazione normale da un disturbo nevrotico?**
+
+I tre criteri sono durata, gravità e profondità. La durata indica che i sintomi persistono nel tempo — il DSM specifica criteri per ogni disturbo, spesso almeno 6 mesi. La gravità indica che i sintomi si presentano con intensità elevata e ripetutamente, non una tantum. La profondità o compromissione funzionale indica che i sintomi interferiscono significativamente con aree importanti della vita: lavoro, relazioni, vita quotidiana. Tutti e tre devono essere presenti: un'ansia intensa ma passeggera, o un'ossessione lieve che non compromette il funzionamento, non costituiscono automaticamente un disturbo.
+
+**Descrivi la differenza tra ossessione e compulsione nel DOC. Perché la compulsione dà sollievo e non piacere?**
+
+Le ossessioni sono pensieri, immagini o impulsi non desiderati, vissuti come ripugnanti, minacciosi o privi di senso — incontrollabili e incongruenti con i valori della persona. Le compulsioni sono rituali comportamentali o azioni mentali ripetitive messe in atto per ridurre l'ansia generata dalle ossessioni. La compulsione non è agita per piacere: la persona vi trova sollievo. Piacere e sollievo sono cose diverse. Il piacere è un movimento verso qualcosa che dà gratificazione; il sollievo è un movimento di allontanamento da qualcosa di disagevole. La compulsione riduce temporaneamente l'ansia ma non risolve il problema di fondo — anzi, rafforza nel tempo il ciclo ossessione-compulsione.
+
+**Cosa si intende per struttura nevrotica secondo Bergeret? Qual è la differenza tra struttura e patologia?**
+
+Bergeret distingue strutture della personalità più stabili — nevrotica e psicotica — e organizzazioni limite (borderline) nel mezzo. Avere una struttura nevrotica non significa essere malati: è un modo di funzionare. La patologia emerge solo quando si verifica uno scompenso, cioè una rottura dell'equilibrio causata da eventi stressanti o traumi. La struttura nevrotica è caratterizzata dal Super-Io come istanza dominante, dall'angoscia di castrazione (paura di perdere qualcosa seguendo i propri desideri), dal conflitto edipico e dalla rimozione come meccanismo difensivo principale. La diagnosi di struttura si pone solo in età adulta (circa dai 20-25 anni).
+
+**Come si spiega il meccanismo della conversione nell'isteria? Dove si situa il sintomo?**
+
+Nella nevrosi isterica il luogo del sintomo è il corpo. Il meccanismo della conversione trasferisce sul piano somatico un conflitto psichico che non riesce a essere elaborato a livello psicologico: un conflitto tra desiderio e regola trova espressione corporea. Il sintomo somatico diventa un compromesso tra l'emergenza di una pulsione e la paura che questo avvenga. Esempi storici: paralisi, anestesie, disturbi motori o della vista senza causa organica. La struttura isterica usa la rimozione come meccanismo difensivo prevalente e si suddivide in isterica di conversione (sintomi fisici) e isterica d'angoscia (fobie — l'angoscia viene spostata su un oggetto simbolico esterno).
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

@@ -281,6 +281,28 @@ L'opuscolo descrive una rete articolata:
 
 ---
 
+## Domande di orientamento allo studio
+
+**Perché il grado di invalidità è una definizione economica e non medica? Fai un esempio.**
+Il grado di invalidità misura la perdita di capacità di guadagno, non lo stato fisico o psichico. Si calcola confrontando il reddito ipotetico che la persona avrebbe senza invalidità con il reddito effettivo che potrebbe ragionevolmente ottenere con la sua condizione attuale. Esempio: una persona su sedia a rotelle che svolgeva lavoro impiegatizio con reddito di CHF 60.000 e che potrebbe continuare a lavorare in ufficio con reddito di CHF 40.000 avrà un grado di invalidità del 33% (inferiore alla soglia del 40%) e non avrà diritto a rendita AI. Il danno fisico esiste, ma la capacità di guadagno non è sufficientemente ridotta.
+
+**Come si calcola il grado di invalidità e quali sono le soglie per la rendita AI?**
+Formula: grado di invalidità = (perdita di guadagno / reddito senza invalidità) × 100. Esempio: reddito senza invalidità CHF 60.000, reddito d'invalido CHF 20.000 → perdita CHF 40.000 → grado 67%. Le soglie: sotto il 40% nessuna rendita; tra 40-49% rendita proporzionale graduale; tra 50-69% rendita proporzionale al grado (es. 55% → 55% della rendita intera); dal 70% in su rendita intera. La rendita intera varia da CHF 1.260 a CHF 2.520 al mese.
+
+**Quali sono le tre fasi della procedura AI dall'inizio alla decisione?**
+Le tre fasi sono: (1) rilevamento tempestivo entro 30 giorni dall'insorgenza del problema di salute sul lavoro — scatta prima che la situazione si cronicizzi; (2) intervento tempestivo, durata massima 12 mesi e spesa massima CHF 20.000, con misure pratiche come adeguamento del posto di lavoro, orientamento professionale, riabilitazione socio-professionale; (3) decisione finale con tre possibili esiti: ulteriori provvedimenti di integrazione, esame del diritto alla rendita, o nessuna prestazione.
+
+**Cos'è il contributo per l'assistenza AI e come si differenzia dall'indennità di assistenza IPG?**
+Il contributo per l'assistenza AI (CHF 35.30/ora base, CHF 52.95/ora con qualifiche) è versato a persone invalide per pagare un assistente esterno (non un familiare stretto) che le accudisce a domicilio. Serve per evitare il ricovero in istituto, che costerebbe di più. L'indennità di assistenza IPG è invece una misura diversa: spetta ai genitori che devono assentarsi dal lavoro per accudire un figlio minorenne con gravi problemi di salute, per un massimo di 98 giorni nell'arco di 18 mesi. I due strumenti non vanno mai confusi.
+
+**Chi sono i familiari curanti e quali rischi corrono (caregiver burden)?**
+Il familiare curante è chi presta regolarmente assistenza non professionale a una persona dipendente da terzi. In Ticino sono oltre 50.000, il 55% donne, il 63% occupati professionalmente. Si occupano di economia domestica, coordinamento delle cure, questioni amministrative, sorveglianza, aiuto infermieristico. Il rischio principale è il caregiver burden: isolamento sociale, ansia, disturbi del sonno, stanchezza fisica e psichica. Il sistema prevede strumenti di sostegno: congedo di assistenza (max 10 giorni/anno), accrediti assistenziali per la futura rendita AVS, rete di servizi SACD, centri diurni, soggiorni di sollievo.
+
+**Perché l'assistenza sociale non è un'assicurazione sociale e come si distingue?**
+L'assistenza sociale è una prestazione commisurata al bisogno, non un'assicurazione sociale. Non è finanziata da contributi prelevati sul salario ma da fondi cantonali (imposte). Non si basa sul principio assicurativo — non occorre aver versato contributi per accedervi — ma sulla prova dei mezzi: si riceve solo se reddito e patrimonio sono insufficienti a coprire il minimo vitale. È l'ultima rete di sicurezza del sistema, interviene in modo sussidiario dopo tutte le assicurazioni sociali.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

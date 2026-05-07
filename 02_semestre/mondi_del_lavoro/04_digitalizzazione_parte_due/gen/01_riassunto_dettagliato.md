@@ -213,6 +213,28 @@ Il testo allegato parla esplicitamente di **"cyborg working class"** — una cla
 
 ---
 
+## Domande di orientamento allo studio
+
+**Quali sono i due scenari contrapposti sul futuro del lavoro nell'era dell'IA e quale posizione prende il professore?**
+Lo scenario catastrofista prevede la perdita di centinaia di milioni di posti di lavoro, perché l'IA automatizza non solo mansioni fisiche ma anche cognitive — la novità rispetto alle rivoluzioni precedenti è che ora si automatizza "anche la testa". Lo scenario tecno-ottimista sostiene che, come nelle rivoluzioni precedenti, si perderanno certi lavori ma ne nasceranno di nuovi. Il professore non si schiera: il suo obiettivo è mostrare che entrambe le narrazioni esistono e si scontrano, e che capirlo aiuta a leggere i dibattiti attuali.
+
+**Come funziona l'organizzazione del lavoro in un magazzino Amazon e qual è il ruolo della gamification?**
+Amazon organizza le merci in modo apparentemente caotico (una maglietta del Barcellona vicino a una penna), seguendo la logica dell'algoritmo: la vicinanza di oggetti diversissimi riduce gli errori umani. I lavoratori ricevono istruzioni vocali e sono continuamente monitorati su velocità e precisione. La gamification è esplicita: musica diffusa, competizioni a chi è più veloce, sistemi di punteggio. Lo slogan sui muri — "Work hard, have fun, make history" — traduce logiche da videogioco in strumenti di controllo del lavoro: i meccanismi sviluppati per mantenere alta la motivazione nei giochi vengono usati per aumentare la produttività, non il divertimento.
+
+**In che cosa consiste il mito dell'"imprenditore di se stesso" nelle piattaforme come Uber?**
+Le piattaforme presentano i loro lavoratori come imprenditori liberi: hanno i propri mezzi (auto, bici, cellulare), decidono quando lavorare. Il professore smonta questa narrazione: il mezzo di produzione decisivo non è la bici — è l'applicazione, che appartiene alla piattaforma. Senza l'app, la bici non vale nulla in quel contesto. L'auto-imprenditorialità è quindi una narrazione ideologica che serve a eliminare garanzie e tutele del lavoro dipendente, scaricare sul lavoratore tutti i rischi (incidenti, periodi senza ordini, manutenzione), e aumentare la flessibilità a vantaggio della piattaforma.
+
+**Cos'è il cottimo, perché era una battaglia sindacale dell'Ottocento e come è tornato nel lavoro digitale?**
+Il cottimo è il pagamento per unità prodotta (per consegna, per corsa) invece che per ore lavorate. Nell'Ottocento i lavoratori si batterono per essere pagati a tempo, non a pezzo, perché il cottimo li spingeva a correre sempre di più senza tutele in caso di periodi morti. Con le piattaforme digitali il cottimo è tornato mascherato da flessibilità: il rider disponibile dalle 18 alle 22 guadagna solo per le consegne effettuate, non per le ore di disponibilità. Questo crea una distinzione tra lavoro potenziale (la disponibilità, non pagata) e lavoro in atto (la consegna, pagata), con una competizione automatizzata tra lavoratori spinti dall'algoritmo.
+
+**Qual è il problema della distribuzione della ricchezza creata dall'automazione, secondo il professore?**
+Il professore cita Christian Marazzi: automatizzare il lavoro delegando alle macchine non è di per sé negativo — è sempre stato così nella storia (dal fuoco alla trebbiatrice). Il problema non è l'automazione, ma la distribuzione della ricchezza che ne deriva. Nelle società occidentali del dopoguerra la distribuzione era come una "botte" — ampia al centro (ceto medio). Negli ultimi decenni c'è stata una polarizzazione: la botte si è sgonfiata al centro. Sempre meno persone stanno nel mezzo, mentre pochissime accumulano enormi patrimoni (Elon Musk ha superato i 1000 miliardi). La macchina produce più ricchezza, ma quella ricchezza finisce nelle mani di chi possiede la macchina.
+
+**Cosa sono i dati come "petrolio digitale" e quali sono i rischi e le opportunità del loro utilizzo?**
+I dati personali sono la principale materia prima dell'economia digitale: le piattaforme li raccolgono gratuitamente attraverso l'uso dei servizi (Instagram, Google Maps), li usano per pubblicità mirate e li vendono ad aziende terze. In questo senso noi lavoriamo — produciamo dati preziosi — senza essere pagati. I rischi sono la sorveglianza, il controllo sociale e la profilazione politica (il prof cita Cambridge Analytica). Le opportunità sono reali: i dati hanno permesso di sviluppare il vaccino Covid-19 in tempi record grazie alla capacità dell'IA di elaborare enormi quantità di dati medici.
+
+---
+
 ## Collegamenti
 
 - **Sessione 03 (Digitalizzazione — Parte 1):** questa lezione continua direttamente da quella precedente, che aveva introdotto globalizzazione e rivoluzione industriale. Qui si entra nello specifico del lavoro digitale.

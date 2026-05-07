@@ -352,6 +352,39 @@ La professoressa ha indicato esplicitamente i temi d'esame:
 | **Egodistonia** | Condizione vissuta con disagio dal soggetto stesso |
 | **Patogenetico** | Che genera/causa patologie |
 
+## Domande di orientamento allo studio
+
+**1. Come definisce la sessualità l'OMS, e cosa aggiunge Galimberti a questa definizione?**
+
+L'**OMS** definisce la sessualità come un aspetto centrale dell'essere umano lungo tutto l'arco della vita, che comprende sesso, identità e ruoli di genere, orientamento sessuale, erotismo, piacere, intimità e riproduzione — influenzata da fattori biologici, psicologici, sociali, culturali, giuridici, storici e spirituali. **Galimberti** aggiunge la prospettiva psicoanalitica: la sessualità non riguarda solo il corpo, ma è il motore dello sviluppo psicologico e relazionale. Poiché ha bisogno dell'altro per esprimersi, l'evoluzione della sessualità coincide con l'evoluzione della capacità di relazione — dalla prima relazione madre-bambino fino alla maturità adulta, attraverso simbolizzazione e sublimazione.
+
+**2. Qual è la distinzione tra Körper e Leib, e perché è rilevante per comprendere le parafilie?**
+
+**Körper** (Husserl) è il corpo come oggetto, privo di soggettività: il corpo dell'anatomia, misurabile, consumabile. **Leib** è il corpo vissuto, che entra in relazione con l'altro e porta con sé l'esperienza soggettiva della persona. La distinzione è clinicamente cruciale per le parafilie: in molti di questi disturbi il corpo altrui viene trattato come Körper (oggetto su cui agire) anziché come Leib (persona con un vissuto proprio). L'assenza di riconoscimento dell'altro come soggetto è il nucleo relazionale della patologia.
+
+**3. Quali sono le quattro componenti dell'identità sessuale?**
+
+1. **Sesso biologico** — caratteristiche anatomiche e cromosomiche (maschio/femmina/intersex)
+2. **Identità di genere** — il senso interno di sé come uomo, donna o altro, indipendentemente dal sesso biologico
+3. **Ruolo di genere** — i comportamenti, atteggiamenti e aspettative socialmente attribuiti a un genere
+4. **Orientamento sessuale** — l'attrazione emotiva, romantica e/o sessuale verso persone di un determinato sesso/genere
+
+Questi quattro livelli sono indipendenti tra loro: qualsiasi combinazione è possibile.
+
+**4. Cos'è la disforia di genere? Quali sono i criteri A e B, e in cosa si distingue dall'essere transgender?**
+
+La **disforia di genere** (DSM-5-TR) è la sofferenza clinicamente significativa legata all'incongruenza tra il genere esperito/espresso e il genere assegnato alla nascita. **Criterio A**: incongruenza marcata e persistente tra genere esperito e genere assegnato. **Criterio B**: la condizione causa disagio clinicamente significativo o compromissione del funzionamento (lavorativo, sociale, ecc.). La distinzione con il **transgender** è fondamentale: essere transgender è un'identità, non una diagnosi. La diagnosi di disforia di genere si pone solo quando c'è sofferenza. Una persona transgender che vive serenamente la propria identità non ha disforia di genere.
+
+**5. Qual è la differenza tra parafilia e disturbo parafilico?**
+
+Una **parafilia** è un interesse sessuale intenso e persistente verso oggetti, situazioni o persone inusuali (es. feticismo, voyeurismo, ecc.). Di per sé non è una diagnosi. Diventa un **disturbo parafilico** quando soddisfa il criterio B: causa disagio personale significativo al soggetto stesso, oppure comporta danno ad altri (specie se non consenzienti). In pratica: la parafilia riguarda cosa eccita; il disturbo riguarda le conseguenze di quell'eccitazione su sé stessi o sugli altri.
+
+**6. Elenca i principali disturbi parafilici del DSM-5 e descrivine brevemente uno con una vignetta clinica.**
+
+I disturbi parafilici principali sono: voyeuristico, esibizionistico, frotteuristico, masochismo sessuale, sadismo sessuale, pedofilico, feticistico, travestitico. **Vignetta (frotteurismo):** Un uomo di 34 anni riferisce un impulso ricorrente e incontrollabile a strusciare i propri genitali contro persone non consenzienti sui mezzi pubblici. L'atto lo eccita sessualmente. Prova vergogna intensa dopo, ma non riesce a trattenersi. Il disagio soggettivo (criterio B) e il coinvolgimento di persone non consenzienti confermano la diagnosi di disturbo frotteuristico.
+
+---
+
 ## Collegamenti
 
 - **Lezioni precedenti:** disturbi di personalità (la compulsività e le difficoltà a modulare gli impulsi nelle parafilie riecheggiano quei pattern); fasi di sviluppo psicosessuale di Freud (già affrontate).

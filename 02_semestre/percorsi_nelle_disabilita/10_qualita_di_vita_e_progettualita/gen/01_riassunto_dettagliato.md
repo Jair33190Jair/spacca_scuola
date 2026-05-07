@@ -280,6 +280,26 @@ Elisa Geronimi (SUPSI) ha condotto una ricerca sulla qualità di vita delle pers
 
 ---
 
+## Domande di orientamento allo studio
+
+**Cos'è il paradigma della qualità di vita (QdV) e a cosa serve nella pratica educativa?**
+La qualità di vita è la percezione soggettiva dell'individuo della propria posizione nella vita, nel contesto dei sistemi culturali e dei valori in cui è inserito, in relazione ai propri obiettivi, aspettative, standard e interessi (OMS, 1995). Ha tre caratteristiche fondamentali: è soggettiva (ognuno la percepisce in modo personale), è multidimensionale (non si riduce a un solo aspetto) ed è misurabile (con indicatori oggettivi e soggettivi). Nella pratica serve con doppio ruolo: come macro-finalità (l'orizzonte verso cui tendono tutti gli interventi educativi) e come strumento di valutazione (per verificare se quello che si fa sta davvero funzionando).
+
+**Quali sono i 3 fattori e gli 8 domini del meta-modello di Schalock e Verdugo?**
+Il meta-modello organizza la qualità di vita in tre fattori con 8 domini: (1) Indipendenza — Sviluppo personale (apprendimento, formazione, acquisizione abilità) e Autodeterminazione (fare scelte, esprimere preferenze, avere controllo sulla propria vita); (2) Partecipazione sociale — Relazioni interpersonali (rete sociale di qualità), Inclusione sociale (sentirsi parte della comunità) e Diritti (esercizio effettivo dei diritti umani e legali); (3) Benessere — Benessere emozionale (soddisfazione, emozioni positive, autostima), Benessere fisico (salute, alimentazione, cure) e Benessere materiale (risorse economiche, condizioni abitative, lavoro). Questi 8 domini si applicano a tutte le persone, con o senza disabilità.
+
+**Cosa sono i tre sistemi della dimensione ecologica e perché è importante valutare tutti e tre?**
+Il modello va visto in modo tridimensionale: il microsistema riguarda la persona stessa, la sua crescita e le sue opportunità di sviluppo; il mesosistema comprende i servizi, le strutture, i progetti e gli operatori; il macrosistema include le politiche sociali, le leggi e la cultura. È importante valutare tutti e tre perché un desiderio legittimo (microsistema) garantito dalla legge (macrosistema) può non realizzarsi se i servizi concreti non sono accessibili (mesosistema). L'intervento sull'uno o sull'altro sistema ha effetti diversi sulla qualità di vita percepita.
+
+**Cos'è il progetto di vita e in cosa si distingue dal PEI o dal PSI?**
+Il progetto di vita è lo strumento operativo principale per tradurre il paradigma della QdV nella pratica. A differenza del PEI (Progetto Educativo Individualizzato) o del PSI (Progetto di Sviluppo Individualizzato), il progetto di vita non è limitato a un contesto specifico (scuola, struttura diurna, foyer), abbraccia l'intera traiettoria di vita della persona, parte dai desideri, sogni e aspirazioni, ed è co-costruito con la persona, la famiglia e la rete di riferimento. PEI e PSI sono tasselli del progetto di vita — devono essere coerenti con i suoi obiettivi e non contraddirsi tra loro. Come scrivono Turati e Pozzi: "Il progetto di vita realizza i desideri delle persone con disabilità. Ogni altro scopo, che parta da altri presupposti, lo svuota di senso."
+
+**Cos'è il rischio del "services-led assessment" e come si evita?**
+Il services-led assessment è una valutazione guidata dai servizi disponibili: l'operatore finisce per vedere solo i problemi che i servizi che conosce o che può offrire sono in grado di risolvere. È il contrario dell'obiettivo corretto: il needs-led assessment, ovvero una valutazione guidata dai bisogni reali della persona. Per evitarlo, l'operatore deve partire sempre dai desideri e bisogni della persona (non dai servizi disponibili), adottare la predisposizione relazionale di Rogers (autenticità, accettazione incondizionata, empatia), e usare strumenti diversi — osservazioni partecipanti, colloqui strutturati, interviste adattate (lingua facile, CAA) — per ottenere un quadro il più possibile fedele alla realtà della persona.
+
+**Cosa ci dice la ricerca di Geronimi (SUPSI, 2023) sulla qualità di vita in Ticino?**
+La ricerca condotta da Elisa Geronimi sulle strutture socio-educative ticinesi mostra che le persone con disabilità intellettiva hanno complessivamente un buon livello di QdV, con i migliori risultati nei domini del benessere emozionale e del benessere fisico. I domini più critici sono l'inclusione sociale e i diritti. Cosa migliora la QdV: le prestazioni socio-professionali (laboratorio protetto) rispetto alle socio-occupazionali, il contesto comunitario (vivere con la famiglia) rispetto a quello istituzionale, una maggiore autonomia e comportamento adattivo. Il dato più rilevante per gli operatori: le variabili ambientali contano più di quelle personali nel determinare la QdV — il che significa che l'intervento professionale sul contesto ha un impatto reale e misurabile.
+
 ## Concetti Chiave
 
 | Termine | Significato |

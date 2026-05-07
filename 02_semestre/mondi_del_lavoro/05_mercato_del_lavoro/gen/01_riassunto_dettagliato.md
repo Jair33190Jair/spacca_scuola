@@ -208,6 +208,28 @@ Chi era già svantaggiato nel mercato del lavoro ha pagato il prezzo più alto.
 
 ---
 
+## Domande di orientamento allo studio
+
+**Qual è la differenza tra "offerta di lavoro" e "domanda di lavoro" nella terminologia statistica — e perché confonde?**
+Nel linguaggio comune "offerta di lavoro" significa un posto di lavoro disponibile (come un annuncio su LinkedIn). In statistica è il contrario: l'offerta di lavoro sono i lavoratori (chi offre la propria forza lavoro), la domanda sono i posti disponibili (il lato dei datori di lavoro). Questa inversione è adottata dall'UST e dagli uffici cantonali — capirla è indispensabile per leggere le statistiche senza fraintendere.
+
+**Quali sono i tre statuti professionali e come vengono definiti?**
+I tre statuti professionali classificano tutta la popolazione in età lavorativa (15-74 anni): gli occupati (hanno lavorato almeno 1 ora contro remunerazione nella settimana di riferimento), i disoccupati (non occupati, hanno cercato attivamente lavoro nelle 4 settimane precedenti e sarebbero stati disponibili ad accettarlo — tutte e tre le condizioni devono valere simultaneamente) e gli inattivi (tutti gli altri). La formula centrale è: offerta di lavoro = persone attive = occupati + disoccupati.
+
+**Cosa sono i "sottoccupati" e perché sono importanti per leggere il mercato del lavoro?**
+I sottoccupati sono lavoratori occupati a tempo parziale che vorrebbero (e cercano attivamente di) lavorare di più. Rappresentano circa il 5% degli occupati e sono prevalentemente donne (~70%). Sono tecnicamente "occupati", ma condividono una caratteristica con i disoccupati — la ricerca di un impiego più ampio. Ignorarli significa sottovalutare il disagio lavorativo reale presente nel mercato.
+
+**Qual è la differenza tra il dato sulla disoccupazione dell'ILO/UST e quello della SECO? Quando usare quale?**
+L'UST/ILO usa un'indagine campionaria trimestrale (RIFOS) e conta chiunque soddisfi i criteri ILO — è lo standard internazionale per i confronti. La SECO conta solo chi è iscritto a un Ufficio Regionale di Collocamento (URC), con frequenza mensile e dettaglio cantonale. Il dato SECO è sistematicamente più basso di circa 2 punti percentuali perché esclude chi non si iscrive (giovani, donne, disoccupati a fine diritto). Per gruppi specifici o analisi strutturali → usare ILO/UST. Per variazioni mensili o confronti intercantonali → utile la SECO.
+
+**Cosa significa il "trucco dei vasi comunicanti" per leggere le notizie sulla disoccupazione?**
+Occupati + disoccupati + inattivi = 100% della popolazione in età lavorativa. Quando la disoccupazione scende, bisogna sempre chiedersi dove sono finiti i disoccupati: se sono diventati occupati è una buona notizia; se sono diventati inattivi (es. scoraggiati che hanno smesso di cercare) si è passati dalla padella alla brace; se sono andati in pensione, la disoccupazione scende ma non perché il mercato è migliorato. Questa domanda è fondamentale per leggere criticamente le statistiche e le dichiarazioni dei politici.
+
+**Cos'è la "delocalizzazione sul posto" e quali effetti ha avuto sul mercato del lavoro ticinese?**
+La "delocalizzazione sul posto" (Martinelli, 2021) descrive il meccanismo per cui le aziende ticinesi, invece di spostare la produzione in paesi a basso costo del lavoro, hanno fatto venire il lavoro a basso costo direttamente dalla frontiera — i frontalieri italiani. Questo ha esercitato una pressione al ribasso sui salari (dumping salariale), con impatto sproporzionato su donne straniere, lavoratori tra i 25 e i 49 anni e salariati con formazione secondaria. Il fenomeno è reso possibile dagli ALCP del 2002, che hanno eliminato i contingenti e l'obbligo di residenza nella zona di confine.
+
+---
+
 ## Collegamenti
 
 - **Lezioni precedenti:** sottoccupazione e multiattività erano stati accennati in Sicurezza Sociale. La logica dei tre statuti professionali era già stata introdotta in precedenza.

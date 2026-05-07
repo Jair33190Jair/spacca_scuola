@@ -452,23 +452,40 @@ Importante: uno specifico contenuto relazionale asimmetrico **non comporta autom
 
 ---
 
-## Domande guida per l'esame
+## Domande di orientamento allo studio
 
-1. Cosa si intende per lavoro sociale? Quali sono gli elementi della dimensione politica?
-2. Descrivi il modello bio-ecologico di Bronfenbrenner (tutti e 5 i sistemi).
-3. Cos'è l'approccio anti-oppressivo? Qual è il ruolo del potere dell'operatore?
-4. Cos'è la QdV? Quali sono i suoi 8 domini e i 7 principi di funzionamento?
-5. Qual è la differenza sostanziale tra integrazione e inclusione sociale?
-6. Cos'è l'empowerment? Come si è evoluto il concetto verso l'empowerment relazionale?
-7. Qual è la differenza tra autostima e autoefficacia? (con esempio pratico)
-8. Cos'è l'autodeterminazione? Come si allena?
-9. Cos'è la resilienza? Descrivi gli elementi che si sviluppano in situazioni di resilienza.
-10. Cosa sono i tutori di resilienza?
-11. Qual è la visione pedagogica del bisogno? Differenza tra bisogni evolutivi e complessi.
-12. Cosa si intende per vulnerabilità? Quali attenzioni deve porre l'operatore?
-13. Quali sono le meta-competenze dell'operatore sociale?
-14. Cos'è l'asimmetria relazionale?
-15. Cos'è il modello PERMA? Cosa si intende per flourishing?
-16. Qual è la differenza tra disease, illness e sickness?
-17. Cos'è il disagio in prospettiva pedagogica?
-18. Cos'è la mediazione educativa?
+**Cosa si intende per lavoro sociale? Quali sono gli elementi della dimensione politica?**
+Il lavoro sociale (IFSW, 2014) è una professione basata sulla pratica e una disciplina accademica che promuove il cambiamento sociale e lo sviluppo, la coesione e l'emancipazione sociale, nonché la liberazione delle persone. I suoi principi fondanti sono giustizia sociale, diritti umani, responsabilità collettiva e rispetto delle diversità. La dimensione politica emerge dal fatto che il lavoro sociale non è neutro: ha una posizione valoriale esplicita orientata all'emancipazione e alla giustizia sociale (Freire: "non esiste un'educazione neutra"). Gli operatori sono gatekeeper con ampi margini di discrezionalità, e devono riconoscere il proprio potere per non usarlo in modo oppressivo.
+
+**Descrivi il modello bio-ecologico di Bronfenbrenner (tutti e 5 i sistemi).**
+Bronfenbrenner (1917–2015) descrive lo sviluppo umano come il risultato dell'interazione dinamica tra persona e cinque sistemi concentrici. Il **microsistema** è l'ambiente diretto (famiglia, scuola, amici). Il **mesosistema** comprende le relazioni tra i microsistemi (es. rapporto genitori-insegnanti). L'**esosistema** include ambienti in cui la persona non è presente ma che la influenzano (es. orari di lavoro del genitore). Il **macrosistema** è cultura, leggi, valori e ideologie della società. Il **cronosistema** aggiunge la dimensione temporale — come il tempo modifica persone e contesti a livello micro e macro. Il modello aggiornato si riassume in PPCT: Processo, Persona, Contesto, Tempo.
+
+**Cos'è l'approccio anti-oppressivo? Qual è il ruolo del potere dell'operatore?**
+L'approccio anti-oppressivo (Allegri e Sanfelici, 2023) analizza e contrasta i meccanismi di potere e discriminazione che producono esclusione. L'oppressione è l'esclusione forzata di persone e gruppi da opportunità e risorse — può essere esterna (violenza diretta) o interna (quando la minoranza interiorizza la visione del gruppo dominante, Freire). Gli operatori sociali detengono un potere enorme come gatekeeper (regolano l'accesso ai servizi) e grazie alla discrezionalità decisionale. Il rischio è auto-rappresentarsi come privi di potere, ignorando che il sapere professionale è già potere (Foucault). L'approccio richiede consapevolezza critica del proprio potere, ottica trifocale (micro-meso-macro) e partecipazione autentica delle persone.
+
+**Cos'è la QdV? Quali sono i suoi 8 domini e i 7 principi di funzionamento?**
+La Qualità di Vita è la percezione soggettiva della propria posizione nella vita rispetto a obiettivi, valori e contesto culturale (OMS, 1995). Il modello di Schalock e Verdugo (2006/2008) identifica 8 domini in 3 aree: indipendenza (sviluppo personale, autodeterminazione), partecipazione sociale (relazioni interpersonali, inclusione sociale, diritti), benessere (emozionale, fisico, materiale). I 7 principi sono: multidimensionalità, visione olistica, temporalità, variabilità personale, soggettività e oggettività, empowerment, ed estendibilità a tutte le persone.
+
+**Qual è la differenza sostanziale tra integrazione e inclusione sociale?**
+L'integrazione agisce sull'individuo per adattarlo al contesto, mantenendo il focus sul suo deficit biologico (lo studente chiede la rampa — il contesto risponde). L'inclusione agisce sul contesto per renderlo accessibile a tutti preventivamente (la rampa è già predisposta prima che arrivi chiunque ne abbia bisogno). L'integrazione parte dalla logica norma/deviazione; l'inclusione supera questa logica considerando la diversità come condizione normale. L'inclusione si riferisce a tutte le persone, è multidimensionale e richiede di eliminare le barriere strutturali (Medeghini et al., 2013).
+
+**Cos'è l'empowerment relazionale (Folgheraiter)?**
+L'empowerment relazionale (Folgheraiter, 2004) è l'approccio postmoderno al lavoro di rete: gli esperti cedono parte del loro potere di trovare soluzioni agli utenti, che diventano partner attivi nel processo. Il ruolo dell'operatore diventa di orientamento, accompagnamento e sostegno — non di sostituzione direttiva. Il potere ceduto non si perde: quando viene condiviso e intrecciato, si ri-genera e si moltiplica. È fondato su un processo collaborativo dove utenti, carer e operatori sono partner, e le competenze si acquisiscono attraverso l'esperienza, non attraverso delega.
+
+**Qual è la differenza tra autostima e autoefficacia? (con esempio pratico)**
+L'autostima è il giudizio globale di valore personale ("quanto valgo come persona?"), determinato da aspettative, modelli di riferimento e feedback ricevuti. L'autoefficacia (Bandura, 2012) è il giudizio di capacità specifica in un determinato contesto ("sono capace di fare questa cosa?") — il motore motivazionale che determina se la persona investe energie nell'azione. Non sono correlate direttamente: si può avere alta autoefficacia in un'attività (sono bravissimo con Excel) senza che questo generi autostima — se quella competenza non ha valore per me. Viceversa, posso non saper disegnare senza che questo intacchi il mio valore di persona.
+
+**Cos'è l'autodeterminazione? Come si allena?**
+L'autodeterminazione (Wehmeyer, 1992, 2005) è la possibilità di fare scelte e prendere decisioni in accordo con le proprie preferenze, valori e obiettivi, per controllare e migliorare la propria vita. Implica agire come agente causale — chi guida le proprie scelte, non chi le subisce. Non significa "decido sempre da solo": si sviluppa nella rete di relazioni e richiede assunzione di rischi misurati. Si allena attraverso esperienze, successi ed errori — è un muscolo: se non lo si usa, non si sviluppa. L'operatore crea le condizioni per allenarlo, distinguendo tra vera autodeterminazione e passività mascherata da scelta.
+
+**Cos'è la resilienza? Descrivi gli elementi che si sviluppano in situazioni di resilienza.**
+La resilienza (Cyrulnik; Malaguti, 2005) è un processo biologico, psicoaffettivo, sociale, culturale ed educativo che permette la ripresa di un nuovo sviluppo dopo un evento traumatico. Non è solo resistenza, ma superamento e trasformazione dell'esperienza dolorosa. I 7 elementi (Wolin & Wolin, 1993): assunzione di consapevolezza (identificare problemi e risorse), indipendenza (stabilire confini), relazioni (scegliere interlocutori positivi), iniziativa (dominare l'ambiente), creatività (amplificare lo sguardo), humor (scoprire la dimensione comica della tragedia), etica (guidare l'azione e favorire la compassione). I tutori di resilienza (Cyrulnik) sono le figure significative che permettono alla persona di "rimbalzare" e riattivare processi vitali compromessi.
+
+**Qual è la visione pedagogica del bisogno? Differenza tra bisogni evolutivi e complessi.**
+Palmieri (2011) propone che il bisogno non sia solo mancanza da colmare, ma anche condizione esistenziale che attiva la motivazione all'empowerment e al cambiamento — è alla base di qualsiasi nuovo apprendimento. Non esistono bisogni fisiologici "in sé", ma modi culturali di viverli. Paradiso (2020) distingue due sistemi: i **bisogni evolutivi** si attivano nelle situazioni di equilibrio (primari, emotivi, sociali, culturali, realizzativi) e la loro soddisfazione permette l'acquisizione di nuove competenze; i **bisogni complessi** si attivano nelle crisi e post-traumi (sopravvivenza → riparazione → riorganizzazione), quando il circuito normale si interrompe e i bisogni diventano articolati, multipli e di difficile interpretazione.
+
+**Cos'è il disagio in prospettiva pedagogica?**
+Il disagio (Palmieri, 2012) è etimologicamente "mancanza di agio", ma non va visto come condizione irreversibile. È una situazione appresa: si impara ad attribuire un significato di disagio alle esperienze di disequilibrio e sofferenza attraverso relazioni e contesto culturale. Il vissuto di sofferenza deriva soprattutto dalla lettura soggettiva della situazione — e quella lettura è modificabile. Da una prospettiva pedagogica, il disagio è un momento di crisi nel percorso di vita, non una condizione fissa: ogni passaggio evolutivo emancipativo è preceduto da un momento di crisi che può diventare occasione di nuovi apprendimenti.
+
+**Cos'è la mediazione educativa?**
+La mediazione educativa è la capacità dell'operatore di porsi come intermediario tra la persona e il contesto, tra risorse e bisogni, tra linguaggi diversi. Non è una semplice traduzione — è una costruzione di ponti che rispetta l'autonomia e la prospettiva di ciascun attore. Il mediatore non si sostituisce a nessuno dei due poli: aiuta a creare uno spazio di dialogo e comprensione reciproca. Nel lavoro sociale si applica in molti contesti: mediazione linguistico-culturale, mediazione familiare, mediazione tra persone e istituzioni.

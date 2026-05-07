@@ -408,15 +408,16 @@ competenza.
 
 ---
 
-## Domande di Orientamento allo Studio
+## Domande di orientamento allo studio
 
-Le domande guida della lezione (utili per prepararsi all'esame):
+**Quali sono i limiti delle principali tipologie di osservazione?**
+L'**osservazione sistematica non partecipante** riduce la soggettività ma rischia di perdere il contesto e il significato dei comportamenti: si registra "cosa" ma non "perché". Richiede criteri rigidi definiti a priori e può produrre dati freddi, poco utili per la comprensione profonda. L'**osservazione partecipante** cattura meglio il significato ma aumenta il rischio di perdere oggettività: l'osservatore modifica la situazione con la sua presenza e può perdere la distanza critica (effetto Hawthorne). L'**auto-osservazione** permette accesso a dati inaccessibili dall'esterno, ma è la più vulnerabile alla distorsione percettiva — è difficile osservare sé stessi con sguardo critico mentre si è immersi in una situazione. Ogni tipologia ha punti ciechi: la soluzione è la triangolazione, cioè usarne più di una e confrontare i dati.
 
-- Quali sono i **limiti delle principali tipologie** di osservazione?
-- Perché l'**osservazione partecipante** è particolarmente importante
-  per l'operatore sociale?
-- Quali **accorgimenti** si possono adottare per attenuare i rischi
-  legati alla soggettività?
+**Perché l'osservazione partecipante è particolarmente importante per l'operatore sociale?**
+L'osservazione partecipante è particolarmente adatta al lavoro sociale perché permette di cogliere il significato dei comportamenti nel loro contesto naturale, costruisce la relazione di fiducia con le persone (essere presenti, non solo guardare da fuori), e rispetta la complessità dei sistemi umani che non possono essere compresi attraverso checklist dall'esterno. L'operatore sociale lavora dentro le relazioni, non ai margini — l'osservazione partecipante rispecchia questa postura professionale. Richiede però consapevolezza del proprio ruolo (si è allo stesso tempo osservatori e parte del campo), rigore nella documentazione, e supervisione per ridurre i rischi soggettivi.
+
+**Quali accorgimenti si possono adottare per attenuare i rischi legati alla soggettività?**
+I principali accorgimenti sono: la **triangolazione** (combinare più tipologie di osservazione e più osservatori per confrontare le prospettive), la **documentazione sistematica** (annotare subito le osservazioni, prima che la memoria le modifichi — il diario di bordo come strumento fondamentale), la **distinzione esplicita tra descrizione e interpretazione** nei documenti prodotti, la **supervisione** (portare le osservazioni in équipe o in supervisione per ricevere feedback critici), e la **pratica riflessiva** (interrogarsi sui propri filtri percettivi, sulle premesse che guidano lo sguardo, su ciò che si è scelto di osservare e ciò che si è tralasciato). La soggettività non si elimina — si gestisce con consapevolezza.
 
 ---
 

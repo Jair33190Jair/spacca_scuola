@@ -250,6 +250,34 @@ La lezione chiude su una nota importante: nel colloquio con le persone, lo spazi
 
 ---
 
+## Domande di orientamento allo studio
+
+**Qual è la visione del Sé e del concetto di identità negli approcci postmoderni?**
+Negli approcci postmoderni il Sé non è un blocco monolitico e compatto, ma un insieme dinamico di posizionamenti — visioni soggettive del mondo — impegnati in un dialogo polifonico (Mancini, 2010; Bachtin, 1979). L'identità è multipla, evolutiva, mai definitiva: si costruisce nel tempo, nei diversi ruoli sociali, e richiede il riconoscimento da parte degli altri. Il sentimento di identità (Erikson, 1968) si esprime a tre livelli: integrazione come persona unica, integrazione nel tempo (continuità passato-presente-futuro), e integrazione nell'ambiente sociale. Nella postmodernità il Sé è sempre più frammentato e sottoposto a continue richieste di ricostruzione.
+
+**Cosa si intende per vulnerabilità? Quali attenzioni deve porre l'operatore sociale quando utilizza questo concetto?**
+La vulnerabilità è un concetto che può assumere significati molto diversi, con implicazioni etiche e pratiche rilevanti (Pedroni, 2020). L'uso acritico del termine rischia tre derive: paternalismo e oppressione (l'immagine di persona incapace), controllo sociale (definire chi è "normale"), e stigma ed esclusione. La lettura promettente la interpreta come caratteristica ontologica degli esseri umani — tutti possiamo essere vulnerabili in certi momenti — connessa a circostanze personali, economiche, sociali e culturali, e collegata a empowerment, agency e resilienza. L'operatore sociale deve sempre considerare le persone nella loro unicità, ascoltando la loro visione della propria condizione di vulnerabilità, non quella attribuita dall'esterno.
+
+**Cosa si intende per resilienza?**
+La resilienza (Cyrulnik; Malaguti, 2005) è un processo biologico, psicoaffettivo, sociale, culturale ed educativo che permette la ripresa di un nuovo sviluppo dopo un evento traumatico. Non è solo resistenza, ma anche il processo di superamento e trasformazione dell'esperienza dolorosa in apprendimento. Implica un cambio di prospettiva: positivizzare lo sguardo sulle persone, riconoscere le criticità senza ridurle al problema, superare le letture lineari e deterministiche (es. "chi ha subito violenza sarà violento"). Gli studi sulla resilienza aprono alla speranza: il destino dell'essere umano non è predefinito.
+
+**Quali sono gli elementi che si sviluppano in situazioni di resilienza?**
+Wolin e Wolin (1993) individuano sette risorse interne: assunzione di consapevolezza (identificare problemi e risorse), indipendenza (stabilire confini e prendere distanza da ciò che manipola), relazioni (scegliere interlocutori positivi), iniziativa (dominare il proprio ambiente e trovare piacere nelle attività costruttive), creatività (amplificare lo sguardo ed esprimere emozioni positivamente), humor (scoprire la dimensione comica della tragedia), etica (guidare l'azione nelle scelte e favorire la compassione e l'aiuto reciproco).
+
+**Cosa si intende per tutori di resilienza?**
+I tutori di resilienza (Cyrulnik) sono le figure significative che nell'interazione permettono alla persona di "rimbalzare" e riattivare processi vitali che sembravano compromessi. Possono essere familiari, amici, insegnanti, educatori — o l'operatore sociale stesso. La resilienza non si acquisisce una volta per tutte: è un cammino da percorrere continuamente, perché l'esistenza è costellata di prove che richiedono rinegoziazione.
+
+**Quali sono i principali bisogni dell'essere umano universalmente riconosciuti?**
+Il modello di riferimento classico è la piramide di Maslow (1954), che organizza i bisogni in cinque livelli gerarchici: fisiologici (respirazione, alimentazione, sonno, sessualità), sicurezza (fisica, psichica, materiale), appartenenza (affetti, amicizia, famiglia), stima (progettualità, riconoscimento), autorealizzazione (spiritualità, crescita). Principio fondamentale: ogni bisogno soddisfatto perde il suo investimento motivazionale e permette l'emersione del successivo. Il modello ha però limiti importanti: è stato elaborato negli anni '50 da una prospettiva occidentale, ed è soggetto a continue riorganizzazioni contestuali in relazione al significato che ogni persona vi attribuisce.
+
+**Quali sono i due sistemi di bisogni nel modello multidimensionale e come si suddividono?**
+Paradiso (2020) distingue due sistemi. Il **sistema dei bisogni evolutivi** si attiva nelle situazioni di equilibrio ed è articolato in bisogni primari, emotivi, sociali, culturali e realizzativi; la loro soddisfazione permette l'acquisizione di nuove competenze. Il **sistema dei bisogni complessi** si attiva nelle situazioni di crisi e post-trauma, quando il circuito normale di soddisfazione si interrompe: i bisogni diventano articolati, multipli, indiretti e di difficile interpretazione. Si sviluppano in tre fasi — bisogni di sopravvivenza (fase traumatica acuta), di riparazione (post-trauma), e di riorganizzazione (ripresa del percorso di vita).
+
+**In cosa consiste la visione pedagogica del bisogno?**
+Palmieri (2011) propone una lettura che va oltre la semplice "mancanza da colmare". I bisogni non esistono mai "in sé" — esistono modi culturali di viverli, che mobilizzano dimensioni relazionali, immaginative e culturali. Da una prospettiva pedagogica, il bisogno non è solo un malessere da estinguere: è anche una condizione esistenziale che attiva la motivazione all'empowerment, all'azione e al cambiamento, e che è alla base di qualsiasi nuovo apprendimento. Heidegger distingue tra cura inautentica (che si sostituisce all'altro e crea dipendenza) e cura autentica (che anticipa le possibilità esistenziali dell'altro e lo libera per la propria cura).
+
+---
+
 ## Collegamenti
 
 - **Lezione 01**: il modello bioecologico di Bronfenbrenner (sistemi, microsistema, esosistema, cronosistema) — questa lezione approfondisce le persone all'interno di quei sistemi.

@@ -181,6 +181,28 @@ La storia segue **Ricky** (corriere nella logistica) e sua moglie **Abby** (assi
 | **Codice delle obbligazioni** | Normativa svizzera che regola (con pochissime norme) il contratto di lavoro |
 | **Reynaud, E. — Maruani, M. (2004)** | Autori della definizione di lavoro occupazionale usata nel corso |
 
+## Domande di orientamento allo studio
+
+**Qual è la differenza tra "lavoro come attività" e "lavoro come occupazione"?**
+Il lavoro come attività indica qualsiasi azione che soddisfa un bisogno immediato (es. cucinare a casa), indipendentemente da un quadro formale. Il lavoro come occupazione (Reynaud & Maruani, 2004) è invece un'attività sistematica, specializzata, svolta in un contesto regolato che garantisce una retribuzione. Il lavoratore è eterodiretto, non possiede i mezzi di produzione e non c'è un legame diretto tra ciò che produce e il suo bisogno immediato.
+
+**Perché il lavoro domestico è considerato una "zona grigia" della definizione classica?**
+Il lavoro domestico ha un'importanza fondamentale per il mantenimento del sistema economico e sociale, ma secondo la definizione classica non viene classificato come "lavoro" perché non è retribuito, non c'è separazione tra lavoratrice e mezzi di produzione e non è soggetto a regole formali. Il risultato paradossale è che chi lavora a casa viene classificato nelle statistiche come "inattivo" o "disoccupato", una contraddizione sempre più evidente nella società contemporanea.
+
+**Come e perché nasce il lavoro salariato con la rivoluzione industriale?**
+La rivoluzione industriale trasforma radicalmente il rapporto tra lavoratore e produzione. L'industrializzazione dell'agricoltura espropria i contadini dalle loro terre (recinzione dei fondi, creazione di latifondi), generando masse di persone che si spostano nelle città (urbanizzazione) e diventano disponibili come forza lavoro per le fabbriche nascenti. In questo contesto nasce il lavoro salariato: il lavoratore è formalmente libero, ma separato dai mezzi di produzione, ai quali può accedere solo vendendo la propria forza lavoro in cambio di un salario.
+
+**In che senso la forza lavoro è una "merce particolare"?**
+La forza lavoro è una merce con tre caratteristiche uniche rispetto a qualsiasi altra merce: primo, non è nata per essere venduta (chi la vende è una persona con bisogni e diritti). Secondo, non è separabile da chi la vende — le condizioni del rapporto di lavoro hanno un impatto diretto e continuo sulla vita del lavoratore e della sua famiglia. Terzo, può contrattare il suo prezzo attraverso sindacati e organizzazioni collettive, cosa che nessun'altra merce può fare.
+
+**Quali sono i tre attori principali nella contrattazione del prezzo della forza lavoro e quali sono i loro obiettivi?**
+I tre attori sono: i datori di lavoro, che vogliono comprare la forza lavoro al prezzo più basso possibile; i lavoratori e le loro organizzazioni sindacali, che vogliono venderla al prezzo più alto possibile; lo Stato con la legislazione del lavoro, che definisce le regole del gioco e può spostare l'equilibrio in una direzione o nell'altra. In Svizzera lo Stato interviene pochissimo (mercato tra i meno regolamentati d'Europa), mentre in altri paesi le tutele legali sono molto più estese.
+
+**Come descriveresti il mercato del lavoro svizzero rispetto agli altri paesi europei?**
+La Svizzera ha uno dei mercati del lavoro più flessibili e meno regolamentati d'Europa. Le due fonti principali sono la Legge sul lavoro (orari, straordinari, pause) e il Codice delle obbligazioni (pochissimi articoli sul contratto di lavoro). Il contratto scritto non è obbligatorio per legge. Circa il 50% dei lavoratori svizzeri non ha un contratto collettivo. In caso di licenziamento abusivo non esiste il reintegro — al massimo si ottiene un risarcimento fino a sei mesi di stipendio, e l'onere della prova è sul lavoratore.
+
+---
+
 ## Collegamenti
 
 - **Prossima lezione (23 febbraio)**: Proseguimento della prospettiva storica sulle trasformazioni del lavoro (Angelica Lepori)

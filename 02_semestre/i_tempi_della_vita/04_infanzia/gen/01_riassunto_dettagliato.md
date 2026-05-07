@@ -332,6 +332,28 @@ L'attaccamento sicuro nel ciclo di vita facilita la **mentalizzazione controllat
 | **Mismatch/Riparazione** | Dissincronia e successivo recupero nella diade — motori dello sviluppo (Tronick) |
 | **Nidazione bio-psichica** | Contenimento somatico e affettivo del bambino durante la gravidanza (Missonier) |
 
+## Domande di orientamento allo studio
+
+**Qual è la differenza fondamentale tra la visione di Freud e quella di Bowlby sull'attaccamento?**
+Per Freud il legame madre-bambino è un legame derivato: il bambino si lega a chi lo nutre perché associa la figura alla soddisfazione della pulsione orale. Per Bowlby invece l'attaccamento è un sistema motivazionale primario, biologicamente determinato, del tutto indipendente dalla nutrizione. Le prove vengono dall'etologia: le anatre di Lorenz si imprinting su qualunque oggetto in movimento (non necessariamente chi dà cibo), e i macachi di Harlow preferiscono la madre di pezza calda alla madre di metallo che dà latte. Il bisogno di protezione, contatto e conforto è tanto primario quanto la fame.
+
+**Cosa sono i Modelli Operativi Interni (MOI) e come influenzano le relazioni?**
+I Modelli Operativi Interni sono pattern cognitivo-affettivi e comportamentali che si formano nelle prime esperienze di attaccamento e organizzano l'esperienza relazionale futura. Contengono aspettative inconsce su come le figure di riferimento risponderanno nei momenti di bisogno. Funzionano come "filtri percettivi" — colorano come interpretiamo le relazioni presenti a partire dalle esperienze passate. Un attaccamento sicuro produce MOI di fiducia di base; un attaccamento insicuro produce MOI di sfiducia o dipendenza. Operano al di fuori della coscienza, ma possono essere modificati da esperienze correttive significative.
+
+**Quali sono i tre stadi dello sviluppo psicosessuale di Freud più importanti per l'esame?**
+I tre stadi fondamentali sono: 1) Fase orale (0–2 anni) — la bocca è la prima zona erogena; l'organizzazione psichica ruota intorno all'incorporazione e all'introiezione. 2) Fase sadico-anale (18 mesi–4 anni) — organizzata intorno al trattenere/espellere, correlata all'educazione alla pulizia; temi di controllo, attività/passività. 3) Fase fallico-uretrale e Complesso di Edipo (~4 anni) — struttura il mondo psichico intorno al limite: dalla relazione duale (io + mamma) alla triangolare (io + mamma + papà). La risoluzione dell'Edipo è la "pietra angolare" della costruzione finale della psiche.
+
+**Cosa si intende per "preoccupazione materna primaria" e per madre "sufficientemente buona" in Winnicott?**
+La preoccupazione materna primaria è uno stato di identificazione empatica intensa della madre con il neonato — quasi fisiologica, non patologica. Permette di fare "le cose giuste al momento giusto." Non richiede perfezione: la ricerca mostra che la madre risponde ai segnali del bambino in modo sintonizzato solo il 27% delle volte. La madre "sufficientemente buona" (good enough) è quella che è abbastanza presente da garantire un ambiente facilitante, ma che gradualmente aumenta le proprie "inadempienze" — permettendo al bambino di imparare che il mondo non corrisponde sempre immediatamente ai suoi bisogni. Questo de-accomodamento è fondamentale per costruire l'autonomia.
+
+**Cosa si intende per attaccamento disorganizzato e perché è il pattern più preoccupante?**
+L'attaccamento disorganizzato emerge quando la figura di attaccamento è anche fonte di paura: il bambino si trova in un "dramma insolubile" perché la fonte di sicurezza è la fonte di pericolo. Questo produce l'attivazione simultanea di sistemi contraddittori (fight, flight, freeze) che portano a reazioni disorganizzate — risposte contraddittorie, stati quasi dissociativi, crollo delle funzioni cognitive. È il pattern statisticamente più correlato a disturbi psicopatologici nell'adulto. In contesti educativi e istituzionali, la chiave è costruire nel tempo un legame alternativo di sicurezza, tollerare le crisi senza rappresaglie.
+
+**Cosa significa che "la relazione dà forma al cervello"?**
+Le cure primarie modificano non solo il comportamento ma anche le strutture cerebrali: gli ormoni del piacere come ossitocina e dopamina, rilasciati durante le interazioni positive con il caregiver, costruiscono sinapsi; gli ormoni dello stress le distruggono. Il cervello del neonato è plastico e si costruisce letteralmente attraverso l'esperienza relazionale. Una relazione di attaccamento sicuro favorisce lo sviluppo della corteccia prefrontale (regolazione emotiva, mentalizzazione, pianificazione) mentre un ambiente stressante cronico ha effetti opposti. Questo è il fondamento neuroscientifica dell'importanza delle cure precoci.
+
+---
+
 ## Collegamenti
 
 - **Lezioni precedenti**: le basi biologiche e psicologiche dello sviluppo dell'individuo nei tempi della vita — questa lezione le approfondisce con i modelli teorici principali.

@@ -198,6 +198,28 @@ La Guida usa la **famiglia Bernasconi** come filo conduttore per gli esempi prat
 
 ---
 
+## Domande di orientamento allo studio
+
+**Qual è la differenza tra Stato sociale e sicurezza sociale?**
+Lo Stato sociale (*Welfare State*) è il concetto più ampio: comprende l'insieme di politiche, norme, istituzioni e valori volti a rispondere ai rischi sociali e migliorare il benessere dei cittadini lungo tutto il ciclo di vita. La sicurezza sociale è la componente centrale dello Stato sociale: in Svizzera indica specificamente la rete delle 12 assicurazioni sociali più gli interventi con prova dei mezzi (come l'assistenza sociale).
+
+**Quali sono le quattro funzioni della sicurezza sociale secondo la definizione funzionale?**
+Le quattro funzioni sono: (1) protezione della salute, cioè il diritto d'accesso alle cure mediche di base; (2) garanzia di un reddito di sostituzione, per mantenere il tenore di vita quando si perde la capacità di guadagno (malattia, infortuni, disoccupazione, ecc.); (3) garanzia di un reddito di complemento, per coprire gli oneri familiari o garantire un reddito minimo a chi non può lavorare; (4) (re)integrazione sociale e professionale, che va oltre l'indennizzo finanziario e include prevenzione, reinserimento e riadattamento.
+
+**Come si distingue un infortunio da una malattia? Perché questa distinzione è importante?**
+Secondo l'art. 4 LPGA, l'infortunio è un influsso dannoso, *improvviso* e *involontario*, apportato al corpo umano da un *fattore esterno straordinario* che compromette la salute o provoca la morte. Se manca anche *uno solo* di questi quattro attributi, l'evento va classificato come malattia. La distinzione è fondamentale perché determina quale assicurazione interviene: l'AINF (assicurazione infortuni) o l'AMAL (assicurazione malattie). Il burnout, ad esempio, non è malattia professionale ma "disturbo lavoro-correlato", perché non è attribuibile esclusivamente all'attività professionale.
+
+**Qual è la differenza tra assicurazioni sociali e prestazioni commisurate al bisogno?**
+Le assicurazioni sociali funzionano sul principio assicurativo: l'assicurato versa contributi in anticipo e ottiene tutela quando il rischio si realizza; sono finanziate principalmente da contributi di lavoratori e datori di lavoro. Le prestazioni commisurate al bisogno sono invece selettive: vengono erogate solo dopo la prova dei mezzi, ossia la verifica che reddito e patrimonio siano sotto una soglia di legge; sono finanziate da imposte. Le assicurazioni sociali hanno sempre precedenza sulle prestazioni commisurate al bisogno, che intervengono solo in via sussidiaria.
+
+**Che cos'è il sovra-indennizzo e perché è vietato?**
+Il sovra-indennizzo si verifica quando le prestazioni sociali cumulate superano il guadagno effettivamente perso dall'assicurato. È vietato perché il sistema non deve diventare economicamente più conveniente del lavoro: si perderebbe l'incentivo al reinserimento lavorativo e si violerebbero i principi di equità del sistema. Per le prestazioni in denaro, il cumulo è ammesso ma le prestazioni totali non possono eccedere il guadagno perso.
+
+**Quali sono le 9 prestazioni LAPS in Ticino e in quale ordine vanno verificate?**
+La LAPS (Legge sull'armonizzazione e il coordinamento delle prestazioni sociali) coordina 9 prestazioni in ordine di priorità: (1) RIPAM — riduzione del premio assicurazione malattia; (2) Aiuto sociale speciale; (3) Assegno di studio; (4) Assegno di formazione terziaria sociosanitaria; (5) Assegno di riqualificazione professionale; (6) ISD — indennità straordinaria disoccupati ex-indipendenti; (7) AFI — assegno familiare integrativo; (8) API — assegno di prima infanzia; (9) Aiuto sociale. L'aiuto sociale è l'ultima opzione: si attiva solo dopo aver verificato tutte le precedenti.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

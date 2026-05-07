@@ -270,6 +270,25 @@ ansia e lieve disturbo di personalità (quadro borderline compensato).
 
 ---
 
+## Domande di orientamento allo studio
+
+**Quali sono le quattro definizioni di normalità secondo Marcelli e quali sono i loro limiti?**
+Marcelli (1999) identifica quattro definizioni: 1) Media statistica — normale è chi rientra nella media misurata; il limite è che è solo descrittiva e quantitativa, non dice nulla sulla sofferenza. 2) Ideale a cui avvicinarsi — normale è il bambino "perfetto" secondo le aspettative sociali; il limite è che dipende da chi definisce l'ideale. 3) Processo dinamico — normale è chi si adatta e torna all'equilibrio; il limite è che presuppone le stesse risorse per tutti. 4) Assenza di malattia — definizione circolare per esclusione. La norma statistica è la più usata clinicamente (strumenti come ADOS-2, WISC-V, CBCL), ma può diventare pericolosa se cristallizza una persona in un punteggio.
+
+**Cosa distingue il sintomo dalla patologia in età evolutiva?**
+Il sintomo in sé non è il problema: in psicoanalisi è un compromesso tra pulsione e difesa, e rappresenta un tentativo di guarigione e di narrazione. Winnicott afferma che un bambino sano può manifestare un repertorio flessibile di sintomi — la loro assenza può essere un "falso sé". La patologia si manifesta come limitazione e rigidità: i sintomi non traghettano più il bambino oltre la difficoltà, diventano solo un disturbo. Il segnale patologico non è il sintomo in sé, ma la sua rigidità — quando il bambino non riesce a fare altro. I sintomi nelle fasi di transizione evolutiva meritano attenzione speciale perché spesso aiutano transitoriamente a organizzare l'affettività.
+
+**Quali sono i quattro assi della valutazione psicologica in età evolutiva?**
+I quattro assi sono: 1) Sindromico-sintomatico — raccoglie e organizza i sintomi nelle aree del corpo (sonno, alimentazione, controllo sfinterico, motricità) e del comportamento (aggressività, affettività, linguaggio, cognizione). 2) Strutturale — va al di là dei sintomi e cerca l'organizzazione profonda del mondo psichico (nevrotica, borderline, psicotica) usando griglie come quelle di Bergeret, Kernberg, o Palacio Espasa/Dufour. 3) Evolutivo — valuta le forze progressive e regressive, i punti di fissazione, le linee evolutive del bambino e i compiti evolutivi dell'adolescente. 4) Ambientale/Contestuale — valuta microsistema (famiglia, relazione adulto-bambino), mesosistema (relazione famiglia-scuola) e macrosistema (cultura, norme sociali).
+
+**Cosa significa che in psichiatria non esistono sintomi patognomonici e perché questo complica la valutazione?**
+Un sintomo patognomonico è un sintomo univocamente associato a una sola malattia — in psichiatria questi quasi non esistono. Lo stesso sintomo può indicare disturbi molto diversi: "non ho voglia di alzarmi dal letto" può essere clinofilia depressiva, disturbo del sonno o ritiro psicotico; le dispercezioni possono segnalare esordio psicotico, abuso di sostanze o disturbo del sonno. Questo rende necessaria una valutazione multiassiale che non si fermi ai sintomi ma consideri anche la struttura psichica, la linea evolutiva e il contesto. Un altro problema è che tendiamo a sovrastimare i sintomi "rumorosi" (aggressività, deliri circoscritti) e ignorare i sintomi silenziosi (calo delle funzioni cognitive, diminuzione della spinta vitale), che possono essere segnali di psicosi a esordio insidioso.
+
+**Come si legge il caso clinico di James attraverso i quattro assi?**
+James, 4-5 anni: comportamenti aggressivi, disturbi del sonno con incubi, alimentazione selettiva. Asse sintomatico: autoregolazione deficitaria, quota ansiosa, ipotesi di disturbo misto del comportamento e sfera emozionale. Asse strutturale (griglia Palacio Espasa): gioco simbolico espressivo ma sguardo sfuggente, pensiero discontinuo, affetti negativi, contenuti depressivi (cavalli che muoiono), immagine di sé centrata su bisogni primari di accudimento. Asse evolutivo: sviluppo perinatale e motorio nella norma. Asse ambientale: contesto sociale sfavorito, genitori giovanissimi, assenza del padre, madre con ansia e tratti borderline compensati. La diagnosi finale integra disturbo misto delle emozioni e condotta, disturbo psichico del genitore e fragilità psicosociale — con un piano di intervento multilivello.
+
+---
+
 ## Collegamenti
 
 **Lezioni precedenti:**

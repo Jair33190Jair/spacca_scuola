@@ -292,6 +292,26 @@ La domanda etica centrale che l'operatore prima o poi si trova a fronteggiare: q
 
 ---
 
+## Domande di orientamento allo studio
+
+**Cosa si intende per analisi funzionale nel lavoro con persone con ASD e perché è più utile della sola diagnosi medica?**
+L'analisi funzionale osserva e descrive come la persona funziona concretamente nelle diverse aree della vita — tenendo conto delle disabilità e difficoltà, del quadro complessivo delle capacità e delle potenzialità di sviluppo. È più utile della sola diagnosi medica perché ti dice cosa la persona sa fare in quel contesto specifico, a quell'ora del giorno, con quegli stimoli: "Mario alle 10 riesce a fare X ma non Y in quell'ambiente". Sapere che ha ASD di livello 2 non ti dice dove intervenire. L'analisi funzionale sì. È la base del PEI (Piano Educativo Individualizzato).
+
+**Quali sono i prerequisiti della comunicazione da sviluppare con le persone con ASD?**
+I prerequisiti della comunicazione sono le fondamenta senza cui nessun sistema comunicativo — nemmeno il migliore tablet — può funzionare. Sono: percezione sensoriale (ascoltare, osservare espressioni e gesti), interazione sociale (trovare interesse per l'altro e per il mondo), imitazione (nei bambini con ASD è una difficoltà importante — va costruita intenzionalmente), gestualità (i gesti precedono il linguaggio: indicare, tendere le mani), attenzione condivisa (focalizzarsi sullo stesso oggetto/evento insieme a un'altra persona — senza questa non si costruisce niente sopra), intento comunicativo (voler comunicare — non è scontato, va sviluppato), sviluppo cognitivo (riconoscimento di pattern, memoria, associazione di idee).
+
+**Come si gestiscono i comportamenti problema nelle persone con ASD?**
+I comportamenti problema non vanno soppressi — vanno compresi. L'approccio educativo li tratta come comunicazione: la persona sta cercando di esprimere qualcosa ma non ha strumenti adeguati. Il processo è: effettuare una valutazione funzionale per capire struttura e funzione del comportamento, poi insegnare un comportamento alternativo con la stessa funzione. Esempio dalla lezione: una ragazza con polyhandicap lanciava il piatto quando c'erano i pomodori — non era un problema di comportamento ma di comunicazione. La soluzione non era punirla ma trovare un canale per esprimere il rifiuto. Questo approccio vale per tutta l'utenza, non solo l'ASD.
+
+**Cos'è il polyhandicap? Quali sono le sue caratteristiche principali?**
+Il polyhandicap è un deficit grave, ad espressioni multiple, che associa sempre un deficit fisico importante a un deficit intellettivo severo o profondo. Questa combinazione causa una restrizione estrema dell'autonomia e delle possibilità di percezione, espressione e relazione. È la conseguenza di un danno cerebrale grave e incurabile avvenuto precocemente (prima dei 3 anni), che colpisce numerosi sistemi: neurologico, ortopedico, respiratorio, deglutizione, comunicazione. Non è una patologia statica — evolve con l'età. Il livello di sviluppo è paragonabile a quello di un bebè di circa 6 mesi (limite superiore 12 mesi), e i problemi si incatenano tra loro in modo complesso (es. deficit motorio → problemi posturali → difficoltà respiratorie).
+
+**Perché la comunicazione è così complessa nel polyhandicap e qual è l'errore più comune degli operatori?**
+La comunicazione ha due livelli: comprensione (recettiva) e produzione (espressiva). La comprensione viene sempre prima della produzione. L'errore più comune è pensare che chi non produce non comprenda — e questo è sbagliato. La prof porta l'esempio di una bambina diagnosticata con polyhandicap che a 7 anni, dopo che le è stato offerto un mezzo comunicativo alternativo, si è rivelata avere capacità intellettive intatte e saper leggere autonomamente. Era stata classificata erroneamente per anni. Come operatore devi imparare a leggere la comunicazione non verbale — lo sguardo, un piccolo gesto, una reazione — senza dare per scontata né la comprensione né la non comprensione.
+
+**Quali sono i principali approcci e metodi nel lavoro con le persone con ASD?**
+I principali approcci sono: ABA (Analisi Applicata del Comportamento, Skinner) — studia la relazione comportamento-ambiente in setting 1:1 con rinforzo positivo; Approcci Naturalistici — basati sull'ABA ma in contesti spontanei, seguono l'iniziativa del bambino; CBT (Terapia Cognitivo-Comportamentale) — lavora su pensieri, emozioni e comportamenti disfunzionali; TEACCH (Schopler, 1972) — strutturazione visiva e adattamento dell'ambiente; ESDM (Modello Denver) — parent training + ABA + teoria dello sviluppo, da 12 mesi in poi; CAA (Comunicazione Aumentativa e Alternativa) con sistemi come il PECS. Non esiste un unico approccio corretto — la buona pratica combina più metodi e si adatta alla persona.
+
 ## Concetti chiave
 
 | Termine | Significato |

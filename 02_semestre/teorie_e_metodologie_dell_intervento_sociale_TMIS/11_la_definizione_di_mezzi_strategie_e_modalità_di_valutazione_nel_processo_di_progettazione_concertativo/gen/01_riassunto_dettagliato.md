@@ -189,14 +189,20 @@ Ogni progetto — anche con lo stesso mandato — sarà diverso. Non è un probl
 
 ## Domande di orientamento allo studio
 
-Le domande del materiale di studio per questo modulo invitano a ragionare su:
-- Quali sono gli **elementi essenziali** per definire la progettazione educativa e sociale?
-- Cosa si intende per **progettualità**?
-- Quali sono i **principali modelli e approcci** per la progettazione?
-- Quali aspetti caratterizzano l'**analisi pedagogica** dei problemi socio-educativi?
-- Quali sono gli elementi principali delle **varie fasi progettuali**?
+**Quali sono gli elementi essenziali per definire la progettazione educativa e sociale?**
+La progettazione educativa e sociale è il processo che guida i percorsi di trasformazione e cambiamento personale, di gruppo e delle comunità, con l'obiettivo di cogliere il potenziale dei soggetti per promuoverne lo sviluppo (Kanisza & Tramma, 2011). I suoi elementi essenziali sono: l'intenzionalità (ha uno scopo preciso), la dimensione temporale (parte da una situazione presente e mira a una condizione futura auspicata), la dimensione relazionale (nasce e vive nelle relazioni tra tutti gli attori), e la natura processuale e circolare (non è lineare — si ricalibrare continuamente). Si basa su tre piani: logico, metodologico e relazionale.
 
-Per rispondere a queste domande bisogna saper integrare le lezioni 09, 10 e 11 in una visione coerente.
+**Cosa si intende per progettualità?**
+La progettualità (Brambilla, 2023) è la postura professionale continua dell'operatore — non un'attività episodica che si esercita solo quando si compila un documento. È un modo di stare nel lavoro caratterizzato da riflessività, intenzionalità e apertura al cambiamento. Va difesa dall'ansia applicativa (la tendenza a voler applicare subito soluzioni senza spazio per la ricerca), dalla routine che azzerato il pensiero critico, e dalla pressione delle emergenze quotidiane. Senza progettualità, il lavoro educativo si riduce alla gestione del momento.
+
+**Quali sono i principali modelli e approcci per la progettazione educativa e sociale?**
+I tre approcci principali (Leone & Prezza, 2003) si collocano su un continuum dalla massima pre-strutturazione alla massima apertura. L'**approccio sinottico-razionale** è lineare: obiettivi definiti a priori, processo consequenziale, responsabilità in capo all'operatore — adatto a micro-apprendimenti specifici in contesti controllati. L'**approccio concertativo-partecipato** co-costruisce il progetto con tutti gli attori attraverso dialogo e negoziazione: processo circolare, valutazione in itinere, responsabilità condivisa. L'**approccio euristico** rinuncia a definire obiettivi a priori: si conosce la realtà agendo dentro di essa (ricerca-azione) e il progetto emerge progressivamente — adatto a contesti ad alta complessità.
+
+**Quali aspetti caratterizzano l'analisi pedagogica dei problemi socio-educativi?**
+L'analisi pedagogica (Brambilla) richiede di evitare cinque trappole: ridurre il problema a una causa unica, confondere descrizione con spiegazione, attribuire il problema solo alla persona, saltare all'intervento prima di capire (ansia applicativa), proiettare le proprie categorie sull'altro. Un'analisi corretta considera il contesto sistemico, distingue osservazione da interpretazione, valorizza le prospettive di tutti gli attori (inclusa la persona), e costruisce una lettura condivisa prima di ipotizzare soluzioni. L'artigiano educativo sa che la qualità dell'analisi determina la qualità dell'intervento.
+
+**Riassumi gli elementi principali delle varie fasi progettuali.**
+Le cinque fasi (Leone & Prezza, 2003): 1) **Ideazione** — nasce l'ipotesi di intervento dall'osservazione della situazione; 2) **Attivazione** — lettura condivisa con tutti gli attori, verifica delle risorse, costruzione della rete, ottenimento del consenso; 3) **Scrittura** — elaborazione del progetto scritto (obiettivi SMART, azioni, tempistiche, risorse, responsabilità, indicatori di verifica); 4) **Realizzazione** — avvio delle attività, monitoraggio in itinere, aggiustamenti progressivi senza oggettivare il progetto; 5) **Verifica** — valutazione finale dello scarto tra attese e risultati, include gli esiti inattesi, alimenta la riformulazione. La dimensione artigianale — attenzione, cura, adattamento — attraversa tutte le fasi.
 
 ---
 

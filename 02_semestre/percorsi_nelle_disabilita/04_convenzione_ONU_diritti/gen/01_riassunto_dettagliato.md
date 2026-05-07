@@ -244,6 +244,28 @@ La Lingua Facile non è solo per le persone con disabilità intellettiva:
 
 ---
 
+## Domande di orientamento allo studio
+
+**Cos'è la CDPD, quando è stata adottata e qual è la posizione della Svizzera rispetto ad essa?**
+La Convenzione sui Diritti delle Persone con Disabilità (CDPD) è stata adottata dall'Assemblea Generale dell'ONU il 13 dicembre 2006 ed è entrata in vigore internazionalmente il 3 maggio 2008. La Svizzera l'ha ratificata il 15 aprile 2014, con entrata in vigore il 15 maggio 2014. La Svizzera, però, non ha aderito al Protocollo Facoltativo, il che significa che una persona non può ricorrere direttamente al Comitato ONU in caso di violazione: il ricorso si ferma al Tribunale Federale, e le raccomandazioni del Comitato ONU non hanno forza coercitiva.
+
+**Perché esiste una convenzione specifica per le persone con disabilità se esiste già la Dichiarazione Universale dei Diritti dell'Uomo?**
+Le persone con disabilità non hanno diritti "speciali": hanno gli stessi diritti di tutti. Il problema è che questi diritti, nella pratica, non si realizzano automaticamente per loro. La CDPD non inventa nuovi diritti — concretizza e specifica come i diritti universali già esistenti si applicano alla situazione particolare delle persone con disabilità. Per esempio: il diritto al voto esiste per tutti, ma se il seggio elettorale è fisicamente inaccessibile a chi usa la carrozzina, quel diritto non può essere esercitato. La CDPD dice al contesto come deve adattarsi.
+
+**Come definisce la CDPD la disabilità e perché questa definizione è un cambio di paradigma rispetto al modello medico?**
+Il preambolo della CDPD afferma che "la disabilità è il risultato dell'interazione tra persone con menomazioni e barriere comportamentali e ambientali, che impediscono la loro piena ed effettiva partecipazione alla società". Questo è un cambio radicale: la disabilità non è una caratteristica della persona, ma il prodotto di una relazione tra la persona e il contesto. Le barriere non sono solo fisiche (una scala) ma anche culturali, sociali e legislative. Il problema non è la persona da "riparare" — è il contesto che non si adatta. Questo allineamento va di pari passo con il modello biopsicosociale dell'ICF.
+
+**Cosa sono le sessioni parlamentari delle persone con disabilità in Svizzera e qual è il loro scopo?**
+Le sessioni parlamentari sono un progetto innovativo che permette a persone con disabilità di sedersi in parlamento e formulare raccomandazioni concrete. Nel 2023, a livello federale, 44 persone con disabilità hanno elaborato raccomandazioni trasferite al Consiglio Federale. Nel 2024, a livello cantonale ticinese, 30 persone hanno elaborato risoluzioni su tre temi (diritti politici, accessibilità e sostegni, coinvolgimento e conoscenza), trasformate in tre petizioni a Consiglio di Stato, Gran Consiglio e Comuni. Le sessioni hanno due scopi: esercitare pressione politica concreta sulle autorità, e legittimare e promuovere la partecipazione delle persone con disabilità alla vita pubblica.
+
+**Cos'è la Lingua Facile, a chi serve e come si collega alla CDPD?**
+La Lingua Facile (Easy-to-Read) è un metodo di scrittura che semplifica i testi per renderli accessibili a persone con difficoltà cognitive o di lettura: parole semplici, frasi brevi, tempo presente, layout chiaro, senza metafore o acronimi. Si collega direttamente agli articoli 9 (Accessibilità) e 21 (Libertà di espressione e accesso all'informazione) della CDPD. Beneficia non solo le persone con disabilità intellettiva, ma anche grandi anziani, persone con bassa alfabetizzazione, persone di lingua madre diversa e persone sorde. In Svizzera è promossa da Pro Infirmis; in Ticino le votazioni cantonali sono disponibili in lingua facile dal 2019, e il notiziario RSI delle 11.45 è in lingua facile dal 2025.
+
+**Qual è il ruolo dello slogan "Niente su di noi, senza di noi" e come si è concretizzato nell'elaborazione della CDPD?**
+Lo slogan sintetizza il principio di partecipazione attiva delle persone con disabilità nei processi che le riguardano. L'elaborazione della CDPD è avvenuta con un gruppo di lavoro che includeva non solo rappresentanti degli stati (27) e istituzioni per i diritti umani (1), ma anche 12 ONG di persone con disabilità — che erano quindi parte attiva del processo, non oggetto passivo di decisioni altrui. Questo principio è poi stato incorporato come valore fondante della convenzione stessa, e orienta ogni pratica di lavoro sociale che voglia rispettare la dignità e l'autodeterminazione delle persone con disabilità.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

@@ -1,5 +1,5 @@
 # Teorie e Metodologie dell'Intervento Sociale (TMIS) — Panoramica completa
-Semestre 02 · 12 lezioni
+Semestre 02 · 13 lezioni
 
 > Sei partito dal contesto in cui nasce il lavoro sociale (modernità liquida, incertezza strutturale) e hai costruito mattone per mattone il profilo dell'operatore: chi è la persona con cui lavora, quali sono le sue finalità, e come si traduce tutto questo in progettazione concreta. Il filo conduttore è uno solo: l'operatore non porta soluzioni — accompagna le persone verso le proprie. Tutto il corso lo dimostra, da angolature diverse.
 
@@ -21,6 +21,7 @@ Semestre 02 · 12 lezioni
 | 10 | Definizione degli obiettivi | Capabilities, struttura obiettivi, ZSP, azioni progettuali, valutazione |
 | 11 | Mezzi, strategie, valutazione | Postura artigianale, fasi scritte, valutazione in itinere vs. finale |
 | 12 | Materiale esame — introduzione teorica | Sintesi trasversale di tutti i temi del corso |
+| 13 | Materiale esame — progettazione | Sintesi trasversale della parte progettazione: approcci, processo, obiettivi, osservazione |
 
 ---
 
@@ -185,11 +186,13 @@ Semestre 02 · 12 lezioni
 
 ---
 
-## BLOCCO TRASVERSALE — Lezione 12 (materiale esame)
+## BLOCCO TRASVERSALE — Lezioni 12 e 13 (materiale esame)
 
-La lezione 12 è una **sintesi dell'intero corso** pensata per l'esame: riprende tutti i grandi temi dei due blocchi in forma consolidata. Va studiata insieme agli schematici delle altre lezioni, non in sostituzione.
+La **lezione 12** è una sintesi pensata per l'esame della parte teorica (lezioni 01–05): riprende modernità liquida, figura liquida, IFSW, approccio anti-oppressivo, modello bioecologico, identità, vulnerabilità, disagio, resilienza, bisogni, QdV, salute, PERMA, empowerment, autonomia, autostima/autoefficacia, autodeterminazione, integrazione/inclusione, relazione professionale, meta-competenze.
 
-Temi ricapitolati: modernità liquida · figura liquida · IFSW · approccio anti-oppressivo · modello bioecologico · identità · vulnerabilità · disagio · resilienza · bisogni · QdV · salute · PERMA · empowerment · autonomia · autostima/autoefficacia · autodeterminazione · integrazione/inclusione · relazione professionale · meta-competenze.
+La **lezione 13** è una sintesi pensata per l'esame della parte progettazione (lezioni 06–11): riprende tutti i modelli di progettazione, i livelli di partecipazione O'Sullivan (A-D), il processo tipo del Progetto di vita, l'analisi del contesto (Tramma), l'analisi pedagogica dei problemi (Brambilla), desideri/aspirazioni (Appadurai), capabilities (Sen), obiettivi SMART e ZSP (Vygotskij), le tipologie di osservazione e le tecniche narrative e sistematiche.
+
+Entrambe le lezioni vanno studiate insieme agli schematici delle altre lezioni, non in sostituzione.
 
 ---
 
@@ -230,7 +233,9 @@ Temi ricapitolati: modernità liquida · figura liquida · IFSW · approccio ant
 | Appadurai, A. | Capacità di aspirare | 09 |
 | Brambilla, L. | 5 trappole interpretative; postura progettuale | 09 |
 | Sen, A.K. | Approccio delle capabilities | 10, 11 |
-| Traverso, A. | Funzioni degli obiettivi | 10, 11 |
+| Traverso, A. | Funzioni degli obiettivi; SMART; metodologia progettazione educativa | 10, 11, 13 |
+| Maida, S., Molteni, L., Nuzzo, A. | Educazione e osservazione; 5 componenti; tecniche narrative e sistematiche | 08, 13 |
+| Braga, P. | 9 accorgimenti per attenuare la soggettività nell'osservazione | 08, 13 |
 
 ---
 

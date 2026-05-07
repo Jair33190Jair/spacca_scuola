@@ -316,6 +316,28 @@ lavoriamo. Questa consapevolezza è il centro della responsabilità educativa.
 
 ---
 
+## Domande di orientamento allo studio
+
+**Cos'è l'ICF e in cosa si distingue dall'ICD?**
+L'ICF (Classificazione Internazionale del Funzionamento, della Disabilità e della Salute) è uno strumento OMS del 2001 che classifica il funzionamento della persona nel suo contesto — si chiede "come funziona questa persona nella vita reale?". L'ICD invece classifica le malattie e le loro cause seguendo la logica eziologia → patologia → manifestazione clinica. L'ICF non sostituisce l'ICD: lo completa. La diagnosi dice cosa ha una persona; l'ICF dice come quella persona vive, funziona e partecipa alla vita sociale. Il cambio chiave è passare da una visione negativa (il deficit) a una positiva (il funzionamento).
+
+**Qual è la struttura dell'ICF? Quali sono le sue componenti principali?**
+L'ICF è organizzato in due parti. Parte 1 — Funzionamento e Disabilità: comprende le funzioni corporee (8 domini: mentale, sensoriale, voce, cardiovascolare, digestivo, genitourinario, neuro-muscolo-scheletrico, cute), le strutture corporee (8 domini paralleli, anatomici) e le attività e partecipazione (9 domini: apprendimento, compiti generali, comunicazione, mobilità, cura di sé, vita domestica, relazioni interpersonali, aree di vita principali, vita sociale e civile). Parte 2 — Fattori Contestuali: include i fattori ambientali (5 domini: prodotti e tecnologia, ambiente naturale, relazioni e sostegno, atteggiamenti, servizi e politiche) e i fattori personali (non classificabili per la varietà infinita del vissuto umano).
+
+**Cosa si intende per capacità e performance nell'ICF? Perché questa distinzione è rilevante per la pratica?**
+La capacità descrive ciò che una persona può fare in un ambiente standard e neutro, senza adattamenti specifici — è una caratteristica intrinseca della persona. La performance descrive ciò che la persona fa effettivamente nel suo ambiente attuale, con i supporti in atto. La differenza è determinata dall'ambiente. Un esempio: una persona che cucina bene nel suo foyer adattato ha alta capacità in quel contesto, ma la sua performance in una cucina standard non adattata può essere molto più bassa. Questa distinzione è importante perché indica dove intervenire: se voglio inserire una persona in un nuovo contesto, devo capire cosa nell'ambiente standard crea difficoltà e come modificarlo — non solo osservare la performance nel contesto protetto.
+
+**Cosa sono i fattori ambientali nell'ICF? Qual è la responsabilità professionale dell'operatore sociale?**
+I fattori ambientali sono le influenze esterne che possono avere impatto positivo (facilitatori) o negativo (barriere) sul funzionamento della persona. I 5 domini includono prodotti e tecnologia, ambiente naturale, relazioni e sostegno sociale, atteggiamenti delle persone e della società, servizi/sistemi/politiche. L'attenzione agli atteggiamenti è cruciale: la convinzione che una persona "non ce la farà mai" è una barriera concreta, come la credenza nel suo potenziale è un facilitatore reale. La responsabilità professionale fondamentale dell'ICF è che noi operatori siamo parte dell'ambiente: il nostro modo di stare, di credere, di agire condiziona il funzionamento delle persone con cui lavoriamo.
+
+**Quali sono le implicazioni pratiche dell'ICF nel lavoro sociale quotidiano?**
+L'ICF ha cinque applicazioni concrete: (1) griglia di osservazione sistematica — i 9 domini di attività e partecipazione dicono esattamente dove guardare quando si osserva una persona; (2) costruzione del PEI (Piano Educativo Individualizzato) — ogni obiettivo può essere ancorato a un dominio ICF specifico; (3) linguaggio condiviso tra medici, educatori, assistenti sociali e famiglie, anche tra paesi diversi grazie al sistema alfanumerico internazionale; (4) ricerca sistematica di barriere e facilitatori per agire sul contesto; (5) sviluppo della consapevolezza della propria responsabilità educativa come operatori che sono parte dell'ambiente.
+
+**Come funziona il sistema di codifica ICF?**
+L'ICF usa un sistema alfanumerico standardizzato. Le lettere indicano la componente: b (body) per funzioni corporee, s (structure) per strutture corporee, d (domain) per attività e partecipazione, e (environment) per fattori ambientali. I numeri specificano il dominio in modo gerarchico progressivo (es. b167 = funzioni mentali del linguaggio; b1670 = recepire il linguaggio; b16700 = recepire il linguaggio verbale). Il qualificatore numerico dopo il punto indica la gravità: da 0 (nessuna menomazione) a 4 (menomazione completa) per funzioni e strutture; per i fattori ambientali, + indica un facilitatore e . una barriera (scala 0–4).
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

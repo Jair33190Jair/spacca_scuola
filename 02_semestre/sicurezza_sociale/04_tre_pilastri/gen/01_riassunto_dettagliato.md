@@ -168,6 +168,28 @@ Il sistema di sicurezza sociale **non è universale**: non copre tutti allo stes
 
 ---
 
+## Domande di orientamento allo studio
+
+**Quali sono i tre pilastri del sistema previdenziale svizzero e quale obiettivo persegue ciascuno?**
+Il primo pilastro (AVS, AI, PC) ha come obiettivo garantire il minimo vitale a tutta la popolazione; è obbligatorio per tutti i residenti e finanziato con il sistema a ripartizione. Il secondo pilastro (previdenza professionale / cassa pensione) punta a mantenere il tenore di vita precedente la vecchiaia, l'invalidità o il decesso; è obbligatorio per i salariati con salario annuo superiore a CHF 22.680 ed è finanziato con il sistema a capitalizzazione. Il terzo pilastro (previdenza privata) è facoltativo e serve all'integrazione individuale, con agevolazioni fiscali per il pilastro 3a.
+
+**Qual è la differenza tra sistema a ripartizione e sistema a capitalizzazione?**
+Nel sistema a ripartizione (primo pilastro), i contributi versati oggi dai lavoratori attivi finanziano le pensioni dei pensionati di oggi: non si accumula nulla individualmente. Nel sistema a capitalizzazione (secondo e terzo pilastro), i contributi versati si accumulano in un conto personale, vengono investiti e generano interessi: al pensionamento, ognuno percepisce essenzialmente quanto ha versato più i rendimenti.
+
+**Quali prestazioni eroga l'AVS e come funziona il suo finanziamento?**
+L'AVS eroga rendite di vecchiaia (da CHF 1.260 a CHF 2.520 al mese), rendite per i superstiti in caso di decesso del capofamiglia, assegni per grandi invalidi e mezzi ausiliari. Il finanziamento si basa sul sistema a ripartizione: prelievi su salari e redditi da lavoro indipendente, contributi pubblici (Confederazione e Cantoni) e redditi da capitale del Fondo AVS. Ogni assicurato ha un Conto Individuale (CI) che registra i contributi versati nel corso della vita lavorativa.
+
+**Chi sono le persone senza attività lucrativa (PAL) e quali sono i loro obblighi AVS?**
+Le PAL sono persone residenti in Svizzera che non hanno un reddito da lavoro: studenti, casalinghi, disoccupati non coperti dall'AD. Anche loro sono obbligate a versare i contributi AVS, ma in forma forfettaria: nel 2026 il contributo minimo è CHF 535 l'anno. Ogni anno di contributi mancanti riduce la futura rendita AVS del 2,3% e il recupero retroattivo è possibile solo per gli ultimi 5 anni. Come operatori sociali, verificare le lacune contributive è una delle prime azioni da fare con le persone in difficoltà.
+
+**Qual è il principio guida dell'AI e come si articola il processo di valutazione?**
+Il principio guida dell'AI è "l'integrazione prima della rendita": si cerca di reinserire la persona nel mondo del lavoro prima di riconoscere una rendita. Il processo si articola in tre fasi: (1) rilevamento tempestivo entro 30 giorni dall'insorgenza del problema; (2) intervento tempestivo (max 12 mesi) con adeguamento del posto di lavoro, formazione, orientamento professionale, collocamento; (3) decisione finale con eventuale riconoscimento di provvedimenti di integrazione o della rendita. Il grado di invalidità si calcola con la definizione economica: confronto tra il reddito ipotetico senza invalidità e quello effettivo con invalidità.
+
+**Che cos'è l'AINF e chi è assicurato obbligatoriamente contro gli infortuni non professionali?**
+L'AINF (assicurazione contro gli infortuni) tutela i salariati da infortuni professionali, malattie professionali e infortuni non professionali. L'assicurazione obbligatoria per infortuni professionali vale per tutti i salariati; quella per infortuni non professionali e sul tragitto casa-lavoro vale solo per i salariati con almeno 8 ore di lavoro settimanali dallo stesso datore di lavoro. Chi lavora meno di 8 ore settimanali è coperto solo per gli infortuni professionali. Gli indipendenti possono assicurarsi facoltativamente.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

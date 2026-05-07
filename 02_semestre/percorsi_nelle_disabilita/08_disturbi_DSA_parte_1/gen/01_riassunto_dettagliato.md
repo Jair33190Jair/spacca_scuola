@@ -332,6 +332,28 @@ In Ticino, il punto di riferimento per famiglie e professionisti è la **Fondazi
 
 ---
 
+## Domande di orientamento allo studio
+
+**Cos'è il Disturbo dello Spettro Autistico (ASD) e quali sono le sue caratteristiche fondamentali?**
+L'ASD (Autism Spectrum Disorder) è una sindrome comportamentale causata da un disordine dello sviluppo biologicamente determinato, con esordio prima dei tre anni di vita. Tre caratteristiche fondamentali: è una sindrome comportamentale (la diagnosi si basa sull'osservazione di comportamenti, non su esami del sangue o test neurologici); è biologicamente determinato (ha radici organiche e neurologiche, non è una scelta né colpa dei genitori); è permanente (accompagna la persona per tutta la vita, anche se le caratteristiche possono cambiare nel tempo). Le cause sono ancora parzialmente sconosciute, ma c'è consenso internazionale su tre fattori che interagiscono: neurobiologici, costituzionali e psicoambientali.
+
+**Quali sono le due aree della diade diagnostica del DSM-5 per l'ASD?**
+Il DSM-5 basa la diagnosi di ASD su due aree: (A) Deficit persistenti della comunicazione sociale e dell'interazione sociale, che include tre criteri — deficit della reciprocità socio-emotiva (difficoltà a rispondere alle interazioni sociali, scarso contatto visivo, difficoltà a capire gesti ed espressioni), deficit dei comportamenti comunicativi non verbali (difficoltà a usare o interpretare linguaggio non verbale, comunicazione verbale e non verbale scarsamente integrate), e deficit nello sviluppo delle relazioni (difficoltà ad adattare il comportamento ai contesti, mancanza di gioco simbolico). (B) Pattern di comportamento, interessi o attività ristretti e ripetitivi, che include quattro criteri — movimenti e linguaggio stereotipati, insistenza nella sameness (bisogno di routine), interessi ristretti e fissi, e iper- o ipo-reattività sensoriale.
+
+**Come è cambiata la visione dell'autismo nel corso della storia? Quali errori storici hanno avuto effetti più devastanti?**
+L'autismo è stato descritto per la prima volta da Leo Kanner nel 1943 (11 bambini con "autismo precoce infantile") e da Hans Asperger nel 1944 (profilo ad alto funzionamento). L'errore più devastante è quello di Kanner stesso, che nel 1955 teorizzò il disturbo psicogeno causato dai "genitori troppo impegnati". Questo errore fu amplificato da Bruno Bettelheim negli anni '60, che inventò il termine "madre frigorifero" — una madre fredda e distante causa dell'autismo. La conseguenza pratica fu che i bambini venivano tolti alle famiglie. Questa teoria è completamente errata ma ha avuto impatto per decenni. La svolta arriva negli anni '70 con Rimland, Lovaas, Rutter e Lorna Wing, che dimostrano l'origine neurologica e abbandonano la spiegazione psicogena.
+
+**Cosa significa che l'autismo è uno "spettro"? Quali sono i tre significati del termine?**
+Il termine spettro indica tre cose distinte: (1) Dimensionalità — le caratteristiche dell'autismo esistono su un continuum di gravità da molto lieve a molto grave; (2) Continuità con la popolazione generale — tutti abbiamo qualche tratto autistico distribuito in modo continuo, la diagnosi arriva quando questi tratti compromettono il funzionamento; (3) Eterogeneità qualitativa — esistono diversi "tipi" di autismo, non solo diversi livelli di gravità. Come sintetizza la professoressa: "Quando hai visto una persona con ASD, hai visto solo UNA persona con ASD." Le differenze tra due persone autistiche possono essere maggiori che tra una persona autistica e una neurotipica.
+
+**Quali sono i tre livelli di gravità dell'ASD nel DSM-5 e su cosa si basano?**
+Il DSM-5 introduce tre livelli basati sul grado di compromissione nelle due aree diagnostiche: il Livello 1 (ex "alto funzionamento"/Asperger) comporta ridotta compromissione linguistica e cognitiva, con difficoltà nell'iniziare interazioni sociali e interessi ristretti che possono ostacolare la quotidianità; il Livello 2 presenta compromissione intermedia con deficit comunicativi evidenti in più contesti e comportamenti ripetitivi interferenti; il Livello 3 è la forma grave, con iniziativa personale limitatissima, comportamenti ripetitivi interferenti in qualsiasi attività e necessità di supporto molto sostanziale in entrambe le aree.
+
+**Cos'è la neurodiversità e perché è rilevante per il lavoro educativo?**
+Il termine neurodiversità è stato coniato da Judith Singer negli anni '90. L'idea è che la variazione neurologica è una parte naturale della diversità umana, non solo una patologia da "correggere". Questo non nega le difficoltà reali delle persone con ASD, ma sposta la domanda: da "cosa c'è di sbagliato in questa persona?" a "come possiamo costruire ambienti e strumenti che funzionino anche per lei?". Per il lavoro educativo significa partire dai punti di forza e dagli interessi della persona, non solo dai deficit. Il DSM-5 stesso riconosce che gli interessi speciali possono diventare un punto di accesso nell'intervento educativo e professionale.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |
