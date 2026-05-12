@@ -1,17 +1,26 @@
 # La Convenzione ONU sui Diritti delle Persone con Disabilità
 Percorsi nelle Disabilità · Sessione 04
 
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🟡 Oro    #D4AC0D → Connessione / implicazione
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+-->
+
 > Questa lezione è una di quelle che ti rimangono. Non si parla solo di una legge internazionale — si parla di un cambio di rotta culturale profondo, delle lotte che lo hanno reso possibile, e degli strumenti pratici per farlo diventare realtà nel lavoro quotidiano. La CDPD è, come ripetono le docenti, **la bussola** per chi lavora nell'ambito della disabilità.
 
 ---
 
 ## Dove eravamo rimasti: gli anni '70 e i movimenti sociali
 
-La lezione parte da un ripasso della sessione precedente. Fino agli anni '70 l'**istituzionalizzazione** era la risposta dominante alla disabilità: le persone venivano rinchiuse in strutture con lo scopo dichiarato di proteggerle — e di proteggere la società. Le condizioni di vita erano spesso disastrose.
+La lezione parte da un ripasso della sessione precedente. <span class="c-def">Fino agli anni '70 l'**istituzionalizzazione** era la risposta dominante alla disabilità: le persone venivano rinchiuse in strutture con lo scopo dichiarato di proteggerle — e di proteggere la società.</span> Le condizioni di vita erano spesso disastrose.
 
-Il documentario **Crip Camp – Disabilità Rivoluzionarie** (2020, Nicole Newnham e Jim LeBrecht) mostra come da un campeggio per ragazzi con disabilità negli anni '70 a New York sia nato un vero e proprio **movimento di attivisti**. Queste persone, escluse da scuole e trasporti, iniziano a chiedere i propri diritti civili con proteste, occupazioni di uffici, contatti con altri movimenti (le Pantere Nere le forniscono cibo durante l'occupazione di un edificio federale a San Francisco).
+Il documentario <span class="c-dato">**Crip Camp – Disabilità Rivoluzionarie** (2020, Nicole Newnham e Jim LeBrecht)</span> mostra come da un campeggio per ragazzi con disabilità negli anni '70 a New York sia nato un vero e proprio **movimento di attivisti**. Queste persone, escluse da scuole e trasporti, iniziano a chiedere i propri diritti civili con proteste, occupazioni di uffici, contatti con altri movimenti (le Pantere Nere le forniscono cibo durante l'occupazione di un edificio federale a San Francisco).
 
-La battaglia centrale di quel momento è la **Sezione 504** del Rehabilitation Act del 1973: una norma antidiscriminazione sepolta in fondo a una legge più ampia, che chiedeva a chiunque ricevesse fondi pubblici di non discriminare le persone con disabilità. Viene firmata ma non applicata per anni, finché le proteste nazionali non forzano la mano.
+<span class="c-tesi">La battaglia centrale di quel momento è la **Sezione 504** del Rehabilitation Act del 1973: una norma antidiscriminazione sepolta in fondo a una legge più ampia, che chiedeva a chiunque ricevesse fondi pubblici di non discriminare le persone con disabilità.</span> Viene firmata ma non applicata per anni, finché le proteste nazionali non forzano la mano.
 
 > La prof. sottolinea come le domande di quegli anni — "a quante persone servirebbero davvero gli ascensori?" — siano le stesse che sentiamo ancora oggi nelle discussioni politiche.
 
@@ -19,24 +28,24 @@ La battaglia centrale di quel momento è la **Sezione 504** del Rehabilitation A
 
 Quel fermento degli anni '70 non è rimasto oltreoceano. In Ticino nascono in quegli stessi anni associazioni fondamentali:
 
-- **Atgabbes** (1967): associazione di famiglie e amici di persone con disabilità, nata perché in Ticino non esistevano risposte adeguate — le famiglie dovevano portare i figli in Svizzera interna o in Italia.
+- <span class="c-dato">**Atgabbes** (1967)</span>: associazione di famiglie e amici di persone con disabilità, nata perché in Ticino non esistevano risposte adeguate — le famiglie dovevano portare i figli in Svizzera interna o in Italia.
 - **Comunità Familiare**: fondata da padre Calisto per dare risposte alle famiglie in difficoltà, poi aperta alla disabilità.
-- **Fondazione Diamante** (1978): nata come braccio operativo di Atgabbes per gestire laboratori e foyeri, mentre l'associazione si concentrava sulla parte politica e di sensibilizzazione.
+- <span class="c-dato">**Fondazione Diamante** (1978)</span>: nata come braccio operativo di Atgabbes per gestire laboratori e foyeri, mentre l'associazione si concentrava sulla parte politica e di sensibilizzazione.
 
-La **LISPI** (Legge sull'Integrazione Socio-Professionale degli Invalidi, 1979) è figlia diretta di questo periodo: le famiglie hanno girato casa per casa a raccogliere firme per farla approvare.
+<span class="c-impl">La **LISPI** (Legge sull'Integrazione Socio-Professionale degli Invalidi, 1979) è figlia diretta di questo periodo: le famiglie hanno girato casa per casa a raccogliere firme per farla approvare.</span>
 
 ---
 
 ## L'ONU e la Dichiarazione Universale dei Diritti dell'Uomo
 
-Prima di entrare nella CDPD, le docenti inquadrano il contesto istituzionale. L'**ONU** (Organizzazione delle Nazioni Unite) nasce nel 1945 — la Svizzera vi aderisce nel **2002**, l'Italia nel 1955 — con la missione di "salvare le future generazioni dal flagello della guerra". Conta oggi 193 stati membri.
+Prima di entrare nella CDPD, le docenti inquadrano il contesto istituzionale. <span class="c-def">L'**ONU** (Organizzazione delle Nazioni Unite) nasce nel 1945</span> — la Svizzera vi aderisce nel **2002**, l'Italia nel 1955 — con la missione di "salvare le future generazioni dal flagello della guerra". Conta oggi 193 stati membri.
 
 Le agenzie ONU più rilevanti per il settore sociale:
 - **OMS** (Organizzazione Mondiale della Sanità): fornisce definizioni, classificazioni e linee guida — sarà fondamentale quando si parlerà di ICF.
 - **UNICEF**: si occupa dei bambini.
 - **UNESCO**: valorizza i beni culturali e materiali.
 
-Tutte le convenzioni ONU, inclusa la CDPD, e i codici deontologici del lavoro sociale hanno un'unica radice comune: la **Dichiarazione Universale dei Diritti dell'Uomo** (1948), adottata all'indomani della guerra come fondamento di libertà, giustizia e pace.
+<span class="c-tesi">Tutte le convenzioni ONU, inclusa la CDPD, e i codici deontologici del lavoro sociale hanno un'unica radice comune: la **Dichiarazione Universale dei Diritti dell'Uomo** (1948), adottata all'indomani della guerra come fondamento di libertà, giustizia e pace.</span>
 
 I diritti umani si distinguono in tre tipi:
 1. **Diritti civili e politici**: diritto alla vita, libertà di riunione, libertà di religione.
@@ -49,13 +58,13 @@ I diritti umani si distinguono in tre tipi:
 
 ### Un lungo percorso partecipato
 
-La **Convenzione sui Diritti delle Persone con Disabilità** (CDPD) è stata adottata dall'Assemblea Generale dell'ONU il **13 dicembre 2006** ed è entrata in vigore internazionalmente il 3 maggio 2008.
+La <span class="c-def">**Convenzione sui Diritti delle Persone con Disabilità** (CDPD)</span> è stata adottata dall'Assemblea Generale dell'ONU il <span class="c-dato">**13 dicembre 2006**</span> ed è entrata in vigore internazionalmente il 3 maggio 2008.
 
 Un aspetto fondamentale: la convenzione è stata elaborata con un gruppo di lavoro che includeva **27 rappresentanti di stati, 12 ONG di persone con disabilità e 1 istituzione per la difesa dei diritti dell'uomo**. Le persone con disabilità erano dentro il processo, non oggetto passivo di decisioni altrui. Lo slogan della convenzione lo dice chiaramente:
 
 > **"Niente su di noi, senza di noi."**
 
-La Svizzera ha **ratificato** la CDPD il 15 aprile 2014, con entrata in vigore il 15 maggio 2014. Non ha però aderito al **Protocollo Facoltativo** — su questo torneremo.
+La Svizzera ha **ratificato** la CDPD il <span class="c-dato">15 aprile 2014</span>, con entrata in vigore il 15 maggio 2014. <span class="c-warn">Non ha però aderito al **Protocollo Facoltativo** — su questo torneremo.</span>
 
 ### Struttura della convenzione
 
@@ -76,9 +85,9 @@ La domanda è legittima: se esiste già la Dichiarazione Universale dei Diritti 
 
 La risposta è cruciale e va capita bene per non sbagliare impostazione:
 
-> **Le persone con disabilità non hanno diritti speciali. Hanno gli stessi diritti di tutti, ma hanno bisogni specifici.**
+> <span class="c-tesi">**Le persone con disabilità non hanno diritti speciali. Hanno gli stessi diritti di tutti, ma hanno bisogni specifici.**</span>
 
-La CDPD non inventa nuovi diritti — **concretizza e specifica** come i diritti fondamentali già esistenti si applicano alla particolare situazione delle persone con disabilità. È un po' come se la legge generale garantisse a tutti di votare, ma la CDPD dicesse: "e allora i seggi elettorali devono essere fisicamente accessibili a chi si muove in carrozzina". Il diritto è lo stesso; il bisogno di adattamento del contesto è specifico.
+<span class="c-impl">La CDPD non inventa nuovi diritti — **concretizza e specifica** come i diritti fondamentali già esistenti si applicano alla particolare situazione delle persone con disabilità.</span> È un po' come se la legge generale garantisse a tutti di votare, ma la CDPD dicesse: "e allora i seggi elettorali devono essere fisicamente accessibili a chi si muove in carrozzina". Il diritto è lo stesso; il bisogno di adattamento del contesto è specifico.
 
 ---
 
@@ -90,11 +99,11 @@ Il punto cruciale del preambolo è la **definizione di disabilità**:
 
 > *(e) Riconoscendo che la disabilità è un concetto in evoluzione e che la disabilità è il risultato dell'interazione tra persone con menomazioni e barriere comportamentali e ambientali, che impediscono la loro piena ed effettiva partecipazione alla società su base di uguaglianza con gli altri.*
 
-Questa definizione è rivoluzionaria: la disabilità non è una caratteristica della persona, ma il risultato di un'**interazione** tra la persona e l'ambiente. Le barriere non sono solo architettoniche — sono anche culturali, sociali, legislative. Il problema non è la persona: è il contesto che non si adatta.
+<span class="c-tesi">Questa definizione è rivoluzionaria: la disabilità non è una caratteristica della persona, ma il risultato di un'**interazione** tra la persona e l'ambiente. Le barriere non sono solo architettoniche — sono anche culturali, sociali, legislative. Il problema non è la persona: è il contesto che non si adatta.</span>
 
 Pensala così: un giardiniere esperto che conosce mille piante non diventa "incompetente" perché gli danno un libro scritto in caratteri microscopici. Il problema è il libro, non lui. La disabilità funziona nella stessa logica.
 
-Questo cambio di paradigma è strettamente collegato alla **ICF** (Classificazione Internazionale del Funzionamento, promossa dall'OMS), che verrà approfondita nelle prossime lezioni.
+<span class="c-impl">Questo cambio di paradigma è strettamente collegato alla **ICF** (Classificazione Internazionale del Funzionamento, promossa dall'OMS), che verrà approfondita nelle prossime lezioni.</span>
 
 ---
 
@@ -118,7 +127,7 @@ Sensibilizzare la società, combattere stereotipi e pregiudizi, promuovere la co
 
 ### Art. 19 — Vita indipendente e inclusione nella comunità
 
-Le persone con disabilità devono poter scegliere dove e con chi vivere, con i sostegni necessari. Non sono obbligate a vivere in una particolare sistemazione abitativa. Questo è uno degli articoli più rilevanti rispetto all'istituzionalizzazione.
+<span class="c-def">Le persone con disabilità devono poter scegliere dove e con chi vivere, con i sostegni necessari. Non sono obbligate a vivere in una particolare sistemazione abitativa.</span> Questo è uno degli articoli più rilevanti rispetto all'istituzionalizzazione.
 
 ### Art. 21 — Libertà di espressione e accesso all'informazione
 
@@ -140,7 +149,7 @@ Diritto al lavoro in un mercato inclusivo, senza discriminazione. È l'articolo 
 
 ### Art. 29 — Partecipazione alla vita politica e pubblica
 
-Diritto di votare, di essere eletti, con procedure e strutture accessibili. Diritto di farsi assistere, di partecipare ad associazioni e di essere autorappresentati. Il seggio elettorale inaccessibile viola questo articolo — esempio concreto che la prof. cita spesso.
+<span class="c-es">Diritto di votare, di essere eletti, con procedure e strutture accessibili. Diritto di farsi assistere, di partecipare ad associazioni e di essere autorappresentati. Il seggio elettorale inaccessibile viola questo articolo — esempio concreto che la prof. cita spesso.</span>
 
 ### Art. 31 — Statistica e raccolta dati
 
@@ -150,12 +159,12 @@ La raccolta sistematica di dati sulle persone con disabilità permette di pianif
 
 ## Il Protocollo Facoltativo e i limiti attuali
 
-Il **Protocollo Facoltativo** alla CDPD prevede che singole persone o organizzazioni possano ricorrere direttamente al Comitato ONU se si sentono discriminate, ottenendo un **parere vincolante**. È un meccanismo di pressione superiore ai ricorsi interni.
+<span class="c-def">Il **Protocollo Facoltativo** alla CDPD prevede che singole persone o organizzazioni possano ricorrere direttamente al Comitato ONU se si sentono discriminate, ottenendo un **parere vincolante**.</span> È un meccanismo di pressione superiore ai ricorsi interni.
 
-La **Svizzera non ha firmato** il Protocollo. Questo significa concretamente:
+<span class="c-warn">La **Svizzera non ha firmato** il Protocollo. Questo significa concretamente:
 - Una persona in Svizzera può fare ricorso fino al Tribunale Federale — poi si ferma.
 - Se la Svizzera non applica la convenzione, il Comitato ONU può fare raccomandazioni, ma **non imporre conseguenze concrete**.
-- La convenzione è una guida valoriale forte, ma a bassa forza vincolante in caso di inadempienza.
+- La convenzione è una guida valoriale forte, ma a bassa forza vincolante in caso di inadempienza.</span>
 
 Il Comitato ONU è già venuto in Svizzera a verificare l'applicazione della CDPD. Risultato: la Svizzera non è uscita bene. Le principali carenze rilevate: inclusione scolastica, accesso al mercato del lavoro, libera scelta del luogo di residenza.
 
@@ -171,46 +180,46 @@ Nel 2022 e 2024 si sono tenute manifestazioni nazionali a Berna (piazza del Cons
 
 ### L'Iniziativa per l'Inclusione
 
-Presentata il 5 settembre 2024 con **107.910 firme valide**, chiede:
+<span class="c-es">Presentata il <span class="c-dato">5 settembre 2024</span> con **107.910 firme valide**, chiede:
 
 - Ratifica del Protocollo Facoltativo
 - Libera scelta del luogo di residenza e della forma abitativa (art. 19 CDPD)
 - Maggiore inclusione nella formazione (art. 23 CDPD)
-- Mercato del lavoro più inclusivo (art. 27 CDPD)
+- Mercato del lavoro più inclusivo (art. 27 CDPD)</span>
 
 Il Consiglio di Stato ha presentato un controprogetto indiretto, criticato dalle associazioni di categoria perché non tocca l'inserimento lavorativo. La prof. osserva: il datore di lavoro è un interlocutore politicamente potente, e questo si vede.
 
 ### Una ricerca del 2023
 
-Una ricerca commissionata da Pro Infirmis: **4 persone con disabilità su 5** si sentono fortemente discriminate in più ambiti della loro vita, in particolare nell'inserimento professionale, nella scelta dell'alloggio e nell'accessibilità degli spazi pubblici.
+Una ricerca commissionata da Pro Infirmis: <span class="c-dato">**4 persone con disabilità su 5** si sentono fortemente discriminate in più ambiti della loro vita</span>, in particolare nell'inserimento professionale, nella scelta dell'alloggio e nell'accessibilità degli spazi pubblici.
 
 ### Le sessioni parlamentari delle persone con disabilità
 
 Progetto innovativo: persone con disabilità siedono in parlamento e formulano raccomandazioni concrete.
 
-- **2023** (federale): 44 persone con disabilità elaborano raccomandazioni trasferite al Consiglio Federale.
-- **2024** (cantonale, Ticino): 30 persone elaborano risoluzioni su 3 temi (diritti politici, accessibilità e sostegni, coinvolgimento e conoscenza), trasformate in 3 petizioni a Consiglio di Stato, Gran Consiglio e Comuni.
+- <span class="c-dato">**2023** (federale)</span>: 44 persone con disabilità elaborano raccomandazioni trasferite al Consiglio Federale.
+- <span class="c-dato">**2024** (cantonale, Ticino)</span>: 30 persone elaborano risoluzioni su 3 temi (diritti politici, accessibilità e sostegni, coinvolgimento e conoscenza), trasformate in 3 petizioni a Consiglio di Stato, Gran Consiglio e Comuni.
 - **2026**: sessione cantonale il 15 giugno, sessione nazionale il 21 ottobre.
 
-Le sessioni hanno due scopi: pressione politica sulle autorità, e legittimazione e partecipazione delle persone con disabilità alla vita pubblica. La prof. è diretta: i parlamenti attuali non sono rappresentativi della popolazione — non lo erano con le donne, non lo sono con le persone con disabilità.
+<span class="c-tesi">Le sessioni hanno due scopi: pressione politica sulle autorità, e legittimazione e partecipazione delle persone con disabilità alla vita pubblica.</span> La prof. è diretta: i parlamenti attuali non sono rappresentativi della popolazione — non lo erano con le donne, non lo sono con le persone con disabilità.
 
 ---
 
 ## La Lingua Facile: uno strumento concreto della CDPD
 
-Passiamo dalla politica alla pratica. La **Lingua Facile** (o Easy-to-Read) è uno degli strumenti concreti con cui si applica la CDPD — in particolare gli articoli **9 (Accessibilità)** e **21 (Libertà di espressione e accesso all'informazione)**.
+Passiamo dalla politica alla pratica. <span class="c-def">La **Lingua Facile** (o Easy-to-Read) è uno degli strumenti concreti con cui si applica la CDPD — in particolare gli articoli **9 (Accessibilità)** e **21 (Libertà di espressione e accesso all'informazione)**.</span>
 
 ### Origini
 
 Nasce negli **Stati Uniti negli anni '60-'70**, dai movimenti di auto-rappresentanza e dalle associazioni di famiglie di persone con disabilità intellettiva. Obiettivo originale: permettere l'accesso alla formazione continua, da cui queste persone erano escluse.
 
-Arriva in Europa tramite il progetto **Pathways II** (2011–2013, Inclusion Europe). Per l'area italiana ha lavorato **ANFFAS** (Associazione Nazionale Famiglie con disabilità). In Svizzera la promuove da oltre 15 anni **Pro Infirmis**, con traduttori professionisti e **gruppi di rilettura** composti da persone con disabilità intellettiva — in Ticino, tramite la Fondazione Diamante.
+Arriva in Europa tramite il progetto <span class="c-dato">**Pathways II** (2011–2013, Inclusion Europe)</span>. Per l'area italiana ha lavorato **ANFFAS** (Associazione Nazionale Famiglie con disabilità). In Svizzera la promuove da oltre 15 anni **Pro Infirmis**, con traduttori professionisti e **gruppi di rilettura** composti da persone con disabilità intellettiva — in Ticino, tramite la Fondazione Diamante.
 
 ### Che cos'è
 
 > **Lingua facile significa: comunicare in modo che tutti possano capire.**
 
-Semplifica un testo senza banalizzarlo. Non è linguaggio da bambini. Le regole principali:
+<span class="c-tesi">Semplifica un testo senza banalizzarlo. Non è linguaggio da bambini.</span> Le regole principali:
 
 - Parole semplici, niente metafore, acronimi, inglesismi, abbreviazioni
 - Frasi brevi, rivolte direttamente al lettore (tu/lei/voi)
@@ -229,7 +238,7 @@ La Lingua Facile non è solo per le persone con disabilità intellettiva:
 
 ### Applicazioni concrete in Ticino
 
-**In ambito formativo (Atgabbes):** l'opuscolo dei corsi di formazione continua per persone con disabilità è stato tradotto in lingua facile. Risultato: non solo più partecipazione, ma cambio nella **qualità della partecipazione** — le persone scelgono i corsi autonomamente, senza che sia il genitore o l'educatore a decidere per loro. Autodeterminazione concreta.
+<span class="c-es">**In ambito formativo (Atgabbes):** l'opuscolo dei corsi di formazione continua per persone con disabilità è stato tradotto in lingua facile. Risultato: non solo più partecipazione, ma cambio nella **qualità della partecipazione** — le persone scelgono i corsi autonomamente, senza che sia il genitore o l'educatore a decidere per loro. Autodeterminazione concreta.</span>
 
 **In ambito civico (votazioni):** dal 2019 gli oggetti in votazione cantonale in Ticino sono disponibili in lingua facile. Quelli federali non ancora. La prof. ammette di leggerli spesso perché il "politichese" è complicato per tutti.
 
@@ -237,7 +246,7 @@ La Lingua Facile non è solo per le persone con disabilità intellettiva:
 
 ### Il quadro legislativo ticinese
 
-- **Mozione 1446 (2019)**: introduce la lingua facile in Ticino — pagina web del cantone, istruzioni di voto, informazioni agli utenti di servizi pubblici (quest'ultimo punto solo parzialmente attuato).
+- <span class="c-dato">**Mozione 1446 (2019)**</span>: introduce la lingua facile in Ticino — pagina web del cantone, istruzioni di voto, informazioni agli utenti di servizi pubblici (quest'ultimo punto solo parzialmente attuato).
 - **Votazione del 30 ottobre 2022**: approvazione all'unanimità dell'**art. 13a della Costituzione cantonale** — inclusione delle persone con disabilità e riconoscimento della lingua dei segni italiana. Le persone con disabilità hanno diritto di comunicare con le istituzioni in una forma adatta ai loro bisogni.
 
 > La prof. racconta: senza l'aggiunta del riconoscimento della lingua dei segni, la modifica costituzionale non sarebbe passata in parlamento. Il riconoscimento astratto dei diritti parlava poco; qualcosa di concreto e visibile ha fatto la differenza. Spesso è così: 10 anni di lavoro per arrivare a un articolo che ha ancora bisogno di essere applicato.
@@ -270,18 +279,18 @@ Lo slogan sintetizza il principio di partecipazione attiva delle persone con dis
 
 | Termine | Significato |
 |---------|-------------|
-| **CDPD** | Convenzione ONU sui Diritti delle Persone con Disabilità, adottata nel 2006 |
-| **Protocollo Facoltativo** | Annesso alla CDPD: consente ricorsi individuali al Comitato ONU. La Svizzera non ha aderito |
-| **Ratifica** | Atto formale con cui uno stato si impegna a rispettare un trattato internazionale |
-| **Sezione 504** | Norma antidiscriminazione USA (1973), prima legge a proteggere i diritti civili dei disabili |
-| **Lingua Facile (Easy-to-Read)** | Metodo di scrittura che semplifica le informazioni per renderle accessibili a più persone |
-| **"Niente su di noi senza di noi"** | Slogan della CDPD: le persone con disabilità devono essere coinvolte nei processi che le riguardano |
-| **Disabilità come interazione** | La disabilità non è nella persona: risulta dall'interazione tra la persona e le barriere del contesto |
-| **ICF** | Classificazione Internazionale del Funzionamento (OMS), allineata al paradigma della CDPD |
-| **LISPI** | Legge sull'Integrazione Socio-Professionale degli Invalidi (Ticino, 1979) |
-| **Atgabbes** | Associazione ticinese di famiglie e amici di persone con disabilità (1967) |
-| **Pro Infirmis** | Organizzazione svizzera che promuove la Lingua Facile e altri servizi per persone con disabilità |
-| **Art. 13a Cost. TI** | Articolo costituzionale ticinese (2022) su inclusione e riconoscimento della lingua dei segni italiana |
+| <span class="c-def">**CDPD**</span> | Convenzione ONU sui Diritti delle Persone con Disabilità, adottata nel 2006 |
+| <span class="c-def">**Protocollo Facoltativo**</span> | Annesso alla CDPD: consente ricorsi individuali al Comitato ONU. La Svizzera non ha aderito |
+| <span class="c-def">**Ratifica**</span> | Atto formale con cui uno stato si impegna a rispettare un trattato internazionale |
+| <span class="c-def">**Sezione 504**</span> | Norma antidiscriminazione USA (1973), prima legge a proteggere i diritti civili dei disabili |
+| <span class="c-def">**Lingua Facile (Easy-to-Read)**</span> | Metodo di scrittura che semplifica le informazioni per renderle accessibili a più persone |
+| <span class="c-def">**"Niente su di noi senza di noi"**</span> | Slogan della CDPD: le persone con disabilità devono essere coinvolte nei processi che le riguardano |
+| <span class="c-def">**Disabilità come interazione**</span> | La disabilità non è nella persona: risulta dall'interazione tra la persona e le barriere del contesto |
+| <span class="c-def">**ICF**</span> | Classificazione Internazionale del Funzionamento (OMS), allineata al paradigma della CDPD |
+| <span class="c-def">**LISPI**</span> | Legge sull'Integrazione Socio-Professionale degli Invalidi (Ticino, 1979) |
+| <span class="c-def">**Atgabbes**</span> | Associazione ticinese di famiglie e amici di persone con disabilità (1967) |
+| <span class="c-def">**Pro Infirmis**</span> | Organizzazione svizzera che promuove la Lingua Facile e altri servizi per persone con disabilità |
+| <span class="c-def">**Art. 13a Cost. TI**</span> | Articolo costituzionale ticinese (2022) su inclusione e riconoscimento della lingua dei segni italiana |
 
 ---
 

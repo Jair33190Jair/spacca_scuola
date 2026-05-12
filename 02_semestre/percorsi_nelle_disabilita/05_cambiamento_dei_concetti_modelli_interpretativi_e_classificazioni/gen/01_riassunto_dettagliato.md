@@ -1,25 +1,34 @@
 # Cambiamento dei concetti, modelli interpretativi e classificazioni della disabilità
 Percorsi nelle Disabilità · Sessione 05 · 24 marzo 2026
 
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🟡 Oro    #D4AC0D → Connessione / implicazione
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+-->
+
 > Questa lezione è densa ma fondamentale: capire come sono cambiati i concetti di disabilità nel tempo — e le parole che usiamo per descriverla — è la base per lavorare bene nel settore. Si passa da un'idea di "persona da riparare" a una di "società da adattare". Una rivoluzione copernicana.
 
 ---
 
 ## Il linguaggio conta: come chiamiamo le persone con disabilità
 
-Prima ancora di parlare di modelli teorici, si apre con un tema pratico: le parole. Le **Raccomandazioni SUPSI "Esprimersi… Diversamente!"** chiariscono che il linguaggio non è neutro — riflette e rinforza la visione che abbiamo della persona.
+Prima ancora di parlare di modelli teorici, si apre con un tema pratico: le parole. Le **Raccomandazioni SUPSI "Esprimersi… Diversamente!"** chiariscono che <span class="c-tesi">il linguaggio non è neutro — riflette e rinforza la visione che abbiamo della persona.</span>
 
 L'evoluzione terminologica non è capriccio politically correct: segue l'evoluzione dei modelli interpretativi.
 
 | Termine (da evitare) | Problema | Termine preferibile |
 |---|---|---|
-| Invalido | Retaggio assicurativo, nega la persona | Persona con disabilità |
-| Handicappato / Disabile (come sostantivo) | Riduce la persona al deficit | Persona con disabilità |
-| Diversamente abile | Presuppone sempre capacità alternative — non è necessariamente vero | Persona con disabilità |
-| Portatore di handicap | La persona *vive* situazioni di handicap, non le *porta* | Persona in situazione di handicap |
-| Il cieco / Il sordo | Riduce la persona a un singolo tratto | Persona con disabilità visiva / uditiva |
+| <span class="c-def">Invalido</span> | Retaggio assicurativo, nega la persona | Persona con disabilità |
+| <span class="c-def">Handicappato / Disabile (come sostantivo)</span> | Riduce la persona al deficit | Persona con disabilità |
+| <span class="c-def">Diversamente abile</span> | Presuppone sempre capacità alternative — non è necessariamente vero | Persona con disabilità |
+| <span class="c-def">Portatore di handicap</span> | La persona *vive* situazioni di handicap, non le *porta* | Persona in situazione di handicap |
+| <span class="c-def">Il cieco / Il sordo</span> | Riduce la persona a un singolo tratto | Persona con disabilità visiva / uditiva |
 
-La regola d'oro: **la persona viene prima del deficit**. Non "il disabile" ma "la persona con disabilità". Non "lo studente handicappato" ma "lo studente con disabilità".
+<span class="c-tesi">La regola d'oro: **la persona viene prima del deficit**. Non "il disabile" ma "la persona con disabilità". Non "lo studente handicappato" ma "lo studente con disabilità".</span>
 
 ---
 
@@ -27,25 +36,14 @@ La regola d'oro: **la persona viene prima del deficit**. Non "il disabile" ma "l
 
 La disabilità non è una questione di nicchia. Alcuni numeri che aiutano a capire la scala del fenomeno:
 
-- **Oltre 1 miliardo di persone** nel mondo vive con qualche forma di disabilità (~15% della popolazione mondiale). Se includiamo i familiari direttamente coinvolti, siamo a oltre **un terzo dell'umanità**.
-- Gardou (2016) chiama questo fenomeno la **"Terza nazione del mondo"**: tutte le persone con disabilità messe insieme formerebbero la terza nazione per popolazione, dopo Cina e India.
+- <span class="c-dato">**Oltre 1 miliardo di persone** nel mondo</span> vive con qualche forma di disabilità (~15% della popolazione mondiale). Se includiamo i familiari direttamente coinvolti, siamo a oltre **un terzo dell'umanità**.
+- <span class="c-es">Gardou (2016) chiama questo fenomeno la **"Terza nazione del mondo"**: tutte le persone con disabilità messe insieme formerebbero la terza nazione per popolazione, dopo Cina e India.</span>
 - Nei paesi con alta speranza di vita, ogni persona trascorre in media **8 anni della propria vita** in condizione di disabilità.
-- In Svizzera: circa **1,8 milioni di persone** con disabilità, di cui **70.000 in Ticino** (Risoluzione della sessione cantonale delle persone con disabilità, 2024).
+- In Svizzera: circa <span class="c-dato">**1,8 milioni di persone** con disabilità</span>, di cui **70.000 in Ticino** (Risoluzione della sessione cantonale delle persone con disabilità, 2024).
 
 Il numero non cala — cresce. Perché? Invecchiamento della popolazione, miglioramento delle cure neonatali (più persone sopravvivono con situazioni complesse), conflitti armati, malattie croniche.
 
 > Pensaci così: la disabilità non è qualcosa che "appartiene" a una categoria separata di persone. È parte dell'esperienza umana. Prima o poi, tutti ci entreranno in contatto — come persone, familiari, operatori sociali, o nella propria vita personale.
-
-La disabilità è artificialmente raggruppabile in categorie:
-
-- Persone anziane che perdono autonomia
-- Persone con deficit sensoriale o motorio
-- Persone con deficit cognitivo
-- Persone che hanno subito traumi (guerra, incidenti, malattie)
-- Persone con problemi di salute mentale
-- Persone con disturbi cronici
-
-E per tipo: fisico, mentale, psichico, sensoriale, da dipendenza — congenito (dalla nascita) o acquisito.
 
 ---
 
@@ -60,7 +58,7 @@ Il termine ombrello ha cambiato forma nel tempo, e ogni cambio riflette un cambi
 | Fine anni '90 | **Persona disabile** | Partecipazione |
 | Dal 2000 | **Persona con disabilità** / **Persona in situazione di handicap** | Inclusione come diritto |
 
-Ogni termine non è solo una parola: è un modo di vedere la persona e il suo rapporto con la società.
+<span class="c-impl">Ogni termine non è solo una parola: è un modo di vedere la persona e il suo rapporto con la società.</span>
 
 ---
 
@@ -86,7 +84,7 @@ In entrambi i casi, il *problema* è nella persona. La soluzione? "Riparare" o c
 
 Qui il *problema* è nell'ambiente e nella società. La soluzione? Cambiare l'ambiente, garantire i diritti.
 
-Questa distinzione è fondamentale. La **Convenzione ONU sui diritti delle persone con disabilità (CDPD)** riprende esplicitamente la visione sociale:
+<span class="c-tesi">Questa distinzione è fondamentale. La **Convenzione ONU sui diritti delle persone con disabilità (CDPD)** riprende esplicitamente la visione sociale:</span>
 
 > *"La disabilità è il risultato dell'interazione tra persone con menomazioni e barriere comportamentali e ambientali, che impediscono la loro piena ed effettiva partecipazione alla società su base di uguaglianza con gli altri."*
 
@@ -96,7 +94,7 @@ Pensa all'albero: la menomazione è un ramo storto, ma è l'ambiente (il vento, 
 
 ## Le classificazioni OMS: il percorso da ICD a ICF
 
-L'OMS ha prodotto nel tempo diversi strumenti di classificazione. Seguire questa evoluzione è come leggere la storia del cambiamento concettuale sulla disabilità.
+L'OMS ha prodotto nel tempo diversi strumenti di classificazione. <span class="c-impl">Seguire questa evoluzione è come leggere la storia del cambiamento concettuale sulla disabilità.</span>
 
 ### ICD — International Classification of Diseases (versione attuale: ICD-11)
 
@@ -118,15 +116,15 @@ Un passo avanti importante. L'ICIDH non si ferma alla causa della malattia, ma g
 
 **MALATTIA → MENOMAZIONE → DISABILITÀ → HANDICAP**
 
-- **Menomazione (impairment):** anomalie, difetti o perdite di organi, arti, strutture o funzioni mentali. È l'esteriorizzazione di uno stato patologico.
-- **Disabilità (disability):** qualsiasi restrizione o carenza (conseguente a una menomazione) della capacità di svolgere un'attività nel modo o nei limiti ritenuti normali per un essere umano.
-- **Handicap:** la difficoltà che la persona incontra *nell'ambiente circostante* a causa della menomazione. È uno svantaggio *vissuto*, un problema sociale, non solo individuale.
+- <span class="c-def">**Menomazione (impairment):** anomalie, difetti o perdite di organi, arti, strutture o funzioni mentali. È l'esteriorizzazione di uno stato patologico.</span>
+- <span class="c-def">**Disabilità (disability):** qualsiasi restrizione o carenza (conseguente a una menomazione) della capacità di svolgere un'attività nel modo o nei limiti ritenuti normali per un essere umano.</span>
+- <span class="c-def">**Handicap:** la difficoltà che la persona incontra *nell'ambiente circostante* a causa della menomazione. È uno svantaggio *vissuto*, un problema sociale, non solo individuale.</span>
 
 L'ICIDH è importante perché inizia a introdurre il *contesto* nella lettura della disabilità.
 
 **Le critiche all'ICIDH** (che porteranno alla sua revisione):
 
-1. La sequenza lineare non è sempre vera: una persona può essere menomata senza essere disabile (es. una persona sorda non è "disabile" in ogni contesto — mentre ascolta musica, non c'è disabilità che emerge)
+1. <span class="c-warn">La sequenza lineare non è sempre vera: una persona può essere menomata senza essere disabile (es. una persona sorda non è "disabile" in ogni contesto — mentre ascolta musica, non c'è disabilità che emerge)</span>
 2. I concetti sono **negativi** — descrivono la persona per ciò che *non sa fare*, creando ulteriori ostacoli all'integrazione
 3. Le categorie non descrivono bene anziani, bambini, persone con disturbi psichiatrici
 4. Non considera adeguatamente i **fattori ambientali**, che invece hanno un ruolo determinante
@@ -138,12 +136,12 @@ Soresi (2016) sottolinea un punto provocatorio: una persona non può essere "glo
 
 ### Dal PPH all'ICF: verso il modello biopsicosociale
 
-Le critiche all'ICIDH spingono l'OMS a una revisione lunga e articolata. Nel percorso emerge il **Processo di Produzione dell'Handicap (PPH)**, che introduce una visione sistemica:
+Le critiche all'ICIDH spingono l'OMS a una revisione lunga e articolata. Nel percorso emerge il <span class="c-def">**Processo di Produzione dell'Handicap (PPH)**</span>, che introduce una visione sistemica:
 
-L'handicap non è una caratteristica della persona — è il risultato dell'*interazione* tra:
+<span class="c-tesi">L'handicap non è una caratteristica della persona — è il risultato dell'*interazione* tra:
 - **Fattori personali** (sistemi organici, attitudini, capacità)
 - **Fattori ambientali** (facilitatori o ostacoli)
-- Le **abitudini di vita** della persona
+- Le **abitudini di vita** della persona</span>
 
 Se l'ambiente è favorevole, la stessa menomazione produce meno handicap. Se l'ambiente è ostile, anche menomazioni minori diventano fortemente limitanti.
 
@@ -154,44 +152,44 @@ Tappe della revisione:
 | 1980 | ICIDH | Menomazione, Disabilità, Handicap |
 | 1997 | ICIDH-2 bozza beta 1 | Spariscono "disabilità" e "handicap" → arrivano "attività" e "partecipazione" |
 | 1999 | ICIDH-2 bozza beta 2 | Classificazione del funzionamento e delle disabilità |
-| 2001 | **ICF** | Classificazione Internazionale del Funzionamento, della Disabilità e della Salute |
+| <span class="c-dato">2001</span> | **ICF** | Classificazione Internazionale del Funzionamento, della Disabilità e della Salute |
 | 2004 | ICF-CY | Versione per bambini e adolescenti |
 
-L'**ICF** (2001) è la classificazione attuale. Non classifica più le malattie, ma il **funzionamento** della persona nel suo contesto. Si guarda a cosa la persona *può fare*, non solo a cosa non riesce a fare. I disturbi mentali e cognitivi vengono finalmente posti sullo stesso piano delle disabilità fisiche.
+<span class="c-tesi">L'**ICF** (2001) è la classificazione attuale. Non classifica più le malattie, ma il **funzionamento** della persona nel suo contesto. Si guarda a cosa la persona *può fare*, non solo a cosa non riesce a fare. I disturbi mentali e cognitivi vengono finalmente posti sullo stesso piano delle disabilità fisiche.</span>
 
 ---
 
 ## Esclusione, Segregazione, Integrazione, Inclusione
 
-Il cuore pratico della lezione: come le istituzioni hanno storicamente considerato le persone con disabilità. Il modello di Mainardi (2010) distingue quattro forme, leggibili su due assi:
+Il cuore pratico della lezione: come le istituzioni hanno storicamente considerato le persone con disabilità. Il modello di <span class="c-dato">Mainardi (2010)</span> distingue quattro forme, leggibili su due assi:
 
 - **Asse X (orizzontale):** luoghi — da *speciali/separati* a *ordinari*
 - **Asse Y (verticale):** tipo di attenzione — da *nessuna attenzione* ad *attenzioni speciali*
 
 ### Esclusione / Ghettizzazione
-- Luoghi speciali/separati + **nessuna attenzione** educativa
+- <span class="c-def">Luoghi speciali/separati + **nessuna attenzione** educativa</span>
 - L'educazione è un privilegio, non un diritto. Un muro separa chi può beneficiarne e chi no.
 - Esempi storici: manicomi, internamenti senza finalità educativa, esclusione dalla società.
 
 ### Segregazione
-- Luoghi speciali/separati + **attenzioni speciali**
+- <span class="c-def">Luoghi speciali/separati + **attenzioni speciali**</span>
 - Si creano gruppi omogenei per caratteristiche simili, con l'obiettivo di una prestazione più specialistica.
-- Non è automaticamente "male": certi centri specializzati offrono qualità di vita molto alta per persone con necessità elevate (piscine, terapie, accessibilità totale). Per queste persone, la separazione non è esclusione — è risposta adeguata a bisogni specifici.
+- <span class="c-warn">Non è automaticamente "male": certi centri specializzati offrono qualità di vita molto alta per persone con necessità elevate (piscine, terapie, accessibilità totale). Per queste persone, la separazione non è esclusione — è risposta adeguata a bisogni specifici.</span>
 - Anche la scuola ordinaria funziona in parte in logica segregativa: gruppi per età, per competenze, per territorio.
 
 ### Integrazione
-- Luoghi **ordinari** + **attenzioni speciali**
+- <span class="c-def">Luoghi **ordinari** + **attenzioni speciali**</span>
 - La persona con disabilità entra nei contesti comuni, ma con misure speciali e negoziate.
-- L'integrazione è **nell'ordine delle possibilità**: richiede battaglie individuali, dipende dalla disponibilità di chi gestisce il contesto.
-- **Esempio concreto:** i genitori di un bambino su sedia a rotelle negoziano con la direzione scolastica la costruzione di una rampa *per quel bambino*. Misura speciale, eccezionale, ma possibile.
+- <span class="c-warn">L'integrazione è **nell'ordine delle possibilità**: richiede battaglie individuali, dipende dalla disponibilità di chi gestisce il contesto.</span>
+- <span class="c-es">**Esempio concreto:** i genitori di un bambino su sedia a rotelle negoziano con la direzione scolastica la costruzione di una rampa *per quel bambino*. Misura speciale, eccezionale, ma possibile.</span>
 - Gardou (2016): nell'integrazione è la *persona* che deve adattarsi al sistema preesistente — "un elemento esterno inserito dentro che deve normalizzarsi".
 
 ### Inclusione
-- Luoghi **ordinari** + **attenzioni normalmente speciali**
+- <span class="c-def">Luoghi **ordinari** + **attenzioni normalmente speciali**</span>
 - Le attenzioni speciali diventano la norma per tutti, a priori.
 - L'educazione è rivolta a tutti senza eccezioni, senza costituire gruppi su nessun criterio.
-- **Esempio concreto:** tutti gli edifici pubblici hanno rampe *a priori*, indipendentemente dalla presenza di persone su sedia a rotelle. La misura è pensata per tutta la popolazione — utile anche a mamme con passeggino, ciclisti in stazione, anziani con bagagli.
-- Gardou (2016): una società inclusiva "sa modulare il proprio funzionamento, diventa flessibile per offrire a tutti un luogo in cui sentirsi a casa."
+- <span class="c-es">**Esempio concreto:** tutti gli edifici pubblici hanno rampe *a priori*, indipendentemente dalla presenza di persone su sedia a rotelle. La misura è pensata per tutta la popolazione — utile anche a mamme con passeggino, ciclisti in stazione, anziani con bagagli.</span>
+- <span class="c-tesi">Gardou (2016): una società inclusiva "sa modulare il proprio funzionamento, diventa flessibile per offrire a tutti un luogo in cui sentirsi a casa."</span>
 
 > Attenzione importante: **questo schema non è una scala del bene e del male**. La prof. sottolinea con forza che non c'è un giudizio di valore automatico. In certi momenti, per certe persone, la soluzione migliore per la qualità di vita è separativa. La stessa struttura, la stessa persona, possono spostarsi su questo schema a seconda del momento e del bisogno.
 
@@ -203,17 +201,17 @@ L'inclusione è oggi la parola di moda — e questo crea problemi.
 
 ### Il problema della banalizzazione
 
-La prof. porta l'esempio di Sanremo: un coro di persone con disabilità cognitive, vestite con magliette rosse con scritto "solo come te", presentato come "momento inclusivo". Per la prof. era il contrario: persone segregate su un palco, trattate in modo paternalistico, non valorizzate individualmente. Le associazioni per i diritti delle persone con disabilità avevano già scritto a Sanremo chiedendo di non parlare di disabilità in quel modo.
+<span class="c-es">La prof. porta l'esempio di Sanremo: un coro di persone con disabilità cognitive, vestite con magliette rosse con scritto "solo come te", presentato come "momento inclusivo". Per la prof. era il contrario: persone segregate su un palco, trattate in modo paternalistico, non valorizzate individualmente.</span> Le associazioni per i diritti delle persone con disabilità avevano già scritto a Sanremo chiedendo di non parlare di disabilità in quel modo.
 
 L'inclusione è diventata un'etichetta da applicare a qualsiasi cosa, anche a pratiche che non hanno niente di inclusivo.
 
 ### L'inclusione come direzione, non come stato raggiunto
 
-La risposta della prof. alla domanda "L'inclusione è un'utopia?": sì, è un'utopia — ma è la direzione. Per alcune categorie si è già progredito molto: gli immigrati italiani negli anni '60-'70 in Svizzera erano esclusi, oggi quel livello di esclusione non esiste più. Con le disabilità fisiche, grazie a tecnologia e norme di accessibilità, molte persone sono molto più incluse di 30 anni fa.
+<span class="c-tesi">La risposta della prof. alla domanda "L'inclusione è un'utopia?": sì, è un'utopia — ma è la direzione.</span> Per alcune categorie si è già progredito molto: gli immigrati italiani negli anni '60-'70 in Svizzera erano esclusi, oggi quel livello di esclusione non esiste più. Con le disabilità fisiche, grazie a tecnologia e norme di accessibilità, molte persone sono molto più incluse di 30 anni fa.
 
 ### Il rischio del "mettere dentro senza garantire"
 
-Se creo contesti inclusivi ma poi taglio le risorse per i sostegni, piano piano le persone vengono dimenticate e ri-escluse. Non basta "mettere dentro" — bisogna continuare a garantire le attenzioni speciali nel tempo. Il rischio dell'inclusione senza risorse è tornare all'esclusione di partenza.
+<span class="c-warn">Se creo contesti inclusivi ma poi taglio le risorse per i sostegni, piano piano le persone vengono dimenticate e ri-escluse. Non basta "mettere dentro" — bisogna continuare a garantire le attenzioni speciali nel tempo. Il rischio dell'inclusione senza risorse è tornare all'esclusione di partenza.</span>
 
 ### Oltre l'inclusione?
 
@@ -232,7 +230,7 @@ La domanda posta a lezione: è uno strumento integrativo o inclusivo?
 - Se disponibile *solo per chi la richiede* (es. un telegiornale speciale in certi orari) → **integrativa**: misura speciale eccezionale per persone specifiche
 - Se *tutti i testi* (circolari scolastiche, documenti medici, comunicazioni dei comuni) fossero in lingua facile *a priori* → **inclusiva**: misura normale per tutta la popolazione
 
-Lo **strumento in sé** è inclusivo: rendere la comunicazione più chiara beneficia chiunque. Il suo *utilizzo* contestuale può essere integrativo, inclusivo, o addirittura segregativo a seconda di come viene applicato.
+<span class="c-impl">Lo **strumento in sé** è inclusivo: rendere la comunicazione più chiara beneficia chiunque. Il suo *utilizzo* contestuale può essere integrativo, inclusivo, o addirittura segregativo a seconda di come viene applicato.</span>
 
 ---
 
@@ -262,19 +260,19 @@ Il rischio principale è creare contesti formalmente inclusivi (aprire le porte)
 
 | Termine | Significato |
 |---|---|
-| **Menomazione (impairment)** | Danno organico o funzionale (organi, strutture, funzioni mentali) |
-| **Disabilità (disability)** | Perdita di capacità operative conseguente alla menomazione |
-| **Handicap** | Svantaggio vissuto dalla persona nell'interazione con l'ambiente |
-| **ICD** | Classifica le malattie per cause — modello medico/riabilitativo |
-| **ICIDH** | Classifica le conseguenze delle malattie — introduce menomazione, disabilità, handicap (1980) |
-| **ICF** | Classifica il funzionamento della persona nel contesto — modello biopsicosociale (2001) |
-| **PPH** | Processo di Produzione dell'Handicap — modello sistemico persona-ambiente |
-| **Esclusione** | Luoghi speciali + nessuna attenzione educativa |
-| **Segregazione** | Luoghi speciali + attenzioni speciali |
-| **Integrazione** | Luoghi ordinari + attenzioni speciali (misure eccezionali, negoziate) |
-| **Inclusione** | Luoghi ordinari + attenzioni normalmente speciali (per tutti, a priori) |
-| **Lingua facile** | Scrittura semplificata per rendere i testi accessibili a tutti |
-| **Persona con disabilità** | Terminologia corretta: la persona viene prima della disabilità |
+| <span class="c-def">**Menomazione (impairment)**</span> | Danno organico o funzionale (organi, strutture, funzioni mentali) |
+| <span class="c-def">**Disabilità (disability)**</span> | Perdita di capacità operative conseguente alla menomazione |
+| <span class="c-def">**Handicap**</span> | Svantaggio vissuto dalla persona nell'interazione con l'ambiente |
+| <span class="c-def">**ICD**</span> | Classifica le malattie per cause — modello medico/riabilitativo |
+| <span class="c-def">**ICIDH**</span> | Classifica le conseguenze delle malattie — introduce menomazione, disabilità, handicap (1980) |
+| <span class="c-def">**ICF**</span> | Classifica il funzionamento della persona nel contesto — modello biopsicosociale (2001) |
+| <span class="c-def">**PPH**</span> | Processo di Produzione dell'Handicap — modello sistemico persona-ambiente |
+| <span class="c-def">**Esclusione**</span> | Luoghi speciali + nessuna attenzione educativa |
+| <span class="c-def">**Segregazione**</span> | Luoghi speciali + attenzioni speciali |
+| <span class="c-def">**Integrazione**</span> | Luoghi ordinari + attenzioni speciali (misure eccezionali, negoziate) |
+| <span class="c-def">**Inclusione**</span> | Luoghi ordinari + attenzioni normalmente speciali (per tutti, a priori) |
+| <span class="c-def">**Lingua facile**</span> | Scrittura semplificata per rendere i testi accessibili a tutti |
+| <span class="c-def">**Persona con disabilità**</span> | Terminologia corretta: la persona viene prima della disabilità |
 
 ---
 

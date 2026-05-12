@@ -1,4 +1,12 @@
 # Evoluzione storica e sviluppo psico-sociale secondo Erikson — Sintesi
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🟡 Oro    #D4AC0D → Connessione / implicazione
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+-->
 I Tempi della Vita · Sessione 01
 
 > Una mappa della vita intera — da 0 anni alla morte — e come la psicologia ha imparato a guardarla tutta, non solo la prima metà.
@@ -7,8 +15,8 @@ I Tempi della Vita · Sessione 01
 
 ## Dal passato alla visione attuale
 
-- **Psicologia dell'età evolutiva** (visione storica): lo sviluppo finisce con l'adolescenza.
-- **Psicologia dello sviluppo** (visione attuale): studia i cambiamenti sistematici dell'individuo sull'**intero arco della vita** fino alla morte.
+- <span class="c-def">**Psicologia dell'età evolutiva** (visione storica): lo sviluppo finisce con l'adolescenza.</span>
+- <span class="c-def">**Psicologia dello sviluppo** (visione attuale): studia i cambiamenti sistematici dell'individuo sull'**intero arco della vita** fino alla morte.</span>
 - **Gerontologia**: studio dell'invecchiamento e degli adulti in età avanzata — nasce nel dopoguerra.
 - **Sviluppo** = processo attraverso cui un organismo acquisisce capacità crescenti, grazie alla maturazione biologica e all'influenza degli stimoli esterni (Castelli & Sbattella, 2008).
 
@@ -20,14 +28,14 @@ I Tempi della Vita · Sessione 01
 - Bambini e anziani **fuori dalla scala** perché privi di ruolo sociale.
 - Visione fortemente **patriarcale** (la donna sparisce dai 40 ai 60 anni).
 - Simmetria forzata: 10 anni = 90 anni sullo stesso scalino — non tiene conto dell'esperienza accumulata.
-- Molti anziani oggi sono cresciuti in questo contesto: capirlo aiuta a spiegare difficoltà nel chiedere aiuto.
+- <span class="c-impl">Molti anziani oggi sono cresciuti in questo contesto: capirlo aiuta a spiegare difficoltà nel chiedere aiuto.</span>
 
 ---
 
 ## Metafora della collina vs. metafora del fiume
 
 - **Collina**: crescita → apice (adulto) → declino. Visione adultocentrica e lineare.
-- **Fiume**: percorso unico, continuo, interattivo. Il fiume modella il terreno **e** è modellato dal terreno (Schroors, 1998).
+- <span class="c-tesi">**Fiume**: percorso unico, continuo, interattivo. Il fiume modella il terreno **e** è modellato dal terreno (Schroors, 1998).</span>
   - Affluenti = esperienze, apprendimenti, persone incontrate.
   - Ruscelli in uscita = ciò che doniamo agli altri.
   - Piena = evento destabilizzante che fa uscire dagli argini.
@@ -43,7 +51,7 @@ I Tempi della Vita · Sessione 01
 1. Lo sviluppo **dura tutta la vita** (crisi = cambiamento di equilibrio, non catastrofe).
 2. È **multidimensionale e multidirezionale** (fisico, cognitivo, emotivo, sociale).
 3. È caratterizzato da **plasticità** (le traiettorie si possono modificare a qualsiasi età).
-4. Implica **guadagni e perdite** in ogni fase (nessuna fase è "solo guadagno" o "solo perdita").
+4. <span class="c-tesi">Implica **guadagni e perdite** in ogni fase (nessuna fase è "solo guadagno" o "solo perdita").</span>
 5. È **interattivo** (individuo ↔ ambiente; prospettiva interazionista-sistemica).
 6. È calato nella **realtà storica e culturale** (l'adolescente di oggi ≠ quello di 30 anni fa).
 7. È **multidisciplinare** (psicologia, sociologia, biologia, neuroscienze, economia...).
@@ -57,12 +65,12 @@ I Tempi della Vita · Sessione 01
 ## Erik Erikson — vita e teoria
 
 **Dati biografici chiave:**
-- Nasce nel 1902 a Francoforte come Eric Homburg (padre biologico sconosciuto).
+- Nasce nel <span class="c-dato">1902 a Francoforte</span> come Eric Homburg (padre biologico sconosciuto).
 - Crisi d'identità → viaggia in Germania e Italia.
-- A Vienna incontra Anna Freud e studia psicoanalisi.
-- Nel 1933 si trasferisce a Boston → primo psicanalista infantile della città.
-- Si dà il nome **Erik Erikson** ("figlio di Erik") quando acquisisce la nazionalità americana.
-- Muore nel 1994.
+- A Vienna incontra <span class="c-dato">Anna Freud</span> e studia psicoanalisi.
+- Nel <span class="c-dato">1933</span> si trasferisce a Boston → primo psicanalista infantile della città.
+- <span class="c-es">Si dà il nome **Erik Erikson** ("figlio di Erik") quando acquisisce la nazionalità americana.</span>
+- Muore nel <span class="c-dato">1994</span>.
 
 **Basi della teoria:**
 - Condivide le fondamenta freudiane ma aggiunge una **dimensione psicosociale**.
@@ -74,9 +82,9 @@ I Tempi della Vita · Sessione 01
 
 ## Gli 8 stadi — il meccanismo
 
-**Regola fondamentale:** ogni stadio ha un **conflitto bipolare** (polo positivo vs. polo negativo). Lo sviluppo ottimale = uscire dalla fase **sbilanciati sul polo positivo, integrando la parte utile del polo negativo**.
+<span class="c-tesi">**Regola fondamentale:** ogni stadio ha un **conflitto bipolare** (polo positivo vs. polo negativo). Lo sviluppo ottimale = uscire dalla fase **sbilanciati sul polo positivo, integrando la parte utile del polo negativo**.</span>
 
-Erikson è ottimista: se una fase non viene superata in modo ottimale, il recupero è sempre possibile nelle fasi successive.
+<span class="c-impl">Erikson è ottimista: se una fase non viene superata in modo ottimale, il recupero è sempre possibile nelle fasi successive.</span>
 
 | Stadio | Età | Conflitto | Polo + | Polo − |
 |--------|-----|-----------|--------|--------|
@@ -90,7 +98,7 @@ Erikson è ottimista: se una fase non viene superata in modo ottimale, il recupe
 | 8 | Età senile | Integrità vs. disperazione | Integrità dell'Io | Disperazione |
 
 **Integrazioni ottimali chiave (esempi):**
-- **Stadio 1**: mi fido di chi mi cura, ma non di tutti indistintamente (sfiducia come protezione).
+- <span class="c-es">**Stadio 1**: mi fido di chi mi cura, ma non di tutti indistintamente (sfiducia come protezione).</span>
 - **Stadio 2**: faccio le cose da solo, ma tollero piccole frustrazioni senza bloccarmi.
 - **Stadio 5**: esploro ruoli diversi prima di definire chi sono — nessun percorso imposto.
 - **Stadio 7**: trasmetto qualcosa alle generazioni future (non solo come genitore — anche come mentore, professionista).
@@ -99,6 +107,6 @@ Erikson è ottimista: se una fase non viene superata in modo ottimale, il recupe
 ---
 
 **Da ricordare:**
-- **Conflitto bipolare**: polo + e polo −, uscire sbilanciati sul positivo *integrando* la parte utile del negativo.
+- <span class="c-def">**Conflitto bipolare**: polo + e polo −, uscire sbilanciati sul positivo *integrando* la parte utile del negativo.</span>
 - **Sviluppo = processo per tutta la vita** — né solo guadagni, né solo perdite: sempre entrambi.
-- **Il contesto storico-culturale conta**: capire da dove viene la persona è fondamentale per intervenire bene.
+- <span class="c-warn">**Il contesto storico-culturale conta**: capire da dove viene la persona è fondamentale per intervenire bene.</span>

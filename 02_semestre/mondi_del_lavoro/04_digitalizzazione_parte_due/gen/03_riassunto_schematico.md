@@ -127,7 +127,7 @@ Mondi del Lavoro · Sessione 04
 | Christian Marazzi | Economista (Ticino): automatizzare è positivo, il problema è la distribuzione | Contemporaneo |
 | Yuk Hui | Filosofo cinese: cosmotecnica, visione ecologica della tecnica | Contemporaneo |
 | Evgeny Morozov | Teorico critico: Amazon = pianificazione centralizzata privata | 2023 |
-| Stafford Beer | Cibernetico britannico: progettista di Cybersyn (Cile) | 1971-73 |
+| Stafford Beer [?] | Cibernetico britannico: progettista di Cybersyn (Cile) — non citato esplicitamente nelle risorse | 1971-73 [?] |
 
 ---
 

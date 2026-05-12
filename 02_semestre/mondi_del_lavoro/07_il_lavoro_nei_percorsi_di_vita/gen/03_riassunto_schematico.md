@@ -22,8 +22,8 @@ Mondi del lavoro · Sessione 07
 ### 1. Sviluppo lungo tutto il corso della vita
 - **Principio** → il passato influenza il presente (prospettiva di lungo termine)
 - **Dato** → ECEC nell'infanzia → salari più alti, posizioni più prestigiose, meno prestazioni sociali in età adulta
-- **Dato** → gap pensionistico AVS/PP in Svizzera: donne ~17.734 CHF vs uomini ~40.788 CHF (PP, 2022)
-- **Dato** → beneficiari PC/AVS in Ticino (2023): 10.220 donne vs 5.187 uomini
+- **Dato** → gap pensionistico AVS/PP in Svizzera: donne ~17.734 CHF vs uomini ~40.788 CHF (PP, 2022) [?da grafico]
+- **Dato** → beneficiari PC/AVS in Ticino (2023): 10.220 donne vs 5.187 uomini [?da grafico]
 
 ### 2. Temporalità degli eventi
 - **Principio** → non solo *se* un evento accade, ma *quando* nel percorso di vita
@@ -32,7 +32,7 @@ Mondi del lavoro · Sessione 07
   - uomini → curva stabile, non influenzata dalla situazione familiare
   - donne → diverge dall'età riproduttiva: cala il full-time, cresce il part-time/inattività
 - **Dato** → monoparentalità (Struffolino, Bernardi & Larenza, 2020): impatto sulla carriera dipende da età, titolo di studio e situazione professionale pre-separazione
-  - 5 gruppi: Out of employment (16,9%), Returners (12,1%), Part-timers (29,5%), Strengtheners (11,5%), Full-timers (29,9%)
+  - 5 gruppi: Out of employment [?%], Returners [?%], Part-timers [?%], Strengtheners [?%], Full-timers [?%] — percentuali da grafici non leggibili nelle risorse
 
 ### 3. Vite collegate (Linked lives)
 - **Principio** → il percorso di vita è influenzato dalle relazioni con gli altri
@@ -46,8 +46,8 @@ Mondi del lavoro · Sessione 07
 - **Esempio** → sistema duale svizzero vs altri paesi → vantaggi strutturali diversi
 - **Dato** → tasso di attività 50+ in Svizzera: aumentato tra 1996-2000 e 2021-2023 → percorsi de-standardizzati
 - **Dato** → opinioni sulla divisione del lavoro (Ticino, 2023):
-  - 65+: 31,6% ritiene che guadagnare sia compito maschile
-  - 15-29: 14,2%
+  - 65+: ~31% [?] ritiene che guadagnare sia compito maschile
+  - 15-29: ~14% [?] — valori esatti da grafici non leggibili nelle risorse
 - **Tendenza** → da traiettoria standard (formazione → lavoro → pensione) a percorsi de-standardizzati
 
 ### 5. Agency (Capacità di agire)

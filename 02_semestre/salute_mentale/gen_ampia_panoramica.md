@@ -1,14 +1,14 @@
 # Salute Mentale — Panoramica completa
-Semestre 02 · 10 lezioni
+Semestre 02 · 11 lezioni
 
 > Un viaggio che parte dalle definizioni base (cos'è salute,
 > malattia, normalità) e arriva al cuore della clinica: come
 > si guarda, si ascolta, si comprende chi soffre. In mezzo:
 > la storia della follia, le emozioni, le difese, i quadri
 > clinici maggiori — dalle nevrosi ai disturbi di personalità
-> fino alle psicosi. Il filo rosso è sempre lo stesso:
-> l'incontro tra due persone, non la classificazione di un
-> oggetto.
+> fino alle psicosi, al corpo sessuato e al corpo deformato.
+> Il filo rosso è sempre lo stesso: l'incontro tra due
+> persone, non la classificazione di un oggetto.
 
 ## Mappa dei temi
 
@@ -24,6 +24,7 @@ Semestre 02 · 10 lezioni
 | 08 | I disturbi di personalità | Struttura del carattere, cluster A/B/C, BPD |
 | 09 | Le psicosi | Schizofrenia, psicosi organiche e funzionali |
 | 10 | Il corpo sessuato | Sessualità, identità di genere, parafilie, disforia di genere |
+| 11 | Il corpo deformato | DCA: anoressia, bulimia, BED, ortoressia, vigoressia |
 
 ---
 
@@ -435,6 +436,83 @@ Lez. 05 è la cassetta degli attrezzi clinici.
 
 ---
 
+## Il corpo deformato: disturbi della nutrizione e dell'alimentazione (Lez. 11)
+
+- **Cibo come primo mediatore relazionale** → il neonato incontra il mondo attraverso
+  l'alimentazione · il nutrimento prefigura le relazioni future · il gusto è elaborato da
+  ippocampo e amigdala, mai neutro · (Lez. 11)
+- **Identità culturale del cibo** → confine tra sé e l'altro, tra gruppi sociali ·
+  tendenza attuale: pasto da momento di unione a divisione ("tribù alimentari" — Niola) ·
+  (Lez. 11)
+
+### Classificazione DNA (DSM-5-TR)
+
+- **DNA** = Disturbi della Nutrizione e dell'Alimentazione
+  - **Pica** → ingestione di non-alimenti (infanzia)
+  - **Ruminazione** → rigurgito automatico (infanzia)
+  - **Evitante/restrittivo** → alimentazione selettiva, fobia del nuovo (infanzia)
+  - **Anoressia nervosa** → restrizione + paura del peso + distorsione immagine corporea
+    - Sottotipi: restrittivo / con abbuffate-eliminazione
+    - BMI < 17 come criterio di gravità
+  - **Bulimia nervosa** → abbuffate + comportamenti compensatori (vomito 80%) + perdita di controllo
+    - Non necessariamente sottopeso
+  - **BED** (Binge Eating Disorder) → abbuffate senza compensazione · senso di vergogna e colpa ·
+    riconosciuto come entità autonoma nel DSM-5 (2013)
+- Quadri puri sempre meno frequenti → prevalgono forme miste e sindromi sottosoglia · (Lez. 11)
+
+### DCA come disturbi etnici (Devereux, 1978)
+
+- **Culture-Bound Syndrome** → disturbo frequente in una cultura specifica · continuità tra
+  elementi normali della cultura e sintomi (esagerazione di comportamenti culturalmente positivi) ·
+  esprime i conflitti fondamentali della società · (Lez. 11)
+- ⚠️ **Distinzione fondamentale** → cultura = **fattore patoplastico** (Jaspers): plasma la
+  *forma* della sofferenza, non ne è la causa · non: "la moda causa l'anoressia" · sì: "chi ha
+  una vulnerabilità si ammala nella forma che la cultura indica" · (Lez. 11)
+- Esempi paralleli: Amok (Malesia) · Windigo (Canada) · anoressia/bulimia (Occidente)
+
+### Scissione mente-corpo (Selvini-Palazzoli, 1963)
+
+- Il corpo pubere diventa **persecutorio** → si avvicina al corpo della madre → difficoltà
+  di separazione-individuazione (Mahler) · (Lez. 11)
+- Funzione **autarchica** → illusione di vivere senza apporti esterni
+- DCA come **patologie narcisistiche** → mito Eco e Narciso: impossibilità comunicativa +
+  investimento narcisistico sul corpo · (Lez. 11)
+- **Bruch** → "bambine perfette" con bisogni non riconosciuti → falso sé compiacente ·
+  il sintomo alimentare = unico spazio di autonomia e controllo · (Lez. 11)
+- Dialettica dipendenza/autonomia:
+  - Abbuffata → riempire il vuoto (dipendenza)
+  - Vomito → spingere via (autonomia)
+  - Restrizione → illusione di bastare a sé stessi
+
+### Ortoressia e vigoressia
+
+- **Ortoressia** → ossessione per il "mangiare sano" · controllo sulla *qualità*, non quantità ·
+  evita socialità legata al cibo · non ancora nel DSM · in forte aumento post-COVID · (Lez. 11)
+- **Vigoressia** (Muscle Dysmorphia — Pope, 1993) → "anoressia inversa" · mai abbastanza
+  muscolosi · dismorfismo corporeo speculare all'anoressia · prevalente nei maschi · (Lez. 11)
+- Punto di contatto con le nevrosi (Lez. 07): controllo ossessivo sul cibo/corpo come
+  compulsione con sollievo, non piacere
+
+### Eziologia e psicodinamica
+
+- **Fattori predisponenti** → genetici (personalità ossessiva/perfezionista) ·
+  psicologici (bassa autostima) · familiari · socioculturali (ideale di magrezza)
+- **Fattori precipitanti** → lutti, separazioni, traumi, fallimenti scolastici
+- **Fattori cronicizzanti** → spinta biologica da digiuno · distorsione immagine corporea
+  (continua a vedersi grassa → continua a dimagrire) · dinamiche familiari
+- **Dispercezione corporea** → errore nella stima del proprio corpo (percettivo + affettivo) ·
+  tecnica terapeutica: disegnare l'immagine percepita → sovrapporre il contorno reale · (Lez. 11)
+- **Identità liquida** → il sintomo offre un'identità chiara e stabile, sebbene disfunzionale
+
+### Per il lavoro sociale
+
+- Non gestire l'alimentazione direttamente → presa in carico **multidisciplinare**
+- Costruire relazione senza forzare sul tema del cibo · temi centrali: relazionali e affettivi
+- Coinvolgimento della famiglia → fondamentale
+- Ricadute → parte del processo, non sconfitte · (Lez. 11)
+
+---
+
 ## Dimensione identitaria e incontro clinico
 
 Filo che attraversa tutto il modulo.
@@ -525,6 +603,14 @@ Filo che attraversa tutto il modulo.
 | Masters & Johnson | *Human Sexual Response* — ciclo della risposta sessuale (1966) | 10 |
 | Grazzottin | Tassonomia delle finalità della sessualità (amorosa, ricreativa, procreativa, strumentale) | 10 |
 | Lalli | 6 snodi dello sviluppo psicosessuale | 10 |
+| Selvini-Palazzoli | Scissione mente-corpo nell'anoressia (1963) | 11 |
+| Bruch | "La gabbia d'oro" — anoressia come malattia borghese; falso sé (1978) | 11 |
+| Devereux | Disturbi etnici / Culture-Bound Syndromes (1978) | 11 |
+| Cosenza | Quattro epoche storiche del sintomo anoressico (2008) | 11 |
+| Pope | Prima descrizione della vigoressia "anoressia inversa" (1993) | 11 |
+| Niola | "Homo dieteticus" — tribù alimentari (2015) | 11 |
+| Mahler | Separazione-individuazione — fattore predisponente nei DCA | 11 |
+| Sontag | "Malattia come metafora" — malattie simbolo di un'epoca (1978) | 11 |
 
 ---
 
@@ -582,7 +668,14 @@ Filo che attraversa tutto il modulo.
 `AFAB` · `AMAB` · `disforia di genere` · `parafilia` ·
 `disturbo parafilico` · `bisogno vs. desiderio` ·
 `snodi di Lalli` · `compulsività` · `asfissiofilia` ·
-`frotteurismo` · `voyeurismo` · `esibizionismo`
+`frotteurismo` · `voyeurismo` · `esibizionismo` ·
+`DNA` · `anoressia nervosa` · `bulimia nervosa` · `BED` ·
+`ortoressia` · `vigoressia` · `Muscle Dysmorphia` ·
+`Culture-Bound Syndrome` · `disturbo etnico` ·
+`fattore patoplastico` · `separazione-individuazione` ·
+`falso sé` · `dispercezione corporea` · `scissione mente-corpo` ·
+`fattori predisponenti` · `fattori precipitanti` ·
+`fattori cronicizzanti` · `siti pro-ana` · `comportamenti compensatori`
 
 ---
 
@@ -610,13 +703,15 @@ egosintonici e la sofferenza spesso ricade sugli altri
 si rompe o si dissocia in modo radicale (Lez. 09). La
 traiettoria è un continuum: non categorie stagno, ma gradi
 crescenti di compromissione dell'identità, della relazione
-con l'altro e del contatto con il reale. Il modulo apre
-poi una seconda finestra sull'identità attraverso il corpo
-sessuato (Lez. 10): la sessualità come sviluppo relazionale,
-il passaggio evolutivo dal bisogno al desiderio, la
-distinzione tra parafilia e disturbo parafilico e il tema
-della disforia di genere — dove ancora una volta il punto
-non è la condizione ma la sofferenza che essa genera.
+con l'altro e del contatto con il reale. Il modulo si chiude
+con una doppia finestra sull'identità corporea: il corpo
+sessuato (Lez. 10) — dove la sessualità è sviluppo
+relazionale e il passaggio dal bisogno al desiderio è un
+marker evolutivo fondamentale — e il corpo deformato
+(Lez. 11), dove i disturbi della nutrizione mostrano come
+la cultura faccia da fattore patoplastico, dando forma a
+conflitti di separazione, identità e autonomia che
+appartengono alla storia più intima di ogni persona.
 Il filo rosso, ribadito da Cargnello fin dall'inizio,
 resta uno solo: la clinica è l'incontro con qualcuno,
 mai la gestione di qualcosa.
@@ -627,11 +722,11 @@ mai la gestione di qualcosa.
 
 **1. Qual è il filo conduttore dell'intera materia di Salute Mentale?**
 
-Il modulo costruisce progressivamente gli strumenti per incontrare chi soffre. Si parte dalle definizioni fondamentali di salute, malattia e normalità (Lez. 01) e dalla storia della psichiatria come oscillazione tra paradigma organico e passionale (Lez. 02). Si acquisiscono poi strumenti relazionali (empatia, Lez. 03), strumenti emotivi e difensivi (Lez. 04) e strumenti osservativi clinici (semiologia, Lez. 05). Infine si applicano questi strumenti ai grandi quadri clinici — sindromi affettive e ansiose, nevrosi, disturbi di personalità, psicosi, sessualità — in un continuum che va dalla nevrosi (esame di realtà mantenuto) alla psicosi (esame di realtà compromesso). Il filo rosso è sempre uno: la clinica è incontro, non classificazione.
+Il modulo costruisce progressivamente gli strumenti per incontrare chi soffre. Si parte dalle definizioni fondamentali di salute, malattia e normalità (Lez. 01) e dalla storia della psichiatria come oscillazione tra paradigma organico e passionale (Lez. 02). Si acquisiscono poi strumenti relazionali (empatia, Lez. 03), strumenti emotivi e difensivi (Lez. 04) e strumenti osservativi clinici (semiologia, Lez. 05). Infine si applicano questi strumenti ai grandi quadri clinici — sindromi affettive e ansiose, nevrosi, disturbi di personalità, psicosi, sessualità e disturbi della nutrizione — in un continuum che va dalla nevrosi (esame di realtà mantenuto) alla psicosi (esame di realtà compromesso). Il filo rosso è sempre uno: la clinica è incontro, non classificazione.
 
 **2. Come si collega il dualismo storico Gehirnpsychiatrie/Geistespsychiatrie (Lez. 02) con i quadri clinici trattati nelle lezioni successive?**
 
-La distinzione tra psichiatria "cerebrale" (organicista) e psichiatria "dell'anima" (passionalista) attraversa tutto il corso. Le **psicosi organiche** (Lez. 09) appartengono al filone organicista: causa nota, io–qui–adesso crollato. Le **psicosi funzionali** e la schizofrenia sono multifattoriali e richiedono entrambi gli sguardi. Le **nevrosi** (Lez. 07) e i **disturbi di personalità** (Lez. 08) affondano le radici nel paradigma passionalista (traumi, conflitti, storia di vita). Anche le sindromi affettive (Lez. 06) oscillano: le depressioni endogene verso il polo biologico, le psicogene verso quello passionale.
+La distinzione tra psichiatria "cerebrale" (organicista) e psichiatria "dell'anima" (passionalista) attraversa tutto il corso. Le **psicosi organiche** (Lez. 09) appartengono al filone organicista: causa nota, io–qui–adesso crollato. Le **psicosi funzionali** e la schizofrenia sono multifattoriali e richiedono entrambi gli sguardi. Le **nevrosi** (Lez. 07) e i **disturbi di personalità** (Lez. 08) affondano le radici nel paradigma passionalista (traumi, conflitti, storia di vita). Anche le sindromi affettive (Lez. 06) oscillano: le depressioni endogene verso il polo biologico, le psicogene verso quello passionale. I DCA (Lez. 11) confermano il pattern: vulnerabilità biologica + fattori psicologici e sociali → la cultura non causa il disturbo, ma ne modella la forma (fattore patoplastico, Jaspers).
 
 **3. Come si collegano i meccanismi di difesa (Lez. 04) con i tre grandi quadri strutturali — nevrosi, disturbi di personalità, psicosi?**
 
@@ -647,7 +742,7 @@ Normalità e patologia non hanno un confine netto. I tre criteri trasversali —
 
 **6. Come si collega la distinzione Körper/Leib (Lez. 10) con i temi dell'incontro clinico che attraversano tutta la materia?**
 
-La distinzione husserliana tra **Körper** (corpo-oggetto) e **Leib** (corpo-vissuto) è la versione somatica del filo conduttore dell'intero modulo. Trattare l'altro come Körper — oggetto da usare, misurare, classificare — è esattamente l'errore clinico che Cargnello critica fin dalla Lez. 02: "avere qualcosa di fronte" anziché "essere con qualcuno". Nelle parafilie (Lez. 10) questo si manifesta nel disturbo: il corpo altrui è usato come strumento senza riconoscimento soggettivo. L'empatia matura (Lez. 03) è precisamente la capacità di mantenere il registro Leib — sentire l'altro come soggetto, non come oggetto.
+La distinzione husserliana tra **Körper** (corpo-oggetto) e **Leib** (corpo-vissuto) è la versione somatica del filo conduttore dell'intero modulo. Trattare l'altro come Körper — oggetto da usare, misurare, classificare — è esattamente l'errore clinico che Cargnello critica fin dalla Lez. 02: "avere qualcosa di fronte" anziché "essere con qualcuno". Nelle parafilie (Lez. 10) questo si manifesta nel disturbo: il corpo altrui è usato come strumento senza riconoscimento soggettivo. Nell'anoressia (Lez. 11) il proprio corpo diventa nemico-Körper da controllare e punire. L'empatia matura (Lez. 03) è precisamente la capacità di mantenere il registro Leib — sentire l'altro come soggetto, non come oggetto.
 
 **7. Come si leggono i disturbi di personalità di cluster A alla luce della continuità con le psicosi?**
 
@@ -655,4 +750,12 @@ Il cluster A — paranoide, schizoide, schizotipico (Lez. 08) — si posiziona n
 
 **8. Come descriveresti l'approccio complessivo di questo corso alla persona che soffre?**
 
-Il corso rifiuta la logica della catalogazione: non si tratta di imparare a etichettare i disturbi, ma di sviluppare la capacità di incontrare chi soffre. Questo richiede: capire la storia (Lez. 02) per non ripetere gli errori di chi ha ridotto la follia a malattia del cervello o a vizio morale; sviluppare empatia matura con consapevolezza dei suoi limiti (Lez. 03); saper leggere le emozioni e le difese (Lez. 04); osservare con rigore semiologico (Lez. 05); conoscere i quadri clinici senza ridurre la persona ad essi (Lez. 06–10). La distinzione tra *to cure* (guarire) e *to care* (curare) — introdotta fin dalla prima lezione — è la bussola: non tutto si può guarire, ma tutto può essere curato. (Lez. 01)
+Il corso rifiuta la logica della catalogazione: non si tratta di imparare a etichettare i disturbi, ma di sviluppare la capacità di incontrare chi soffre. Questo richiede: capire la storia (Lez. 02) per non ripetere gli errori di chi ha ridotto la follia a malattia del cervello o a vizio morale; sviluppare empatia matura con consapevolezza dei suoi limiti (Lez. 03); saper leggere le emozioni e le difese (Lez. 04); osservare con rigore semiologico (Lez. 05); conoscere i quadri clinici senza ridurre la persona ad essi (Lez. 06–11). La distinzione tra *to cure* (guarire) e *to care* (curare) — introdotta fin dalla prima lezione — è la bussola: non tutto si può guarire, ma tutto può essere curato. (Lez. 01)
+
+**9. Come si collegano i disturbi della nutrizione e dell'alimentazione (Lez. 11) con i temi dell'identità, del corpo e della struttura di personalità trattati nel corso?**
+
+I DCA non sono disturbi "sul cibo" ma disturbi sull'identità e sul corpo. La scissione mente-corpo (Selvini-Palazzoli) richiama la dimensione identitaria già introdotta nella Lez. 01 (chi sono?) e nella Lez. 02 (alienazione). Il falso sé compiacente di Bruch rimanda ai disturbi di personalità del cluster C (dipendente, evitante, Lez. 08). La difficoltà di separazione-individuazione (Mahler) è lo stesso nodo psicodinamico che sta alla base delle angosce di abbandono del borderline (Lez. 04, 08). Il concetto di fattore patoplastico (Jaspers, già usato in Lez. 02 per la Geistespsychiatrie) spiega perché la cultura non causa il DCA ma ne modella la forma. Il sintomo alimentare è per il soggetto uno spazio di autonomia e controllo — esattamente come le compulsioni nel DOC (Lez. 07) danno sollievo, non piacere.
+
+**10. Come si integra il tema del corpo sessuato (Lez. 10) e del corpo deformato (Lez. 11) con il filo conduttore clinico dell'intero corso?**
+
+Entrambe le lezioni finali mostrano come il corpo sia il luogo in cui si inscrivono la sofferenza identitaria e i conflitti relazionali non risolti. Nella Lez. 10, la distinzione Körper/Leib (Husserl) indica che il disturbo nasce quando il corpo altrui — o il proprio — viene vissuto come oggetto (Körper) anziché come soggetto (Leib). Nella Lez. 11, la dispercezione corporea nell'anoressia è l'esempio estremo di un corpo che si è trasformato in nemico. In entrambi i casi il problema non è mai la condizione in sé — non la parafilia, non la magrezza — ma la sofferenza che essa genera e il significato relazionale che porta con sé. Il to care (Lez. 01) rimane lo strumento: non correggere il sintomo dall'esterno, ma costruire una relazione che permetta al soggetto di ritrovare la propria autonomia.

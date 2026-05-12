@@ -1,6 +1,15 @@
 # Storia della Follia
 Salute Mentale · Sessione 02 · 25.02.2026
 
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🟡 Oro    #D4AC0D → Connessione / implicazione
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+-->
+
 > Questa lezione affronta la domanda che attraversa tutta la
 > psichiatria: la follia è una malattia del cervello o il
 > prodotto delle passioni e della vita? Un dibattito antico
@@ -13,15 +22,15 @@ Salute Mentale · Sessione 02 · 25.02.2026
 
 Il prof Pezzoli apre con una provocazione: la storia della
 follia non è la storia di un'unica idea che migliora nel
-tempo. È la storia di **due sguardi in perenne conflitto**:
+tempo. <span class="c-tesi">È la storia di **due sguardi in perenne conflitto**:</span>
 
-- Lo sguardo **organicista** (**Gehirnpsychiatrie**): la
+- <span class="c-def">Lo sguardo **organicista** (**Gehirnpsychiatrie**): la
   follia è una malattia del cervello, un danno biologico,
-  un meccanismo rotto.
-- Lo sguardo **psicologico/delle passioni**
+  un meccanismo rotto.</span>
+- <span class="c-def">Lo sguardo **psicologico/delle passioni**
   (**Geistespsychiatrie**): la follia nasce dall'eccesso
   emotivo, dalle ferite della vita, dalla disregolazione
-  delle relazioni e degli affetti.
+  delle relazioni e degli affetti.</span>
 
 Questi due filoni si sono alternati, scontrati e a volte
 integrati nei secoli. Il prof sottolinea che oggi non sono
@@ -33,19 +42,19 @@ negli approcci terapeutici.
 ## Il racconto di Donizetti: due follie in una storia
 
 Per rendere concreta la dialettica, il prof usa la figura
-di **Gaetano Donizetti** (1797–1848), compositore d'opera.
+di <span class="c-dato">**Gaetano Donizetti** (1797–1848)</span>, compositore d'opera.
 
 ### La follia organica: Donizetti e la sifilide
 
 Donizetti contrasse la **sifilide** in gioventù, descritta
-già da **Fracastoro** (1476–1553). La sifilide ha tre fasi;
+già da <span class="c-dato">**Fracastoro** (1476–1553)</span>. La sifilide ha tre fasi;
 l'ultima, dopo una latenza di 10–30 anni, attacca il
-sistema nervoso centrale provocando la **paralisi
-progressiva**: irritabilità, disturbi del linguaggio,
+sistema nervoso centrale provocando la <span class="c-def">**paralisi
+progressiva**</span>: irritabilità, disturbi del linguaggio,
 deterioramento cognitivo irreversibile.
 
 Fu **Bayle**, nei primi decenni dell'Ottocento, a ipotizzare
-il legame sifilide–follia. Solo nel 1913 **Hideyo Noguchi**
+il legame sifilide–follia. Solo nel <span class="c-dato">1913 **Hideyo Noguchi**</span>
 individuò il batterio _Treponema pallidum_ nella corteccia
 cerebrale dei malati — prova biologica che quella follia
 era una malattia del cervello.
@@ -58,8 +67,8 @@ I familiari gli facevano suonare le sue arie, ma nemmeno il
 tenore Rubini che gli cantò l'aria della _Lucia di
 Lammermoor_ riuscì a "risvegliarlo". Donizetti morì nel 1848.
 
-Questa è la follia **organica**: causata dal deterioramento
-del SNC, incomprensibile, inesorabile.
+<span class="c-es">Questa è la follia **organica**: causata dal deterioramento
+del SNC, incomprensibile, inesorabile.</span>
 
 ### La follia delle passioni: Lucia di Lammermoor
 
@@ -71,9 +80,9 @@ ne esce in uno stato dissociativo: canta canzoni d'amore,
 è "altrove". Donizetti usa la **glassarmonica** per evocare
 musicalmente questa alterità — il suono del fantasma.
 
-Questa è la follia **delle passioni**: ingiustizia,
+<span class="c-es">Questa è la follia **delle passioni**: ingiustizia,
 tradimento, costrizione — eccesso emotivo che travolge la
-ragione. Il prof sottolinea che questa follia ha una
+ragione.</span> Il prof sottolinea che questa follia ha una
 **quota di comprensibilità**: non condividiamo l'omicidio,
 ma capiamo la sofferenza che lo ha generato. Ci
 ritroviamo qualcosa.
@@ -97,12 +106,12 @@ cura erano i templi sacri ad Asclepio, dio della medicina
 e fondatore degli Asclepidi — una sorta di "ordine dei
 medici" del V sec. a.C.
 
-**Ippocrate di Kos** (~460–370 a.C.) fa il passo decisivo:
-emancipa la follia dalla magia. Dice che l'epilessia — il
+<span class="c-dato">**Ippocrate di Kos** (~460–370 a.C.)</span> fa il passo decisivo:
+emancipa la follia dalla magia. <span class="c-tesi">Dice che l'epilessia — il
 "male sacro" per eccellenza — ha la stessa natura di tutte
-le altre malattie. Niente più cause divine.
+le altre malattie. Niente più cause divine.</span>
 
-Introduce la **teoria degli umori**: quattro fluidi corporei
+Introduce la <span class="c-def">**teoria degli umori**</span>: quattro fluidi corporei
 il cui squilibrio genera malattia e carattere specifici.
 Pensala come quattro variabili di base di un sistema: se
 una va fuori controllo, tutto l'equilibrio crolla.
@@ -129,9 +138,7 @@ secoli di teoria medica condensati in un modo di dire.
 Durante il Medioevo l'interpretazione della follia è
 mediata dalla religione. Non emerge nulla di genuinamente
 originale sul piano medico — solo compilazioni e antologie
-di testi antichi. Il prof cita **Teofane** (910 d.C.) e
-il suo _Compendium totius artis medicinae_: grandioso nel
-titolo, vuoto di contenuto.
+di testi antichi.
 
 ### Rinascimento e 1500–1600: torna il corpo
 
@@ -139,9 +146,9 @@ Con la rinascita delle scienze nel 1500, si riprende la
 teoria degli umori, ma emergono anche nuove ipotesi di
 localizzazione cerebrale della follia:
 
-- **Girolamo Mercuriale** (1530–1606): studi sulla
+- <span class="c-dato">**Girolamo Mercuriale** (1530–1606)</span>: studi sulla
   **catatonia**
-- **Johann Weyer** (1515–1588): prima descrizione delle
+- <span class="c-dato">**Johann Weyer** (1515–1588)</span>: prima descrizione delle
   **allucinazioni visive**; ipotizza che le "streghe" usino
   erbe psicoattive — non demonologia, ma corpo come causa
 
@@ -153,7 +160,7 @@ dalla dimensione teologica. Sfondo: Descartes.
 
 ## De Lamettrie e il meccanicismo (1747)
 
-**Julien Offroy de Lamettrie** pubblica nel 1747 _L'uomo
+<span class="c-dato">**Julien Offroy de Lamettrie**</span> pubblica nel <span class="c-dato">1747</span> _L'uomo
 macchina_, sviluppando la visione meccanicistica in modo
 definitivo:
 
@@ -174,9 +181,9 @@ sensibili, soggetti a eccitamento:
 
 - **Pomme** (1760): introduce il concetto di "attacchi di
   nervi", che arriverà fino a noi
-- **William Cullen** (1777): conia il termine **nevrosi**,
+- <span class="c-dato">**William Cullen** (1777)</span>: conia il termine <span class="c-def">**nevrosi**</span>,
   raccogliendo isteria e ipocondria
-- **G.M. Beard** (1839–1883): **nevrastenia** — l'"esaurimento
+- <span class="c-dato">**G.M. Beard** (1839–1883)</span>: <span class="c-def">**nevrastenia**</span> — l'"esaurimento
   nervoso" popolare — il cervello come una batteria che si
   scarica sotto il peso della vita moderna
 
@@ -184,15 +191,15 @@ sensibili, soggetti a eccitamento:
 
 ## Pinel: la grande svolta (fine 1700)
 
-**Philippe Pinel** (1745–1826) è la figura centrale della
+<span class="c-dato">**Philippe Pinel** (1745–1826)</span> è la figura centrale della
 transizione. Famoso per aver liberato i folli dalle catene
-al Bicêtre (1793) — gesto diventato quasi mitologico, ma
+al Bicêtre (<span class="c-dato">1793</span>) — gesto diventato quasi mitologico, ma
 il prof nota che la vera rivoluzione è concettuale.
 
-Pinel cambia paradigma: la follia non è (o non è sempre)
+<span class="c-tesi">Pinel cambia paradigma: la follia non è (o non è sempre)
 una malattia del cervello. Per la maggior parte dei casi
 la causa è nelle **passioni e nella vita morale** della
-persona. E se è così, la follia può essere guarita.
+persona. E se è così, la follia può essere guarita.</span>
 
 > _"L'alienazione non implica affatto la lesione organica
 > del sistema nervoso ma soltanto l'alterazione delle sue
@@ -202,55 +209,50 @@ persona. E se è così, la follia può essere guarita.
 
 Il prof li elenca come fondamentali ancora oggi:
 
-**1. Guaribilità** — la follia da passioni è guaribile.
+**1. Guaribilità** — <span class="c-def">la follia da passioni è guaribile.
 L'ospedale è un luogo di passaggio, non di internamento
-definitivo.
+definitivo.</span>
 
 **2. Principio patoplastico** (anche detto autoplastico) —
-la malattia si imprime su un substrato unico. Due persone
+<span class="c-def">la malattia si imprime su un substrato unico. Due persone
 con la stessa diagnosi possono esprimere la malattia in
-modo completamente diverso. Esempio: due pazienti con
+modo completamente diverso.</span> Esempio: due pazienti con
 allucinazioni — uno vede un angelo, l'altro un diavolo.
 Stessa allucinazione, due mondi diversi.
 
-**3. Principio di parzialità della follia** — anche il
+**3. Principio di parzialità della follia** — <span class="c-def">anche il
 "folle" conserva sempre una parte sana, ancora
 interlocutrice. Non ha senso attaccare frontalmente il
 delirio — lo si perde. Bisogna rivolgersi alla parte non
-malata. È come trovare in un sistema guasto il modulo che
+malata.</span> È come trovare in un sistema guasto il modulo che
 risponde ancora: non si resetta tutto, si cerca l'ingresso
 funzionante.
 
-**4. Trattamento morale** (_traitement moral_) — la cura
+**4. Trattamento morale** (_traitement moral_) — <span class="c-def">la cura
 avviene attraverso la relazione, l'ascolto, il riordino
 della vita emotiva. Le passioni che hanno trascinato la
-ragione si regolano attraverso nuove esperienze relazionali.
+ragione si regolano attraverso nuove esperienze relazionali.</span>
 
-Il prof segnala anche la **deriva paternalistica**: Pinel
+Il prof segnala anche la <span class="c-warn">**deriva paternalistica**</span>: Pinel
 metteva in scena "finte commissioni statali" per curare
 pazienti con deliri persecutori — manipolazione non
 accettabile oggi, ma nel contesto storico era un passo
-avanti rispetto all'internamento coercitivo. Il paziente
-stava meglio, ma poi scoprì che era una farsa e peggiorò.
-Da queste esperienze nascerà il teatro terapeutico.
+avanti rispetto all'internamento coercitivo.
 
 ### La storia del paziente: elemento centrale
 
 Il prof collega Pinel a Donizetti: cantare al compositore
 le sue arie era un tentativo di raggiungerlo nel suo
-"altrove". Principio: per curare qualcuno devi conoscerne
-la storia, i gusti, le relazioni, le persone che amava.
+"altrove". <span class="c-impl">Principio: per curare qualcuno devi conoscerne
+la storia, i gusti, le relazioni, le persone che amava.</span>
 
 > _"La cura va personalizzata."_ — Pezzoli
-
-Questo vale ancora oggi: la conoscenza biografica del
-paziente è precondizione della presa in carico.
 
 ---
 
 ## Esquirol: la differenziazione (inizio 1800)
 
-**Jean-Étienne Esquirol** (1772–1840), allievo e
+<span class="c-dato">**Jean-Étienne Esquirol** (1772–1840)</span>, allievo e
 continuatore di Pinel, struttura meglio la distinzione:
 
 - **Follia da passioni** (tipo Lucia): comprensibile,
@@ -259,30 +261,17 @@ continuatore di Pinel, struttura meglio la distinzione:
   dell'incurabilità — demenza e paralisi progressiva
 
 Esquirol distingue anche tra:
-- **Idiozia**: condizione di nascita (mancato sviluppo
+- <span class="c-def">**Idiozia**: condizione di nascita (mancato sviluppo
   delle facoltà intellettuali) — esclusa dal campo delle
-  malattie
-- **Demenza**: deterioramento acquisito che insorge nella
-  vita (pubertà o come esito di malattia)
+  malattie</span>
+- <span class="c-def">**Demenza**: deterioramento acquisito che insorge nella
+  vita (pubertà o come esito di malattia)</span>
 
-Importante: per Pinel ed Esquirol **l'ascolto del malato
+<span class="c-tesi">Importante: per Pinel ed Esquirol **l'ascolto del malato
 è fondamentale**. I sintomi (ciò che il paziente dice di
 vivere) prevalgono sui segni (ciò che il medico osserva
 dall'esterno). Questo cambierà radicalmente con il
-positivismo.
-
-Esquirol riprende anche la **comprensibilità** della
-follia passionale:
-
-> _"Vi ritrova le stesse idee, gli stessi errori, le
-> stesse passioni, gli stessi infortuni: è lo stesso mondo
-> — ma i lineamenti sono più forti, i colori più vivi,
-> gli affetti più contrastanti."_ (Esquirol, 1938)
-
-Questo filone della comprensibilità riappare nel XX sec.
-con **Karl Jaspers**: la follia passionale è comprensibile
-perché ci riconosciamo qualcosa di nostro, espresso
-all'estremo. Quella organica no.
+positivismo.</span>
 
 ---
 
@@ -292,120 +281,91 @@ Con la seconda metà dell'Ottocento, il pendolo oscilla
 pesantemente verso il polo organicista. La psichiatria
 vuole diventare scienza esatta, come la medicina del corpo.
 
-**Wilhelm Griesinger** (1817–1868) lancia il motto-simbolo:
+<span class="c-dato">**Wilhelm Griesinger** (1817–1868)</span> lancia il motto-simbolo:
 
 > _"Le malattie psichiche sono malattie del cervello"_
 > (_die psychischen Krankheiten sind Erkrankungen des
 > Gehirns_)
 
-Introduce la distinzione tra **Somatiker** (medici
+Introduce la distinzione tra <span class="c-def">**Somatiker** (medici
 organicisti) e **Psychiker** (chi attribuisce la follia a
-cause psicologiche).
-
-**Jacob Moleschott** radicalizza: "il pensiero sta al
-cervello come l'urina sta ai reni." Nessuno spazio per
-le passioni, le relazioni, la storia personale.
+cause psicologiche).</span>
 
 ### Morel e la teoria della degenerazione
 
-**Benedict Augustin Morel** (1809–1873) introduce il
-concetto di **degenerazione**: sull'onda del darwinismo
+<span class="c-dato">**Benedict Augustin Morel** (1809–1873)</span> introduce il
+concetto di <span class="c-def">**degenerazione**</span>: sull'onda del darwinismo
 (_Origine della specie_, 1859), legge la follia come
 involuzione evolutiva — la perdita delle conquiste che la
 specie aveva faticosamente guadagnato.
 
-Il percorso della degenerazione inizia con il **delirio**
-— e il prof spiega la struttura logica del delirio con il
+Il percorso della degenerazione inizia con il **delirio** —
+e il prof spiega la struttura logica del delirio con il
 sillogismo:
 
 - Premessa universale vera → conclusione corretta = pensiero
   sano
-- **Premessa non universale + autoriferimento** = delirio
+- <span class="c-def">**Premessa non universale + autoriferimento** = delirio</span>
 
-Esempio: "Lui tossisce → lui mi sfotte." La deduzione ha
-una logica interna, ma la premessa non è universale. È lì
+<span class="c-es">Esempio: "Lui tossisce → lui mi sfotte." La deduzione ha
+una logica interna, ma la premessa non è universale.</span> È lì
 che salta il ragionamento — il pensiero è "di fianco" alla
 realtà. Da qui: _paranoia_ (greco: _parà_ = di fianco +
 _noos_ = pensiero).
 
 Per Morel la degenerazione è **progressiva e irreversibile**.
-Nasce qui il concetto di **demenza precoce**: la patologia
+Nasce qui il concetto di <span class="c-def">**demenza precoce**</span>: la patologia
 si sviluppa in giovane età e porta al deterioramento
 cognitivo definitivo.
 
 ### Lombroso e l'antropologia criminale
 
-**Cesare Lombroso** (1835–1909) è la figura-simbolo del
+<span class="c-dato">**Cesare Lombroso** (1835–1909)</span> è la figura-simbolo del
 positivismo italiano. Misurava tutto: crani, tatuaggi,
-anomalie morfologiche. La sua teoria dell'**atavismo**:
+anomalie morfologiche. La sua teoria dell'<span class="c-def">**atavismo**</span>:
 alcune anomalie corporee riavvicinano l'individuo ai
 primati — segnale di regresso evolutivo iscritto nel corpo.
-
-Il prof (nel manuale) lo rivaluta parzialmente: al di là
-degli errori — molti e seri — Lombroso aveva un lato
-interessante. Portava l'attenzione scientifica sui
-marginali e sulla loro **biografia** come dato rilevante.
-La storia di vita non è separabile dalla biologia.
-
-Aveva anche un senso bizzarro di coerenza democratica: da
-socialista convinto, lasciò il suo corpo alla scienza post
-mortem. L'autopsia rivelò che il suo cervello aveva
-"stimmate delinquenziali" — pieghe caratteristiche. La
-storia non perdona.
-
-**Krafft-Ebing** (1840–1902) teorizza il "cervello debole":
-individui che non reggono i ritmi della civiltà moderna e
-scivolano progressivamente verso la marginalità.
 
 ---
 
 ## La Pellagra: quando la povertà fa impazzire
 
-Il manuale riporta l'esempio della **pellagra** come
+Il manuale riporta l'esempio della <span class="c-es">**pellagra**</span> come
 paradigma di causa organica-esogena che produce sintomi
 psichici.
 
-La pellagra è la malattia delle **3 D**: Dermatosi, Diarrea,
-Demenza. In inglese si aggiunge una quarta D: _Death_.
+La pellagra è la malattia delle <span class="c-def">**3 D**: Dermatosi, Diarrea,
+Demenza</span>. In inglese si aggiunge una quarta D: _Death_.
 
-Causa identificata: **monofagismo maidico** — dieta quasi
+Causa identificata: <span class="c-def">**monofagismo maidico**</span> — dieta quasi
 esclusiva di mais in comunità povere (soprattutto campagne
 del nord Italia nell'Ottocento) con conseguente **carenza
 di niacina** (vitamina B3 / aminoacido essenziale).
 
-Prima di trovare la causa, si sospettò di tutto: muffe,
-ereditarietà. I malati in fase avanzata finivano in
-manicomio. Il caso del calzolaio **Mattio Lovat** — che
-nel 1814 tentò di crocifiggersi a Venezia e fu internato
-— è uno degli esempi citati.
-
-Il prof sottolinea che gli organicisti, cercando la causa
+<span class="c-impl">Il prof sottolinea che gli organicisti, cercando la causa
 biologica della follia, paradossalmente **denunciavano
 la povertà** come fattore causale — un risultato
 politicamente interessante, anche se ottenuto con metodo
-riduzionista.
+riduzionista.</span>
 
 ---
 
 ## Kraepelin: la mappa nosologica (fine XIX sec.)
 
-**Emil Kraepelin** (1856–1926) costruisce la prima grande
+<span class="c-dato">**Emil Kraepelin** (1856–1926)</span> costruisce la prima grande
 classificazione moderna delle malattie mentali — la base
 sulla quale è costruito ancora oggi il DSM.
 
-Per Kraepelin i sintomi non vanno ascoltati ma classificati:
+<span class="c-warn">Per Kraepelin i sintomi non vanno ascoltati ma classificati:
 sono **segni** di un sistema biologico che malfunziona.
 L'attenzione alla parola del paziente (cara a Pinel ed
-Esquirol) è praticamente archiviata.
+Esquirol) è praticamente archiviata.</span>
 
 Classifica le malattie in due grandi famiglie:
 
 **Malattie esogene** (cause esterne):
-- _Psicologiche_: traumi, eventi di vita — che comunque
-  per Kraepelin lasciano una "cicatrice" organica nel
-  cervello
-- _Somatiche_: infezioni, carenze nutrizionali (es.
-  pellagra), agenti biologici
+- _Psicologiche_: traumi, eventi di vita
+- _Somatiche_: infezioni, carenze nutrizionali, agenti biologici
 
 **Malattie endogene** (prodotte dall'interno del SNC):
 
@@ -414,46 +374,30 @@ Classifica le malattie in due grandi famiglie:
 | **Psicosi maniaco-depressiva** | Asse emotivo | Parzialmente reversibile |
 | **Demenza precoce** | Unità interna | Progressiva, irreversibile |
 
-**Psicosi maniaco-depressiva** — cosa salta:
-- _Fase maniacale_: attenzione dispersa su tutto (e su
-  niente), percezione superficiale, ideazione accelerata
-  (pensieri su pensieri), ipermotilità
-- _Fase depressiva_: fatica a tenere l'attenzione,
-  percezione chiusa (pochi stimoli passano), ideazione
-  povera e fissa (ipocondrìa, senso di rovina),
-  rallentamento motorio fino all'immobilità
-
-**Demenza precoce** (poi schizofrenia) — cosa salta:
-- L'**unità interna** del soggetto: le funzioni psichiche
-  (attenzione, percezione, ideazione, emozioni, volontà)
-  non sono più connesse tra loro
-- Allucinazioni, pensiero disordinato, emozioni spente,
-  abulia/impulsività
-
 ---
 
 ## Bleuler: la sintesi tra organico e psicologico (1911)
 
-**Eugen Bleuler** (1857–1939) — i cui assistenti
+<span class="c-dato">**Eugen Bleuler** (1857–1939)</span> — i cui assistenti
 includevano Carl Gustav Jung ed Eugène Minkowski — tenta
 una sintesi tra i due sguardi.
 
-Nel 1911 rinomina la demenza precoce **schizofrenia** e
+Nel <span class="c-dato">1911</span> rinomina la demenza precoce <span class="c-def">**schizofrenia**</span> e
 distingue:
 
-- **Sintomi primari** (fondamentali): conseguenza diretta
+- <span class="c-def">**Sintomi primari** (fondamentali): conseguenza diretta
   del danno cerebrale; subiti passivamente dal paziente;
-  base della diagnosi
-- **Sintomi secondari** (accessori): reazione psicologica
+  base della diagnosi</span>
+- <span class="c-def">**Sintomi secondari** (accessori): reazione psicologica
   del soggetto alla sofferenza di fondo; variabili da
   persona a persona perché dipendono dalla soggettività
-  di ciascuno
+  di ciascuno</span>
 
-Recupera il principio **patoplastico** di Pinel: la
+<span class="c-impl">Recupera il principio **patoplastico** di Pinel: la
 malattia si esprime in modo unico su ogni persona. Il
 paziente non è solo il suo danno cerebrale — è anche chi
 reagisce a quel danno con la sua storia e la sua
-soggettività.
+soggettività.</span>
 
 ---
 
@@ -466,40 +410,24 @@ mette in crisi nel soggetto:
 2. **Spazialità** (dove sono? essere "altrove")
 3. **Temporalità** (in che tempo vivo?)
 
-Il **vocabolario popolare della follia** è quasi tutto
+Il vocabolario popolare della follia è quasi tutto
 spaziale: "fuori di testa", "spostato", "fuori come un
 balcone" — linguaggio che parla di un altrove rispetto
 alla norma condivisa.
 
-Il prof sottolinea una differenza linguistica fondamentale:
+<span class="c-impl">Il prof sottolinea una differenza linguistica fondamentale:
 - **Avere** una malattia → non identificazione con essa
 - **Essere** una malattia → identificazione identitaria
 
 Le malattie psichiche tendono a usare l'ausiliare essere:
 "sono schizofrenico" più che "ho la schizofrenia". Questo
-non è neutro — implica due paradigmi di cura molto diversi.
-Se la condizione è identitaria, l'obiettivo non è la
-guarigione intesa come cancellazione, ma il benessere e
-lo sviluppo delle possibilità all'interno di quella
-condizione.
-
----
-
-## La carta del Matto e la dimensione relazionale
-
-Il prof usa la **carta del Matto dei tarocchi** (l'unica
-senza numero) come metafora della follia:
-- Non si abbina con nessun'altra carta (ma può stare con
-  tutte) → crisi della dimensione relazionale, crisi
-  dell'ipersoggettività
-- Il personaggio va armato di tutto punto a cacciare le
-  farfalle → disallineamento tra mezzi e fini
+non è neutro — implica due paradigmi di cura molto diversi.</span>
 
 ---
 
 ## Il punto di arrivo: Cargnello e l'ambiguità irriducibile
 
-**Danilo Cargnello** formula la sfida fondamentale di chi
+<span class="c-dato">**Danilo Cargnello**</span> formula la sfida fondamentale di chi
 lavora con la sofferenza mentale:
 
 > _"Il sapersi mantenere con l'altro e non semplicemente
@@ -508,46 +436,13 @@ lavora con la sofferenza mentale:
 > all'offerta di coesistenza — è un compito
 > straordinariamente difficile."_ (Cargnello, 1999)
 
-L'ambiguità della psichiatria: oscillare tra **"essere con
+<span class="c-tesi">L'ambiguità della psichiatria: oscillare tra **"essere con
 qualcuno"** e **"avere qualcosa di fronte."** Il rischio
 del polo organicista è ridurre la persona a un cervello
 malfunzionante. Il rischio del polo psicologista è perdere
 di vista la dimensione biologica. La clinica — l'incontro
 reale — è il terreno dove questa tensione va abitata, non
-risolta.
-
-L'invito non è a scegliere un paradigma, ma a stare in
-piedi nel mezzo.
-
----
-
----
-
-## Domande di orientamento allo studio
-
-**Qual è la differenza tra Gehirnpsychiatrie e Geistespsychiatrie? Fai un esempio concreto per ciascuna.**
-
-Gehirnpsychiatrie è lo sguardo organicista sulla follia: la malattia mentale è una malattia del cervello, un danno biologico. Esempio: Donizetti che, colpito dalla sifilide al terzo stadio, sviluppò la paralisi progressiva — un deterioramento neurologico irreversibile senza radici nelle passioni o nella storia personale. Geistespsychiatrie è lo sguardo psicologico: la follia nasce dall'eccesso emotivo, dalle ferite della vita, dalle relazioni. Esempio: Lucia di Lammermoor, che impazzisce dopo essere stata ingannata, costretta a sposare un uomo che non ama e a subire violenza — la sua follia ha una quota di comprensibilità, ci riconosciamo qualcosa.
-
-**Quali sono i quattro principi di Pinel e perché sono ancora rilevanti per il lavoro sociale?**
-
-Pinel identifica quattro principi fondamentali. La guaribilità: la follia da passioni può essere curata, quindi l'ospedale non è una condanna definitiva. Il principio patoplastico: la malattia si imprime su un substrato soggettivo unico — due persone con la stessa diagnosi la vivono in modo diverso. Il principio di parzialità della follia: nel malato rimane sempre una parte sana e interlocutrice; ci si rivolge a quella, non si attacca il delirio frontalmente. Il trattamento morale: la cura passa attraverso la relazione, l'ascolto, il riordino emotivo. Per il lavoro sociale sono ancora rilevanti perché spostano il centro della cura dalla malattia alla persona — la conoscenza biografica del paziente diventa precondizione della presa in carico.
-
-**Come si distingue la follia organica dalla follia delle passioni secondo Jaspers? Perché la comprensibilità conta nel lavoro clinico?**
-
-Jaspers distingue le due follie attraverso il criterio della comprensibilità. Davanti alla follia delle passioni — come quella di Lucia, nata da inganno, costrizione, eccesso emotivo — l'osservatore riconosce qualcosa di proprio, espresso all'estremo: non condivide l'atto, ma capisce la sofferenza che lo ha generato. Davanti alla follia organica — come quella di Donizetti nella fase terminale della sifilide — non si riesce a trovare nessuna familiarità. La comprensibilità conta nel lavoro clinico perché indica la possibilità di un incontro autentico con la persona: se c'è comprensibilità, c'è un terreno comune su cui costruire la relazione terapeutica.
-
-**Cosa introduce Kraepelin con la sua nosologia e in cosa si differenzia dall'approccio di Pinel ed Esquirol?**
-
-Kraepelin costruisce la prima grande classificazione moderna delle malattie mentali, distinguendo tra malattie esogene (cause esterne: psicologiche e somatiche) e endogene (prodotte dall'interno del SNC: psicosi maniaco-depressiva e demenza precoce). A differenza di Pinel ed Esquirol, per i quali i sintomi — ciò che il paziente racconta di vivere — erano il punto di partenza della cura, per Kraepelin i sintomi sono segni di un sistema biologico malfunzionante: non c'è interesse per le parole del paziente, solo per la classificazione. Questo segna un arretramento rispetto all'ascolto della soggettività, che Bleuler cercherà poi di recuperare con la distinzione tra sintomi primari e secondari.
-
-**In che modo la pellagra illustra il rapporto tra cause somatiche e sintomi psichici?**
-
-La pellagra è causata dal monofagismo maidico — dieta quasi esclusiva di mais nelle comunità povere del nord Italia — che produce una carenza di vitamina B3 (niacina). Questa carenza genera le tre D: Dermatosi, Diarrea, Demenza. Prima di identificarne la causa, i malati in fase avanzata finivano in manicomio. Il caso illustra che cause somatiche esterne possono produrre sintomi psichici gravi, e che la psichiatria organicista, paradossalmente, denunciava la povertà come fattore causale — un risultato politicamente significativo, anche se ottenuto con metodo riduzionista.
-
-**Qual è la distinzione tra "avere" una malattia ed "essere" una malattia? Cosa implica per la presa in carico?**
-
-L'ausiliare usato non è neutro. "Ho la depressione" segnala non-identificazione con la condizione: la malattia è qualcosa di esterno, che si combatte per eliminarla. "Sono depresso" implica identificazione identitaria: la condizione fa parte di sé. Le malattie psichiche tendono a usare "essere", e questo non è irrilevante per la cura. Se la condizione è identitaria, il paradigma della guarigione (to cure, eliminare la malattia) cede il posto a quello della cura (to care, lavorare per il benessere dentro la condizione). Per il lavoro sociale questo è fondamentale: l'operatore non punta a cancellare la condizione, ma ad accompagnare la persona nel vivere meglio con essa.
+risolta.</span>
 
 ---
 
@@ -577,25 +472,3 @@ L'ausiliare usato non è neutro. "Ho la depressione" segnala non-identificazione
 | **Comprensibilità** (Jaspers) | Follia passionale = comprensibile; follia organica = no |
 | **Pellagra** | Malattia da carenza di niacina (monofagismo maidico): 3 D |
 | **Atavismo** | Lombroso: anomalie corporee come segni di regresso evolutivo |
-
----
-
-## Collegamenti
-
-- **Lezione 01**: Primo incontro con il modulo — contesto
-  clinico, principio di presenza autentica, storie
-  personali della comunità. Già emersi: fragilità vs.
-  vulnerabilità, silenzio che crea solitudine vs. silenzio
-  che accoglie.
-- **Lezione successiva**: Psicosi, disturbi specifici
-  dell'area psicotica, affettività come fattore di rischio
-  — si riprende la nosologia di Kraepelin e Bleuler.
-- **Modulo di Cinzia Campello**: disturbi di personalità,
-  teoria degli umori — ripresa esplicita citata in lezione.
-- **Temi aperti**: integrazione farmacologica e psicologica
-  (i farmaci trattano i sintomi, non la causa; l'esempio
-  del dipendente che viene disintossicato ma non affronta
-  il motivo per cui usava la sostanza); il rischio del
-  maltrattamento nelle case anziani quando la persona
-  smette di essere vista come persona (collegato al tema
-  dell'Alzheimer e di Donizetti).

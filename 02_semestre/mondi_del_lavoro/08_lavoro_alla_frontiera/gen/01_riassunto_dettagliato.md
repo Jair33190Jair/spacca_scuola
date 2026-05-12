@@ -15,6 +15,8 @@ Il professore chiede di fare uno sforzo importante: assumere un **atteggiamento 
 
 > "Sono uno storico. So che una ricostruzione oggettiva al 100% non esiste — c'è sempre una componente interpretativa. Ma ci sono i dati, e su quelli bisogna essere rigorosi."
 
+Per spiegare questo punto, il professore cita lo storico britannico **E.H. Carr** e il suo libro *"Sei lezioni di storia"* — un classico sulla relazione tra oggettività e soggettività nella ricerca storica. Carr racconta di un uomo che esce di notte a comprare sigarette a Milano, attraversa la strada e viene investito da un automobilista ubriaco. Chi è il responsabile? L'ubriaco, certo — ma anche il comune che non mantiene i lampioni, la tabaccaia che ha venduto l'ultima sigaretta, l'uomo stesso che ha scelto di attraversare fuori dalle strisce. In 50 persone, avremmo 50 versioni diverse — perché ciascuno enfatizza i fattori che ritiene più rilevanti (l'alcol? l'illuminazione? il traffico?). Il dato oggettivo è che c'è un morto; l'interpretazione di quei fatti è sempre parziale. Così funziona anche la storia, e così funziona l'analisi del frontalierato.
+
 Pensa a questa lezione come al tasto "reset" sul tema: svuoti il bicchiere e ricomincia a riempirlo con dati, storia e analisi, non con slogan.
 
 ---
@@ -207,7 +209,7 @@ A livello nazionale l'impatto sembra basso: 2-3 frontalieri ogni 1.000 abitanti 
 | Sondrio | 2,6% |
 | Milano | 0,06% |
 
-La crescita tra il 2012 e il 2022 nelle province di Sondrio (+90,7%) e Bolzano (+80,8%) mostra come il fenomeno si stia espandendo anche verso aree storicamente non di frontiera.
+La crescita tra il 2012 e il 2022 nelle province di Sondrio (+90,7%) e Bolzano (+80,8%) mostra come il fenomeno si stia espandendo anche verso aree storicamente non di frontiera. [? — dati probabilmente da slide, non verificabili dalla trascrizione audio]
 
 ---
 
@@ -225,6 +227,31 @@ La crescita tra il 2012 e il 2022 nelle province di Sondrio (+90,7%) e Bolzano (
 | **Accordi bilaterali CH-UE** | Firmati 1999, in vigore 2002: liberalizzano la circolazione dei lavoratori tra Svizzera e UE |
 | **Legge federale 1931** | Prima legge svizzera a definire sistematicamente il frontaliere; diventò modello europeo |
 | **Approccio laico** | Termine del prof: approccio scientifico distaccato dalle posizioni ideologiche precostituite |
+
+---
+
+## Domande di orientamento allo studio
+
+**Cos'è il frontalierato e come si distingue dalla migrazione?**
+Il frontalierato è una forma di mobilità da lavoro internazionale, definita più precisamente come pendolarismo internazionale di breve raggio. Il frontaliere, a differenza del migrante, non vive all'estero: risiede nel suo paese d'origine e attraversa regolarmente una frontiera per lavorare. L'accesso ai servizi (sanità, scuola, welfare) avviene nel paese di residenza, non in quello di lavoro. Condivide con il migrante l'esperienza burocratica (permesso di lavoro), il confronto con una cultura straniera e il contributo a un mercato del lavoro estero — ma non il radicamento.
+
+**Cosa significa "pendolarismo internazionale di breve raggio"? Spiega le tre componenti.**
+"Pendolarismo" indica un movimento regolare e continuato casa-lavoro, con andirivieni a periodicità riconoscibile (quotidiana, settimanale o mensile). "Internazionale" significa che quel pendolarismo attraversa un confine di Stato. "Breve raggio" indica che le distanze percorse devono essere sostenibili dato il livello tecnologico dei trasporti: nel 1931, la Legge federale svizzera aveva fissato questo limite a 10-20 km — la distanza percorribile in bicicletta. Con il treno ad alta velocità e i voli low cost, questo concetto si è radicalmente trasformato.
+
+**Perché la Svizzera è diventata la "culla" del frontalierato contemporaneo e quali tre fattori l'hanno generato?**
+Tra fine '800 e inizio '900, la Svizzera conobbe un boom industriale, ferroviario e turistico che creò alta domanda di lavoro. Contemporaneamente, la concorrenza aziendale interna spinse le imprese a cercare manodopera più economica. Infine, la Legge federale sul lavoro di fabbrica (1864 a San Gallo, 1877 a livello federale) tutelava i lavoratori svizzeri aumentandone il costo di assunzione. Questi tre fattori insieme spinsero le imprese a reclutare all'estero lavoratori non coperti dalla normativa, dando avvio al frontalierato moderno.
+
+**Perché fino agli anni '70 la classe dirigente svizzera preferiva i frontalieri ai migranti?**
+La Svizzera aveva strutturato la sua politica migratoria sul modello del Gastarbeiter (lavoratore ospite): il lavoratore straniero era visto come risorsa temporanea, non come futuro cittadino. I migranti residenti rischiavano di radicarsi, fare famiglia, pesare sui servizi sociali. I frontalieri erano la versione estrema del Gastarbeiter: lavoravano in Svizzera, tornavano a casa ogni sera o ogni weekend, non usufruivano dei servizi svizzeri e non "pesavano" né socialmente né ambientalmente. Anche durante le campagne di Schwarzenbach (fine anni '60 - inizio '70) i frontalieri erano esclusi dal conteggio degli stranieri da limitare.
+
+**Cosa ha regolato la Legge federale del 1931 e perché è diventata un modello europeo?**
+La Legge federale del 1931 ha definito per la prima volta in modo sistematico il frontaliere, fissando: la residenza entro 10-20 km dalla frontiera svizzera; l'obbligo di rientro (inizialmente quotidiano, poi anche settimanale); gli accordi fiscali bilaterali per retrocedere al paese di residenza una quota delle imposte pagate in Svizzera. La Svizzera era il paese con il tasso di frontalieri più alto e il più avanzato apparato giuridico per regolarli: per questo la sua formulazione è diventata il riferimento che gli altri paesi europei hanno adottato per pensare e regolamentare il proprio frontalierato.
+
+**Quali sono le principali cause dell'esplosione del frontalierato dal 2002 ad oggi?**
+Il primo fattore sono gli accordi bilaterali Svizzera-UE del 1999 (in vigore dal 2002), che hanno liberalizzato la circolazione dei lavoratori. A questo si è aggiunta la crisi economica del 2007-2008, che ha colpito duramente le regioni industriali italiane come Lombardia e Veneto, spingendo molti a cercare lavoro oltre confine. Lo sviluppo tecnologico ha poi reso possibile reclutare lavoratori via web anche da regioni non di confine, introducendo nuove figure come i notificati (max 90 giorni aggregati, tendenzialmente autonomi). Il potenziamento dei sistemi di trasporto e la riduzione dei loro costi hanno completato il quadro.
+
+**Cos'è un "approccio laico" e perché il professore lo considera necessario per studiare il frontalierato?**
+L'"approccio laico" è il termine usato dal prof. Barcella per descrivere l'atteggiamento scientifico distaccato dalle posizioni ideologiche precostituite. Il frontalierato in Ticino è il tema politicamente più divisivo, caricato di significati emotivi e simbolici costruiti in trent'anni di campagne referendarie. Chi si approccia all'argomento porta già con sé un'opinione. L'approccio laico non significa fingere di essere neutri (una dimensione interpretativa esiste sempre, come insegna E.H. Carr), ma fare lo sforzo di partire dai dati e di non lasciarsi guidare solo dalle passioni o dal senso comune per arrivare a un'analisi più lucida e fondata.
 
 ---
 

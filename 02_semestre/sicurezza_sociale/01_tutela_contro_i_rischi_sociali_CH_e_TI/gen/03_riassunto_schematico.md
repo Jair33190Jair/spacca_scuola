@@ -1,12 +1,20 @@
 # Tutela contro i rischi sociali nel sistema svizzero e ticinese — Schema
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🔡 Oro    #D4AC0D → Connessione / implicazione
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+-->
 Sicurezza Sociale e Forme di Solidarietà · Sessione 01
 
 ---
 
 ## Definizioni fondamentali
 
-- **Stato sociale** → sistema di politiche, norme, istituzioni e valori per rispondere ai rischi sociali e migliorare il benessere
-- **Sicurezza sociale** → rete di assicurazioni sociali + interventi con prova dei mezzi
+- <span class="c-def">**Stato sociale** → sistema di politiche, norme, istituzioni e valori per rispondere ai rischi sociali e migliorare il benessere</span>
+- <span class="c-def">**Sicurezza sociale** → rete di assicurazioni sociali + interventi con prova dei mezzi</span>
 - **Definizione funzionale** → "a cosa serve?" (4 funzioni)
 - **Definizione analitica** → "contro cosa tutela?" (11 rischi sociali)
 
@@ -37,7 +45,7 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 01
 | 10 | Oneri familiari | Reddito complemento |
 | 11 | Povertà ed esclusione sociale | Reddito complemento + Reintegrazione |
 
-> ⚠️ **Infortunio (art. 4 LPGA):** improvviso + involontario + fattore esterno straordinario. Manca uno? → è malattia. Burnout = disturbo lavoro-correlato, NON malattia professionale.
+> ⚠️ <span class="c-warn">**Infortunio (art. 4 LPGA):** improvviso + involontario + fattore esterno straordinario. Manca uno? → è malattia. Burnout = disturbo lavoro-correlato, NON malattia professionale.</span>
 
 ---
 
@@ -45,7 +53,7 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 01
 
 ### Assicurazioni sociali (12)
 
-- **Principio assicurativo** → contributi in anticipo → tutela al momento del bisogno
+- <span class="c-def">**Principio assicurativo** → contributi in anticipo → tutela al momento del bisogno</span>
 - **Principio di solidarietà** → tutela anche chi non ha versato contributi (invalidi precoci, studenti)
 
 | Sigla | Nome | Rischio coperto |
@@ -64,7 +72,7 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 01
 
 ### Prestazioni commisurate al bisogno
 
-- **Prova dei mezzi** → reddito + patrimonio sotto soglia di legge
+- <span class="c-def">**Prova dei mezzi** → reddito + patrimonio sotto soglia di legge</span>
 - Finanziate da imposte pubbliche
 - Scopo → garantire **minimo vitale** o coprire lacune
 
@@ -77,13 +85,13 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 01
 6. ISD
 7. AFI
 8. API
-9. Aiuto sociale ← ultima opzione
+9. <span class="c-warn">Aiuto sociale ← ultima opzione</span>
 
 ---
 
 ## Principi di coordinamento
 
-- **Assicurazioni sociali > prestazioni commisurate al bisogno** (ordine di priorità)
+- <span class="c-tesi">**Assicurazioni sociali > prestazioni commisurate al bisogno** (ordine di priorità)</span>
 - **No sovra-indennizzo** → cumulo prestazioni non può superare il guadagno perso
 - **Cure mediche (priorità):** AMIL → AINF → AI → AMAL
 - **Rendite (cumulabili):** AVS/AI → AMIL/AINF → PP
@@ -103,10 +111,10 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 01
 
 | Chi | Cosa | Quando |
 |-----|------|--------|
-| OIL | Convenzione 102: definisce i 9 rischi sociali fondamentali | 1952 |
-| Svizzera | Ratifica della Convenzione 102 OIL | 1977 |
+| <span class="c-dato">OIL</span> | Convenzione 102: definisce i 9 rischi sociali fondamentali | <span class="c-dato">1952</span> |
+| <span class="c-dato">Svizzera</span> | Ratifica della Convenzione 102 OIL | <span class="c-dato">1977</span> |
 | LPGA | Legge federale parte generale diritto assicurazioni sociali: definizioni operative | vigente |
-| Gregorio Avilés | Guida e responsabilità del modulo SUPSI | 2026 |
+| <span class="c-dato">Gregorio Avilés</span> | Guida e responsabilità del modulo SUPSI | <span class="c-dato">2026</span> |
 
 ---
 

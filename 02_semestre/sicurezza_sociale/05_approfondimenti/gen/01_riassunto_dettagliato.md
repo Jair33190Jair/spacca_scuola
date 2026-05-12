@@ -1,5 +1,14 @@
 # I Tre Pilastri della Previdenza — Approfondimento
-Sicurezza Sociale e Forme di Solidarietà · Sessione 05 · 27 marzo 2026
+Sicurezza Sociale e Forme di Solidarietà · Sessione 05 · <span class="c-dato">27 marzo 2026</span>
+
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🟡 Oro    #D4AC0D → Connessione / implicazione
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+-->
 
 > Questa lezione scava nel cuore del sistema previdenziale svizzero: i tre pilastri, come funzionano, chi coprono, come si finanziano e — cosa importantissima per il tuo futuro lavoro di operatore sociale — dove le persone cadono nelle crepe del sistema. È tanta roba, ma è la colonna vertebrale di tutto quello che farai sul campo.
 
@@ -11,8 +20,8 @@ Immagina un albero. Le radici sono il **primo pilastro**: obbligatorio, universa
 
 | Pilastro | Nome | Obiettivo | Destinatari | Sistema |
 |----------|------|-----------|-------------|---------|
-| 1° | AVS / AI + PC | Minimo vitale | Tutta la popolazione residente | Ripartizione |
-| 2° | Previdenza professionale (PP / Casse pensioni) | Mantenere il tenore di vita precedente | Salariati con salario > CHF 22'680/anno | Capitalizzazione |
+| 1° | AVS / AI + PC | <span class="c-def">Minimo vitale</span> | Tutta la popolazione residente | Ripartizione |
+| 2° | Previdenza professionale (PP / Casse pensioni) | Mantenere il tenore di vita precedente | Salariati con salario > <span class="c-dato">CHF 22'680/anno</span> | Capitalizzazione |
 | 3° | Previdenza privata (3a vincolata / 3b libera) | Integrazione individuale | Chiunque voglia, in modo facoltativo | Capitalizzazione |
 
 Il primo pilastro copre tre rischi: **vecchiaia**, **invalidità** e **decesso**.
@@ -24,47 +33,47 @@ Il secondo copre gli stessi tre rischi, ma per l'invalidità da infortunio inter
 
 ### Cos'è e a chi si rivolge
 
-L'**AVS** (Assicurazione Vecchiaia e Superstiti) è obbligatoria per tutta la popolazione residente in Svizzera — e anche per chi vi lavora senza risiedervi. È un regime **universale**: nessuno escluso.
+<span class="c-def">L'**AVS** (Assicurazione Vecchiaia e Superstiti) è obbligatoria per tutta la popolazione residente in Svizzera — e anche per chi vi lavora senza risiedervi. È un regime **universale**: nessuno escluso.</span>
 
 L'obbligo contributivo parte dal **21° anno di età**. La rendita di vecchiaia viene erogata a **65 anni** (per entrambi i sessi, dopo la riforma AVS 21).
 
 ### Come si finanzia
 
-L'AVS funziona con il sistema a **ripartizione**: i contributi che versiamo oggi non si accumulano per noi — vengono immediatamente redistribuiti a chi è in pensione adesso. È solidarietà generazionale pura: i lavoratori di oggi finanziano i pensionati di oggi.
+<span class="c-def">L'AVS funziona con il sistema a **ripartizione**: i contributi che versiamo oggi non si accumulano per noi — vengono immediatamente redistribuiti a chi è in pensione adesso. È solidarietà generazionale pura: i lavoratori di oggi finanziano i pensionati di oggi.</span>
 
 Tre fonti di finanziamento:
 1. **Prelievi su salari e redditi** — la voce principale
 2. **Contributi pubblici** — Confederazione e Cantoni
-3. **Redditi da capitale** — l'AVS gestisce un fondo di riserva (Compenswiss) pari a circa 50 miliardi di franchi, investito sui mercati finanziari per produrre interessi
+3. **Redditi da capitale** — l'AVS gestisce un fondo di riserva (Compenswiss) pari a circa <span class="c-dato">50 miliardi di franchi</span>, investito sui mercati finanziari per produrre interessi
 
 > Il prof sottolinea che il fondo di riserva esiste perché la legge impone all'AVS un'autonomia finanziaria di almeno un anno: deve poter pagare le rendite per 12 mesi anche senza nuove entrate.
 
-Attenzione: il capitale del fondo AVS appartiene a **tutti** gli assicurati e non è individuale — è molto diverso dal capitale che accumuli nel secondo pilastro, che invece è **personale**.
+<span class="c-impl">Attenzione: il capitale del fondo AVS appartiene a **tutti** gli assicurati e non è individuale — è molto diverso dal capitale che accumuli nel secondo pilastro, che invece è **personale**.</span>
 
 ### Le rendite di vecchiaia
 
-La rendita semplice di vecchiaia si situa tra **CHF 1'260** (minima) e **CHF 2'520** (massima) al mese — dati 2026. La rendita media effettiva è circa **CHF 1'870**.
+La rendita semplice di vecchiaia si situa tra <span class="c-dato">**CHF 1'260** (minima) e **CHF 2'520** (massima) al mese — dati 2026</span>. La rendita media effettiva è circa <span class="c-dato">**CHF 1'870**</span>.
 
 Questi importi vengono adeguati ogni due anni, tenendo conto dell'evoluzione dei prezzi e dei salari.
 
-CHF 2'520 al mese: ci si vive in Svizzera? Con fatica. Ecco perché esistono il secondo pilastro e le prestazioni complementari.
+CHF 2'520 al mese: ci si vive in Svizzera? Con fatica. <span class="c-impl">Ecco perché esistono il secondo pilastro e le prestazioni complementari.</span>
 
 ### Come si calcola la rendita — i tre elementi
 
 Il prof insiste su questo: non devi saper fare i calcoli, ma devi capire la logica.
 
 **1. Anni di contributi versati**
-Per ottenere una rendita piena (scala 44), devi aver contribuito per **44 anni** senza lacune, dal 21° al 65° anno di età. Ogni anno mancante riduce la rendita di circa il **2,3%**. Un giovane che parte all'estero e dimentica di versare i contributi AVS per 3 anni si porta dietro un taglio permanente sulla rendita.
+<span class="c-tesi">Per ottenere una rendita piena (scala 44), devi aver contribuito per **44 anni** senza lacune, dal 21° al 65° anno di età. Ogni anno mancante riduce la rendita di circa il **2,3%**.</span> Un giovane che parte all'estero e dimentica di versare i contributi AVS per 3 anni si porta dietro un taglio permanente sulla rendita.
 
-Bonus operativo: c'è tempo fino a **5 anni** per recuperare i contributi mancanti. Dopo, è troppo tardi.
+Bonus operativo: <span class="c-warn">c'è tempo fino a **5 anni** per recuperare i contributi mancanti. Dopo, è troppo tardi.</span>
 
 **2. Redditi guadagnati durante la vita attiva**
-Tutti i salari percepiti nell'arco della carriera vengono sommati e **rivalutati** (corretti per l'inflazione e per i bassi salari di inizio carriera). Esempio della dispensa: chi ha guadagnato CHF 1'090'000 nell'arco di 44 anni ottiene una rendita attorno a CHF 1'600-1'700 al mese.
+Tutti i salari percepiti nell'arco della carriera vengono sommati e **rivalutati** (corretti per l'inflazione e per i bassi salari di inizio carriera). <span class="c-es">Esempio della dispensa: chi ha guadagnato CHF 1'090'000 nell'arco di 44 anni ottiene una rendita attorno a CHF 1'600-1'700 al mese.</span>
 
 **3. Accrediti per compiti educativi e assistenziali**
 Questo è il meccanismo più sottile e spesso ignorato.
 
-- **Accrediti educativi**: per ogni anno in cui hai accudito un figlio fino ai 16 anni, ti viene riconosciuto un **reddito figurativo** (non effettivo, ma conteggiato ai fini della rendita). Il calcolo: `16 × CHF 1'260 × 12 × 3 ÷ 44 = CHF 16'494`. Questo importo viene diviso a metà tra i due genitori → **CHF 8'247 ciascuno**. L'idea: riconoscere il lavoro di cura come contributo economico alla società. Dietro c'è anche una logica produttivistica: figli sani e ben educati saranno i futuri contribuenti del sistema.
+- <span class="c-def">**Accrediti educativi**: per ogni anno in cui hai accudito un figlio fino ai 16 anni, ti viene riconosciuto un **reddito figurativo** (non effettivo, ma conteggiato ai fini della rendita).</span> Il calcolo: `16 × CHF 1'260 × 12 × 3 ÷ 44 = CHF 16'494`. Questo importo viene diviso a metà tra i due genitori → <span class="c-dato">**CHF 8'247 ciascuno**</span>. L'idea: riconoscere il lavoro di cura come contributo economico alla società.
 
 - **Accrediti assistenziali**: stesso principio, per chi si occupa di un familiare con disabilità grave (almeno grado medio). Va richiesto ogni anno per iscritto.
 
@@ -72,10 +81,10 @@ Questo è il meccanismo più sottile e spesso ignorato.
 
 Oltre alla rendita di vecchiaia, l'AVS eroga:
 
-- **Assegno per grandi invalidi (AGI)** — per chi ha perso parzialmente o totalmente l'autonomia (attenzione: "invalido" qui è una traduzione dal tedesco *Hilflosigkeit*, significa "bisognoso di aiuto", non ha il senso dell'assicurazione AI):
-  - Grado lieve: +CHF 252/mese
-  - Grado medio: +CHF 630/mese
-  - Grado elevato: +CHF 1'008/mese
+- **Assegno per grandi invalidi (AGI)** — per chi ha perso parzialmente o totalmente l'autonomia:
+  - Grado lieve: <span class="c-dato">+CHF 252/mese</span>
+  - Grado medio: <span class="c-dato">+CHF 630/mese</span>
+  - Grado elevato: <span class="c-dato">+CHF 1'008/mese</span>
 
 - **Mezzi ausiliari** (prestazioni integrative): rimborso di dispositivi come apparecchi acustici, sedie a rotelle, ausili per la mobilità
 
@@ -85,11 +94,11 @@ Oltre alla rendita di vecchiaia, l'AVS eroga:
 
 ## Primo pilastro: AI — Assicurazione Invalidità
 
-L'**AI** (Assicurazione contro l'invalidità) fa parte del primo pilastro insieme all'AVS. Copre il rischio invalidità per tutta la popolazione residente.
+<span class="c-def">L'**AI** (Assicurazione contro l'invalidità) fa parte del primo pilastro insieme all'AVS. Copre il rischio invalidità per tutta la popolazione residente.</span>
 
 ### Il principio chiave: integrazione prima della rendita
 
-> Il prof insiste su questo punto: l'AI non è innanzitutto un sistema di rendite. Il suo principio guida è: **prima l'integrazione professionale, poi — solo se necessario — la rendita**.
+> Il prof insiste su questo punto: <span class="c-tesi">l'AI non è innanzitutto un sistema di rendite. Il suo principio guida è: **prima l'integrazione professionale, poi — solo se necessario — la rendita**.</span>
 
 Prima di valutare il diritto a una rendita, l'AI verifica se la persona ha ancora **capacità lavorative residue** e se può essere reintegrata nel mercato del lavoro. Solo se questo non è possibile si procede con la rendita.
 
@@ -99,11 +108,11 @@ Prima di valutare il diritto a una rendita, l'AI verifica se la persona ha ancor
 2. **Intervento tempestivo** (max 12 mesi): misure concrete — adeguamento del posto di lavoro, orientamento professionale, collocamento, riabilitazione socio-professionale
 3. **Decisione finale**: provvedimenti di integrazione, esame del diritto alla rendita, o nessun diritto
 
-Esempio che il prof cita: una persona su sedia a rotelle che svolge un lavoro amministrativo — lavoro che non richiede mobilità fisica — **non ha automaticamente diritto a una rendita AI**, perché può continuare la sua attività lavorativa. L'AI è una definizione **economica** di invalidità, non solo medica.
+<span class="c-es">Esempio che il prof cita: una persona su sedia a rotelle che svolge un lavoro amministrativo — lavoro che non richiede mobilità fisica — **non ha automaticamente diritto a una rendita AI**, perché può continuare la sua attività lavorativa.</span> <span class="c-def">L'AI è una definizione **economica** di invalidità, non solo medica.</span>
 
 ### Finanziamento
 
-Contributi su salari e redditi + fiscalità generale (IVA inclusa). La metà delle uscite annuali è coperta da risorse pubbliche (3/4 Confederazione, 1/4 Cantoni).
+Contributi su salari e redditi + fiscalità generale (IVA inclusa). <span class="c-dato">La metà delle uscite annuali è coperta da risorse pubbliche (3/4 Confederazione, 1/4 Cantoni).</span>
 
 > Il calcolo della rendita AI sarà trattato nella Lezione 06, dopo Pasqua.
 
@@ -115,9 +124,9 @@ Questo è uno dei temi più pratici per il tuo futuro lavoro. Prestaci attenzion
 
 ### Cosa sono
 
-Le **Prestazioni Complementari** sono un'assicurazione sociale che integra le rendite AVS e AI quando rendite + altri redditi + patrimonio non coprono il **fabbisogno vitale minimo**. Fanno parte del primo pilastro a pieno titolo, ma funzionano diversamente.
+<span class="c-def">Le **Prestazioni Complementari** sono un'assicurazione sociale che integra le rendite AVS e AI quando rendite + altri redditi + patrimonio non coprono il **fabbisogno vitale minimo**.</span> Fanno parte del primo pilastro a pieno titolo, ma funzionano diversamente.
 
-Differenza chiave: mentre le rendite AVS vengono erogate su richiesta, le PC vengono erogate **solo dopo accertamento dei mezzi** (means test). Devi dimostrare di non farcela. Funzionano in modo simile all'assistenza sociale.
+<span class="c-impl">Differenza chiave: mentre le rendite AVS vengono erogate su richiesta, le PC vengono erogate **solo dopo accertamento dei mezzi** (means test). Devi dimostrare di non farcela. Funzionano in modo simile all'assistenza sociale.</span>
 
 ### Chi ne ha diritto
 
@@ -125,17 +134,17 @@ Solo i **beneficiari di una rendita AVS o AI** il cui reddito e una quota del pa
 
 ### Come si finanziano
 
-Non attraverso contributi sociali prelevati sul salario, ma attraverso la **fiscalità generale**: Confederazione (1/3) e Cantoni (2/3). Non le vedi sulla busta paga.
+Non attraverso contributi sociali prelevati sul salario, ma attraverso la **fiscalità generale**: <span class="c-dato">Confederazione (1/3) e Cantoni (2/3)</span>. Non le vedi sulla busta paga.
 
 ### Come si calcolano — esempio numerico del prof
 
-La logica è semplice: **uscite riconosciute − entrate disponibili = PC**.
+<span class="c-tesi">La logica è semplice: **uscite riconosciute − entrate disponibili = PC**.</span>
 
 **Uscite riconosciute (esempio: persona sola a casa)**:
 
 | Voce | Importo annuo |
 |------|--------------|
-| Bisogni vitali | CHF 20'670 |
+| Bisogni vitali | <span class="c-es">CHF 20'670</span> |
 | Affitto lordo | CHF 11'760 |
 | Premio assicurazione malattia | CHF 6'324 |
 | **Totale uscite** | **CHF 38'754** |
@@ -152,21 +161,21 @@ La logica è semplice: **uscite riconosciute − entrate disponibili = PC**.
 
 \*Il patrimonio totale è CHF 45'000, ma c'è una franchigia di CHF 30'000: entra solo CHF 15'000. Di questi, nel calcolo entra solo 1/10 come reddito figurativo.
 
-**Risultato**: CHF 38'754 − CHF 20'325 = **CHF 18'429/anno → CHF 1'536/mese**
+**Risultato**: <span class="c-es">CHF 38'754 − CHF 20'325 = **CHF 18'429/anno → CHF 1'536/mese**</span>
 
 Di questi, circa CHF 462 vengono versati direttamente all'assicuratore malattia. La PC netta effettiva è circa **CHF 1'037/mese**.
 
 ### Restituzione delle PC dagli eredi
 
-Dal **1° gennaio 2021**, le PC devono essere restituite dagli eredi se l'eredità netta supera CHF 40'000. L'importo massimo da restituire corrisponde all'eredità netta meno CHF 40'000. Questo è uno dei motivi per cui alcune persone esitano a chiederle — temono di lasciare meno ai figli.
+<span class="c-warn">Dal **<span class="c-dato">1° gennaio 2021</span>**, le PC devono essere restituite dagli eredi se l'eredità netta supera CHF 40'000. L'importo massimo da restituire corrisponde all'eredità netta meno CHF 40'000.</span> Questo è uno dei motivi per cui alcune persone esitano a chiederle — temono di lasciare meno ai figli.
 
-Esempio dalla slide: una coppia che ha ricevuto PC dal 2016, deceduta nel 2025. Eredità netta: CHF 138'000. Importo massimo da restituire: CHF 98'000 (138'000 − 40'000). PC cumulate in quel periodo: CHF 43'930 + spese malattia/invalidità CHF 14'700 = CHF 58'630 totale da restituire.
+<span class="c-es">Esempio dalla slide: una coppia che ha ricevuto PC dal 2016, deceduta nel 2025. Eredità netta: CHF 138'000. Importo massimo da restituire: CHF 98'000 (138'000 − 40'000). PC cumulate in quel periodo: CHF 43'930 + spese malattia/invalidità CHF 14'700 = CHF 58'630 totale da restituire.</span>
 
 ### Il problema del non-ricorso
 
-Circa **un terzo** degli aventi diritto alle PC non le richiede. Perché?
+<span class="c-tesi">Circa **un terzo** degli aventi diritto alle PC non le richiede.</span> Perché?
 
-Dati dello studio UFAS 2025 (Bischof & Adrian, analisi in 8 Cantoni):
+Dati dello studio <span class="c-dato">UFAS 2025 (Bischof & Adrian, analisi in 8 Cantoni)</span>:
 - Il 23% delle persone in difficoltà finanziaria non ne ha mai sentito parlare
 - Il 57% di chi non le percepisce dichiara di averne poca o nessuna conoscenza
 - Motivi di non-ricorso tra chi sa di averne diritto: mancanza di conoscenza della procedura (45%), complessità (31%), paura dell'obbligo di rimborso (28%), mancanza di sostegno (24%)
@@ -175,13 +184,13 @@ Ostacoli strutturali aggiuntivi: complessità della procedura di domanda, scarsa
 
 **Buone pratiche cantonali identificate dallo studio**:
 - Consulenza personalizzata e accompagnamento
-- Documentazione semplificata e multilingue (esempio: città di Zurigo)
+- <span class="c-es">Documentazione semplificata e multilingue (esempio: città di Zurigo)</span>
 - Liste di controllo per guidare nella procedura (Argovia, Vaud, Ticino)
 - Procedure di domanda online dinamiche (Argovia)
 - Visite a domicilio (Ticino, Argovia)
 - Sensibilizzazione di professionisti e reti di prossimità (Giura)
 
-> Il prof sottolinea che come operatore sociale, una delle prime domande da fare a una persona anziana è se ha già richiesto le prestazioni complementari. E questo vale anche per il **secondo pilastro**: persone con passato migratorio che tornano nel paese d'origine dimenticano spesso di reclamare i **fondi in giacenza** accumulati nelle casse pensioni durante la loro carriera in Svizzera.
+> Il prof sottolinea che come operatore sociale, una delle prime domande da fare a una persona anziana è se ha già richiesto le prestazioni complementari. <span class="c-impl">E questo vale anche per il **secondo pilastro**: persone con passato migratorio che tornano nel paese d'origine dimenticano spesso di reclamare i **fondi in giacenza** accumulati nelle casse pensioni durante la loro carriera in Svizzera.</span>
 
 ---
 
@@ -189,9 +198,9 @@ Ostacoli strutturali aggiuntivi: complessità della procedura di domanda, scarsa
 
 ### Caratteristiche principali
 
-Il secondo pilastro è **obbligatorio solo per i salariati** con contratto > 3 mesi e salario annuo superiore a **CHF 22'680** (soglia di entrata 2026). Per i lavoratori indipendenti è **facoltativo** — molti non lo sottoscrivono perché reinvestono la liquidità nella propria attività.
+Il secondo pilastro è **obbligatorio solo per i salariati** con contratto > 3 mesi e salario annuo superiore a <span class="c-dato">**CHF 22'680** (soglia di entrata 2026)</span>. <span class="c-warn">Per i lavoratori indipendenti è **facoltativo** — molti non lo sottoscrivono perché reinvestono la liquidità nella propria attività.</span>
 
-Sistema a **capitalizzazione**: i contributi (versati in parti uguali tra lavoratore e datore di lavoro) si accumulano su un conto personale, vengono investiti sui mercati finanziari e crescono nel tempo. È come un libretto di risparmio, ma con il contributo del datore di lavoro.
+<span class="c-def">Sistema a **capitalizzazione**: i contributi (versati in parti uguali tra lavoratore e datore di lavoro) si accumulano su un conto personale, vengono investiti sui mercati finanziari e crescono nel tempo.</span> È come un libretto di risparmio, ma con il contributo del datore di lavoro.
 
 ### Mandato
 
@@ -210,10 +219,10 @@ L'obiettivo è garantire il **mantenimento del tenore di vita** precedente al pe
 ## Terzo pilastro: Previdenza privata
 
 Facoltativa, individuale. Due forme:
-- **3a (vincolata)**: offre vantaggi fiscali. I salariati possono dedurre circa CHF 7'000/anno. Gli indipendenti senza 2° pilastro possono dedurre fino al **20% del reddito imponibile**, max CHF 57'800/anno.
+- **3a (vincolata)**: offre vantaggi fiscali. I salariati possono dedurre circa <span class="c-dato">CHF 7'000/anno</span>. Gli indipendenti senza 2° pilastro possono dedurre fino al **20% del reddito imponibile**, max <span class="c-dato">CHF 57'800/anno</span>.
 - **3b (libera)**: nessun vincolo, nessun vantaggio fiscale particolare.
 
-Il terzo pilastro **non è un'assicurazione sociale**. Non fa parte del sistema delle 11 assicurazioni sociali. È previdenza privata complementare.
+<span class="c-warn">Il terzo pilastro **non è un'assicurazione sociale**. Non fa parte del sistema delle 11 assicurazioni sociali. È previdenza privata complementare.</span>
 
 ---
 
@@ -223,8 +232,8 @@ Copre le conseguenze economiche di infortuni professionali e non professionali, 
 
 - **Obbligatoria** per i salariati
 - Con ≥ 8 ore/settimana: copertura anche per infortuni nel tempo libero
-- I lavoratori indipendenti non sono obbligatoriamente coperti
-- Gestita principalmente dalla **SUVA** (circa la metà dei salariati), più assicuratori privati e casse malattia
+- <span class="c-warn">I lavoratori indipendenti non sono obbligatoriamente coperti</span>
+- Gestita principalmente dalla <span class="c-dato">**SUVA**</span> (circa la metà dei salariati), più assicuratori privati e casse malattia
 - Prestazioni: preventive, sanitarie, pecuniarie (rendite, indennità giornaliere), integrative (mezzi ausiliari, riabilitazione)
 
 ---
@@ -255,17 +264,17 @@ Il capitale del secondo pilastro può essere prelevato anticipatamente in tre si
 
 | Termine | Significato |
 |---------|-------------|
-| **Sistema a ripartizione** | Le entrate del periodo corrente vengono immediatamente redistribuite ai beneficiari — solidarietà generazionale |
-| **Sistema a capitalizzazione** | Ogni assicurato accumula un proprio capitale nel tempo, investito sui mercati |
-| **Accredito educativo** | Reddito figurativo riconosciuto per ogni anno di cura di un figlio fino ai 16 anni |
-| **Accredito assistenziale** | Come il precedente, ma per cura di un familiare con disabilità grave |
-| **Prestazione complementare (PC)** | Integra AVS/AI quando le risorse non coprono il fabbisogno vitale — soggetta a means test |
-| **Fondi in giacenza** | Capitali del 2° pilastro non reclamati dai beneficiari (problema frequente tra migranti) |
-| **Means test / accertamento dei mezzi** | Verifica del reddito e del patrimonio per accedere alle PC |
-| **Soglia di entrata PP** | CHF 22'680/anno: soglia minima di salario per l'obbligo del 2° pilastro |
-| **Restituzione PC** | Dal 2021, gli eredi devono restituire le PC ricevute se l'eredità netta > CHF 40'000 |
-| **Non-ricorso** | Fenomeno per cui gli aventi diritto non fanno valere le proprie prestazioni |
-| **SUVA** | Istituto assicurativo che gestisce l'AINF per circa metà dei salariati |
+| <span class="c-def">**Sistema a ripartizione**</span> | Le entrate del periodo corrente vengono immediatamente redistribuite ai beneficiari — solidarietà generazionale |
+| <span class="c-def">**Sistema a capitalizzazione**</span> | Ogni assicurato accumula un proprio capitale nel tempo, investito sui mercati |
+| <span class="c-def">**Accredito educativo**</span> | Reddito figurativo riconosciuto per ogni anno di cura di un figlio fino ai 16 anni |
+| <span class="c-def">**Accredito assistenziale**</span> | Come il precedente, ma per cura di un familiare con disabilità grave |
+| <span class="c-def">**Prestazione complementare (PC)**</span> | Integra AVS/AI quando le risorse non coprono il fabbisogno vitale — soggetta a means test |
+| <span class="c-def">**Fondi in giacenza**</span> | Capitali del 2° pilastro non reclamati dai beneficiari (problema frequente tra migranti) |
+| <span class="c-def">**Means test / accertamento dei mezzi**</span> | Verifica del reddito e del patrimonio per accedere alle PC |
+| <span class="c-def">**Soglia di entrata PP**</span> | <span class="c-dato">CHF 22'680/anno</span>: soglia minima di salario per l'obbligo del 2° pilastro |
+| <span class="c-def">**Restituzione PC**</span> | Dal <span class="c-dato">2021</span>, gli eredi devono restituire le PC ricevute se l'eredità netta > CHF 40'000 |
+| <span class="c-def">**Non-ricorso**</span> | Fenomeno per cui gli aventi diritto non fanno valere le proprie prestazioni |
+| <span class="c-def">**SUVA**</span> | Istituto assicurativo che gestisce l'AINF per circa metà dei salariati |
 
 ---
 
@@ -276,4 +285,4 @@ Il capitale del secondo pilastro può essere prelevato anticipatamente in tre si
 - **Lezione 06** (dopo Pasqua): calcolo della rendita AI, approfondimento previdenza professionale
 - **Lezione 09**: confronto internazionale — posizionamento della Svizzera nel welfare europeo
 - **Dispensa, pp. 68–94**: esempi di calcolo delle rendite AVS e PC (lettura consigliata)
-- **Studio UFAS 2025** (Bischof & Adrian, Ecoplan/Interface): buone pratiche cantonali per migliorare l'accesso alle PC
+- <span class="c-dato">**Studio UFAS 2025** (Bischof & Adrian, Ecoplan/Interface)</span>: buone pratiche cantonali per migliorare l'accesso alle PC

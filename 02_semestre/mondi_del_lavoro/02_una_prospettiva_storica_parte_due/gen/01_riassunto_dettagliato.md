@@ -1,4 +1,12 @@
 # Il lavoro e le sue trasformazioni: una prospettiva storica — Parte 2
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🟡 Oro    #D4AC0D → Connessione / implicazione
+-->
 Mondi del lavoro · Sessione 02
 
 > Nella prima parte abbiamo visto come nasce l'idea di "lavoro" nelle scienze sociali.
@@ -10,12 +18,12 @@ Mondi del lavoro · Sessione 02
 
 Prima di entrare nel vivo, il professore ricorda la definizione base:
 
-> **Lavoro (occupazionale):** attività sistematica e specializzata, svolta in un contesto definito, sottoposta a regole e che garantisce una **retribuzione** (salario per il lavoro dipendente, rendita per il lavoro autonomo).
-> _(Reynaud & Maruani, 2004)_
+> <span class="c-def">**Lavoro (occupazionale):** attività sistematica e specializzata, svolta in un contesto definito, sottoposta a regole e che garantisce una **retribuzione** (salario per il lavoro dipendente, rendita per il lavoro autonomo).
+> _(Reynaud & Maruani, 2004)_</span>
 
-Un dettaglio importante: il lavoro dipendente è **eterodiretto** — i mezzi e i fini del lavoro vengono decisi dal management, non dal lavoratore. Il lavoratore non è proprietario dei mezzi di produzione e non esiste un legame diretto tra quello che produce e il suo bisogno immediato.
+Un dettaglio importante: <span class="c-def">il lavoro dipendente è **eterodiretto** — i mezzi e i fini del lavoro vengono decisi dal management, non dal lavoratore.</span> Il lavoratore non è proprietario dei mezzi di produzione e non esiste un legame diretto tra quello che produce e il suo bisogno immediato.
 
-Pensa alla differenza tra un giardiniere che coltiva il suo orto e uno che taglia i prati per un'azienda di manutenzione: stesso lavoro fisico, relazione completamente diversa con ciò che si fa.
+<span class="c-es">Pensa alla differenza tra un giardiniere che coltiva il suo orto e uno che taglia i prati per un'azienda di manutenzione: stesso lavoro fisico, relazione completamente diversa con ciò che si fa.</span>
 
 ---
 
@@ -38,13 +46,11 @@ Tieni questo schema in testa: è la cornice entro cui tutto il resto si muove.
 
 ### Adam Smith e la parcellizzazione
 
-Quando le fabbriche crescono, emerge il problema: come organizzare il lavoro per massimizzare la produzione? **Adam Smith**, ne *La ricchezza delle nazioni* (1776), è tra i primi a descrivere la **parcellizzazione del lavoro**: ogni operaio esegue un compito specifico invece di costruire un prodotto dall'inizio alla fine.
-
-Il guadagno in produttività è reale — ma Smith lascia ancora all'operaio una certa autonomia nel *come* eseguire il suo compito. E questo, secondo il signore che arriverà dopo, è un problema.
+Quando le fabbriche crescono, emerge il problema: come organizzare il lavoro per massimizzare la produzione? <span class="c-dato">**Adam Smith**, ne *La ricchezza delle nazioni* (1776)</span>, è tra i primi a descrivere la <span class="c-def">**parcellizzazione del lavoro**: ogni operaio esegue un compito specifico invece di costruire un prodotto dall'inizio alla fine.</span>
 
 ### Nascita del taylorismo
 
-**Frederick Taylor** (1856–1915) pubblica *I principi dell'organizzazione scientifica del lavoro* nel 1911. Taylor parte da una critica radicale: Smith lascia troppa libertà all'operaio. La sua tesi è chiara:
+<span class="c-dato">**Frederick Taylor** (1856–1915)</span> pubblica *I principi dell'organizzazione scientifica del lavoro* nel <span class="c-dato">1911</span>. <span class="c-tesi">Taylor parte da una critica radicale: Smith lascia troppa libertà all'operaio. La sua tesi è chiara:</span>
 
 > «Il lavoro intellettuale deve essere tolto dall'officina.»
 > _(cit. in Braverman, 1978, p. 114)_
@@ -55,17 +61,15 @@ I principi si articolano in tre livelli:
 
 | Principio | Definizione | Conseguenze concrete |
 |---|---|---|
-| **Divisione verticale del lavoro** | Separazione tra ideazione ed esecuzione | Studio scientifico del processo, "one best way" — un solo modo ottimale per ogni compito |
-| **Divisione orizzontale del lavoro** | Parcellizzazione e specializzazione dei compiti | Gesti monotoni, tempi ridotti, utilizzo di manodopera poco qualificata e immigrata |
-| **Sistema di controllo del lavoro** | Capireparto incaricati di controllare il lavoro | Diminuzione dei tempi morti e dei difetti di qualità |
-
-Pensa al taylorismo come alla modalità "Tutorial guidato passo-passo" di un videogioco: ogni mossa è decisa da qualcun altro, tu la esegui. Efficiente — ma completamente svuotato di autonomia.
+| <span class="c-def">**Divisione verticale del lavoro**</span> | Separazione tra ideazione ed esecuzione | Studio scientifico del processo, "one best way" — un solo modo ottimale per ogni compito |
+| <span class="c-def">**Divisione orizzontale del lavoro**</span> | Parcellizzazione e specializzazione dei compiti | Gesti monotoni, tempi ridotti, utilizzo di manodopera poco qualificata e immigrata |
+| <span class="c-def">**Sistema di controllo del lavoro**</span> | Capireparto incaricati di controllare il lavoro | Diminuzione dei tempi morti e dei difetti di qualità |
 
 ### Il fordismo: la catena di montaggio e molto di più
 
-**Henry Ford** (1863–1947) prende i principi di Taylor e li porta alla loro logica estrema. Con la **catena di montaggio**, il controllo non è più esercitato da un caporeparto umano: è **il ritmo della macchina** a dettare i tempi. L'operaio non si sposta — è il prodotto che si muove davanti a lui.
+<span class="c-dato">**Henry Ford** (1863–1947)</span> prende i principi di Taylor e li porta alla loro logica estrema. Con la **catena di montaggio**, il controllo non è più esercitato da un caporeparto umano: è **il ritmo della macchina** a dettare i tempi. L'operaio non si sposta — è il prodotto che si muove davanti a lui.
 
-Ma il fordismo non è solo organizzazione del lavoro. È un intero sistema:
+<span class="c-tesi">Ma il fordismo non è solo organizzazione del lavoro. È un intero sistema:</span>
 
 - **Produzione di massa** di beni standardizzati (l'offerta crea la domanda)
 - **Intervento statale** nell'economia per sostenere i consumi
@@ -73,12 +77,12 @@ Ma il fordismo non è solo organizzazione del lavoro. È un intero sistema:
 - **Nascita del welfare state**, basato sul modello familiare tradizionale (lavoro salariato femminile limitato a settori specifici)
 - **Nascita dei sindacati** e del diritto collettivo sul lavoro
 
-Su questo punto **Antonio Gramsci** (1891–1937) scrive, nei *Quaderni dal carcere*:
+Su questo punto <span class="c-dato">**Antonio Gramsci** (1891–1937)</span> scrive, nei *Quaderni dal carcere*:
 
 > «La coercizione deve essere combinata con la persuasione e il consenso, e questo può essere ottenuto, nelle forme della società data, da una maggiore retribuzione, che permette un determinato tenore di vita, capace di mantenere e reintegrare le forze logorate dal nuovo tipo di fatica.»
 > _(Gramsci, 2007, p. 2165)_
 
-Traduzione brutale: Ford paga meglio degli altri — ma lo fa perché ha bisogno che l'operaio regga il ritmo infernale della catena. Il salario è anche un meccanismo di consenso.
+<span class="c-impl">Traduzione brutale: Ford paga meglio degli altri — ma lo fa perché ha bisogno che l'operaio regga il ritmo infernale della catena. Il salario è anche un meccanismo di consenso.</span>
 
 ---
 
@@ -88,9 +92,9 @@ Il sistema funziona per decenni. Poi le crepe iniziano a mostrarsi, da più part
 
 ### Dai sociologi del lavoro
 
-- **Scuola delle relazioni umane** — Gli esperimenti di **Elton Mayo** negli stabilimenti della Western Electric a Chicago (1924) dimostrano che le relazioni sociali incidono sulla produttività: i lavoratori non sono macchine.
-- **Tavistock Institute di Londra** (1946) — La fabbrica è un **sistema sociotecnico**: la dimensione tecnica e quella umana sono inseparabili.
-- **Alain Touraine**, *L'evoluzione del lavoro operaio alla Renault* (1955) — Descrive una **nuova classe operaia** scarsamente qualificata ma con una forza collettiva importante.
+- <span class="c-dato">**Scuola delle relazioni umane**</span> — Gli esperimenti di **Elton Mayo** negli stabilimenti della Western Electric a Chicago (<span class="c-dato">1924</span>) dimostrano che le relazioni sociali incidono sulla produttività: i lavoratori non sono macchine.
+- <span class="c-dato">**Tavistock Institute di Londra** (1946)</span> — La fabbrica è un **sistema sociotecnico**: la dimensione tecnica e quella umana sono inseparabili.
+- <span class="c-dato">**Alain Touraine**, *L'evoluzione del lavoro operaio alla Renault* (1955)</span> — Descrive una **nuova classe operaia** scarsamente qualificata ma con una forza collettiva importante.
 
 ### Dai lavoratori e dalle lavoratrici
 
@@ -99,24 +103,17 @@ Le critiche sul campo sono ancora più dirette:
 - **Macchinizzazione del lavoratore**
 - Disumanizzazione del lavoro
 
-Il risultato: **numerosi scioperi** — in particolare nel settore automobilistico — alla fine degli anni '60 e all'inizio degli anni '70 contestano violentemente il sistema. Mirafiori (Torino, 1962), Fiat (Torino, 1980): nomi che segnano la storia del conflitto sociale.
-
-### Dal management
-
-Anche i dirigenti iniziano a vedere i limiti:
-- Efficacia limitata
-- Scarsa capacità di mobilitare e motivare i dipendenti
-- Difficoltà nel gestire variabilità e qualità
+<span class="c-es">Il risultato: **numerosi scioperi** — in particolare nel settore automobilistico — alla fine degli anni '60 e all'inizio degli anni '70 contestano violentemente il sistema. <span class="c-dato">Mirafiori (Torino, 1962)</span>, <span class="c-dato">Fiat (Torino, 1980)</span>: nomi che segnano la storia del conflitto sociale.</span>
 
 ### La crisi strutturale del fordismo
 
 Negli anni '70 arriva la tempesta perfetta. Cinque fattori si sommano:
 
-1. **Rottura degli Accordi di Bretton Woods** (1973): fine dei controlli sui movimenti di denaro internazionali
+1. **Rottura degli Accordi di Bretton Woods** (<span class="c-dato">1973</span>): fine dei controlli sui movimenti di denaro internazionali
 2. **Diminuzione dei prezzi relativi delle materie prime**
 3. **Competizione globale** tra imprese
 4. **Rivoluzione tecnologica**
-5. **Crisi di sovrapproduzione**: il mercato dei beni di consumo di massa è saturo
+5. <span class="c-tesi">**Crisi di sovrapproduzione**: il mercato dei beni di consumo di massa è saturo</span>
 
 Il fordismo non è più sostenibile.
 
@@ -126,23 +123,23 @@ Il fordismo non è più sostenibile.
 
 ### Il modello giapponese e la produzione snella
 
-I limiti del fordismo spingono verso nuovi modelli. Arriva la **lean production** (produzione snella) di ispirazione giapponese, con due principi chiave:
+I limiti del fordismo spingono verso nuovi modelli. Arriva la <span class="c-def">**lean production** (produzione snella)</span> di ispirazione giapponese, con due principi chiave:
 
-1. **Just-in-time** — Si produce sulla base della domanda, eliminando sprechi e scorte. La flessibilità diventa totale: anche i lavoratori entrano ed escono dal processo produttivo *al momento del bisogno*.
-2. **Qualità totale** — Controllo costante in tutte le fasi della produzione, con coinvolgimento dei lavoratori (circoli di qualità; disposizione a U delle postazioni in modo che i colleghi possano vedersi).
+1. <span class="c-def">**Just-in-time**</span> — Si produce sulla base della domanda, eliminando sprechi e scorte. La flessibilità diventa totale: anche i lavoratori entrano ed escono dal processo produttivo *al momento del bisogno*.
+2. <span class="c-def">**Qualità totale**</span> — Controllo costante in tutte le fasi della produzione, con coinvolgimento dei lavoratori (circoli di qualità).
 
-Nella realtà concreta, però, il modello giapponese si caratterizza anche per un **grande sfruttamento della manodopera**, ritmi di lavoro molto intensi e assenza di diritti sindacali.
+<span class="c-warn">Nella realtà concreta, però, il modello giapponese si caratterizza anche per un **grande sfruttamento della manodopera**, ritmi di lavoro molto intensi e assenza di diritti sindacali.</span>
 
 ### La gestione delle risorse umane (HRM)
 
-L'altra grande novità post-fordista è la **Human Resource Management (HRM)**: un'ideologia manageriale che parte dall'idea di prendere in considerazione il fattore umano — in critica all'idea taylorista della "one best way".
+L'altra grande novità post-fordista è la <span class="c-def">**Human Resource Management (HRM)**</span>: un'ideologia manageriale che parte dall'idea di prendere in considerazione il fattore umano — in critica all'idea taylorista della "one best way".
 
 Elementi principali:
 1. **Rapporto individuale** tra direzione e dipendente (non più collettivo)
 2. **Valutazione delle competenze** professionali, ma anche delle caratteristiche umane, intellettuali e sociali
-3. **Esclusione delle forme di rappresentanza collettive** (i sindacati vengono aggirati)
+3. <span class="c-warn">**Esclusione delle forme di rappresentanza collettive** (i sindacati vengono aggirati)</span>
 
-Attenzione: nonostante la retorica più "umana", la questione del controllo del lavoro permane. Cambia la forma, non la sostanza.
+<span class="c-impl">Attenzione: nonostante la retorica più "umana", la questione del controllo del lavoro permane. Cambia la forma, non la sostanza.</span>
 
 ### Il sistema post-fordista: quadro d'insieme
 
@@ -151,16 +148,7 @@ Il sistema post-fordista si caratterizza per:
 - **Privatizzazione dei servizi pubblici** e riforma del welfare
 - **Terziarizzazione dell'economia** (crescita del settore dei servizi)
 - **Accumulazione flessibile**: modelli di organizzazione flessibili; la domanda guida l'offerta, non il contrario
-- **Femminilizzazione della forza lavoro**: le donne entrano nel mercato del lavoro, ma spesso attraverso la porta della flessibilità e della precarietà
-
-### Taylorismo-fordismo vs. post-fordismo a confronto
-
-| Dimensione | Modello taylorista-fordista | Modello post-fordista |
-|---|---|---|
-| **Produzione** | Massa, prodotti standardizzati, orientata alle risorse | Flessibile, prodotti differenziati, just-in-time orientata alla domanda |
-| **Impresa** | Grande impresa gerarchica, controllo burocratico | Medie e piccole unità, imprese a rete, decentramento |
-| **Lavoro** | Parcellizzato, ripetitivo, scarsa autonomia | Maggiore autonomia, orientato agli obiettivi, ritmi intensi |
-| **Contratti** | Standard, piena occupazione (uomini bianchi), "casalighizzazione" del lavoro femminile | Non standard, segmentazione del mercato, femminilizzazione dell'impiego |
+- <span class="c-impl">**Femminilizzazione della forza lavoro**: le donne entrano nel mercato del lavoro, ma spesso attraverso la porta della flessibilità e della precarietà</span>
 
 ---
 
@@ -170,7 +158,7 @@ Fin qui la storia "ufficiale" dell'organizzazione del lavoro. Ma il professore d
 
 ### Perché le donne entrano nel mercato del lavoro
 
-Quattro fattori principali spiegano la crescente presenza femminile:
+<span class="c-tesi">Quattro fattori principali spiegano la crescente presenza femminile:</span>
 1. **Aumento della scolarizzazione** delle donne
 2. **Movimenti di emancipazione femminile**
 3. **Terziarizzazione del mercato del lavoro** (i servizi aprono spazi nuovi)
@@ -178,42 +166,32 @@ Quattro fattori principali spiegano la crescente presenza femminile:
 
 ### I dati in Svizzera e in Ticino
 
-Il professore integra le schede statistiche de *Le cifre della parità* (Ustat Ticino, edizione 2025):
+Il professore integra le schede statistiche de *Le cifre della parità* (<span class="c-dato">Ustat Ticino, edizione 2025</span>):
 
 **Partecipazione al mercato del lavoro:**
-- In Svizzera (2023): **tasso di attività** al 67,7% — tra i più alti in Europa
-- Donne: 62,6% vs. Uomini: 72,9% (divario di 10,3 punti percentuali, in calo dal 13 del 2013)
-- A partire dai **25 anni**, il tasso di attività femminile inizia a decrescere — molte donne riducono o interrompono il lavoro per dedicarsi alla famiglia
+- In Svizzera (<span class="c-dato">2023</span>): **tasso di attività** al <span class="c-dato">67,7%</span> — tra i più alti in Europa
+- <span class="c-dato">Donne: 62,6% vs. Uomini: 72,9%</span> (divario di <span class="c-dato">10,3 punti percentuali</span>, in calo dal 13 del 2013)
 
 **Formazione:**
-- Le donne 25–44 anni con titolo terziario (51,8%) **superano** gli uomini di pari età (45,0%) — un ribaltamento storico
-- Le scelte formative restano però segregate: elettricità ed energia (528 uomini, 3 donne), lavoro sociale (442 donne, 118 uomini)
+- <span class="c-dato">Le donne 25–44 anni con titolo terziario (51,8%) **superano** gli uomini di pari età (45,0%)</span> — un ribaltamento storico
+- <span class="c-warn">Le scelte formative restano però segregate: elettricità ed energia (528 uomini, 3 donne), lavoro sociale (442 donne, 118 uomini)</span>
 
 **Segregazione occupazionale — due tipi:**
 
-- **Segregazione orizzontale**: alta concentrazione delle donne in certi settori e professioni, generalmente meno pagati e meno valorizzati di quelli maschili. Gli stereotipi di genere orientano le scelte formative fin dall'inizio.
-- **Segregazione verticale**: le donne sono meno presenti nei ruoli dirigenziali e assumono più frequentemente contratti precari e salari più bassi. Si parla di:
+- <span class="c-def">**Segregazione orizzontale**: alta concentrazione delle donne in certi settori e professioni, generalmente meno pagati e meno valorizzati di quelli maschili.</span>
+- <span class="c-def">**Segregazione verticale**: le donne sono meno presenti nei ruoli dirigenziali e assumono più frequentemente contratti precari e salari più bassi.</span> Si parla di:
   - **Soffitto di cristallo** → barriere invisibili che limitano l'avanzamento di carriera
   - **Effetto a imbuto** → abbandono progressivo delle donne man mano che si sale nella gerarchia
-  - Nel 2024, le donne rappresentano il 35,6% dei dirigenti in Ticino (circa 1 su 3)
-
-**Lavoro a tempo parziale:**
-- Il 57,7% delle donne occupate in Ticino lavora **a tempo parziale** (2024)
-- Motivazione principale per le donne: cura dei figli
-- Motivazione principale per gli uomini: non aver trovato impiego a tempo pieno, o essere in formazione
+  - Nel <span class="c-dato">2024, le donne rappresentano il 35,6% dei dirigenti in Ticino</span>
 
 **Disparità salariale:**
-- In Ticino (2022): salario mediano uomini 5.755 fr., donne 5.272 fr. → divario dell'**8,4%** (era il 17,1% nel 2010)
-- La parte del divario **non spiegata** da fattori oggettivi (potenzialmente discriminatoria) è ancora dell'**11,1%**
-- Il divario cresce con l'età e nei ruoli di responsabilità: tra i quadri medi e alti raggiunge il **18,7%**
-- Il settore privato presenta divari più marcati (13,0%) rispetto al pubblico (7,7%)
+- In Ticino (<span class="c-dato">2022</span>): salario mediano uomini <span class="c-dato">5.755 fr., donne 5.272 fr.</span> → divario dell'<span class="c-dato">**8,4%**</span> (era il <span class="c-dato">17,1% nel 2010</span>)
+- <span class="c-warn">La parte del divario **non spiegata** da fattori oggettivi (potenzialmente discriminatoria) è ancora dell'<span class="c-dato">**11,1%**</span></span>
+- Il divario cresce con l'età e nei ruoli di responsabilità: tra i quadri medi e alti raggiunge il <span class="c-dato">**18,7%**</span>
 
 **Conciliabilità famiglia-lavoro:**
-- Il lavoro non remunerato (domestico, cura, volontariato) vale 434 miliardi di franchi in Svizzera (2020)
-- Le donne svolgono il **60,5%** di questo lavoro
-- Il 58,3% delle famiglie con bambini 0–5 anni ricorre a un aiuto esterno per la cura (era il 26,2% nel 2004)
-- Il modello più diffuso tra le coppie con figli piccoli: **uomo a tempo pieno, donna a tempo parziale**
-- In diminuzione (ma ancora consistente): le famiglie in cui solo l'uomo lavora
+- Il lavoro non remunerato (domestico, cura, volontariato) vale <span class="c-dato">434 miliardi di franchi</span> in Svizzera (<span class="c-dato">2020</span>)
+- Le donne svolgono il <span class="c-dato">**60,5%**</span> di questo lavoro
 
 ---
 
@@ -231,7 +209,6 @@ Il professore integra le schede statistiche de *Le cifre della parità* (Ustat T
 | **Femminilizzazione del lavoro** | Crescente ingresso delle donne nel mercato del lavoro, spesso tramite contratti flessibili e precari |
 | **Segregazione orizzontale** | Concentrazione delle donne in certi settori tipicamente meno pagati |
 | **Segregazione verticale** | Difficoltà delle donne ad accedere ai ruoli dirigenziali (soffitto di cristallo, effetto a imbuto) |
-| **Lavoro di riproduzione sociale** | Lavoro non remunerato di cura domestica e familiare, svolto prevalentemente dalle donne |
 | **Terziarizzazione** | Spostamento dell'economia verso il settore dei servizi |
 | **Finanziarizzazione** | Ricerca di profitti attraverso strumenti finanziari, relativamente slegati dalla produzione reale |
 
@@ -248,14 +225,11 @@ Ford porta i principi di Taylor alla loro logica estrema con la catena di montag
 **Quali sono le cause principali della crisi del fordismo negli anni '70?**
 La crisi del fordismo è il risultato di più fattori convergenti: le critiche interne (dai sociologi delle relazioni umane, dai lavoratori con gli scioperi degli anni '60–'70, e dal management stesso per l'efficacia limitata) e una crisi strutturale negli anni '70 con la rottura degli Accordi di Bretton Woods (1973), l'intensificarsi della competizione globale, la rivoluzione tecnologica e la crisi di sovrapproduzione in un mercato dei beni di consumo ormai saturo.
 
-**Cosa distingue il modello post-fordista da quello taylorista-fordista? Usa la tabella di confronto come guida.**
-Il post-fordismo sostituisce la produzione di massa standardizzata con quella flessibile just-in-time orientata alla domanda; le grandi imprese gerarchiche con reti di piccole e medie imprese; il lavoro parcellizzato e monotono con maggiore autonomia (ma ritmi intensi); i contratti standard a piena occupazione con contratti non standard e segmentazione del mercato. La caratteristica più importante è la flessibilizzazione totale: anche i lavoratori entrano ed escono dal processo produttivo in funzione della domanda.
-
 **Che cos'è la segregazione occupazionale di genere e quali sono le sue due forme principali?**
 La segregazione occupazionale di genere descrive la distribuzione disuguale delle donne rispetto agli uomini nel mercato del lavoro. La segregazione orizzontale indica l'alta concentrazione femminile in certi settori (sanità, lavoro sociale, amministrazione) generalmente meno pagati e valorizzati rispetto a quelli tipicamente maschili. La segregazione verticale riguarda invece la gerarchia: le donne sono meno presenti ai ruoli dirigenziali (in Ticino 35,6% nel 2024) e assumono più frequentemente contratti precari. I meccanismi che producono questo effetto sono il soffitto di cristallo (barriere invisibili all'avanzamento) e l'effetto a imbuto (abbandono progressivo delle donne salendo nella gerarchia).
 
 **Quali sono i dati chiave sulla partecipazione femminile al mercato del lavoro in Svizzera/Ticino?**
-In Svizzera (2023) il tasso di attività femminile è del 62,6% contro il 72,9% maschile — un divario di 10,3 punti, in calo dal 13 del 2013. Il tasso femminile inizia a decrescere a partire dai 25 anni per motivi familiari. In Ticino (2024) il 57,7% delle donne lavora a tempo parziale, motivazione principale: cura dei figli. Il divario salariale mediano in Ticino è dell'8,4% (in calo dal 17,1% del 2010), ma la parte non spiegata — potenzialmente discriminatoria — è ancora dell'11,1%, e raggiunge il 18,7% tra i quadri medi e alti. Le donne svolgono il 60,5% del lavoro non remunerato in Svizzera.
+In Svizzera (2023) il tasso di attività femminile è del 62,6% contro il 72,9% maschile — un divario di 10,3 punti, in calo dal 13 del 2013. In Ticino (2024) il 57,7% delle donne lavora a tempo parziale, motivazione principale: cura dei figli. Il divario salariale mediano in Ticino è dell'8,4% (in calo dal 17,1% del 2010), ma la parte non spiegata — potenzialmente discriminatoria — è ancora dell'11,1%, e raggiunge il 18,7% tra i quadri medi e alti. Le donne svolgono il 60,5% del lavoro non remunerato in Svizzera.
 
 ---
 

@@ -21,6 +21,17 @@ Semestre 02 · 9 lezioni
 
 ---
 
+## Il mercato del lavoro svizzero — quadro normativo (Lez. 01)
+
+- Tra i mercati **meno regolamentati** d'Europa
+- Fonti normative: **Legge sul lavoro** + **Codice delle obbligazioni**
+- Contratto scritto: **NON obbligatorio** per legge
+- ~50% dei lavoratori senza contratto collettivo
+- Licenziamento abusivo: nessun reintegro → max 6 mesi di risarcimento
+- Onere della prova: sul lavoratore
+
+---
+
 ## Che cos'è il lavoro
 
 - **Lavoro come attività** ("lavoro sostanziale") → svolto indipendentemente dal contesto formale; legame diretto con il soddisfacimento del bisogno (es. cucinare a casa) · (Lez. 01)
@@ -97,6 +108,21 @@ Semestre 02 · 9 lezioni
 - **Auto-imprenditorialità** → narrazione della libertà: i rischi vengono scaricati sul lavoratore
 - **Iper-industrializzazione** (Romano Alquati, 2002) → cooperazione in rete, pianificata e controllata in tempo reale
 
+### Origini del digitale e acceleratori (Lez. 03)
+
+- **Internet** → nasce da esigenza militare (Guerra Fredda); diffusa dalle università negli anni '70
+- **Personal computer** → anni '80 (Microsoft, Apple)
+- **Bolla dot-com** → anni '90, crollo 2000 → sopravvivono i GAFAM
+- **Mito del genio nel garage** → in realtà: investimenti pubblici massicci (università, Stato, militare)
+- **Retail Revolution** → tappa intermedia tra logistica e platform capitalism (e-commerce)
+- **Crisi 2007-2008 e pandemia Covid-19** → acceleratori della digitalizzazione di massa
+- **Congiuntura di guerra** → AI come laboratorio militare → effetti sui mondi del lavoro
+- **CAPTCHA** → lavoro gratuito degli utenti che addestra le macchine
+- **Wild zone normativa** → piattaforme in zona grigia legale: si adattano per resistere alla regolamentazione
+- **Diritto alla disconnessione** → diritto a non essere raggiungibili fuori dall'orario di lavoro
+- **Coworking** → spazi condivisi tra lavoratori autonomi: nuova forma organizzativa del lavoro digitale
+- **Dibattito "fine del lavoro"** → l'automazione elimina posti o ne crea di nuovi? Entrambe le narrazioni coesistono
+
 ### Dati come petrolio digitale (Lez. 04)
 
 - I dati personali sono la materia prima dell'economia digitale; noi produciamo il valore ma non siamo retribuiti
@@ -125,6 +151,11 @@ Semestre 02 · 9 lezioni
 - **Scoraggiati** → inattivi disponibili ma che non cercano più → categoria critica: la disoccupazione che cala non è sempre buona notizia
 - **Principio dei vasi comunicanti** → quando la disoccupazione cala, chiedi dove sono finiti: occupati (bene), inattivi scoraggiati (male) · (Lez. 05)
 
+### Forza lavoro potenziale (Lez. 05)
+
+- **Forza lavoro potenziale** = disoccupati + sottoccupati + inattivi disponibili (ma non cercano / cercano ma non disponibili)
+- Categoria utile per avere una misura più ampia del disagio nel mercato del lavoro
+
 ### Due fonti, due logiche (Lez. 05)
 
 | | UST/ILO | SECO |
@@ -140,6 +171,7 @@ Semestre 02 · 9 lezioni
 - **Tasso di attività** → persone attive / pop. 15+ × 100
 - **Tasso di disoccupazione** → disoccupati / persone attive × 100
 - **FTE/ETP** → somma delle percentuali di occupazione (2 × 50% = 1 ETP)
+- **Stranieri nel mercato del lavoro CH**: occupati stranieri più che raddoppiati dal 1970; tasso di disoccupazione più alto per chi ha passato migratorio · (Lez. 05)
 
 ---
 
@@ -156,7 +188,7 @@ Semestre 02 · 9 lezioni
 
 | | Mediana mensile (2024) |
 |---|------------------------|
-| Svizzera | 6.722 fr. |
+| Svizzera | 6.778 fr. |
 | Ticino | 5.393 fr. (**-1.385 fr. / -25,8%**) |
 | Sanità e assistenza TI | 6.051–6.408 fr. |
 
@@ -177,6 +209,15 @@ Semestre 02 · 9 lezioni
 - 13,9% dei posti di lavoro TI (+3 pp dal 2011)
 - Addetti +52,2% (sanità) e +50,8% (assistenza) dal 2011
 - Difficoltà di reclutamento: **53,0%** delle aziende nazionali in Q4 2025
+- Frontalieri nel settore: 14,7–16,4% (vs 31,8% media economia) → meno dipendenza dalla forza lavoro transfrontaliera rispetto ad altri settori
+
+### Contesto regionale e dinamiche salariali strutturali (Lez. 06)
+
+- Province lombarde limitrofe: ~2 milioni di persone con costo della vita inferiore → disponibilità ad accettare salari più bassi
+- Effetto storico: minor pressione sulle aziende ticinesi ad alzare salari e innovare
+- **Accordo fiscale 2023** → novità recente che impatta il profilo del frontalierato
+- **Notifiche** (lavoro temporaneo <90gg/anno): 2.441 annui → categoria precaria non sempre visibile nei dati strutturali
+- Dinamica recente (2025): Q1 record storico occupati (+3,1%); Q3-Q4 in calo (-1,2% / -1,6%), in controtendenza rispetto alla Svizzera
 
 ---
 
@@ -191,7 +232,8 @@ Semestre 02 · 9 lezioni
 ### Numeri attuali — 4° trim. 2025 (Lez. 08)
 
 - Totale CH: **411.450** frontalieri (+1,1% annuo)
-- Ticino: **78.809** (seconda regione); 99,7% proviene dall'Italia
+- Prima regione: **Regione del Lemano** (168.461); seconda: **Ticino** (78.809)
+- 99,7% dei frontalieri ticinesi proviene dall'Italia; l'86% degli italiani di frontiera è diretto solo al Ticino
 - Settore prevalente: terziario (287.294 su 411.450)
 
 ### Origini storiche (Lez. 08)
@@ -200,6 +242,8 @@ Semestre 02 · 9 lezioni
 - Prima metà '900 in Ticino: cantone rurale, le imprese della Svizzera interna trasferiscono fabbriche al confine → 30% ticinesi (ruoli alti) + 70% frontalieri (manovalanza) → contribuisce all'industrializzazione del Ticino
 - **Legge federale 1931** → definizione sistematica del frontaliere; diventata modello per tutta Europa
 - La classe dirigente svizzera preferiva i frontalieri ai migranti: rientrano a casa, non usano i servizi, non "pesano" socialmente — versione estrema del **Gastarbeiter**
+- **Campagne Schwarzenbach (fine anni '60-inizio '70)** → iniziative popolari per limitare la presenza di stranieri in Svizzera; i frontalieri erano però esclusi da queste campagne (troppo utili economicamente)
+- **Notificati** → lavoratori precari a breve termine (<90gg/anno), reclutati spesso via web, non necessariamente residenti in fascia di frontiera → categoria in crescita, poco visibile nei dati tradizionali
 
 ### Variabili che determinano l'intensità (Lez. 08)
 
@@ -240,6 +284,13 @@ Semestre 02 · 9 lezioni
 
 ## Il lavoro nei percorsi di vita
 
+### Concetti fondamentali del percorso di vita (Lez. 07)
+
+- **Percorso di vita** → insieme delle traiettorie di un individuo nei diversi ambiti della vita
+- **Traiettoria** → sequenza di comportamenti in un ambito specifico (es. professionale, familiare, della salute)
+- **Transizione** → cambiamento di stato all'interno di una traiettoria (genitorialità, pensionamento, disoccupazione)
+- Le traiettorie si **intrecciano** reciprocamente: lavoro ↔ famiglia ↔ salute
+
 ### 5 principi — Elder, Johnson & Crosnoe (2003) · (Lez. 07)
 
 1. **Sviluppo lungo tutto il corso della vita** → il passato influenza il presente; gli svantaggi si accumulano (es. assenza di ECEC nell'infanzia → carriera più debole)
@@ -253,6 +304,10 @@ Semestre 02 · 9 lezioni
 - Svantaggi iniziali si amplificano nel tempo (formazione bassa → lavoro precario → pensione insufficiente)
 - Le politiche sociali sono strumenti per interrompere la spirale
 - Ruoli sociali multipli → conflitto tra ruoli (madre + lavoratrice; lavoratore + paziente cronico) → non tutti hanno le stesse risorse per gestirli
+- **ECEC** (Early Childhood Education and Care) → accesso nell'infanzia → salari più alti, posizioni più prestigiose, meno prestazioni sociali in età adulta · (Commissione Europea, 2022)
+- **Monoparentalità** → impatto sulla traiettoria professionale dipende da età, titolo di studio e posizione pre-separazione (Struffolino, Bernardi & Larenza, 2020)
+- **Modello neo-tradizionale** → donne in coppia lavorano part-time più di quelle sole: la struttura familiare plasma la traiettoria femminile più di qualsiasi altra variabile
+- **Effetti generazionali sulle opinioni**: in Ticino (2023) il 31% degli over 65 ritiene che guadagnare sia compito maschile → scende al 14% nei 15-29enni → i valori cambiano, le strutture cambiano più lentamente
 
 ---
 
@@ -297,6 +352,13 @@ Semestre 02 · 9 lezioni
 - **Pace assoluta** → vietato scioperare su qualunque tema (se esplicitamente pattuito)
 - Pro: stabilità, investimenti; Contro: depotenzia la mobilitazione, allontana il sindacato dalla base
 
+### Ostacoli storici al sindacalismo svizzero (Lez. 09)
+
+- **Legislazioni cantonali restrittive** → scioperi illegali in molti cantoni fino a lungo
+- **Ideologia liberale** → contratto individuale; lo Stato non deve interferire nel mercato
+- **Repressioni padronali** → licenziamenti e liste nere contro gli attivisti sindacali
+- **Tolpuddle Martyrs (1834)** → 6 contadini inglesi deportati per una società di mutuo soccorso → simbolo internazionale del diritto di associazione
+
 ### Sfide attuali dei sindacati (Lez. 09)
 
 - Digitalizzazione → lavoro frammentato, remoto, algoritmico; CCL difficili da applicare
@@ -334,6 +396,36 @@ Semestre 02 · 9 lezioni
 ### Parole chiave della materia
 
 `lavoro come attività` · `lavoro come occupazione` · `forza lavoro` · `lavoro salariato` · `mezzi di produzione` · `eterodirezionalità` · `divisione sessuale del lavoro` · `taylorismo` · `fordismo` · `one best way` · `post-fordismo` · `just-in-time` · `HRM` · `finanziarizzazione` · `terziarizzazione` · `femminilizzazione` · `segregazione orizzontale` · `segregazione verticale` · `soffitto di cristallo` · `effetto a imbuto` · `divario salariale` · `Industria 4.0` · `sistemi cyber-fisici (CPS)` · `algoritmo` · `LLM` · `pappagalli stocastici` · `click farm` · `logistica` · `container` · `interoperabilità` · `catene globali del valore` · `GAFAM` · `platform capitalism` · `gig economy` · `crowdworking` · `gamification` · `neo-taylorismo cognitivo` · `cottimo` · `auto-imprenditorialità` · `iper-industrializzazione` · `dati come petrolio digitale` · `cosmotecnica` · `cybersyn` · `cyborg working class` · `occupati` · `disoccupati` · `inattivi` · `sottoccupati` · `scoraggiati` · `tasso di attività` · `tasso di disoccupazione` · `FTE/ETP` · `ILO` · `SECO` · `RIFOS` · `STAF` · `ALCP` · `frontalieri` · `delocalizzazione sul posto` · `dumping salariale` · `vasi comunicanti` · `percorso di vita` · `traiettoria` · `transizione` · `linked lives` · `agency` · `cumulo degli svantaggi` · `gap pensionistico` · `de-standardizzazione` · `frontalierato` · `pendolarismo internazionale` · `Gastarbeiter` · `osmosi` · `sindacato` · `contrattazione collettiva` · `società di mutuo soccorso` · `luddismo` · `Trade Unions` · `sindacato di associazione` · `sindacato di classe` · `CCL` · `USS` · `sciopero generale 1918` · `pace del lavoro` · `pace assoluta` · `pace relativa` · `art. 357a CO` · `partenariato sociale`
+
+---
+
+---
+
+## Domande di orientamento allo studio
+
+**Come si distinguono "lavoro come attività" e "lavoro come occupazione", e perché la distinzione è rilevante per capire il mercato del lavoro moderno?**
+Il lavoro come attività (o sostanziale) è qualsiasi sforzo finalizzato a soddisfare un bisogno, indipendentemente dal contesto formale — cucinare a casa ne è l'esempio classico. Il lavoro come occupazione (o occupazionale) è invece retribuito, eterodiretto e svolto in un contesto regolato, dove il lavoratore non possiede i mezzi di produzione (Reynaud & Maruani, 2004). La distinzione è rilevante perché esclude enormi quantità di lavoro reale — quello domestico e di cura, prevalentemente femminile — dalle statistiche e dalla tutela legale. La gig economy sfida ulteriormente questa distinzione: il rider usa mezzi propri (bici, telefono) ma il mezzo decisivo è l'algoritmo della piattaforma (Lez. 01, 04).
+
+**Qual è il filo che collega taylorismo, fordismo e neo-taylorismo digitale?**
+Tutti e tre condividono la stessa logica di fondo: separare chi pensa da chi esegue, parcellizzare il lavoro, controllare ogni gesto del lavoratore per estrarre il massimo rendimento. Taylor lo fa con il cronometro e il caporeparto, Ford con la catena di montaggio che impone il ritmo meccanicamente, le piattaforme digitali lo fanno con l'algoritmo — invisibile, ubiquo, operativo 24 ore su 24. La gig economy non è una novità: è il cottimo dell'Ottocento mascherato da "flessibilità". La differenza è la scala geografica: il neo-taylorismo cognitivo distribuisce la catena cognitiva in tutto il mondo (Romano Alquati, 2002) · (Lez. 02, 03, 04).
+
+**Come hanno trasformato gli accordi bilaterali CH-UE del 2002 (ALCP) il mercato del lavoro ticinese?**
+Prima del 2002, i permessi frontalieri erano contingentati e limitati geograficamente alla fascia di confine. Con la libera circolazione delle persone, il bacino si è aperto all'intera UE e si è eliminato il limite geografico. L'effetto in Ticino è stato immediato: tra il 2005 e il 2015 i frontalieri sono cresciuti del +79,9% mentre i residenti crescevano solo del +10,5%. Il profilo si è trasformato — da operai/industria a terziario, sanità, università, banche — con una quota di formazione terziaria passata dall'8,7% (2002) al 26,5% (2022). Il rischio di "delocalizzazione sul posto" (Martinelli, 2021) e di dumping salariale è la principale critica sindacale a questo modello (Lez. 05, 06, 08).
+
+**In che modo i percorsi di vita spiegano le disuguaglianze di genere nel mercato del lavoro?**
+I 5 principi di Elder, Johnson & Crosnoe (2003) mostrano che la traiettoria professionale femminile diverge da quella maschile già dall'età riproduttiva: cala il full-time, cresce il part-time e l'inattività. Questo non è solo una scelta individuale (agency), ma il risultato di vite collegate (linked lives): le decisioni del partner, la disponibilità di servizi di cura, la struttura familiare impattano direttamente la donna ma non l'uomo, che mantiene una traiettoria stabile. Il cumulo degli svantaggi agisce nel tempo: carriere più deboli → pensioni più basse (donne ~17.734 CHF vs uomini ~40.788 CHF nel secondo pilastro, 2022) → maggiore dipendenza dalla PC/AVS in tarda età (Lez. 07, 02, 06).
+
+**Perché il sindacato è nato e perché la sua forma storica fatica a reggere l'impatto della digitalizzazione?**
+Il sindacato nasce dalla debolezza contrattuale del singolo lavoratore di fronte al datore: uniti, i lavoratori possono contrattare il prezzo della forza lavoro e imporre condizioni minime. Storicamente, i sindacati hanno guadagnato potere nelle grandi concentrazioni operaie (fabbriche, ferrovie, cantieri) dove era facile organizzare e scioperare. La digitalizzazione frammenta questo soggetto: il rider lavora solo, con un'app, senza colleghi fisici; il lavoratore Amazon è sorvegliato da un algoritmo e spostato ogni settimana. I CCL faticano ad applicarsi a contratti atipici e a lavoratori formalmente "autonomi". La risposta sindacale emergente — sindacalizzare i rider, applicare il principio "stesso salario per lo stesso lavoro nello stesso luogo" — è ancora in costruzione (Lez. 09, 04).
+
+**Qual è la differenza tra "pace relativa" e "pace assoluta" del lavoro, e perché questa distinzione conta?**
+La pace relativa vieta agli iscritti di scioperare solo sui temi già regolati dal contratto collettivo di lavoro (CCL) in vigore; su tutto il resto, lo sciopero resta possibile. La pace assoluta — se esplicitamente pattuita — vieta lo sciopero su qualunque tema per tutta la durata del CCL. La Svizzera ha codificato l'obbligo di pace del lavoro nell'art. 357a CO nel 1956. Il vantaggio è la stabilità economica e il clima favorevole agli investimenti; il costo è la perdita di potere contrattuale dei lavoratori e un allontanamento progressivo tra la dirigenza sindacale e la base (Lez. 09).
+
+**Come si collegano logistica, platform capitalism e gig economy come fasi di una stessa trasformazione?**
+La terza rivoluzione industriale (anni '60-'80) ha reso possibile la delocalizzazione della produzione grazie al container: una scatola standardizzata che può viaggiare su qualsiasi mezzo riduce i costi di trasporto e dissolve il potere operaio concentrato nelle grandi fabbriche. La cibernetica coordina questa produzione distribuita. La quarta rivoluzione porta il medesimo principio al lavoro di servizio: le piattaforme digitali (GAFAM e cloni) non producono merci, ma organizzano il lavoro altrui raccogliendo dati. Il lavoratore di piattaforma è il nuovo operaio della catena di montaggio globale — disperso, precario, controllato dall'algoritmo invece che dal caporeparto (Lez. 03, 04).
+
+**Qual è il filo conduttore dell'intera materia "Mondi del lavoro"?**
+La materia costruisce una risposta a una domanda apparentemente semplice — cos'è il lavoro? — attraverso lenti successive: storica, tecnologica, statistica, biografica e politica. Il filo è il **conflitto strutturale tra chi vende la forza lavoro e chi la compra**: un conflitto che non si risolve mai definitivamente, che cambia forma con ogni rivoluzione tecnologica, che si incarna diversamente a seconda del genere, dell'origine, dell'età e del contesto geografico (Ticino come caso limite). I sindacati sono la risposta storica collettiva a questo conflitto; la digitalizzazione ne sfida le forme tradizionali senza eliminarne la necessità. Capire il lavoro significa capire come le società distribuiscono potere, risorse e rischi (Lez. 01–09).
 
 ---
 

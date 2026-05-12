@@ -1,6 +1,15 @@
 # Introduzione al modulo di Salute Mentale — Sintesi
 Salute Mentale · Sessione 01
 
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🟡 Oro    #D4AC0D → Connessione / implicazione
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+-->
+
 > Salute, benessere e normalità: tre parole che
 > sembrano semplici, ma non lo sono per niente.
 > Questa lezione smonta le certezze e costruisce
@@ -13,18 +22,18 @@ Salute Mentale · Sessione 01
   incontro
 - L'operatore sociale come ponte tra discipline
   specialistiche, non specialista di una sola
-- **Clinica** = dal greco *klinein* ("chinarsi"):
+- <span class="c-def">**Clinica** = dal greco *klinein* ("chinarsi"):
   l'atto di chinarsi sul patire dell'altro con
-  umiltà e premura (Callieri & C., 1999)
+  umiltà e premura (<span class="c-dato">Callieri & C., 1999</span>)</span>
 
 ## Salute: le 7 condizioni di Boorse (1977)
 
-Nessuna delle sette regge da sola:
+<span class="c-tesi">Nessuna delle sette regge da sola:</span>
 - **Valore** — non universale: contesti in cui
   la malattia è "preferibile" esistono
 - **Trattamento medico** — la medicina colonizza
   ambiti non patologici
-- **Norma statistica** — fuori dalla media ≠ malato
+- <span class="c-warn">**Norma statistica** — fuori dalla media ≠ malato</span>
 - **Sofferenza** — malattie asintomatiche e
   dolori fisiologici esistono
 - **Disabilità** — fasi di "non abilità" sono
@@ -37,11 +46,11 @@ Nessuna delle sette regge da sola:
 
 ## Disease, illness, sickness
 
-- **Disease** → dimensione biomedica (misurabile)
-- **Illness** → vissuto soggettivo della persona
-- **Sickness** → riconoscimento/stigma sociale
-- Le tre dimensioni possono non coincidere — e lo
-  stigma sociale peggiora l'andamento della malattia
+- <span class="c-def">**Disease** → dimensione biomedica (misurabile)</span>
+- <span class="c-def">**Illness** → vissuto soggettivo della persona</span>
+- <span class="c-def">**Sickness** → riconoscimento/stigma sociale</span>
+- <span class="c-impl">Le tre dimensioni possono non coincidere — e lo
+  stigma sociale peggiora l'andamento della malattia</span>
 
 ## Benessere: le 6 dimensioni di Ryff
 
@@ -56,18 +65,18 @@ Nessuna delle sette regge da sola:
 - **Percezione di crescita** — sentire di evolvere
 - **Scopo nella vita** — avere mete e dare senso
 
-Salute ≠ benessere. Si può stare bene senza essere
-in salute (Terzani) e male pur essendo "sani".
+<span class="c-tesi">Salute ≠ benessere.</span> <span class="c-es">Si può stare bene senza essere
+in salute (Terzani) e male pur essendo "sani".</span>
 Per l'operatore: queste dimensioni rendono il lavoro
 sul benessere *concreto e operativo*.
 
 ## Tre tipi di normalità
 
-- **Statistica** — nella media; fuori dalla norma
-  porta stigma
-- **Di valore** — ideale irraggiungibile → sofferenza
+- <span class="c-warn">**Statistica** — nella media; fuori dalla norma
+  porta stigma</span>
+- <span class="c-warn">**Di valore** — ideale irraggiungibile → sofferenza
   perpetua; attenzione: anche i *nostri* ideali sugli
-  utenti possono diventare penalizzanti
+  utenti possono diventare penalizzanti</span>
 - **Personale** — rispetto a come funzionavo prima;
   attenzione a non idealizzare il passato, e a non
   considerare quella normalità come obiettivo se era
@@ -75,8 +84,8 @@ sul benessere *concreto e operativo*.
 
 ## Posizione del soggetto verso la malattia
 
-Due assi: **identificazione** con la condizione ×
-**agentività** (attivo/passivo)
+Due assi: <span class="c-def">**identificazione** con la condizione ×
+**agentività** (attivo/passivo)</span>
 
 - Passivo + non identificato → **delega** ("guariscimi")
 - Passivo + identificato → **delega assistenziale**
@@ -86,9 +95,9 @@ Due assi: **identificazione** con la condizione ×
 - Agentivo + identificato → **cura**: lavora sul
   benessere dentro la condizione
 
-Passaggio chiave: dalla guarigione alla cura.
+<span class="c-tesi">Passaggio chiave: dalla guarigione alla cura.
 *To cure* ≠ *to care*: la cura è sempre possibile,
-anche quando la guarigione non lo è.
+anche quando la guarigione non lo è.</span>
 
 ## La tragedia greca
 
@@ -98,15 +107,15 @@ anche quando la guarigione non lo è.
   mettere in scena (~20 min)
 - Allena: ascolto di linguaggi non familiari, lavoro
   di équipe, sintesi, capacità di rinuncia
-- Quest'anno tutte le tragedie convergono sulla
+- <span class="c-es">Quest'anno tutte le tragedie convergono sulla
   violenza sulle donne nei conflitti armati —
-  tema antico e attualissimo (Nadia Murad, Congo,
-  Iraq)
+  tema antico e attualissimo (<span class="c-dato">Nadia Murad</span>, Congo,
+  Iraq)</span>
 
 ---
 
 **Da ricordare:** salute, benessere e normalità
-sono tre concetti distinti ma intrecciati. La cura
+sono tre concetti distinti ma intrecciati. <span class="c-tesi">La cura
 è sempre possibile, anche quando la guarigione non
-lo è. Il contesto è fondamentale per interpretare
+lo è.</span> Il contesto è fondamentale per interpretare
 qualsiasi comportamento.

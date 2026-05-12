@@ -1,6 +1,15 @@
 # Introduzione al modulo di Salute Mentale — Schema
 Salute Mentale · Sessione 01
 
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🟡 Oro    #D4AC0D → Connessione / implicazione
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+-->
+
 ## Struttura del modulo
 
 - **Tre tappe** → clinica · mondo · corpo
@@ -11,7 +20,7 @@ Salute Mentale · Sessione 01
 
 ---
 
-## Salute — 7 condizioni di Boorse (1977)
+## Salute — 7 condizioni di <span class="c-dato">Boorse (1977)</span>
 
 - **Valore** → la desiderabilità non è universale
 - **Trattamento medico** → né necessario né
@@ -26,7 +35,7 @@ Salute Mentale · Sessione 01
 - **Omeostasi** → la vita richiede perdita e
   riconquista continua di equilibrio
 
-⚠️ Nessuna condizione è sufficiente da sola
+<span class="c-warn">⚠️ Nessuna condizione è sufficiente da sola</span>
 
 ---
 
@@ -38,13 +47,13 @@ Salute Mentale · Sessione 01
 | **Illness** | Soggettiva | Vissuto personale |
 | **Sickness** | Sociale | Stigma / riconoscimento |
 
-- Le tre dimensioni possono non coincidere
-- Lo stigma (*sickness* negativa) peggiora
-  l'andamento della malattia
+- <span class="c-impl">Le tre dimensioni possono non coincidere</span>
+- <span class="c-warn">Lo stigma (*sickness* negativa) peggiora
+  l'andamento della malattia</span>
 
 ---
 
-## Benessere — 6 dimensioni di Ryff
+## Benessere — 6 dimensioni di <span class="c-dato">Ryff</span>
 
 - **Autonomia** → autodeterminazione senza
   condizionamenti esterni
@@ -58,7 +67,7 @@ Salute Mentale · Sessione 01
   continuo
 - **Scopo nella vita** → mete e senso
 
-⚠️ Salute ≠ benessere (possono non coincidere)
+<span class="c-tesi">⚠️ Salute ≠ benessere (possono non coincidere)</span>
 
 ---
 
@@ -79,10 +88,10 @@ Salute Mentale · Sessione 01
 | **Agentivo** | Guarigione → eliminare la condizione | Cura → benessere dentro la condizione |
 | **Passivo** | Delega → "guariscimi" | Delega assistenziale |
 
-- **To cure** → terapia: non sempre possibile
-- **To care** → cura del benessere: sempre possibile
-- *"Non tutto si può guarire, ma tutto può essere
-  curato"*
+- <span class="c-def">**To cure** → terapia: non sempre possibile</span>
+- <span class="c-def">**To care** → cura del benessere: sempre possibile</span>
+- <span class="c-tesi">*"Non tutto si può guarire, ma tutto può essere
+  curato"*</span>
 
 ---
 
@@ -91,11 +100,11 @@ Salute Mentale · Sessione 01
 - **5 tragedie** → Aiace · Andromaca · Agamennone ·
   Le Troiane · Le Trachinie
 - **Tre tragediografi** →
-  - Eschilo: la follia viene dagli dèi (forza esterna)
-  - Sofocle: il tragico è la vita stessa
-  - Euripide: il tragico nasce dalle relazioni
-- **Catarsi** → far emergere ed elaborare emozioni
-  difficili attraverso la sofferenza altrui
+  - <span class="c-dato">Eschilo</span>: la follia viene dagli dèi (forza esterna)
+  - <span class="c-dato">Sofocle</span>: il tragico è la vita stessa
+  - <span class="c-dato">Euripide</span>: il tragico nasce dalle relazioni
+- <span class="c-def">**Catarsi** → far emergere ed elaborare emozioni
+  difficili attraverso la sofferenza altrui</span>
 - **Esercizio pedagogico** →
   leggere → condividere → sintetizzare → mettere in scena
 

@@ -50,7 +50,7 @@ Pensa ai tuoi percorsi di apprendistato, Jony: ogni competenza pratica che hai a
 
 Fonte: Commissione Europea, 2022.
 
-**Esempio 3 — gap pensionistico:** Le donne che nel corso della vita lavorativa guadagnano meno degli uomini versano meno contributi previdenziali. Risultato in vecchiaia: rendite AVS e PP significativamente inferiori. In Ticino nel 2022, le donne ricevevano in media circa 17.734 CHF annui dal solo secondo pilastro (PP), contro i 40.788 CHF degli uomini — un gap di oltre 23.000 CHF. Le donne rappresentano quasi il doppio degli uomini tra i beneficiari di prestazioni complementari (PC) all'AVS in Ticino nel 2023: 10.220 donne vs 5.187 uomini.
+**Esempio 3 — gap pensionistico:** Le donne che nel corso della vita lavorativa guadagnano meno degli uomini versano meno contributi previdenziali. Risultato in vecchiaia: rendite AVS e PP significativamente inferiori. In Ticino nel 2022, le donne ricevevano in media circa 17.734 CHF annui dal solo secondo pilastro (PP), contro i 40.788 CHF degli uomini — un gap di oltre 23.000 CHF [?valori da grafico USTAT Ticino — leggibili nella fonte originale ma non nel testo estratto]. Le donne rappresentano quasi il doppio degli uomini tra i beneficiari di prestazioni complementari (PC) all'AVS in Ticino nel 2023: 10.220 donne vs 5.187 uomini [?valori da grafico].
 
 In sintesi: una traiettoria professionale discontinua o a bassa intensità in età adulta si traduce in povertà in vecchiaia. Il passato lavorativo determina il futuro previdenziale.
 
@@ -76,11 +76,13 @@ Uno studio condotto dalla stessa prof.ssa Larenza analizza l'impatto della trans
 
 | Gruppo | Caratteristiche pre-transizione | Traiettoria post-transizione |
 |--------|--------------------------------|------------------------------|
-| Out of employment (16,9%) | Età 18-24, basso titolo di studio | Rimangono fuori dal mercato del lavoro |
-| Returners (12,1%) | Titolo post-obbligatorio (<terziario) | Rientrano gradualmente nel mercato |
-| Part-timers (29,5%) | Età 25+, titolo terziario | Rimangono stabili sul part-time |
-| Strengtheners (11,5%) | Età 25+, titolo terziario | Rafforzano la presenza (passano al full-time) |
-| Full-timers (29,9%) | Età 18-24, basso titolo di studio | Rimangono a tempo pieno |
+| Out of employment [?%] | Età 18-24, basso titolo di studio | Rimangono fuori dal mercato del lavoro |
+| Returners [?%] | Titolo post-obbligatorio (<terziario) | Rientrano gradualmente nel mercato |
+| Part-timers [?%] | Età 25+, titolo terziario | Rimangono stabili sul part-time |
+| Strengtheners [?%] | Età 25+, titolo terziario | Rafforzano la presenza (passano al full-time) |
+| Full-timers [?%] | Età 18-24, basso titolo di studio | Rimangono a tempo pieno |
+
+_[?] Le percentuali esatte dei 5 gruppi non sono leggibili dal testo delle risorse — erano riportate in un grafico. I nomi dei gruppi e le caratteristiche pre-transizione sono verificati dalle slide (Struffolino, Bernardi & Larenza, 2020)._
 
 La monoparentalità non ha lo stesso impatto per tutte. Come ci si arriva — con quale lavoro, con quale titolo di studio, in quale momento della vita — determina le conseguenze di quell'evento.
 
@@ -122,7 +124,7 @@ Questo modello è sempre meno rappresentativo. I dati sul tasso di attività deg
 
 **Evoluzione delle opinioni sulla divisione del lavoro (Ticino, 2023):**
 
-Alla domanda "chi dovrebbe guadagnare per mantenere la famiglia?", risponde "indubbiamente o piuttosto gli uomini" il 31,6% dei 65+ anni, contro il 14,2% dei 15-29 anni. Le generazioni più giovani sono socializzate in un contesto culturale con norme di genere più paritarie. Le opinioni cambiano con il tempo storico — anche se i comportamenti reali cambiano più lentamente.
+Alla domanda "chi dovrebbe guadagnare per mantenere la famiglia?", risponde "indubbiamente o piuttosto gli uomini" circa il 31% [?31,6% — dato da grafico] dei 65+ anni, contro circa il 14% [?14,2% — dato da grafico] dei 15-29 anni. Le generazioni più giovani sono socializzate in un contesto culturale con norme di genere più paritarie. Le opinioni cambiano con il tempo storico — anche se i comportamenti reali cambiano più lentamente.
 
 ---
 
@@ -152,6 +154,28 @@ Le **politiche sociali** hanno il ruolo di interrompere questa spirale: garanten
 
 ---
 
+## Domande di orientamento allo studio
+
+**Che cos'è un percorso di vita e in che rapporto stanno traiettorie e transizioni?**
+Il percorso di vita di un individuo è l'insieme delle traiettorie specifiche che si sviluppano in parallelo nei diversi ambiti dell'esistenza — professionale, familiare, della salute, sociale. Una traiettoria è la sequenza di comportamenti che si evolve nel corso del tempo in un determinato ambito. All'interno di ogni traiettoria possono verificarsi delle transizioni, cioè cambiamenti di stato legati ai ruoli sociali assunti dalla persona (es. diventare genitore, perdere il lavoro, andare in pensione). Le transizioni hanno sempre un inizio e possono avere una fine. Crucialmente, le diverse traiettorie non sono indipendenti: si intrecciano e si influenzano reciprocamente.
+
+**Quali sono i 5 principi dei percorsi di vita e a chi si devono?**
+I cinque principi sono stati formulati da Elder, Johnson & Crosnoe (2003), a partire dagli studi longitudinali di Glen Elder sulla vita dei bambini nati durante la Grande Depressione americana. I principi sono: (1) Sviluppo lungo tutto il corso della vita — il passato influenza il presente; (2) Temporalità degli eventi — non conta solo se un evento accade, ma quando nel percorso di vita; (3) Vite collegate — il percorso di vita è influenzato dalle relazioni con gli altri; (4) Specificità del tempo storico e dei luoghi — il contesto storico e geografico condiziona i percorsi; (5) Agency — gli individui non subiscono passivamente il proprio percorso ma ne sono anche artefici, nella misura in cui le risorse a loro disposizione lo consentono.
+
+**Perché il "quando" conta tanto quanto il "se" in un evento di vita? Fai un esempio.**
+Il principio della temporalità degli eventi afferma che le conseguenze di un evento dipendono in modo determinante dal momento del percorso di vita in cui esso si verifica. L'esempio classico è la transizione alla genitorialità: diventare genitore a 20 anni, con gli studi ancora in corso e senza una rete di supporto, comporta conseguenze molto diverse rispetto a diventare genitore a 35 anni con una carriera avviata, una situazione economica stabile e genitori in pensione disponibili ad aiutare. Lo stesso vale per la monoparentalità: lo studio di Struffolino, Bernardi & Larenza (2020) mostra che l'impatto della separazione sulle carriere delle madri dipende fortemente dalla situazione professionale e formativa prima dell'evento.
+
+**Cosa si intende per "vite collegate" (linked lives) e come si manifesta nel mercato del lavoro?**
+Il principio delle vite collegate afferma che il percorso di vita di un individuo è profondamente influenzato dalle relazioni con le persone significative intorno a lui — familiari, partner, amici, colleghi. Le nostre decisioni non dipendono solo dai nostri desideri, ma anche dalle conseguenze che avranno su chi ci è vicino. Nel mercato del lavoro ticinese (2024), questo si manifesta in modo chiaro nelle scelte di lavoro part-time: la cura dei figli è il motivo principale del part-time per il 27,4% delle donne, contro solo il 4,7% degli uomini. Inoltre, la presenza di partner e figli modifica significativamente le traiettorie professionali delle donne (aumentando il part-time), mentre per gli uomini la situazione familiare non ha un impatto misurabile sul grado di occupazione.
+
+**Che cosa si intende per "agency" e perché è un principio importante per il lavoro sociale?**
+L'agency è la capacità degli individui di influenzare attivamente il proprio percorso di vita attraverso le proprie scelte e azioni — non solo subire le circostanze, ma agire su di esse. È importante chiarire che agency non significa libertà assoluta: le scelte avvengono sempre dentro un contesto di vincoli strutturali (economici, culturali, sociali) che le condizionano più o meno fortemente. Per il lavoro sociale questo principio è fondamentale perché aiuta a riconoscere che le persone con cui si lavora hanno una capacità di azione — anche se limitata dal contesto — e che il compito del professionista è spesso quello di ampliare lo spazio in cui quella capacità può esercitarsi.
+
+**Che cos'è il cumulo degli svantaggi e che ruolo hanno le politiche sociali?**
+Il cumulo degli svantaggi descrive il processo per cui svantaggi iniziali tendono ad accumularsi e ad amplificarsi nel tempo. Come una pallina su un piano inclinato, uno svantaggio iniziale prende velocità e trascina gli altri: una carriera discontinua porta a contributi previdenziali bassi, che si traducono in rendite pensionistiche insufficienti, che a loro volta generano povertà in vecchiaia. Le politiche sociali hanno il ruolo di interrompere questa spirale: attraverso servizi di cura accessibili, politiche di conciliabilità lavoro-famiglia e reti di supporto, possono impedire che eventi negativi del passato continuino a produrre conseguenze negative nel lungo termine.
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |
@@ -177,5 +201,5 @@ Le **politiche sociali** hanno il ruolo di interrompere questa spirale: garanten
 
 - **Lezioni precedenti:** le lezioni precedenti hanno guardato al lavoro come aggregato economico (macro). Questa lezione adotta una prospettiva **micro**, centrata sull'individuo e il suo percorso di vita.
 - **Tema collegato:** femminilizzazione del mercato del lavoro — questa lezione offre molti dati empirici su come le carriere femminili sono strutturalmente diverse da quelle maschili e perché.
-- **Video:** "Misleading Norms: The Everyday Story of Louise" (Swiss National Centre of Competence in Research LIVES) — usato come introduzione alla lezione, illustra concretamente come le norme di genere costruiscono traiettorie di vita diseguali.
+- **Video:** "La storia di Louise" [?titolo esteso non verificabile nelle slide] — usato come introduzione alla lezione, illustra concretamente come le norme di genere costruiscono traiettorie di vita diseguali. (Fonte: vimeo.com/289655111)
 - **Da approfondire:** politiche di conciliabilità lavoro-famiglia; studi longitudinali come metodo di ricerca in sociologia.

@@ -176,7 +176,9 @@ Viene proclamato uno sciopero **nazionale**: circa **250.000 lavoratori** smetto
 
 La maggior parte delle città è pacifica. Ma il Consiglio federale, spaventato dalle rivoluzioni in Russia (1917) e Germania, mobilita l'esercito nelle città principali: Zurigo, Berna, Basilea.
 
-A **Zurigo**, l'esercito apre il fuoco sui manifestanti. **Tre persone vengono uccise** (Niklaus Riggenbach, Ernst Nobs, Karl Streuli). Diversi feriti in altre città. Il proprio esercito che spara sui propri cittadini — abbastanza grave, anche per la Svizzera.
+A **Zurigo**, l'esercito apre il fuoco sui manifestanti. **Tre persone vengono uccise** (Niklaus Riggenbach, Ernst Nobs [?], Karl Streuli). Diversi feriti in altre città. Il proprio esercito che spara sui propri cittadini — abbastanza grave, anche per la Svizzera.
+
+_[?] Il nome Ernst Nobs compare nelle slide originali della lezione, ma potrebbe essere un errore: Ernst Nobs è storicamente noto come un politico socialdemocratico vivente nel 1918, poi Presidente della Confederazione nel 1948. I nomi esatti dei caduti andrebbero verificati su fonti storiche primarie (es. Dizionario Storico della Svizzera)._
 
 ### L'importanza storica
 
@@ -257,6 +259,30 @@ La sfida non è "residenti vs. frontalieri" ma "contratti forti vs. dumping sala
 ### La sfida di fondo
 
 > Il sindacato oggi non deve solo difendere diritti esistenti, ma **inventare nuove forme di rappresentanza** per un lavoro sempre più frammentato, digitalizzato e transfrontaliero.
+
+---
+
+---
+
+## Domande di orientamento allo studio
+
+**Che cos'è un sindacato e qual è il suo scopo principale?**
+Un sindacato è un'organizzazione stabile formata da lavoratori salariati con lo scopo di tutelare e migliorare le loro condizioni lavorative, contrattuali, economiche e sociali. Il suo strumento centrale è la **contrattazione collettiva**: una forma istituzionalizzata del conflitto tra capitale (datori di lavoro, che puntano al massimo rendimento al minor costo) e lavoro (dipendenti, che cercano salari dignitosi, orari umani e sicurezza). La forza del sindacato sta nell'unione: un singolo lavoratore ha pochissimo potere contrattuale, uniti il rapporto di forze si bilancia.
+
+**Qual è la differenza tra sindacato di associazione e sindacato di classe?**
+Il **sindacato di associazione** rappresenta solo i propri iscritti di una categoria professionale specifica, si occupa di negoziare tutele concrete per quel settore e non persegue obiettivi politici o di trasformazione sociale. Il **sindacato di classe** rappresenta invece l'intera classe lavoratrice salariata, indipendentemente dal mestiere, e lotta anche per trasformazioni politiche e sociali più ampie (welfare, democrazia economica, uguaglianza). Il primo modello — il più antico — fu legalizzato per primo proprio perché non metteva in discussione il sistema politico e sociale.
+
+**Perché lo Sciopero Generale del 1918 è considerato l'evento più importante della storia sindacale svizzera?**
+Perché ha rappresentato la più grande mobilitazione operaia della storia svizzera (circa 250.000 lavoratori) e ha avuto conseguenze storiche decisive. Da un lato, ha dimostrato che anche in Svizzera il conflitto sociale può diventare violento — l'esercito aprì il fuoco a Zurigo, causando tre morti. Dall'altro, ha paradossalmente raffreddato le aspirazioni rivoluzionarie e spinto il movimento operaio verso la negoziazione politica (strategia riformista). Ha legittimato i sindacati come interlocutori istituzionali e avviato il modello svizzero di partenariato sociale, che porterà poi all'AVS nel 1948.
+
+**Che cos'è la "pace del lavoro" e quali sono le sue due forme?**
+La pace del lavoro è un accordo formale tra sindacati e datori di lavoro per evitare scioperi e conflitti durante la vigenza di un CCL. Dal 1956 è iscritta nel Codice delle Obbligazioni (art. 357a CO). Esistono due forme: la **pace relativa**, in cui è vietato scioperare solo sui temi già regolati dal CCL (ma ci si può mobilitare su temi non coperti), e la **pace assoluta**, in cui è vietato scioperare su qualunque tema se questa clausola è esplicitamente pattuita nel contratto. La pace del lavoro è la ragione strutturale per cui in Svizzera gli scioperi sono rari: non per pigrizia sindacale, ma perché la legge limita gli strumenti disponibili.
+
+**Quali sono le principali sfide attuali dei sindacati in Svizzera?**
+Tre sfide principali. La **digitalizzazione** — algoritmi, piattaforme, lavoro remoto — isola i lavoratori, rendendo difficile l'organizzazione collettiva e l'applicazione dei CCL (vedi rider e gig economy). La **precarizzazione** — contratti temporanei, part-time involontari, carriere discontinue — indebolisce le identità collettive, colpendo soprattutto giovani e donne. Il **frontalierato** — la forte mobilità transfrontaliera crea rischio di dumping salariale; la risposta sindacale non è escludere i frontalieri ma garantire "stesso salario per lo stesso lavoro nello stesso luogo". La sfida di fondo: il sindacato deve inventare nuove forme di rappresentanza per un lavoro sempre più frammentato e digitalizzato.
+
+**Perché i sindacati svizzeri si sono sviluppati più lentamente rispetto ad altri paesi europei?**
+Per tre ragioni strutturali specifiche del contesto elvetico: le **legislazioni cantonali restrittive**, che rendevano illegali le associazioni di lavoratori e gli scioperi in molti cantoni (la struttura federale creava una patchwork di regole diverse); l'**ideologia liberale dominante**, che valorizzava il contratto individuale e vedeva qualsiasi interferenza esterna nel mercato del lavoro — da parte dello Stato o dei sindacati — come inaccettabile; le **repressioni padronali**, con licenziamenti e liste nere contro gli attivisti, una forma di ricatto che il prof sottolinea essere ancora presente in certi settori.
 
 ---
 

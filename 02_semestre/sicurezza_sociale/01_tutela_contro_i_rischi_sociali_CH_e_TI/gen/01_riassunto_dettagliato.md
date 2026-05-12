@@ -1,4 +1,12 @@
 # Tutela contro i rischi sociali nel sistema svizzero e ticinese
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🔡 Oro    #D4AC0D → Connessione / implicazione
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+-->
 Sicurezza Sociale e Forme di Solidarietà · Sessione 01 · 20 febbraio 2026
 
 > Questa è la lezione zero del corso: quella che ti dà la mappa prima di esplorare il territorio.
@@ -16,7 +24,7 @@ Alla fine del corso dovresti avere:
 - Un **metodo di lavoro**: saper identificare i diritti sociali applicabili a una situazione concreta.
 - Non è necessario memorizzare tutto — l'obiettivo è **sapere dove cercare** quando ti trovi davanti a un caso reale.
 
-Perché ti serve come operatore sociale? Perché la sicurezza sociale accompagna i percorsi biografici delle persone che seguirai, e finanzia molte delle istituzioni in cui lavorerai. Non conoscerla è come fare il giardiniere senza sapere che l'acqua esce da un rubinetto.
+<span class="c-tesi">Perché ti serve come operatore sociale? Perché la sicurezza sociale accompagna i percorsi biografici delle persone che seguirai, e finanzia molte delle istituzioni in cui lavorerai.</span> Non conoscerla è come fare il giardiniere senza sapere che l'acqua esce da un rubinetto.
 
 > **Certificazione:** esame scritto con domande a scelta multipla e aperte; frequenza seminario obbligatoria; esercizio "Storia di Isa" da consegnare entro il 29 maggio su I-Corsi (PW: sicsoc2026).
 
@@ -24,9 +32,9 @@ Perché ti serve come operatore sociale? Perché la sicurezza sociale accompagna
 
 ## Che cos'è lo Stato sociale?
 
-Prima di parlare di sicurezza sociale, è utile chiarire il concetto più ampio di **Stato sociale** (*Welfare State* in inglese, *Sozialstaat* in tedesco, *État social* in francese).
+Prima di parlare di sicurezza sociale, è utile chiarire il concetto più ampio di <span class="c-def">**Stato sociale** (*Welfare State* in inglese, *Sozialstaat* in tedesco, *État social* in francese)</span>.
 
-Il termine non è neutro: già Beveridge — il principale ispiratore del moderno Stato sociale britannico — lo criticava perché sembrava suggerire che si possa ottenere qualcosa senza sforzo e senza responsabilità individuale. Ma il termine è ormai di uso universale.
+Il termine non è neutro: già <span class="c-dato">Beveridge</span> — il principale ispiratore del moderno Stato sociale britannico — lo criticava perché sembrava suggerire che si possa ottenere qualcosa senza sforzo e senza responsabilità individuale. Ma il termine è ormai di uso universale.
 
 Per il sistema svizzero, una buona definizione operativa è questa:
 
@@ -38,8 +46,8 @@ Il benessere qui non è solo ricchezza materiale: include salute, autonomia indi
 
 ## Che cos'è la sicurezza sociale?
 
-La **sicurezza sociale** è la componente centrale dello Stato sociale. In Svizzera, il termine indica:
-1. La rete di **assicurazioni sociali** (12 in totale).
+<span class="c-def">La **sicurezza sociale** è la componente centrale dello Stato sociale.</span> In Svizzera, il termine indica:
+1. La rete di **assicurazioni sociali** (<span class="c-dato">12 in totale</span>).
 2. Gli **interventi con prova dei mezzi**: prestazioni subordinate alla verifica della situazione economica del richiedente (come l'assistenza sociale).
 
 Ci sono due modi complementari di definirla — e impararli entrambi è importante perché compaiono entrambi nei materiali e all'esame.
@@ -59,7 +67,7 @@ Garantisce **4 funzioni**:
 | **Reddito di complemento** | Coprire gli oneri familiari o garantire un reddito minimo a chi non può lavorare o guadagna troppo poco |
 | **(Re)integrazione sociale e professionale** | Non solo indennizzo finanziario: prevenzione, integrazione, riadattamento e reinserimento nel lavoro e nella società |
 
-Questa definizione è più vicina alla **prevenzione**: le prestazioni vengono erogate in base al bisogno, non in base alla causa specifica del danno.
+<span class="c-impl">Questa definizione è più vicina alla **prevenzione**: le prestazioni vengono erogate in base al bisogno, non in base alla causa specifica del danno.</span>
 
 ---
 
@@ -67,21 +75,21 @@ Questa definizione è più vicina alla **prevenzione**: le prestazioni vengono e
 
 Risponde alla domanda: *contro quali eventi concreti* interviene la sicurezza sociale?
 
-Elenca **11 rischi sociali** (i primi 9 dalla Convenzione 102 dell'OIL del 1952, ratificata dalla Svizzera nel 1977; gli ultimi 2 sono aggiunte specifiche):
+<span class="c-tesi">Elenca **11 rischi sociali** (i primi 9 dalla <span class="c-dato">Convenzione 102 dell'OIL del 1952</span>, ratificata dalla Svizzera nel <span class="c-dato">1977</span>; gli ultimi 2 sono aggiunte specifiche):</span>
 
 1. **Cure mediche e assistenza** — qualsiasi stato morboso, gravidanza e parto.
-2. **Vecchiaia** — arrivare all'età di pensionamento (65 anni; dal 2028 anche per le donne) senza risorse economiche sufficienti.
+2. **Vecchiaia** — arrivare all'età di pensionamento (<span class="c-dato">65 anni</span>; dal 2028 anche per le donne) senza risorse economiche sufficienti.
 3. **Decesso** — perdita dei mezzi d'esistenza per i superstiti (vedovi/e, orfani) a causa della morte del sostegno di famiglia.
-4. **Invalidità** — incapacità totale o parziale al guadagno, presumibilmente permanente o di lunga durata, da danno alla salute fisica, mentale o psichica (artt. 7-8 LPGA).
-5. **Malattia non professionale** — incapacità al lavoro per stato morboso che non è conseguenza di un infortunio (art. 3 LPGA).
-6. **Infortunio o malattia professionale** — influsso dannoso, *improvviso* e *involontario*, apportato al corpo umano da un *fattore esterno straordinario* che compromette la salute o provoca la morte (art. 4 LPGA).
+4. **Invalidità** — incapacità totale o parziale al guadagno, presumibilmente permanente o di lunga durata, da danno alla salute fisica, mentale o psichica (<span class="c-dato">artt. 7-8 LPGA</span>).
+5. **Malattia non professionale** — incapacità al lavoro per stato morboso che non è conseguenza di un infortunio (<span class="c-dato">art. 3 LPGA</span>).
+6. **Infortunio o malattia professionale** — <span class="c-def">influsso dannoso, *improvviso* e *involontario*, apportato al corpo umano da un *fattore esterno straordinario* che compromette la salute o provoca la morte</span> (<span class="c-dato">art. 4 LPGA</span>).
 7. **Disoccupazione** — impossibilità di trovare un impiego adeguato per una persona capace e disponibile al lavoro.
 8. **Maternità e paternità** — sospensione del guadagno per nascita o adozione di un figlio.
 9. **Servizio** — servizio militare, protezione civile, servizio civile.
 10. **Oneri familiari** — mantenimento dei figli; include aiuti allo studio e contributi per la conciliabilità lavoro-famiglia.
 11. **Povertà ed esclusione sociale** — evento multidimensionale, non facilmente definibile, legato a reddito insufficiente e marginalizzazione sociale.
 
-> **Attenzione pratica — Malattia vs. Infortunio:** la distinzione è fondamentale perché cambia quale assicurazione interviene. Se manca anche *uno solo* degli attributi dell'infortunio (improvviso, involontario, da fattore esterno straordinario) → è malattia. Esempio classico: il **burnout** non è malattia professionale, ma "disturbo lavoro-correlato" perché non è attribuibile *esclusivamente o prevalentemente* all'attività professionale. Questo cambia tutto a livello assicurativo.
+> **Attenzione pratica — Malattia vs. Infortunio:** <span class="c-warn">la distinzione è fondamentale perché cambia quale assicurazione interviene. Se manca anche *uno solo* degli attributi dell'infortunio (improvviso, involontario, da fattore esterno straordinario) → è malattia.</span> <span class="c-es">Esempio classico: il **burnout** non è malattia professionale, ma "disturbo lavoro-correlato" perché non è attribuibile *esclusivamente o prevalentemente* all'attività professionale. Questo cambia tutto a livello assicurativo.</span>
 
 ---
 
@@ -130,9 +138,9 @@ Sono **12**, ognuna con la propria legge federale:
 | AF (agric.) | Assegni familiari nell'agricoltura | LAF |
 | AF (cantonali) | Assegni familiari cantonali | LAFAM |
 
-Quasi tutte applicano il **principio assicurativo**: l'assicurato versa contributi in anticipo e in cambio ottiene tutela se il rischio si realizza. I contributi di assicurati e datori di lavoro sono la principale fonte di finanziamento, integrata da imposte e rendimenti del capitale.
+<span class="c-tesi">Quasi tutte applicano il **principio assicurativo**: l'assicurato versa contributi in anticipo e in cambio ottiene tutela se il rischio si realizza.</span> I contributi di assicurati e datori di lavoro sono la principale fonte di finanziamento, integrata da imposte e rendimenti del capitale.
 
-> **Principio di solidarietà:** c'è un'importante eccezione al principio assicurativo. Gli invalidi precoci o dalla nascita sono tutelati dall'AI pur non avendo mai potuto versare contributi. Allo stesso modo, uno studente che finisce gli studi può iscriversi alla disoccupazione (con 120 giorni di attesa) anche senza aver contribuito. La solidarietà entra lì dove il puro principio assicurativo sarebbe ingiusto.
+> **Principio di solidarietà:** <span class="c-warn">c'è un'importante eccezione al principio assicurativo. Gli invalidi precoci o dalla nascita sono tutelati dall'AI pur non avendo mai potuto versare contributi.</span> <span class="c-es">Allo stesso modo, uno studente che finisce gli studi può iscriversi alla disoccupazione (con 120 giorni di attesa) anche senza aver contribuito.</span> La solidarietà entra lì dove il puro principio assicurativo sarebbe ingiusto.
 
 **Tipi di prestazioni erogate:**
 - **Pecuniarie (in denaro):** indennità giornaliere, rendite, prestazioni complementari, assegni per grandi invalidi.
@@ -140,13 +148,13 @@ Quasi tutte applicano il **principio assicurativo**: l'assicurato versa contribu
 
 ### 2. Prestazioni commisurate al bisogno
 
-Sono **selettive**: vengono erogate solo dopo la **prova dei mezzi**, cioè la verifica che reddito e patrimonio del richiedente (e del suo nucleo familiare) siano al di sotto di una soglia stabilita dalla legge.
+<span class="c-def">Sono **selettive**: vengono erogate solo dopo la **prova dei mezzi**, cioè la verifica che reddito e patrimonio del richiedente (e del suo nucleo familiare) siano al di sotto di una soglia stabilita dalla legge.</span>
 
 Finanziate quasi esclusivamente da imposte pubbliche. Obiettivo: garantire il **minimo vitale** o coprire le lacune delle assicurazioni sociali.
 
 Il prototipo di questo tipo di strumento è l'**assistenza sociale (aiuto sociale)**. Le prestazioni complementari AVS/AI e le prestazioni transitorie per disoccupati anziani, pur facendo parte tecnicamente del diritto delle assicurazioni sociali, applicano il principio del bisogno.
 
-**In Ticino** le principali prestazioni commisurate al bisogno sono coordinate dalla **LAPS** (Legge sull'armonizzazione e il coordinamento delle prestazioni sociali). Le 9 prestazioni LAPS, in ordine di priorità:
+**In Ticino** le principali prestazioni commisurate al bisogno sono coordinate dalla <span class="c-def">**LAPS** (Legge sull'armonizzazione e il coordinamento delle prestazioni sociali)</span>. Le 9 prestazioni LAPS, in ordine di priorità:
 
 1. **RIPAM** — Riduzione del premio assicurazione malattia
 2. Aiuto sociale speciale + Assegno per sportivi d'élite
@@ -158,7 +166,7 @@ Il prototipo di questo tipo di strumento è l'**assistenza sociale (aiuto social
 8. **API** — Assegno di prima infanzia
 9. **Aiuto sociale (AS)** — ultima risorsa
 
-> L'aiuto sociale è **l'ultima prestazione in ordine di priorità**. Si attiva solo dopo aver verificato tutte le altre opzioni. Questo è il senso del sistema LAPS: evitare il ricorso all'aiuto sociale quando esistono altre soluzioni.
+> <span class="c-warn">L'aiuto sociale è **l'ultima prestazione in ordine di priorità**. Si attiva solo dopo aver verificato tutte le altre opzioni.</span> <span class="c-impl">Questo è il senso del sistema LAPS: evitare il ricorso all'aiuto sociale quando esistono altre soluzioni.</span>
 
 Fuori dal sistema LAPS: aiuti diretti per il mantenimento a domicilio e anticipo alimenti (in Ticino non condizionato al reddito, quindi non è propriamente una prestazione commisurata al bisogno).
 
@@ -168,14 +176,14 @@ Fuori dal sistema LAPS: aiuti diretti per il mantenimento a domicilio e anticipo
 
 Il sistema non è stato costruito in modo organico: ogni assicurazione è nata in tempi diversi e copre rischi specifici. Questo crea possibili sovrapposizioni — e quindi bisogno di regole di coordinamento.
 
-**Regola generale:** le assicurazioni sociali hanno **precedenza** sulle prestazioni commisurate al bisogno. Le seconde intervengono solo se non esiste un diritto ad assicurazioni sociali, o se questo diritto è insufficiente per raggiungere il minimo vitale.
+<span class="c-tesi">**Regola generale:** le assicurazioni sociali hanno **precedenza** sulle prestazioni commisurate al bisogno.</span> Le seconde intervengono solo se non esiste un diritto ad assicurazioni sociali, o se questo diritto è insufficiente per raggiungere il minimo vitale.
 
 ### Coordinamento tra assicurazioni sociali
 
 Per le **prestazioni in natura** (cure mediche), l'ordine di priorità è:
 AMIL → AINF → AI → AMAL
 
-Per le **prestazioni in denaro** (rendite), il cumulo è possibile ma non deve provocare **sovra-indennizzo**: le prestazioni cumulate non possono superare il guadagno perso. Il sistema non deve diventare più conveniente del lavoro.
+Per le **prestazioni in denaro** (rendite), il cumulo è possibile ma non deve provocare <span class="c-def">**sovra-indennizzo**</span>: le prestazioni cumulate non possono superare il guadagno perso. <span class="c-warn">Il sistema non deve diventare più conveniente del lavoro.</span>
 
 ### Coordinamento tra prestazioni commisurate al bisogno (Ticino)
 
@@ -185,7 +193,7 @@ Le PC AVS/AI e le PT hanno priorità sulle prestazioni cantonali. Le prestazioni
 
 ## Come usare la Guida (lo strumento pratico)
 
-La **Guida** è il documento di riferimento pratico del corso: "Tutela contro i rischi sociali nel sistema svizzero e ticinese di sicurezza sociale", a cura di Gregorio Avilés. Dati aggiornati al 01.01.2026.
+La **Guida** è il documento di riferimento pratico del corso: "Tutela contro i rischi sociali nel sistema svizzero e ticinese di sicurezza sociale", a cura di <span class="c-dato">Gregorio Avilés</span>. Dati aggiornati al <span class="c-dato">01.01.2026</span>.
 
 Il metodo d'uso in 4 passi:
 
@@ -194,7 +202,7 @@ Il metodo d'uso in 4 passi:
 3. **Verifica i principi di coordinamento** se più dispositivi possono intervenire → cap. 1.6
 4. **Approfondisci** con i link ipertestuali e le altre fonti indicate
 
-La Guida usa la **famiglia Bernasconi** come filo conduttore per gli esempi pratici (Luigi, 80 anni, pensionato con problemi d'udito; Giovanni, 48, pittore edile; Anna, 44, ex segretaria, incinta; Luca, 10, con infermità congenita grave; Sara, 6, alle elementari). L'esercizio "**Storia di Isa**" ti chiederà di fare la stessa cosa: collegare gli eventi biografici di Isa ai rischi sociali tutelati e ai diritti applicabili.
+<span class="c-es">La Guida usa la **famiglia Bernasconi** come filo conduttore per gli esempi pratici (Luigi, 80 anni, pensionato con problemi d'udito; Giovanni, 48, pittore edile; Anna, 44, ex segretaria, incinta; Luca, 10, con infermità congenita grave; Sara, 6, alle elementari).</span> L'esercizio "**Storia di Isa**" ti chiederà di fare la stessa cosa: collegare gli eventi biografici di Isa ai rischi sociali tutelati e ai diritti applicabili.
 
 ---
 

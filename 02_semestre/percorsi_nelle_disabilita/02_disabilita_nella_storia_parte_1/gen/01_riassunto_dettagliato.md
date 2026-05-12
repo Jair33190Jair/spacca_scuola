@@ -1,4 +1,12 @@
 # La Disabilità nella Storia — Parte 1
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🟡 Oro    #D4AC0D → Connessione / implicazione
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+-->
 Percorsi nelle Disabilità · Sessione 02 · 17 febbraio 2026
 
 > Questa lezione è un viaggio dalle origini della specie umana fino ai primi pionieri dell'educazione speciale di fine '700. Capire da dove veniamo ci aiuta a capire perché oggi le cose stanno come stanno — e perché certe strutture, certi termini, certi approcci esistono ancora. Storia applicata, non storia per la storia.
@@ -15,7 +23,7 @@ Quello che si può ipotizzare con buona ragione:
 - Le persone con un **deficit importante** che impediva di avere un ruolo nella tribù nomade o di resistere agli spostamenti venivano probabilmente eliminate — erano un peso per il gruppo.
 - Le persone con un **deficit moderato** avevano invece buone probabilità di trovare un posto in società meno complesse e meno centrate sulle performance intellettuali.
 
-Un dato interessante: nel 2009, in Spagna nella Sierra de Atapuerca, sono stati trovati i resti di un giovane vissuto circa **530.000 anni fa** con un grave ritardo nello sviluppo psico-fisico. Il fatto che sia sopravvissuto fino all'adolescenza suggerisce che non era stato abbandonato. È stato letto come un esempio di "inclusione primitiva" — ma attenzione: i dati sono pochissimi e non permettono di ricostruire davvero la sua vita nella comunità (Schianchi, 2016).
+<span class="c-es">Un dato interessante: nel 2009, in Spagna nella Sierra de Atapuerca, sono stati trovati i resti di un giovane vissuto circa **530.000 anni fa** con un grave ritardo nello sviluppo psico-fisico. Il fatto che sia sopravvissuto fino all'adolescenza suggerisce che non era stato abbandonato.</span> È stato letto come un esempio di "inclusione primitiva" — ma <span class="c-warn">attenzione: i dati sono pochissimi e non permettono di ricostruire davvero la sua vita nella comunità</span> (Schianchi, 2016).
 
 ---
 
@@ -25,7 +33,7 @@ Con la scrittura, che nasce proprio in Mesopotamia (tra Tigri ed Eufrate, zona d
 
 ### I modelli causali magici
 
-La disabilità veniva vista come **punizione divina** o **possessione da spiriti maligni**. Era il modo culturale di interpretare le situazioni negative. Il prof sottolinea che queste letture non sono sparite: ancora oggi esistono famiglie che leggono la disabilità del figlio come una punizione o una prova divina. Saperlo cambia il modo in cui ci si relaziona con loro.
+<span class="c-def">La disabilità veniva vista come **punizione divina** o **possessione da spiriti maligni**.</span> Era il modo culturale di interpretare le situazioni negative. Il prof sottolinea che queste letture non sono sparite: <span class="c-warn">ancora oggi esistono famiglie che leggono la disabilità del figlio come una punizione o una prova divina. Saperlo cambia il modo in cui ci si relaziona con loro.</span>
 
 ### La prima classificazione: tavoletta babilonese del 2800 a.C.
 
@@ -42,7 +50,7 @@ Il documento più antico che tenta una classificazione delle disabilità. Tre ca
 Prima raccolta di leggi conosciute. Relazione ambivalente con la disabilità:
 
 - Da un lato, **la mutilazione come punizione**: alcune pene prevedevano la perdita di arti, creando disabilità e sottoponendo la persona alla stigmatizzazione pubblica.
-- Dall'altro: **"il forte non deve opprimere il debole"** per chi è diventato disabile accidentalmente.
+- Dall'altro: <span class="c-impl">**"il forte non deve opprimere il debole"** per chi è diventato disabile accidentalmente.</span>
 
 Due pesi, due misure — ma già si nota un tentativo di distinguere in base alla causa della disabilità.
 
@@ -50,13 +58,13 @@ Due pesi, due misure — ma già si nota un tentativo di distinguere in base all
 
 ## Il Mondo Greco-Romano: infanticidio e sopravvivenza selettiva
 
-La pratica più diffusa per gestire i neonati con disabilità era l'**infanticidio**, o l'**esposizione** (abbandono in luogo pubblico o remoto). Non erano atti illegali — erano pratiche socialmente accettate e in certi casi ordinate.
+<span class="c-def">La pratica più diffusa per gestire i neonati con disabilità era l'**infanticidio**, o l'**esposizione** (abbandono in luogo pubblico o remoto).</span> Non erano atti illegali — erano pratiche socialmente accettate e in certi casi ordinate.
 
 Tre esempi storici:
 
-- **Sparta**: il neonato veniva valutato dal consiglio degli anziani (*lesché*). Se non era ritenuto abbastanza forte, si ordinava di gettarlo dal **monte Taigeto**. (La veridicità storica di questa pratica è messa in discussione.)
+- <span class="c-es">**Sparta**: il neonato veniva valutato dal consiglio degli anziani (*lesché*). Se non era ritenuto abbastanza forte, si ordinava di gettarlo dal **monte Taigeto**.</span> (La veridicità storica di questa pratica è messa in discussione.)
 - **Atene**: decisione affidata al padre, che poteva esporre il bambino in un luogo remoto.
-- **Roma**: durante la Repubblica (508–30 a.C.), pratiche simili. Durante l'Impero (I sec. a.C.), i neonati venivano lasciati presso la **Columna Lactaria** e "presi in cura" dallo Stato — non esattamente un orfanotrofio moderno, ma un primo tentativo di gestione pubblica.
+- <span class="c-es">**Roma**: durante la Repubblica (508–30 a.C.), pratiche simili. Durante l'Impero (I sec. a.C.), i neonati venivano lasciati presso la **Columna Lactaria** e "presi in cura" dallo Stato</span> — non esattamente un orfanotrofio moderno, ma un primo tentativo di gestione pubblica.
 
 L'idea che i bambini venissero gettati dalla **Rupe Tarpea** è probabilmente una leggenda: quel luogo era riservato ai traditori.
 
@@ -64,9 +72,9 @@ Alcune persone con disabilità sopravvivevano comunque, esibite come curiosità 
 
 ### Il cambiamento con il Cristianesimo
 
-I primi imperatori cristiani, a partire da **Costantino** (274–337), sanciscono lo ***ius vivendi*** del neonato: diritto alla vita senza eccezioni. Uccidere o esporre i bambini diventa illegale.
+I primi imperatori cristiani, a partire da <span class="c-dato">**Costantino** (274–337)</span>, sanciscono lo <span class="c-def">***ius vivendi*** del neonato: diritto alla vita senza eccezioni.</span> Uccidere o esporre i bambini diventa illegale.
 
-Nota importante: "esporre" non significava uccidere direttamente — significava abbandonare il bambino alla volontà divina. Ma in pratica, la sopravvivenza era rarissima.
+<span class="c-warn">Nota importante: "esporre" non significava uccidere direttamente — significava abbandonare il bambino alla volontà divina. Ma in pratica, la sopravvivenza era rarissima.</span>
 
 ---
 
@@ -74,7 +82,7 @@ Nota importante: "esporre" non significava uccidere direttamente — significava
 
 Dal IV secolo d.C., l'infanticidio diminuisce gradualmente. La religione cristiana occupa il centro della vita quotidiana: ogni bambino è dono di Dio.
 
-In questo periodo emerge la nozione di **"follia"** — ma attenzione: non è quella che intendiamo oggi. La follia medievale raccoglieva *chiunque fosse diverso*: persone con disabilità fisica, con disagio psichico, poveri senza fissa dimora, emarginati. Un unico contenitore indifferenziato.
+In questo periodo emerge la nozione di <span class="c-def">**"follia"** — ma attenzione: non è quella che intendiamo oggi. La follia medievale raccoglieva *chiunque fosse diverso*: persone con disabilità fisica, con disagio psichico, poveri senza fissa dimora, emarginati. Un unico contenitore indifferenziato.</span>
 
 Questo crea problemi per chi legge i testi dell'epoca: si parla sempre e solo di "follia", senza distinzioni diagnostiche.
 
@@ -83,7 +91,7 @@ La visione del "folle" era dualistica: sede di una lotta tra **Dio e Satana**.
 - Se prevaleva Dio → persona rispettata, vista come vicina al divino.
 - Se prevaleva Satana → persona rigettata, perseguitata.
 
-Questa stessa logica ha alimentato le **cacce alle streghe**: molte delle persone accusate erano probabilmente persone con disagio psichico o deficit intellettivo, le cui "divagazioni" venivano lette come segni del diavolo.
+<span class="c-impl">Questa stessa logica ha alimentato le **cacce alle streghe**: molte delle persone accusate erano probabilmente persone con disagio psichico o deficit intellettivo, le cui "divagazioni" venivano lette come segni del diavolo.</span>
 
 ### I primi tentativi di "cura"
 
@@ -99,9 +107,9 @@ Le cure avvenivano a domicilio, in monasteri, o negli ospedali — che però era
 
 Verso la fine del Medioevo, in tutta Europa esistevano i **lebbrosari** (lazzaretti) per isolare i malati di lebbra. Erano strutture economicamente importanti — i lebbrosi lavoravano e producevano ricchezza. Con il miglioramento delle condizioni igieniche la lebbra scompare, ma i lebbrosari restano (interessi economici enormi).
 
-Soluzione del potere politico: riempirli con tutti gli "indesiderati" della società. Nascono gli **ospedali generali**, dove vengono rinchiusi folli, disabili, poveri, prostitute, omosessuali — tutti coloro che la società rifiutava. È quello che viene chiamato la **"grande reclusione"** (o grande internamento).
+Soluzione del potere politico: riempirli con tutti gli "indesiderati" della società. <span class="c-def">Nascono gli **ospedali generali**, dove vengono rinchiusi folli, disabili, poveri, prostitute, omosessuali — tutti coloro che la società rifiutava. È quello che viene chiamato la **"grande reclusione"** (o grande internamento).</span>
 
-Il prof la descrive come un momento paradossalmente importante: concentrando tante persone diverse, qualcuno inizia a fare domande e a classificarle. E la classificazione è il primo passo verso una risposta educativa.
+<span class="c-impl">Il prof la descrive come un momento paradossalmente importante: concentrando tante persone diverse, qualcuno inizia a fare domande e a classificarle. E la classificazione è il primo passo verso una risposta educativa.</span>
 
 ---
 
@@ -111,15 +119,15 @@ Fin qui ci siamo? Bene, ora viene la parte più importante.
 
 Alla fine del XVIII secolo, le persone con disabilità negli ospedali generali vengono classificate come **"incurabili"**: non sono malate, ma per loro non si può fare nulla. Le condizioni sono disumane.
 
-Il contesto è la **Rivoluzione Francese** (1789) e l'**Illuminismo**: si parla per la prima volta di diritti dell'uomo, di dignità della persona. Qualcuno si accorge che in queste strutture ci sono centinaia di migliaia di persone rinchiuse senza alcun diritto. Nasce la **pedagogia** — e nasce non dai bambini "normali", ma dall'ambito della **pedagogia speciale**. I primi pedagogisti capiscono che insegnare è qualcosa di più della semplice trasmissione orale del sapere.
+Il contesto è la <span class="c-dato">**Rivoluzione Francese** (1789)</span> e l'**Illuminismo**: si parla per la prima volta di diritti dell'uomo, di dignità della persona. <span class="c-tesi">Nasce la **pedagogia** — e nasce non dai bambini "normali", ma dall'ambito della **pedagogia speciale**. I primi pedagogisti capiscono che insegnare è qualcosa di più della semplice trasmissione orale del sapere.</span>
 
 ### Philippe Pinel (1745–1826)
 
-Psichiatra all'ospedale **Bicêtre** di Parigi. Nel **1793** compie un gesto simbolico rimasto nella storia: **fa togliere le catene agli "alienati"**.
+<span class="c-dato">Psichiatra all'ospedale **Bicêtre** di Parigi.</span> Nel **1793** compie un gesto simbolico rimasto nella storia: **fa togliere le catene agli "alienati"**.
 
-Non è solo un gesto estetico — è l'atto fondante di una nuova visione: gli alienati sono persone. Come tali vanno trattati.
+<span class="c-tesi">Non è solo un gesto estetico — è l'atto fondante di una nuova visione: gli alienati sono persone. Come tali vanno trattati.</span>
 
-Elabora il **trattamento morale**, basato su questi principi:
+Elabora il <span class="c-def">**trattamento morale**</span>, basato su questi principi:
 
 | Principio | Cosa significa in concreto |
 |-----------|---------------------------|
@@ -136,22 +144,22 @@ Guardando questa lista oggi, sembra ovvia. Il fatto che dovesse essere scritta d
 
 La Francia di fine '700 è all'avanguardia:
 
-- **1760, Parigi**: prima scuola pubblica per bambini sordi — l'**Istituto Nazionale per i Sordo-Muti**, fondato dall'**Abbé de l'Épée**. Qui si sviluppa il **metodo gestuale** come comunicazione per i sordi.
-- **1784**: **Valentin Haüy** apre a proprie spese la prima scuola gratuita per ciechi — l'**Istituto Nazionale dei Giovani Ciechi**. Vi si forma prima come studente, poi come insegnante, **Louis Braille** — inventore del sistema di lettura tattile che porta il suo nome.
+- <span class="c-es">**1760, Parigi**: prima scuola pubblica per bambini sordi — l'**Istituto Nazionale per i Sordo-Muti**, fondato dall'**Abbé de l'Épée**. Qui si sviluppa il **metodo gestuale** come comunicazione per i sordi.</span>
+- <span class="c-es">**1784**: **Valentin Haüy** apre a proprie spese la prima scuola gratuita per ciechi — l'**Istituto Nazionale dei Giovani Ciechi**. Vi si forma prima come studente, poi come insegnante, **Louis Braille** — inventore del sistema di lettura tattile che porta il suo nome.</span>
 
-Mancano ancora classi per bambini con **deficit intellettivo**: non esistono perché non si sa ancora cosa sia il deficit intellettivo. Non si può creare classi per qualcosa che non è ancora stato identificato. Bisognerà aspettare il **1837** perché **Séguin** fondi la prima scuola privata per questi giovani.
+<span class="c-warn">Mancano ancora classi per bambini con **deficit intellettivo**: non esistono perché non si sa ancora cosa sia il deficit intellettivo. Non si può creare classi per qualcosa che non è ancora stato identificato.</span> Bisognerà aspettare il **1837** perché **Séguin** fondi la prima scuola privata per questi giovani.
 
 ### Esquirol: le prime classificazioni scientifiche moderne
 
-Nel **1818**, lo psichiatra **Jean-Étienne-Dominique Esquirol** distingue per la prima volta in modo scientifico tra **disagio psichico** e **deficit intellettivo**.
+Nel <span class="c-dato">**1818**</span>, lo psichiatra <span class="c-dato">**Jean-Étienne-Dominique Esquirol**</span> distingue per la prima volta in modo scientifico tra **disagio psichico** e **deficit intellettivo**.
 
 Il deficit intellettivo lo chiama **"idiozia"** — termine allora scientifico, oggi offensivo. Lo definisce come:
 
 > Un ritardo dello sviluppo intellettuale di origine organica, osservabile e incurabile, che compromette definitivamente le capacità intellettuali del soggetto.
 
 Distinzione fondamentale rispetto alla demenza:
-- **Idiozia** (deficit intellettivo): la persona non ha mai sviluppato certe capacità — è un ritardo di sviluppo presente dalla nascita.
-- **Demenza**: perdita di facoltà *precedentemente presenti* — la persona le aveva e le ha perse.
+- <span class="c-def">**Idiozia** (deficit intellettivo): la persona non ha mai sviluppato certe capacità — è un ritardo di sviluppo presente dalla nascita.</span>
+- <span class="c-def">**Demenza**: perdita di facoltà *precedentemente presenti* — la persona le aveva e le ha perse.</span>
 
 Esquirol distingue anche due gradi di deficit intellettivo:
 - **Idiozia**: la persona utilizza il linguaggio
@@ -165,13 +173,13 @@ Classificazione rozza per gli standard odierni, ma rivoluzionaria per l'epoca.
 
 Il personaggio più importante di questa lezione — e il più studiato nel corso.
 
-**Jean-Marc Itard** (1774–1834): medico e chirurgo francese. Lavorò con Pinel e divenne medico capo dell'Istituto Imperiale dei Sordo-Muti di Parigi.
+<span class="c-dato">**Jean-Marc Itard** (1774–1834)</span>: medico e chirurgo francese. Lavorò con Pinel e divenne medico capo dell'Istituto Imperiale dei Sordo-Muti di Parigi.
 
 ### Victor: chi era il ragazzo selvaggio dell'Aveyron
 
 Nel **1797**, nella regione dell'Aveyron (Pirenei francesi), viene avvistato un ragazzo che viveva nel bosco in modo completamente primitivo: nudo, si muoveva come un quadrupede, non parlava, emetteva solo grida acute. Catturato una prima volta, fugge; ripreso definitivamente nel **1800**.
 
-Lettura iniziale: sordomuto. Viene portato all'Istituto dei Sordo-Muti di Parigi — dopo essere stato esibito come fenomeno da baraccone in giro per la Francia (era un business molto lucrativo all'epoca).
+Lettura iniziale: sordomuto. <span class="c-es">Viene portato all'Istituto dei Sordo-Muti di Parigi — dopo essere stato esibito come fenomeno da baraccone in giro per la Francia (era un business molto lucrativo all'epoca).</span>
 
 Il direttore **Sicard** conclude presto che il ragazzo è un **idiota** (termine scientifico: deficit intellettivo congenito, quindi incurabile e ineducabile). Lo abbandona a sé stesso.
 
@@ -183,9 +191,9 @@ La sua ipotesi — radicalmente diversa da quella di Sicard:
 
 > Il ragazzo non ha tare mentali. Gli manca il linguaggio. Senza linguaggio, non ha potuto sviluppare i normali processi mentali. Gli mancano anche le motivazioni sociali.
 
-Si basa sulle teorie di **Condillac** (1714–1780): una persona privata del linguaggio deve appoggiarsi sulla percezione sensoriale (vista, tatto, udito) per esprimere idee e imparare dall'ambiente. Lo sviluppo dipende dall'ambiente e dalla stimolazione, non da una "dotazione innata" fissa.
+Si basa sulle teorie di <span class="c-dato">**Condillac** (1714–1780)</span>: <span class="c-def">una persona privata del linguaggio deve appoggiarsi sulla percezione sensoriale (vista, tatto, udito) per esprimere idee e imparare dall'ambiente. Lo sviluppo dipende dall'ambiente e dalla stimolazione, non da una "dotazione innata" fissa.</span>
 
-Questo approccio **rompe con la pedagogia dell'epoca**, fondata sull'insegnamento magistrale.
+<span class="c-tesi">Questo approccio **rompe con la pedagogia dell'epoca**, fondata sull'insegnamento magistrale.</span>
 
 ### I 5 principi pedagogici di Itard
 
@@ -193,35 +201,35 @@ Itard lavora con Victor per anni, ospitandolo a casa propria. Elabora un metodo 
 
 **1. Introdurlo alla vita sociale, rendendogliela più dolce e più analoga a quello che aveva abbandonato**
 
-Non è solo Victor che si deve adattare — anche l'ambiente si adatta a lui. È il fondamento dell'**individualizzazione del progetto educativo** e dell'adattamento ambientale.
+<span class="c-tesi">Non è solo Victor che si deve adattare — anche l'ambiente si adatta a lui. È il fondamento dell'**individualizzazione del progetto educativo** e dell'adattamento ambientale.</span>
 
 **2. Risvegliare la sensibilità nervosa tramite le stimolazioni più energiche e a volte per le vive affettazioni dell'animo**
 
-Lavorare sui sensi. Victor vedeva, ma non *osservava*. Prendeva, ma non *toccava* davvero. Avere gli organi sensoriali non significa saperli usare — bisogna farne esperienza. Il corpo pensa, e da lì si parte.
+Lavorare sui sensi. <span class="c-impl">Victor vedeva, ma non *osservava*. Prendeva, ma non *toccava* davvero. Avere gli organi sensoriali non significa saperli usare — bisogna farne esperienza. Il corpo pensa, e da lì si parte.</span>
 
 **3. Estendere la sfera delle sue idee donandogli dei bisogni nuovi e moltiplicando i rapporti con gli esseri che lo circondano**
 
-Creare nuovi stimoli, nuove aspirazioni. La dissonanza cognitiva come strumento pedagogico: creo un nuovo bisogno, ti metto in crisi rispetto a ciò che sai già, e in quel momento sei pronto a imparare qualcosa di nuovo.
+<span class="c-def">Creare nuovi stimoli, nuove aspirazioni. La **dissonanza cognitiva** come strumento pedagogico: creo un nuovo bisogno, ti metto in crisi rispetto a ciò che sai già, e in quel momento sei pronto a imparare qualcosa di nuovo.</span>
 
 **4. Portarlo all'uso della parola, determinando l'esercizio dell'imitazione tramite la legge imperiosa della necessità**
 
-L'**imitazione** è il meccanismo base dell'apprendimento linguistico — è così che i bambini imparano a parlare. Insieme all'**anticipazione**, sono i due pilastri dell'apprendimento. Questa fu la parte più frustrante per Itard: Victor non riuscì mai ad acquisire il linguaggio orale.
+<span class="c-def">L'**imitazione** è il meccanismo base dell'apprendimento linguistico — è così che i bambini imparano a parlare. Insieme all'**anticipazione**, sono i due pilastri dell'apprendimento.</span> Questa fu la parte più frustrante per Itard: Victor non riuscì mai ad acquisire il linguaggio orale.
 
 **5. Esercitare sugli oggetti dei suoi bisogni fisici le più semplici operazioni dello spirito, determinando in seguito l'applicazione su degli oggetti di istruzione**
 
-Dal concreto all'astratto. E poi: **generalizzare** l'apprendimento — trasferirlo a contesti diversi da quello in cui è stato acquisito. Se imparo ad allacciare le scarpe nere, so allacciare anche quelle marroni. Sembra banale, ma non è scontato per tutti.
+<span class="c-impl">Dal concreto all'astratto. E poi: **generalizzare** l'apprendimento — trasferirlo a contesti diversi da quello in cui è stato acquisito. Se imparo ad allacciare le scarpe nere, so allacciare anche quelle marroni. Sembra banale, ma non è scontato per tutti.</span>
 
 ### L'eredità di Itard
 
-Nel **1801**, primo rapporto su Victor. I risultati sul linguaggio orale sono deludenti. Itard propone l'ipotesi del **periodo sensibile per l'acquisizione del linguaggio**: passata una certa finestra temporale, il linguaggio verbale non si acquisisce più.
+Nel **1801**, primo rapporto su Victor. I risultati sul linguaggio orale sono deludenti. Itard propone l'ipotesi del <span class="c-def">**periodo sensibile per l'acquisizione del linguaggio**: passata una certa finestra temporale, il linguaggio verbale non si acquisisce più.</span>
 
 Critiche legittime al suo lavoro:
-- Si è concentrato sul linguaggio orale, trascurando quello gestuale (già sviluppato nella sua stessa istituzione).
+- <span class="c-warn">Si è concentrato sul linguaggio orale, trascurando quello gestuale (già sviluppato nella sua stessa istituzione).</span>
 - Non ha valorizzato le capacità già presenti in Victor, partendo invece da quelle assenti.
 
 L'eredità positiva, però, è enorme:
 
-> È da questa relazione tra una mente illuminata e un "ragazzo selvaggio" che nasce l'educazione speciale moderna.
+> <span class="c-tesi">È da questa relazione tra una mente illuminata e un "ragazzo selvaggio" che nasce l'educazione speciale moderna.</span>
 
 Pratiche educative attribuite a Itard ancora in uso oggi:
 - **Diagnosi funzionale dell'udito**
@@ -230,7 +238,7 @@ Pratiche educative attribuite a Itard ancora in uso oggi:
 - **La generalizzazione degli apprendimenti**
 - Il **metodo scientifico applicato alla pedagogia**: osservazione → ipotesi → verifica → principio
 
-E soprattutto il concetto che oggi guida ancora il nostro lavoro: **tutte le persone sono educabili**. Quello che è "speciale" non è la persona — è la pedagogia necessaria per lavorare con lei.
+E soprattutto il concetto che oggi guida ancora il nostro lavoro: <span class="c-tesi">**tutte le persone sono educabili**. Quello che è "speciale" non è la persona — è la pedagogia necessaria per lavorare con lei.</span>
 
 ---
 

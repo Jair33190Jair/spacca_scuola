@@ -1,6 +1,15 @@
 # Finalità del Lavoro Sociale: autonomia, empowerment, benessere, qualità di vita, PERMA
 TMIS · Sessione 03
 
+<!-- LEGENDA COLORI
+  🔵 #2980B9 — Definizione / concetto chiave
+  🟢 #27AE60 — Tesi centrale / affermazione fondamentale
+  🟠 #E67E22 — Esempio / caso concreto
+  🟣 #8E44AD — Dato / nome / data
+  🟡 #D4AC0D — Collegamento / implicazione
+  🔴 #CB4335 — Attenzione / eccezione
+-->
+
 > Questa lezione è una delle fondamenta del corso: ti dà il vocabolario del lavoro sociale.
 > Non sono parole d'effetto — sono le bussole che orientano ogni intervento. Capirle bene significa capire *perché* esiste questa professione e dove vuole portare le persone.
 
@@ -10,9 +19,9 @@ TMIS · Sessione 03
 
 Prima di entrare nei singoli concetti, la lezione ha dedicato ampio spazio a una domanda apparentemente semplice ma insidiosa: *cosa sono le finalità del lavoro sociale, e cosa invece sono solo strumenti?*
 
-I gruppi di studenti hanno presentato diverse proposte — autonomia, fiducia, ascolto attivo, accompagnamento, benessere, inclusione, integrazione. La professoressa ha poi guidato la distinzione: l'ascolto attivo, per esempio, è uno **strumento** per raggiungere la finalità. L'autonomia o il benessere sono **finalità** — le mete verso cui si tende.
+I gruppi di studenti hanno presentato diverse proposte — autonomia, fiducia, ascolto attivo, accompagnamento, benessere, inclusione, integrazione. La professoressa ha poi guidato la distinzione: <span class="c-impl">l'ascolto attivo, per esempio, è uno **strumento** per raggiungere la finalità. L'autonomia o il benessere sono **finalità** — le mete verso cui si tende.</span>
 
-Il punto chiave che è emerso dalla discussione: si lavora **con** le persone, non **per** le persone. Non ci si sostituisce alla persona — la si accompagna perché possa fare da sola. L'obiettivo ideale dell'operatore sociale? Come ha detto una docente: **diventare inutile**. Lavorare così bene da non essere più necessari.
+Il punto chiave che è emerso dalla discussione: <span class="c-tesi">si lavora **con** le persone, non **per** le persone. Non ci si sostituisce alla persona — la si accompagna perché possa fare da sola.</span> L'obiettivo ideale dell'operatore sociale? Come ha detto una docente: **diventare inutile**. Lavorare così bene da non essere più necessari.
 
 Un altro punto interessante sollevato dalla classe: non è solo il risultato finale che conta, ma anche **il processo**. La ricerca della soluzione, fatta insieme alla persona, può essere già parte della soluzione stessa.
 
@@ -22,14 +31,14 @@ Un altro punto interessante sollevato dalla classe: non è solo il risultato fin
 
 ### Definizione
 
-Il concetto di **Qualità di Vita** è studiato da molte discipline e ogni disciplina ha sviluppato una propria prospettiva. Nel lavoro sociale, il riferimento principale è il modello di **Schalock e Verdugo** (2006/2008).
+Il concetto di <span class="c-def">**Qualità di Vita**</span> è studiato da molte discipline e ogni disciplina ha sviluppato una propria prospettiva. Nel lavoro sociale, il riferimento principale è il modello di <span class="c-dato">**Schalock e Verdugo** (2006/2008)</span>.
 
-L'OMS (1995) definisce la QdV come:
+<span class="c-dato">L'OMS (1995)</span> definisce la QdV come:
 > «La percezione dell'individuo della propria posizione nella vita nel contesto dei sistemi culturali e dei valori di riferimento nei quali è inserito, e in relazione ai propri obiettivi, aspettative, standard e interessi.»
 
 Una definizione più operativa è quella di Renwick e Brown: *il grado in cui una persona usufruisce a pieno delle possibilità/opportunità importanti della sua vita.*
 
-Nota la parola chiave in entrambe: **percezione**. La QdV non è misurabile solo dall'esterno — dipende da come la persona vive la propria situazione.
+<span class="c-tesi">Nota la parola chiave in entrambe: **percezione**. La QdV non è misurabile solo dall'esterno — dipende da come la persona vive la propria situazione.</span>
 
 ### Gli 8 domini della QdV
 
@@ -46,11 +55,11 @@ Schalock e Verdugo identificano otto dimensioni organizzate in tre aree trasvers
 | **Benessere** | Benessere fisico | Salute, nutrizione, esercizio fisico |
 | **Benessere** | Benessere materiale | Stato finanziario, lavorativo, abitativo |
 
-Pensa a questi domini come le radici di un albero: se una radice non sta bene, tutto l'albero ne risente. Non puoi guardare solo il tronco e pensare di capire la salute dell'albero.
+<span class="c-es">Pensa a questi domini come le radici di un albero: se una radice non sta bene, tutto l'albero ne risente. Non puoi guardare solo il tronco e pensare di capire la salute dell'albero.</span>
 
 ### I 7 principi del paradigma QdV
 
-(Carbonari, 2017; Schalock e Verdugo)
+(<span class="c-dato">Carbonari, 2017; Schalock e Verdugo</span>)
 
 1. **Multidimensionalità** — superamento degli approcci unidimensionali (es. "chi sta bene è chi ha soldi")
 2. **Visione olistica** — i domini si influenzano reciprocamente; ogni modifica in un dominio ha effetti trasversali
@@ -58,9 +67,9 @@ Pensa a questi domini come le radici di un albero: se una radice non sta bene, t
 4. **Variabilità personale** — ogni persona dà importanza diversa ai singoli domini
 5. **Soggettività + oggettività** — vanno considerati sia elementi oggettivi (reddito, salute fisica) sia la narrazione soggettiva della persona
 6. **Empowerment** — aspetti legati all'emancipazione e alla partecipazione attiva
-7. **Estendibilità** — il modello vale per **tutte le persone**, non solo per quelle con disabilità
+7. **Estendibilità** — <span class="c-tesi">il modello vale per **tutte le persone**, non solo per quelle con disabilità</span>
 
-La professoressa ha sottolineato con un esempio molto concreto: una persona con ADHD in una società caotica può vivere la sua condizione come meno invalidante che in una società rigidamente strutturata. Il contesto sociale **co-costruisce** la qualità di vita.
+<span class="c-es">La professoressa ha sottolineato con un esempio molto concreto: una persona con ADHD in una società caotica può vivere la sua condizione come meno invalidante che in una società rigidamente strutturata.</span> <span class="c-impl">Il contesto sociale **co-costruisce** la qualità di vita.</span>
 
 ---
 
@@ -68,35 +77,35 @@ La professoressa ha sottolineato con un esempio molto concreto: una persona con 
 
 ### La definizione dell'OMS
 
-La Carta di Ottawa (1986) definisce la salute come:
+La <span class="c-dato">Carta di Ottawa (1986)</span> definisce la salute come:
 > «Uno stato di completo benessere fisico, sociale e mentale, e non soltanto l'assenza di malattia o di infermità.»
 
-La salute non è uno scopo in sé — è una **risorsa per la vita quotidiana**. Un mezzo, non un fine. La pace, le risorse economiche, il cibo, l'abitazione, un ecosistema stabile sono pre-requisiti necessari per la salute — che quindi non è solo una questione individuale, ma un diritto sociale.
+<span class="c-tesi">La salute non è uno scopo in sé — è una **risorsa per la vita quotidiana**. Un mezzo, non un fine.</span> La pace, le risorse economiche, il cibo, l'abitazione, un ecosistema stabile sono pre-requisiti necessari per la salute — che quindi non è solo una questione individuale, ma un diritto sociale.
 
-Come ha sottolineato la classe: questa definizione del 1948 è ancora rivoluzionaria. Implica che pochissimi di noi siano "in salute" se intendiamo la salute come stato di **completo** benessere.
+Come ha sottolineato la classe: questa definizione del 1948 è ancora rivoluzionaria. <span class="c-warn">Implica che pochissimi di noi siano "in salute" se intendiamo la salute come stato di **completo** benessere.</span>
 
 ### Il concetto triadico di Twaddle: disease, illness, sickness
 
 Questa è una distinzione fondamentale per il lavoro sociale — imprimila bene.
 
-- **Disease** — la malattia biologica oggettiva, quella che il medico diagnostica con sintomi e segni clinici
-- **Illness** — il vissuto soggettivo del mal-stare, la percezione personale mediata anche dal background culturale
-- **Sickness** — l'interpretazione sociale e culturale della malattia, con i diritti e gli obblighi che ne derivano
+- <span class="c-def">**Disease**</span> — la malattia biologica oggettiva, quella che il medico diagnostica con sintomi e segni clinici
+- <span class="c-def">**Illness**</span> — il vissuto soggettivo del mal-stare, la percezione personale mediata anche dal background culturale
+- <span class="c-def">**Sickness**</span> — l'interpretazione sociale e culturale della malattia, con i diritti e gli obblighi che ne derivano
 
-Esempio pratico: due persone con la stessa diagnosi (disease uguale) possono vivere la malattia in modo completamente diverso (illness diversa) e ricevere risposte diverse dalla società (sickness diversa). L'esperienza umana costruisce la malattia in tutti i suoi aspetti.
+<span class="c-es">Esempio pratico: due persone con la stessa diagnosi (disease uguale) possono vivere la malattia in modo completamente diverso (illness diversa) e ricevere risposte diverse dalla società (sickness diversa).</span> L'esperienza umana costruisce la malattia in tutti i suoi aspetti.
 
 ### Benessere collettivo
 
-Il benessere non è solo individuale. Secondo Dal Pra Ponticelli (2007), il **benessere collettivo** è:
+Il benessere non è solo individuale. Secondo <span class="c-dato">Dal Pra Ponticelli (2007)</span>, il <span class="c-def">**benessere collettivo**</span> è:
 > «Sensazione positiva collettiva determinata dalla percezione di sentirsi riconosciuti come collettività, di partecipare in modo attivo e responsabile alla vita sociale, poter usufruire di beni, servizi e di condividere una solidarietà sociale.»
 
-Quindi anche lavorare per il benessere del singolo richiede, in parallelo, di lavorare per una società più equa e inclusiva.
+<span class="c-impl">Quindi anche lavorare per il benessere del singolo richiede, in parallelo, di lavorare per una società più equa e inclusiva.</span>
 
 ---
 
 ## Modello PERMA: il benessere individuale secondo Seligman
 
-Martin Seligman — fondatore della **psicologia positiva** — ha sviluppato nel 2011 il modello PERMA per descrivere il benessere individuale come **flourishing** (funzionamento ottimale: stare bene *e* funzionare efficacemente).
+<span class="c-dato">Martin Seligman</span> — fondatore della **psicologia positiva** — ha sviluppato nel <span class="c-dato">2011</span> il modello <span class="c-def">**PERMA**</span> per descrivere il benessere individuale come <span class="c-def">**flourishing**</span> (funzionamento ottimale: stare bene *e* funzionare efficacemente).
 
 Il PERMA nasce dopo una revisione critica della sua prima "Teoria della felicità autentica" (2002): Seligman si rende conto che la felicità è un termine troppo limitante, e che il vero obiettivo non è la soddisfazione di vita soggettiva, ma un costrutto più ampio e multidimensionale.
 
@@ -108,7 +117,7 @@ Il PERMA nasce dopo una revisione critica della sua prima "Teoria della felicit�
 | **M** | Meaning — Significato | Sentire che la propria vita ha un senso; credere in qualcosa di più grande di sé (missione, comunità, fede) |
 | **A** | Accomplishment — Realizzazione | Consapevolezza di aver raggiunto traguardi; alimenta autostima e ottimismo (principio di autoefficacia) |
 
-Pensa al PERMA come ai cinque pilastri di un edificio: se ne manca uno, la struttura è meno stabile. Nel lavoro sociale, promuovere il flourishing significa lavorare su più di questi pilastri contemporaneamente.
+<span class="c-es">Pensa al PERMA come ai cinque pilastri di un edificio: se ne manca uno, la struttura è meno stabile.</span> <span class="c-impl">Nel lavoro sociale, promuovere il flourishing significa lavorare su più di questi pilastri contemporaneamente.</span>
 
 ---
 
@@ -118,23 +127,23 @@ Pensa al PERMA come ai cinque pilastri di un edificio: se ne manca uno, la strut
 
 > «L'empowerment è un processo sociale, culturale, psicologico o politico attraverso il quale gli individui e i gruppi sociali sono in grado di esprimere i propri bisogni e le proprie preoccupazioni, individuare le strategie per essere coinvolti nel processo decisionale e intraprendere azioni di carattere politico, sociale e culturale che consentano loro di soddisfare tali bisogni.»
 
-Il termine nasce dai movimenti di emancipazione afroamericani negli Stati Uniti — ha origini politiche e conflittuali, non burocratiche. Oggi viene usato in modo più soft, ma è importante ricordare la radice: è un concetto legato al **potere** e alla possibilità di esercitarlo.
+Il termine nasce dai movimenti di emancipazione afroamericani negli Stati Uniti — <span class="c-tesi">ha origini politiche e conflittuali, non burocratiche.</span> Oggi viene usato in modo più soft, ma è importante ricordare la radice: è un concetto legato al **potere** e alla possibilità di esercitarlo.
 
 ### Empowerment individuale vs. di comunità
 
-- **Empowerment individuale** — capacità del singolo di prendere decisioni e assumere il controllo della propria vita
-- **Empowerment di comunità** — individui che agiscono collettivamente per influenzare i determinanti di salute e QdV nella propria comunità
+- <span class="c-def">**Empowerment individuale**</span> — capacità del singolo di prendere decisioni e assumere il controllo della propria vita
+- <span class="c-def">**Empowerment di comunità**</span> — individui che agiscono collettivamente per influenzare i determinanti di salute e QdV nella propria comunità
 
 ### L'approccio postmoderno: empowerment relazionale
 
-Folgheraiter (2004) introduce il concetto di **empowerment relazionale**, legato al lavoro di rete:
+<span class="c-dato">Folgheraiter (2004)</span> introduce il concetto di <span class="c-def">**empowerment relazionale**</span>, legato al lavoro di rete:
 > Processo collaborativo di apprendimento reciproco volto alla valorizzazione delle potenzialità degli individui e delle collettività, per accrescerne la possibilità di autodeterminazione.
 
 In questo approccio:
 - Gli esperti **cedono** parte del loro potere di trovare soluzioni alle persone con cui lavorano
-- L'utente diventa un **agente attivo** (non passivo ricevente di cure)
+- L'utente diventa un <span class="c-tesi">**agente attivo**</span> (non passivo ricevente di cure)
 - Il ruolo dell'operatore diventa di **orientamento, accompagnamento e sostegno** — non di sostituzione direttiva
-- Il cedere potere non è una perdita: quando il potere è scambiato e intrecciato, si **ri-genera e si moltiplica**
+- <span class="c-tesi">Il cedere potere non è una perdita: quando il potere è scambiato e intrecciato, si **ri-genera e si moltiplica**</span>
 
 Principi operativi dell'empowerment relazionale (Folgheraiter):
 1. Processo collaborativo: utenti, carer, operatori come partner
@@ -153,26 +162,26 @@ Principi operativi dell'empowerment relazionale (Folgheraiter):
 
 Etimologicamente: dal greco *autos* (se stesso) + *nomos* (legge) = governarsi con leggi proprie.
 
-Attenzione: autonomia non significa **isolamento** o **assenza di dipendenza**. Nessun essere umano è autonomo in senso assoluto — tutti siamo inseriti in reti di dipendenze funzionali con gli altri.
+<span class="c-warn">Attenzione: autonomia non significa **isolamento** o **assenza di dipendenza**. Nessun essere umano è autonomo in senso assoluto — tutti siamo inseriti in reti di dipendenze funzionali con gli altri.</span>
 
 ### Autonomia come processo (Meirieu)
 
-Il pedagogista Philippe Meirieu propone di parlare di **processo di autonomizzazione** — non si "è" autonomi, ci si "diventa" progressivamente.
+Il pedagogista <span class="c-dato">Philippe Meirieu</span> propone di parlare di <span class="c-def">**processo di autonomizzazione**</span> — non si "è" autonomi, ci si "diventa" progressivamente.
 
 L'operatore deve:
 > «Sforzarsi di rendere il soggetto autonomo. Non supporlo già autonomo, ma organizzare un sistema di aiuti che gli permetta di raggiungere gli obiettivi che si fissa, prima di portarlo a fare progressivamente a meno di questi aiuti e ad applicare per conto suo, di sua iniziativa e in altre situazioni quello che ha acquisito.»
 
 Il livello di autonomia deve sempre essere:
 - Definito a partire dal livello già raggiunto dalla persona
-- Un livello **superiore** ma **accessibile** (come salire un gradino alla volta, non tutta la scala in un colpo)
+- Un livello **superiore** ma **accessibile** (<span class="c-es">come salire un gradino alla volta, non tutta la scala in un colpo</span>)
 
 ### La finta autonomia e l'abbandono (Tramma, 2018)
 
-Tramma segnala un rischio importante: confondere la vera autonomia raggiunta con la **finta autonomia** che maschera l'abbandono del servizio. In un momento di crisi del welfare state, c'è il rischio di usare il "fare da sé" come pretesto per ridurre i servizi, non per promuovere la crescita della persona.
+<span class="c-warn">Tramma segnala un rischio importante: confondere la vera autonomia raggiunta con la **finta autonomia** che maschera l'abbandono del servizio.</span> In un momento di crisi del welfare state, c'è il rischio di usare il "fare da sé" come pretesto per ridurre i servizi, non per promuovere la crescita della persona.
 
 ### Può essere necessario limitare l'autonomia?
 
-Sì — in alcuni casi (protezione dei minori, situazioni di pericolo) limitare temporaneamente l'autonomia serve per **raggiungere una maggiore autonomia nel lungo termine**. Non è una contraddizione: è una scelta educativa consapevole e contestualizzata.
+Sì — in alcuni casi (protezione dei minori, situazioni di pericolo) <span class="c-impl">limitare temporaneamente l'autonomia serve per **raggiungere una maggiore autonomia nel lungo termine**.</span> Non è una contraddizione: è una scelta educativa consapevole e contestualizzata.
 
 ---
 
@@ -182,7 +191,7 @@ Questi due termini vengono spesso confusi — per l'esame è fondamentale conosc
 
 ### Autostima
 
-Dal latino *aestimare* = determinare il valore di. L'autostima è il **giudizio di valore personale** — come mi valuto come persona.
+Dal latino *aestimare* = determinare il valore di. L'<span class="c-def">**autostima**</span> è il **giudizio di valore personale** — come mi valuto come persona.
 
 È determinata da:
 - Le aspettative dell'individuo su sé stesso
@@ -194,9 +203,9 @@ Dal latino *aestimare* = determinare il valore di. L'autostima è il **giudizio 
 
 > «Le convinzioni circa le proprie capacità di organizzare ed eseguire le sequenze di azioni necessarie per produrre determinati risultati.»
 
-L'autoefficacia è il **giudizio di capacità personale** in uno specifico contesto — "sono capace di fare *questa cosa* in *questa situazione*?"
+L'<span class="c-def">**autoefficacia**</span> è il **giudizio di capacità personale** in uno specifico contesto — "sono capace di fare *questa cosa* in *questa situazione*?"
 
-È il **motore motivazionale** dell'agentività umana: se penso di non essere capace di produrre un effetto su una situazione, non investo energie nell'azione. Non è una misura delle competenze possedute, ma della **credenza** in ciò che sono in grado di fare.
+<span class="c-tesi">È il **motore motivazionale** dell'agentività umana: se penso di non essere capace di produrre un effetto su una situazione, non investo energie nell'azione.</span> Non è una misura delle competenze possedute, ma della **credenza** in ciò che sono in grado di fare.
 
 ### La differenza chiave (Bandura)
 
@@ -207,7 +216,7 @@ L'autoefficacia è il **giudizio di capacità personale** in uno specifico conte
 | **Ambito** | Globale | Specifico per attività/contesto |
 | **Esempio** | "Sono una persona di valore" | "Riuscirò a passare questo esame" |
 
-Esempio della professoressa: posso essere bravissima con Excel (alta autoefficacia in quel dominio) senza che questo mi dia autostima — se per me quel dominio non ha valore. Viceversa, posso non saper disegnare (bassa autoefficacia nel disegno) senza che questo intacchi il mio valore di persona.
+<span class="c-es">Esempio della professoressa: posso essere bravissima con Excel (alta autoefficacia in quel dominio) senza che questo mi dia autostima — se per me quel dominio non ha valore. Viceversa, posso non saper disegnare (bassa autoefficacia nel disegno) senza che questo intacchi il mio valore di persona.</span>
 
 ---
 

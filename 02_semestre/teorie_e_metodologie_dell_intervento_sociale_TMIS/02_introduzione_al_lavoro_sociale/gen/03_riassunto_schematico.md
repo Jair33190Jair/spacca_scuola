@@ -1,26 +1,35 @@
 # Introduzione al Lavoro Sociale — Parte 2 — Schema
 TMIS · Sessione 02
 
+<!-- LEGENDA COLORI
+  🔵 #2980B9 — Definizione / concetto chiave
+  🟢 #27AE60 — Tesi centrale / affermazione fondamentale
+  🟠 #E67E22 — Esempio / caso concreto
+  🟣 #8E44AD — Dato / nome / data
+  🟡 #D4AC0D — Collegamento / implicazione
+  🔴 #CB4335 — Attenzione / eccezione
+-->
+
 ---
 
 ## Identità e Sé dialogico
 
-- **Sé dialogico** → insieme dinamico di posizionamenti (voci interne) in dialogo polifonico
+- <span class="c-def">**Sé dialogico**</span> → insieme dinamico di posizionamenti (voci interne) in dialogo polifonico
   - Natura narrativa e dialogica → genera continuamente nuovi posizionamenti
-  - Fonte: Mancini (2010), Bachtin (1979)
+  - Fonte: <span class="c-dato">Mancini (2010), Bachtin (1979)</span>
 
-- **Sentimento di identità** → esperienza intraindividuale (Erikson, 1968)
+- <span class="c-def">**Sentimento di identità**</span> → esperienza intraindividuale (<span class="c-dato">Erikson, 1968</span>)
   - Integrazione come persona → unicità e coerenza nonostante i molteplici ruoli
   - Integrazione nel tempo → continuità passato–presente–futuro
   - Integrazione nell'ambiente sociale → riconoscimento da parte degli altri
 
-- **4 forme di esperienza soggettiva del Sé** (Glodis e Blasi, 1993)
-  - **Agency** → capacità di incidere sulla realtà
-  - **Otherness** → sentirsi unici, differenziarsi dalle aspettative
-  - **Unity** → continuità temporale
-  - **Autoreflection** → capacità di autoosservazione
+- **4 forme di esperienza soggettiva del Sé** (<span class="c-dato">Glodis e Blasi, 1993</span>)
+  - <span class="c-def">**Agency**</span> → capacità di incidere sulla realtà
+  - <span class="c-def">**Otherness**</span> → sentirsi unici, differenziarsi dalle aspettative
+  - <span class="c-def">**Unity**</span> → continuità temporale
+  - <span class="c-def">**Autoreflection**</span> → capacità di autoosservazione
 
-- **Identità** → non è statica, è multipla, evolutiva, contestuale
+- **Identità** → <span class="c-tesi">non è statica, è multipla, evolutiva, contestuale</span>
   - Cambiamenti attesi → confermano l'identità
   - Cambiamenti minacciosi → mettono in discussione i principi identitari
 
@@ -31,23 +40,23 @@ TMIS · Sessione 02
 
 ## Vulnerabilità
 
-- **Definizione problematica** → significati diversi, implicazioni etiche e pratiche diverse (Pedroni, 2020)
+- **Definizione problematica** → significati diversi, implicazioni etiche e pratiche diverse (<span class="c-dato">Pedroni, 2020</span>)
 
-- **Rischi dell'uso acritico**
+- <span class="c-warn">**Rischi dell'uso acritico**</span>
   - Paternalismo/oppressione → immagine di persona incapace
   - Controllo sociale → rafforza stereotipi sulla "normalità"
   - Stigma/esclusione → etichettare può generare segregazione
 
 - **Lettura promettente**
-  - Vulnerabilità come caratteristica **ontologica** degli esseri umani
+  - <span class="c-tesi">Vulnerabilità come caratteristica **ontologica** degli esseri umani</span>
   - Connessa a circostanze personali, economiche, sociali, culturali
-  - Si collega a: agency, empowerment, resilienza
+  - <span class="c-impl">Si collega a: agency, empowerment, resilienza</span>
 
 - **Regola operativa** → considerare le persone nella loro unicità, ascoltare la loro visione della propria condizione
 
-- **Disagio** (Palmieri, 2012)
+- <span class="c-def">**Disagio**</span> (<span class="c-dato">Palmieri, 2012</span>)
   - Etimologia → mancanza di agio, di benessere
-  - Non è determinato solo da fattori oggettivi → deriva dalla lettura soggettiva della situazione
+  - <span class="c-warn">Non è determinato solo da fattori oggettivi → deriva dalla lettura soggettiva della situazione</span>
   - Visione pedagogica → momento di crisi, non condizione irreversibile
   - Ogni passaggio evolutivo è preceduto da una crisi
 
@@ -55,16 +64,16 @@ TMIS · Sessione 02
 
 ## Resilienza
 
-- **Definizione** (Cyrulnik; Malaguti, 2005) → processo biologico, psicoaffettivo, sociale, culturale ed educativo che permette la ripresa di un nuovo sviluppo dopo un evento traumatico
+- <span class="c-def">**Definizione**</span> (<span class="c-dato">Cyrulnik; Malaguti, 2005</span>) → processo biologico, psicoaffettivo, sociale, culturale ed educativo che permette la ripresa di un nuovo sviluppo dopo un evento traumatico
 
 - **Non solo resistenza** → anche superamento e trasformazione dell'esperienza
 
 - **Cambio di prospettiva**
   - Positivizzare lo sguardo
   - Non ridurre la persona al problema
-  - Superare letture lineari e deterministiche
+  - <span class="c-warn">Superare letture lineari e deterministiche</span>
 
-- **7 elementi** (Wolin & Wolin, 1993)
+- **7 elementi** (<span class="c-dato">Wolin & Wolin, 1993</span>)
 
 | Elemento | Funzione |
 |----------|----------|
@@ -76,16 +85,16 @@ TMIS · Sessione 02
 | Humor | Scoprire la dimensione comica, ridurre la tensione |
 | Etica | Guidare l'azione, favorire compassione e aiuto reciproco |
 
-- **Tutori di resilienza** (Cyrulnik) → figure significative che permettono alla persona di "rimbalzare"
+- <span class="c-def">**Tutori di resilienza**</span> (<span class="c-dato">Cyrulnik</span>) → figure significative che permettono alla persona di "rimbalzare"
   - Possono essere: familiari, amici, insegnanti, educatori, operatori sociali
-  - La resilienza non si acquisisce una volta per tutte → richiede rinegoziazione continua
+  - <span class="c-tesi">La resilienza non si acquisisce una volta per tutte → richiede rinegoziazione continua</span>
 
 ---
 
 ## Bisogno
 
-- **Definizione** (Paradiso, 2020) → stato soggettivo di tensione che spinge all'azione per soddisfare una mancanza fisica o psicologica
-- **Motivazione** → forza che muove il soggetto (direzione + intensità)
+- <span class="c-def">**Definizione**</span> (<span class="c-dato">Paradiso, 2020</span>) → stato soggettivo di tensione che spinge all'azione per soddisfare una mancanza fisica o psicologica
+- <span class="c-def">**Motivazione**</span> → forza che muove il soggetto (direzione + intensità)
 
 ### Modello gerarchico — Maslow (1954)
 
@@ -98,26 +107,26 @@ TMIS · Sessione 02
 | 1 (base) | Fisiologici (alimentazione, sonno, respirazione…) |
 
 - Principio → bisogno soddisfatto perde funzione motivazionale → emerge il successivo
-- Limiti → prospettiva anni '50, sguardo occidentale, parzialmente classista
+- <span class="c-warn">Limiti → prospettiva anni '50, sguardo occidentale, parzialmente classista</span>
 
 ### Modello multidimensionale — Paradiso (2020)
 
-**Bisogni evolutivi** (situazioni di equilibrio)
+<span class="c-def">**Bisogni evolutivi**</span> (situazioni di equilibrio)
 - Primari · Emotivi · Sociali · Culturali · Realizzativi
 - Motivazione espressiva-realizzativa
 
-**Bisogni complessi** (situazioni di crisi/trauma)
+<span class="c-def">**Bisogni complessi**</span> (situazioni di crisi/trauma)
 - Sopravvivenza → Riparazione → Riorganizzazione
 - Il trauma interrompe il circuito di soddisfazione e distorce la percezione dei bisogni
 - Bisogni articolati, multipli, indiretti, di difficile interpretazione
 
 ### Visione pedagogica — Palmieri (2011)
 
-- Non esistono bisogni fisiologici "in sé" → esistono modi culturali di viverli
+- <span class="c-tesi">Non esistono bisogni fisiologici "in sé" → esistono modi culturali di viverli</span>
 - Ogni risposta a un bisogno mobilita dimensioni relazionali, immaginative, culturali
-- Il bisogno → non solo mancanza, anche condizione che attiva empowerment e cambiamento
-- **Cura inautentica** → si sostituisce all'altro, crea dipendenza
-- **Cura autentica** → anticipa le possibilità dell'altro, lo libera per la propria cura
+- <span class="c-impl">Il bisogno → non solo mancanza, anche condizione che attiva empowerment e cambiamento</span>
+- <span class="c-def">**Cura inautentica**</span> → si sostituisce all'altro, crea dipendenza
+- <span class="c-def">**Cura autentica**</span> → anticipa le possibilità dell'altro, lo libera per la propria cura
 
 ---
 

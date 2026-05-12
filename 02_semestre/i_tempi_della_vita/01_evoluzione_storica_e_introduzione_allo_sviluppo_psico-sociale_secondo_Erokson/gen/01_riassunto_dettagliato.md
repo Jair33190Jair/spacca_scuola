@@ -1,4 +1,12 @@
 # Evoluzione storica e sviluppo psico-sociale secondo Erikson
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🟡 Oro    #D4AC0D → Connessione / implicazione
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+-->
 I Tempi della Vita · Sessione 01 · A.A. 2025/2026
 
 > Questa lezione è il punto di partenza del modulo: capire come si è evoluto il modo in cui la psicologia guarda alla vita umana — e poi tuffarsi nella teoria di Erikson, uno dei modelli più completi (e più utili per il tuo lavoro futuro) che esistano. Alla fine avrai in testa una mappa dell'intera vita umana.
@@ -9,15 +17,13 @@ I Tempi della Vita · Sessione 01 · A.A. 2025/2026
 
 Storicamente, la psicologia si è occupata quasi esclusivamente delle prime fasi della vita: infanzia e adolescenza. Questo campo si chiamava **psicologia dell'età evolutiva** e considerava lo sviluppo qualcosa che finiva con la crescita.
 
-Il grande cambio di paradigma è avvenuto **nella seconda metà del Novecento**: si è capito che la persona continua a cambiare — psicologicamente, socialmente, cognitivamente — per tutta la vita, fino alla morte.
+<span class="c-tesi">Il grande cambio di paradigma è avvenuto **nella seconda metà del Novecento**: si è capito che la persona continua a cambiare — psicologicamente, socialmente, cognitivamente — per tutta la vita, fino alla morte.</span>
 
-Nasce così la **psicologia dello sviluppo**, definita come:
-
-> *«Studio dei cambiamenti sistematici che caratterizzano l'evoluzione psicologica di ciascun individuo nel corso dell'intera vita.»* (Barone, 2018)
+Nasce così la <span class="c-def">**psicologia dello sviluppo**, definita come: *«Studio dei cambiamenti sistematici che caratterizzano l'evoluzione psicologica di ciascun individuo nel corso dell'intera vita.»* (Barone, 2018)</span>
 
 Il focus si sposta: non interessa più il *prodotto* (cosa diventa la persona), ma il **processo** — come avvengono i cambiamenti.
 
-Nella stessa epoca nasce anche la **gerontologia**: lo studio scientifico dell'invecchiamento e degli adulti in età avanzata. Finalmente anche la vecchiaia entra nel radar della ricerca.
+Nella stessa epoca nasce anche la <span class="c-def">**gerontologia**: lo studio scientifico dell'invecchiamento e degli adulti in età avanzata.</span> Finalmente anche la vecchiaia entra nel radar della ricerca.
 
 ---
 
@@ -33,7 +39,7 @@ Cosa c'è di problematico in questa rappresentazione?
 - **Simmetria artificiale**: 10 anni e 90 anni sullo stesso scalino — come se avessero lo stesso peso di esperienza e vissuto.
 - **Nega l'individualità**: ogni persona segue lo stesso percorso rigido, senza tener conto delle differenze individuali.
 
-La prof sottolinea che questa visione non è solo storia: **molti degli anziani di oggi sono cresciuti in questo contesto culturale**. Questo spiega perché certe persone anziane facciano fatica a chiedere aiuto — lo vivono come un'umiliazione, come perdere il loro ruolo. Per chi lavora nel sociale, ignorare questo retroterra culturale può portare a interventi che peggiorano il disagio invece di alleviarlo.
+<span class="c-impl">La prof sottolinea che questa visione non è solo storia: **molti degli anziani di oggi sono cresciuti in questo contesto culturale**. Questo spiega perché certe persone anziane facciano fatica a chiedere aiuto — lo vivono come un'umiliazione, come perdere il loro ruolo.</span> Per chi lavora nel sociale, ignorare questo retroterra culturale può portare a interventi che peggiorano il disagio invece di alleviarlo.
 
 ---
 
@@ -45,11 +51,9 @@ La scala della vita è stata affiancata nel '900 dalla **metafora della collina*
 - Il bambino era "un adulto incompleto" a cui mancano ancora delle competenze.
 - L'anziano era "un adulto che ha perso competenze".
 
-Oggi questa metafora è stata sostituita dalla **metafora del fiume** (Schroors, 1998):
+<span class="c-tesi">Oggi questa metafora è stata sostituita dalla **metafora del fiume** (Schroors, 1998): scorrendo verso valle, il fiume aumenta la sua portata, diminuisce la velocità in relazione al terreno su cui scorre. Il fiume modella il terreno su cui scorre — e a sua volta è modificato dal terreno.</span>
 
-> *Scorrendo verso valle, il fiume aumenta la sua portata, diminuisce la velocità in relazione al terreno su cui scorre, agli affluenti, alla piovosità della stagione. Il fiume modella il terreno su cui scorre — e a sua volta è modificato dal terreno.*
-
-Pensala così: sei un corso d'acqua che parte da una sorgente e scorre verso il mare. Non sali e non scendi — scorri, ti adatti, modifichi il terreno che attraversi. Gli **affluenti** sono le persone che incontri, le esperienze che ti arricchiscono, i nuovi apprendimenti. I **ruscelli che si staccano** sono quello che doni agli altri. La **pioggia abbondante** può essere un evento destabilizzante che ti fa uscire dagli argini — ma anche quello fa parte del percorso.
+<span class="c-es">Pensala così: sei un corso d'acqua che parte da una sorgente e scorre verso il mare. Non sali e non scendi — scorri, ti adatti, modifichi il terreno che attraversi. Gli **affluenti** sono le persone che incontri, le esperienze che ti arricchiscono, i nuovi apprendimenti. I **ruscelli che si staccano** sono quello che doni agli altri. La **pioggia abbondante** può essere un evento destabilizzante che ti fa uscire dagli argini — ma anche quello fa parte del percorso.</span>
 
 Questa visione è molto più onesta: la vita non ha un "picco" dopo cui tutto declina, ma è un processo continuo con guadagni e perdite in ogni fase.
 
@@ -57,7 +61,7 @@ Questa visione è molto più onesta: la vita non ha un "picco" dopo cui tutto de
 
 ## Life Span Psychology — Paul Baltes
 
-La teoria che formalizza questo cambio di prospettiva si chiama **Life Span Psychology**, sviluppata da **Paul Baltes** a partire dalla fine degli anni '70.
+<span class="c-def">La teoria che formalizza questo cambio di prospettiva si chiama **Life Span Psychology**, sviluppata da **Paul Baltes** a partire dalla fine degli anni '70.</span>
 
 > *«Si tratta di un approccio allo studio del comportamento umano che enfatizza lo sviluppo e il cambiamento della persona lungo l'intero arco della vita, rappresentandoli come sequenza di eventi strettamente intrecciati tra loro e con il contesto biologico, sociale, storico e culturale ove l'individuo opera.»* (Palmonari, 2011)
 
@@ -69,8 +73,8 @@ Tre grandi contributi della Life Span Psychology:
 
 ### Metodi di ricerca: trasversale vs. longitudinale
 
-- **Studio trasversale**: si confrontano gruppi a età diverse nello stesso momento (es. adolescenti vs. adulti vs. anziani). Rapido, ma risente delle differenze individuali tra i gruppi.
-- **Studio longitudinale**: si segue la stessa persona nel tempo. Massima coerenza individuale, ma richiede anni e si rischia di perdere partecipanti lungo il percorso.
+- <span class="c-def">**Studio trasversale**: si confrontano gruppi a età diverse nello stesso momento (es. adolescenti vs. adulti vs. anziani). Rapido, ma risente delle differenze individuali tra i gruppi.</span>
+- <span class="c-def">**Studio longitudinale**: si segue la stessa persona nel tempo. Massima coerenza individuale, ma richiede anni e si rischia di perdere partecipanti lungo il percorso.</span>
 
 ### I 7 principi fondamentali
 
@@ -92,20 +96,20 @@ Tre grandi contributi della Life Span Psychology:
 
 Conoscere la biografia di Erikson aiuta a capire *perché* si è interessato allo sviluppo dell'identità. È uno di quei casi in cui la vita dello studioso è già dentro la teoria.
 
-- Nasce nel **1902 a Francoforte** come **Eric Homburg**, figlio illegittimo. Non ha mai conosciuto il padre biologico; il cognome era quello del marito della madre.
+- Nasce nel <span class="c-dato">**1902 a Francoforte**</span> come **Eric Homburg**, figlio illegittimo. Non ha mai conosciuto il padre biologico; il cognome era quello del marito della madre.
 - Vuole studiare arte e viaggiare, ma la famiglia lo spinge verso la medicina. Si oppone e parte.
 - Viaggia in Germania e poi in **Italia** — in preda a una **crisi d'identità** profonda.
-- Arriva a **Vienna**, insegna arte e incontra **Anna Freud** (figlia di Sigmund), che lo introduce alla psicoanalisi.
-- Nel **1933** si trasferisce a **Boston**, dove diventa il **primo psicanalista infantile** della città.
-- Nello stesso anno acquisisce la nazionalità americana e si dà da solo il nome **Erik Erikson** — letteralmente "figlio di Erik". Un uomo che si inventa un'identità nuova.
-- Lavora come psicanalista e docente fino alla morte nel **1994**.
+- Arriva a <span class="c-dato">**Vienna**</span>, insegna arte e incontra **Anna Freud** (figlia di Sigmund), che lo introduce alla psicoanalisi.
+- Nel <span class="c-dato">**1933**</span> si trasferisce a **Boston**, dove diventa il **primo psicanalista infantile** della città.
+- <span class="c-es">Nello stesso anno acquisisce la nazionalità americana e si dà da solo il nome **Erik Erikson** — letteralmente "figlio di Erik". Un uomo che si inventa un'identità nuova.</span>
+- Lavora come psicanalista e docente fino alla morte nel <span class="c-dato">**1994**</span>.
 
 ### La teoria: le basi
 
 Erikson condivide le fondamenta della **teoria freudiana**, ma ritiene che manchi una dimensione essenziale: quella **sociale**. La sua teoria integra quindi maturazione biologica e contesto sociale in un unico modello.
 
 Tre pilastri:
-- Lo sviluppo è un **continuo processo di integrazione tra maturazione biologica e appartenenza al sistema sociale**.
+- <span class="c-tesi">Lo sviluppo è un **continuo processo di integrazione tra maturazione biologica e appartenenza al sistema sociale**.</span>
 - La maturazione fisica porta nuove possibilità, ma anche nuove **richieste da parte della società** (es. il bambino che impara a parlare: la famiglia inizia ad aspettarsi che chieda le cose a parole).
 - I **cicli vitali** funzionano come un ingranaggio: il bambino nasce dipendente e ha bisogno di cure; l'adulto sente il bisogno di prendersi cura. In teoria si incastrano — in pratica non sempre.
 
@@ -114,21 +118,21 @@ Tre pilastri:
 Erikson studia le persone **in azione**, nel loro contesto naturale. Usa:
 - **Osservazione diretta** dei bambini.
 - **Confronti tra culture** (ha viaggiato molto, cercando elementi ricorrenti nelle diverse culture).
-- **Psicobiografie**: analisi psicologica di biografie di personaggi famosi, per seguire lo sviluppo della persona nel tempo.
+- <span class="c-def">**Psicobiografie**: analisi psicologica di biografie di personaggi famosi, per seguire lo sviluppo della persona nel tempo.</span>
 
 ---
 
 ## Gli 8 stadi dello sviluppo psico-sociale
 
-La vita si articola in **8 stadi**, ognuno con un **compito evolutivo** e un **conflitto bipolare** tra polo positivo e polo negativo.
+La vita si articola in <span class="c-def">**8 stadi**, ognuno con un **compito evolutivo** e un **conflitto bipolare** tra polo positivo e polo negativo.</span>
 
 ### Il meccanismo centrale — da sapere bene
 
-> *Lo sviluppo ottimale è quello in cui la persona esce da ogni fase sbilanciata sul polo positivo, integrando la parte positiva del polo negativo.*
+> <span class="c-tesi">*Lo sviluppo ottimale è quello in cui la persona esce da ogni fase sbilanciata sul polo positivo, integrando la parte positiva del polo negativo.*</span>
 
 Non si tratta di "vincere" il polo positivo. Il polo negativo ha una funzione — e saper prenderne la parte utile è ciò che rende la persona equilibrata e resiliente.
 
-Se una fase non viene superata in modo ottimale, quella criticità si porta avanti nelle fasi successive. Ma Erikson è **ottimista**: il recupero è sempre possibile grazie alle esperienze e alle figure di riferimento che si incontrano nel percorso. Questo è il fondamento del senso del lavoro educativo e sociale.
+<span class="c-impl">Se una fase non viene superata in modo ottimale, quella criticità si porta avanti nelle fasi successive. Ma Erikson è **ottimista**: il recupero è sempre possibile grazie alle esperienze e alle figure di riferimento che si incontrano nel percorso.</span> Questo è il fondamento del senso del lavoro educativo e sociale.
 
 ---
 
@@ -138,7 +142,7 @@ Se una fase non viene superata in modo ottimale, quella criticità si porta avan
 
 - **Polo +**: fiducia di base, il bambino si fida di chi lo nutre e lo cura.
 - **Polo −**: sfiducia, il bambino non si fida.
-- **Integrazione ottimale**: il bambino impara a fidarsi di chi lo accudisce, *ma* apprende anche che non ci si fida di tutti indistintamente. Quella componente di sfiducia è protettiva.
+- <span class="c-es">**Integrazione ottimale**: il bambino impara a fidarsi di chi lo accudisce, *ma* apprende anche che non ci si fida di tutti indistintamente. Quella componente di sfiducia è protettiva.</span>
 
 ---
 
@@ -148,7 +152,7 @@ Se una fase non viene superata in modo ottimale, quella criticità si porta avan
 
 - **Polo +**: autonomia ("faccio io!").
 - **Polo −**: vergogna e dubbio quando non riesce.
-- **Integrazione ottimale**: il bambino sperimenta piccole frustrazioni senza che queste blocchino la spinta all'autonomia. Attenzione: reprimere sistematicamente questa spinta può far prevalere il polo del dubbio ("non sono capace").
+- **Integrazione ottimale**: il bambino sperimenta piccole frustrazioni senza che queste blocchino la spinta all'autonomia. <span class="c-warn">Attenzione: reprimere sistematicamente questa spinta può far prevalere il polo del dubbio ("non sono capace").</span>
 
 ---
 
@@ -180,7 +184,7 @@ Se una fase non viene superata in modo ottimale, quella criticità si porta avan
 - **Polo −**: confusione dei ruoli.
 - **Integrazione ottimale**: l'adolescente ha spazio per sperimentare (diversi interessi, ruoli, percorsi) senza che gli venga imposta un'unica via. Se viene obbligato, rischia la confusione.
 
-Connessione diretta con la vita di Erikson: lui stesso fu obbligato a studiare medicina, e fu la crisi d'identità che lo spinse a viaggiare e poi a sviluppare questa teoria.
+<span class="c-es">Connessione diretta con la vita di Erikson: lui stesso fu obbligato a studiare medicina, e fu la crisi d'identità che lo spinse a viaggiare e poi a sviluppare questa teoria.</span>
 
 ---
 
@@ -202,7 +206,7 @@ Connessione diretta con la vita di Erikson: lui stesso fu obbligato a studiare m
 - **Polo −**: stagnazione — routine immobile, nessun interesse per il futuro.
 - **Integrazione ottimale**: anche la stagnazione può diventare la spinta a cambiare qualcosa. La cosiddetta **crisi di mezza età** si colloca qui.
 
-Nota: molti teorici contemporanei propongono di unire gli stadi 6 e 7 in un'unica fase adulta, poiché i bisogni di intimità e creatività coesistono durante tutta l'età adulta.
+<span class="c-warn">Nota: molti teorici contemporanei propongono di unire gli stadi 6 e 7 in un'unica fase adulta, poiché i bisogni di intimità e creatività coesistono durante tutta l'età adulta.</span>
 
 ---
 
@@ -212,11 +216,11 @@ Nota: molti teorici contemporanei propongono di unire gli stadi 6 e 7 in un'unic
 
 - **Polo +**: integrità dell'Io — accettare la propria vita com'è stata.
 - **Polo −**: disperazione — focalizzarsi su ciò che non si è realizzato, senza riuscire ad accettarlo.
-- **Integrazione ottimale**: "Avrei voluto fare quella cosa, ma non ho potuto per motivi che spesso non dipendevano da me. Ho però fatto tante altre cose." Accettazione, non rassegnazione.
+- <span class="c-es">**Integrazione ottimale**: "Avrei voluto fare quella cosa, ma non ho potuto per motivi che spesso non dipendevano da me. Ho però fatto tante altre cose." Accettazione, non rassegnazione.</span>
 
 La prof nota che questo bilancio non avviene *solo* a 60 anni: lo facciamo continuamente nel corso della vita. Erikson lo colloca formalmente nell'anzianità, ma in realtà è un processo continuo.
 
-Punto importante per il futuro del lavoro: perdita cognitiva nell'anzianità **non è un destino inevitabile**. Le neuroscienze mostrano che alcune funzioni cognitive si mantengono o addirittura migliorano dopo i 60, se si rimane attivi (stile di vita, attività fisica, stimolazione cognitiva).
+<span class="c-impl">Punto importante per il futuro del lavoro: perdita cognitiva nell'anzianità **non è un destino inevitabile**. Le neuroscienze mostrano che alcune funzioni cognitive si mantengono o addirittura migliorano dopo i 60, se si rimane attivi (stile di vita, attività fisica, stimolazione cognitiva).</span>
 
 ---
 
@@ -235,19 +239,19 @@ Erikson ha applicato la sua teoria a:
 
 | Termine | Significato |
 |---------|-------------|
-| **Psicologia dell'età evolutiva** | Studio dello sviluppo dall'infanzia all'adolescenza (visione storica, pre-'900) |
-| **Psicologia dello sviluppo** | Studio dei cambiamenti psicologici sull'intero arco della vita |
-| **Gerontologia** | Studio scientifico dell'invecchiamento e degli adulti in età avanzata |
-| **Life Span Psychology** | Approccio di Baltes: sviluppo come processo continuo per tutta la vita |
+| <span class="c-def">**Psicologia dell'età evolutiva**</span> | Studio dello sviluppo dall'infanzia all'adolescenza (visione storica, pre-'900) |
+| <span class="c-def">**Psicologia dello sviluppo**</span> | Studio dei cambiamenti psicologici sull'intero arco della vita |
+| <span class="c-def">**Gerontologia**</span> | Studio scientifico dell'invecchiamento e degli adulti in età avanzata |
+| <span class="c-def">**Life Span Psychology**</span> | Approccio di Baltes: sviluppo come processo continuo per tutta la vita |
 | **Metafora della collina** | Sviluppo come ascesa fino all'apice adulto, poi discesa |
 | **Metafora del fiume** | Sviluppo come percorso unico, interattivo con il contesto |
-| **Plasticità** | Capacità del percorso di sviluppo di modificarsi grazie a esperienze e condizioni di vita |
-| **Studio trasversale** | Ricerca su più gruppi a età diverse nello stesso momento |
-| **Studio longitudinale** | Ricerca sulla stessa persona seguita nel tempo |
-| **Conflitto bipolare** | Tensione tra polo positivo e polo negativo in ogni stadio di Erikson |
-| **Sviluppo ottimale** | Uscire da una fase sbilanciati sul polo positivo, integrando la parte utile del polo negativo |
-| **Generatività / Creatività** | Desiderio dell'adulto di trasmettere qualcosa alle generazioni future (stadio 7) |
-| **Psicobiografia** | Analisi psicologica della biografia di un personaggio famoso |
+| <span class="c-def">**Plasticità**</span> | Capacità del percorso di sviluppo di modificarsi grazie a esperienze e condizioni di vita |
+| <span class="c-def">**Studio trasversale**</span> | Ricerca su più gruppi a età diverse nello stesso momento |
+| <span class="c-def">**Studio longitudinale**</span> | Ricerca sulla stessa persona seguita nel tempo |
+| <span class="c-def">**Conflitto bipolare**</span> | Tensione tra polo positivo e polo negativo in ogni stadio di Erikson |
+| <span class="c-def">**Sviluppo ottimale**</span> | Uscire da una fase sbilanciati sul polo positivo, integrando la parte utile del polo negativo |
+| <span class="c-def">**Generatività / Creatività**</span> | Desiderio dell'adulto di trasmettere qualcosa alle generazioni future (stadio 7) |
+| <span class="c-def">**Psicobiografia**</span> | Analisi psicologica della biografia di un personaggio famoso |
 
 ---
 

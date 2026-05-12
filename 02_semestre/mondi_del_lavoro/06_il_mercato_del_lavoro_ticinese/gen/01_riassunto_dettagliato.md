@@ -187,9 +187,9 @@ settimane al mese):
 
 | | Salario mediano 2024 |
 |--|---------------------|
-| Svizzera (settore privato) | 6.722 fr. |
+| Svizzera (settore privato) | 6.778 fr. |
 | Ticino (settore privato) | 5.393 fr. |
-| **Differenza** | **-1.385 fr. (-20,6%)** |
+| **Differenza** | **-1.385 fr. (-25,8%)** |
 
 Attraverso un'analisi statistica di scomposizione (che controlla le caratteristiche dei
 lavoratori — età, formazione, settore, ecc.):
@@ -306,8 +306,7 @@ settore a livello nazionale lamentava difficoltà di reclutamento. È uno dei se
 ## Il contesto regionale: il Ticino non è un'isola
 
 Il concetto più importante dell'intera lezione: il Ticino non può essere capito senza guardare
-al contesto delle **province lombarde limitrofe** (Milano, Como, Varese, Lecco), che contano
-circa **2 milioni di persone**.
+al contesto delle **province lombarde limitrofe**, che contano circa **2 milioni di persone**.
 
 Questa massa di lavoratori potenziali — con costo della vita inferiore al Ticino e quindi
 disposti ad accettare salari più bassi — ha definito strutturalmente il mercato del lavoro
@@ -389,6 +388,28 @@ usare nelle interviste sul campo. I principi chiave:
 | **Frontalieri** | Lavoratori residenti nelle province italiane limitrofe che lavorano in Ticino |
 | **Accordi bilaterali** | Accordi CH-UE sulla libera circolazione delle persone (entrata graduale dal 2000-2004) |
 | **Accordo fiscale frontalieri** | Accordo 2023 che modifica la tassazione dei frontalieri — ha contribuito al calo recente |
+
+---
+
+## Domande di orientamento allo studio
+
+**Qual è la differenza tra occupato secondo il concetto ILO e occupato secondo un approccio intuitivo?**
+Secondo l'ILO è occupato chiunque abbia lavorato almeno un'ora contro remunerazione nella settimana di riferimento, oppure fosse temporaneamente assente (max 3 mesi o con almeno il 50% del salario mantenuto), oppure abbia collaborato in un'azienda familiare senza retribuzione. Questa definizione internazionale è utile per i confronti tra paesi, ma spesso sorprende perché basta un'ora per essere "occupati" — e non tiene conto di chi lavora pochissimo ma vorrebbe lavorare di più (i sottoccupati).
+
+**Quali sono le tre condizioni che devono valere simultaneamente perché una persona sia considerata disoccupata secondo l'ILO?**
+Una persona è disoccupata ILO se, nella settimana di riferimento, non era occupata, e nelle quattro settimane precedenti ha cercato attivamente un posto di lavoro, e era disponibile a iniziare subito. Se anche una sola delle tre condizioni manca, la persona non è classificata come disoccupata ma come inattiva. Questo è importante: uno studente che aspetta di finire gli studi non è disoccupato, è inattivo.
+
+**Qual è la differenza tra la definizione ILO e quella SECO di disoccupato, e perché esistono entrambe?**
+L'ILO misura il fenomeno economico reale della mancanza di lavoro, indipendentemente dall'iscrizione a uffici pubblici. La SECO conta chi è iscritto ai servizi di collocamento (LADI) — un approccio amministrativo/assicurativo. Le due misure non sono in contraddizione: l'ILO è più efficace per capire la struttura del mercato, mentre la SECO è più rapida e utile per le analisi congiunturali di breve periodo.
+
+**Perché il Ticino ha salari strutturalmente più bassi rispetto al resto della Svizzera?**
+Il divario salariale tra Ticino (-1.385 fr. di mediana mensile nel settore privato, -25,8%) e resto della Svizzera ha radici storiche legate al contesto transfrontaliero. I lavoratori delle province lombarde limitrofe (circa 2 milioni di persone) hanno un costo della vita inferiore al Ticino e sono quindi disposti ad accettare salari più bassi. Questo ha ridotto storicamente la pressione delle aziende ticinesi ad alzare i salari per essere competitive. L'analisi di scomposizione mostra che -23,0% del divario è spiegato da differenze strutturali (settori, profili dei lavoratori, dimensione aziendale), mentre il restante -2,8% non è spiegato da fattori oggettivi misurabili.
+
+**Quali sono i principali trend del mercato del lavoro ticinese negli ultimi 10 anni?**
+Tre trend dominano: (1) la crescita del lavoro a tempo parziale (+39,0% in 10 anni vs +6,2% del tempo pieno), con il part-time che ha raggiunto il 36,1% dei posti nel 2025; (2) la crescita fortissima dei frontalieri tra il 2005 e il 2015 (+79,9%), rallentata ma ancora positiva tra il 2015 e il 2025 (+23,2%), ora in calo per effetto dell'accordo fiscale 2023; (3) l'aumento degli inattivi (+7,2% dal 2015), trainato dall'invecchiamento demografico (pensionati +12,8%), che crea una pressione crescente sulla disponibilità di manodopera.
+
+**Perché il settore della sanità e dell'assistenza sociale è particolarmente rilevante per chi studia lavoro sociale, e quali sfide affronta?**
+Il settore rappresenta il 13,9% dei posti di lavoro in Ticino ed è tra i più in espansione (+52,2% sanità e +50,8% assistenza sociale in addetti dal 2011). I salari sono sopra la mediana cantonale (6.408 fr. sanità, 6.051 fr. assistenza). Tuttavia soffre più di altri la carenza di manodopera: nel quarto trimestre 2025, il 53,0% delle aziende nazionali del settore lamentava difficoltà di reclutamento. Il part-time è strutturale (74% di tempo di lavoro medio). La sfida demografica dei prossimi anni — più persone che escono dal mercato del lavoro di quante ne entrano — renderà questa carenza ancora più acuta.
 
 ---
 

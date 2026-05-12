@@ -148,6 +148,7 @@ Mondi del Lavoro · Sessione 08
 | Chi | Cosa | Quando |
 |---|---|---|
 | Prof. Paolo Barcella | Relatore, storico, Univ. Bergamo | Lezione 20.04.2026 |
+| E.H. Carr | Storico britannico; *Sei lezioni di storia* — sulla dimensione soggettiva nell'analisi storica | Citato a lezione |
 | Legge federale CH | Prima definizione sistematica del frontaliere | 1931 |
 | Legge lavoro fabbrica | Canton San Gallo → poi federale | 1864 → 1877 |
 | Campagne Schwarzenbach | Iniziative per limitare stranieri (frontalieri esclusi) | Fine anni '60 - inizio '70 |

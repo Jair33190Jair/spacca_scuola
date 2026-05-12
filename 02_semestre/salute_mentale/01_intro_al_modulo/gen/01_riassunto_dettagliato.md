@@ -1,5 +1,14 @@
 # Introduzione al modulo di Salute Mentale
 
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🟡 Oro    #D4AC0D → Connessione / implicazione
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+-->
+
 Salute Mentale · Sessione 01 · 18.02.2026
 
 > Questa prima lezione mette sul tavolo le fondamenta
@@ -37,7 +46,7 @@ e in un tempo, l'identità va declinata nella
 relazione, e prima della relazione viene l'incontro
 — senza il quale la relazione non sussiste.
 
-Il prof sottolinea un punto chiave: l'operatore
+`<span class="c-tesi">`Il prof sottolinea un punto chiave: l'operatore
 sociale non è un tecnico di una sola disciplina,
 ma un **trait d'union** tra le specializzazioni.
 Per questo serve una conoscenza delle aree
@@ -46,20 +55,20 @@ comunicare con le altre figure professionali e
 per accompagnare la persona nella sua interezza.
 
 Vale la pena fermarsi sulla parola **clinica**:
-viene dal greco *klinein*, "chinarsi". La clinica
+viene dal greco *klinein*, "chinarsi". `<span class="c-def">`La clinica
 è, radicalmente, l'atto di chinarsi sul letto
 — reale o metaforico — di chi soffre. È un atto
 di umiltà e premura verso l'altro nella sua
 condizione di *patente* (chi porta su di sé il
 proprio patire). Questa etimologia non è un
 dettaglio: definisce l'approccio di tutto il modulo.
-(Callieri & C., 1999)
+(`<span class="c-dato">`Callieri & C., 1999)
 
 ---
 
 ## Salute, benessere, normalità: tre concetti da non confondere
 
-Uno dei messaggi centrali della lezione: **salute,
+`<span class="c-tesi">`Uno dei messaggi centrali della lezione: **salute,
 benessere e normalità sono tre cose diverse** che
 spesso vengono confuse o sovrapposte. Vediamole
 una per una.
@@ -74,7 +83,7 @@ oppure puoi rispondere "mi sento bene" senza nessun
 esame (approccio soggettivo, *illness*). Non sono la
 stessa cosa.
 
-Introduce il lavoro di **Christopher Boorse (1977)**,
+Introduce il lavoro di `<span class="c-dato">`**Christopher Boorse (1977)**,
 che nel suo articolo ha tentato di definire la salute
 esaminando sette possibili condizioni — dimostrando
 che **nessuna da sola regge**:
@@ -89,7 +98,7 @@ che **nessuna da sola regge**:
 | **Salute come adattamento**               | L'essere umano adatta anche l'ambiente a sé. Pensate alle neurodivergenze: a volte è l'ambiente che va cambiato                     |
 | **Salute come omeostasi**                 | Il funzionamento umano si basa su un continuo perdere e riacquistare equilibrio. L'equilibrio statico è rigidità                    |
 
-L'ultimo punto merita attenzione. Il prof insiste:
+L'ultimo punto merita attenzione. `<span class="c-tesi">`Il prof insiste:
 **l'equilibrio statico non è salute, è rigidità**.
 La metafora è bellissima: camminare richiede di
 rompere continuamente l'equilibrio. Per fare un
@@ -110,39 +119,38 @@ rigide, poco disposte a rischiare."
 Per ordinare le idee sulla salute, il prof introduce
 la distinzione in tre dimensioni:
 
-- **Disease** — la malattia in senso biomedico,
+- `<span class="c-def">`**Disease** — la malattia in senso biomedico,
   misurabile (esami, parametri clinici)
-- **Illness** — il vissuto soggettivo: come la
+- `<span class="c-def">`**Illness** — il vissuto soggettivo: come la
   persona *si sente*
-- **Sickness** — la dimensione sociale: come la
+- `<span class="c-def">`**Sickness** — la dimensione sociale: come la
   società riconosce (o stigmatizza) quella condizione
 
-Queste tre dimensioni **possono non coincidere**.
+`<span class="c-impl">`Queste tre dimensioni **possono non coincidere**.
 Una malattia può essere tale per il medico (disease)
 ma non vissuta come tale dal soggetto (illness),
 oppure può essere vista dalla società come un vizio
 (sickness negativa) anche se è una malattia vera.
 
-Questo è importante per il lavoro sociale: lo sguardo
+`<span class="c-warn">`Questo è importante per il lavoro sociale: lo sguardo
 della società su una condizione ha effetti reali sul
 benessere della persona. Se hai una malattia che viene
 giudicata come "vizio" o "colpa", la stigmatizzazione
-peggiora tutto — come mostrava già il racconto
-di apertura della lezione. [?]
+peggiora tutto.
 
 ---
 
 ## Il benessere: un concetto multidimensionale
 
 **Salute e benessere non coincidono.** Il prof porta
-l'esempio di **Tiziano Terzani** e del suo libro
+l'esempio di `<span class="c-es">`**Tiziano Terzani** e del suo libro
 *L'ultimo giro di giostra*: un giornalista gravemente
 malato di cancro che attraverso la malattia ha trovato
 una pace e una ricchezza interiore che non aveva quando
 stava "bene". Paradossale? No, profondamente umano.
 
 Il benessere è un concetto **polisemico e
-multidimensionale**. **Carol Ryff** è una psicologa
+multidimensionale**. `<span class="c-dato">`**Carol Ryff** è una psicologa
 che ha risposto alla domanda: "Quando diciamo che
 una persona sta bene, di *cosa* esattamente stiamo
 parlando?" La risposta: di sei dimensioni distinte.
@@ -156,24 +164,11 @@ parlando?" La risposta: di sei dimensioni distinte.
 | **Percezione di crescita** | Sentire che la propria vita è un processo continuo di sviluppo                         |
 | **Scopo nella vita**       | Avere mete, riuscire a dare senso a ciò che si fa                                      |
 
-Questo modello è prezioso per l'operatore sociale
+`<span class="c-tesi">`Questo modello è prezioso per l'operatore sociale
 perché rende il lavoro sul benessere **concreto**.
 Invece di un generico "lavoro per il benessere",
 puoi esplorare *quale* dimensione è più critica
-e intervenire lì. Il prof fa un esempio: se lavori
-sull'autonomia di qualcuno (aiutarlo a fare scelte
-proprie), quello starà meglio — anche senza sapere
-perché. Il prodotto è quello che conta.
-
-Se in un momento la persona non riesce a lavorare
-sulle relazioni, si compensa sulle altre dimensioni.
-È un gioco di variabili, non tutto insieme.
-
-Il prof aggiunge: **vale anche per noi**, non solo
-per i nostri utenti. Se guardiamo indietro alla
-nostra vita e vediamo solo disastri, non stiamo bene.
-Se riusciamo a vedere crescita e senso, anche nelle
-difficoltà, il benessere aumenta.
+e intervenire lì.
 
 ---
 
@@ -184,25 +179,18 @@ rilevanti per il lavoro con le persone.
 
 ### 1. Norma statistica
 
-La "normalità" come conformità alla media della
-popolazione. Sembra neutro, ma non lo è: essere
+`<span class="c-def">`La "normalità" come conformità alla media della
+popolazione. `<span class="c-warn">`Sembra neutro, ma non lo è: essere
 fuori dalla norma statistica può provocare stigma,
 isolamento, discriminazione. L'omosessualità è stata
 a lungo classificata come patologia proprio su base
 statistica — e solo quando la comunità scientifica
 ha cambiato i criteri ne è uscita.
 
-Il contesto è fondamentale: qualsiasi comportamento,
-senza contesto, può sembrare "anormale".
-
 ### 2. Norma di valore (ideale)
 
 Uno standard ideale che si pone come riferimento.
-Se il mio ideale è un certo tipo di corpo, starò
-male finché non ci corrispondo. Ed è un ideale
-*irraggiungibile*, quindi la sofferenza è perpetua.
-
-**Attenzione**: la norma ideale incide anche sugli
+`<span class="c-warn">`**Attenzione**: la norma ideale incide anche sugli
 operatori. Abbiamo ideali su come dovrebbe essere
 un utente, come dovrebbe comportarsi, cosa dovrebbe
 raggiungere. Se quella norma ideale diventa il metro
@@ -211,24 +199,14 @@ la relazione.
 
 ### 3. Norma personale (individuale)
 
-La normalità *rispetto a come funzionavo prima*.
-Se mi rompo una gamba, non sono più "normale" rispetto
-al mio funzionamento precedente. Questa dimensione
-è importante clinicamente: capire com'era il soggetto
-prima dell'evento permette di comprendere il
-cambiamento.
-
+`<span class="c-def">`La normalità *rispetto a come funzionavo prima*.
 Ma il prof aggiunge un avvertimento cruciale:
-**la normalità personale non è sempre da riconquistare**.
+`<span class="c-warn">`**la normalità personale non è sempre da riconquistare**.
 A volte è proprio quella "normalità" precedente che
 ha causato il problema. Esempio: "Lavoravo 10 ore
 al giorno, gestivo tutto, poi mi sono ammalato —
 voglio tornare come prima." Forse no. Se torni come
 eri prima, tra un mese ci rivediamo peggio.
-
-C'è anche il rischio di **idealizzare il passato**:
-"Prima stavo bene" — ma siamo sicuri? O è solo che
-in confronto a oggi sembra il paradiso?
 
 ---
 
@@ -244,7 +222,7 @@ pone rispetto alla propria condizione.
   la mia malattia, è qualcosa di estraneo"
 - *Mi identifico*: "La mia condizione fa parte di me"
 
-**Asse 2 — Agentività** (termine tecnico dal greco):
+**Asse 2 — `<span class="c-def">`Agentività** (termine tecnico dal greco):
 
 - *Agentivo* (attivo): affronto la situazione,
   mi muovo, cerco alleati
@@ -257,7 +235,7 @@ Incrociando i due assi si ottengono quattro posizioni:
 | **Passivo**  | **Delega**: "Faccia lei, risolva lei"                | **Delega assistenziale**: aspetta che qualcuno si prenda cura |
 | **Agentivo** | **Guarigione**: combatte per eliminare la condizione | **Cura**: lavora sul proprio benessere dentro la condizione   |
 
-Il passaggio chiave: quando il soggetto si identifica
+`<span class="c-impl">`Il passaggio chiave: quando il soggetto si identifica
 con la propria condizione e diventa agentivo, il
 paradigma passa dalla **guarigione** alla **cura**.
 Non si tratta più di eliminare la malattia (che a
@@ -268,15 +246,11 @@ volte non è possibile), ma di aumentare il benessere
 > curato."*
 > — Il professore
 
-La differenza tra *to cure* (terapia) e *to care*
+`<span class="c-tesi">`La differenza tra *to cure* (terapia) e *to care*
 (cura) è fondamentale per il lavoro sociale: la
 terapia non è sempre possibile, ma la cura — nel
 senso di prendersi cura del benessere della persona
 — è sempre praticabile.
-
-Nella realtà le persone si muovono tra i quadranti,
-soprattutto all'inizio della malattia. L'operatore
-accompagna questo movimento.
 
 ---
 
@@ -287,7 +261,7 @@ include un lavoro su **cinque tragedie greche**.
 
 ### Perché la tragedia?
 
-La tragedia greca nasce insieme alla medicina antica
+`<span class="c-tesi">`La tragedia greca nasce insieme alla medicina antica
 (Ippocrate) e mette in scena la sofferenza umana —
 quella difficile da spiegare e a volte da comprendere.
 Assistere alla tragedia faceva emergere emozioni e
@@ -298,39 +272,12 @@ La tragedia parla dei **confini dell'umano**: la
 morte, la malattia, la follia. Il prof distingue
 gli approcci dei tre grandi tragediografi:
 
-- **Eschilo** — il più arcaico: la follia arriva
+- `<span class="c-dato">`**Eschilo** — il più arcaico: la follia arriva
   dagli dèi, è una forza esterna che schiaccia
-- **Sofocle** — il tragico non arriva dagli dèi,
+- `<span class="c-dato">`**Sofocle** — il tragico non arriva dagli dèi,
   è la vita stessa che è tragica
-- **Euripide** — il più moderno: il tragico nasce
+- `<span class="c-dato">`**Euripide** — il più moderno: il tragico nasce
   dalle relazioni tra le persone
-
-A secoli di distanza, la tragedia "resta fedele
-a se stessa" — perché tocca qualcosa di profondo
-nell'umano che non cambia nei secoli.
-
-### L'esercizio pedagogico
-
-Gli studenti sono divisi in **5 gruppi**, ciascuno
-con una tragedia assegnata per estrazione. Il lavoro
-prevede:
-
-1. **Leggere** la tragedia — esporsi a un linguaggio
-   non familiare della sofferenza, proprio come
-   accade quando si incontra un paziente che parla
-   una "lingua" diversa dalla nostra
-2. **Condividere** nel gruppo — cosa ti ha parlato?
-   Quali temi ti hanno colpito?
-3. **Sintetizzare** — trovare un messaggio comune,
-   con le inevitabili rinunce individuali (esercizio
-   di équipe reale)
-4. **Andare in scena** — non uno "spettacolino",
-   ma portare temi salienti a una platea
-
-Il prof insiste: quello che deve arrivare al pubblico
-deve essere *vero* — deve essere passato attraverso
-l'umanità di chi lo porta in scena. Se non c'è quella
-verità, si sente.
 
 ### Le tragedie di quest'anno
 
@@ -338,21 +285,9 @@ Le docenti hanno scelto — indipendentemente —
 tragedie che convergono su un tema comune: la
 **violenza sulle donne nei conflitti armati**.
 
-- **Agamennone** (Eschilo) — Cassandra, prigioniera
-  di guerra e bottino sessuale
-- **Le Troiane** (Euripide) — Ecuba, Cassandra,
-  Andromaca: tre donne schiavizzate dopo la caduta
-  di Troia
-- **Andromaca** (Euripide) — la vittima di guerra
-  per eccellenza
-- **Le Trachinie** (Sofocle) — donne umiliate
-  e "rese mute" dalla violenza
-- **Aiace** (Sofocle) — la fragilità dietro
-  l'eroismo apparente
-
 Il prof collega esplicitamente queste storie ai dati
 odierni sulla violenza sessuale nei conflitti armati
-(Congo, Iraq, Rwanda), citando **Nadia Murad**,
+(Congo, Iraq, Rwanda), citando `<span class="c-dato">`**Nadia Murad**,
 Premio Nobel per la Pace e sopravvissuta alla
 schiavitù sessuale dell'ISIS. La tragedia greca
 non è storia lontana: è cronaca con un linguaggio
@@ -364,21 +299,21 @@ di 2500 anni fa.
 
 ## Concetti chiave
 
-| Termine                    | Significato                                                                                                            |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Clinica**          | Dal greco*klinein* ("chinarsi"): l'universo dell'incontro con chi soffre, fondato su umiltà e premura verso l'altro |
-| **Disease**          | Malattia in senso biomedico, misurabile con parametri clinici                                                          |
-| **Illness**          | Vissuto soggettivo della malattia, come la persona si sente                                                            |
-| **Sickness**         | Dimensione sociale della malattia, riconoscimento/stigma                                                               |
-| **Benessere**        | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo       |
-| **Norma statistica** | Normalità come conformità alla media della popolazione                                                               |
-| **Norma di valore**  | Normalità come conformità a un ideale                                                                                |
-| **Norma personale**  | Normalità rispetto al proprio funzionamento precedente                                                                |
-| **Agentività**      | Atteggiamento attivo del soggetto verso la propria condizione                                                          |
-| **Catarsi**          | Purificazione emotiva attraverso la partecipazione alla tragedia                                                       |
-| **Omeostasi**        | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio                          |
-| **To cure**          | Terapia: eliminare la malattia                                                                                         |
-| **To care**          | Cura: prendersi cura del benessere, sempre praticabile                                                                 |
+| Termine                                                     | Significato                                                                                                            |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| `<span class="c-def">`**Clinica**          | Dal greco*klinein* ("chinarsi"): l'universo dell'incontro con chi soffre, fondato su umiltà e premura verso l'altro |
+| `<span class="c-def">`**Disease**          | Malattia in senso biomedico, misurabile con parametri clinici                                                          |
+| `<span class="c-def">`**Illness**          | Vissuto soggettivo della malattia, come la persona si sente                                                            |
+| `<span class="c-def">`**Sickness**         | Dimensione sociale della malattia, riconoscimento/stigma                                                               |
+| `<span class="c-def">`**Benessere**        | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo       |
+| `<span class="c-def">`**Norma statistica** | Normalità come conformità alla media della popolazione                                                               |
+| `<span class="c-def">`**Norma di valore**  | Normalità come conformità a un ideale                                                                                |
+| `<span class="c-def">`**Norma personale**  | Normalità rispetto al proprio funzionamento precedente                                                                |
+| `<span class="c-def">`**Agentività**      | Atteggiamento attivo del soggetto verso la propria condizione                                                          |
+| `<span class="c-def">`**Catarsi**          | Purificazione emotiva attraverso la partecipazione alla tragedia                                                       |
+| `<span class="c-def">`**Omeostasi**        | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio                          |
+| `<span class="c-def">`**To cure**          | Terapia: eliminare la malattia                                                                                         |
+| `<span class="c-def">`**To care**          | Cura: prendersi cura del benessere, sempre praticabile                                                                 |
 
 ## Domande di orientamento allo studio
 
@@ -483,7 +418,7 @@ base del proprio mandato.
 
 ## Collegamenti
 
-- **Autori citati:** Christopher Boorse (1977),
+- **Autori citati:** `<span class="c-dato">`Christopher Boorse (1977),
   Carol Ryff, Tiziano Terzani (*L'ultimo giro di
   giostra*), Callieri & C. (1999), Nadia Murad,
   Guidorizzi (2010) — sulla follia nella tragedia

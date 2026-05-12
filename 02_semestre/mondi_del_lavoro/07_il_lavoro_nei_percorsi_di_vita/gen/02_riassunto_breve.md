@@ -21,7 +21,7 @@ Mondi del lavoro · Sessione 07
 - Il passato influenza il presente
 - Studi longitudinali mostrano effetti di lungo periodo (es. educazione nell'infanzia → migliori salari da adulti)
 - Carriere lavorative discontinue → rendite pensionistiche più basse → rischio povertà in vecchiaia
-- In Ticino (2022): gap pensionistico AVS/PP tra uomini e donne di oltre 23.000 CHF annui
+- In Ticino (2022): gap pensionistico AVS/PP tra uomini e donne di oltre 23.000 CHF annui [?da grafico USTAT]
 
 ### 2. Temporalità degli eventi
 - Non conta solo **se** un evento accade, ma **quando** nel percorso di vita accade
@@ -40,7 +40,7 @@ Mondi del lavoro · Sessione 07
 - Stessa formazione, epoche diverse → opportunità professionali diverse (es. crisi 2008 vs anni di crescita)
 - Nascere in Svizzera vs altrove: sistemi di formazione professionale e welfare diversi
 - Traiettorie professionali **de-standardizzate**: il modello lineare "formazione → lavoro → pensione" è sempre meno la norma
-- Le opinioni sulla divisione del lavoro cambiano con le generazioni (65+ anni: 31,6% ritiene che sia l'uomo a dover guadagnare; 15-29 anni: 14,2%)
+- Le opinioni sulla divisione del lavoro cambiano con le generazioni (65+ anni: ~31% [?] ritiene che sia l'uomo a dover guadagnare; 15-29 anni: ~14% [?] — valori da grafici)
 
 ### 5. Agency (Capacità di agire)
 - Gli individui non sono solo spettatori: possono influenzare attivamente il proprio percorso di vita

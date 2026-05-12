@@ -1,4 +1,12 @@
 # Sviluppo Cognitivo secondo Piaget
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🟡 Oro    #D4AC0D → Connessione / implicazione
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+-->
 I Tempi della Vita · Lezione 02 · A.A. 2025/2026
 
 > Jean Piaget è uno di quei pensatori che, una volta capito, cambia il modo in cui guardi i bambini — e forse anche te stesso. Questa lezione costruisce le fondamenta della sua teoria: come la mente si sviluppa, per stadi, attraverso un'interazione continua con il mondo. Fondamentale per il Lavoro Sociale perché ogni intervento con bambini e ragazzi passa da qui.
@@ -7,9 +15,9 @@ I Tempi della Vita · Lezione 02 · A.A. 2025/2026
 
 ## Chi era Piaget
 
-**Jean Piaget** (1896–1980) nasce a Neuchâtel, in Svizzera. Inizialmente si occupa di biologia ed evoluzione animale — un background che segna profondamente il suo pensiero: lo sviluppo cognitivo viene concepito come una forma di **adattamento biologico** all'ambiente, non diversa da quello che fa una pianta che orienta le radici verso l'acqua o ruota le foglie verso la luce.
+<span class="c-dato">**Jean Piaget** (1896–1980)</span> nasce a Neuchâtel, in Svizzera. Inizialmente si occupa di biologia ed evoluzione animale — un background che segna profondamente il suo pensiero: <span class="c-tesi">lo sviluppo cognitivo viene concepito come una forma di **adattamento biologico** all'ambiente, non diversa da quello che fa una pianta che orienta le radici verso l'acqua o ruota le foglie verso la luce.</span>
 
-Successivamente, lavorando con **Alfred Binet** (lo psicologo che sviluppò i primi test di intelligenza), Piaget si appassiona allo sviluppo umano e in particolare a **come il bambino impara a conoscere il mondo**. Nel 1955 fonda il Centro Internazionale per l'Epistemologia Genetica a Ginevra, che dirige fino alla morte nel 1980.
+Successivamente, lavorando con **Alfred Binet** (lo psicologo che sviluppò i primi test di intelligenza), Piaget si appassiona allo sviluppo umano e in particolare a **come il bambino impara a conoscere il mondo**. Nel <span class="c-dato">1955</span> fonda il Centro Internazionale per l'Epistemologia Genetica a Ginevra, che dirige fino alla morte nel 1980.
 
 Il suo obiettivo non era semplicemente studiare cosa sanno i bambini, ma costruire una **teoria generale della conoscenza** — capire *come* la mente si sviluppa, non solo *quanto* sa.
 
@@ -17,7 +25,7 @@ Il suo obiettivo non era semplicemente studiare cosa sanno i bambini, ma costrui
 
 ## Metodo: il colloquio clinico
 
-Piaget usa un metodo originale: **interviste semi-strutturate** ai bambini (a partire dai 3 anni) combinate con **osservazione descrittiva sistematica** del comportamento infantile.
+Piaget usa un metodo originale: <span class="c-def">**interviste semi-strutturate** ai bambini (a partire dai 3 anni) combinate con **osservazione descrittiva sistematica** del comportamento infantile.</span>
 
 Come dice lui stesso:
 
@@ -32,52 +40,52 @@ Le risposte del bambino durante il colloquio clinico vengono classificate in 5 t
 | **Risposta fabulata** | Inventa per compiacere l'adulto |
 | **Credenza suggerita** | L'idea viene implicitamente suggerita dal ricercatore |
 | **Credenza provocata** | Nasce in risposta a una domanda diretta |
-| **Credenza spontanea** | La più preziosa: emerge senza stimoli esterni |
+| <span class="c-tesi">**Credenza spontanea**</span> | La più preziosa: emerge senza stimoli esterni |
 
-Distinguere questi tipi di risposta è essenziale per non scambiare ciò che il bambino dice per ciò che *davvero* pensa.
+<span class="c-warn">Distinguere questi tipi di risposta è essenziale per non scambiare ciò che il bambino dice per ciò che *davvero* pensa.</span>
 
 ---
 
 ## Gli schemi: mattoni della conoscenza
 
-Alla base di tutto ci sono gli **schemi** — azioni o rappresentazioni mentali che organizzano la conoscenza.
+<span class="c-def">Alla base di tutto ci sono gli **schemi** — azioni o rappresentazioni mentali che organizzano la conoscenza.</span>
 
-Pensa agli schemi come ai kata nelle arti marziali: all'inizio esegui ogni movimento separatamente, poi li integri in sequenze sempre più fluide e complesse. La mente fa lo stesso con le esperienze.
+<span class="c-es">Pensa agli schemi come ai kata nelle arti marziali: all'inizio esegui ogni movimento separatamente, poi li integri in sequenze sempre più fluide e complesse. La mente fa lo stesso con le esperienze.</span>
 
 Piaget distingue due tipi:
 
-- **Schemi d'azione** — legati al movimento fisico (afferrare, succhiare, scuotere). Dominano la prima infanzia.
-- **Schemi mentali** — rappresentazioni interne, simboliche. Si sviluppano con la crescita cognitiva.
+- <span class="c-def">**Schemi d'azione** — legati al movimento fisico (afferrare, succhiare, scuotere). Dominano la prima infanzia.</span>
+- <span class="c-def">**Schemi mentali** — rappresentazioni interne, simboliche. Si sviluppano con la crescita cognitiva.</span>
 
 ---
 
 ## Le invarianti funzionali: il motore dello sviluppo
 
-Tre processi sono **sempre attivi** lungo tutto lo sviluppo — Piaget li chiama **invarianti funzionali** perché non cambiano mai:
+<span class="c-def">Tre processi sono **sempre attivi** lungo tutto lo sviluppo — Piaget li chiama **invarianti funzionali** perché non cambiano mai:</span>
 
 ### Organizzazione
 
-La tendenza dell'organismo a creare totalità coerenti e integrate. Le conoscenze non si accumulano in modo caotico: vengono organizzate in strutture sempre più complesse. Come le radici di un albero che formano un sistema ramificato preciso, non un groviglio casuale.
+La tendenza dell'organismo a creare totalità coerenti e integrate. Le conoscenze non si accumulano in modo caotico: vengono organizzate in strutture sempre più complesse.
 
 ### Adattamento
 
 Il processo con cui l'organismo si adatta all'ambiente. Comprende due meccanismi che lavorano sempre in coppia:
 
-**Assimilazione** — incorporare nuove informazioni all'interno degli schemi già esistenti. Esempio: un bambino che conosce i cani e, vedendo un cavallo per la prima volta, lo chiama "cane grande". Usa uno schema noto per interpretare il nuovo.
+<span class="c-def">**Assimilazione** — incorporare nuove informazioni all'interno degli schemi già esistenti.</span> <span class="c-es">Esempio: un bambino che conosce i cani e, vedendo un cavallo per la prima volta, lo chiama "cane grande". Usa uno schema noto per interpretare il nuovo.</span>
 
-**Accomodamento** — modificare gli schemi esistenti per adattarli a informazioni che non ci rientrano. Il bambino capisce che il cavallo è qualcosa di diverso dal cane e crea un nuovo schema. È il processo di crescita cognitiva vera e propria.
+<span class="c-def">**Accomodamento** — modificare gli schemi esistenti per adattarli a informazioni che non ci rientrano.</span> <span class="c-es">Il bambino capisce che il cavallo è qualcosa di diverso dal cane e crea un nuovo schema. È il processo di crescita cognitiva vera e propria.</span>
 
-I due meccanismi sono complementari: assimiliamo continuamente, ma quando l'assimilazione non basta — quando l'esperienza non rientra in nessuno schema — scatta l'accomodamento.
+<span class="c-impl">I due meccanismi sono complementari: assimiliamo continuamente, ma quando l'assimilazione non basta — quando l'esperienza non rientra in nessuno schema — scatta l'accomodamento.</span>
 
 ### Equilibrazione
 
-L'organismo tende sempre verso un equilibrio tra schemi interni e richieste dell'ambiente. Quando c'è squilibrio (un'esperienza nuova non rientra in nessuno schema), si mette in moto l'adattamento. È il meccanismo che *spinge* lo sviluppo in avanti.
+<span class="c-tesi">L'organismo tende sempre verso un equilibrio tra schemi interni e richieste dell'ambiente. Quando c'è squilibrio (un'esperienza nuova non rientra in nessuno schema), si mette in moto l'adattamento. È il meccanismo che *spinge* lo sviluppo in avanti.</span>
 
 ---
 
 ## I 4 stadi di sviluppo
 
-Piaget identifica **4 stadi universali** che tutti i bambini attraversano nella stessa sequenza. Ogni stadio ha caratteristiche specifiche e prepara il terreno per quello successivo.
+<span class="c-tesi">Piaget identifica **4 stadi universali** che tutti i bambini attraversano nella stessa sequenza. Ogni stadio ha caratteristiche specifiche e prepara il terreno per quello successivo.</span>
 
 Uno **stadio** è un periodo in cui il comportamento e il pensiero del bambino riflettono una specifica struttura mentale. Piaget definisce **5 criteri** che caratterizzano ogni stadio:
 
@@ -87,7 +95,7 @@ Uno **stadio** è un periodo in cui il comportamento e il pensiero del bambino r
 4. **Consolidamento** — prima di passare allo stadio successivo, quello attuale si stabilizza
 5. **Equilibrazione** — ogni transizione è guidata dalla ricerca di un nuovo equilibrio
 
-Questi criteri fanno sì che saltare uno stadio sia impossibile.
+<span class="c-warn">Questi criteri fanno sì che saltare uno stadio sia impossibile.</span>
 
 ---
 
@@ -106,25 +114,25 @@ Il periodo sensomotorio si divide in **6 sotto-stadi**:
 | 5. Reazioni circolari terziarie | 12–18 mesi | "Sperimenta" variando le azioni |
 | 6. Combinazioni mentali interne | ~18 mesi | Compare la rappresentazione interna |
 
-La conquista più importante di questo stadio è la **permanenza dell'oggetto**: la comprensione che un oggetto continua a esistere anche quando non è visibile. Prima di questa acquisizione, "lontano dagli occhi = lontano dalla mente" è letteralmente vero per il bambino.
+<span class="c-def">La conquista più importante di questo stadio è la **permanenza dell'oggetto**: la comprensione che un oggetto continua a esistere anche quando non è visibile.</span> Prima di questa acquisizione, "lontano dagli occhi = lontano dalla mente" è letteralmente vero per il bambino.
 
 ---
 
 ### Stadio 2 — Preoperatorio (18 mesi – 6/7 anni)
 
-Il bambino acquisisce la **rappresentazione simbolica**: usa parole, immagini mentali, gioco simbolico e disegno per rappresentare il mondo. È una svolta enorme — finalmente può pensare a cose che non sono fisicamente presenti.
+<span class="c-tesi">Il bambino acquisisce la **rappresentazione simbolica**: usa parole, immagini mentali, gioco simbolico e disegno per rappresentare il mondo. È una svolta enorme — finalmente può pensare a cose che non sono fisicamente presenti.</span>
 
 Ma questo stadio è anche caratterizzato da **importanti limiti cognitivi**:
 
-**Costanza dell'identità** — il bambino non comprende ancora che l'identità di una persona resta la stessa nonostante i cambiamenti esteriori. Un travestimento può genuinamente confonderlo.
+<span class="c-def">**Costanza dell'identità**</span> — il bambino non comprende ancora che l'identità di una persona resta la stessa nonostante i cambiamenti esteriori. Un travestimento può genuinamente confonderlo.
 
-**Animismo** — credenza che gli oggetti inanimati siano vivi. "La luna mi segue" non è metafora: per lui è davvero così.
+<span class="c-def">**Animismo**</span> — credenza che gli oggetti inanimati siano vivi. <span class="c-es">"La luna mi segue" non è metafora: per lui è davvero così.</span>
 
-**Artificialismo** — credenza che tutto ciò che esiste in natura sia stato creato dall'uomo. "Chi ha fatto le montagne?" "Qualcuno le ha costruite."
+<span class="c-def">**Artificialismo**</span> — credenza che tutto ciò che esiste in natura sia stato creato dall'uomo. <span class="c-es">"Chi ha fatto le montagne?" "Qualcuno le ha costruite."</span>
 
-**Egocentrismo** — tendenza a prendere come assoluto il proprio punto di vista, senza riuscire a mettersi nei panni dell'altro. Fino agli **8 anni circa**, il bambino fatica ad assumere la prospettiva altrui.
+<span class="c-def">**Egocentrismo**</span> — tendenza a prendere come assoluto il proprio punto di vista, senza riuscire a mettersi nei panni dell'altro. <span class="c-warn">Fino agli **8 anni circa**, il bambino fatica ad assumere la prospettiva altrui.</span>
 
-L'egocentrismo non è un difetto morale — è semplicemente come funziona la mente a questa età. Come giocare in modalità single-player: il mondo ruota intorno al proprio schermo, e gli altri personaggi sembrano parte dello scenario.
+<span class="c-warn">L'egocentrismo non è un difetto morale — è semplicemente come funziona la mente a questa età.</span>
 
 ---
 
@@ -132,15 +140,15 @@ L'egocentrismo non è un difetto morale — è semplicemente come funziona la me
 
 Compare il **pensiero logico**, ma ancora ancorato a oggetti e situazioni concrete. Il bambino ragiona correttamente su esperienze tangibili, ma non ancora su proposizioni puramente astratte.
 
-La conquista principale è la **conservazione**: la comprensione che certe proprietà rimangono invariate anche quando la forma cambia. Esempio classico: trasferire l'acqua da un bicchiere largo a uno stretto — il bambino ora capisce che la quantità è la stessa.
+<span class="c-def">La conquista principale è la **conservazione**: la comprensione che certe proprietà rimangono invariate anche quando la forma cambia.</span> <span class="c-es">Esempio classico: trasferire l'acqua da un bicchiere largo a uno stretto — il bambino ora capisce che la quantità è la stessa.</span>
 
-Un fenomeno interessante di questo stadio è il **décalage orizzontale**: capacità simili non emergono tutte nello stesso momento. La conservazione del *numero* arriva prima di quella del *peso*, che arriva prima di quella del *volume* — anche se logicamente sono problemi dello stesso tipo.
+<span class="c-def">Un fenomeno interessante di questo stadio è il **décalage orizzontale**: capacità simili non emergono tutte nello stesso momento.</span> La conservazione del *numero* arriva prima di quella del *peso*, che arriva prima di quella del *volume* — anche se logicamente sono problemi dello stesso tipo.
 
 ---
 
 ### Stadio 4 — Operatorio Formale (dai 12 anni)
 
-Il pensiero diventa **astratto e ipotetico-deduttivo**. L'adolescente non ha più bisogno di oggetti concreti: può ragionare su proposizioni, ipotesi, possibilità — anche su cose che non esistono nella realtà.
+<span class="c-tesi">Il pensiero diventa **astratto e ipotetico-deduttivo**. L'adolescente non ha più bisogno di oggetti concreti: può ragionare su proposizioni, ipotesi, possibilità — anche su cose che non esistono nella realtà.</span>
 
 Caratteristiche:
 - Organizzazione sistematica delle conoscenze
@@ -154,15 +162,15 @@ Caratteristiche:
 
 Piaget si è fermato ai 12 anni, ma alcuni ricercatori si sono chiesti: cosa succede nell'età adulta?
 
-**Deirdre Kramer (1983)** propone il concetto di **pensiero post-formale**, con 3 caratteristiche:
+<span class="c-dato">**Deirdre Kramer (1983)**</span> propone il concetto di <span class="c-def">**pensiero post-formale**, con 3 caratteristiche:</span>
 
 1. **Relativismo** — comprensione che la verità dipende dal contesto
 2. **Accettazione delle contraddizioni** — capacità di tenere insieme idee opposte senza doverle risolvere
 3. **Integrazione** — sintesi di prospettive diverse in un quadro coerente
 
-Il pensiero post-formale è più **pratico**, più **flessibile**, più **dialettico** rispetto a quello formale. È una forma di ragionamento che si adatta ai contesti reali della vita quotidiana e riconosce la natura soggettiva della realtà.
+<span class="c-tesi">Il pensiero post-formale è più **pratico**, più **flessibile**, più **dialettico** rispetto a quello formale. È una forma di ragionamento che si adatta ai contesti reali della vita quotidiana e riconosce la natura soggettiva della realtà.</span>
 
-Secondo **Strassen Berger (2012)**, probabilmente la cosa più saggia è considerare il pensiero post-formale come una **costellazione di stili di pensiero** che si basano sull'esperienza di vita, sull'istruzione e su altri fattori legati alla maturità dell'età adulta — non un quinto stadio rigido, ma un modo di pensare più maturo e contestuale.
+Secondo <span class="c-dato">**Strassen Berger (2012)**</span>, <span class="c-warn">probabilmente la cosa più saggia è considerare il pensiero post-formale come una **costellazione di stili di pensiero** che si basano sull'esperienza di vita, sull'istruzione e su altri fattori legati alla maturità dell'età adulta — non un quinto stadio rigido, ma un modo di pensare più maturo e contestuale.</span>
 
 ---
 
@@ -170,9 +178,9 @@ Secondo **Strassen Berger (2012)**, probabilmente la cosa più saggia è conside
 
 Piaget non è solo teoria. La sua visione ha implicazioni pratiche concrete per chi lavora con bambini e ragazzi (Rollo D., 2017):
 
-- **Approccio costruttivista** — il bambino non è un contenitore da riempire: è un costruttore attivo della propria conoscenza
+- <span class="c-tesi">**Approccio costruttivista** — il bambino non è un contenitore da riempire: è un costruttore attivo della propria conoscenza</span>
 - **Facilitare, non dirigere** — il ruolo dell'educatore è creare le condizioni per l'apprendimento, non trasmettere passivamente
-- **Considerare il livello cognitivo reale** — proporre attività adeguate allo stadio in cui si trova il bambino: né troppo facili né troppo difficili
+- <span class="c-impl">**Considerare il livello cognitivo reale** — proporre attività adeguate allo stadio in cui si trova il bambino: né troppo facili né troppo difficili</span>
 - **Valutazioni continue** — monitorare il processo, non solo il risultato finale
 - **Promuovere la salute intellettuale** — stimolare curiosità, sperimentazione e scoperta
 - **Trasformare l'aula in un setting esplorativo** — l'apprendimento avviene attraverso il fare
@@ -183,20 +191,20 @@ Piaget non è solo teoria. La sua visione ha implicazioni pratiche concrete per 
 
 | Termine | Significato |
 |---|---|
-| **Schema** | Struttura mentale (azione o rappresentazione) che organizza la conoscenza |
-| **Assimilazione** | Incorporare nuove info negli schemi esistenti |
-| **Accomodamento** | Modificare gli schemi per adattarsi a esperienze nuove |
-| **Equilibrazione** | Tendenza a raggiungere equilibrio tra schemi interni e ambiente |
-| **Invarianti funzionali** | Organizzazione, adattamento, equilibrazione — sempre attive |
-| **Stadio** | Periodo con struttura mentale specifica; sequenza universale |
-| **Permanenza dell'oggetto** | L'oggetto esiste anche quando non è visibile |
-| **Egocentrismo** | Incapacità di assumere la prospettiva altrui (preoperatorio) |
-| **Animismo** | Credenza che oggetti inanimati siano vivi |
-| **Artificialismo** | Credenza che tutto in natura sia creato dall'uomo |
-| **Conservazione** | Proprietà costanti al variare della forma |
-| **Décalage orizzontale** | Capacità simili che emergono in momenti diversi |
-| **Pensiero ipotetico-deduttivo** | Ragionamento astratto su ipotesi e possibilità |
-| **Pensiero post-formale** | Pensiero maturo: relativista, dialettico, contestuale |
+| <span class="c-def">**Schema**</span> | Struttura mentale (azione o rappresentazione) che organizza la conoscenza |
+| <span class="c-def">**Assimilazione**</span> | Incorporare nuove info negli schemi esistenti |
+| <span class="c-def">**Accomodamento**</span> | Modificare gli schemi per adattarsi a esperienze nuove |
+| <span class="c-def">**Equilibrazione**</span> | Tendenza a raggiungere equilibrio tra schemi interni e ambiente |
+| <span class="c-def">**Invarianti funzionali**</span> | Organizzazione, adattamento, equilibrazione — sempre attive |
+| <span class="c-def">**Stadio**</span> | Periodo con struttura mentale specifica; sequenza universale |
+| <span class="c-def">**Permanenza dell'oggetto**</span> | L'oggetto esiste anche quando non è visibile |
+| <span class="c-def">**Egocentrismo**</span> | Incapacità di assumere la prospettiva altrui (preoperatorio) |
+| <span class="c-def">**Animismo**</span> | Credenza che oggetti inanimati siano vivi |
+| <span class="c-def">**Artificialismo**</span> | Credenza che tutto in natura sia creato dall'uomo |
+| <span class="c-def">**Conservazione**</span> | Proprietà costanti al variare della forma |
+| <span class="c-def">**Décalage orizzontale**</span> | Capacità simili che emergono in momenti diversi |
+| <span class="c-def">**Pensiero ipotetico-deduttivo**</span> | Ragionamento astratto su ipotesi e possibilità |
+| <span class="c-def">**Pensiero post-formale**</span> | Pensiero maturo: relativista, dialettico, contestuale |
 
 ---
 

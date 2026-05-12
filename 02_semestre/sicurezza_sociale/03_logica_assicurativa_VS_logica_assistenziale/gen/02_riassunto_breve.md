@@ -1,6 +1,15 @@
 # Logica assicurativa VS logica assistenziale — Sintesi
 Sicurezza sociale e forme di solidarietà · Sessione 03
 
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🟡 Oro    #D4AC0D → Connessione / implicazione
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+-->
+
 > Questa lezione spiega perché il sistema di sicurezza sociale funziona bene per i salariati e fatica con tutti gli altri. Tienila presente: nel lavoro sociale ci trovi persone ogni giorno.
 
 ---
@@ -8,10 +17,10 @@ Sicurezza sociale e forme di solidarietà · Sessione 03
 ## La struttura del sistema (piramide rovesciata)
 
 - **Base larga (in alto):** prestazioni generali — sistema educativo, sanitario, diritto del lavoro. Per tutti, finanziate dalle imposte.
-- **Fascia intermedia:** **11 assicurazioni sociali** federali — lo strumento principale (~100 miliardi su 150 totali). Competenza: Confederazione.
+- **Fascia intermedia:** <span class="c-def">**11 assicurazioni sociali** federali — lo strumento principale (<span class="c-dato">~100 miliardi su 150 totali</span>). Competenza: Confederazione.</span>
 - **Vertice (in basso):** prestazioni con **accertamento dei mezzi** — devi dimostrare il bisogno. Competenza: cantoni e comuni.
 
-Principio chiave: **sussidiarietà** — il cantone interviene solo se le assicurazioni federali non bastano.
+<span class="c-tesi">Principio chiave: **sussidiarietà** — il cantone interviene solo se le assicurazioni federali non bastano.</span>
 
 ---
 
@@ -19,7 +28,7 @@ Principio chiave: **sussidiarietà** — il cantone interviene solo se le assicu
 
 | | Assicurazione sociale | Aiuto sociale |
 |---|---|---|
-| Approccio | Causale (rischio specifico) | Finale (bisogno generico) |
+| Approccio | <span class="c-def">Causale (rischio specifico)</span> | <span class="c-def">Finale (bisogno generico)</span> |
 | Accesso | Contribuzione + realizzazione del rischio | Prova dei mezzi |
 | Finanziamento | Contributi + Stato | Solo imposte pubbliche |
 | Competenza | Confederazione | Cantone / Comune |
@@ -36,31 +45,31 @@ AVS · AI · PC · LPP · LAMal · LAINF · LAM · LIPG · LADI/LPTD · LAFam
 
 **Come si accede:** essere assicurati + aver contribuito nel tempo.
 
-**Solidarietà nel sistema:** orizzontale (sano/malato), verticale (ricco/povero), generazionale (giovani/anziani), regionale.
+<span class="c-tesi">**Solidarietà nel sistema:** orizzontale (sano/malato), verticale (ricco/povero), generazionale (giovani/anziani), regionale.</span>
 
 ---
 
 ## L'aiuto sociale (assistenza sociale)
 
-- **Ultima rete** del sistema — interviene quando tutto il resto non basta
+- <span class="c-def">**Ultima rete** del sistema — interviene quando tutto il resto non basta</span>
 - Garantisce il **minimo vitale** (prestazioni primarie)
 - Promuove anche la **reintegrazione professionale e sociale**
-- In Ticino: **LAS** del 1971
+- In Ticino: <span class="c-dato">**LAS** del 1971</span>
 
-**Nota:** le Prestazioni complementari (PC) sono tecnicamente assicurazioni, ma funzionano con logica assistenziale (prova dei mezzi). Compaiono in entrambe le fasce della piramide.
+<span class="c-impl">**Nota:** le Prestazioni complementari (PC) sono tecnicamente assicurazioni, ma funzionano con logica assistenziale (prova dei mezzi). Compaiono in entrambe le fasce della piramide.</span>
 
 ---
 
 ## Il grande problema: gli indipendenti
 
-Il sistema è stato costruito sul **lavoratore salariato industriale**. Chi non è salariato è spesso scoperto.
+<span class="c-tesi">Il sistema è stato costruito sul **lavoratore salariato industriale**. Chi non è salariato è spesso scoperto.</span>
 
 **Chi è "indipendente" per l'AVS?** Solo chi ha una ditta individuale. I titolari di SAGL/SA sono considerati salariati della propria azienda.
 
-**Il paradosso:** il titolare di SAGL paga i contributi contro la disoccupazione ma **non ha diritto all'indennità** se perde clienti.
+<span class="c-warn">**Il paradosso:** il titolare di SAGL paga i contributi contro la disoccupazione ma **non ha diritto all'indennità** se perde clienti.</span>
 
-**Lacune documentate (Rapporto SUPSI 2021):**
-- Solo il 45% degli indipendenti è iscritto alla cassa pensione (salariati: 90%)
+**Lacune documentate (<span class="c-dato">Rapporto SUPSI 2021</span>):**
+- Solo il <span class="c-dato">45% degli indipendenti</span> è iscritto alla cassa pensione (salariati: 90%)
 - Più di 1 su 4 non contribuisce né al 2° né al 3° pilastro
 - Nessuna copertura disoccupazione per gli indipendenti in proprio
 
@@ -79,17 +88,17 @@ Per essere riconosciuto indipendente dall'AVS:
 - Almeno 5 clienti
 - Nessun cliente prevalente finanziariamente
 
-**Lavoro precario** = insicurezza indesiderata non compensata finanziariamente (rispetto al futuro, economica, rispetto alla protezione sociale).
+<span class="c-def">**Lavoro precario** = insicurezza indesiderata non compensata finanziariamente (rispetto al futuro, economica, rispetto alla protezione sociale).</span>
 
 ---
 
 ## La pandemia come test del sistema
 
-La crisi Covid ha rivelato le lacune. Il Consiglio federale ha esteso le **IPG** agli indipendenti → oltre **3,5 miliardi** erogati. Misura reattiva, non preventiva. Il problema strutturale resta.
+<span class="c-impl">La crisi Covid ha rivelato le lacune. Il Consiglio federale ha esteso le **IPG** agli indipendenti → oltre <span class="c-dato">**3,5 miliardi**</span> erogati.</span> <span class="c-warn">Misura reattiva, non preventiva. Il problema strutturale resta.</span>
 
 ---
 
 **Da ricordare:**
-- **Logica causale** = assicurazione → copre un rischio specifico se hai contribuito
-- **Logica finale** = assistenza → copre un bisogno se dimostri di essere in difficoltà
-- **Gli indipendenti** sono sistematicamente meno tutelati — lacune su disoccupazione, infortuni, previdenza professionale
+- <span class="c-tesi">**Logica causale** = assicurazione → copre un rischio specifico se hai contribuito</span>
+- <span class="c-tesi">**Logica finale** = assistenza → copre un bisogno se dimostri di essere in difficoltà</span>
+- <span class="c-warn">**Gli indipendenti** sono sistematicamente meno tutelati — lacune su disoccupazione, infortuni, previdenza professionale</span>

@@ -94,13 +94,13 @@ Mondi del Lavoro · Sessione 06
 
 ---
 
-## Salari (settore privato, 2024)
+## Salari (2024)
 
-| | Mediana mensile | Δ rispetto al 2002/2004 |
-|--|----------------|-------------------------|
-| Svizzera | 6.722 fr. | +22,2% |
+| | Mediana mensile (settore privato) | Evoluzione (tutta economia) |
+|--|-----------------------------------|------------------------------|
+| Svizzera | 6.778 fr. | +22,2% |
 | Ticino | 5.393 fr. | +17,7% |
-| Differenza TI vs CH | **-1.385 fr.** | -25,8% totale |
+| Differenza TI vs CH | **-1.385 fr. (-25,8%)** | — |
 
 - **Parte spiegata**: -23,0% (differenze strutturali: settori, profili, aziende)
 - **Parte non spiegata**: -2,8% (discriminazione / fattori storici)
@@ -161,6 +161,18 @@ Mondi del Lavoro · Sessione 06
 - Costo della vita inferiore in Italia → disponibilità ad accettare salari più bassi
 - Effetto storico: minor pressione sulle aziende TI ad alzare salari e innovare
 - Notifiche (lavoro temporaneo <90gg/anno): 2.441 all'anno
+
+---
+
+### Autori / Date / Riferimenti
+
+| Chi | Cosa | Quando |
+|-----|------|--------|
+| **Maurizio Bigotta** | Responsabile settore economia, Ustat — relatore della lezione | 23.03.2026 |
+| **Bigotta M. e Walker S.** | _Il mercato del lavoro in Ticino: Una lettura sistemica_ (citato nelle slide) | 2020 |
+| **ILO** | International Labour Organization — definisce le categorie standard (occupato, disoccupato) | Standard internazionale |
+| **UST** | Ufficio federale di statistica — produce RIFOS, STAF, SPO, STATIMP, STATENT, RSS | Continuativo |
+| **Ustat** | Ufficio di statistica cantonale (Canton Ticino) — elaborazione dati locali | Continuativo |
 
 ---
 

@@ -1,23 +1,32 @@
 # Le Empatie — Schema
 Salute Mentale · Sessione 03
 
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🟡 Oro    #D4AC0D → Connessione / implicazione
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+-->
+
 ---
 
 ## Critica alla versione popolare
 
-- **"Mettersi nei panni"** → distorce il concetto: toglie identità all'altro
-- **Ricoeur** → stare accanto, non al posto dell'altro
+- <span class="c-warn">**"Mettersi nei panni"** → distorce il concetto: toglie identità all'altro</span>
+- **Ricoeur** → <span class="c-tesi">stare accanto, non al posto dell'altro</span>
 - **Pezzoli** → empatia come passepartout = inutile e fuorviante
-- Corretta → stare di fianco, lasciare all'altro la propria prospettiva
+- <span class="c-tesi">Corretta → stare di fianco, lasciare all'altro la propria prospettiva</span>
 
 ---
 
 ## Origine del concetto
 
-- **Einfühlung** → "sentire dentro" (tedesco)
-- **1905 – Lipps** → immagine acrobata/spettatore; imitazione interiore; base umana comune necessaria
-- **1909** → traduzione italiana del termine
-- **2003 – Gallese** → simulazione incarnata (*embodied simulation*); neuroni specchio
+- <span class="c-def">**Einfühlung** → "sentire dentro" (tedesco)</span>
+- <span class="c-dato">**1905 – Lipps**</span> → <span class="c-es">immagine acrobata/spettatore; imitazione interiore; base umana comune necessaria</span>
+- <span class="c-dato">**1909**</span> → traduzione italiana del termine
+- <span class="c-dato">**2003 – Gallese**</span> → <span class="c-def">simulazione incarnata (*embodied simulation*); neuroni specchio</span>
   - Imitazione, empatia e mentalismo: stesso meccanismo di base
   - Automatico, pre-riflessivo, inconscio
 
@@ -25,19 +34,19 @@ Salute Mentale · Sessione 03
 
 ## Modello di Norma Feshbach (1987)
 
-**Empatia = esperienza affettiva condivisa** → 3 componenti:
+<span class="c-def">**Empatia = esperienza affettiva condivisa** → 3 componenti:</span>
 
-- **Cognitiva 1 – Assunzione di prospettiva**
+- <span class="c-def">**Cognitiva 1 – Assunzione di prospettiva**</span>
   - Presuppone il superamento dell'egocentrismo (Piaget)
-  - Possibile solo dopo le operazioni concrete (~6 anni)
-- **Cognitiva 2 – Decodifica degli stati emotivi**
+  - <span class="c-warn">Possibile solo dopo le operazioni concrete (~6 anni)</span>
+- <span class="c-def">**Cognitiva 2 – Decodifica degli stati emotivi**</span>
   - Leggere e interpretare i segnali emotivi dell'interlocutore
-- **Affettiva – Risonanza emotiva**
+- <span class="c-tesi">**Affettiva – Risonanza emotiva**</span>
   - Il "sale dell'empatia" — necessaria ma non sufficiente
 
-**Precondizione chiave:** distinzione sé/altro
+**Precondizione chiave:** <span class="c-warn">distinzione sé/altro</span>
 
-**TOM – Theory of Mind** (~4 anni) → 5 dimensioni (Wellman, 2018):
+<span class="c-def">**TOM – Theory of Mind** (~4 anni) → 5 dimensioni (Wellman, 2018):</span>
 
 | Sigla | Contenuto |
 |-------|-----------|
@@ -51,10 +60,10 @@ Salute Mentale · Sessione 03
 
 ## Modello di Martin Hoffman (2000)
 
-**Empatia = evolutiva + al plurale**
+<span class="c-tesi">**Empatia = evolutiva + al plurale**</span>
 Aggiunte rispetto a Feshbach:
-- **Dimensione evolutiva:** si sviluppa nel tempo con la maturazione cognitiva
-- **Dimensione motivazionale:** la sofferenza altrui attiva comportamenti prosociali
+- <span class="c-def">**Dimensione evolutiva:** si sviluppa nel tempo con la maturazione cognitiva</span>
+- <span class="c-def">**Dimensione motivazionale:** la sofferenza altrui attiva comportamenti prosociali</span>
 
 ### Stadi dello sviluppo empatico
 
@@ -66,21 +75,21 @@ Aggiunte rispetto a Feshbach:
 | Empatia vera e propria | dai 6 anni | Decentramento pieno; prospettiva dell'altro | Superamento preoperatorio (Piaget) |
 | Empatia oltre la situazione | dall'adolescenza | Empatizza anche col vissuto non visibile | Pensiero formale |
 
-**Regola:** le empatie più evolute non possono emergere prima delle precondizioni cognitive.
+<span class="c-impl">**Regola:** le empatie più evolute non possono emergere prima delle precondizioni cognitive.</span>
 Nell'adulto: crescendo, **cognitivo aumenta**, **emotivo viene mediato**.
 
 ### Contagio emotivo — meccanismi
 
-- **Imitazione motoria** → mimica facciale provoca emozione corrispondente (Ekman, 1992)
-- **Reazione circolare primaria** → risposta innata selettiva al segnale sociale
+- <span class="c-def">**Imitazione motoria** → mimica facciale provoca emozione corrispondente</span> <span class="c-es">(Ekman, 1992)</span>
+- <span class="c-def">**Reazione circolare primaria** → risposta innata selettiva al segnale sociale</span>
 
 ---
 
 ## Altri contributi
 
-- **Strayer** → condivisione parallela (basata su sé) vs **condivisione transitoria** (entra nel vissuto dell'altro)
-- **Bischof-Köhler (1991)** → empatia indotta dall'espressione vs **empatia indotta dalla situazione**; 3 componenti: affettiva, socio-cognitiva, motivazionale
-- **Tisseron (2013)** → 3 livelli; apice: empatia intersoggettiva; include **empatia verso sé stessi**
+- <span class="c-dato">**Strayer**</span> → condivisione parallela (basata su sé) vs <span class="c-def">**condivisione transitoria** (entra nel vissuto dell'altro)</span>
+- <span class="c-dato">**Bischof-Köhler (1991)**</span> → empatia indotta dall'espressione vs <span class="c-def">**empatia indotta dalla situazione**</span>; 3 componenti: affettiva, socio-cognitiva, motivazionale
+- <span class="c-dato">**Tisseron (2013)**</span> → 3 livelli; apice: empatia intersoggettiva; include <span class="c-def">**empatia verso sé stessi**</span>
 
 ---
 
@@ -90,21 +99,21 @@ Nell'adulto: crescendo, **cognitivo aumenta**, **emotivo viene mediato**.
 
 | # | Nome | Meccanismo | Rischio professionale |
 |---|------|-----------|----------------------|
-| 1 | Non empatizziamo ugualmente | Empatia ↑ con chi ci somiglia; ↓ con chi è diverso | Trascurare utenti molto diversi da noi |
-| 2 | Brutti, sporchi, colpevoli | Giudizio morale/estetico inibisce la risposta | Discriminare chi è "responsabile" della propria condizione |
+| 1 | <span class="c-impl">Non empatizziamo ugualmente</span> | Empatia ↑ con chi ci somiglia; ↓ con chi è diverso | Trascurare utenti molto diversi da noi |
+| 2 | <span class="c-warn">Brutti, sporchi, colpevoli</span> | Giudizio morale/estetico inibisce la risposta | Discriminare chi è "responsabile" della propria condizione |
 | 3 | Inganno e invidia | Empatia ↓ verso chi ci ha fregato o invidiamo | Difficoltà con utenti manipolatori o in competizione |
 | 4 | Non sensibile ai numeri | Singolo mobilita; statistica no | Favoritismi verso utenti più conosciuti (effetto Sheri Summers) |
-| 5 | Non rende più buoni | Psicopatici: ottima empatia cognitiva, usata per manipolare | Empatia ≠ garanzia di comportamento prosociale |
-| 6 | Faticosa e dolorosa | Sovrattivazione empatica → evitamento | Allontanamento, incapacità di dire di no, burnout |
+| 5 | <span class="c-warn">Non rende più buoni</span> | Psicopatici: ottima empatia cognitiva, usata per manipolare | Empatia ≠ garanzia di comportamento prosociale |
+| 6 | <span class="c-warn">Faticosa e dolorosa</span> | Sovrattivazione empatica → evitamento | Allontanamento, incapacità di dire di no, burnout |
 
 ---
 
 ## Empatia / Simpatia / Compassione
 
 - **Simpatia** → condivisione emotiva spontanea
-- **Empatia** → sentire *con* l'altro (*feeling with*)
-- **Compassione** → sentire *per* l'altro (*feeling for*) + motivazione proattiva
-  - Componenti (Way & Tracy, 2012): riconoscimento sofferenza + relazione + reazione
+- <span class="c-def">**Empatia** → sentire *con* l'altro (*feeling with*)</span>
+- <span class="c-def">**Compassione** → sentire *per* l'altro (*feeling for*) + motivazione proattiva</span>
+  - <span class="c-impl">Componenti (Way & Tracy, 2012): riconoscimento sofferenza + relazione + reazione</span>
 
 ---
 
@@ -112,20 +121,18 @@ Nell'adulto: crescendo, **cognitivo aumenta**, **emotivo viene mediato**.
 
 | Autore | Contributo | Anno |
 |--------|-----------|------|
-| Theodor Lipps | Einfühlung; immagine acrobata/spettatore | 1905 |
-| Tickner | Traduzione "empatia" in inglese | 1909 |
-| Silvia Bonino | Manuale di riferimento sull'empatia (Giunti) | 1998 |
-| Norma Feshbach | Modello multidimensionale (cognitivo + affettivo) | 1987/1991 |
-| Martin Hoffman | Modello evolutivo; empatie al plurale; dimensione motivazionale | 1975/2000 |
-| Vittorio Gallese | Simulazione incarnata; neuroni specchio | 2003 |
-| Janet Strayer | Condivisione parallela vs transitoria | — |
-| Doris Bischof-Köhler | Empatia indotta dalla situazione; componente filogenetica | 1991/2009 |
-| Serge Tisseron | Empatia intersoggettiva; empatia verso sé | 2013/2020 |
-| Paul Bloom | *Contro l'empatia*; bias empatici | 2019 |
-| Heinz Kohut | Critica all'abuso del concetto di empatia | 2003 |
-| Singer & Klimecki | Compassione = *feeling for* ≠ *feeling with* | 2014 |
-| Decety & Cowel | Empatia come risorsa limitata; bias | 2014 |
-| Lorenzo Pezzoli | 6 bias empatici (elaborazione originale) | 2026 |
+| <span class="c-def">Theodor Lipps</span> | Einfühlung; immagine acrobata/spettatore | 1905 |
+| <span class="c-def">Tickner</span> | Traduzione "empatia" in inglese | 1909 |
+| <span class="c-def">Silvia Bonino</span> | Manuale di riferimento sull'empatia (Giunti) | 1998 |
+| <span class="c-def">Norma Feshbach</span> | Modello multidimensionale (cognitivo + affettivo) | 1987/1991 |
+| <span class="c-def">Martin Hoffman</span> | Modello evolutivo; empatie al plurale; dimensione motivazionale | 1975/2000 |
+| <span class="c-def">Vittorio Gallese</span> | Simulazione incarnata; neuroni specchio | 2003 |
+| <span class="c-def">Janet Strayer</span> | Condivisione parallela vs transitoria | — |
+| <span class="c-def">Doris Bischof-Köhler</span> | Empatia indotta dalla situazione; componente filogenetica | 1991/2009 |
+| <span class="c-def">Serge Tisseron</span> | Empatia intersoggettiva; empatia verso sé | 2013/2020 |
+| <span class="c-def">Paul Bloom</span> | *Contro l'empatia*; bias empatici | 2019 |
+| <span class="c-def">Singer & Klimecki</span> | Compassione = *feeling for* ≠ *feeling with* | 2014 |
+| <span class="c-def">Lorenzo Pezzoli</span> | 6 bias empatici (elaborazione originale) | 2026 |
 
 ---
 

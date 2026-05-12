@@ -1,5 +1,13 @@
 # Il lavoro e le sue trasformazioni: una prospettiva storica (Parte 1)
-Mondi del lavoro · Sessione 01 · 16 febbraio 2026
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🟡 Oro    #D4AC0D → Connessione / implicazione
+-->
+Mondi del lavoro · Sessione 01 · 16 febbraio 2026 [?]
 
 > Questa prima lezione pone le fondamenta concettuali del corso: cosa intendiamo davvero per "lavoro"? La risposta non è scontata — e capire la differenza tra cucinare a casa e cucinare in un ristorante apre una finestra su come è organizzata tutta la nostra società. Partiamo dal principio.
 
@@ -7,9 +15,9 @@ Mondi del lavoro · Sessione 01 · 16 febbraio 2026
 
 ## Il modulo: di cosa parleremo quest'anno
 
-Il corso *Mondi del lavoro* è tenuto da quattro docenti: **Angelica Lepori** (responsabile), **Niccolò Cuppini**, **Ornella Larenza** e **Oliver Galfetti**.
+Il corso *Mondi del lavoro* è tenuto da quattro docenti: **Angelica Lepori** (responsabile), **Niccolò Cuppini**, **Ornella Larenza** e **Oliver Galfetti** [?].
 
-L'obiettivo centrale è analizzare **l'evoluzione storica del lavoro** e le trasformazioni che attraversano oggi il mercato e l'organizzazione lavorativa. Attenzione particolare andrà a fenomeni come la **flessibilità** e la **precarietà dell'impiego**, e alle loro conseguenze sulla qualità di vita dei lavoratori.
+L'obiettivo centrale è analizzare <span class="c-tesi">**l'evoluzione storica del lavoro** e le trasformazioni che attraversano oggi il mercato e l'organizzazione lavorativa.</span> Attenzione particolare andrà a fenomeni come la **flessibilità** e la **precarietà dell'impiego**, e alle loro conseguenze sulla qualità di vita dei lavoratori.
 
 I temi toccano direttamente il lavoro sociale: voi siete sia futuri lavoratori in un mercato in continua trasformazione, sia operatori che lavoreranno con persone vulnerabili — spesso proprio a causa delle condizioni di lavoro precarie. Bel modo per capire dall'interno il sistema in cui dovrai muoverti.
 
@@ -21,18 +29,18 @@ La lezione apre con una domanda apparentemente banale: *cosa hanno in comune —
 
 L'attività è la stessa. Il contesto è radicalmente diverso. Da questa differenza si costruisce tutta la distinzione concettuale della lezione.
 
-### Lavoro come attività ("lavoro sostanziale")
+### Lavoro come attività ("lavoro sostanziale" [?])
 
-Il **lavoro come attività** è qualsiasi cosa facciamo che abbia utilità: cucinare, fare una passeggiata con la nonna, giocare a calcio, cambiare il pannolino di un bambino. Le caratteristiche fondamentali:
+<span class="c-def">Il **lavoro come attività** è qualsiasi cosa facciamo che abbia utilità: cucinare, fare una passeggiata con la nonna, giocare a calcio, cambiare il pannolino di un bambino.</span> Le caratteristiche fondamentali:
 
 - Si svolge **indipendentemente dal quadro formale** in cui avviene
 - Esiste un **legame diretto** tra l'attività svolta e il soddisfacimento di un bisogno immediato
 
-Se tagli l'erba nel tuo giardino, il bisogno soddisfatto e l'attività sono direttamente collegati. Nessun intermediario, nessun salario, nessun contratto. Fai → ottieni. Come il giardiniere che innaffia le sue piante a casa: il beneficio è immediato e diretto.
+<span class="c-es">Se tagli l'erba nel tuo giardino, il bisogno soddisfatto e l'attività sono direttamente collegati. Nessun intermediario, nessun salario, nessun contratto. Fai → ottieni. Come il giardiniere che innaffia le sue piante a casa: il beneficio è immediato e diretto.</span>
 
-### Lavoro come occupazione ("lavoro occupazionale")
+### Lavoro come occupazione ("lavoro occupazionale" [?])
 
-Il **lavoro come occupazione** è quello che le scienze sociali studiano. Secondo **Reynaud e Maruani (2004)**, è un'attività che:
+<span class="c-def">Il **lavoro come occupazione** è quello che le scienze sociali studiano. Secondo **Reynaud e Maruani (2004)** [?], è un'attività che:</span>
 
 - È **sistematica e specializzata**
 - Si svolge in un **determinato contesto**, sottoposta a **regole**
@@ -41,21 +49,17 @@ Il **lavoro come occupazione** è quello che le scienze sociali studiano. Second
 - Il lavoratore **non è proprietario dei mezzi di produzione**
 - **Non esiste un legame diretto** tra quello che si produce e il bisogno immediato del lavoratore
 
-Pensa a un giardiniere professionista che taglia l'erba nei giardini altrui: riceve un salario, usa strumenti non suoi, rispetta orari e istruzioni del datore di lavoro. Usa quel salario per comprare cibo e pagare l'affitto — non consuma direttamente quello che produce. È come un albero che non può nutrirsi dei suoi stessi frutti: li produce per il mercato, e riceve in cambio i nutrienti necessari per sopravvivere (il salario).
+<span class="c-es">Pensa a un giardiniere professionista che taglia l'erba nei giardini altrui: riceve un salario, usa strumenti non suoi, rispetta orari e istruzioni del datore di lavoro. Usa quel salario per comprare cibo e pagare l'affitto — non consuma direttamente quello che produce.</span>
 
 > "L'obiettivo nel lavoro come attività è soddisfare il mio bisogno immediato. Nel lavoro come occupazione, l'obiettivo è ricevere un salario attraverso il quale poi soddisfo i miei bisogni." — dalla trascrizione della lezione
 
 ### Le zone grigie: i limiti della definizione
 
-Questa distinzione ha dei **limiti importanti** — e la professoressa li segnala esplicitamente.
+<span class="c-warn">Questa distinzione ha dei **limiti importanti** — e la professoressa li segnala esplicitamente.</span>
 
-**Il lavoro domestico** è il caso più eclatante. Chi si occupa della casa, dei figli, degli anziani in famiglia svolge un'attività con un'importanza fondamentale per il mantenimento dell'intero sistema economico e sociale. Ma secondo la definizione classica non è "lavoro" perché:
+**Il lavoro domestico** è il caso più eclatante. Chi si occupa della casa, dei figli, degli anziani in famiglia svolge un'attività con un'importanza fondamentale per il mantenimento dell'intero sistema economico e sociale. <span class="c-warn">Ma secondo la definizione classica non è "lavoro" perché non è retribuito, non c'è separazione tra lavoratrice e mezzi di produzione, e non è soggetto a regole formali.</span>
 
-- Non è retribuito
-- Non c'è separazione tra lavoratrice e mezzi di produzione
-- Non è soggetto a regole formali
-
-Il risultato paradossale: nelle statistiche sul mercato del lavoro, chi lavora a casa viene classificato come **disoccupato o inattivo**. Una contraddizione sempre più visibile nella società contemporanea.
+<span class="c-impl">Il risultato paradossale: nelle statistiche sul mercato del lavoro, chi lavora a casa viene classificato come **disoccupato o inattivo**. Una contraddizione sempre più visibile nella società contemporanea.</span>
 
 **Il lavoro digitale** è un'altra zona grigia: i rider e i lavoratori di piattaforma spesso usano i propri strumenti (bicicletta, telefono, furgone) — confondendo la distinzione classica tra lavoratore dipendente e proprietario dei mezzi di produzione.
 
@@ -63,45 +67,39 @@ Il risultato paradossale: nelle statistiche sul mercato del lavoro, chi lavora a
 
 ## Una prospettiva storica: come siamo arrivati qui?
 
-Ora viene la parte davvero interessante: come e quando è emersa questa forma di organizzazione del lavoro?
+### Il lavoro nelle società pre-industriali (prima della rivoluzione industriale [?])
 
-### Il lavoro nelle società pre-industriali (seconda metà del XVIII secolo)
-
-Prima della rivoluzione industriale, il lavoro aveva caratteristiche molto diverse:
+<span class="c-tesi">Prima della rivoluzione industriale, il lavoro aveva caratteristiche molto diverse:</span>
 
 - **Prevalentemente agricolo**: liberi contadini, servi della gleba e schiavi lavoravano quasi tutti la terra
-- **Legame diretto produzione-bisogno**: i contadini trattenevano parte del raccolto per nutrirsi e produrre beni necessari — come le radici di un albero che assorbono direttamente quello di cui ha bisogno dal terreno
+- **Legame diretto produzione-bisogno**: i contadini trattenevano parte del raccolto per nutrirsi e produrre beni necessari
 - **Dettato dai ritmi stagionali** e dalle tradizioni, non dagli orari della fabbrica
 - **Scarsa specializzazione**: poca divisione dei compiti tra uomini, donne, giovani, anziani
 - **Assenza della divisione sessuale del lavoro** così marcata come oggi
 - **Casa e lavoro coincidevano**: si viveva e si lavorava nello stesso luogo
 - **Condizioni di vita precarie**: invecchiamento precoce, alta mortalità, vita breve
 
-Gli artigiani e i commercianti esistevano, ma erano una minoranza che produceva principalmente per i bisogni di lusso delle classi dirigenti — non per un mercato di massa.
-
-La professoressa è chiara: non era il paradiso terrestre. Le condizioni erano durissime. Ma la relazione tra lavoro e soddisfacimento dei bisogni era diretta.
-
 ### La rivoluzione industriale: il punto di svolta
 
-Il cambiamento radicale arriva con la **rivoluzione industriale**, potenziata dalle **rivoluzioni democratiche** (francese e americana). Il processo inizia con l'**industrializzazione dell'agricoltura**: la recinzione delle terre e la creazione di grandi latifondi espropria i contadini. Queste masse di persone senza terra si spostano nelle città — è il fenomeno dell'**urbanizzazione** — e diventano disponibili come forza lavoro per i primi insediamenti industriali.
+<span class="c-tesi">Il cambiamento radicale arriva con la **rivoluzione industriale**, potenziata dalle **rivoluzioni democratiche** (francese e americana). Il processo inizia con l'**industrializzazione dell'agricoltura**: la recinzione delle terre e la creazione di grandi latifondi espropria i contadini.</span> Queste masse di persone senza terra si spostano nelle città — è il fenomeno dell'**urbanizzazione** — e diventano disponibili come forza lavoro per i primi insediamenti industriali.
 
 Le conseguenze sono enormi:
 
-- Nasce il **lavoro salariato**: il lavoratore è formalmente libero, ma separato dai mezzi di produzione. Può accedervi solo vendendo la sua forza lavoro in cambio di salario
+- Nasce il <span class="c-def">**lavoro salariato**: il lavoratore è formalmente libero, ma separato dai mezzi di produzione. Può accedervi solo vendendo la sua forza lavoro in cambio di salario</span>
 - **Casa e lavoro si separano definitivamente**: la casa diventa il luogo della vita privata e del lavoro di riproduzione sociale (non remunerato, tendenzialmente assegnato alle donne); la fabbrica diventa il luogo della produzione
 - Si afferma la **divisione sessuale del lavoro**
-- L'obiettivo del lavoro cambia: non più produrre per sé, ma **produrre per il mercato** — il profitto per chi possiede i mezzi, il salario per chi lavora
+- <span class="c-impl">L'obiettivo del lavoro cambia: non più produrre per sé, ma **produrre per il mercato** — il profitto per chi possiede i mezzi, il salario per chi lavora</span>
 - Come dice la slide: **il lavoro diventa una "merce"**
 
 ---
 
 ## Il mercato del lavoro: una merce davvero particolare
 
-Con la rivoluzione industriale si crea un **mercato del lavoro** in cui i lavoratori vendono la loro forza lavoro. Ma questa merce è stranissima — diversa da qualsiasi altra cosa si possa comprare e vendere.
+<span class="c-def">Con la rivoluzione industriale si crea un **mercato del lavoro** in cui i lavoratori vendono la loro forza lavoro.</span> Ma questa merce è stranissima — diversa da qualsiasi altra cosa si possa comprare e vendere.
 
 ### Cosa si vende esattamente?
 
-Non si vende se stessi (come lo schiavo diventava proprietà del padrone). Si vende la propria **forza lavoro**: la capacità, la competenza, l'intelligenza necessaria per svolgere un lavoro. Il lavoratore rimane una persona — con diritti, bisogni, una vita.
+Non si vende se stessi (come lo schiavo diventava proprietà del padrone). <span class="c-def">Si vende la propria **forza lavoro**: la capacità, la competenza, l'intelligenza necessaria per svolgere un lavoro. Il lavoratore rimane una persona — con diritti, bisogni, una vita.</span>
 
 ### Cosa determina il prezzo della forza lavoro?
 
@@ -109,23 +107,23 @@ Il salario è il prezzo principale, ma la contrattazione riguarda anche orari e 
 
 | Fattore | Effetto sul prezzo |
 |---|---|
-| Livello di formazione e competenza | Più rara la competenza → più alto il prezzo potenziale |
-| Numero di persone con le stesse competenze | Più concorrenza → prezzo più basso |
-| Domanda di lavoro per quel settore | Più richiesta → valore più alto |
-| Salari minimi e legislazione | Pongono un limite inferiore al prezzo |
+| <span class="c-def">Livello di formazione e competenza</span> | Più rara la competenza → più alto il prezzo potenziale |
+| <span class="c-def">Numero di persone con le stesse competenze</span> | Più concorrenza → prezzo più basso |
+| <span class="c-def">Domanda di lavoro per quel settore</span> | Più richiesta → valore più alto |
+| <span class="c-def">Salari minimi e legislazione</span> | Pongono un limite inferiore al prezzo |
 
 ### Perché il mercato del lavoro è "particolare"?
 
-Tre caratteristiche lo rendono unico:
+<span class="c-tesi">Tre caratteristiche lo rendono unico:</span>
 
 **1. La merce non è nata per essere venduta.**
 Un lavoratore è una persona, non un prodotto progettato per il mercato.
 
 **2. La merce non è separabile da chi la vende.**
-Quando vendi una borraccia, la relazione finisce lì. Nel lavoro, la relazione continua nel tempo — e le condizioni in cui avviene hanno un impatto diretto e continuo sulla vita del lavoratore e della sua famiglia.
+<span class="c-impl">Quando vendi una borraccia, la relazione finisce lì. Nel lavoro, la relazione continua nel tempo — e le condizioni in cui avviene hanno un impatto diretto e continuo sulla vita del lavoratore e della sua famiglia.</span>
 
 **3. La merce può contrattare il suo prezzo.**
-Le bottiglie d'acqua non possono organizzarsi per alzare il loro prezzo. I lavoratori sì — attraverso i **sindacati** e le **organizzazioni collettive**. Non sempre ci riescono, ma questa possibilità esiste ed è unica rispetto a qualsiasi altra merce.
+<span class="c-tesi">Le bottiglie d'acqua non possono organizzarsi per alzare il loro prezzo. I lavoratori sì — attraverso i **sindacati** e le **organizzazioni collettive**. Non sempre ci riescono, ma questa possibilità esiste ed è unica rispetto a qualsiasi altra merce.</span>
 
 Nella contrattazione entrano in gioco tre attori:
 - **Datori di lavoro**: vogliono comprare la forza lavoro al prezzo più basso
@@ -134,12 +132,12 @@ Nella contrattazione entrano in gioco tre attori:
 
 ### Il caso svizzero: mercato flessibile, poche tutele
 
-La Svizzera è uno dei paesi europei con la **regolamentazione del lavoro più flessibile** — il che significa: poche regole, poche garanzie per i lavoratori. Le fonti principali:
+<span class="c-tesi">La Svizzera è uno dei paesi europei con la **regolamentazione del lavoro più flessibile** — il che significa: poche regole, poche garanzie per i lavoratori.</span> Le fonti principali:
 
 - **Legge sul lavoro**: definisce orari, straordinari, pause tra turni
 - **Codice delle obbligazioni**: pochi articoli sul diritto del lavoro — e, fatto sorprendente, **non obbliga nemmeno a stipulare un contratto scritto**
 
-Il 50% dei lavoratori svizzeri non ha un contratto collettivo. In caso di licenziamento, il preavviso massimo è tre mesi. Anche se il licenziamento è dimostrato come abusivo, **non esiste il reintegro**: al massimo si ottiene un risarcimento fino a sei mesi di stipendio. L'onere della prova è sul lavoratore.
+<span class="c-warn">Il <span class="c-dato">50%</span> dei lavoratori svizzeri non ha un contratto collettivo. In caso di licenziamento, il preavviso massimo è tre mesi. Anche se il licenziamento è dimostrato come abusivo, **non esiste il reintegro**: al massimo si ottiene un risarcimento fino a sei mesi di stipendio. L'onere della prova è sul lavoratore.</span>
 
 ---
 
@@ -147,13 +145,13 @@ Il 50% dei lavoratori svizzeri non ha un contratto collettivo. In caso di licenz
 
 A chiusura della lezione, la professoressa introduce il film che sarà discusso nel seminario successivo.
 
-**Ken Loach** gira il film nel 2018-2019 — prima di tre eventi storici che cambierebbero il mondo — eppure li anticipa in modo quasi profetico:
+<span class="c-dato">**Ken Loach** gira il film nel 2018-2019</span> — prima di tre eventi storici che cambierebbero il mondo — eppure li anticipa in modo quasi profetico:
 
 1. **La pandemia**: il film racconta la logistica e la distribuzione delle merci — le stesse catene globali che il Covid ha messo in crisi
 2. **Le guerre**: la logistica nasce nel mondo militare e ci è tornata con i conflitti recenti
 3. **L'intelligenza artificiale**: il film mostra già la digitalizzazione che trasforma il lavoro
 
-La storia segue **Ricky** (corriere nella logistica) e sua moglie **Abby** (assistente domiciliare nella cura). La scheda di discussione preparata dai docenti invita a riflettere su:
+La storia segue **Ricky** [?] (corriere nella logistica) e sua moglie **Abby** [?] (assistente domiciliare nella cura). La scheda di discussione preparata dai docenti invita a riflettere su:
 
 - Caratteristiche e rischi del lavoro nella logistica (fisici e mentali)
 - Caratteristiche del lavoro di cura e rischi psicosociali

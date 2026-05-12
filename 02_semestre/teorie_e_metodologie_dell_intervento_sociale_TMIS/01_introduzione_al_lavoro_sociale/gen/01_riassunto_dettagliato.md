@@ -1,4 +1,12 @@
 # Introduzione al Lavoro Sociale — Parte 1
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🟡 Oro    #D4AC0D → Connessione / implicazione
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+-->
 TMIS · Sessione 01
 
 > Questa prima lezione pone le fondamenta di tutto il corso: cos'è il lavoro sociale, in quale mondo opera, con chi e secondo quali valori. Non è roba astratta — è il terreno da cui cresce ogni cosa che verrà dopo. Vale la pena capirla bene.
@@ -11,9 +19,9 @@ Per capire il lavoro sociale oggi, bisogna prima capire il mondo in cui opera.
 
 **Marshall Berman** (1982) descrive la modernità come un vortice permanente: un ambiente che promette avventura, crescita e trasformazione, ma che allo stesso tempo minaccia di distruggere tutto ciò che conosciamo. Come diceva Marx, *"tutto ciò che è solido si dissolve nell'aria"*.
 
-**Zygmunt Bauman** (filosofo e sociologo polacco, 1925–2017) va oltre e parla di **modernità liquida**: nella società contemporanea, nulla ha più contorni fissi e definitivi. Le relazioni, il lavoro, l'identità — tutto può essere rimodellato continuamente secondo le logiche del capitalismo flessibile. L'incertezza non è un'eccezione, è la norma.
+<span class="c-dato">**Zygmunt Bauman** (filosofo e sociologo polacco, 1925–2017)</span> va oltre e parla di <span class="c-def">**modernità liquida**</span>: <span class="c-tesi">nella società contemporanea, nulla ha più contorni fissi e definitivi. Le relazioni, il lavoro, l'identità — tutto può essere rimodellato continuamente secondo le logiche del capitalismo flessibile. L'incertezza non è un'eccezione, è la norma.</span>
 
-Pensaci così: nella modernità "solida" di un tempo, sapevi dove stavi. Il tuo ruolo nella società era come un albero piantato nel terreno — radici profonde, crescita prevedibile. Nella modernità liquida, è come cercare di piantare un albero in un fiume che scorre. Le radici faticano ad attaccarsi, ma devi comunque crescere.
+Pensaci così: nella modernità "solida" di un tempo, sapevi dove stavi. Il tuo ruolo nella società era come un albero piantato nel terreno — radici profonde, crescita prevedibile. <span class="c-es">Nella modernità liquida, è come cercare di piantare un albero in un fiume che scorre. Le radici faticano ad attaccarsi, ma devi comunque crescere.</span>
 
 > Questa metafora della liquidità è fondamentale perché definisce il contesto in cui operano i professionisti del lavoro sociale: un mondo in continuo cambiamento, dove le persone vivono spesso situazioni di fragilità non per colpa loro, ma per effetto di processi strutturali fuori dal loro controllo.
 
@@ -21,11 +29,11 @@ Pensaci così: nella modernità "solida" di un tempo, sapevi dove stavi. Il tuo 
 
 ## 2. La figura dell'operatore sociale: liquida per natura
 
-**Sergio Tramma** (2018, *L'educatore imperfetto*) applica la metafora baumaniana direttamente alla figura professionale:
+<span class="c-dato">**Sergio Tramma** (2018, *L'educatore imperfetto*)</span> applica la metafora baumaniana direttamente alla figura professionale:
 
 > «La figura dell'educatore professionale è una figura costitutivamente incerta, alle volte quasi sfuggente, costantemente in via di definizione, restia a qualsiasi tentativo di stabilizzazione all'interno di una rassegna rigida ed esaustiva di compiti e funzioni. Una figura "liquida", non trasformabile in solida, vale a dire rigida, statica, immodificabile; liquida ma non per questo eterea, ossia inafferrabile, indefinibile, inconoscibile, impalpabile.»
 
-L'incertezza della professione è **strutturale**, non una mancanza da colmare. Tramma la legge come una *forza paradossale*: è la capacità di restare costantemente aperti, di mettere in discussione il proprio modo di operare, di adattarsi alle persone e ai contesti senza irrigidirsi in schemi fissi.
+<span class="c-tesi">L'incertezza della professione è **strutturale**, non una mancanza da colmare. Tramma la legge come una *forza paradossale*: è la capacità di restare costantemente aperti, di mettere in discussione il proprio modo di operare, di adattarsi alle persone e ai contesti senza irrigidirsi in schemi fissi.</span>
 
 Quindi: l'operatore sociale non è incerto perché non sa fare il suo mestiere. È incerto perché il suo mestiere richiede apertura, flessibilità e autocritica permanente.
 
@@ -33,26 +41,26 @@ Quindi: l'operatore sociale non è incerto perché non sa fare il suo mestiere. 
 
 ## 3. Cos'è il lavoro sociale: la definizione internazionale
 
-L'**International Federation of Social Workers (IFSW)** ha adottato nel 2014 una **definizione globale** che è il punto di riferimento ufficiale della professione:
+<span class="c-dato">L'**International Federation of Social Workers (IFSW)** ha adottato nel **2014** una **definizione globale**</span> che è il punto di riferimento ufficiale della professione:
 
 > «Il social work è una professione basata sulla pratica e una disciplina accademica che promuove il cambiamento sociale e lo sviluppo, la coesione e l'emancipazione sociale, nonché la liberazione delle persone. Principi di giustizia sociale, diritti umani, responsabilità collettiva e rispetto delle diversità sono fondamentali per il servizio sociale. Sostenuto dalle teorie del servizio sociale, delle scienze sociali, umanistiche e dai saperi indigeni, il servizio sociale coinvolge persone e strutture per affrontare le sfide della vita e per migliorarne il benessere.»
 
 Parole chiave da capire davvero:
 
-- **Cambiamento sociale** → l'intervento non si limita al singolo: mira a trasformare le condizioni strutturali che generano esclusione e oppressione.
+- <span class="c-def">**Cambiamento sociale**</span> → l'intervento non si limita al singolo: mira a trasformare le condizioni strutturali che generano esclusione e oppressione.
 - **Coesione ed emancipazione** → si vuole una società più solidale E persone più libere di autodeterminarsi.
-- **Giustizia sociale** → valore fondante, non opzionale.
+- <span class="c-def">**Giustizia sociale**</span> → valore fondante, non opzionale.
 - **Diritti umani** → il lavoro sociale difende i diritti di prima generazione (civili e politici), seconda generazione (sociali ed economici) e terza generazione (ambiente, biodiversità).
 - **Responsabilità collettiva** → i diritti individuali si realizzano solo se ognuno si prende cura degli altri.
-- **Saperi indigeni** → la definizione riconosce che il sapere "occidentale" non è l'unico valido. Un atto politico esplicito contro il colonialismo culturale.
+- <span class="c-def">**Saperi indigeni**</span> → la definizione riconosce che il sapere "occidentale" non è l'unico valido. Un atto politico esplicito contro il colonialismo culturale.
 
-I **mandati fondamentali** della professione: promuovere il cambiamento, la coesione sociale, l'**empowerment** (rafforzamento delle capacità e dell'autonomia delle persone) e la liberazione.
+I **mandati fondamentali** della professione: promuovere il cambiamento, la coesione sociale, l'<span class="c-def">**empowerment**</span> (rafforzamento delle capacità e dell'autonomia delle persone) e la liberazione.
 
 ---
 
 ## 4. La dimensione politica del lavoro sociale
 
-Il lavoro sociale non è neutro. Ha una posizione valoriale chiara, orientata all'emancipazione, alla democrazia e alla giustizia sociale.
+<span class="c-tesi">Il lavoro sociale non è neutro. Ha una posizione valoriale chiara, orientata all'emancipazione, alla democrazia e alla giustizia sociale.</span>
 
 > «Non può esserci teoria pedagogica implicante fini ai mezzi dell'azione educativa che non possieda un concetto di uomo e di mondo. In questo senso non esiste un'educazione neutra.» (Paulo Freire, *Pedagogia degli oppressi*, 1970/2017)
 
@@ -65,7 +73,7 @@ La **giustizia sociale** si concretizza attraverso:
 - Contrasto alla discriminazione e all'oppressione istituzionale
 - Rimozione delle barriere legate a genere, età, etnia, religione, cultura, disabilità
 
-La storia del servizio sociale presenta caratteri di **ambiguità**: ci sono state figure eroiche come **Jane Addams** (attivista contro la discriminazione razziale, Nord America), **Alice Salomon** (collega le ingiustizie sociali alle cause strutturali del sistema, Europa) e **Paolina Tarugi** (difesa dei diritti civili e politici delle donne e delle bambine, Italia). Ma ci sono stati anche casi in cui operatori sociali hanno — più o meno consapevolmente — contribuito a riprodurre discriminazioni e oppressioni. Questa tensione è reale e va tenuta presente.
+<span class="c-es">La storia del servizio sociale presenta caratteri di **ambiguità**: ci sono state figure eroiche come **Jane Addams** (attivista contro la discriminazione razziale, Nord America), **Alice Salomon** (collega le ingiustizie sociali alle cause strutturali del sistema, Europa) e **Paolina Tarugi** (difesa dei diritti civili e politici delle donne e delle bambine, Italia).</span> <span class="c-warn">Ma ci sono stati anche casi in cui operatori sociali hanno — più o meno consapevolmente — contribuito a riprodurre discriminazioni e oppressioni. Questa tensione è reale e va tenuta presente.</span>
 
 ---
 
@@ -75,7 +83,7 @@ Questo è uno degli approcci teorici chiave del corso (Allegri e Sanfelici, 2023
 
 ### Cos'è l'oppressione?
 
-**L'oppressione** è l'azione di costringere, emarginare, sottomettere persone o gruppi. Può essere:
+<span class="c-def">**L'oppressione**</span> è l'azione di costringere, emarginare, sottomettere persone o gruppi. Può essere:
 - **Esterna**: violenza diretta, può generare resistenza
 - **Interna**: quando una minoranza fa propria la convinzione che il sistema dominante sia l'unico possibile (Freire, 1970)
 
@@ -83,17 +91,17 @@ Si attua anche attraverso l'imposizione pacifica di sistemi culturali, credenze 
 
 ### La questione del potere
 
-Gli operatori sociali **detengono un potere enorme** connesso al loro ruolo professionale. Il lavoro oscilla continuamente tra la promozione dell'autodeterminazione delle persone e i vincoli sociali, istituzionali e professionali.
+<span class="c-tesi">Gli operatori sociali **detengono un potere enorme** connesso al loro ruolo professionale. Il lavoro oscilla continuamente tra la promozione dell'autodeterminazione delle persone e i vincoli sociali, istituzionali e professionali.</span>
 
-Sono **gatekeeper**: regolano l'accesso a servizi e risorse. Hanno **discrezionalità**: possono prendere decisioni che impattano profondamente sulla vita delle persone.
+Sono <span class="c-def">**gatekeeper**</span>: regolano l'accesso a servizi e risorse. Hanno **discrezionalità**: possono prendere decisioni che impattano profondamente sulla vita delle persone.
 
-**Foucault** ha mostrato come il sapere professionale sia esso stesso una forma di potere: definire una persona attraverso diagnosi ed etichette contribuisce a co-costruire sistemi oppressivi. "Una persona dipendente" è etichetta — "una persona che si trova in una situazione di dipendenza" è descrizione che lascia spazio al cambiamento.
+<span class="c-impl">**Foucault** ha mostrato come il sapere professionale sia esso stesso una forma di potere: definire una persona attraverso diagnosi ed etichette contribuisce a co-costruire sistemi oppressivi. "Una persona dipendente" è etichetta — "una persona che si trova in una situazione di dipendenza" è descrizione che lascia spazio al cambiamento.</span>
 
-Il rischio è che gli operatori si auto-rappresentino come privi di potere. Ma quella discrezionalità c'è, e se non la riconosci, rischi di usarla male.
+<span class="c-warn">Il rischio è che gli operatori si auto-rappresentino come privi di potere. Ma quella discrezionalità c'è, e se non la riconosci, rischi di usarla male.</span>
 
 ### Nella pratica: trifocalità e partecipazione
 
-L'approccio anti-oppressivo richiede di operare su tre livelli simultaneamente (ottica **trifocale**, Gui, 2004):
+L'approccio anti-oppressivo richiede di operare su tre livelli simultaneamente (ottica <span class="c-def">**trifocale**</span>, Gui, 2004):
 - **Micro**: la relazione con la singola persona
 - **Meso**: le relazioni tra sistemi (famiglia-scuola, persona-servizi)
 - **Macro**: le strutture sociali, le politiche, le leggi
@@ -119,21 +127,21 @@ Le persone sono viste nella loro **globalità** — non come diagnosi, non come 
 
 Versus: la visione deterministica e diagnostica dell'essere umano.
 
-Concetto chiave dalla lezione: la persona *si trova in una situazione* di disagio, non *è* il disagio. Il linguaggio conta, perché modella la nostra percezione e il nostro intervento.
+<span class="c-tesi">Concetto chiave dalla lezione: la persona *si trova in una situazione* di disagio, non *è* il disagio. Il linguaggio conta, perché modella la nostra percezione e il nostro intervento.</span>
 
 ### I sistemi complessi
 
-Le persone, i gruppi e le comunità sono **sistemi complessi**: insiemi di elementi in costante relazione reciproca, in continua trasformazione, alla ricerca di equilibrio.
+Le persone, i gruppi e le comunità sono <span class="c-def">**sistemi complessi**</span>: insiemi di elementi in costante relazione reciproca, in continua trasformazione, alla ricerca di equilibrio.
 
-I sistemi complessi sono regolati da una **causalità circolare** (non lineare): non si può risalire a una causa unica di un comportamento, né prevedere con certezza comportamenti futuri. Questo viene da **Gregory Bateson** e dalla tradizione sistemica (Scuola di Palo Alto — Watzlawick et al.).
+I sistemi complessi sono regolati da una <span class="c-def">**causalità circolare**</span> (non lineare): non si può risalire a una causa unica di un comportamento, né prevedere con certezza comportamenti futuri. Questo viene da **Gregory Bateson** e dalla tradizione sistemica (Scuola di Palo Alto — Watzlawick et al.).
 
-Implicazione pratica: non cerco *la* causa del problema. Cerco di capire le relazioni, le interazioni, i feedback tra gli elementi del sistema. L'incertezza non è un difetto del lavoro — è una sua caratteristica strutturale.
+<span class="c-impl">Implicazione pratica: non cerco *la* causa del problema. Cerco di capire le relazioni, le interazioni, i feedback tra gli elementi del sistema. L'incertezza non è un difetto del lavoro — è una sua caratteristica strutturale.</span>
 
 ---
 
 ## 7. Il modello bioecologico di Bronfenbrenner
 
-**Urie Bronfenbrenner** (1917–2015) ha formulato il **Modello Multidimensionale Bioecologico dello Sviluppo Umano** per spiegare come lo sviluppo di una persona sia il risultato dell'interazione dinamica tra caratteristiche biologiche, psicologiche e ambientali.
+<span class="c-dato">**Urie Bronfenbrenner** (1917–2015)</span> ha formulato il <span class="c-def">**Modello Multidimensionale Bioecologico dello Sviluppo Umano**</span> per spiegare come lo sviluppo di una persona sia il risultato dell'interazione dinamica tra caratteristiche biologiche, psicologiche e ambientali.
 
 L'idea centrale: per capire una persona, devi guardare tutto l'ecosistema in cui vive.
 
@@ -158,15 +166,15 @@ Immagina i cerchi concentrici di un tronco d'albero tagliato: il cerchio più in
 | **Macrosistema** | Valori, costumi, leggi, ideologie della società | Cultura dominante, sistema economico, legislazione |
 | **Cronosistema** | Dimensione temporale: come il tempo cambia tutto | Perdita di un genitore, transizioni di vita, cambiamenti storici |
 
-Il **cronosistema** è stato aggiunto nel modello bio-ecologico più recente e descrive come gli eventi si sviluppano nel tempo, sia a livello micro (una fase della vita) che macro (cambiamenti storici e sociali).
+Il <span class="c-def">**cronosistema**</span> è stato aggiunto nel modello bio-ecologico più recente e descrive come gli eventi si sviluppano nel tempo, sia a livello micro (una fase della vita) che macro (cambiamenti storici e sociali).
 
-Il modello finale di Bronfenbrenner si riassume nell'acronimo **PPCT**:
+Il modello finale di Bronfenbrenner si riassume nell'acronimo <span class="c-def">**PPCT**</span>:
 - **Processo** → le dinamiche di interazione persona-contesto
 - **Persona** → le caratteristiche dell'individuo (età, temperamento, salute)
 - **Contesto** → i cinque sistemi
 - **Tempo** → la dimensione cronologica
 
-Perché è utile per il lavoro sociale? Perché ti dà una mappa. Prima di intervenire con una persona, hai bisogno di capire tutti gli strati del suo ecosistema: non basta guardare la famiglia, devi guardare anche il quartiere, le politiche del comune, la storia di vita.
+<span class="c-impl">Perché è utile per il lavoro sociale? Perché ti dà una mappa. Prima di intervenire con una persona, hai bisogno di capire tutti gli strati del suo ecosistema: non basta guardare la famiglia, devi guardare anche il quartiere, le politiche del comune, la storia di vita.</span>
 
 ---
 
@@ -174,9 +182,9 @@ Perché è utile per il lavoro sociale? Perché ti dà una mappa. Prima di inter
 
 | Termine | Significato |
 |---------|-------------|
-| **Modernità liquida** | Società contemporanea caratterizzata da incertezza, fluidità e trasformazione continua (Bauman) |
-| **Figura liquida** | L'operatore sociale è strutturalmente incerto: questa è una forza, non una mancanza (Tramma) |
-| **Definizione IFSW 2014** | Definizione internazionale ufficiale del servizio sociale: promuove cambiamento, giustizia sociale, diritti umani |
+| <span class="c-def">**Modernità liquida**</span> | Società contemporanea caratterizzata da incertezza, fluidità e trasformazione continua (Bauman) |
+| <span class="c-def">**Figura liquida**</span> | L'operatore sociale è strutturalmente incerto: questa è una forza, non una mancanza (Tramma) |
+| <span class="c-def">**Definizione IFSW 2014**</span> | Definizione internazionale ufficiale del servizio sociale: promuove cambiamento, giustizia sociale, diritti umani |
 | **Giustizia sociale** | Valore fondante del lavoro sociale: equità, inclusione, contrasto all'oppressione |
 | **Empowerment** | Rafforzamento delle capacità e dell'autonomia delle persone |
 | **Oppressione** | Esclusione forzata di persone/gruppi da opportunità e risorse; può essere esterna o interna |

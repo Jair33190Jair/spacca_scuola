@@ -37,7 +37,7 @@ def _md_to_pdf(md_path: Path, out_path: Path) -> None:
         md_path.read_text(encoding="utf-8"),
         extras=["tables", "fenced-code-blocks"],
     )
-    # Minimal CSS: readable font, constrained width, page margins
+    # Minimal CSS: readable font, constrained width, page margins + semantic color classes
     styled = f"""
     <style>
       body {{ font-family: Georgia, serif; max-width: 720px;
@@ -47,6 +47,12 @@ def _md_to_pdf(md_path: Path, out_path: Path) -> None:
       td, th {{ border: 1px solid #ccc; padding: 6px 10px; }}
       th {{ background: #f4f4f4; }}
       code {{ background: #f0f0f0; padding: 2px 4px; }}
+      .c-def  {{ color: #2980B9; }}
+      .c-tesi {{ color: #27AE60; }}
+      .c-es   {{ color: #E67E22; }}
+      .c-dato {{ color: #8E44AD; }}
+      .c-impl {{ color: #D4AC0D; }}
+      .c-warn {{ color: #CB4335; }}
     </style>
     {html}
     """

@@ -1,4 +1,12 @@
 # Introduzione al Lavoro Sociale — Parte 1 · Sintesi
+<!-- LEGENDA COLORI
+  🔵 Blu    #2980B9 → Definizione / concetto chiave
+  🟢 Verde  #27AE60 → Tesi / argomento centrale
+  🟠 Arancio #E67E22 → Esempio / caso concreto
+  🟣 Viola  #8E44AD → Dato / nome / data
+  🟡 Oro    #D4AC0D → Connessione / implicazione
+  🔴 Rosso  #CB4335 → Attenzione / eccezione
+-->
 TMIS · Sessione 01
 
 > Prima lezione del corso: le fondamenta. Tieni a mente questi concetti perché tornano ovunque.
@@ -7,53 +15,53 @@ TMIS · Sessione 01
 
 ## Modernità liquida (Bauman)
 
-- La società contemporanea è fluida, instabile, priva di punti fissi: la **modernità liquida**
+- <span class="c-tesi">La società contemporanea è fluida, instabile, priva di punti fissi: la **modernità liquida**</span>
 - Nulla ha più contorni definiti una volta per tutte — relazioni, lavoro, identità
-- Questo genera incertezza strutturale per le persone... e anche per gli operatori
+- <span class="c-impl">Questo genera incertezza strutturale per le persone... e anche per gli operatori</span>
 
 ## La figura liquida dell'operatore (Tramma)
 
-- L'operatore/educatore sociale è una **figura costitutivamente incerta**, mai del tutto definita
+- <span class="c-tesi">L'operatore/educatore sociale è una **figura costitutivamente incerta**, mai del tutto definita</span>
 - Questa è una **forza**, non un limite: significa apertura costante, riflessione critica, adattabilità
 - Non cerca ricette fisse — si adatta a persone e contesti mantenendo bussola valoriale chiara
 
 ## La definizione internazionale del servizio sociale (IFSW, 2014)
 
-- Il lavoro sociale promuove **cambiamento sociale, coesione, emancipazione e liberazione delle persone**
+- Il lavoro sociale promuove <span class="c-def">**cambiamento sociale, coesione, emancipazione e liberazione delle persone**</span>
 - I principi fondanti: **giustizia sociale, diritti umani, responsabilità collettiva, rispetto delle diversità**
-- Si basa su teorie delle scienze sociali, umanistiche e **saperi indigeni** (rifiuto del colonialismo culturale)
+- Si basa su teorie delle scienze sociali, umanistiche e <span class="c-def">**saperi indigeni**</span> (rifiuto del colonialismo culturale)
 - Lavora con *persone e strutture* — non solo il singolo, ma i sistemi intorno
 
 ## Dimensione politica del lavoro sociale
 
-- Il lavoro sociale **non è neutro**: ha una posizione valoriale orientata all'emancipazione
+- <span class="c-tesi">Il lavoro sociale **non è neutro**: ha una posizione valoriale orientata all'emancipazione</span>
 - **Giustizia sociale** = valore fondante: equo accesso, inclusione, contrasto alla discriminazione
-- La storia del lavoro sociale è **ambigua**: ci sono stati esempi virtuosi (Addams, Salomon, Tarugi) e casi in cui operatori hanno contribuito a riprodurre oppressioni
+- <span class="c-warn">La storia del lavoro sociale è **ambigua**: ci sono stati esempi virtuosi (Addams, Salomon, Tarugi) e casi in cui operatori hanno contribuito a riprodurre oppressioni</span>
 
 ## Approccio anti-oppressivo
 
-- L'**oppressione** = esclusione forzata di persone/gruppi da opportunità e risorse; può essere esterna o interna (interiorizzata — Freire)
+- L'<span class="c-def">**oppressione**</span> = esclusione forzata di persone/gruppi da opportunità e risorse; può essere esterna o interna (interiorizzata — Freire)
 - Gli operatori detengono **potere enorme** (gatekeeper, discrezionalità) e spesso non ne sono consapevoli
 - Etichettare le persone con diagnosi rigide contribuisce a co-costruire sistemi oppressivi
 - La pratica anti-oppressiva richiede: consapevolezza critica del potere, analisi a più livelli, **partecipazione autentica** delle persone
-- **Ottica trifocale** (Gui): operare simultaneamente su micro (persona), meso (relazioni tra sistemi), macro (strutture sociali)
+- <span class="c-def">**Ottica trifocale**</span> (Gui): operare simultaneamente su micro (persona), meso (relazioni tra sistemi), macro (strutture sociali)
 
 ## Con chi lavora l'operatore
 
 - Con persone di tutte le età, in situazioni di fragilità, disagio o difficoltà (temporanee o permanenti)
 - Visione della persona: **globalità** (fisica, cognitiva, affettiva, relazionale, creativa, spirituale), unicità, co-costruttore del proprio destino
-- La persona *si trova in una situazione* di disagio — non *è* il disagio
+- <span class="c-tesi">La persona *si trova in una situazione* di disagio — non *è* il disagio</span>
 - Lavora con persone, ma anche con enti, reti, istituzioni — sempre in équipe
 
 ## Sistemi complessi (Bateson / Palo Alto)
 
-- Persone, gruppi e comunità sono **sistemi complessi**: elementi in relazione reciproca e continua trasformazione
-- Regolati da **causalità circolare**: non esiste una causa unica — gli elementi si influenzano a vicenda
+- Persone, gruppi e comunità sono <span class="c-def">**sistemi complessi**</span>: elementi in relazione reciproca e continua trasformazione
+- Regolati da <span class="c-def">**causalità circolare**</span>: non esiste una causa unica — gli elementi si influenzano a vicenda
 - Non si può prevedere con certezza il comportamento futuro di un sistema vivente
 
 ## Modello bioecologico di Bronfenbrenner (1917–2005)
 
-- Lo sviluppo umano è il risultato dell'interazione persona-ambiente: **nessuno cresce nel vuoto**
+- <span class="c-tesi">Lo sviluppo umano è il risultato dell'interazione persona-ambiente: **nessuno cresce nel vuoto**</span>
 - L'ambiente è una serie di cerchi concentrici (come una cipolla o una matrioska):
 
 | Sistema | Contenuto |
@@ -64,7 +72,7 @@ TMIS · Sessione 01
 | **Macrosistema** | Cultura, leggi, valori, ideologie della società |
 | **Cronosistema** | Dimensione temporale: come il tempo cambia tutto |
 
-- **PPCT**: Processo · Persona · Contesto · Tempo — il modello bio-ecologico aggiornato
+- <span class="c-def">**PPCT**</span>: Processo · Persona · Contesto · Tempo — il modello bio-ecologico aggiornato
 - L'individuo è **soggetto attivo** (non tabula rasa); l'interazione con l'ambiente è **bidirezionale**
 
 ---

@@ -10,6 +10,7 @@ Mondi del Lavoro · Sessione 08
 - Il frontalierato è il tema più divisivo del dibattito politico ticinese
 - Campagne referendarie dagli anni '90 con simboli forti (frontalieri come topi) hanno alimentato stereotipi e immaginari collettivi
 - Approccio richiesto: **atteggiamento "laico"** — ragionare sui dati, non sulle opinioni già formate
+- Riferimento: **E.H. Carr**, *Sei lezioni di storia* — anche la storia ha una componente interpretativa, ma i fatti oggettivi restano il punto di partenza
 
 ---
 

@@ -66,9 +66,9 @@ Mondi del Lavoro · Sessione 06
 ### Salari (settore privato, 2024)
 | | Mediana mensile |
 |--|----------------|
-| Svizzera | 6.722 fr. |
+| Svizzera | 6.778 fr. |
 | Ticino | **5.393 fr.** |
-| Differenza | -1.385 fr. (-20,6%) |
+| Differenza | -1.385 fr. (-25,8%) |
 
 - Il 23% del divario è "spiegato" da differenze strutturali; il restante 2,8% è non spiegato
 - Dal 2020 al 2024: i salari più bassi sono cresciuti di più (+7,6%) → possibile effetto del

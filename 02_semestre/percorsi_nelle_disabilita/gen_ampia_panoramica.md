@@ -374,6 +374,8 @@ ICF
 | **Morin, E.** | Autonomia dipendente | 11 |
 | **Nuzzo, A.** | Operatore come "tessitore di relazioni" | 11 |
 | **Sen, A.** | Capability approach (1993) | 11 |
+| **Judith Singer** | Concetto di neurodiversità (anni '90) | 08 |
+| **Deci & Ryan** | Prima definizione di autodeterminazione in ambito educativo (1985) | 11 |
 | **Lachapelle et al.** | Correlazione autodeterminazione-QdV soggettiva (2005) | 11 |
 
 ---
