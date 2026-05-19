@@ -55,6 +55,25 @@ della lezione, in grassetto}
 - **Opinioni del prof:** includi solo quelle
   rilevanti per l'esame, segnalate brevemente.
 
+## Sistema di colori
+
+Stesse classi CSS del riassunto dettagliato. Includi il commento
+legenda in cima al file e usa `<span class="c-xxx">` inline.
+
+```html
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+```
+
+Usa i colori in modo ancora più selettivo rispetto al dettagliato:
+evidenzia solo i termini e le frasi davvero imprescindibili per l'esame.
+
 ## Regole di formato
 
 - **Liste puntate** come formato principale.

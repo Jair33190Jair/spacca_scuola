@@ -1,21 +1,30 @@
 # Finalità del Lavoro Sociale — Schema
 TMIS · Sessione 03
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 ---
 
 ## Finalità del lavoro sociale
 
-- **Lavorare con** → non per, non al posto di
+- <span class="c-tesi">**Lavorare con** → non per, non al posto di</span>
 - **Obiettivo ideale** → diventare inutili (autonomia totale dove possibile)
-- **Finalità** → dove si vuole arrivare
+- <span class="c-def">**Finalità** → dove si vuole arrivare</span>
 - **Strumenti** → come ci si arriva (es. ascolto attivo = strumento, non finalità)
 
 ---
 
 ## Qualità di Vita (QdV)
 
-- **Definizione OMS (1995)** → percezione soggettiva della propria posizione nella vita
-- **Autori di riferimento** → Schalock e Verdugo (2006/2008)
+- <span class="c-def">**Definizione OMS (<span class="c-dato">1995</span>)** → percezione soggettiva della propria posizione nella vita</span>
+- **Autori di riferimento** → <span class="c-dato">Schalock e Verdugo (2006/2008)</span>
 
 **8 Domini:**
 
@@ -31,35 +40,35 @@ TMIS · Sessione 03
 | Benessere | Benessere materiale |
 
 **7 Principi:**
-- **Multidimensionalità** → no approcci unidimensionali
-- **Visione olistica** → domini interconnessi, influenza reciproca
+- <span class="c-def">**Multidimensionalità** → no approcci unidimensionali</span>
+- <span class="c-def">**Visione olistica** → domini interconnessi, influenza reciproca</span>
 - **Temporalità** → valori cambiano nel tempo
 - **Variabilità personale** → importanza diversa per ogni persona
 - **Soggettività + oggettività** → entrambe necessarie
 - **Empowerment** → emancipazione della persona
-- **Estendibilità** → vale per tutti, non solo persone con disabilità
+- <span class="c-tesi">**Estendibilità** → vale per tutti, non solo persone con disabilità</span>
 
 ---
 
 ## Salute e malattia
 
-- **OMS/Carta di Ottawa (1986)** → salute = completo benessere fisico, sociale, mentale
+- <span class="c-def">**OMS/Carta di Ottawa (<span class="c-dato">1986</span>)** → salute = completo benessere fisico, sociale, mentale</span>
 - **Salute** → risorsa per la vita, non scopo in sé; diritto sociale
 - **Pre-requisiti** → pace, risorse economiche, cibo, abitazione, ecosistema stabile
 
-**Twaddle — concetto triadico:**
-- **Disease** → malattia biologica oggettiva (diagnosi medica)
-- **Illness** → vissuto soggettivo del mal-stare
-- **Sickness** → interpretazione sociale/culturale della malattia
+**<span class="c-dato">Twaddle</span> — concetto triadico:**
+- <span class="c-def">**Disease** → malattia biologica oggettiva (diagnosi medica)</span>
+- <span class="c-def">**Illness** → vissuto soggettivo del mal-stare</span>
+- <span class="c-def">**Sickness** → interpretazione sociale/culturale della malattia</span>
 
-**Benessere collettivo** (Dal Pra Ponticelli, 2007):
+**Benessere collettivo** (<span class="c-dato">Dal Pra Ponticelli, 2007</span>):
 - **Definizione** → sentirsi riconosciuti come collettività, partecipare attivamente, condividere solidarietà
 
 ---
 
-## PERMA — Seligman (2011)
+## PERMA — <span class="c-dato">Seligman (2011)</span>
 
-- **Flourishing** → funzionamento ottimale: stare bene + funzionare efficacemente
+- <span class="c-def">**Flourishing** → funzionamento ottimale: stare bene + funzionare efficacemente</span>
 
 | Sigla | Termine | Nucleo |
 |---|---|---|
@@ -73,27 +82,27 @@ TMIS · Sessione 03
 
 ## Empowerment
 
-- **Definizione OMS** → processo per esprimere bisogni, partecipare, agire
+- <span class="c-def">**Definizione OMS** → processo per esprimere bisogni, partecipare, agire</span>
 - **Individuale** → controllo sulla propria vita
 - **Di comunità** → azione collettiva per QdV e salute
 
-**Empowerment relazionale** (Folgheraiter, 2004):
+**Empowerment relazionale** (<span class="c-dato">Folgheraiter, 2004</span>):
 - **Approccio** → postmoderno, lavoro di rete
-- **Dinamica** → esperti cedono potere → utenti diventano partner attivi
+- <span class="c-tesi">**Dinamica** → esperti cedono potere → utenti diventano partner attivi</span>
 - **Ruolo operatore** → orientamento / accompagnamento / sostegno (non sostituzione)
-- **Principio chiave** → potere ceduto si moltiplica, non si perde
+- <span class="c-impl">**Principio chiave** → potere ceduto si moltiplica, non si perde</span>
 
 ---
 
 ## Autonomia
 
-- **Definizione** → governarsi con leggi proprie nella rete di dipendenze (Tramma, 2018)
+- <span class="c-def">**Definizione** → governarsi con leggi proprie nella rete di dipendenze (<span class="c-dato">Tramma, 2018</span>)</span>
 - **Non è** → uno stato assoluto o assenza di dipendenza
-- **È** → un processo graduale (**autonomizzazione** — Meirieu)
+- <span class="c-def">**È** → un processo graduale (**autonomizzazione** — <span class="c-dato">Meirieu</span>)</span>
 - **Compito operatore** → organizzare aiuti graduali → ridurli progressivamente
 - **Livello target** → superiore all'attuale, ma accessibile
-- **Rischio** → confondere finta autonomia con abbandono (Tramma)
-- **Eccezione** → in alcuni casi limitare l'autonomia serve per promuoverla (protezione minori)
+- <span class="c-warn">**Rischio** → confondere finta autonomia con abbandono (<span class="c-dato">Tramma</span>)</span>
+- <span class="c-es">**Eccezione** → in alcuni casi limitare l'autonomia serve per promuoverla (protezione minori)</span>
 
 ---
 
@@ -106,7 +115,7 @@ TMIS · Sessione 03
 | **Ambito** | Globale | Specifico |
 | **Relazione** | Non correlate direttamente | |
 
-- **Autoefficacia** → motore motivazionale: senza convinzione di riuscire, nessuna azione
+- <span class="c-tesi">**Autoefficacia** → motore motivazionale: senza convinzione di riuscire, nessuna azione</span>
 - **Autostima** → legata a aspettative, modelli di riferimento, feedback ricevuti
 
 ---
@@ -115,17 +124,17 @@ TMIS · Sessione 03
 
 | Chi | Cosa | Quando |
 |---|---|---|
-| Schalock e Verdugo | Modello QdV — 8 domini | 2006/2008 |
-| OMS | Definizione di salute | 1948 |
-| OMS / Carta di Ottawa | Salute come risorsa e diritto | 1986 |
-| Twaddle | Disease / Illness / Sickness | — |
-| Dal Pra Ponticelli | Benessere collettivo | 2007 |
-| Seligman | Modello PERMA / flourishing | 2011 |
-| Folgheraiter | Empowerment relazionale | 2004 |
-| Tramma | Autonomia nell'educazione | 2018 |
-| Meirieu | Processo di autonomizzazione | — |
-| Bandura | Autoefficacia vs. autostima | 2012 |
-| Carbonari | QdV — principi e scopi | 2017 |
+| <span class="c-dato">Schalock e Verdugo</span> | Modello QdV — 8 domini | 2006/2008 |
+| <span class="c-dato">OMS</span> | Definizione di salute | 1948 |
+| <span class="c-dato">OMS / Carta di Ottawa</span> | Salute come risorsa e diritto | 1986 |
+| <span class="c-dato">Twaddle</span> | Disease / Illness / Sickness | — |
+| <span class="c-dato">Dal Pra Ponticelli</span> | Benessere collettivo | 2007 |
+| <span class="c-dato">Seligman</span> | Modello PERMA / flourishing | 2011 |
+| <span class="c-dato">Folgheraiter</span> | Empowerment relazionale | 2004 |
+| <span class="c-dato">Tramma</span> | Autonomia nell'educazione | 2018 |
+| <span class="c-dato">Meirieu</span> | Processo di autonomizzazione | — |
+| <span class="c-dato">Bandura</span> | Autoefficacia vs. autostima | 2012 |
+| <span class="c-dato">Carbonari</span> | QdV — principi e scopi | 2017 |
 
 ---
 

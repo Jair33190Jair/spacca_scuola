@@ -1,6 +1,15 @@
 # L'Osservazione (Seconda Parte) — Approcci, Tipologie e Strumenti
 TMIS · Sessione 08
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 > Questa lezione è la naturale continuazione della 07, dove avevamo
 > visto cos'è l'osservazione, perché è fondamentale nel lavoro sociale
 > e quali sono le cinque componenti essenziali. Qui si scende nel
@@ -16,24 +25,22 @@ TMIS · Sessione 08
 Prima di entrare nelle tipologie, la lezione apre con una premessa
 che vale la pena non saltare.
 
-**Osservare non basta.** I dati che raccogliamo durante l'osservazione
-devono poter essere:
+<span class="c-tesi">**Osservare non basta.** I dati che raccogliamo durante l'osservazione
+devono poter essere:</span>
 
-1. **Fruibili a distanza di tempo** — magari scrivi qualcosa alle 14:00
+1. <span class="c-def">**Fruibili a distanza di tempo**</span> — magari scrivi qualcosa alle 14:00
    e viene letto dal collega che entra alle 14:30. Oppure lo stesso dato
    viene ripreso sei mesi dopo per confrontare un comportamento ricorrente.
-2. **Comunicabili ad altri** — non lavoriamo quasi mai da soli. I dati
+2. <span class="c-def">**Comunicabili ad altri**</span> — non lavoriamo quasi mai da soli. I dati
    osservativi vengono condivisi con colleghi, équipe multidisciplinari,
-   autorità (come l'ARP — Autorità Regionale di Protezione), e a volte
+   autorità (come l'<span class="c-dato">ARP — Autorità Regionale di Protezione</span>), e a volte
    con le stesse persone con cui lavoriamo e le loro famiglie.
 3. **Accessibili in base al destinatario** — uno psicologo legge in modo
    diverso rispetto a un genitore. La forma deve adattarsi.
 
-Come dice Zaghi (1995, citato nel manuale), l'osservazione inserita nella
+Come dice <span class="c-dato">Zaghi (1995</span>, citato nel manuale), l'osservazione inserita nella
 programmazione mira a rendere evidenti i cambiamenti sia rispetto al tempo
 sia rispetto agli interventi educativi svolti.
-
-Fin qui siamo? Bene, ora entriamo nel cuore della lezione.
 
 ---
 
@@ -41,9 +48,9 @@ Fin qui siamo? Bene, ora entriamo nel cuore della lezione.
 
 L'osservazione si classifica lungo due assi principali:
 
-- **Grado di partecipazione dell'osservatore** — quanto sei dentro al
+- <span class="c-def">**Grado di partecipazione dell'osservatore**</span> — quanto sei dentro al
   campo, quanto sei in relazione con le persone osservate.
-- **Grado di controllo** — quanto riesci a controllare o modificare le
+- <span class="c-def">**Grado di controllo**</span> — quanto riesci a controllare o modificare le
   variabili del contesto.
 
 A seconda di come ti muovi su questi due assi, rientri in una delle
@@ -51,49 +58,49 @@ cinque tipologie principali.
 
 ### 1. Osservazione Occasionale
 
-È l'osservazione che si produce in modo **naturale, spontaneo, libero,
-discontinuo e non controllato**. Non stai facendo un protocollo — stai
+<span class="c-def">È l'osservazione che si produce in modo **naturale, spontaneo, libero,
+discontinuo e non controllato**.</span> Non stai facendo un protocollo — stai
 semplicemente lavorando e qualcosa cattura la tua attenzione.
 
-Esempio dalla lezione: sei in un'uscita al mare con un gruppo di persone
+<span class="c-es">Esempio dalla lezione: sei in un'uscita al mare con un gruppo di persone
 con disabilità. Un ragazzo che ha sempre molti spasmi e poca coordinazione
 vede passare un bicchiere con cubetti di ghiaccio luminosi, fa un vocalizzo
 e sembra contento. L'educatrice nota: _"E se attaccassi uno di questi
 oggetti alla sua mano con del velcro? Potrebbe stimolarsi."_ Quella è
-un'osservazione occasionale — non cercata, ma significativa.
+un'osservazione occasionale — non cercata, ma significativa.</span>
 
-**A cosa serve?** A cogliere risorse o problematiche che non avremmo visto
+<span class="c-impl">**A cosa serve?** A cogliere risorse o problematiche che non avremmo visto
 con uno strumento strutturato. Spesso diventa il punto di partenza per
-costruire un'osservazione più mirata.
+costruire un'osservazione più mirata.</span>
 
 ### 2. Osservazione Documentaria
 
-Prevede una **ricerca di informazioni attraverso documenti esistenti**:
+<span class="c-def">Prevede una **ricerca di informazioni attraverso documenti esistenti**:
 scritti, videoregistrazioni, diari, referti, cartelle cliniche. Non c'è
-contatto diretto con la persona — si lavora su ciò che altri hanno prodotto.
+contatto diretto con la persona — si lavora su ciò che altri hanno prodotto.</span>
 
-Esempio pratico: quando entri in uno stage e prima di conoscere gli utenti
+<span class="c-es">Esempio pratico: quando entri in uno stage e prima di conoscere gli utenti
 leggi la loro documentazione. Oppure — come nell'esercitazione in classe —
-quando guardi il documentario su Guido senza ancora averlo incontrato.
+quando guardi il documentario su Guido senza ancora averlo incontrato.</span>
 
 Il prof sottolinea che questa tipologia è importante in qualsiasi settore:
-anche in un servizio che lavora con strumenti ludici con adolescenti, è
+<span class="c-es">anche in un servizio che lavora con strumenti ludici con adolescenti, è
 utile sapere da che percorsi scolastici arrivano, quante sedi hanno
 frequentato, perché si sono spostati — tutta informazione che la
-documentazione può darci.
+documentazione può darci.</span>
 
 ### 3. Osservazione Partecipante (Malinowski)
 
-Questa è la tipologia più centrale per il lavoro educativo. Nasce
-dall'antropologia grazie a **Bronislaw Malinowski** (fine '800 / inizio
+<span class="c-tesi">Questa è la tipologia più centrale per il lavoro educativo.</span> Nasce
+dall'antropologia grazie a <span class="c-dato">**Bronislaw Malinowski**</span> (fine '800 / inizio
 '900), considerato il fondatore di questo paradigma.
 
 Malinowski diceva: se vuoi capire davvero come vive una comunità, devi
 andarci. Non puoi osservare dall'esterno, fare due visite e pensare di
-capire. Devi immergerti, stare a lungo, creare relazioni, imparare la
-lingua se necessario. Sviluppare una **"visione dal di dentro"**.
+capire. <span class="c-def">Devi immergerti, stare a lungo, creare relazioni, imparare la
+lingua se necessario. Sviluppare una **"visione dal di dentro"**.</span>
 
-Nella definizione di Corbetta (1999), citata nel manuale:
+Nella definizione di <span class="c-dato">Corbetta (1999)</span>, citata nel manuale:
 
 > «Il ricercatore si inserisce in maniera diretta e per un periodo di
 > tempo relativamente lungo in un determinato gruppo sociale preso nel
@@ -101,12 +108,12 @@ Nella definizione di Corbetta (1999), citata nel manuale:
 > con i suoi membri allo scopo di descriverne le azioni e di comprenderne,
 > mediante un processo di immedesimazione, le motivazioni.»
 
-**Perché è così importante nel lavoro educativo?**
+<span class="c-tesi">**Perché è così importante nel lavoro educativo?**
 
 Perché noi — quasi sempre — siamo dentro al campo. Viviamo con le persone,
 conosciamo la loro storia, condividiamo la quotidianità. Questo non è un
 limite: è una risorsa. Ci permette di capire il significato che le persone
-danno alle proprie azioni.
+danno alle proprie azioni.</span>
 
 Il prof aggiunge una nota pratica: circa il 50% delle tesi di laurea in
 questo settore si basano su un paradigma di osservazione partecipante,
@@ -115,43 +122,34 @@ un intervento educativo in un contesto reale.
 
 ### 4. Osservazione Sistematica
 
-L'esempio portato in classe è l'**esperimento Strange Situation di Mary
+<span class="c-es">L'esempio portato in classe è l'**esperimento Strange Situation di Mary
 Ainsworth** (studio sull'attaccamento): una famiglia va in laboratorio,
 uno psicologo osserva da dietro uno specchio unidirezionale, il contesto
-è controllato, l'osservazione è molto strutturata.
+è controllato, l'osservazione è molto strutturata.</span>
 
 L'osservazione sistematica si caratterizza per:
 
-- **Alta strutturazione** — si individua una caratteristica da osservare,
+- <span class="c-def">**Alta strutturazione**</span> — si individua una caratteristica da osservare,
   la si traduce in elementi osservabili (detti *item*), si predispongono
   strumenti precisi.
 - **Basso grado di partecipazione** — l'osservatore è distante dal campo.
-- **Replicabilità** — uno dei punti di forza è che diversi operatori
+- <span class="c-def">**Replicabilità**</span> — uno dei punti di forza è che diversi operatori
   formati allo stesso modo possono produrre osservazioni confrontabili.
 
-Quando si usa? In ambiti dove la strutturazione è necessaria — per esempio
+<span class="c-es">Quando si usa? In ambiti dove la strutturazione è necessaria — per esempio
 nel lavoro con bambini autistici e metodi ABA, o nelle videoregistrazioni
-di interazioni genitore-figlio nei Centri per la Famiglia.
-
-Il prof fa un riferimento all'Australia, che è particolarmente avanzata
-nella diagnostica precoce dell'autismo: in alcuni casi la legge prevede
-copertura assicurativa per i genitori di bambini autistici, perché i
-protocolli di intervento educativo strutturati richiedono molte ore al
-giorno. Senza un minimo di replicabilità e strutturazione, questi sistemi
-non potrebbero funzionare.
+di interazioni genitore-figlio nei Centri per la Famiglia.</span>
 
 ### 5. Osservazione con Tecniche Narrative
 
-È una raccolta di dati costruita attraverso **resoconti particolareggiati**
+<span class="c-def">È una raccolta di dati costruita attraverso **resoconti particolareggiati**
 di elementi ritenuti significativi, in modo discorsivo. Non prevede una
 strutturazione rigida preliminare e si avvale di strumenti qualitativi
-— principalmente il diario.
+— principalmente il diario.</span>
 
 Rispetto alla sistematica, è molto più aperta e permette di cogliere la
-complessità delle relazioni. Una studentessa in classe fa notare che il suo
-diario in stage era focalizzato — non puramente libero. Risposta del prof:
-esatto, nella pratica la maggior parte dei diari sono **strumenti ibridi**,
-che mixano osservazione libera e focus specifici.
+complessità delle relazioni. <span class="c-impl">In pratica la maggior parte dei diari sono
+**strumenti ibridi**, che mixano osservazione libera e focus specifici.</span>
 
 ---
 
@@ -164,7 +162,7 @@ capire quando e come usarli — o combinarli.
 
 | Limite | Spiegazione |
 |--------|-------------|
-| **Effetto Hawthorne (reattività)** | La presenza dell'osservatore modifica i comportamenti delle persone osservate. Chi è osservato può comportarsi in modo diverso — o per disagio, o esibizionismo. Il rischio è maggiore con persone sconosciute e diminuisce nel tempo. |
+| <span class="c-def">**Effetto Hawthorne (reattività)**</span> | La presenza dell'osservatore modifica i comportamenti delle persone osservate. <span class="c-warn">Chi è osservato può comportarsi in modo diverso — o per disagio, o esibizionismo. Il rischio è maggiore con persone sconosciute e diminuisce nel tempo.</span> |
 | **Soggettività** | Tutta la rilevazione è filtrata dalla percezione dell'osservatore. Anche con tutti gli accorgimenti metodologici (auto-osservazione, esplicitazione delle ipotesi), rimane una componente soggettiva. |
 | **Difficile da generalizzare** | L'assenza di standardizzazione rende difficile replicare l'osservazione in altri contesti o confrontare dati tra osservatori diversi. |
 
@@ -172,13 +170,13 @@ capire quando e come usarli — o combinarli.
 
 | Limite | Spiegazione |
 |--------|-------------|
-| **Frammentazione** | Scomponendo la realtà in item osservabili, si rischia di perdere la complessità delle relazioni. Dimensioni di gruppo, fluidità degli scambi verbali e non verbali non si prestano a essere ridotte in frammenti. |
+| <span class="c-warn">**Frammentazione**</span> | Scomponendo la realtà in item osservabili, si rischia di perdere la complessità delle relazioni. Dimensioni di gruppo, fluidità degli scambi verbali e non verbali non si prestano a essere ridotte in frammenti. |
 | **Mancanza della dimensione esperienziale** | Con un basso grado di partecipazione, si perde la storia, la relazione, il vissuto. Il dato è "pulito" ma privo di quella comprensione profonda che solo l'immersione nel contesto può dare. |
 
-Nota interessante del prof: **i punti di forza di uno sono spesso i
+<span class="c-impl">Nota interessante del prof: **i punti di forza di uno sono spesso i
 limiti dell'altro**. L'osservazione sistematica è replicabile ma povera
 di esperienza; la partecipante è ricca di significato ma difficile da
-generalizzare. In pratica, le si combina.
+generalizzare. In pratica, le si combina.</span>
 
 ---
 
@@ -198,9 +196,9 @@ di elementi specifici da osservare. Colgono la complessità delle relazioni.
 
 #### 1. Annotazioni Aneddotiche
 
-L'osservatore prende nota di **eventi quotidiani ritenuti significativi**
+<span class="c-def">L'osservatore prende nota di **eventi quotidiani ritenuti significativi**
 (detti "incidenti critici"). Sono note sintetiche con elementi descrittivi
-separati da quelli interpretativi.
+separati da quelli interpretativi.</span>
 
 Struttura minima:
 - **Data**
@@ -211,42 +209,42 @@ Struttura minima:
 **A cosa servono?**
 - A tenere traccia di discontinuità rispetto alla quotidianità.
 - A condividerle con l'équipe e valutare se meritano approfondimento.
-- A costruire griglie di osservazione più strutturate.
+- <span class="c-impl">A costruire griglie di osservazione più strutturate.</span>
 
-Esempio dalla lezione: nota che a pranzo Marco e Maria si relazionano
+<span class="c-es">Esempio dalla lezione: nota che a pranzo Marco e Maria si relazionano
 in modo diverso rispetto al resto della giornata. Non è che hai già un
 protocollo — ma annoti, condividi, e poi valuti se vale la pena
-approfondire.
+approfondire.</span>
 
 #### 2. Diario di Bordo
 
-Il diario è più articolato dell'annotazione aneddotica. Riporta il
+<span class="c-def">Il diario è più articolato dell'annotazione aneddotica. Riporta il
 **resoconto di eventi osservati**, cercando di narrare in modo chiaro
 e dettagliato quanto accaduto, includendo il contesto, la circolarità
-delle relazioni e — fondamentale — l'auto-osservazione.
+delle relazioni e — fondamentale — l'auto-osservazione.</span>
 
-Struttura tipo (da Maida, Molteni, Nuzzo):
+Struttura tipo (da <span class="c-dato">Maida, Molteni, Nuzzo</span>):
 - **Osservatore** (chi osserva)
 - **Presenti** (chi era lì)
 - **Descrizione della situazione** (dati fattuali, senza interpretazioni)
 - **Ipotesi/Riflessioni** (esplicite e separate dalla descrizione)
 - **Auto-osservazione** (come stavo? cosa portavo con me in quel momento?)
 
-Perché l'auto-osservazione? Un esempio pratico dalla lezione: se scrivi
+<span class="c-es">Perché l'auto-osservazione? Un esempio pratico dalla lezione: se scrivi
 il diario dopo 12 ore di lavoro notturno e sei esausto, questo influenza
-come hai osservato. Esplicitarlo aiuta chi legge a contestualizzare i dati.
+come hai osservato. Esplicitarlo aiuta chi legge a contestualizzare i dati.</span>
 
 Il diario è particolarmente utile per **osservazioni mirate** — quando
 hai già un obiettivo specifico e vuoi approfondire.
 
 #### 3. Verbale
 
-Il verbale è lo strumento collettivo: registra le **osservazioni e le
+<span class="c-def">Il verbale è lo strumento collettivo: registra le **osservazioni e le
 decisioni dell'équipe**, permettendo una comprensione condivisa della
-situazione.
+situazione.</span>
 
-Non è — o non dovrebbe essere — una trascrizione pedante di ogni frase
-detta in riunione. È una **memoria operativa** dell'équipe.
+<span class="c-warn">Non è — o non dovrebbe essere — una trascrizione pedante di ogni frase
+detta in riunione. È una **memoria operativa** dell'équipe.</span>
 
 Struttura tipo:
 - Data
@@ -257,13 +255,10 @@ Struttura tipo:
 - Tempi e modi (chi fa cosa, entro quando)
 - Firma del verbalizzante
 
-Il prof dice una cosa che vale la pena ricordare: se sai cosa verrà
-discusso in riunione, puoi preparartiti. Se sei uno stagista e sai che
+<span class="c-es">Il prof dice una cosa che vale la pena ricordare: se sai cosa verrà
+discusso in riunione, puoi prepararti. Se sei uno stagista e sai che
 si parlerà del comportamento a pranzo di Mario e Maria — perché l'hai
-osservato e annotato — arrivi in riunione con qualcosa da dire.
-
-Il verbale spesso è visto come una rottura di scatole (e tocca sempre
-all'ultimo arrivato). Ma se è fatto bene, è uno strumento potente.
+osservato e annotato — arrivi in riunione con qualcosa da dire.</span>
 
 ---
 
@@ -273,52 +268,44 @@ Queste tecniche rilevano dati in forma strutturata. Il principio comune:
 prendono un **comportamento o fenomeno, lo scompongono in elementi
 osservabili** (item), e li rilevano in modo strutturato.
 
-Attenzione: sembrano simili tra loro, ma hanno differenze importanti.
-
 #### 1. Check-list
 
-L'osservatore verifica la **presenza o l'assenza** di determinati
-comportamenti/azioni da una lista predefinita. Nient'altro — solo sì/no.
+<span class="c-def">L'osservatore verifica la **presenza o l'assenza** di determinati
+comportamenti/azioni da una lista predefinita. Nient'altro — solo sì/no.</span>
 
-Esempio dalla lezione: laboratorio occupazionale per persone con disabilità.
+<span class="c-es">Esempio dalla lezione: laboratorio occupazionale per persone con disabilità.
 Una persona deve produrre fascicoli. La check-list scompone il processo:
 ritirare il fascicolo in segreteria (sì/no), controllare la qualità (sì/no),
 fotocopiare 100 copie (sì/no)... Si scopre che su "fotocopiare 100 copie"
 spesso mette no — perché la stampante è impostata su 3 copie e non la
-cambia. Da lì si interviene.
+cambia. Da lì si interviene.</span>
 
 **Vantaggi:** veloce, replicabile, facilmente condivisibile con più operatori.
 
-**Limite:** informazioni parziali — non cattura la circolarità e la
-contestualizzazione dei comportamenti.
+<span class="c-warn">**Limite:** informazioni parziali — non cattura la circolarità e la
+contestualizzazione dei comportamenti.</span>
 
 #### 2. Griglia di Osservazione
 
-La griglia è più ricca della check-list. Rileva la presenza/assenza di
-comportamenti **ma lascia anche uno spazio descrittivo** per annotazioni.
+<span class="c-def">La griglia è più ricca della check-list. Rileva la presenza/assenza di
+comportamenti **ma lascia anche uno spazio descrittivo** per annotazioni.</span>
 
-È uno strumento **doppio**: da una parte c'è il soggetto dell'osservazione
+<span class="c-impl">È uno strumento **doppio**: da una parte c'è il soggetto dell'osservazione
 (l'educatore), dall'altra l'oggetto (la persona o la situazione). Questo
-favorisce il processo di auto-osservazione.
+favorisce il processo di auto-osservazione.</span>
 
-Esempio: bambino in classe. La griglia chiede "Divide con gli altri i suoi
+<span class="c-es">Esempio: bambino in classe. La griglia chiede "Divide con gli altri i suoi
 giochi?" (sì/no) ma ha anche uno spazio per annotare: "Sì, ma solo con
-Marco." Questa annotazione è già un'ipotesi di lavoro.
+Marco." Questa annotazione è già un'ipotesi di lavoro.</span>
 
-Utile quando il focus è leggermente più ampio, c'è una certa complessità,
-ma non si ha il tempo per un diario completo per ogni persona. In una
-classe di 18 bambini, l'educatore usa la griglia per osservare tutti e fa
-il diario solo sull'obiettivo specifico del bambino che necessita di lavoro
-mirato.
-
-**Avvertimento dal manuale:** "grigliare" non significa incasellare l'altro
+<span class="c-warn">**Avvertimento dal manuale:** "grigliare" non significa incasellare l'altro
 in caselle precostituite. Se una parte della griglia rimane vuota o deve
-essere modificata, va bene. Lo strumento serve a noi, non noi a lui.
+essere modificata, va bene. Lo strumento serve a noi, non noi a lui.</span>
 
 #### 3. Scale di Valutazione
 
-La differenza chiave rispetto alla check-list: invece di sì/no, si indica
-un **valore** (presenza, frequenza, intensità).
+<span class="c-def">La differenza chiave rispetto alla check-list: invece di sì/no, si indica
+un **valore** (presenza, frequenza, intensità).</span>
 
 Formati possibili (tutti dal manuale):
 - **Scala numerica**: da 1 a 5, da 1 a 10
@@ -327,35 +314,35 @@ Formati possibili (tutti dal manuale):
 - **Scala con avverbi**: mai / qualche volta / spesso / sempre
 - **Scala grafica**: una barra da segnare
 
-Esempio dalla lezione: scala per competenze di igiene personale in un foyer
+<span class="c-es">Esempio dalla lezione: scala per competenze di igiene personale in un foyer
 per persone con disabilità che si preparano alla vita adulta. Si valuta sia
 l'intensità che la frequenza. Scopri che la persona si lava i denti sempre
 benissimo (intensità ottima) ma solo una volta a settimana (frequenza
 bassissima). Intervieni sulla frequenza.
 
 Una volta che la frequenza migliora, puoi togliere quella parte dallo
-strumento e concentrarti su altro.
+strumento e concentrarti su altro.</span>
 
 #### 4. Osservazione Videoregistrata
 
-Tecnica che usa supporti tecnici per una **ripresa fedele** di ciò che
+<span class="c-def">Tecnica che usa supporti tecnici per una **ripresa fedele** di ciò che
 accade. Vantaggi: può essere vista da più persone, da più punti di vista,
-anche con le persone stesse e i loro familiari.
+anche con le persone stesse e i loro familiari.</span>
 
-Esempio concreto: alcuni Centri per la Famiglia usano videoregistrazioni
+<span class="c-es">Esempio concreto: alcuni Centri per la Famiglia usano videoregistrazioni
 delle interazioni genitore-figlio, che poi vengono riviste insieme agli
-educatori per riflettere sulla relazione.
+educatori per riflettere sulla relazione.</span>
 
-Limite: la quantità di informazioni da filtrare e riorganizzare è grande.
+<span class="c-warn">Limite: la quantità di informazioni da filtrare e riorganizzare è grande.
 E vanno sempre ottenuti il consenso informato e la spiegazione chiara
 dell'uso del materiale — non è solo un obbligo legale, è trasparenza
-professionale.
+professionale.</span>
 
 ---
 
 ## Accorgimenti per Ridurre la Soggettività
 
-Il prof chiude con questa lista (da Braga, 1994), che vale come promemoria
+Il prof chiude con questa lista (da <span class="c-dato">Braga, 1994</span>), che vale come promemoria
 pratico prima di qualsiasi attività osservativa:
 
 1. Chiarezza negli obiettivi dell'osservazione
@@ -366,22 +353,22 @@ pratico prima di qualsiasi attività osservativa:
 6. Presenza di più osservatori
 7. Raccolta dati sul contesto fisico e sociale
 8. Precisione nella descrizione temporale (durata e sequenza)
-9. Scelta accurata del linguaggio (aggettivi descrittivi, non valutativi)
+9. <span class="c-tesi">Scelta accurata del linguaggio (aggettivi descrittivi, non valutativi)</span>
 
 ---
 
 ## La "Cassetta degli Attrezzi" — Metafora del Manuale
 
-Il manuale usa un'immagine bella: l'educatore è come un **artigiano**.
-Gli strumenti osservativi sono la sua cassetta degli attrezzi. Alcuni
+Il manuale usa un'immagine bella: <span class="c-tesi">l'educatore è come un **artigiano**.
+Gli strumenti osservativi sono la sua cassetta degli attrezzi.</span> Alcuni
 sono molto usati e in perfetto stato; altri sono impolverati; qualcuno
 manca e andrebbe acquistato.
 
-Aprire periodicamente la cassetta degli attrezzi per fare il punto non
+<span class="c-impl">Aprire periodicamente la cassetta degli attrezzi per fare il punto non
 è un esercizio accademico — è **manutenzione professionale**. Il lavoro
-educativo cambia con la società, e anche gli strumenti devono evolversi.
+educativo cambia con la società, e anche gli strumenti devono evolversi.</span>
 
-L'efficacia dell'osservazione richiede **semplicità**: se i tuoi dati
+<span class="c-tesi">L'efficacia dell'osservazione richiede **semplicità**</span>: se i tuoi dati
 sono più difficili da capire del fenomeno stesso, qualcosa non va. Un'
 osservazione troppo elaborata è spesso un segnale di insicurezza, non di
 competenza.
@@ -435,17 +422,13 @@ Questa lezione è la continuazione diretta della 07. Lì avevamo visto:
 
 Qui nella 08 siamo passati dal "cosa è" al "come si fa": tipologie,
 approcci metodologici, strumenti. Il prof lo esplicita: la dimensione
-tecnica supporta, ma non sostituisce la relazione. L'aneddoto del
-microscopio del '600 (Leeuwenhoek e Hartsoeker che vedevano un omino
-miniatura negli spermatozoi) serve proprio a questo: anche la tecnica più
-avanzata, senza contestualizzazione e auto-osservazione delle proprie
-ipotesi, produce distorsioni.
+tecnica supporta, ma non sostituisce la relazione.
 
 ### Temi aperti / da approfondire
 
-- Fonti bibliografiche citate: Maida, Molteni, Nuzzo (2022) *Educazione
+- Fonti bibliografiche citate: <span class="c-dato">Maida, Molteni, Nuzzo (2022) *Educazione
   e osservazione*, Carocci; Corbetta (1999) per l'osservazione partecipante;
-  Braga (1994) per gli accorgimenti; Zaghi (1995).
+  Braga (1994) per gli accorgimenti; Zaghi (1995).</span>
 - Il **labo base** (primo stage): uno degli obiettivi sarà costruire e
   mettere in pratica protocolli di osservazione reali.
 - La settimana successiva: seminario di discussione sugli strumenti

@@ -1,11 +1,20 @@
 # L'Osservazione (Seconda Parte) — Schema
 TMIS · Sessione 08
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 ---
 
 ## Premessa
 
-- **Dato osservativo** → deve essere fruibile, comunicabile, accessibile
+- <span class="c-def">**Dato osservativo** → deve essere fruibile, comunicabile, accessibile</span>
 - **Fruibile nel tempo** → da subito (passaggio di turno) fino a mesi dopo
 - **Comunicabile** → colleghi, équipe, ARP, famiglie, utenti stessi
 - **Accessibile** → adattato al destinatario (professionista ≠ genitore)
@@ -14,8 +23,8 @@ TMIS · Sessione 08
 
 ## Due Assi delle Tipologie
 
-- **Grado di partecipazione** → quanto l'osservatore è nel campo / in relazione
-- **Grado di controllo** → quanto l'osservatore modifica le variabili del contesto
+- <span class="c-def">**Grado di partecipazione** → quanto l'osservatore è nel campo / in relazione</span>
+- <span class="c-def">**Grado di controllo** → quanto l'osservatore modifica le variabili del contesto</span>
 
 ---
 
@@ -24,7 +33,7 @@ TMIS · Sessione 08
 ### 1. Osservazione Occasionale
 - **Definizione** → spontanea, libera, discontinua, non controllata
 - **Scopo** → cogliere risorse o problemi inattesi degni di approfondimento
-- **Non è** → strutturata né intenzionale
+- <span class="c-warn">**Non è** → strutturata né intenzionale</span>
 
 ### 2. Osservazione Documentaria
 - **Definizione** → analisi di documenti esistenti (diari, referti, cartelle, video)
@@ -32,21 +41,21 @@ TMIS · Sessione 08
 - **Quando** → ingresso in un servizio, studio della storia della persona
 
 ### 3. Osservazione Partecipante *(paradigma centrale)*
-- **Padre** → Bronislaw Malinowski (antropologia, fine '800 / inizio '900)
-- **Definizione** → immersione diretta nel contesto per tempo lungo
+- <span class="c-dato">**Padre** → Bronislaw Malinowski</span> (antropologia, fine '800 / inizio '900)
+- <span class="c-def">**Definizione** → immersione diretta nel contesto per tempo lungo
   - instaurare relazioni personali
   - condividere la quotidianità
-  - sviluppare visione "dal di dentro"
-- **Finalità** → comprendere il **significato** che le persone danno alle azioni
+  - sviluppare visione "dal di dentro"</span>
+- <span class="c-tesi">**Finalità** → comprendere il **significato** che le persone danno alle azioni</span>
 - **Fasi** → preparazione → attuazione → interpretazione dati → socializzazione → verifica
 - **Rilevanza** → paradigma usato in ~50% delle tesi; condizione quasi sempre presente nel lavoro educativo
 
 ### 4. Osservazione Sistematica
 - **Definizione** → pianificazione molto strutturata
   - individua caratteristiche da osservare
-  - le traduce in **item** osservabili
+  - le traduce in <span class="c-def">**item**</span> osservabili
   - forma gli operatori per replicabilità
-- **Esempio** → Strange Situation (Ainsworth); metodi ABA in autismo
+- <span class="c-es">**Esempio** → Strange Situation (Ainsworth); metodi ABA in autismo</span>
 - **Punto di forza** → replicabilità, comparabilità tra osservatori
 
 ### 5. Osservazione con Tecniche Narrative
@@ -60,14 +69,14 @@ TMIS · Sessione 08
 
 | | Partecipante | Sistematica |
 |---|---|---|
-| **Reattività** | Alta (effetto Hawthorne) | Bassa |
+| **Reattività** | Alta (<span class="c-def">effetto Hawthorne</span>) | Bassa |
 | **Soggettività** | Alta | Controllata |
 | **Generalizzabilità** | Bassa | Alta |
-| **Complessità relazionale** | Catturata | Persa (frammentazione) |
+| **Complessità relazionale** | Catturata | <span class="c-warn">Persa (frammentazione)</span> |
 | **Dimensione esperienziale** | Presente | Assente |
 | **Replicabilità** | Bassa | Alta |
 
-→ I punti di forza di uno sono i limiti dell'altro → si combinano in pratica
+<span class="c-impl">→ I punti di forza di uno sono i limiti dell'altro → si combinano in pratica</span>
 
 ---
 
@@ -75,9 +84,9 @@ TMIS · Sessione 08
 
 | Strumento | Cosa fa | Struttura minima |
 |-----------|---------|-----------------|
-| **Annotazioni aneddotiche** | Nota eventi significativi (incidenti critici) | Data · Contesto · Episodio · Interpretazione (separata) |
-| **Diario di bordo** | Resoconto dettagliato osservazione | Osservatore · Presenti · Descrizione · Ipotesi · Auto-osservazione |
-| **Verbale** | Memoria collettiva dell'équipe | Data · Partecipanti · Argomenti · Decisioni · Tempi · Referenti |
+| <span class="c-def">**Annotazioni aneddotiche**</span> | Nota eventi significativi (incidenti critici) | Data · Contesto · Episodio · Interpretazione (separata) |
+| <span class="c-def">**Diario di bordo**</span> | Resoconto dettagliato osservazione | Osservatore · Presenti · Descrizione · Ipotesi · Auto-osservazione |
+| <span class="c-def">**Verbale**</span> | Memoria collettiva dell'équipe | Data · Partecipanti · Argomenti · Decisioni · Tempi · Referenti |
 
 ---
 
@@ -85,10 +94,10 @@ TMIS · Sessione 08
 
 | Strumento | Logica | Differenza chiave |
 |-----------|--------|------------------|
-| **Check-list** | Presenza / assenza | Solo sì/no, nient'altro |
-| **Griglia di osservazione** | Presenza / assenza + annotazioni | Spazio descrittivo libero; struttura doppia (osservatore / osservato) |
-| **Scala di valutazione** | Valore (intensità / frequenza) | Non sì/no → gradazione numerica, descrittiva, con avverbi o grafica |
-| **Videoregistrazione** | Ripresa fedele | Può essere rivista da più persone; richiede consenso informato |
+| <span class="c-def">**Check-list**</span> | Presenza / assenza | Solo sì/no, nient'altro |
+| <span class="c-def">**Griglia di osservazione**</span> | Presenza / assenza + annotazioni | Spazio descrittivo libero; struttura doppia (osservatore / osservato) |
+| <span class="c-def">**Scala di valutazione**</span> | Valore (intensità / frequenza) | Non sì/no → gradazione numerica, descrittiva, con avverbi o grafica |
+| **Videoregistrazione** | Ripresa fedele | Può essere rivista da più persone; <span class="c-warn">richiede consenso informato</span> |
 
 ---
 
@@ -98,7 +107,7 @@ TMIS · Sessione 08
 - **In base al tipo** di osservazione
 - **In base alle possibilità reali** del contesto
 
-→ Nella pratica: quasi sempre **strumenti ibridi** (mix di tipologie)
+→ <span class="c-impl">Nella pratica: quasi sempre **strumenti ibridi** (mix di tipologie)</span>
 
 ---
 
@@ -112,7 +121,7 @@ TMIS · Sessione 08
 6. **Più osservatori** quando possibile
 7. **Dati sul contesto** fisico e sociale
 8. **Precisione temporale** (durata, sequenza)
-9. **Linguaggio descrittivo** (non valutativo)
+9. <span class="c-tesi">**Linguaggio descrittivo** (non valutativo)</span>
 
 ---
 
@@ -120,12 +129,12 @@ TMIS · Sessione 08
 
 | Chi | Cosa | Quando |
 |-----|------|--------|
-| Bronislaw Malinowski | Fondatore dell'osservazione partecipante | Fine '800 / inizio '900 |
-| Mary Ainsworth | Esperimento Strange Situation (attaccamento) | Anni '70 |
-| Maida, Molteni, Nuzzo | *Educazione e osservazione*, Carocci | 2022 |
-| Corbetta | Definizione osservazione partecipante | 1999 |
-| Braga | Accorgimenti per ridurre la soggettività | 1994 |
-| Zaghi | Fruibilità del dato osservativo | 1995 |
+| <span class="c-dato">Bronislaw Malinowski</span> | Fondatore dell'osservazione partecipante | Fine '800 / inizio '900 |
+| <span class="c-dato">Mary Ainsworth</span> | Esperimento Strange Situation (attaccamento) | Anni '70 |
+| <span class="c-dato">Maida, Molteni, Nuzzo</span> | *Educazione e osservazione*, Carocci | 2022 |
+| <span class="c-dato">Corbetta</span> | Definizione osservazione partecipante | 1999 |
+| <span class="c-dato">Braga</span> | Accorgimenti per ridurre la soggettività | 1994 |
+| <span class="c-dato">Zaghi</span> | Fruibilità del dato osservativo | 1995 |
 
 ---
 

@@ -1,6 +1,15 @@
 # L'Osservazione (Prima Parte)
 TMIS — Teorie e Metodologie dell'Intervento Sociale · Sessione 07
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 > L'osservazione non è una skill extra che si acquisisce dopo — è il cuore
 > pulsante di tutto il lavoro socio-educativo. Questa lezione costruisce le
 > fondamenta: cosa significa davvero osservare, perché è impossibile farlo
@@ -12,14 +21,14 @@ TMIS — Teorie e Metodologie dell'Intervento Sociale · Sessione 07
 ## Contestualizzazione: perché parliamo di osservazione adesso?
 
 Il prof chiarisce subito il senso della collocazione di questo tema nel
-calendario: l'osservazione non appartiene a una fase specifica del processo
-di progettazione — è **trasversale a tutto il processo**. Dalla ideazione
+calendario: <span class="c-tesi">l'osservazione non appartiene a una fase specifica del processo
+di progettazione — è **trasversale a tutto il processo**.</span> Dalla ideazione
 alla verifica, in ogni fase c'è una parte osservativa. Ecco perché viene
 trattata adesso, prima di entrare nel dettaglio delle singole fasi.
 
 La lezione ha tre obiettivi:
 
-1. Definire cosa si intende per **attività osservativa** in ambito
+1. Definire cosa si intende per <span class="c-def">**attività osservativa**</span> in ambito
    socio-educativo.
 2. Distinguere le **specificità del lavoro di osservazione** dentro il
    lavoro relazionale.
@@ -29,22 +38,22 @@ La lezione ha tre obiettivi:
 
 ## La realtà è polifonica
 
-Il punto di partenza teorico è che la realtà sociale non ha un'unica
+Il punto di partenza teorico è che <span class="c-def">la realtà sociale non ha un'unica
 versione "vera". È **polifonica**: ogni fenomeno assume significati diversi
-a seconda di chi lo osserva, del ruolo che ha, delle esperienze che porta.
+a seconda di chi lo osserva, del ruolo che ha, delle esperienze che porta.</span>
 
-Il prof usa l'esempio del pesce: per un cliente al ristorante è un piatto,
+<span class="c-es">Il prof usa l'esempio del pesce: per un cliente al ristorante è un piatto,
 per un pescatore è lavoro e passione e fatica mattutina alle 4:30, per un
 biologo marino è un organismo da studiare, per chi ha un acquario a casa è
-un abitante del salotto. Stessa realtà, significati radicalmente diversi.
+un abitante del salotto. Stessa realtà, significati radicalmente diversi.</span>
 
-Questo vale per qualsiasi fenomeno sociale. Quando osserviamo qualcosa,
+<span class="c-impl">Questo vale per qualsiasi fenomeno sociale. Quando osserviamo qualcosa,
 dobbiamo sempre ricordare che stiamo vedendo **una parte** di una realtà
-molto più ampia.
+molto più ampia.</span>
 
-Pensaci come a una pianta — vedi il fusto, i rami, le foglie, ma le radici
+<span class="c-es">Pensaci come a una pianta — vedi il fusto, i rami, le foglie, ma le radici
 rimangono sotto terra. Ogni osservatore ne vede una parte diversa. L'unico
-modo per avvicinarsi all'intera pianta è confrontarsi con più punti di vista.
+modo per avvicinarsi all'intera pianta è confrontarsi con più punti di vista.</span>
 
 ---
 
@@ -53,16 +62,16 @@ modo per avvicinarsi all'intera pianta è confrontarsi con più punti di vista.
 Due assunti fondamentali da tenere sempre presenti:
 
 **1. L'osservazione è imprescindibile.**
-Nel lavoro relazionale, ci sarà sempre una componente osservativa —
+<span class="c-tesi">Nel lavoro relazionale, ci sarà sempre una componente osservativa —
 che tu stia seguendo 30 persone al mese in uno sportello di servizio
 sociale, o lavorando quotidianamente con le stesse persone in una
 struttura. La forma cambia, l'intensità cambia, ma il dato osservativo
-c'è sempre.
+c'è sempre.</span>
 
 **2. La soggettività e la parzialità sono inevitabili.**
-Non siamo mai totalmente oggettivi. Non possiamo mai conoscere
+<span class="c-warn">Non siamo mai totalmente oggettivi. Non possiamo mai conoscere
 l'interezza di un fenomeno. Questo non è un limite da nascondere —
-è la **base teorica** da cui partire. Il prof sottolinea che questo non
+è la **base teorica** da cui partire.</span> Il prof sottolinea che questo non
 è scontato, soprattutto quando ci si relaziona con professionisti di
 altri ambiti (es. medici, fisioterapisti) che lavorano con paradigmi più
 orientati all'oggettività.
@@ -74,8 +83,8 @@ orientati all'oggettività.
 
 ## Il circuito dell'osservazione: i 5 momenti
 
-Il processo osservativo non è un atto isolato ma un **circuito ciclico**
-che si ripete continuamente. I cinque momenti sono (fonte: Dovigo, 2014):
+<span class="c-def">Il processo osservativo non è un atto isolato ma un **circuito ciclico**
+che si ripete continuamente.</span> I cinque momenti sono (fonte: <span class="c-dato">Dovigo, 2014</span>):
 
 | # | Momento | Cosa succede |
 |---|---------|--------------|
@@ -87,59 +96,59 @@ che si ripete continuamente. I cinque momenti sono (fonte: Dovigo, 2014):
 
 Poi si torna al punto 1 — il ciclo ricomincia. Da qui la forma a spirale.
 
-**Attenzione a questa distinzione importante:** l'**ipotesi** è mia,
+<span class="c-warn">**Attenzione a questa distinzione importante:** l'**ipotesi** è mia,
 personale, finché non la condivido. L'**interpretazione** è il risultato
-del confronto con altri — ha una valenza collettiva. Non significa che tutti
+del confronto con altri — ha una valenza collettiva.</span> Non significa che tutti
 pensino esattamente lo stesso, ma che ci sia stato un confronto reale e che
 il senso emerso sia condiviso.
 
-Il prof porta esempi concreti di resoconto scritto: il diario di bordo
+<span class="c-es">Il prof porta esempi concreti di resoconto scritto: il diario di bordo
 scritto dopo una visita domiciliare, la sintesi dopo una sessione con un
 gruppo di bambini al centro extrascolastico, il verbale di équipe. Non
-sempre è scritto, ma la componente descrittiva è sempre presente.
+sempre è scritto, ma la componente descrittiva è sempre presente.</span>
 
 ---
 
 ## Guardare vs. Vedere: una distinzione fondamentale
 
-Maida, Molteni e Nuzzo introducono una distinzione che vale la pena capire bene:
+<span class="c-dato">Maida, Molteni e Nuzzo</span> introducono una distinzione che vale la pena capire bene:
 
-- **Guardare** = atto analitico, di controllo. Noti, registri, scomponi.
-  È necessario ma non sufficiente.
-- **Vedere** = risultato dell'azione osservativa. Presuppone coinvolgimento:
+- <span class="c-def">**Guardare** = atto analitico, di controllo. Noti, registri, scomponi.
+  È necessario ma non sufficiente.</span>
+- <span class="c-def">**Vedere** = risultato dell'azione osservativa. Presuppone coinvolgimento:
   chi vede percepisce e sviluppa una comprensione che trasforma il semplice
-  "guardare" in qualcosa di più profondo.
+  "guardare" in qualcosa di più profondo.</span>
 
-Il prof usa l'immagine di un quadro seicentesco composto da ortaggi e
+<span class="c-es">Il prof usa l'immagine di un quadro seicentesco composto da ortaggi e
 frutta: se lo scomponi vedi singoli elementi, se ti allontani vedi un
 ritratto. Devi saper fare entrambe le cose — scomporre per analizzare, e
-ricomporre per dare senso.
+ricomporre per dare senso.</span>
 
 > _"La somma è superiore alle parti: scomporre ci aiuta ad orientarci
 > nella complessità ma presuppone la capacità di ricomporre le unità
-> osservate."_ (Maida, Molteni, Nuzzo, 2022)
+> osservate."_ (<span class="c-dato">Maida, Molteni, Nuzzo, 2022</span>)
 
-**Esempio pratico del prof:** un ragazzo in struttura si ritira nella sua
+<span class="c-es">**Esempio pratico del prof:** un ragazzo in struttura si ritira nella sua
 stanza il mercoledì pomeriggio e il venerdì sera. Stesso comportamento,
 rilevato in due momenti. Ma quando vai a dare senso attraverso il dialogo,
 scopri che il mercoledì fa fatica a stare con i compagni (difficoltà
 relazionale), mentre il venerdì sera gioca online con una comunità virtuale
 (risorsa, senso di appartenenza). **Stesso fenomeno, significati opposti —
-interventi necessariamente diversi.**
+interventi necessariamente diversi.**</span>
 
 ---
 
 ## Il "gorilla invisibile": la trappola dell'attenzione selettiva
 
-Il prof proietta il famoso esperimento di Simons e Chabris (1999/2010):
+Il prof proietta il famoso esperimento di <span class="c-dato">Simons e Chabris (1999/2010)</span>:
 guardi un video contando i passaggi di una palla, e metà delle persone non
 vede un gorilla che attraversa il campo. Chi già conosceva il video, nel
 secondo tentativo, non nota la tenda che cambia colore o il giocatore che
 lascia il campo.
 
 La lezione è duplice:
-1. Quando siamo concentrati su un obiettivo, tendiamo a non vedere ciò che
-   non stiamo cercando.
+1. <span class="c-warn">Quando siamo concentrati su un obiettivo, tendiamo a non vedere ciò che
+   non stiamo cercando.</span>
 2. Anche quando pensiamo di essere preparati, la realtà continua a
    sorprenderci.
 
@@ -155,22 +164,22 @@ La parola **osservare** viene dal latino *observare*:
 - Prefisso **ob** = verso, per (indica direzione e finalità)
 - **Servare** = custodire, stare attento, preservare
 
-Quindi osservare significa: _portare attenzione verso qualcosa con un fine,
-e conservare ciò che si è visto per poterlo condividere_.
+Quindi <span class="c-def">osservare significa: _portare attenzione verso qualcosa con un fine,
+e conservare ciò che si è visto per poterlo condividere_.</span>
 
-Non è uno sguardo passivo e casuale. È intenzionale, mirato, con uno scopo.
+<span class="c-tesi">Non è uno sguardo passivo e casuale. È intenzionale, mirato, con uno scopo.</span>
 
 ---
 
 ## Definizione professionale dell'osservazione
 
-Dal **Dizionario del Lavoro Educativo** (Tramma, Brandani, 2014):
+Dal <span class="c-dato">**Dizionario del Lavoro Educativo** (Tramma, Brandani, 2014)</span>:
 
-> _"Osservare è un movimento intenzionale verso qualcuno o qualcosa che
+> <span class="c-def">_"Osservare è un movimento intenzionale verso qualcuno o qualcosa che
 > suscita interesse e di cui si desidera capire di più, al di là delle
-> facili apparenze."_
+> facili apparenze."_</span>
 
-E ancora, da Mantovani (1995):
+E ancora, da <span class="c-dato">Mantovani (1995)</span>:
 
 > _"L'osservazione è un comportamento specifico di attenzione a un
 > particolare evento: si distingue dal semplice 'guardare', poiché è uno
@@ -180,7 +189,7 @@ E ancora, da Mantovani (1995):
 > promosso la rilevazione dei dati."_
 
 Caratteristiche chiave:
-- **Intenzionale**: non è guardare a caso, c'è uno scopo
+- <span class="c-def">**Intenzionale**: non è guardare a caso, c'è uno scopo</span>
 - **Mirata**: mette a fuoco qualcosa di specifico
 - **Attiva**: richiede impegno cognitivo ed emotivo
 - **Non generica**: delimitata, non "tutto"
@@ -196,34 +205,34 @@ conoscenza attraverso l'osservazione:
 |-----------|---------------|---------------------------|
 | **Ricerca dell'oggettività** (moderno) | La realtà è conoscibile direttamente; l'osservatore deve essere neutro | Neutralità totale, strumenti precisi, registrazione fedele |
 | **Relativismo della soggettività** | Ogni punto di vista è valido; non esiste conoscenza oggettiva | Tutto è soggettivo, tutti i punti di vista sono ugualmente validi |
-| **Complessità della realtà** (post-moderno) | La realtà è troppo complessa per un unico approccio | Prospettive multiple, dialogo, conoscenza co-costruita nella relazione |
+| <span class="c-tesi">**Complessità della realtà** (post-moderno)</span> | <span class="c-tesi">La realtà è troppo complessa per un unico approccio</span> | <span class="c-tesi">Prospettive multiple, dialogo, conoscenza co-costruita nella relazione</span> |
 
-Il prof e i testi fanno riferimento al **terzo paradigma**: quello che
+<span class="c-tesi">Il prof e i testi fanno riferimento al **terzo paradigma**: quello che
 valorizza la complessità e riconosce che la conoscenza nel sociale avviene
-*nella relazione*. Non si tratta di rinunciare alla rigorosità, ma di
+*nella relazione*.</span> Non si tratta di rinunciare alla rigorosità, ma di
 riconoscere che osservatore e osservato si influenzano reciprocamente.
 
-Il rischio del relativismo assoluto (secondo paradigma) è che "tutto va
-bene" — e questo non aiuta a lavorare efficacemente. Il terzo paradigma
+<span class="c-warn">Il rischio del relativismo assoluto (secondo paradigma) è che "tutto va
+bene" — e questo non aiuta a lavorare efficacemente.</span> Il terzo paradigma
 trova un equilibrio: non esiste oggettività assoluta, ma costruiamo senso
 insieme attraverso il confronto, e quel senso condiviso ha valore.
 
-> _Bateson: bisogna saper osservare "con occhi differenti", riconoscendo
+> _<span class="c-dato">Bateson</span>: bisogna saper osservare "con occhi differenti", riconoscendo
 > che non esiste un punto unico di osservazione garante di oggettività._
 
 ---
 
 ## Dare senso ai fenomeni: cambiare angolatura
 
-Il prof porta l'esempio di un gruppo di ragazzi in una comunità di pronta
+<span class="c-es">Il prof porta l'esempio di un gruppo di ragazzi in una comunità di pronta
 accoglienza. Uno chiede continuamente "hai una sigaretta?" — una lettura
 superficiale lo classifica come provocazione. Ma cambiando prospettiva,
 quella domanda può essere un modo per entrare in relazione, per farsi
 conoscere, per testare la fiducia dell'operatore. Aprire un dialogo invece
 di rispondere difensivamente cambia completamente la traiettoria
-dell'intervento.
+dell'intervento.</span>
 
-Il concetto è di **Ombretta Zanon** (2016):
+Il concetto è di <span class="c-dato">**Ombretta Zanon** (2016)</span>:
 
 > _"Ogni processo di apprendimento richiede la messa in discussione del
 > proprio sistema di conoscenze e di credenze, attivando una trasformazione
@@ -233,18 +242,18 @@ Il concetto è di **Ombretta Zanon** (2016):
 
 ## L'auto-osservazione: il soggetto che osserva è parte del campo
 
-Quando osserviamo qualcosa in un contesto relazionale, **noi siamo parte
+Quando osserviamo qualcosa in un contesto relazionale, <span class="c-tesi">**noi siamo parte
 di ciò che osserviamo**. Il nostro modo di stare, le nostre emozioni, i
 nostri atteggiamenti influenzano le persone osservate — e quindi influenzano
-i dati che raccogliamo.
+i dati che raccogliamo.</span>
 
-L'**auto-osservazione** è l'atto di guardar sé stessi mentre si osserva:
+<span class="c-def">L'**auto-osservazione** è l'atto di guardar sé stessi mentre si osserva:</span>
 - Con quale angolatura sto guardando?
 - Che emozioni ho in questo momento?
 - Quali pregiudizi o paure mi porto?
 - Come stanno reagendo le persone al mio modo di stare?
 
-Fattori che deformano l'osservazione (da Braga, 1994; Dovigo, 2014):
+Fattori che deformano l'osservazione (da <span class="c-dato">Braga, 1994; Dovigo, 2014</span>):
 - Caratteristiche personali
 - Emotività e memoria
 - Influenza socio-culturale
@@ -258,7 +267,7 @@ Fattori che deformano l'osservazione (da Braga, 1994; Dovigo, 2014):
 ## L'ampiezza dell'osservazione socio-educativa
 
 Perché è così difficile osservare in contesti relazionali? Perché il campo
-osservativo è **enormemente ampio**. I fattori sono (Dovigo, 2014):
+osservativo è **enormemente ampio**. I fattori sono (<span class="c-dato">Dovigo, 2014</span>):
 
 - **Dimensioni di gruppo**: non si osserva solo l'individuo, ma le dinamiche
   tra persone.
@@ -269,14 +278,14 @@ osservativo è **enormemente ampio**. I fattori sono (Dovigo, 2014):
 - **Fitta rete di relazioni tra le parti**: ogni elemento va interpretato
   nel suo gioco di connessioni.
 
-Si osserva quindi **con tutti i sensi** — non solo la vista.
+<span class="c-impl">Si osserva quindi **con tutti i sensi** — non solo la vista.</span>
 
 L'ampiezza può fare paura. La risposta non è fingere che non esista, ma:
-1. **Rompere l'illusione di poter conoscere tutto** — l'indeterminatezza è
+1. <span class="c-def">**Rompere l'illusione di poter conoscere tutto**</span> — l'indeterminatezza è
    la condizione normale, non un fallimento.
-2. **Vedere l'indeterminatezza come area di possibilità** — ciò che non
+2. <span class="c-impl">**Vedere l'indeterminatezza come area di possibilità**</span> — ciò che non
    conosco ancora può contenere risorse non ancora esplorate.
-3. **Creare protocolli di osservazione** che de-costruiscano quell'ampiezza,
+3. <span class="c-def">**Creare protocolli di osservazione**</span> che de-costruiscano quell'ampiezza,
    delimitando il campo in modo intenzionale.
 
 ---
@@ -284,30 +293,30 @@ L'ampiezza può fare paura. La risposta non è fingere che non esista, ma:
 ## Le 5 componenti essenziali del processo osservativo
 
 Ogni protocollo di osservazione professionale deve contenere queste cinque
-componenti (fonte: Maida, Molteni, Nuzzo, 2022, pp. 17-28):
+componenti (fonte: <span class="c-dato">Maida, Molteni, Nuzzo, 2022</span>, pp. 17-28):
 
 ### 1. La Curiosità — il punto zero
 
-Non è possibile osservare bene senza un genuino interesse conoscitivo.
+<span class="c-def">Non è possibile osservare bene senza un genuino interesse conoscitivo.
 La curiosità spinge a **porsi domande**, a voler capire al di là delle
-apparenze. Importante: la domanda è un mezzo, non un fine. Non cerchiamo
+apparenze.</span> <span class="c-impl">Importante: la domanda è un mezzo, non un fine. Non cerchiamo
 certezze definitive — cerchiamo di aggiungere conoscenza, mantenendo sempre
-un'**area di dubbio** che lasci spazio a scoperte impreviste.
+un'**area di dubbio** che lasci spazio a scoperte impreviste.</span>
 
 ### 2. Il Soggetto — chi osserva
 
-Prima ancora di chiedersi "cosa osservo?", bisogna chiedersi "**chi sono
-io che osservo?**". Il soggetto è l'osservatore stesso. Devo chiarire:
+<span class="c-def">Prima ancora di chiedersi "cosa osservo?", bisogna chiedersi "**chi sono
+io che osservo?**". Il soggetto è l'osservatore stesso.</span> Devo chiarire:
 da quale angolatura sto guardando, con quale atteggiamento mentale, con
-quali pregiudizi o paure mi sto avvicinando. Questo ricollega direttamente
-all'auto-osservazione.
+quali pregiudizi o paure mi sto avvicinando. <span class="c-impl">Questo ricollega direttamente
+all'auto-osservazione.</span>
 
 ### 3. L'Oggetto — cosa si osserva
 
-Definire **a priori** cosa voglio osservare, per evitare di perdersi in un
-campo sterminato. La parola chiave è **delimitazione del campo**: non
+<span class="c-def">Definire **a priori** cosa voglio osservare, per evitare di perdersi in un
+campo sterminato. La parola chiave è **delimitazione del campo**</span>: non
 osservo "tutto il bambino" ma "come reagisce al momento del distacco dalla
-figura genitoriale nelle prime settimane". Focus chiaro = osservazione utile.
+figura genitoriale nelle prime settimane". <span class="c-tesi">Focus chiaro = osservazione utile.</span>
 
 L'ampiezza dell'oggetto dipende dalla fase del progetto:
 - Fase iniziale → obiettivi più ampi e panoramici (scoperta)
@@ -316,9 +325,9 @@ L'ampiezza dell'oggetto dipende dalla fase del progetto:
 
 ### 4. L'Obiettivo — perché si osserva
 
-Declinare il più precisamente possibile **lo scopo** dell'osservazione,
+<span class="c-def">Declinare il più precisamente possibile **lo scopo** dell'osservazione,
 dopo averlo condiviso con l'équipe e, quando possibile, con le persone
-coinvolte. Un obiettivo chiaro permette di formulare un'ipotesi di ricerca
+coinvolte.</span> Un obiettivo chiaro permette di formulare un'ipotesi di ricerca
 da cui partire e di orientare la scelta degli strumenti.
 
 ### 5. Il Tempo e lo Spazio — quando e dove
@@ -326,16 +335,16 @@ da cui partire e di orientare la scelta degli strumenti.
 Questi due elementi definiscono le coordinate dell'osservazione.
 
 **Tempo** — si declina in due modi:
-- **Tempo sincronico**: il tempo dell'attività (es. "i 10 minuti del
+- <span class="c-def">**Tempo sincronico**: il tempo dell'attività</span> (es. "i 10 minuti del
   momento del distacco all'asilo nido"; "la durata del pranzo al centro
   extrascolastico").
-- **Tempo diacronico**: l'attività nel tempo (es. "osservo il pranzo
+- <span class="c-def">**Tempo diacronico**: l'attività nel tempo</span> (es. "osservo il pranzo
   ogni giorno per due mesi, 5 volte a settimana"). Specifica per quante
   volte e per quanto tempo complessivo si effettuerà l'osservazione.
 
-**Spazio** — il luogo non è mai indifferente. Lo stesso comportamento
+**Spazio** — <span class="c-warn">il luogo non è mai indifferente. Lo stesso comportamento
 cambia significato in base al contesto. Va sempre esplicitato dove
-si effettua l'osservazione.
+si effettua l'osservazione.</span>
 
 ---
 
@@ -360,18 +369,16 @@ si effettua l'osservazione.
 
 | Autore | Opera | Contributo |
 |--------|-------|------------|
-| Maida S., Molteni L., Nuzzo A. | *Educazione e osservazione* (2022) | Componenti essenziali, ampiezza, atto interpretativo |
-| Tramma S., Brandani W. | *Dizionario del Lavoro Educativo* (2014) | Definizione professionale di osservazione |
-| Mantovani S. | 1995 | Distinzione osservazione / semplice guardare |
-| Dovigo F. | *Manuale per l'osservazione educativa* (2014) | Circuito dei 5 momenti osservativi |
-| Zanon O. | 2016 | Apprendimento come messa in discussione del sistema di premesse |
-| Braga P. | 1994 | Fattori di deformazione nell'osservatore |
-| Bateson G. | — | Osservare "con occhi differenti"; molteplicità dei punti di vista |
-| Arnkil T.E., Seikkula J. | *Metodi dialogici nel lavoro di rete* (2013) | Realtà polifonica, approcci dialogici |
+| <span class="c-dato">Maida S., Molteni L., Nuzzo A.</span> | *Educazione e osservazione* (2022) | Componenti essenziali, ampiezza, atto interpretativo |
+| <span class="c-dato">Tramma S., Brandani W.</span> | *Dizionario del Lavoro Educativo* (2014) | Definizione professionale di osservazione |
+| <span class="c-dato">Mantovani S.</span> | 1995 | Distinzione osservazione / semplice guardare |
+| <span class="c-dato">Dovigo F.</span> | *Manuale per l'osservazione educativa* (2014) | Circuito dei 5 momenti osservativi |
+| <span class="c-dato">Zanon O.</span> | 2016 | Apprendimento come messa in discussione del sistema di premesse |
+| <span class="c-dato">Braga P.</span> | 1994 | Fattori di deformazione nell'osservatore |
+| <span class="c-dato">Bateson G.</span> | — | Osservare "con occhi differenti"; molteplicità dei punti di vista |
+| <span class="c-dato">Arnkil T.E., Seikkula J.</span> | *Metodi dialogici nel lavoro di rete* (2013) | Realtà polifonica, approcci dialogici |
 
 ---
-
-## Collegamenti
 
 ## Domande di orientamento allo studio
 

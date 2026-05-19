@@ -1,47 +1,56 @@
 # Mezzi, Strategie e Modalità di Valutazione — Sintesi
 TMIS · Sessione 11
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 > Ultimo tassello del modulo sulla progettazione. Tutto quello che hai imparato nelle lezioni 09 e 10 trova qui la sua cornice: la postura artigianale. Rileggila spesso — all'esame torna.
 
 ---
 
 ## La postura artigianale
 
-- Progettare bene = dialogo continuo tra **fare e pensare**
+- <span class="c-tesi">Progettare bene = dialogo continuo tra **fare e pensare**</span>
 - Non si usano ricette preconfezionate: si fa **ricerca costante**
 - Si va dal "come" al "perché" — si evitano le scorciatoie
-- L'**artigianalità è minacciata** dai ritmi veloci e dalla standardizzazione tecnica
-- L'errore non è un fallimento: è l'occasione per costruire nuova complessità
-- La **concettualità si incorpora** con la pratica — più si progetta, più il pensiero progettuale diventa parte di sé
+- <span class="c-warn">L'**artigianalità è minacciata** dai ritmi veloci e dalla standardizzazione tecnica</span>
+- <span class="c-impl">L'errore non è un fallimento: è l'occasione per costruire nuova complessità</span>
+- La <span class="c-def">**concettualità si incorpora**</span> con la pratica — più si progetta, più il pensiero progettuale diventa parte di sé
 - Il **clima lavorativo** conta: senza dignità e autonomia professionale, la postura artigianale non è possibile
 
 ## Fase di Attivazione: risorse e limiti
 
-- Attivare = capire **strumenti disponibili**, **limiti** e **mandato**
-- Fase di tensione creativa: molte idee, bisogna scegliere
-- Il professionista non è neutro: porta con sé storia, valori, pregiudizi → **riflessività obbligatoria**
+- Attivare = capire <span class="c-def">**strumenti disponibili**</span>, <span class="c-def">**limiti**</span> e <span class="c-def">**mandato**</span>
+- <span class="c-tesi">Fase di tensione creativa: molte idee, bisogna scegliere</span>
+- <span class="c-impl">Il professionista non è neutro: porta con sé storia, valori, pregiudizi → **riflessività obbligatoria**</span>
 
 ## Fase di Scrittura
 
-- Scrivere **congela il pensiero** e obbliga a chiarire le ambiguità
+- Scrivere <span class="c-def">**congela il pensiero**</span> e obbliga a chiarire le ambiguità
 - La prima bozza sarà imperfetta: normale e necessario
-- Il progetto scritto rende il lavoro **visibile agli altri** e sancisce la **corresponsabilità** (firmato da tutti)
-- Conta anche **cosa non si scrive**: in équipe si negozia cosa includere, non si ha piena autonomia individuale
+- <span class="c-tesi">Il progetto scritto rende il lavoro **visibile agli altri** e sancisce la **corresponsabilità** (firmato da tutti)</span>
+- <span class="c-impl">Conta anche **cosa non si scrive**: in équipe si negozia cosa includere, non si ha piena autonomia individuale</span>
 
 ## Fase di Realizzazione
 
-- Non è l'esecuzione meccanica di un piano: è un processo **vivo e adattivo**
-- Obiettivo: **emancipazione**, non gestione
-- Ogni progetto è **unico** — stesso mandato, stessa équipe → risultati sempre diversi
-- Le ambiguità emergenti **vanno esplorate**, non ignorate: spesso portano i cambiamenti più significativi
-- Gli indicatori di realizzazione sono **personalizzati** (es. per una persona "trovare lavoro", per un'altra "riuscire ad andare al servizio con costanza")
+- Non è l'esecuzione meccanica di un piano: è un processo <span class="c-tesi">**vivo e adattivo**</span>
+- Obiettivo: <span class="c-def">**emancipazione**</span>, non gestione
+- <span class="c-tesi">Ogni progetto è **unico** — stesso mandato, stessa équipe → risultati sempre diversi</span>
+- <span class="c-impl">Le ambiguità emergenti **vanno esplorate**, non ignorate: spesso portano i cambiamenti più significativi</span>
+- <span class="c-es">Gli indicatori di realizzazione sono **personalizzati** (es. per una persona "trovare lavoro", per un'altra "riuscire ad andare al servizio con costanza")</span>
 
 ## Fase di Verifica
 
-- Sempre **collettiva**: coinvolge tutti gli attori (utente, famiglia, professionisti)
+- Sempre <span class="c-def">**collettiva**</span>: coinvolge tutti gli attori (utente, famiglia, professionisti)
 - Linguaggio **semplice e accessibile** per tutti
-- Considera anche gli **esiti inattesi** positivi e negativi
-- Non è la parola finale: è una **spinta al miglioramento** continuo
+- <span class="c-tesi">Considera anche gli **esiti inattesi** positivi e negativi</span>
+- <span class="c-impl">Non è la parola finale: è una **spinta al miglioramento** continuo</span>
 
 ### Valutazione in itinere vs. verifica finale
 
@@ -63,4 +72,4 @@ TMIS · Sessione 11
 
 ---
 
-**Da ricordare:** la postura artigianale non è un'aggiunta al metodo — è il *modo* in cui si vive ogni fase del processo. Ogni progetto è unico. La verifica è collettiva. Gli esiti inattesi contano. E scrivere bene non è burocrazia: è il primo gesto di corresponsabilità.
+**Da ricordare:** la postura artigianale non è un'aggiunta al metodo — è il *modo* in cui si vive ogni fase del processo. <span class="c-tesi">Ogni progetto è unico. La verifica è collettiva. Gli esiti inattesi contano.</span> E scrivere bene non è burocrazia: è il primo gesto di corresponsabilità.

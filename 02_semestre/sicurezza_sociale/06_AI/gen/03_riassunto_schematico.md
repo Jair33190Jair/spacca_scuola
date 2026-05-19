@@ -1,33 +1,42 @@
 # Assicurazione Invalidità (AI) — Schema
 Sicurezza Sociale e Forme di Solidarietà · Sessione 06
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 ---
 
 ## Sistema di finanziamento
 
-- **11 assicurazioni sociali** → 3 fonti: contributi sociali, contributi pubblici, prodotti del capitale
-- **Salariati** → coperti da 7 assicurazioni via prelievo sul salario
-- **Indipendenti** → solo AVS + AI + IPG obbligatorie
+- <span class="c-def">**11 assicurazioni sociali**</span> → 3 fonti: contributi sociali, contributi pubblici, prodotti del capitale
+- **Salariati** → coperti da <span class="c-dato">7 assicurazioni</span> via prelievo sul salario
+- **Indipendenti** → solo <span class="c-dato">AVS + AI + IPG</span> obbligatorie
 - **Non attivi** → solo AVS + AI + IPG + AMal obbligatoria
-- ⚠️ **Assistenza sociale ≠ assicurazione sociale** → competenza cantonale, commisurata al bisogno
+- <span class="c-warn">⚠️ **Assistenza sociale ≠ assicurazione sociale** → competenza cantonale, commisurata al bisogno</span>
 
 ---
 
 ## AI — Dati fondamentali
 
-- **Tipo** → assicurazione universale (tutta la popolazione residente)
-- **Scopo** → garantire fabbisogno esistenziale in caso di invalidità
-- **Base legale** → LAI (federale) + LISPI (cantonale TI)
-- **Contributo** → 1,4% su salari; non attivi: CHF 70–3'500/anno
-- **Stato copre** → 37,7–50% delle uscite annuali
+- **Tipo** → <span class="c-def">assicurazione universale (tutta la popolazione residente)</span>
+- **Scopo** → <span class="c-tesi">garantire fabbisogno esistenziale in caso di invalidità</span>
+- **Base legale** → <span class="c-dato">LAI</span> (federale) + <span class="c-dato">LISPI</span> (cantonale TI)
+- **Contributo** → <span class="c-dato">1,4%</span> su salari; non attivi: <span class="c-dato">CHF 70–3'500/anno</span>
+- **Stato copre** → <span class="c-dato">37,7–50%</span> delle uscite annuali
 - **Organizzazione** → Uffici AI cantonali + agenzie AVS comunali + Pro Infirmis
 
 ---
 
 ## Procedura AI
 
-- **Rilevamento tempestivo** → entro 30 giorni dalla segnalazione
-- **Intervento tempestivo** → max 12 mesi · max CHF 20'000
+- <span class="c-def">**Rilevamento tempestivo**</span> → entro <span class="c-dato">30 giorni</span> dalla segnalazione
+- <span class="c-def">**Intervento tempestivo**</span> → max <span class="c-dato">12 mesi</span> · max <span class="c-dato">CHF 20'000</span>
   - adeguamento posto di lavoro · formazione · collocamento · riabilitazione
 - **Decisione finale** (3 opzioni):
   - → **Provvedimenti di integrazione**
@@ -38,9 +47,9 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 06
 
 ## Provvedimenti di integrazione
 
-- **Sanitari** (art. 12) → infermità congenite fino ai 20 anni, senza franchigie
-- **Di reinserimento** (art. 14a) → preparazione professionale, max 1 anno
-- **Professionali** (art. 15 ss.) →
+- **Sanitari** (<span class="c-dato">art. 12</span>) → infermità congenite fino ai 20 anni, senza franchigie
+- **Di reinserimento** (<span class="c-dato">art. 14a</span>) → preparazione professionale, max 1 anno
+- <span class="c-tesi">**Professionali** (<span class="c-dato">art. 15 ss.</span>) →</span>
   - orientamento professionale (art. 15)
   - prima formazione / perfezionamento (art. 16)
   - riformazione professionale (art. 17)
@@ -55,11 +64,11 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 06
 
 ## Grado di invalidità
 
-- **Definizione** → economica, NON medica
+- <span class="c-tesi">**Definizione** → economica, NON medica</span>
 - **Formula** → `(Reddito precedente − Reddito residuo) / Reddito precedente × 100`
-- **Esempio** → CHF 60'000 → CHF 20'000 = perdita CHF 40'000 = **67%**
+- <span class="c-es">**Esempio** → CHF 60'000 → CHF 20'000 = perdita CHF 40'000 = **67%**</span>
 
-### Soglie rendita (sistema lineare dal 01.01.2022)
+### Soglie rendita (sistema lineare dal <span class="c-dato">01.01.2022</span>)
 
 | Grado | Rendita |
 |---|---|
@@ -68,16 +77,16 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 06
 | 50–69% | % = grado (es. 55% → rendita 55%) |
 | ≥ 70% | Rendita intera |
 
-- **Rendita intera** → CHF 1'260–2'520/mese (scala 44, 2025)
-- **Sistema meritocratico-occupazionale** → chi guadagnava di più → rendita più alta
-- **Soglia critica** → 39% = nessuna rendita AI (ma possibile rendita da 2° pilastro o AINF)
-- **AINF** → rendita già dal 10%
-- **2° pilastro** → rendita già dal 40%
+- **Rendita intera** → <span class="c-dato">CHF 1'260–2'520/mese</span> (scala 44, 2025)
+- <span class="c-def">**Sistema meritocratico-occupazionale**</span> → chi guadagnava di più → rendita più alta
+- <span class="c-warn">**Soglia critica** → 39% = nessuna rendita AI (ma possibile rendita da 2° pilastro o AINF)</span>
+- **AINF** → rendita già dal <span class="c-dato">10%</span>
+- **2° pilastro** → rendita già dal <span class="c-dato">40%</span>
 
 ### Casi speciali
 
 - **Senza attività lucrativa** → valutazione tramite confronto delle attività domestiche
-- **Invalidi precoci (< 23 anni)** → rendita straordinaria CHF 1'680/mese
+- <span class="c-dato">**Invalidi precoci (< 23 anni)**</span> → rendita straordinaria <span class="c-dato">CHF 1'680/mese</span>
 - **Ricorso** → Tribunale delle assicurazioni sociali
 
 ---
@@ -85,17 +94,17 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 06
 ## Contributo per l'assistenza
 
 - **Per chi** → beneficiari AGI che vivono a domicilio
-- **Pagato a** → assistente esterno (NON familiare stretto)
-- **Importi** → CHF 35.30/h · CHF 52.95/h (qualificato) · max CHF 169.10/notte
-- **Logica** → domicilio costa meno dell'istituto → misura sussidiaria
+- <span class="c-warn">**Pagato a** → assistente esterno (NON familiare stretto)</span>
+- **Importi** → <span class="c-dato">CHF 35.30/h</span> · <span class="c-dato">CHF 52.95/h</span> (qualificato) · max <span class="c-dato">CHF 169.10/notte</span>
+- <span class="c-impl">**Logica** → domicilio costa meno dell'istituto → misura sussidiaria</span>
 
 ---
 
 ## Familiari curanti
 
-- **Definizione** → assistenza regolare, non professionale, a persona dipendente da terzi
-- **Ticino** → 50'000+ persone; 72,5% attivi più volte/settimana; 55,3% donne
-- **Rischio** → **caregiver burden**: isolamento, ansia, stanchezza, senso di colpa
+- <span class="c-def">**Definizione** → assistenza regolare, non professionale, a persona dipendente da terzi</span>
+- **Ticino** → <span class="c-dato">50'000+</span> persone; <span class="c-dato">72,5%</span> attivi più volte/settimana; <span class="c-dato">55,3%</span> donne
+- **Rischio** → <span class="c-def">**caregiver burden**</span>: isolamento, ansia, stanchezza, senso di colpa
 
 ### Strumenti di sostegno
 
@@ -108,10 +117,10 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 06
 
 ### Rete servizi Ticino
 
-- **SACD** → ABAD, ALVAD, SCuDo, Spitex, Maggio, ecc.
-- **CDSA** → centri diurni socio-assistenziali (anziani, disabilità lieve)
-- **CDT** → centri diurni terapeutici (demenze, ridotta autonomia)
-- **Soggiorni temporanei** → max 30 gg/anno (disabilità) · 3 mesi di preavviso
+- <span class="c-dato">**SACD**</span> → ABAD, ALVAD, SCuDo, Spitex, Maggio, ecc.
+- <span class="c-dato">**CDSA**</span> → centri diurni socio-assistenziali (anziani, disabilità lieve)
+- <span class="c-dato">**CDT**</span> → centri diurni terapeutici (demenze, ridotta autonomia)
+- **Soggiorni temporanei** → max <span class="c-dato">30 gg/anno</span> (disabilità) · 3 mesi di preavviso
 - **Volontariato, telesoccorso ATTE, Pro Infirmis, Pro Senectute, Croce Rossa**
 
 ---
@@ -120,13 +129,13 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 06
 
 | Anno | Evento |
 |---|---|
-| 1960 | Entrata in vigore LAI |
-| 1987–88 | 2ª revisione: indennità giornaliere giovani, quarti di rendita |
-| 1992 | 3ª revisione: creazione Uffici AI cantonali |
-| 2004 | 4ª revisione: quarti di rendita con grado AI al 40% |
-| 2008 | 5ª revisione: rilevamento e intervento tempestivo |
-| 2012 | 6ª revisione: rafforzamento reintegrazione professionale |
-| 2022 | Nuovo sistema lineare di calcolo delle rendite |
+| <span class="c-dato">1960</span> | Entrata in vigore LAI |
+| <span class="c-dato">1987–88</span> | 2ª revisione: indennità giornaliere giovani, quarti di rendita |
+| <span class="c-dato">1992</span> | 3ª revisione: creazione Uffici AI cantonali |
+| <span class="c-dato">2004</span> | 4ª revisione: quarti di rendita con grado AI al 40% |
+| <span class="c-dato">2008</span> | 5ª revisione: rilevamento e intervento tempestivo |
+| <span class="c-dato">2012</span> | 6ª revisione: rafforzamento reintegrazione professionale |
+| <span class="c-dato">2022</span> | Nuovo sistema lineare di calcolo delle rendite |
 
 ---
 

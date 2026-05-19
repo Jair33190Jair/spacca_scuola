@@ -1,32 +1,41 @@
 # La Famiglia — Schema
 I Tempi della Vita · Sessione 05
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 ---
 
 ## Definizioni di famiglia
 
-- **Lévi-Strauss** → 3 pilastri: proibizione incesto · unione riconosciuta · divisione sessuale compiti
-- **Scabini & Cigoli (2000)** → lega generi / generazioni / stirpi · progetto: **generatività**
-- **Delvecchio (2013)** → sistema complesso, non riducibile alla somma dei membri
-- **Fruggeri (2005)** → non istituzione, ma **unione di affetti**
-- **Colozzi (2009)** → topos delle certezze, luogo sicuro
-- **Tendenza attuale** → sociologi parlano di "famiglie" (plurale), non di "famiglia"
+- **<span class="c-dato">Lévi-Strauss</span>** → 3 pilastri: proibizione incesto · unione riconosciuta · divisione sessuale compiti
+- **<span class="c-dato">Scabini & Cigoli (2000)</span>** → lega generi / generazioni / stirpi · progetto: **<span class="c-def">generatività</span>**
+- **<span class="c-dato">Delvecchio (2013)</span>** → <span class="c-def">sistema complesso</span>, non riducibile alla somma dei membri
+- **<span class="c-dato">Fruggeri (2005)</span>** → non istituzione, ma **<span class="c-def">unione di affetti</span>**
+- **<span class="c-dato">Colozzi (2009)</span>** → topos delle certezze, luogo sicuro
+- **<span class="c-tesi">Tendenza attuale</span>** → sociologi parlano di "famiglie" (plurale), non di "famiglia"
 
-### Tipologie (Alvaro et al., 2007)
-`nucleare` · `monoparentale` · `ricomposta` · `omo-genitoriale` · `adottiva` · `d'affido` · `procreazione assistita` · `LAT` · `DINKS` · `unipersonale`
+### Tipologie (<span class="c-dato">Alvaro et al., 2007</span>)
+<span class="c-es">`nucleare` · `monoparentale` · `ricomposta` · `omo-genitoriale` · `adottiva` · `d'affido` · `procreazione assistita` · `LAT` · `DINKS` · `unipersonale`</span>
 
 ---
 
 ## Genitorialità — sguardo antropologico
 
-- **Esther Goody (1999)** → 5 funzioni della genitorialità:
+- **<span class="c-dato">Esther Goody (1999)</span>** → <span class="c-def">5 funzioni della genitorialità</span>:
   1. Concepire e mettere al mondo
   2. Nutrire
   3. Educare
   4. Dare un'identità alla nascita
   5. Garantire l'accesso allo statuto di adulto
-- **Dissociazione contemporanea** → genitorialità **biologica** / **istituzionale** (giuridica) / **domestica** (cura)
-- **Principi dominanti filiazione occidentale** → bilateralità · ideologia del sangue · esclusività
+- **<span class="c-def">Dissociazione contemporanea</span>** → genitorialità **biologica** / **istituzionale** (giuridica) / **domestica** (cura)
+- **<span class="c-warn">Principi dominanti filiazione occidentale</span>** → bilateralità · ideologia del sangue · esclusività
 
 ---
 
@@ -34,64 +43,64 @@ I Tempi della Vita · Sessione 05
 
 | Periodo | Caratteristiche chiave |
 |---------|----------------------|
-| **Tradizionale** (XVI–XVIII sec.) | Padre-padrone · donna e figli sottomessi · matrimonio = alleanza tra stirpi |
-| **Moderna** (fine XVIII – XX sec.) | Padre affettuoso · bambino al centro · codice napoleonico 1803: ristabilisce potenza paterna · rigida divisione ruoli |
-| **Contemporanea / post-moderna** (dal 1965) | Crollo patriarcato · valorizzazione soggettività · coniugalità privatizzata · precarizzazione unione |
+| **<span class="c-dato">Tradizionale</span>** (XVI–XVIII sec.) | Padre-padrone · donna e figli sottomessi · matrimonio = alleanza tra stirpi |
+| **<span class="c-dato">Moderna</span>** (fine XVIII – XX sec.) | Padre affettuoso · bambino al centro · <span class="c-warn">codice napoleonico <span class="c-dato">1803</span>: ristabilisce potenza paterna</span> · rigida divisione ruoli |
+| **<span class="c-dato">Contemporanea / post-moderna</span>** (dal 1965) | Crollo patriarcato · valorizzazione soggettività · coniugalità privatizzata · precarizzazione unione |
 
 ---
 
 ## Cambiamenti culturali nella transizione alla genitorialità
 
-*(Scabini & Cigoli, 2000)*
+*(<span class="c-dato">Scabini & Cigoli, 2000</span>)*
 
 - **Genitorialità più tardiva** → età media al primo figlio in aumento
-- **Figli più rari** → seconda transizione demografica (Lesthaeghe & Van de Kaa, 1986) · calo fecondità
+- **Figli più rari** → <span class="c-def">seconda transizione demografica</span> (<span class="c-dato">Lesthaeghe & Van de Kaa, 1986</span>) · calo fecondità
 - **Nascita come scelta** → da evento atteso a evento pianificato · figlio = centro della realizzazione personale
-  - Dalla **famiglia etica** (norme e valori) → alla **famiglia affettiva** (amore e legame emotivo — Pietropolli Charmet, 2000)
+  - Dalla **<span class="c-def">famiglia etica</span>** (norme e valori) → alla **<span class="c-def">famiglia affettiva</span>** (amore e legame emotivo — <span class="c-dato">Pietropolli Charmet, 2000</span>)
 - **Aspettative paritarie** → le donne si aspettano impegno condiviso del partner
 
 ---
 
 ## Il processo di accesso alla genitorialità
 
-*(Nanzer & Palacio Espasa)*
+*(<span class="c-dato">Nanzer & Palacio Espasa</span>)*
 
-- **Periodo critico** → perinatale (concepimento – 2 anni post-parto)
-- **Trasparenza psichica** → estrema sensibilità della donna in gravidanza; riemersione del passato infantile
+- **Periodo critico** → <span class="c-def">perinatale</span> (concepimento – 2 anni post-parto)
+- **<span class="c-def">Trasparenza psichica</span>** → estrema sensibilità della donna in gravidanza; riemersione del passato infantile
 - **Movimento regressivo** → il genitore rivisita le proprie imago genitoriali e i vissuti infantili
-- **Lutti di sviluppo** → rinuncia a immagini idealizzate di sé bambino e dei propri genitori
-  - Ben elaborati → genitorialità come crescita ("riedizione corretta")
-  - Non elaborati → il bambino viene arruolato per "riparare" il passato
+- **<span class="c-def">Lutti di sviluppo</span>** → rinuncia a immagini idealizzate di sé bambino e dei propri genitori
+  - <span class="c-impl">Ben elaborati → genitorialità come crescita ("riedizione corretta")</span>
+  - <span class="c-warn">Non elaborati → il bambino viene arruolato per "riparare" il passato</span>
 
 ---
 
 ## I quattro conflitti della genitorialità
 
-*(Manzano, Palacio Espasa & Zilkha, 1999)*
+*(<span class="c-dato">Manzano, Palacio Espasa & Zilkha, 1999</span>)*
 
 | Tipo | Identificazioni proiettive | Dinamica centrale | Pre-transfert | Impatto sul bambino |
 |------|---------------------------|-------------------|---------------|---------------------|
 | **Normale** | Flessibili, bidirezionali, positive | Empatia funzionale; proiezioni sfumano nel tempo | — | Sviluppo sano |
-| **Nevrotica** | Empatiche ma vincolanti | Bambino = bambino ideale che il genitore avrebbe voluto essere | Positivo | Disturbi separazione, sonno, alimentazione |
-| **Masochistica** | Empatiche, molto vincolanti | Genitore si sottomette (espiazione) alla tirannia del bambino | Positivo | Disturbi comportamentali, ansia, umore |
-| **Narcisistica** | Rigide, evacuatrici, deformanti | Proiezioni negative; diniego e scissione; genitore tagliato dalla vita emotiva | **Negativo** | Gravi disturbi attaccamento; disturbo personalità |
+| **<span class="c-def">Nevrotica</span>** | Empatiche ma vincolanti | Bambino = bambino ideale che il genitore avrebbe voluto essere | Positivo | Disturbi separazione, sonno, alimentazione |
+| **<span class="c-def">Masochistica</span>** | Empatiche, molto vincolanti | Genitore si sottomette (espiazione) alla tirannia del bambino | Positivo | Disturbi comportamentali, ansia, umore |
+| **<span class="c-def">Narcisistica</span>** | Rigide, evacuatrici, deformanti | Proiezioni negative; diniego e scissione; genitore tagliato dalla vita emotiva | **<span class="c-warn">Negativo</span>** | <span class="c-warn">Gravi disturbi attaccamento; disturbo personalità</span> |
 
 ---
 
 ## Casi clinici
 
 ### Myriam — "L'erede psicologica"
-- **Chi:** Myriam, 11 anni, adottata · difficoltà scolastiche · tristezza · inibizione
+- **Chi:** <span class="c-es">Myriam, 11 anni, adottata · difficoltà scolastiche · tristezza · inibizione</span>
 - **Proiezione:** madre proietta su Myriam l'imago della propria madre depressa
 - **Scopo:** recuperare legame con la madre, "guarirla"
-- **Reazione bambino:** identificazione isterica con la depressione materna (per mantenere l'interesse della madre)
+- **Reazione bambino:** <span class="c-impl">identificazione isterica con la depressione materna (per mantenere l'interesse della madre)</span>
 - **Esito:** madre si riappropria della propria depressione · Myriam migliora e si autonomizza
 
 ### Régine — "Il sorriso di sollievo"
-- **Chi:** Régine, 9 anni · grave angoscia da separazione · non dorme fuori casa · si preoccupa per oggetti persi
+- **Chi:** <span class="c-es">Régine, 9 anni · grave angoscia da separazione · non dorme fuori casa · si preoccupa per oggetti persi</span>
 - **Contesto madre:** orfana di entrambi i genitori (padre + madre)
 - **Proiezione:** madre proietta su Régine l'immagine della "buona madre" che protegge dalla perdita
-- **Reazione bambino:** si identifica con l'oggetto proiettato; porta il lutto della madre
+- **Reazione bambino:** si identifica con l'oggetto proiettato; <span class="c-tesi">porta il lutto della madre</span>
 - **Intervento:** unico intervento terapeutico ("Prima la mamma era preoccupata per te, ora sei tu che non vuoi lasciarla")
 - **Esito:** sintomo dissolto in una seduta · Régine pianifica subito un soggiorno dalla cugina
 
@@ -99,8 +108,8 @@ I Tempi della Vita · Sessione 05
 
 ## Plurigenitorialità e spazio psichico del bambino
 
-- **Rischio** → modificazioni brusche dell'ambiente mettono a rischio la continuità narcisistica
-- **Protezione** → dare senso alle trasformazioni · ammettere la bilinearità delle origini
+- **<span class="c-warn">Rischio</span>** → modificazioni brusche dell'ambiente mettono a rischio la <span class="c-def">continuità narcisistica</span>
+- **Protezione** → dare senso alle trasformazioni · ammettere la <span class="c-def">bilinearità delle origini</span>
 - **Rispettare lo spazio psichico** →
   - Spiegare in modo misurato
   - Accettare i sentimenti del bambino
@@ -113,16 +122,16 @@ I Tempi della Vita · Sessione 05
 
 | Chi | Cosa | Anno |
 |-----|------|------|
-| Lévi-Strauss | Tre pilastri strutturali della famiglia | — |
-| Scabini & Cigoli | Definizione famiglia; cambiamenti transizione alla genitorialità | 2000 |
-| Esther Goody | 5 funzioni della genitorialità | 1999 |
-| Pietropolli Charmet | Famiglia etica → famiglia affettiva | 2000 |
-| Lesthaeghe & Van de Kaa | Seconda transizione demografica | 1986 |
-| Nanzer & Palacio Espasa | Processo di accesso alla genitorialità | — |
-| Manzano, Palacio Espasa & Zilkha | Scenari narcisistici della genitorialità; 4 tipi di conflitto | 1999 |
-| Cramer & Palacio Espasa | Conflitti della genitorialità; psicoterapie madre-bambino | 1993 |
-| Lazartigues | Edonismo e nuove pratiche di genitorialità | 2000 |
-| Fruggeri | Famiglia come unione di affetti | 2005 |
+| <span class="c-dato">Lévi-Strauss</span> | Tre pilastri strutturali della famiglia | — |
+| <span class="c-dato">Scabini & Cigoli</span> | Definizione famiglia; cambiamenti transizione alla genitorialità | 2000 |
+| <span class="c-dato">Esther Goody</span> | 5 funzioni della genitorialità | 1999 |
+| <span class="c-dato">Pietropolli Charmet</span> | Famiglia etica → famiglia affettiva | 2000 |
+| <span class="c-dato">Lesthaeghe & Van de Kaa</span> | Seconda transizione demografica | 1986 |
+| <span class="c-dato">Nanzer & Palacio Espasa</span> | Processo di accesso alla genitorialità | — |
+| <span class="c-dato">Manzano, Palacio Espasa & Zilkha</span> | Scenari narcisistici della genitorialità; 4 tipi di conflitto | 1999 |
+| <span class="c-dato">Cramer & Palacio Espasa</span> | Conflitti della genitorialità; psicoterapie madre-bambino | 1993 |
+| <span class="c-dato">Lazartigues</span> | Edonismo e nuove pratiche di genitorialità | 2000 |
+| <span class="c-dato">Fruggeri</span> | Famiglia come unione di affetti | 2005 |
 
 ---
 

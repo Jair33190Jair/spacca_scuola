@@ -1,23 +1,32 @@
 # Processo di Progettazione Concertativo
 TMIS · Sessione 09 · 24.11.2025
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 > Questa lezione è il cuore pratico del modulo: dopo aver capito *cosa sono* i modelli di progettazione (lezione 06), ora entriamo nel *come si fa* con l'approccio dialogico-partecipato. Si parla di ascolto, negoziazione, rete, desideri, aspirazioni — e di perché fare un progetto *con* le persone è molto diverso dal farlo *per* le persone.
 
 ---
 
 ## Dal modello tecnico-razionale al modello concertativo
 
-Come abbiamo visto nella lezione 06, i modelli tradizionali seguono una logica **sinottico-razionale**: l'esperto analizza il problema, decide la soluzione, la applica. Lineare. Pulito. E spesso sbagliato.
+Come abbiamo visto nella lezione 06, i modelli tradizionali seguono una logica <span class="c-def">**sinottico-razionale**</span>: l'esperto analizza il problema, decide la soluzione, la applica. Lineare. Pulito. E spesso sbagliato.
 
-L'**approccio concertativo-partecipativo** nasce come critica a questo modello. Il problema del modello razionale? Tratta i bisogni delle persone come dati oggettivi, quando in realtà sono sempre interpretati, negoziati, contestuali. Ogni attore coinvolto (utente, famiglia, educatore, assistente sociale, medico…) porta una propria lettura della situazione — e quelle letture non coincidono mai del tutto.
+L'<span class="c-def">**approccio concertativo-partecipativo**</span> nasce come critica a questo modello. <span class="c-tesi">Il problema del modello razionale? Tratta i bisogni delle persone come dati oggettivi, quando in realtà sono sempre interpretati, negoziati, contestuali.</span> Ogni attore coinvolto (utente, famiglia, educatore, assistente sociale, medico…) porta una propria lettura della situazione — e quelle letture non coincidono mai del tutto.
 
 Il modello concertativo si basa su tre convinzioni fondamentali:
 
 1. I problemi sociali **non hanno cause lineari** — sono intrecciati, complessi.
 2. Esistono **più letture dei bisogni** e più ipotesi interpretative valide.
-3. Il ruolo degli operatori non è distribuire ricette, ma **promuovere l'empowerment** relazionale di individui e comunità.
+3. Il ruolo degli operatori non è distribuire ricette, ma <span class="c-def">**promuovere l'empowerment**</span> relazionale di individui e comunità.
 
-Il termine **"dialogico"** viene dal filosofo russo **Michail Bachtin** (1895–1975), che definisce il dialogo come una comunicazione attenta all'interlocutore e al contesto, dove ogni scambio è co-costruito dai partecipanti — non una semplice sequenza di turni. Gli autori finlandesi **Arnkil e Seikkula** lo descrivono così: il dialogo è l'arte di valicare i confini. Invece di cercare di controllare gli altri, le parti si rivolgono l'una verso l'altra per ascoltare meglio e generare linguaggi e soluzioni condivise.
+Il termine <span class="c-def">**"dialogico"**</span> viene dal filosofo russo <span class="c-dato">**Michail Bachtin** (1895–1975)</span>, che definisce il dialogo come una comunicazione attenta all'interlocutore e al contesto, dove ogni scambio è co-costruito dai partecipanti — non una semplice sequenza di turni. Gli autori finlandesi <span class="c-dato">**Arnkil e Seikkula**</span> lo descrivono così: <span class="c-tesi">il dialogo è l'arte di valicare i confini. Invece di cercare di controllare gli altri, le parti si rivolgono l'una verso l'altra per ascoltare meglio e generare linguaggi e soluzioni condivise.</span>
 
 ---
 
@@ -25,29 +34,29 @@ Il termine **"dialogico"** viene dal filosofo russo **Michail Bachtin** (1895–
 
 Questa è la frase-chiave dell'intera lezione, vale la pena stamparla in testa:
 
-> **La questione centrale del processo di progettazione è la costruzione di un significato comune del problema, prima della ricerca di una sua "soluzione".**
+> <span class="c-tesi">**La questione centrale del processo di progettazione è la costruzione di un significato comune del problema, prima della ricerca di una sua "soluzione".**</span>
 
-In pratica: prima di pensare a *cosa fare*, tutte le persone coinvolte devono concordare su *come leggono la situazione*. È uno sforzo enorme — perché ognuno usa le proprie **mappe cognitive** per interpretare la realtà — ma è indispensabile se vuoi un progetto che le persone sentano davvero loro.
+In pratica: prima di pensare a *cosa fare*, tutte le persone coinvolte devono concordare su *come leggono la situazione*. È uno sforzo enorme — perché ognuno usa le proprie <span class="c-def">**mappe cognitive**</span> per interpretare la realtà — ma è indispensabile se vuoi un progetto che le persone sentano davvero loro.
 
-Quando questo processo funziona, i partecipanti non si limitano ad eseguire un progetto calato dall'alto, ma diventano **attori protagonisti** della progettualità. Sono compartecipi. Hanno motivazione concreta a renderlo reale — e si sentono confermati nella propria identità e competenza.
+Quando questo processo funziona, i partecipanti non si limitano ad eseguire un progetto calato dall'alto, ma diventano <span class="c-tesi">**attori protagonisti** della progettualità</span>. Sono compartecipi. Hanno motivazione concreta a renderlo reale — e si sentono confermati nella propria identità e competenza.
 
-Il processo è **circolare, non lineare** — viene rappresentato come una spirale: si può tornare a qualsiasi fase in qualsiasi momento, in base a cosa emerge nel dialogo e nell'esperienza.
+Il processo è <span class="c-def">**circolare, non lineare**</span> — viene rappresentato come una spirale: si può tornare a qualsiasi fase in qualsiasi momento, in base a cosa emerge nel dialogo e nell'esperienza.
 
 ---
 
 ## Progetto di vita vs Progetto di sviluppo individuale
 
-I modelli tradizionali parlano di **PSI** (Progetto di Sviluppo Individuale) o **PEI** (Progetto Educativo Individualizzato): strumenti tecnici, centrati su obiettivi specifici e misurabili, dove è il professionista ad avere in mano il progetto.
+I modelli tradizionali parlano di <span class="c-def">**PSI** (Progetto di Sviluppo Individuale)</span> o <span class="c-def">**PEI** (Progetto Educativo Individualizzato)</span>: strumenti tecnici, centrati su obiettivi specifici e misurabili, dove è il professionista ad avere in mano il progetto.
 
-Il nuovo approccio dialogico sposta il focus sul **Progetto di Vita (PdV)**: qualcosa che traduce la dimensione di senso della vita della persona. Non solo "cosa sa fare" ma "chi vuole diventare".
+Il nuovo approccio dialogico sposta il focus sul <span class="c-def">**Progetto di Vita (PdV)**</span>: qualcosa che traduce la dimensione di senso della vita della persona. Non solo "cosa sa fare" ma "chi vuole diventare".
 
-> «L'educazione per tutta la vita rappresenta un'esperienza da costruire giorno per giorno e con notevole impegno personale, contraddistinta da un apprendimento formale e uno non formale — complementari e in sinergia tra loro — costituendosi come esperienza particolare e originale per ciascun individuo.» (Aleandri, 2003)
+> «L'educazione per tutta la vita rappresenta un'esperienza da costruire giorno per giorno e con notevole impegno personale, contraddistinta da un apprendimento formale e uno non formale — complementari e in sinergia tra loro — costituendosi come esperienza particolare e originale per ciascun individuo.» <span class="c-dato">(Aleandri, 2003)</span>
 
 Per costruire un PdV bisogna tenere conto di **potenzialità, talenti, desideri e aspirazioni** — e trasformarli in aspettative realistiche nel breve, medio e lungo termine, considerando i diversi ruoli sociali che ogni persona assume e assumerà.
 
-Il prof è diretto: se un ragazzo vuole fare il meccanico, insegnargli a sbucciare le patate ha senso *solo* se è contestualizzato in un percorso più ampio coerente con la sua aspirazione. Senza quel filo, è solo attività fine a sé stessa.
+<span class="c-es">Il prof è diretto: se un ragazzo vuole fare il meccanico, insegnargli a sbucciare le patate ha senso *solo* se è contestualizzato in un percorso più ampio coerente con la sua aspirazione. Senza quel filo, è solo attività fine a sé stessa.</span>
 
-> Il prof sottolinea: i due piani (progetto di vita e piccoli progetti su base annuale) devono andare nella stessa direzione. La persona avrà più motivazione se vede un collegamento tra quello che fa ogni giorno e quello che vuole diventare.
+> <span class="c-impl">Il prof sottolinea: i due piani (progetto di vita e piccoli progetti su base annuale) devono andare nella stessa direzione. La persona avrà più motivazione se vede un collegamento tra quello che fa ogni giorno e quello che vuole diventare.</span>
 
 I due concetti non sono sinonimi né intercambiabili — vanno sempre tenuti presenti insieme.
 
@@ -57,18 +66,18 @@ I due concetti non sono sinonimi né intercambiabili — vanno sempre tenuti pre
 
 Il prof dedica una parte consistente della lezione a questa distinzione, perché cambia il modo in cui si imposta la relazione d'aiuto.
 
-**Desiderare** = impulso immediato, emotivo, legato al presente. La mancanza che lo genera rimane mancanza finché non viene soddisfatta. Non c'è progettualità.
+<span class="c-def">**Desiderare**</span> = impulso immediato, emotivo, legato al presente. La mancanza che lo genera rimane mancanza finché non viene soddisfatta. Non c'è progettualità.
 
-**Aspirare** = qualcosa di più elaborato, proiettato nel futuro. Non voglio solo avere qualcosa — voglio *diventare* qualcosa. L'aspirazione trasforma la mancanza in un percorso.
+<span class="c-def">**Aspirare**</span> = qualcosa di più elaborato, proiettato nel futuro. Non voglio solo avere qualcosa — voglio *diventare* qualcosa. L'aspirazione trasforma la mancanza in un percorso.
 
-L'antropologo statunitense **Arjun Appadurai** definisce la capacità di aspirare come la capacità di immaginare un futuro più favorevole alla propria esistenza. La si esercita nel presente: il senso del futuro si riverbera sul senso dell'ora.
+L'antropologo statunitense <span class="c-dato">**Arjun Appadurai**</span> definisce la capacità di aspirare come la capacità di immaginare un futuro più favorevole alla propria esistenza. La si esercita nel presente: il senso del futuro si riverbera sul senso dell'ora.
 
 Per poter aspirare servono tre capacità:
-- **Capacità culturale**: poter partecipare alle rappresentazioni sociali che danno forma al futuro della società.
-- **Capacità di navigare tra norme sociali**: usarle come supporto per i propri progetti di vita.
-- **Capacità di "voce"**: esprimersi nel collettivo — la dimensione politica della configurazione del futuro.
+- <span class="c-def">**Capacità culturale**</span>: poter partecipare alle rappresentazioni sociali che danno forma al futuro della società.
+- <span class="c-def">**Capacità di navigare tra norme sociali**</span>: usarle come supporto per i propri progetti di vita.
+- <span class="c-def">**Capacità di "voce"**</span>: esprimersi nel collettivo — la dimensione politica della configurazione del futuro.
 
-> Il prof allarga il discorso: nelle società più povere e non democratiche la possibilità di aspirare è spesso negata. E anche nelle società ricche l'individualismo e l'isolamento sociale indeboliscono questa capacità. Il lavoro sociale, quindi, non è solo lavorare caso per caso — ha una dimensione politica: combattere le disuguaglianze.
+> <span class="c-impl">Il prof allarga il discorso: nelle società più povere e non democratiche la possibilità di aspirare è spesso negata. E anche nelle società ricche l'individualismo e l'isolamento sociale indeboliscono questa capacità. Il lavoro sociale, quindi, non è solo lavorare caso per caso — ha una dimensione politica: combattere le disuguaglianze.</span>
 
 La tabella riassuntiva delle slide (da memorizzare):
 
@@ -82,33 +91,33 @@ La tabella riassuntiva delle slide (da memorizzare):
 | Relazione con la mancanza | Nasce dalla mancanza | Trasforma la mancanza in percorso |
 | Funzione pedagogica | Mobilita, attiva il soggetto | Orienta, dà senso e direzione alla crescita |
 
-**Esempio pratico:** "Desidero essere ascoltato" vs "Aspiro a diventare una persona capace di ascoltare e comprendere gli altri."
+<span class="c-es">**Esempio pratico:** "Desidero essere ascoltato" vs "Aspiro a diventare una persona capace di ascoltare e comprendere gli altri."</span>
 
 ---
 
 ## Analisi pedagogica dei problemi educativi
 
-Quando si incontra una situazione-problema, il primo passo è analizzarla con attenzione. Il **problema educativo** è la *distanza tra una situazione esistente e una auspicata* — e può essere percepito dall'operatore anche quando la persona coinvolta non ne è ancora consapevole.
+Quando si incontra una situazione-problema, il primo passo è analizzarla con attenzione. Il <span class="c-def">**problema educativo**</span> è la *distanza tra una situazione esistente e una auspicata* — e può essere percepito dall'operatore anche quando la persona coinvolta non ne è ancora consapevole.
 
-La **domanda progettuale** nasce dall'insieme degli elementi che fanno emergere l'esigenza di attivare un intervento: descrive lo scarto tra situazione presente e cambiamento desiderato.
+La <span class="c-def">**domanda progettuale**</span> nasce dall'insieme degli elementi che fanno emergere l'esigenza di attivare un intervento: descrive lo scarto tra situazione presente e cambiamento desiderato.
 
-I problemi socio-educativi non hanno mai una causa unica — sono intrecciati, complessi, influenzati da contesti relazionali multipli (visione ecologica di Bronfenbrenner).
+<span class="c-tesi">I problemi socio-educativi non hanno mai una causa unica — sono intrecciati, complessi, influenzati da contesti relazionali multipli</span> (visione ecologica di <span class="c-dato">Bronfenbrenner</span>).
 
 ### Le cinque trappole interpretative (da cui stare lontani)
 
 Il prof elenca cinque errori nei quali è facile cadere e che bisogna attivamente evitare:
 
-1. **Interpretazioni diagnostiche deterministiche** — vedere una persona come la sua diagnosi. "Ha la trisomia 21, quindi non andrà mai a lavorare." La diagnosi può intrappolare, non è una sentenza sul futuro.
+1. <span class="c-warn">**Interpretazioni diagnostiche deterministiche**</span> — vedere una persona come la sua diagnosi. "Ha la trisomia 21, quindi non andrà mai a lavorare." La diagnosi può intrappolare, non è una sentenza sul futuro.
 
-2. **Oggettivazione e spersonalizzazione** — trattare la persona come un caso clinico, un problema da risolvere. Decidere la soluzione a priori, amministrativamente, senza considerare la persona.
+2. <span class="c-warn">**Oggettivazione e spersonalizzazione**</span> — trattare la persona come un caso clinico, un problema da risolvere. Decidere la soluzione a priori, amministrativamente, senza considerare la persona.
 
-3. **Dividere in normale/diverso** — imporre standard di vita come unica traiettoria accettabile (lavoro al 100%, famiglia, figli…). Ogni persona ha traiettorie valide e diverse.
+3. <span class="c-warn">**Dividere in normale/diverso**</span> — imporre standard di vita come unica traiettoria accettabile (lavoro al 100%, famiglia, figli…). Ogni persona ha traiettorie valide e diverse.
 
-4. **Ineducabilità preconcetta** — pensare che certe persone, famiglie o contesti non possano evolversi. "È inutile lavorarci, tanto non cambierà niente."
+4. <span class="c-warn">**Ineducabilità preconcetta**</span> — pensare che certe persone, famiglie o contesti non possano evolversi. "È inutile lavorarci, tanto non cambierà niente."
 
-5. **Privilegiare la custodia all'emancipazione** — è più comodo portare un bambino in struttura che fare un lavoro genitorialità. Ma l'educazione punta all'autonomia, all'empowerment, all'emancipazione. Non alla gestione assistenziale.
+5. <span class="c-warn">**Privilegiare la custodia all'emancipazione**</span> — è più comodo portare un bambino in struttura che fare un lavoro genitorialità. Ma l'educazione punta all'autonomia, all'empowerment, all'emancipazione. Non alla gestione assistenziale.
 
-> Il prof sottolinea anche il concetto di **impotenza appresa**: persone che, dopo una vita di istituzionalizzazione, hanno imparato di non avere potere sulla loro situazione. Il lavoro educativo consiste anche nel farle scoprire che possono incidere sulla propria realtà.
+> <span class="c-impl">Il prof sottolinea anche il concetto di **impotenza appresa**: persone che, dopo una vita di istituzionalizzazione, hanno imparato di non avere potere sulla loro situazione. Il lavoro educativo consiste anche nel farle scoprire che possono incidere sulla propria realtà.</span>
 
 ---
 
@@ -140,15 +149,15 @@ Si raccolgono informazioni attraverso:
 - Individuazione delle persone significative nella rete interna ed esterna
 - Prima identificazione di risorse e bisogni emancipativi
 
-> Il prof racconta un esempio personale: quando riceveva una segnalazione con dossier clinici, evitava di leggerli in anticipo. Preferiva incontrare la persona senza pregiudizi — poi, una volta conosciuta, le informazioni cliniche diventavano utile contesto, non gabbia.
+> <span class="c-es">Il prof racconta un esempio personale: quando riceveva una segnalazione con dossier clinici, evitava di leggerli in anticipo. Preferiva incontrare la persona senza pregiudizi — poi, una volta conosciuta, le informazioni cliniche diventavano utile contesto, non gabbia.</span>
 
-Un concetto chiave qui è la **Zona di Sviluppo Prossimale (ZSP)** di **Lev Vygotskij**: la distanza tra ciò che una persona sa fare da sola e ciò che sa fare con l'aiuto di altri. È lì che si lavora — è il territorio della crescita possibile.
+Un concetto chiave qui è la <span class="c-def">**Zona di Sviluppo Prossimale (ZSP)**</span> di <span class="c-dato">**Lev Vygotskij**</span>: la distanza tra ciò che una persona sa fare da sola e ciò che sa fare con l'aiuto di altri. <span class="c-impl">È lì che si lavora — è il territorio della crescita possibile.</span>
 
 **B. Prime ipotesi di obiettivi e strategie**
 
 L'équipe formula ipotesi preliminari da *negoziare* con tutte le persone coinvolte. Non decisioni finali — un punto di partenza.
 
-> Attenzione critica: non si arriva alla riunione con il progetto già fatto. Se lo fai, stai chiedendo alla persona di avallare qualcosa su cui non ha potuto incidere. Peggio ancora: una persona che ha imparato a non opporsi difficilmente riuscirà a dire no. Quindi coinvolgila fin dall'inizio.
+> <span class="c-warn">Attenzione critica: non si arriva alla riunione con il progetto già fatto. Se lo fai, stai chiedendo alla persona di avallare qualcosa su cui non ha potuto incidere. Peggio ancora: una persona che ha imparato a non opporsi difficilmente riuscirà a dire no. Quindi coinvolgila fin dall'inizio.</span>
 
 ---
 
@@ -163,13 +172,13 @@ La rete è ampia — la slide mostra uno schema con l'utente al centro:
 - Centro diurno (educatori, personale, utenti)
 - Tempo libero (amici, volontari, monitori sportivi)
 
-Non bisogna contattarli tutti indiscriminatamente — si individuano coloro che hanno una *reale influenza* sulle possibilità di cambiamento evolutivo.
+<span class="c-warn">Non bisogna contattarli tutti indiscriminatamente — si individuano coloro che hanno una *reale influenza* sulle possibilità di cambiamento evolutivo.</span>
 
-> Il prof porta un esempio: un volontario che porta l'utente alle partite di calcio racconta che lui vorrebbe imparare a prendere il bus da solo per arrivare al campo. Informazione preziosa, venuta da una persona "periferica". Non c'è nessuno troppo piccolo per avere qualcosa da dire.
+> <span class="c-es">Il prof porta un esempio: un volontario che porta l'utente alle partite di calcio racconta che lui vorrebbe imparare a prendere il bus da solo per arrivare al campo. Informazione preziosa, venuta da una persona "periferica". Non c'è nessuno troppo piccolo per avere qualcosa da dire.</span>
 
 **Processo di co-costruzione della partecipazione**
 
-L'operatore assume il ruolo di **facilitatore della comunicazione**: stimola il dialogo, raccoglie tutti i punti di vista, aiuta a esprimere il punto di vista *sulla situazione* (non sulle soluzioni).
+L'operatore assume il ruolo di <span class="c-def">**facilitatore della comunicazione**</span>: stimola il dialogo, raccoglie tutti i punti di vista, aiuta a esprimere il punto di vista *sulla situazione* (non sulle soluzioni).
 
 Tre ostacoli tipici e come affrontarli:
 
@@ -179,7 +188,7 @@ Tre ostacoli tipici e come affrontarli:
 | Resistenza ai punti di vista diversi | Spiegare che tutte le letture sono valide e necessarie per una visione complessa |
 | Tendenza a rifugiarsi nel fare (saltare alle soluzioni) | Non si parla di soluzioni finché non si ha una lettura condivisa |
 
-Dopo aver raccolto tutti i punti di vista, l'operatore **riformula una narrazione condivisa** — un quadro coerente che li integri tutti. Solo allora si possono discutere obiettivi, strategie e responsabilità.
+Dopo aver raccolto tutti i punti di vista, l'operatore <span class="c-tesi">**riformula una narrazione condivisa** — un quadro coerente che li integri tutti. Solo allora si possono discutere obiettivi, strategie e responsabilità.</span>
 
 ---
 
@@ -187,18 +196,18 @@ Dopo aver raccolto tutti i punti di vista, l'operatore **riformula una narrazion
 
 Gli obiettivi condivisi assolvono quattro funzioni:
 
-- **Orientativa**: delineano lo scopo dell'agire progettuale
-- **Comunicativa**: attivano scambi chiari e condivisi a tutti i livelli
-- **Decisionale**: ancorano le scelte a finalità discusse con tutti
-- **Valutativa**: forniscono indicatori per valutare i risultati
+- <span class="c-def">**Orientativa**</span>: delineano lo scopo dell'agire progettuale
+- <span class="c-def">**Comunicativa**</span>: attivano scambi chiari e condivisi a tutti i livelli
+- <span class="c-def">**Decisionale**</span>: ancorano le scelte a finalità discusse con tutti
+- <span class="c-def">**Valutativa**</span>: forniscono indicatori per valutare i risultati
 
 Si strutturano su due livelli:
 
 **Obiettivi generali** — declinano le macrofinalità del lavoro sociale sulla situazione specifica (autonomia, integrazione sociale, empowerment…). A medio-lungo termine. Formulati con verbi all'infinito, con soggetto il protagonista del progetto.
-*(Es: "Mario aumenterà la sua autonomia negli spostamenti sul territorio")*
+<span class="c-es">*(Es: "Mario aumenterà la sua autonomia negli spostamenti sul territorio")*</span>
 
 **Obiettivi specifici** — prestazioni semplici e osservabili, a breve-medio termine, che concorrono a raggiungere l'obiettivo generale. Rispettano la ZSP: realistici ma ambiziosi.
-*(Es: "Mario entro tre mesi saprà leggere gli orari del bus della tratta foyer-lavoro e riuscirà a prendere autonomamente il bus per arrivare al lavoro")*
+<span class="c-es">*(Es: "Mario entro tre mesi saprà leggere gli orari del bus della tratta foyer-lavoro e riuscirà a prendere autonomamente il bus per arrivare al lavoro")*</span>
 
 ### Obiettivi SMART
 
@@ -214,7 +223,7 @@ Si strutturano su due livelli:
 
 ## I livelli di partecipazione (O'Sullivan)
 
-**Terence O'Sullivan** definisce quattro modalità di partecipazione ai progetti:
+<span class="c-dato">**Terence O'Sullivan**</span> definisce quattro modalità di partecipazione ai progetti:
 
 | Livello | Nome | Descrizione |
 |---------|------|-------------|
@@ -223,7 +232,7 @@ Si strutturano su due livelli:
 | **C** | Being consulted | Le opinioni sono considerate, ma la decisione è dei professionisti |
 | **D** | Being told | Solo comunicazione unidirezionale — la persona è informata, non coinvolta |
 
-La progettazione dialogico-partecipata mira al livello **A** e si muove tra **A e B**. Il livello D non è coerente con i diritti delle persone né con le finalità dell'intervento socioeducativo — chi lo usa sistematicamente abbraccia, consapevolmente o no, una prospettiva **oppressiva/disabilitante** che genera percorsi istituzionalizzanti.
+<span class="c-tesi">La progettazione dialogico-partecipata mira al livello **A** e si muove tra **A e B**.</span> <span class="c-warn">Il livello D non è coerente con i diritti delle persone né con le finalità dell'intervento socioeducativo — chi lo usa sistematicamente abbraccia, consapevolmente o no, una prospettiva **oppressiva/disabilitante** che genera percorsi istituzionalizzanti.</span>
 
 ---
 

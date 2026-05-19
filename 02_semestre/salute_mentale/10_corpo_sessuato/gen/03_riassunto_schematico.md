@@ -1,56 +1,65 @@
 # Il Corpo Sessuato — Schema
 Salute Mentale · Sessione 10
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 ---
 
 ## Definizioni di sessualità
 
-- **OMS** → aspetto centrale dell'essere umano per tutto l'arco della vita
+- <span class="c-dato">**OMS**</span> → <span class="c-tesi">aspetto centrale dell'essere umano per tutto l'arco della vita</span>
   - Include: sesso, identità di genere, orientamento sessuale, erotismo, piacere, intimità, riproduzione
   - Influenzata da: fattori biologici, psicologici, sociali, culturali, giuridici, storici, religiosi
-- **Galimberti** → sessualità = sviluppo psicologico e relazionale
-  - Ha bisogno dell'altro per esprimersi compiutamente
+- <span class="c-dato">**Galimberti**</span> → sessualità = sviluppo psicologico e relazionale
+  - <span class="c-tesi">Ha bisogno dell'altro per esprimersi compiutamente</span>
   - Parte dalla relazione madre-bambino
   - Va oltre la riproduzione: simbolizzazione, sublimazione
 
 ---
 
-## Körper vs. Leib (Husserl)
+## Körper vs. Leib (<span class="c-dato">Husserl</span>)
 
-- **Körper** → corpo-oggetto, anatomico, privo di soggettività
-- **Leib** → corpo vissuto, relazionale, aperto al mondo
-- Nelle parafilie: il corpo altrui vissuto come **Körper**
+- <span class="c-def">**Körper**</span> → corpo-oggetto, anatomico, privo di soggettività
+- <span class="c-def">**Leib**</span> → corpo vissuto, relazionale, aperto al mondo
+- <span class="c-impl">Nelle parafilie: il corpo altrui vissuto come **Körper**</span>
 
 ---
 
-## Finalità della sessualità (Grazzottin)
+## Finalità della sessualità (<span class="c-dato">Grazzottin</span>)
 
 - **Amorosa** → sentimenti, intimità
 - **Ricreativa** → piacere, divertimento
 - **Procreativa** → desiderio di figlio
-- **Strumentale** → vantaggi personali/relazionali/oggettuali → disfunzionale se c'è danno
+- <span class="c-warn">**Strumentale** → vantaggi personali/relazionali/oggettuali → disfunzionale se c'è danno</span>
 
 ---
 
 ## Identità sessuale: 4 dimensioni
 
-- **Sesso biologico** → caratteristiche fisiche alla nascita (AFAB / AMAB / intersex ~1,7%)
-- **Identità di genere** → sensazione intima di sé (può essere fluida)
+- <span class="c-def">**Sesso biologico**</span> → caratteristiche fisiche alla nascita (AFAB / AMAB / intersex ~1,7%)
+- <span class="c-def">**Identità di genere**</span> → sensazione intima di sé (può essere fluida)
   - Cisgender → allineata con sesso biologico
   - Transgender → non allineata
   - Gender fluid → varia nel tempo
   - Agender → nessun genere
-- **Ruolo di genere** → aspettative sociali/culturali per uomini e donne
-- **Orientamento sessuale** → direzione dell'attrazione
+- <span class="c-def">**Ruolo di genere**</span> → aspettative sociali/culturali per uomini e donne
+- <span class="c-def">**Orientamento sessuale**</span> → direzione dell'attrazione
 - *(Espressione di genere → come ci si mostra al mondo)*
 
 ---
 
 ## Bisogno vs. desiderio
 
-- **Bisogno** → soddisfazione immediata, non differibile (neonato)
-- **Desiderio** → gratificazione differibile; passaggio evolutivo sano
-- Bisogno non superato → **compulsività** → passaggio all'atto senza mediazione → base delle parafilie
+- <span class="c-def">**Bisogno**</span> → soddisfazione immediata, non differibile (neonato)
+- <span class="c-def">**Desiderio**</span> → gratificazione differibile; passaggio evolutivo sano
+- <span class="c-warn">Bisogno non superato → **compulsività** → passaggio all'atto senza mediazione → base delle parafilie</span>
 
 ---
 
@@ -70,35 +79,35 @@ Salute Mentale · Sessione 10
 ## DSM-5-TR: 3 categorie disturbi sessuali
 
 1. **Disfunzioni sessuali** *(non trattate nel seminario)*
-2. **Disforia di genere**
-3. **Disturbi parafilici**
+2. <span class="c-def">**Disforia di genere**</span>
+3. <span class="c-def">**Disturbi parafilici**</span>
 
 ---
 
 ## Disforia di genere
 
 - **Vecchio termine:** Disturbo dell'identità di genere
-- **Nuovo termine:** Disforia di genere → focus sulla sofferenza, non sulla condizione
-- Transgender ≠ disforia di genere *(non tutti i trans soffrono)*
-- Diagnosi necessaria per: terapia ormonale, riattribuzione chirurgica
+- **Nuovo termine:** <span class="c-tesi">Disforia di genere → focus sulla sofferenza, non sulla condizione</span>
+- <span class="c-warn">Transgender ≠ disforia di genere *(non tutti i trans soffrono)*</span>
+- <span class="c-impl">Diagnosi necessaria per: terapia ormonale, riattribuzione chirurgica</span>
 
 **Criteri DSM-5-TR (adulti/adolescenti):**
-- **Criterio A** → incongruenza genere esperito/assegnato ≥ 6 mesi + almeno 2 su 6 criteri
-- **Criterio B** → sofferenza clinicamente significativa o compromissione funzionamento
-- Diagnosi = A **+** B
+- <span class="c-def">**Criterio A**</span> → incongruenza genere esperito/assegnato ≥ 6 mesi + almeno 2 su 6 criteri
+- <span class="c-def">**Criterio B**</span> → sofferenza clinicamente significativa o compromissione funzionamento
+- <span class="c-warn">Diagnosi = A **+** B</span>
 
-**Nei bambini:** 8 criteri, almeno 6 presenti + criterio B
+**Nei bambini:** <span class="c-warn">8 criteri, almeno 6 presenti + criterio B</span>
 
 ---
 
 ## Parafilia vs. Disturbo parafilico
 
-- **Parafilia** → interesse sessuale intenso/persistente verso qualcosa di non convenzionale
-- **Disturbo parafilico** → parafilia **+** (disagio personale **o** danno a sé/altri)
-- Parafilia = condizione necessaria **ma non sufficiente** per il disturbo
-- **Criterio A** → natura qualitativa della parafilia
-- **Criterio B** → conseguenze negative
-- Diagnosi = A **+** B
+- <span class="c-def">**Parafilia**</span> → interesse sessuale intenso/persistente verso qualcosa di non convenzionale
+- <span class="c-def">**Disturbo parafilico**</span> → parafilia **+** (disagio personale **o** danno a sé/altri)
+- <span class="c-tesi">Parafilia = condizione necessaria **ma non sufficiente** per il disturbo</span>
+- <span class="c-def">**Criterio A**</span> → natura qualitativa della parafilia
+- <span class="c-def">**Criterio B**</span> → conseguenze negative
+- <span class="c-warn">Diagnosi = A **+** B</span>
 
 ---
 
@@ -108,10 +117,10 @@ Salute Mentale · Sessione 10
 |---|---|
 | **Voyeuristico** | Osservare ignari durante nudità/attività sessuale; eccitazione dalla segretezza |
 | **Esibizionistico** | Mostrare genitali a estranei non consenzienti; eccitazione dalla sorpresa |
-| **Pedofilico** | Impulsi verso bambini prepuberi; progetto lucido (non compulsivo) |
+| **Pedofilico** | Impulsi verso bambini prepuberi; <span class="c-warn">progetto lucido (non compulsivo)</span> |
 | **Feticistico** | Eccitazione da oggetti inanimati o parti del corpo non genitali |
 | **Da travestitismo** | Eccitazione compulsiva dal travestirsi con abiti del sesso opposto |
-| **Da masochismo sessuale** | Eccitazione dall'essere umiliato/fatto soffrire; variante: **asfissiofilia** |
+| **Da masochismo sessuale** | Eccitazione dall'essere umiliato/fatto soffrire; variante: <span class="c-warn">**asfissiofilia**</span> |
 | **Da sadismo sessuale** | Eccitazione dall'infliggere sofferenza ad altri |
 | **Frotteuristico** | Eccitazione dal toccare/strusciare contro persone non consenzienti (luoghi affollati) |
 

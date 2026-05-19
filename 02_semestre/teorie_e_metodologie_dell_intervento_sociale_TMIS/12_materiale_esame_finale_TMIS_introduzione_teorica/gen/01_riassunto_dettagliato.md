@@ -1,6 +1,15 @@
 # Materiale Esame Finale TMIS — Introduzione Teorica
 TMIS · Lezione 12 · a.a. 2025/26
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 > Questo documento raccoglie **tutto il materiale teorico per l'esame** (lezioni 01–05). Non è organizzato per lezione, ma per macro-temi — esattamente come l'esame chiede di ragionare. Leggilo come una mappa: ogni sezione è un territorio che devi saper abitare, non solo citare.
 
 ---
@@ -23,37 +32,37 @@ L'esame è scritto, dura circa 2 ore e 15 minuti, con 6–7 domande aperte. Cose
 
 ### La modernità e la società liquida
 
-Tutto parte da una domanda semplice: **in che mondo lavoriamo?** La risposta di Zygmunt Bauman (1925–2017) è che viviamo nella **modernità liquida** — una società in cui nulla ha contorni fissi, le relazioni diventano precarie e l'incertezza è strutturale, non passeggera.
+Tutto parte da una domanda semplice: **in che mondo lavoriamo?** La risposta di <span class="c-dato">**Zygmunt Bauman** (1925–2017)</span> è che viviamo nella <span class="c-def">**modernità liquida**</span> — una società in cui nulla ha contorni fissi, le relazioni diventano precarie e l'incertezza è strutturale, non passeggera.
 
-Nella "fase solida" della modernità, il futuro era progettabile. Nella fase liquida, la preoccupazione principale è **non ipotecare il futuro**: non ci si vuole sentire ingabbiati. L'identità, il lavoro, le relazioni — tutto è diventato flessibile, rimodellabile, temporaneo.
+<span class="c-tesi">Nella "fase solida" della modernità, il futuro era progettabile. Nella fase liquida, la preoccupazione principale è **non ipotecare il futuro**: non ci si vuole sentire ingabbiati. L'identità, il lavoro, le relazioni — tutto è diventato flessibile, rimodellabile, temporaneo.</span>
 
-Come scrive Berman: *"essere moderni vuol dire trovarsi in un ambiente che ci promette avventura, potere, gioia, crescita... e che, al contempo, minaccia di distruggere tutto."*
+Come scrive <span class="c-dato">Berman</span>: *"essere moderni vuol dire trovarsi in un ambiente che ci promette avventura, potere, gioia, crescita... e che, al contempo, minaccia di distruggere tutto."*
 
-(Pensa all'albero in un terreno franoso: le radici continuano a cercare appoggio, ma il terreno si muove di continuo. L'educatore fa lo stesso.)
+<span class="c-es">(Pensa all'albero in un terreno franoso: le radici continuano a cercare appoggio, ma il terreno si muove di continuo. L'educatore fa lo stesso.)</span>
 
 ### Il lavoro sociale: la definizione IFSW (2014)
 
 > "Il social work è una professione basata sulla pratica e una disciplina accademica che promuove il cambiamento sociale e lo sviluppo, la coesione e l'emancipazione sociale, nonché la liberazione delle persone."
 
-I valori fondanti: **giustizia sociale, diritti umani, responsabilità collettiva, rispetto delle diversità**.
+I valori fondanti: <span class="c-def">**giustizia sociale, diritti umani, responsabilità collettiva, rispetto delle diversità**</span>.
 
 ### La dimensione politica del lavoro sociale
 
-Il lavoro sociale non è neutro. Come scrive Freire: *"Non esiste un'educazione neutra."* La promozione della **giustizia sociale** implica:
+<span class="c-tesi">Il lavoro sociale non è neutro.</span> Come scrive <span class="c-dato">Freire</span>: *"Non esiste un'educazione neutra."* La promozione della **giustizia sociale** implica:
 - Contrasto alla discriminazione e all'oppressione istituzionale
 - Rispetto e valorizzazione della diversità
 - Equo accesso alle risorse
 - Costruzione di reti di solidarietà
 
-La storia del servizio sociale ha caratteri di **ambiguità**: ci sono esempi di impegno anti-oppressivo (Jane Addams, Alice Salomon, Paolina Tarugi) ma anche esempi in cui gli operatori hanno inconsapevolmente riprodotto oppressione.
+La storia del servizio sociale ha caratteri di <span class="c-warn">**ambiguità**</span>: ci sono esempi di impegno anti-oppressivo (<span class="c-dato">Jane Addams, Alice Salomon, Paolina Tarugi</span>) ma anche esempi in cui gli operatori hanno inconsapevolmente riprodotto oppressione.
 
 ### La figura liquida dell'educatore (Tramma, 2018)
 
-Sergio Tramma descrive l'educatore professionale come una **figura liquida**: costitutivamente incerta, costantemente in via di definizione, restia a stabilizzarsi in un mansionario rigido. Questa non è una mancanza — è la sua forza paradossale.
+<span class="c-dato">**Sergio Tramma**</span> descrive l'educatore professionale come una <span class="c-def">**figura liquida**</span>: costitutivamente incerta, costantemente in via di definizione, restia a stabilizzarsi in un mansionario rigido. <span class="c-tesi">Questa non è una mancanza — è la sua forza paradossale.</span>
 
 > "Quella dell'educatore è una 'debolezza' strutturale ma essenziale e salutare, che rappresenta anche la sua (paradossale) intrinseca forza se intesa come una costante apertura di possibilità rispetto al proprio modo di essere e di operare."
 
-Dagli anni '60-'70 il campo d'azione si è enormemente espanso: dalla custodia in istituti chiusi, si è passati a interventi con minori, anziani, senza dimora, persone con disabilità, detenuti. L'incertezza non è un bug del sistema — è la caratteristica della professione in una società in costante trasformazione.
+<span class="c-impl">Dagli anni '60-'70 il campo d'azione si è enormemente espanso: dalla custodia in istituti chiusi, si è passati a interventi con minori, anziani, senza dimora, persone con disabilità, detenuti. L'incertezza non è un bug del sistema — è la caratteristica della professione in una società in costante trasformazione.</span>
 
 ---
 
@@ -61,27 +70,27 @@ Dagli anni '60-'70 il campo d'azione si è enormemente espanso: dalla custodia i
 
 ### Che cos'è l'oppressione? (Allegri e Sanfelici, 2023)
 
-**Oppressione**: azione di sopraffare, sottomettere, emarginare persone o gruppi. Può essere:
+<span class="c-def">**Oppressione**</span>: azione di sopraffare, sottomettere, emarginare persone o gruppi. Può essere:
 - **Esterna** (con possibile resistenza da parte degli oppressi)
-- **Interna** (quando il gruppo oppresso interiorizza la supremazia del sistema dominante — Freire, 1970)
+- **Interna** (quando il gruppo oppresso interiorizza la supremazia del sistema dominante — <span class="c-dato">Freire, 1970</span>)
 
-In sostanza: **esclusione forzata da opportunità, esperienze e risorse disponibili ai gruppi dominanti**.
+In sostanza: <span class="c-tesi">**esclusione forzata da opportunità, esperienze e risorse disponibili ai gruppi dominanti**</span>.
 
 ### La questione del potere
 
-Gli operatori sociali **detengono un potere enorme** connesso al loro ruolo professionale. Il lavoro oscilla continuamente tra la promozione dell'autodeterminazione e i vincoli sociali, istituzionali e professionali. La definizione delle persone attraverso etichette rigide contribuisce a co-costruire sistemi oppressivi.
+<span class="c-warn">Gli operatori sociali **detengono un potere enorme** connesso al loro ruolo professionale.</span> Il lavoro oscilla continuamente tra la promozione dell'autodeterminazione e i vincoli sociali, istituzionali e professionali. La definizione delle persone attraverso etichette rigide contribuisce a co-costruire sistemi oppressivi.
 
-Foucault ha evidenziato che il sapere professionale è una forma di esercizio del potere. Gli operatori rischiano di "diventare parte del problema" se non mantengono una coscienza critica.
+<span class="c-dato">Foucault</span> ha evidenziato che il sapere professionale è una forma di esercizio del potere. <span class="c-warn">Gli operatori rischiano di "diventare parte del problema" se non mantengono una coscienza critica.</span>
 
 ### La pratica anti-oppressiva
 
 La pratica anti-oppressiva invita a:
 1. Reagire alle forme di autoritarismo, paternalismo e discriminazione
-2. Analizzare i meccanismi a livello **micro, meso e macro** (ottica trifocale)
-3. Promuovere la **partecipazione autentica** delle persone nei processi decisionali
+2. <span class="c-def">Analizzare i meccanismi a livello **micro, meso e macro**</span> (ottica trifocale)
+3. <span class="c-tesi">Promuovere la **partecipazione autentica** delle persone nei processi decisionali</span>
 4. Promuovere la consapevolezza delle radici strutturali dei problemi sociali
 
-**Partecipazione sociale**: coinvolgimento attivo e responsabile degli attori sociali nelle scelte e nelle azioni per promuovere il benessere collettivo. Crea fiducia reciproca e condivisione di responsabilità.
+<span class="c-def">**Partecipazione sociale**</span>: coinvolgimento attivo e responsabile degli attori sociali nelle scelte e nelle azioni per promuovere il benessere collettivo. <span class="c-impl">Crea fiducia reciproca e condivisione di responsabilità.</span>
 
 ---
 
@@ -89,18 +98,18 @@ La pratica anti-oppressiva invita a:
 
 ### Il concetto di persona
 
-L'operatore sociale lavora con **persone nella loro globalità**: dimensione fisica, cognitiva, affettiva, relazionale, creativa e spirituale. La visione è contro il determinismo diagnostico.
+L'operatore sociale lavora con **persone nella loro globalità**: dimensione fisica, cognitiva, affettiva, relazionale, creativa e spirituale. <span class="c-tesi">La visione è contro il determinismo diagnostico.</span>
 
 Le persone sono:
 - Soggetti con diritti, potenzialità, bisogni, aspirazioni, risorse e limiti
-- **Co-costruttori del proprio destino**, protagonisti del cambiamento
+- <span class="c-def">**Co-costruttori del proprio destino**</span>, protagonisti del cambiamento
 - Inserite in sistemi complessi in continua trasformazione
 
-I sistemi complessi sono regolati da una **causalità circolare**: non è possibile risalire a una singola causa di un comportamento, né prevedere con certezza i comportamenti futuri.
+I sistemi complessi sono regolati da una <span class="c-def">**causalità circolare**</span>: non è possibile risalire a una singola causa di un comportamento, né prevedere con certezza i comportamenti futuri.
 
 ### Il modello bio-ecologico di Bronfenbrenner (1917–2015)
 
-Per comprendere lo sviluppo umano, bisogna considerare sia gli aspetti biologici sia **l'intero sistema ecologico** in cui la crescita si verifica. L'interconnessione tra persona e ambiente diventa il **processo determinante dello sviluppo**.
+Per comprendere lo sviluppo umano, bisogna considerare sia gli aspetti biologici sia **l'intero sistema ecologico** in cui la crescita si verifica. <span class="c-tesi">L'interconnessione tra persona e ambiente diventa il **processo determinante dello sviluppo**.</span>
 
 Principi fondamentali:
 1. L'individuo non è una tabula rasa: è un soggetto **attivo**
@@ -112,46 +121,46 @@ Principi fondamentali:
 
 | Sistema | Descrizione |
 |---------|-------------|
-| **Microsistema** | Ambiente primario con relazioni dirette (famiglia, scuola, gruppo di pari) |
-| **Mesosistema** | Relazioni tra i diversi microsistemi (es. rapporto famiglia-insegnanti) |
-| **Esosistema** | Ambienti non frequentati direttamente ma che influenzano (es. orario di lavoro del genitore) |
-| **Macrosistema** | Valori, leggi, culture e ideologie della società |
-| **Cronosistema** | Dimensione temporale: cambiamenti nel ciclo di vita, eventi storici |
+| <span class="c-def">**Microsistema**</span> | Ambiente primario con relazioni dirette (famiglia, scuola, gruppo di pari) |
+| <span class="c-def">**Mesosistema**</span> | Relazioni tra i diversi microsistemi (es. rapporto famiglia-insegnanti) |
+| <span class="c-def">**Esosistema**</span> | Ambienti non frequentati direttamente ma che influenzano (es. orario di lavoro del genitore) |
+| <span class="c-def">**Macrosistema**</span> | Valori, leggi, culture e ideologie della società |
+| <span class="c-def">**Cronosistema**</span> | Dimensione temporale: cambiamenti nel ciclo di vita, eventi storici |
 
 ### Identità e Sé (Mancini, 2010; Erikson, 1968)
 
-L'identità non è un dato fisso. Il **sentimento di identità** si esprime a tre livelli (Erikson):
+<span class="c-tesi">L'identità non è un dato fisso.</span> Il <span class="c-def">**sentimento di identità**</span> si esprime a tre livelli (<span class="c-dato">Erikson</span>):
 1. **Integrazione come persone**: sentirsi unici e coerenti nonostante la molteplicità di ruoli
 2. **Integrazione nel tempo**: sentire continuità tra passato e futuro
 3. **Integrazione nel contesto sociale**: sentire che gli altri riconoscono la propria identità
 
-Le quattro esperienze soggettive del Sé (Glodis e Blasi, 1993):
-- **Agency**: sentirsi capaci di incidere sulla realtà e costruire la propria identità
-- **Otherness**: sentirsi unici e distinguersi dagli altri
-- **Unity**: trovare continuità tra passato, presente e futuro
-- **Autoreflection**: capacità di distanza tra cognizioni e azioni
+Le quattro esperienze soggettive del Sé (<span class="c-dato">Glodis e Blasi, 1993</span>):
+- <span class="c-def">**Agency**</span>: sentirsi capaci di incidere sulla realtà e costruire la propria identità
+- <span class="c-def">**Otherness**</span>: sentirsi unici e distinguersi dagli altri
+- <span class="c-def">**Unity**</span>: trovare continuità tra passato, presente e futuro
+- <span class="c-def">**Autoreflection**</span>: capacità di distanza tra cognizioni e azioni
 
-Il **Sé dialogico**: il Sé è composto da posizionamenti dinamici che dialogano tra loro in modo polifonico (Bachtin). La natura narrativa e dialogica genera continuamente nuovi posizionamenti: è il meccanismo che fa sviluppare il Sé.
+Il <span class="c-def">**Sé dialogico**</span>: il Sé è composto da posizionamenti dinamici che dialogano tra loro in modo polifonico (<span class="c-dato">Bachtin</span>). <span class="c-impl">La natura narrativa e dialogica genera continuamente nuovi posizionamenti: è il meccanismo che fa sviluppare il Sé.</span>
 
 ### Vulnerabilità (Pedroni, 2020)
 
-Definire persone come "vulnerabili nella loro globalità" porta a una visione **deterministica e oppressiva** con risvolti stigmatizzanti. Tre critiche principali al concetto:
+<span class="c-warn">Definire persone come "vulnerabili nella loro globalità" porta a una visione **deterministica e oppressiva** con risvolti stigmatizzanti.</span> Tre critiche principali al concetto:
 1. È una nozione oppressiva e paternalistica
 2. Funziona come meccanismo di controllo sociale
 3. Può avere effetti stigmatizzanti ed escludenti
 
 La vulnerabilità va invece intesa come:
-- Una **caratteristica ontologica** degli esseri umani (fragilità condivisa)
+- Una <span class="c-def">**caratteristica ontologica**</span> degli esseri umani (fragilità condivisa)
 - Connessa a circostanze personali, economiche, sociali e culturali
-- Connessa all'empowerment e alla resilienza
+- <span class="c-impl">Connessa all'empowerment e alla resilienza</span>
 
-**Attenzione pratica**: usare "vulnerabile rispetto a..." non "vulnerabile tout court". Ascoltare la visione della persona sulla propria condizione.
+<span class="c-warn">**Attenzione pratica**: usare "vulnerabile rispetto a..." non "vulnerabile tout court". Ascoltare la visione della persona sulla propria condizione.</span>
 
 ### Disagio (Palmieri, 2012)
 
-Il **disagio** è una **situazione appresa**: si impara ad attribuire significato di disagio alle situazioni di disequilibrio attraverso le relazioni con la cultura di appartenenza e il contesto.
+Il <span class="c-def">**disagio**</span> è una <span class="c-tesi">**situazione appresa**</span>: si impara ad attribuire significato di disagio alle situazioni di disequilibrio attraverso le relazioni con la cultura di appartenenza e il contesto.
 
-Dal punto di vista pedagogico: il disagio **non è mai irreversibile**. Ogni passaggio evolutivo emancipativo è preceduto da un momento di crisi. Il disagio può essere una occasione di ricerca e di nuovi apprendimenti.
+<span class="c-impl">Dal punto di vista pedagogico: il disagio **non è mai irreversibile**. Ogni passaggio evolutivo emancipativo è preceduto da un momento di crisi. Il disagio può essere una occasione di ricerca e di nuovi apprendimenti.</span>
 
 ---
 
@@ -159,28 +168,28 @@ Dal punto di vista pedagogico: il disagio **non è mai irreversibile**. Ogni pas
 
 ### La piramide di Maslow
 
-Struttura **gerarchica** dei bisogni: fisiologici → sicurezza → appartenenza → stima → autorealizzazione (+ spiritualità). Ogni bisogno soddisfatto lascia spazio all'emergere di quello superiore. La struttura è soggetta a riorganizzazioni contestuali.
+Struttura **gerarchica** dei bisogni: fisiologici → sicurezza → appartenenza → stima → autorealizzazione (+ spiritualità). <span class="c-impl">Ogni bisogno soddisfatto lascia spazio all'emergere di quello superiore.</span> La struttura è soggetta a riorganizzazioni contestuali.
 
 ### Il modello multidimensionale dei bisogni (Paradiso, 2020)
 
-**Sistema dei bisogni evolutivi** (situazioni di equilibrio):
+<span class="c-def">**Sistema dei bisogni evolutivi**</span> (situazioni di equilibrio):
 - Bisogni primari, emotivi, sociali, culturali, realizzativi
 - La soddisfazione permette l'acquisizione di nuove competenze
 
-**Sistema dei bisogni complessi** (situazioni di crisi e post-traumatiche):
+<span class="c-def">**Sistema dei bisogni complessi**</span> (situazioni di crisi e post-traumatiche):
 - Bisogni di sopravvivenza, riparazione, riorganizzazione
 - La percezione dei bisogni è amplificata dall'incertezza
 
 ### L'approccio pedagogico al bisogno (Palmieri, 2011)
 
 Dal punto di vista pedagogico il bisogno è anche:
-- Una **condizione esistenziale** che attiva la motivazione all'empowerment
-- Non esistono bisogni fisiologici "in sé": ci sono **modalità di viverli**, influenzate da cultura e contesto
-- Il bisogno non è solo una mancanza: è anche una **occasione di crescita**
+- Una <span class="c-def">**condizione esistenziale**</span> che attiva la motivazione all'empowerment
+- <span class="c-warn">Non esistono bisogni fisiologici "in sé": ci sono **modalità di viverli**, influenzate da cultura e contesto</span>
+- <span class="c-tesi">Il bisogno non è solo una mancanza: è anche una **occasione di crescita**</span>
 
 ### Desiderare e aspirare
 
-L'operatore non è solo un risolutore di problemi/erogatore di prestazioni. Nello spazio della relazione, spostare il focus dai bisogni anche ai **desideri e aspirazioni** della persona cambia tutto. L'operatore è anche un **costruttore di storie e di speranza**.
+<span class="c-impl">L'operatore non è solo un risolutore di problemi/erogatore di prestazioni. Nello spazio della relazione, spostare il focus dai bisogni anche ai **desideri e aspirazioni** della persona cambia tutto. L'operatore è anche un **costruttore di storie e di speranza**.</span>
 
 ---
 
@@ -190,14 +199,14 @@ L'operatore non è solo un risolutore di problemi/erogatore di prestazioni. Nell
 
 1. Qualità di vita e salute
 2. Benessere psichico, fisico, sociale e spirituale
-3. **Empowerment**
+3. <span class="c-def">**Empowerment**</span>
 4. Autonomia, autodeterminazione, autoefficacia, autostima e creatività
 5. Integrazione, inclusione e partecipazione sociale
 6. Giustizia sociale, rispetto dell'ambiente e dei contesti di vita
 
 ### Qualità di vita (QdV) — modello Schalock e Verdugo
 
-**Definizione OMS (1995)**: percezione dell'individuo della propria posizione nella vita nel contesto dei sistemi culturali e dei valori in cui è inserito.
+<span class="c-def">**Definizione OMS (1995)**</span>: percezione dell'individuo della propria posizione nella vita nel contesto dei sistemi culturali e dei valori in cui è inserito.
 
 **Gli 8 domini della QdV:**
 
@@ -218,16 +227,16 @@ L'operatore non è solo un risolutore di problemi/erogatore di prestazioni. Nell
 
 ### Salute e malattia
 
-**OMS (1948)**: "uno stato di completo benessere fisico, sociale e mentale e non soltanto l'assenza di malattia."
+<span class="c-dato">**OMS (1948)**</span>: "uno stato di completo benessere fisico, sociale e mentale e non soltanto l'assenza di malattia."
 
-**Concetto triadico di Twaddle:**
-- **Disease**: malattia fisica dal punto di vista medico
-- **Illness**: percezione soggettiva del malessere (influenzata dal background culturale)
-- **Sickness**: modo in cui il contesto sociale interpreta la malattia
+**Concetto triadico di <span class="c-dato">Twaddle</span>:**
+- <span class="c-def">**Disease**</span>: malattia fisica dal punto di vista medico
+- <span class="c-def">**Illness**</span>: percezione soggettiva del malessere (influenzata dal background culturale)
+- <span class="c-def">**Sickness**</span>: modo in cui il contesto sociale interpreta la malattia
 
 ### Modello PERMA di Seligman — il flourishing
 
-**Flourishing** = funzionamento ottimale: stare bene e funzionare efficacemente.
+<span class="c-def">**Flourishing**</span> = funzionamento ottimale: stare bene e funzionare efficacemente.
 
 | Lettera | Elemento | Descrizione |
 |---------|----------|-------------|
@@ -239,60 +248,58 @@ L'operatore non è solo un risolutore di problemi/erogatore di prestazioni. Nell
 
 ### Empowerment (OMS + Folgheraiter, 2004)
 
-**Definizione OMS**: processo sociale, culturale, psicologico o politico attraverso cui individui e gruppi esprimono bisogni, individuano strategie e intraprendono azioni per soddisfarli.
+<span class="c-def">**Definizione OMS**</span>: processo sociale, culturale, psicologico o politico attraverso cui individui e gruppi esprimono bisogni, individuano strategie e intraprendono azioni per soddisfarli.
 
 **Due livelli:**
-- **Empowerment individuale**: prendere decisioni e controllare la propria vita
-- **Empowerment di comunità**: agire collettivamente per influenzare i determinanti di salute
+- <span class="c-def">**Empowerment individuale**</span>: prendere decisioni e controllare la propria vita
+- <span class="c-def">**Empowerment di comunità**</span>: agire collettivamente per influenzare i determinanti di salute
 
-**Empowerment relazionale** (approccio post-moderno): processo collaborativo di apprendimento reciproco. Gli esperti "cedono" parte del potere di trovare soluzioni, restituendo dignità e assumendo un ruolo di orientamento e accompagnamento piuttosto che di sostituzione direttiva.
+<span class="c-def">**Empowerment relazionale**</span> (approccio post-moderno): <span class="c-tesi">processo collaborativo di apprendimento reciproco. Gli esperti "cedono" parte del potere di trovare soluzioni, restituendo dignità e assumendo un ruolo di orientamento e accompagnamento piuttosto che di sostituzione direttiva.</span>
 
 ### Autonomia (Tramma, 2018)
 
-Capacità di organizzare le proprie azioni tenendo conto di sé e degli altri nella rete di dipendenze funzionali.
+<span class="c-def">**Autonomia**</span>: capacità di organizzare le proprie azioni tenendo conto di sé e degli altri nella rete di dipendenze funzionali.
 
-**Non si può considerare un soggetto completamente autonomo in senso astratto.** L'autonomia si riporta sempre alle specificità del contesto. Meirieu propone il **processo di autonomizzazione**: organizzare aiuti che permettano di raggiungere obiettivi, poi portare gradualmente la persona a fare a meno di questi aiuti.
-
-L'operatore deve "sforzarsi di rendere il soggetto autonomo" — non supporlo già autonomo.
+<span class="c-warn">**Non si può considerare un soggetto completamente autonomo in senso astratto.** L'autonomia si riporta sempre alle specificità del contesto.</span> <span class="c-dato">Meirieu</span> propone il <span class="c-def">**processo di autonomizzazione**</span>: organizzare aiuti che permettano di raggiungere obiettivi, poi portare gradualmente la persona a fare a meno di questi aiuti.
 
 ### Autostima e Autoefficacia (Bandura, 2012)
 
-**Autostima**: valutazione di **valore personale**. Come mi piaccio e mi valuto.
+<span class="c-def">**Autostima**</span>: valutazione di **valore personale**. Come mi piaccio e mi valuto.
 
-**Autoefficacia**: convinzione circa le proprie **capacità di produrre risultati**. Non è la misura delle competenze possedute, ma la credenza in ciò che si è in grado di fare.
+<span class="c-def">**Autoefficacia**</span>: convinzione circa le proprie **capacità di produrre risultati**. Non è la misura delle competenze possedute, ma la credenza in ciò che si è in grado di fare.
 
-**Differenza cruciale** (da sapere per l'esame):
+<span class="c-warn">**Differenza cruciale** (da sapere per l'esame):</span>
 - Una persona può giudicarsi inefficace in un'attività senza perdere autostima (se quella attività non è investita del proprio valore personale)
 - Una persona può sentirsi molto efficace in un'attività senza gloriarsi delle prestazioni
 
-Le convinzioni di autoefficacia sono il **motore motivazionale dell'agentività umana**: se penso di non essere capace, non investo energie nell'azione.
+<span class="c-impl">Le convinzioni di autoefficacia sono il **motore motivazionale dell'agentività umana**: se penso di non essere capace, non investo energie nell'azione.</span>
 
 ### Autodeterminazione (Wehmeyer)
 
-Possibilità di fare scelte e prendere decisioni in accordo con i propri valori e obiettivi, **senza interferenze esterne non giustificate**, per determinare il grado di controllo che si desidera avere sulla propria vita.
+<span class="c-def">**Autodeterminazione**</span>: possibilità di fare scelte e prendere decisioni in accordo con i propri valori e obiettivi, **senza interferenze esterne non giustificate**, per determinare il grado di controllo che si desidera avere sulla propria vita.
 
 Caratteristiche:
 - Si impara, si allena, passa anche attraverso gli errori
 - Implica assunzione di rischi positivi (misurati)
 - Richiede collaborazione di tutti i partner educativi
-- Non c'è una ricetta: ci sono tensioni etiche da negoziare
+- <span class="c-warn">Non c'è una ricetta: ci sono tensioni etiche da negoziare</span>
 
 ### Integrazione vs Inclusione sociale
 
-**Integrazione** (Brandani e Tramma, 2014): tre significati:
+<span class="c-def">**Integrazione**</span> (<span class="c-dato">Brandani e Tramma, 2014</span>): tre significati:
 1. Rendere intero ciò che è incompleto (sottolinea il deficit)
 2. Includere senza isolare (vs segregazione)
 3. Equilibrio dinamico nello scambio reciproco
 
 Il punto di partenza rimane l'individuo e le sue condizioni.
 
-**Inclusione sociale** (Strategia di Lisbona, UNDESA, 2009):
+<span class="c-def">**Inclusione sociale**</span> (Strategia di Lisbona, UNDESA, 2009):
 - Si riferisce a **tutte le persone** (non a gruppi specifici come l'integrazione)
 - Richiede un cambiamento del sistema culturale e sociale
 - Costruisce contesti che rispondono alle differenze di tutti
 - La partecipazione attiva è elemento chiave
 
-**Differenza sostanziale**: l'integrazione adatta la persona al contesto; l'inclusione adatta il contesto alla persona.
+<span class="c-tesi">**Differenza sostanziale**: l'integrazione adatta la persona al contesto; l'inclusione adatta il contesto alla persona.</span>
 
 ---
 
@@ -300,21 +307,21 @@ Il punto di partenza rimane l'individuo e le sue condizioni.
 
 ### Che cos'è la resilienza (Malaguti, 2005)
 
-La resilienza è la capacità o il processo di **far fronte, resistere, integrare, costruire e riuscire a riorganizzare positivamente la propria vita** nonostante situazioni difficili.
+La <span class="c-def">**resilienza**</span> è la capacità o il processo di **far fronte, resistere, integrare, costruire e riuscire a riorganizzare positivamente la propria vita** nonostante situazioni difficili.
 
-Non solo resistenza: anche **processo di superamento**. Il costrutto implica un cambio di prospettiva:
+<span class="c-tesi">Non solo resistenza: anche **processo di superamento**.</span> Il costrutto implica un cambio di prospettiva:
 - Positivizzare lo sguardo sugli altri
 - Riconoscere le criticità ma non ridurre la persona al problema
 - Valorizzare le potenzialità della situazione
 - Trasformare un'esperienza dolorosa in apprendimento
 
-Gli studi sulla resilienza aprono alla speranza: il destino dell'uomo non è predefinito, le persone possono co-costruire il proprio presente e futuro.
+<span class="c-impl">Gli studi sulla resilienza aprono alla speranza: il destino dell'uomo non è predefinito, le persone possono co-costruire il proprio presente e futuro.</span>
 
 ### I tutori di resilienza (Cyrulnik)
 
-Boris Cyrulnik (1937 – sopravvissuto ai campi di concentramento) definisce **tutori di resilienza** quelle figure significative che nell'interazione permettono alla persona di "rimbalzare" e riattivare processi vitali che sembravano compromessi. Possono essere genitori, educatori, insegnanti, amici, un gruppo.
+<span class="c-dato">**Boris Cyrulnik**</span> (1937 – sopravvissuto ai campi di concentramento) definisce <span class="c-def">**tutori di resilienza**</span> quelle figure significative che nell'interazione permettono alla persona di "rimbalzare" e riattivare processi vitali che sembravano compromessi. Possono essere genitori, educatori, insegnanti, amici, un gruppo.
 
-La resilienza non si acquisisce una volta per tutte: è un **cammino da percorrere**.
+<span class="c-warn">La resilienza non si acquisisce una volta per tutte: è un **cammino da percorrere**.</span>
 
 ### Gli elementi che si sviluppano in situazioni di resilienza (Malaguti)
 
@@ -335,63 +342,63 @@ La resilienza non si acquisisce una volta per tutte: è un **cammino da percorre
 ### Peculiarità della relazione professionale (Maida et al., 2012)
 
 La relazione di aiuto è connotata da:
-- **Intenzionalità vs spontaneità**: interventi consapevolmente orientati verso finalità professionali
-- **Progettualità vs interventismo**: prefigurare e contemplare le fasi per attivare processi trasformativi
-- Lavorare **"con"** le persone vs lavorare "per" gli altri
+- <span class="c-def">**Intenzionalità vs spontaneità**</span>: interventi consapevolmente orientati verso finalità professionali
+- <span class="c-def">**Progettualità vs interventismo**</span>: prefigurare e contemplare le fasi per attivare processi trasformativi
+- <span class="c-tesi">Lavorare **"con"** le persone vs lavorare "per" gli altri</span>
 
 ### Le meta-competenze dell'operatore
 
-La meta-competenza si costruisce attraverso la **pratica riflessiva** = processo circolare di azione nella pratica e riflessione sulle connessioni con il contesto e le teorie.
+La meta-competenza si costruisce attraverso la <span class="c-def">**pratica riflessiva**</span> = processo circolare di azione nella pratica e riflessione sulle connessioni con il contesto e le teorie.
 
-**Riflessività** (Dewey): attitudine a mettere in discussione i modelli di lavoro acquisiti. Elementi:
+<span class="c-def">**Riflessività**</span> (<span class="c-dato">Dewey</span>): attitudine a mettere in discussione i modelli di lavoro acquisiti. Elementi:
 - Gli incidenti critici innestano il pensiero riflessivo
 - Arte di fare domande (pensiero interrogante)
 - Decostruire le categorie rigide del welfare
 - Confrontarsi con altri
 - Disporre di strumenti metodologici
 
-**Capacità critica**: leggere la realtà rilevandone limiti e risorse, con l'assunto che non esiste una verità assoluta.
+<span class="c-def">**Capacità critica**</span>: leggere la realtà rilevandone limiti e risorse, con l'assunto che non esiste una verità assoluta.
 
-**Pensiero complesso** (Morin, 1993): consapevole dell'impossibilità della conoscenza completa. Tensione permanente tra aspirazione a un sapere non parcellizzato e riconoscimento dell'incompletezza di ogni conoscenza.
+<span class="c-def">**Pensiero complesso**</span> (<span class="c-dato">Morin, 1993</span>): consapevole dell'impossibilità della conoscenza completa. <span class="c-tesi">Tensione permanente tra aspirazione a un sapere non parcellizzato e riconoscimento dell'incompletezza di ogni conoscenza.</span>
 
-**Creatività**: capacità di sviluppare idee e alternative in modo originale. È un'abilità che si può allenare.
+<span class="c-def">**Creatività**</span>: capacità di sviluppare idee e alternative in modo originale. <span class="c-impl">È un'abilità che si può allenare.</span>
 
 ### Atteggiamenti di fondo dell'operatore
 
-- **Disponibilità all'autocritica e al cambiamento**: mettere in discussione le proprie premesse
-- **Visione ottimistica ed equilibrata**: cercare le potenzialità senza intrappolarsi in letture deterministiche
-- **Modestia conoscitiva**: non ritenere di avere già capito tutto
-- **Speranza**: credere che si possa trovare una via per realizzare i propri obiettivi. Non è ingenuità — è un processo cognitivo. Come dice Freire: *"Senza un minimo di speranza non possiamo nemmeno incominciare la lotta."*
-- **Empatia** (Palmieri): non "mettersi nei panni dell'altro" (impossibile), ma **avvicinarsi al suo mondo di significati** mantenendo la consapevolezza della non sovrapponibilità delle nostre esistenze. È un andar-e-tornare continuo.
-- **Coinvolgimento emotivo**: la "giusta vicinanza". L'operatore deve lavorare sulla propria auto-osservazione per mantenere quella distanza che consente atteggiamenti professionali efficaci.
+- <span class="c-def">**Disponibilità all'autocritica e al cambiamento**</span>: mettere in discussione le proprie premesse
+- <span class="c-def">**Visione ottimistica ed equilibrata**</span>: cercare le potenzialità senza intrappolarsi in letture deterministiche
+- <span class="c-def">**Modestia conoscitiva**</span>: non ritenere di avere già capito tutto
+- <span class="c-def">**Speranza**</span>: credere che si possa trovare una via per realizzare i propri obiettivi. <span class="c-tesi">Non è ingenuità — è un processo cognitivo.</span> Come dice <span class="c-dato">Freire</span>: *"Senza un minimo di speranza non possiamo nemmeno incominciare la lotta."*
+- <span class="c-def">**Empatia**</span> (<span class="c-dato">Palmieri</span>): non "mettersi nei panni dell'altro" (impossibile), ma <span class="c-tesi">**avvicinarsi al suo mondo di significati** mantenendo la consapevolezza della non sovrapponibilità delle nostre esistenze. È un andar-e-tornare continuo.</span>
+- <span class="c-def">**Coinvolgimento emotivo**</span>: la "giusta vicinanza". L'operatore deve lavorare sulla propria auto-osservazione per mantenere quella distanza che consente atteggiamenti professionali efficaci.
 - **Pensiero divergente**: integrazione del pensiero creativo con quello razionale.
 
 ### Ascolto e mediazione educativa (Palmieri, 2011)
 
-**Ascolto**: ricevere, accogliere, organizzare informazioni con tutti i sensi.
-**Ascolto attivo**: con atteggiamento partecipe, flessibile e auto-osservativo.
+<span class="c-def">**Ascolto**</span>: ricevere, accogliere, organizzare informazioni con tutti i sensi.
+<span class="c-def">**Ascolto attivo**</span>: con atteggiamento partecipe, flessibile e auto-osservativo.
 
-**Mediazione educativa**: accompagnare le persone ad attribuire un **senso** a ciò che accade, andando oltre la sensazione e la reattività. Distinzione fondamentale:
-- **Vissuto**: percezione diretta, intuitiva delle emozioni
-- **Esperienza**: rielaborazione riflessiva del vissuto (dare senso)
+<span class="c-def">**Mediazione educativa**</span>: accompagnare le persone ad attribuire un **senso** a ciò che accade, andando oltre la sensazione e la reattività. Distinzione fondamentale:
+- <span class="c-def">**Vissuto**</span>: percezione diretta, intuitiva delle emozioni
+- <span class="c-def">**Esperienza**</span>: rielaborazione riflessiva del vissuto (dare senso)
 
-La mediazione promuove il "fare esperienza del proprio vissuto" e forma l'autoconsapevolezza del proprio modo di apprendere.
+<span class="c-impl">La mediazione promuove il "fare esperienza del proprio vissuto" e forma l'autoconsapevolezza del proprio modo di apprendere.</span>
 
 ### Fiducia e tolleranza (Ripamonti, 2018)
 
-**Fiducia**: fenomeno che si genera quando sono presenti aspettative di reciprocità di lungo periodo. Ogni persona che si fida fa una scommessa sul futuro. Può maturare anche in frangenti difficili se accompagnata da coinvolgimento intenso.
+<span class="c-def">**Fiducia**</span>: fenomeno che si genera quando sono presenti aspettative di reciprocità di lungo periodo. Ogni persona che si fida fa una scommessa sul futuro. <span class="c-impl">Può maturare anche in frangenti difficili se accompagnata da coinvolgimento intenso.</span>
 
-**Tolleranza**: disponibilità ad ammettere l'esistenza di idee e comportamenti diversi. Non significa condividerli, ma **attribuire legittimità all'esistenza dell'altro** anche a fronte di radicale dissenso. Predispone alla gentilezza.
+<span class="c-def">**Tolleranza**</span>: disponibilità ad ammettere l'esistenza di idee e comportamenti diversi. <span class="c-tesi">Non significa condividerli, ma **attribuire legittimità all'esistenza dell'altro** anche a fronte di radicale dissenso.</span> Predispone alla gentilezza.
 
 ### Asimmetria relazionale (Tramma, 2018)
 
-L'asimmetria della relazione educativa NON è una differenza di valore umano. È un maggior grado di **responsabilità richiesto all'operatore**, con considerazione di un **pari livello di valore umano**.
+<span class="c-warn">L'asimmetria della relazione educativa NON è una differenza di valore umano.</span> È un maggior grado di <span class="c-def">**responsabilità richiesto all'operatore**</span>, con considerazione di un **pari livello di valore umano**.
 
 L'asimmetria riguarda:
 - **Consapevolezza**: del carattere educativo della relazione, della molteplicità di variabili, dell'incertezza degli esiti
 - **Responsabilità**: verso il futuro del soggetto, verso gli altri attori presenti, verso il mandato ricevuto, verso la riduzione dell'asimmetria stessa
 
-Importante: uno specifico contenuto relazionale asimmetrico **non comporta automaticamente l'asimmetria degli altri possibili contenuti**.
+<span class="c-impl">Importante: uno specifico contenuto relazionale asimmetrico **non comporta automaticamente l'asimmetria degli altri possibili contenuti**.</span>
 
 ---
 
@@ -426,29 +433,29 @@ Importante: uno specifico contenuto relazionale asimmetrico **non comporta autom
 
 | Autore/i | Anno | Opera/Concetto |
 |----------|------|----------------|
-| Bauman, Z. | 2011 | Modernità liquida |
-| Tramma, S. | 2018 | L'educatore imperfetto: figura liquida, autonomia, asimmetria |
-| IFSW | 2014 | Definizione globale del lavoro sociale |
-| Freire, P. | 2017 | Pedagogia degli oppressi; educazione non neutra |
-| Allegri, E. e Sanfelici, M. | 2023 | Approccio anti-oppressivo nel servizio sociale |
-| Bronfenbrenner, U. | 2002 | Ecologia dello sviluppo umano (5 sistemi) |
-| Mancini, T. | 2010 | Psicologia dell'identità: sentimento di identità, Sé dialogico |
-| Pedroni, M.C. | 2020 | Vulnerabilità: un concetto da maneggiare con cura |
-| Palmieri, C. | 2011/2012 | Bisogno, disagio, mediazione educativa, empatia |
-| Paradiso, L. | 2020 | La progettazione educativa: bisogni, Bronfenbrenner |
-| Bandura, A. | 2012 | Autoefficacia: teorie e applicazioni |
-| Malaguti, E. | 2005 | Educarsi alla resilienza |
-| Cyrulnik, B. | — | Tutori di resilienza |
-| Seligman, M.E.P. | — | Modello PERMA, flourishing |
-| Folgheraiter, F. | 2004 | Il servizio sociale postmoderno: empowerment relazionale |
-| Maida, S. et al. | 2012 | Educazione e osservazione: meta-competenze, pratica riflessiva |
-| Ripamonti, E. | 2018 | Collaborare: fiducia, tolleranza |
-| Wehmeyer, M.L. | 1992/2005 | Autodeterminazione |
-| Morin, E. | 1993 | Introduzione al pensiero complesso |
-| OMS/WHO | 1948/1986 | Salute, Ottawa Charter for Health Promotion |
-| Schalock, R. e Verdugo, A.M. | 2006 | Manuale della qualità di vita |
-| Dal Pra Ponticelli, M. | 2007 | Dizionario di servizio sociale: benessere collettivo |
-| Brandani, W. e Tramma, S. | 2014 | Dizionario del lavoro educativo: integrazione/inclusione |
+| <span class="c-dato">Bauman, Z.</span> | 2011 | Modernità liquida |
+| <span class="c-dato">Tramma, S.</span> | 2018 | L'educatore imperfetto: figura liquida, autonomia, asimmetria |
+| <span class="c-dato">IFSW</span> | 2014 | Definizione globale del lavoro sociale |
+| <span class="c-dato">Freire, P.</span> | 2017 | Pedagogia degli oppressi; educazione non neutra |
+| <span class="c-dato">Allegri, E. e Sanfelici, M.</span> | 2023 | Approccio anti-oppressivo nel servizio sociale |
+| <span class="c-dato">Bronfenbrenner, U.</span> | 2002 | Ecologia dello sviluppo umano (5 sistemi) |
+| <span class="c-dato">Mancini, T.</span> | 2010 | Psicologia dell'identità: sentimento di identità, Sé dialogico |
+| <span class="c-dato">Pedroni, M.C.</span> | 2020 | Vulnerabilità: un concetto da maneggiare con cura |
+| <span class="c-dato">Palmieri, C.</span> | 2011/2012 | Bisogno, disagio, mediazione educativa, empatia |
+| <span class="c-dato">Paradiso, L.</span> | 2020 | La progettazione educativa: bisogni, Bronfenbrenner |
+| <span class="c-dato">Bandura, A.</span> | 2012 | Autoefficacia: teorie e applicazioni |
+| <span class="c-dato">Malaguti, E.</span> | 2005 | Educarsi alla resilienza |
+| <span class="c-dato">Cyrulnik, B.</span> | — | Tutori di resilienza |
+| <span class="c-dato">Seligman, M.E.P.</span> | — | Modello PERMA, flourishing |
+| <span class="c-dato">Folgheraiter, F.</span> | 2004 | Il servizio sociale postmoderno: empowerment relazionale |
+| <span class="c-dato">Maida, S. et al.</span> | 2012 | Educazione e osservazione: meta-competenze, pratica riflessiva |
+| <span class="c-dato">Ripamonti, E.</span> | 2018 | Collaborare: fiducia, tolleranza |
+| <span class="c-dato">Wehmeyer, M.L.</span> | 1992/2005 | Autodeterminazione |
+| <span class="c-dato">Morin, E.</span> | 1993 | Introduzione al pensiero complesso |
+| <span class="c-dato">OMS/WHO</span> | 1948/1986 | Salute, Ottawa Charter for Health Promotion |
+| <span class="c-dato">Schalock, R. e Verdugo, A.M.</span> | 2006 | Manuale della qualità di vita |
+| <span class="c-dato">Dal Pra Ponticelli, M.</span> | 2007 | Dizionario di servizio sociale: benessere collettivo |
+| <span class="c-dato">Brandani, W. e Tramma, S.</span> | 2014 | Dizionario del lavoro educativo: integrazione/inclusione |
 
 ---
 
@@ -473,10 +480,10 @@ L'integrazione agisce sull'individuo per adattarlo al contesto, mantenendo il fo
 L'empowerment relazionale (Folgheraiter, 2004) è l'approccio postmoderno al lavoro di rete: gli esperti cedono parte del loro potere di trovare soluzioni agli utenti, che diventano partner attivi nel processo. Il ruolo dell'operatore diventa di orientamento, accompagnamento e sostegno — non di sostituzione direttiva. Il potere ceduto non si perde: quando viene condiviso e intrecciato, si ri-genera e si moltiplica. È fondato su un processo collaborativo dove utenti, carer e operatori sono partner, e le competenze si acquisiscono attraverso l'esperienza, non attraverso delega.
 
 **Qual è la differenza tra autostima e autoefficacia? (con esempio pratico)**
-L'autostima è il giudizio globale di valore personale ("quanto valgo come persona?"), determinato da aspettative, modelli di riferimento e feedback ricevuti. L'autoefficacia (Bandura, 2012) è il giudizio di capacità specifica in un determinato contesto ("sono capace di fare questa cosa?") — il motore motivazionale che determina se la persona investe energie nell'azione. Non sono correlate direttamente: si può avere alta autoefficacia in un'attività (sono bravissimo con Excel) senza che questo generi autostima — se quella competenza non ha valore per me. Viceversa, posso non saper disegnare senza che questo intacchi il mio valore di persona.
+L'autostima è il giudizio globale di valore personale ("quanto valgo come persona?"), determinato da aspettative, modelli di riferimento e feedback ricevuti. L'autoefficacia (Bandura, 2012) è il giudizio di capacità specifica in un determinato contesto ("sono capace di fare questa cosa?") — il motore motivazionale che determina se la persona investe energie nell'azione. Non sono correlate direttamente: <span class="c-es">si può avere alta autoefficacia in un'attività (sono bravissimo con Excel) senza che questo generi autostima — se quella competenza non ha valore per me. Viceversa, posso non saper disegnare senza che questo intacchi il mio valore di persona.</span>
 
 **Cos'è l'autodeterminazione? Come si allena?**
-L'autodeterminazione (Wehmeyer, 1992, 2005) è la possibilità di fare scelte e prendere decisioni in accordo con le proprie preferenze, valori e obiettivi, per controllare e migliorare la propria vita. Implica agire come agente causale — chi guida le proprie scelte, non chi le subisce. Non significa "decido sempre da solo": si sviluppa nella rete di relazioni e richiede assunzione di rischi misurati. Si allena attraverso esperienze, successi ed errori — è un muscolo: se non lo si usa, non si sviluppa. L'operatore crea le condizioni per allenarlo, distinguendo tra vera autodeterminazione e passività mascherata da scelta.
+L'autodeterminazione (Wehmeyer, 1992, 2005) è la possibilità di fare scelte e prendere decisioni in accordo con le proprie preferenze, valori e obiettivi, per controllare e migliorare la propria vita. Implica agire come agente causale — chi guida le proprie scelte, non chi le subisce. Non significa "decido sempre da solo": si sviluppa nella rete di relazioni e richiede assunzione di rischi misurati. <span class="c-impl">Si allena attraverso esperienze, successi ed errori — è un muscolo: se non lo si usa, non si sviluppa.</span> L'operatore crea le condizioni per allenarlo, distinguendo tra vera autodeterminazione e passività mascherata da scelta.
 
 **Cos'è la resilienza? Descrivi gli elementi che si sviluppano in situazioni di resilienza.**
 La resilienza (Cyrulnik; Malaguti, 2005) è un processo biologico, psicoaffettivo, sociale, culturale ed educativo che permette la ripresa di un nuovo sviluppo dopo un evento traumatico. Non è solo resistenza, ma superamento e trasformazione dell'esperienza dolorosa. I 7 elementi (Wolin & Wolin, 1993): assunzione di consapevolezza (identificare problemi e risorse), indipendenza (stabilire confini), relazioni (scegliere interlocutori positivi), iniziativa (dominare l'ambiente), creatività (amplificare lo sguardo), humor (scoprire la dimensione comica della tragedia), etica (guidare l'azione e favorire la compassione). I tutori di resilienza (Cyrulnik) sono le figure significative che permettono alla persona di "rimbalzare" e riattivare processi vitali compromessi.

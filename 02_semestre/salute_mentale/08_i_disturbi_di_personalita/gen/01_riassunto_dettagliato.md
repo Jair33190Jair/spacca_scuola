@@ -1,6 +1,15 @@
 # I Disturbi di Personalità
 Salute Mentale · Sessione 08 · 15.04.2026
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 > Questa lezione è una delle più dense del modulo — e anche una delle più utili per il lavoro
 > sul campo. Si parla di come siamo fatti dentro, di dove finisce la "normalità" e dove inizia
 > il "disturbo", e di quali categorie esistono per orientarsi. Resta fino alla fine: il
@@ -12,18 +21,18 @@ Salute Mentale · Sessione 08 · 15.04.2026
 
 ### Temperamento
 
-Il **temperamento** è la base biologica della nostra personalità. Il termine viene dai grandi
-medici greci Ippocrate e Galeno, che descrivevano quattro tipi: sanguigno, melanconico,
+Il <span class="c-def">**temperamento**</span> è la base biologica della nostra personalità. Il termine viene dai grandi
+medici greci <span class="c-dato">Ippocrate e Galeno</span>, che descrivevano quattro tipi: sanguigno, melanconico,
 collerico e flemmatico. In termini moderni, è l'insieme dei tratti **congeniti**
 (biologicamente determinati e presenti dalla nascita) che stabiliscono il *modo emotivo*
-con cui una persona risponde al mondo esterno (Paris, 1997).
+con cui una persona risponde al mondo esterno (<span class="c-dato">Paris, 1997</span>).
 
-Il temperamento è relativamente stabile, ma non del tutto immutabile. È influenzato anche da
+Il temperamento è relativamente stabile, ma non del tutto immutabile. <span class="c-impl">È influenzato anche da
 fattori prenatali e perinatali: l'esposizione prenatale a ormoni dello stress materni, per
 esempio, può alterare la programmazione della risposta allo stress del bambino per tutta la
-vita (Sandman et al., 2011; Nazzari et al., 2019).
+vita</span> (<span class="c-dato">Sandman et al., 2011; Nazzari et al., 2019</span>).
 
-Thomas, Chess & Birch (1968) hanno individuato **nove variabili temperamentali** osservabili
+<span class="c-dato">Thomas, Chess & Birch (1968)</span> hanno individuato **nove variabili temperamentali** osservabili
 fin dalla nascita:
 
 | Variabile | Cosa descrive |
@@ -43,42 +52,42 @@ Dalla combinazione di queste variabili emergono tre grandi tipologie di bambini:
 - **Bambini "difficili"** (~10% del campione): caratteristiche opposte, più complicati
 - **Bambini a "lenta attivazione"**: risposte meno intense alle novità, adattamento lento
 
-> Un bambino più irritabile suscita nell'ambiente risposte meno positive. Come sottolinea
+> <span class="c-es">Un bambino più irritabile suscita nell'ambiente risposte meno positive. Come sottolinea
 > la lezione, è più complicato essere "madri sufficientemente buone" (Winnicott) con un
 > figlio dalla dotazione temperamentale difficile — non è colpa di nessuno, è una danza
-> bilaterale.
+> bilaterale.</span>
 
-Questo concetto viene chiamato **goodness of fit**: il grado in cui le caratteristiche
-temperamentali di una persona si armonizzano con quelle del proprio ambiente (Thomas &
-Chess, 1977). La qualità della relazione di attaccamento dipende *sia* dal temperamento del
-bambino *sia* dalle risposte della madre.
+Questo concetto viene chiamato <span class="c-def">**goodness of fit**</span>: il grado in cui le caratteristiche
+temperamentali di una persona si armonizzano con quelle del proprio ambiente (<span class="c-dato">Thomas &
+Chess, 1977</span>). <span class="c-tesi">La qualità della relazione di attaccamento dipende *sia* dal temperamento del
+bambino *sia* dalle risposte della madre.</span>
 
 ### Carattere
 
-Il **carattere** (dal greco *kharàssein*, "incidere, marchiare") è l'insieme dei tratti
+Il <span class="c-def">**carattere**</span> (dal greco *kharàssein*, "incidere, marchiare") è l'insieme dei tratti
 psicologici e comportamentali stabili che si sviluppano quando il bambino con il suo
 temperamento innato entra in contatto con l'ambiente. Viene "modellato" dalle relazioni e
 dalle esperienze di vita.
 
-Attenzione: l'ambiente che conta non è quello visto dall'esterno, ma quello *percepito* dal
+<span class="c-warn">Attenzione: l'ambiente che conta non è quello visto dall'esterno, ma quello *percepito* dal
 bambino. Per questo due fratelli cresciuti nella stessa famiglia possono sviluppare
-personalità molto diverse. La caratteristica principale di un tratto è la **stabilità**: appare
+personalità molto diverse.</span> La caratteristica principale di un tratto è la **stabilità**: appare
 in modo costante e coerente nel tempo e in situazioni diverse.
 
-Un **tratto** si contrappone allo **stato**, che è una condizione temporanea scatenata da
-eventi esterni (es. una depressione reattiva, un attacco di panico). Da qui una distinzione
+Un <span class="c-def">**tratto**</span> si contrappone allo <span class="c-def">**stato**</span>, che è una condizione temporanea scatenata da
+eventi esterni (<span class="c-es">es. una depressione reattiva, un attacco di panico</span>). Da qui una distinzione
 clinica fondamentale:
 
-- **Disturbi di personalità** → derivano da *tratti* abnormi (stabili, pervasivi)
+- <span class="c-tesi">**Disturbi di personalità** → derivano da *tratti* abnormi (stabili, pervasivi)</span>
 - **Sindromi cliniche** → derivano da *stati* abnormi (possono essere circoscritte nel tempo)
 
 ### Personalità
 
-La **personalità** è il risultato dell'interazione tra temperamento e carattere. Il termine
+La <span class="c-def">**personalità**</span> è il risultato dell'interazione tra temperamento e carattere. Il termine
 deriva dal latino *persona*, la maschera degli attori nel teatro romano — qualcosa che parte
 dall'interno e arriva all'esterno, amplificando la voce verso il pubblico.
 
-La definizione più usata (Lingiardi & McWilliams, 2018) descrive la personalità come:
+La definizione più usata (<span class="c-dato">Lingiardi & McWilliams, 2018</span>) descrive la personalità come:
 
 > "Un insieme di modalità relativamente stabili di **pensare**, **sentire**, **comportarsi**
 > e **mettersi in relazione con gli altri**."
@@ -87,10 +96,10 @@ Queste quattro dimensioni sono il cuore: come interpretiamo noi stessi e il mond
 (*pensare*), quale repertorio emotivo usiamo e come gestiamo le emozioni (*sentire*), come
 agiamo (*comportarsi*), e come interagiamo con gli altri (*mettersi in relazione*).
 
-Importante: la personalità non è rigidamente fissa — evolve nell'arco della vita. Tuttavia
-le *dinamiche di fondo* rimangono stabili e si attivano in base al contesto. Le persone con
+<span class="c-impl">Importante: la personalità non è rigidamente fissa — evolve nell'arco della vita. Tuttavia
+le *dinamiche di fondo* rimangono stabili e si attivano in base al contesto.</span> <span class="c-es">Le persone con
 una patologia narcisistica, per esempio, possono diventare rabbiose quando si sentono
-sminuite, ma essere cooperative e affidabili quando si sentono apprezzate.
+sminuite, ma essere cooperative e affidabili quando si sentono apprezzate.</span>
 
 ---
 
@@ -98,7 +107,7 @@ sminuite, ma essere cooperative e affidabili quando si sentono apprezzate.
 
 ### Il modello di Eysenck
 
-Hans Eysenck (1916-1997) identificò tre fattori principali della personalità, misurabili con
+<span class="c-dato">Hans Eysenck</span> (1916-1997) identificò tre fattori principali della personalità, misurabili con
 un questionario:
 
 1. **Estroversione** vs Introversione: quantità e intensità dei contatti interpersonali
@@ -106,11 +115,9 @@ un questionario:
 3. **Psicoticismo**: basso coinvolgimento nei rapporti interpersonali (concetto controverso,
    non ripreso nelle classificazioni successive)
 
-Le prime due dimensioni sono rimaste le più confermate in letteratura.
-
 ### Il modello Big Five (Costa & McCrae, 1988)
 
-Il modello a **cinque fattori** aggiunge a estroversione e nevroticismo altri tre:
+Il modello a <span class="c-def">**cinque fattori**</span> (<span class="c-dato">Costa & McCrae, 1988</span>) aggiunge a estroversione e nevroticismo altri tre:
 
 | Fattore | Polo positivo | Polo negativo |
 |---------|--------------|---------------|
@@ -122,18 +129,18 @@ Ogni tratto è un continuum bidimensionale — nessuno sta a un estremo puro.
 
 ### La corazza caratteriale (Wilhelm Reich)
 
-Reich (1897-1957) coniò il concetto di **corazza caratteriale**: i caratteristici stili
-difensivi che le persone usano per proteggersi dall'angoscia e dai pericoli del mondo. La
-personalità sarebbe determinata in gran parte dal proprio peculiare modo di difendersi.
+<span class="c-dato">Reich</span> (1897-1957) coniò il concetto di <span class="c-def">**corazza caratteriale**</span>: i caratteristici stili
+difensivi che le persone usano per proteggersi dall'angoscia e dai pericoli del mondo. <span class="c-impl">La
+personalità sarebbe determinata in gran parte dal proprio peculiare modo di difendersi.</span>
 
-La lezione usa un esempio efficace: immagina una bambina su un seggiolone. Lì è al sicuro.
+<span class="c-es">La lezione usa un esempio efficace: immagina una bambina su un seggiolone. Lì è al sicuro.
 Ma per crescere, prima o poi il seggiolone va rimosso. La corazza caratteriale funziona allo
 stesso modo: formata nei primi anni di vita perché *funzionale* in quel momento, può
-diventare un limite nell'età adulta.
+diventare un limite nell'età adulta.</span>
 
-Quando le difese sono **rigide, inflessibili e pervasive**, invece di aiutare bloccano — ed
-è da questa rigidità che nascono i disturbi di personalità (Perry, Presniak & Olsen, 2013;
-McWilliams, 1994).
+<span class="c-warn">Quando le difese sono **rigide, inflessibili e pervasive**, invece di aiutare bloccano — ed
+è da questa rigidità che nascono i disturbi di personalità.</span> (<span class="c-dato">Perry, Presniak & Olsen, 2013;
+McWilliams, 1994</span>)
 
 ---
 
@@ -144,33 +151,33 @@ McWilliams, 1994).
 Tutti noi abbiamo tratti che si discostano dalla media. Questo non significa avere un
 "disturbo". La differenza sta nel grado di rigidità e nelle conseguenze sulla vita:
 
-- **Stile di personalità**: tratti presenti ma relativamente adattivi, non tali da
-  compromettere il funzionamento. Es: una persona con personalità ossessiva ma funzionale
-  nel lavoro.
-- **Disturbo di personalità**: i tratti sono così estremi e disadattivi da causare sofferenza
+- <span class="c-def">**Stile di personalità**</span>: tratti presenti ma relativamente adattivi, non tali da
+  compromettere il funzionamento. <span class="c-es">Es: una persona con personalità ossessiva ma funzionale
+  nel lavoro.</span>
+- <span class="c-def">**Disturbo di personalità**</span>: i tratti sono così estremi e disadattivi da causare sofferenza
   e compromissione significativa.
 
-Il caso dell'impiegato postale Sam — che funzionava benissimo finché non fu promosso a ruolo
+<span class="c-es">Il caso dell'impiegato postale Sam — che funzionava benissimo finché non fu promosso a ruolo
 di dirigente — mostra che **anche le circostanze sociali determinano se un tratto diventa
-disturbo** (Sims, 2009; Schneider, 1958).
+disturbo**.</span> (<span class="c-dato">Sims, 2009; Schneider, 1958</span>)
 
 ### Il modello bio-psico-sociale (Paris, 1997)
 
-L'eziopatogenesi dei disturbi di personalità si capisce con un modello integrato:
+L'eziopatogenesi dei disturbi di personalità si capisce con un modello integrato (<span class="c-dato">Paris, 1997</span>):
 
 - **Fattori biologici**: aspetti ereditari del temperamento, disfunzioni neuropsicologiche
 - **Fattori psicologici**: esperienze traumatiche, stili abnormi di accudimento familiare
 - **Fattori sociali**: disgregazione dei valori, perdita di tappe iniziatiche nella crescita
 
-La **diatesi** (vulnerabilità innata) determina il tipo di patologia, mentre i **fattori
+<span class="c-tesi">La <span class="c-def">**diatesi**</span> (vulnerabilità innata) determina il tipo di patologia, mentre i **fattori
 stressanti** attivano questo potenziale. Nessun fattore prevale sugli altri — solo la loro
-interazione cumulativa spiega lo sviluppo dei disturbi.
+interazione cumulativa spiega lo sviluppo dei disturbi.</span>
 
 ---
 
 ## La definizione del DSM-5-TR
 
-Il **Manuale Diagnostico e Statistico dei Disturbi Mentali** (DSM-5-TR, APA, 2023) definisce
+Il <span class="c-dato">**Manuale Diagnostico e Statistico dei Disturbi Mentali**</span> (<span class="c-dato">DSM-5-TR, APA, 2023</span>) definisce
 il disturbo di personalità come:
 
 > "Un pattern abituale di esperienza interiore e di comportamento che devia marcatamente
@@ -187,10 +194,10 @@ Lo schema ricorrente si manifesta in almeno **due** di queste aree:
 
 Tre aspetti chiave da tenere a mente:
 
-- **Culturale**: i disturbi vanno valutati nel contesto culturale dell'individuo — un
-  immigrato in una nuova cultura può sembrare "disturbato" senza esserlo davvero.
-- **Egosintonico**: spesso la persona non percepisce i propri tratti come problematici
-  (*tratti egosintonici*). Per questo è difficile portarla in terapia.
+- <span class="c-warn">**Culturale**: i disturbi vanno valutati nel contesto culturale dell'individuo — un
+  immigrato in una nuova cultura può sembrare "disturbato" senza esserlo davvero.</span>
+- <span class="c-def">**Egosintonico**</span>: spesso la persona non percepisce i propri tratti come problematici
+  (*tratti egosintonici*). <span class="c-impl">Per questo è difficile portarla in terapia.</span>
 - **Pervasivo**: il pattern deve manifestarsi in molte situazioni diverse, non in un solo
   contesto.
 
@@ -198,8 +205,8 @@ Tre aspetti chiave da tenere a mente:
 
 | Spettro | Caratteristica | Esempi di diagnosi |
 |---------|---------------|-------------------|
-| **Internalizzante** | Sofferenza vissuta interiormente; si incolpano sé stessi | Dipendente, evitante, ossessivo-compulsivo, schizoide |
-| **Esternalizzante** | Sofferenza fatta patire agli altri; si incolpano gli altri | Istrionico, narcisistico, paranoide, antisociale |
+| <span class="c-def">**Internalizzante**</span> | Sofferenza vissuta interiormente; si incolpano sé stessi | Dipendente, evitante, ossessivo-compulsivo, schizoide |
+| <span class="c-def">**Esternalizzante**</span> | Sofferenza fatta patire agli altri; si incolpano gli altri | Istrionico, narcisistico, paranoide, antisociale |
 | **Borderline** | Oscillazione continua tra i due spettri | — |
 
 ---
@@ -217,10 +224,10 @@ Caratteristica comune: apparire strani o eccentrici, diffidenza, tendenza all'is
 
 #### Disturbo Paranoide di Personalità
 
-**Nucleo**: diffidenza e sospettosità pervasive — le motivazioni degli altri vengono
-interpretate come malevole.
+**Nucleo**: <span class="c-tesi">diffidenza e sospettosità pervasive — le motivazioni degli altri vengono
+interpretate come malevole.</span>
 
-Criteri principali (APA, 2023):
+Criteri principali (<span class="c-dato">APA, 2023</span>):
 - Sospetta senza fondamento di essere sfruttato, danneggiato o ingannato
 - Non si confida per paura che le informazioni vengano usate contro di lui/lei
 - Porta costantemente rancore
@@ -230,23 +237,23 @@ Criteri principali (APA, 2023):
 **Credenza su sé stesso**: "Sono costantemente in pericolo"
 **Credenza sugli altri**: "Il mondo è pieno di persone pronte ad attaccarmi o usarmi"
 **Meccanismi difensivi**: Proiezione; identificazione proiettiva; diniego; formazione
-reattiva (Lingiardi & McWilliams, 2018)
+reattiva (<span class="c-dato">Lingiardi & McWilliams, 2018</span>)
 
-> La lezione usa l'esempio del martello: un uomo si convince progressivamente, lungo il
+> <span class="c-es">La lezione usa l'esempio del martello: un uomo si convince progressivamente, lungo il
 > tragitto verso casa del vicino, che questi si rifiuterà di prestarglielo, che ce l'ha con
 > lui — e quando il vicino apre, gli grida "tenga pure il suo martello, villano!" prima
-> ancora di sentire una parola. Questo è l'identificazione proiettiva in azione: si proietta
-> sull'altro una rabbia/paura interna, poi si agisce come se l'altro l'avesse davvero causata.
+> ancora di sentire una parola. Questo è l'<span class="c-def">identificazione proiettiva</span> in azione: si proietta
+> sull'altro una rabbia/paura interna, poi si agisce come se l'altro l'avesse davvero causata.</span>
 
-Queste persone, a livelli patologici, possono diventare leader pericolosi: trovano un
-"nemico comune" e aggregano attorno a sé chi condivide la stessa paura.
+<span class="c-warn">Queste persone, a livelli patologici, possono diventare leader pericolosi: trovano un
+"nemico comune" e aggregano attorno a sé chi condivide la stessa paura.</span>
 
 #### Disturbo Schizoide di Personalità
 
 **Nucleo**: distacco pervasivo dalle relazioni sociali e gamma ristretta di espressioni
 emotive.
 
-Criteri principali (APA, 2023):
+Criteri principali (<span class="c-dato">APA, 2023</span>):
 - Non desidera né prova piacere nelle relazioni strette
 - Quasi sempre sceglie attività solitarie
 - Non ha amici stretti o confidenti (a parte parenti stretti)
@@ -262,16 +269,16 @@ Criteri principali (APA, 2023):
 **Nucleo**: deficit sociali e interpersonali + distorsioni cognitive e percettive +
 eccentricità di comportamento.
 
-Criteri principali (APA, 2023):
-- Idee di riferimento (eventi casuali sembrano riferiti a lui/lei)
-- Pensiero magico o strane credenze (credere di poter influenzare le persone col pensiero)
-- Esperienze percettive insolite (sentire presenze, illusioni)
+Criteri principali (<span class="c-dato">APA, 2023</span>):
+- <span class="c-def">Idee di riferimento</span> (eventi casuali sembrano riferiti a lui/lei)
+- Pensiero magico o strane credenze (<span class="c-es">credere di poter influenzare le persone col pensiero</span>)
+- <span class="c-es">Esperienze percettive insolite (sentire presenze, illusioni)</span>
 - Pensiero e linguaggio strani
 - Sospettosità o ideazione paranoide
 - Comportamento o aspetto bizzarro
 
-È il disturbo di personalità **più vicino all'ambito psicotico** — ma il contatto con la
-realtà è ancora presente (seppur labile). Non ci sono deliri veri e propri.
+<span class="c-warn">È il disturbo di personalità **più vicino all'ambito psicotico** — ma il contatto con la
+realtà è ancora presente (seppur labile). Non ci sono deliri veri e propri.</span>
 
 ---
 
@@ -283,17 +290,17 @@ Caratteristica comune: difetto nella regolazione emotiva, scarso controllo degli
 
 **Nucleo**: pattern pervasivo di inosservanza e violazione dei diritti degli altri.
 
-Criteri principali (APA, 2023):
+Criteri principali (<span class="c-dato">APA, 2023</span>):
 - Non si conforma alle norme sociali (condotte passibili di arresto)
 - Menzogne, truffe, false identità
 - Impulsività, incapacità di fare piani
 - Irritabilità e aggressività (scontri fisici)
 - Negligenza per la sicurezza propria e altrui
 - Irresponsabilità cronica
-- Assenza di rimorso
+- <span class="c-def">Assenza di rimorso</span>
 
-Criterio specifico: il disturbo della condotta deve essersi evidenziato **prima dei 15 anni**.
-Segnali precoci gravi: crudeltà verso gli animali, incendi dolosi.
+<span class="c-warn">Criterio specifico: il disturbo della condotta deve essersi evidenziato **prima dei 15 anni**.
+Segnali precoci gravi: crudeltà verso gli animali, incendi dolosi.</span>
 
 **Credenza su sé stesso**: "Posso fare tutto ciò che voglio"
 **Credenza sugli altri**: "Sono tutti egoisti, spregevoli o incapaci di farsi valere"
@@ -301,54 +308,53 @@ Segnali precoci gravi: crudeltà verso gli animali, incendi dolosi.
 
 #### Disturbo Borderline di Personalità (BPD)
 
-**Nucleo**: instabilità pervasiva nelle relazioni interpersonali, nell'immagine di sé e
-nell'umore, con marcata impulsività.
+**Nucleo**: <span class="c-tesi">instabilità pervasiva nelle relazioni interpersonali, nell'immagine di sé e
+nell'umore, con marcata impulsività.</span>
 
-Rappresenta circa il **20% dei pazienti** psichiatrici (Gunderson & Links, 2015). Marsha
-Linehan lo descrive così:
+Rappresenta circa il <span class="c-dato">**20% dei pazienti**</span> psichiatrici (<span class="c-dato">Gunderson & Links, 2015</span>). <span class="c-dato">Marsha
+Linehan</span> lo descrive così:
 
-> "Gli individui borderline sono l'equivalente psicologico dei pazienti con ustioni di terzo
-> grado. Semplicemente non hanno, per così dire, una pelle emozionale."
+> <span class="c-es">"Gli individui borderline sono l'equivalente psicologico dei pazienti con ustioni di terzo
+> grado. Semplicemente non hanno, per così dire, una pelle emozionale."</span>
 
-Criteri principali (APA, 2023):
+Criteri principali (<span class="c-dato">APA, 2023</span>):
 
-1. **Sforzi disperati per evitare l'abbandono** (reale o immaginario): senza un altro
-   accanto, la persona sente il vuoto — come se l'altro servisse a "sentirsi vivi". È la
-   costanza dell'oggetto che manca: se l'altro non è davanti agli occhi, c'è il vuoto.
+1. <span class="c-def">**Sforzi disperati per evitare l'abbandono**</span> (reale o immaginario): senza un altro
+   accanto, la persona sente il vuoto — come se l'altro servisse a "sentirsi vivi". <span class="c-impl">È la
+   costanza dell'oggetto che manca: se l'altro non è davanti agli occhi, c'è il vuoto.</span>
 2. **Relazioni interpersonali intense e instabili**: alternanza di iperidealizzazione e
-   svalutazione — "sei il migliore del mondo" / "sei il peggiore" nello spazio di una serata.
-3. **Alterazione dell'identità**: senso di sé instabile e persistentemente discontinuo.
+   svalutazione — <span class="c-es">"sei il migliore del mondo" / "sei il peggiore" nello spazio di una serata.</span>
+3. <span class="c-def">**Alterazione dell'identità**</span>: senso di sé instabile e persistentemente discontinuo.
    Non sa cosa gli piace, i valori cambiano, anche le preferenze sessuali possono oscillare.
-4. **Impulsività** in aree potenzialmente dannose: spese, sessualità, sostanze, guida
-   spericolata, abbuffate.
-5. **Comportamenti automutilanti o minacce suicidarie**: presenti nell'80% dei ricoverati
+4. **Impulsività** in aree potenzialmente dannose: <span class="c-es">spese, sessualità, sostanze, guida
+   spericolata, abbuffate.</span>
+5. <span class="c-warn">**Comportamenti automutilanti o minacce suicidarie**: presenti nell'<span class="c-dato">80%</span> dei ricoverati
    con BPD. L'autolesionismo può: arginare il dolore psicologico, concretizzare emozioni
-   altrimenti inesprimibili, comunicare una richiesta d'aiuto.
-6. **Instabilità affettiva**: umore che cambia da un minuto all'altro (diversa dal disturbo
-   bipolare, che ha cicli molto più lunghi).
+   altrimenti inesprimibili, comunicare una richiesta d'aiuto.</span>
+6. **Instabilità affettiva**: umore che cambia da un minuto all'altro (<span class="c-warn">diversa dal disturbo
+   bipolare, che ha cicli molto più lunghi</span>).
 7. **Sentimenti cronici di vuoto**.
 8. **Rabbia inappropriata e intensa**: lo stato rabbioso è il più frequente.
-9. **Ideazione paranoide transitoria** o sintomi dissociativi in momenti di forte stress —
+9. <span class="c-def">**Ideazione paranoide transitoria**</span> o sintomi dissociativi in momenti di forte stress —
    soprattutto associati alla (anche solo immaginata) perdita di qualcuno.
 
 **Credenza su sé stesso**: "Non so chi sono: mi sento confuso, dissociato, privo di
 continuità"
 **Credenza sugli altri**: "Gli altri sono tutti buoni o tutti cattivi"
-**Meccanismi difensivi**: Scissione; identificazione proiettiva; diniego; dissociazione;
-acting out; altre difese primitive (Lingiardi & McWilliams, 2018)
+**Meccanismi difensivi**: <span class="c-def">Scissione</span>; identificazione proiettiva; diniego; dissociazione;
+acting out; altre difese primitive (<span class="c-dato">Lingiardi & McWilliams, 2018</span>)
 
-> La lezione mostra estratti da un documentario su una donna con BPD. Nel primo, le viene
+> <span class="c-es">La lezione mostra estratti da un documentario su una donna con BPD. Nel primo, le viene
 > chiesto di leggere una lettera sui sentimenti verso il fratello — e invece di farlo, inizia a
 > lamentarsi della fontanella d'acqua, poi accusa la terapeuta, poi denuncia lo spazio fisico.
 > È l'identificazione proiettiva in azione: non riesce a stare nel dolore emotivo, lo sposta
-> sull'altro per farlo provare a lui. Nel secondo estratto, due donne con BPD litigano in modo
-> esplosivo al ristorante partendo da apparentemente niente.
+> sull'altro per farlo provare a lui.</span>
 
 #### Disturbo Istrionico di Personalità
 
 **Nucleo**: emotività eccessiva e ricerca pervasiva di attenzione.
 
-Criteri principali (APA, 2023):
+Criteri principali (<span class="c-dato">APA, 2023</span>):
 - Disagio quando non è al centro dell'attenzione
 - Comportamento sessualmente seduttivo o provocante ma inappropriato
 - Emotività mutevole e superficiale
@@ -363,14 +369,14 @@ Criteri principali (APA, 2023):
 **Nucleo**: grandiosità (nella fantasia o nel comportamento), necessità di ammirazione,
 mancanza di empatia.
 
-Criteri principali (APA, 2023):
+Criteri principali (<span class="c-dato">APA, 2023</span>):
 - Senso grandioso di importanza (esagera risultati e talenti)
 - Fantasie di successo illimitato, potere, fascino, bellezza
 - Si ritiene "speciale" e unico
 - Richiede eccessiva ammirazione
 - Senso che tutto gli sia dovuto
 - Sfruttamento interpersonale
-- Mancanza di empatia: distingue *empatia cognitiva* (capisce razionalmente cosa prova
+- <span class="c-def">Mancanza di empatia</span>: distingue *empatia cognitiva* (capisce razionalmente cosa prova
   l'altro) da *empatia emotiva* (entra in risonanza affettiva con l'altro) — qui manca la
   seconda
 - Invidia verso gli altri o convinzione che gli altri lo invidino
@@ -379,12 +385,12 @@ Criteri principali (APA, 2023):
 **Credenza su sé stesso**: "Devo essere perfetto per sentirmi bene"
 **Credenza sugli altri**: "Gli altri hanno ricchezza, potere e fama — più ne avrò anch'io
 e meglio starò"
-**Meccanismi difensivi**: Idealizzazione e svalutazione (Lingiardi & McWilliams, 2018)
+**Meccanismi difensivi**: Idealizzazione e svalutazione (<span class="c-dato">Lingiardi & McWilliams, 2018</span>)
 
-> La lezione sottolinea un punto importante: dietro la facciata di grandiosità c'è spesso
+> <span class="c-tesi">La lezione sottolinea un punto importante: dietro la facciata di grandiosità c'è spesso
 > un'autostima estremamente fragile e vulnerabile. La grandiosità è una corazza — "non ho
 > bisogno degli altri, basto a me stesso" — costruita probabilmente perché nella storia
-> precoce mostrare debolezza era intollerabile. Chi idealizza, svaluta — sempre.
+> precoce mostrare debolezza era intollerabile. <span class="c-impl">Chi idealizza, svaluta — sempre.</span></span>
 
 ---
 
@@ -397,29 +403,29 @@ Caratteristica comune: ansia, inibizione, scarsa autostima.
 **Nucleo**: inibizione sociale pervasiva, sentimenti di inadeguatezza, ipersensibilità al
 giudizio negativo.
 
-Criteri principali (APA, 2023):
+Criteri principali (<span class="c-dato">APA, 2023</span>):
 - Evita attività con contatto interpersonale per paura di critiche o rifiuto
 - Riluttante ad entrare in relazione se non è certo di piacere
 - Riservato nelle relazioni intime per paura di essere umiliato
 - Si vede come socialmente incapace, privo di fascino o inferiore
 - Riluttante ad assumere rischi o intraprendere nuove attività per paura dell'imbarazzo
 
-**Distinzione cruciale**: queste persone *desiderano* le relazioni — è questo che le
-distingue dagli schizoidi, che non le vogliono. È la paura del rifiuto a tenerle lontane.
-Molto vicino all'ansia sociale, ma diverso: qui è un pattern stabile di personalità, non una
-fobia situazionale.
+<span class="c-tesi">**Distinzione cruciale**: queste persone *desiderano* le relazioni — è questo che le
+distingue dagli schizoidi, che non le vogliono. È la paura del rifiuto a tenerle lontane.</span>
+<span class="c-warn">Molto vicino all'ansia sociale, ma diverso: qui è un pattern stabile di personalità, non una
+fobia situazionale.</span>
 
 **Credenza su sé stesso**: "Sono in costante pericolo e devo fare di tutto per evitarlo"
 **Credenza sugli altri**: "Gli altri sono una fonte di pericolo o dei protettori salvifici"
 **Meccanismi difensivi**: Simbolizzazione; spostamento; evitamento; razionalizzazione;
-ansia indefinita (Lingiardi & McWilliams, 2018)
+ansia indefinita (<span class="c-dato">Lingiardi & McWilliams, 2018</span>)
 
 #### Disturbo Dipendente di Personalità
 
 **Nucleo**: necessità pervasiva ed eccessiva di essere accuditi, con comportamento
 sottomesso e timore della separazione.
 
-Criteri principali (APA, 2023):
+Criteri principali (<span class="c-dato">APA, 2023</span>):
 - Non riesce a prendere decisioni quotidiane senza consigli e rassicurazioni eccessive
 - Ha bisogno che gli altri si assumano le responsabilità principali
 - Non esprime il dissenso per paura di perdere il supporto
@@ -430,14 +436,14 @@ Criteri principali (APA, 2023):
 **Credenza su sé stesso**: "Sono inadeguato, debole, bisognoso, impotente"
 **Credenza sugli altri**: "Gli altri sono forti e potenti, e io ho bisogno delle loro cure"
 **Meccanismi difensivi**: Regressione; capovolgimento dell'affetto; evitamento;
-somatizzazione (Lingiardi & McWilliams, 2018)
+somatizzazione (<span class="c-dato">Lingiardi & McWilliams, 2018</span>)
 
 #### Disturbo Ossessivo-Compulsivo di Personalità (DOCP)
 
 **Nucleo**: preoccupazione pervasiva per l'ordine, perfezionismo e controllo mentale e
 interpersonale, a spese di flessibilità ed efficienza.
 
-Criteri principali (APA, 2023):
+Criteri principali (<span class="c-dato">APA, 2023</span>):
 - Eccessiva attenzione per dettagli, regole, ordine — al punto che lo scopo principale
   dell'attività va perduto
 - Perfezionismo che interferisce con il completamento dei compiti
@@ -448,41 +454,41 @@ Criteri principali (APA, 2023):
 - Stile di vita privo di generosità; denaro da accumulare per catastrofi future
 - Rigidità e ostinazione
 
-**Differenza fondamentale con il DOC** (disturbo ossessivo-compulsivo): nel DOCP non ci sono
+<span class="c-warn">**Differenza fondamentale con il DOC** (disturbo ossessivo-compulsivo): nel DOCP non ci sono
 ossessioni (pensieri intrusivi ripetitivi) né compulsioni (azioni rituali ripetute). È un
 *modo di vivere* — e spesso la persona non si rende conto dell'effetto che ha sugli altri
-(*egosintonico*).
+(*egosintonico*).</span>
 
-La lezione mostra un estratto dal film *Bianco, rosso e Verdone*: un personaggio ipercontrollante
+<span class="c-es">La lezione mostra un estratto dal film *Bianco, rosso e Verdone*: un personaggio ipercontrollante
 che telefona all'ACI per sapere se riuscirà a superare il fronte perturbativo prima di arrivare
 a Parma, e che detta una lista di preparativi minuziosi alla moglie — senza rendersi conto di
-come la stia opprimendo.
+come la stia opprimendo.</span>
 
 **Credenza su sé stesso**: "La maggior parte delle emozioni è pericolosa e va tenuta sotto
 controllo"
 **Credenza sugli altri**: "Gli altri sono meno precisi di me e devo controllare quello che
 fanno"
 **Meccanismi difensivi**: Isolamento degli affetti; formazione reattiva; intellettualizzazione;
-moralismo; annullamento retroattivo (Lingiardi & McWilliams, 2018)
+moralismo; annullamento retroattivo (<span class="c-dato">Lingiardi & McWilliams, 2018</span>)
 
 ---
 
 ## Il problema dei sistemi diagnostici
 
-Il DSM usa un approccio **categoriale** (presenza/assenza), ma i disturbi psicologici hanno
-natura **dimensionale** (un continuum). Questo crea problemi reali in clinica:
+<span class="c-tesi">Il DSM usa un approccio **categoriale** (presenza/assenza), ma i disturbi psicologici hanno
+natura **dimensionale** (un continuum). Questo crea problemi reali in clinica.</span>
 
-1. **Alta comorbilità**: nello studio di Shea et al. (1999) su veterani di guerra e donne
+1. **Alta comorbilità**: <span class="c-es">nello studio di <span class="c-dato">Shea et al. (1999)</span> su veterani di guerra e donne
    sopravvissute ad abusi, l'82-90% soddisfaceva i criteri per il disturbo paranoide, il
    52-92% per quello borderline — categorie teoricamente distinte che si sovrappongono
-   enormemente nella realtà.
+   enormemente nella realtà.</span>
 2. **Casi sotto soglia**: chi ha tratti significativi ma non raggiunge il numero minimo di
    criteri viene "tagliato fuori".
-3. **Artificiosità delle categorie**: "Sembra paradossale dover porre più diagnosi di disturbo
+3. <span class="c-warn">**Artificiosità delle categorie**: "Sembra paradossale dover porre più diagnosi di disturbo
    di personalità dal momento che quest'ultima è, per definizione, l'insieme complessivo delle
-   caratteristiche di un individuo." (Giacchetti, Aceti & Meuti, 2000)
+   caratteristiche di un individuo."</span> (<span class="c-dato">Giacchetti, Aceti & Meuti, 2000</span>)
 
-Il **PDM-2** (Psychodynamic Diagnostic Manual, Lingiardi & McWilliams) propone un approccio
+Il <span class="c-dato">**PDM-2**</span> (<span class="c-dato">Psychodynamic Diagnostic Manual, Lingiardi & McWilliams</span>) propone un approccio
 più dimensionale e più vicino alla realtà clinica.
 
 ---
@@ -491,62 +497,61 @@ più dimensionale e più vicino alla realtà clinica.
 
 ### Storia del termine "borderline"
 
-Negli anni '20-'50 gli psichiatri notano casi che non rientrano né nella nevrosi né nella
-psicosi. Adolph Stern coniò il termine "borderline" per questi stati intermedi. Per decenni
-rimase una "diagnosi da cestino" (*wastebasket diagnosis*, Knight, 1954). Kernberg (1967),
-Grinker (1968) e Gunderson (1975) iniziarono a definire criteri precisi. Il termine entrò
-nel DSM-III nel 1980 come diagnosi indipendente.
+<span class="c-dato">Adolph Stern</span> coniò il termine "borderline" per questi stati intermedi. Per decenni
+rimase una "diagnosi da cestino" (*wastebasket diagnosis*, <span class="c-dato">Knight, 1954</span>). <span class="c-dato">Kernberg (1967)</span>,
+<span class="c-dato">Grinker (1968)</span> e <span class="c-dato">Gunderson (1975)</span> iniziarono a definire criteri precisi. Il termine entrò
+nel <span class="c-dato">DSM-III nel 1980</span> come diagnosi indipendente.
 
 ### Due significati di "borderline"
 
 1. **Uso ristretto** (DSM): il disturbo borderline di personalità nel Cluster B.
-2. **Uso estensivo** (Kernberg): un'organizzazione intrapsichica — un livello strutturale che
+2. <span class="c-def">**Uso estensivo** (Kernberg)</span>: un'organizzazione intrapsichica — un livello strutturale che
    sottende molti disturbi gravi di personalità (grosso modo cluster A e B).
 
 ### I tre livelli strutturali
 
-Kernberg propone tre grandi organizzazioni strutturali su un continuum di gravità
+<span class="c-dato">Kernberg</span> propone tre grandi organizzazioni strutturali su un continuum di gravità
 progressivamente minore:
 
 | Struttura | Integrazione identità | Meccanismi difensivi | Esame di realtà |
 |-----------|----------------------|---------------------|-----------------|
-| **Nevrotica** | Ben integrata | Maturi | Conservato |
-| **Borderline** | Diffusa (scissione) | Primitivi | Conservato (vacilla sotto stress) |
-| **Psicotica** | Gravemente compromessa | Primitivi | Perduto/gravemente compromesso |
+| <span class="c-def">**Nevrotica**</span> | Ben integrata | Maturi | Conservato |
+| <span class="c-def">**Borderline**</span> | Diffusa (scissione) | Primitivi | Conservato (vacilla sotto stress) |
+| <span class="c-def">**Psicotica**</span> | Gravemente compromessa | Primitivi | Perduto/gravemente compromesso |
 
 **Tre criteri per distinguere l'organizzazione borderline**:
 
-1. **Diffusione dell'identità**: il senso di sé e degli altri non è integrato. La persona
+1. <span class="c-def">**Diffusione dell'identità**</span>: il senso di sé e degli altri non è integrato. La persona
    non riesce a descrivere se stessa o le persone importanti in modo coerente. Le percezioni
    cambiano radicalmente in base all'umore del momento.
 
-2. **Meccanismi difensivi primitivi**: il meccanismo centrale è la **scissione** — tenere
+2. <span class="c-def">**Meccanismi difensivi primitivi**</span>: il meccanismo centrale è la <span class="c-def">**scissione**</span> — tenere
    separati aspetti "buoni" e "cattivi" di sé e degli altri. Non esiste la zona grigia.
    Da qui derivano: idealizzazione primitiva, identificazione proiettiva, diniego,
    onnipotenza e svalutazione.
 
-3. **Esame di realtà conservato**: a differenza della psicosi, la persona borderline riesce
-   ancora a distinguere il dentro dal fuori, non delira in modo persistente. Il contatto
-   con la realtà può vacillare in momenti di forte stress, ma non è perduto.
+3. <span class="c-tesi">**Esame di realtà conservato**</span>: a differenza della psicosi, la persona borderline riesce
+   ancora a distinguere il dentro dal fuori, non delira in modo persistente. <span class="c-warn">Il contatto
+   con la realtà può vacillare in momenti di forte stress, ma non è perduto.</span>
 
-> La lezione usa l'immagine del pacco regalo: l'organizzazione di personalità è la struttura
+> <span class="c-es">La lezione usa l'immagine del pacco regalo: l'organizzazione di personalità è la struttura
 > interna (nevrotica, borderline, psicotica), mentre le etichette diagnostiche (paranoide,
 > narcisistico, schizoide...) sono come la carta che avvolge il pacco — ciò che vediamo
-> dall'esterno.
+> dall'esterno.</span>
 
 ---
 
 ## Trattamenti per il disturbo borderline
 
-- **DBT** (Dialectical Behavior Therapy, Linehan): terapia di gruppo per esercitare la
+- <span class="c-dato">**DBT**</span> (Dialectical Behavior Therapy, <span class="c-dato">Linehan</span>): terapia di gruppo per esercitare la
   tolleranza alle emozioni, strategie interpersonali, gestione dello stress. Il programma più
   codificato e validato.
-- **MBT** (Mentalisation-Based Treatment): lavora sulla capacità di comprendere i propri e
+- <span class="c-dato">**MBT**</span> (Mentalisation-Based Treatment): lavora sulla capacità di comprendere i propri e
   altrui stati mentali.
-- **TFP** (Transference-Focused Psychotherapy, Kernberg): lavora su quanto accade nella
+- <span class="c-dato">**TFP**</span> (Transference-Focused Psychotherapy, <span class="c-dato">Kernberg</span>): lavora su quanto accade nella
   seduta come specchio dei pattern relazionali del paziente.
 
-Miglioramenti sono possibili, ma la strada è lunga.
+<span class="c-impl">Miglioramenti sono possibili, ma la strada è lunga.</span>
 
 ---
 
@@ -580,19 +585,19 @@ La costanza dell'oggetto è la capacità di mantenere una rappresentazione stabi
 
 | Termine | Significato |
 |---------|-------------|
-| **Temperamento** | Tratti biologicamente determinati e congeniti; modulano la risposta emotiva agli stimoli |
-| **Carattere** | Tratti acquisiti dalle relazioni e dall'esperienza |
-| **Personalità** | Risultato dell'interazione tra temperamento e carattere |
-| **Tratto** | Attributo psicologico stabile nel tempo e nelle situazioni |
-| **Stato** | Condizione temporanea, spesso reattiva a eventi esterni |
-| **Corazza caratteriale** | Meccanismi difensivi abituali, formati nella prima infanzia |
-| **Goodness of fit** | Grado di armonia tra temperamento di una persona e il suo ambiente |
-| **Diatesi** | Vulnerabilità innata che predispone allo sviluppo di un disturbo |
-| **Egosintonia** | Il tratto è vissuto come coerente con sé stessi; non percepito come problema |
-| **Scissione** | Meccanismo difensivo primitivo: tenere separati aspetti "buoni" e "cattivi" |
-| **Identificazione proiettiva** | Proiettare sull'altro contenuti intollerabili + fare in modo che l'altro li "senta" e li faccia propri |
-| **Diffusione dell'identità** | Senso di sé e degli altri poco integrato; percezioni contraddittorie |
-| **Organizzazione borderline** | Livello strutturale con: diffusione identità + difese primitive + esame realtà conservato |
+| <span class="c-def">**Temperamento**</span> | Tratti biologicamente determinati e congeniti; modulano la risposta emotiva agli stimoli |
+| <span class="c-def">**Carattere**</span> | Tratti acquisiti dalle relazioni e dall'esperienza |
+| <span class="c-def">**Personalità**</span> | Risultato dell'interazione tra temperamento e carattere |
+| <span class="c-def">**Tratto**</span> | Attributo psicologico stabile nel tempo e nelle situazioni |
+| <span class="c-def">**Stato**</span> | Condizione temporanea, spesso reattiva a eventi esterni |
+| <span class="c-def">**Corazza caratteriale**</span> | Meccanismi difensivi abituali, formati nella prima infanzia |
+| <span class="c-def">**Goodness of fit**</span> | Grado di armonia tra temperamento di una persona e il suo ambiente |
+| <span class="c-def">**Diatesi**</span> | Vulnerabilità innata che predispone allo sviluppo di un disturbo |
+| <span class="c-def">**Egosintonia**</span> | Il tratto è vissuto come coerente con sé stessi; non percepito come problema |
+| <span class="c-def">**Scissione**</span> | Meccanismo difensivo primitivo: tenere separati aspetti "buoni" e "cattivi" |
+| <span class="c-def">**Identificazione proiettiva**</span> | Proiettare sull'altro contenuti intollerabili + fare in modo che l'altro li "senta" e li faccia propri |
+| <span class="c-def">**Diffusione dell'identità**</span> | Senso di sé e degli altri poco integrato; percezioni contraddittorie |
+| <span class="c-def">**Organizzazione borderline**</span> | Livello strutturale con: diffusione identità + difese primitive + esame realtà conservato |
 | **Cluster A/B/C** | Raggruppamenti DSM: A (strani/eccentrici), B (drammatici/emotivi), C (ansiosi/inibiti) |
 
 ---
@@ -601,11 +606,11 @@ La costanza dell'oggetto è la capacità di mantenere una rappresentazione stabi
 
 - **Lezione introduttiva Salute Mentale**: il concetto di "pattumiera delle diagnosi" —
   i termini insulti attuali (idiota, deficiente, cretino) erano diagnosi cliniche dell'800.
-  Attenzione all'uso stigmatizzante delle categorie.
+  <span class="c-warn">Attenzione all'uso stigmatizzante delle categorie.</span>
 - **Relazioni oggettuali**: nel disturbo borderline le relazioni sono di tipo anaclitico
   (d'appoggio). Cfr. lezioni su attaccamento.
-- **Costanza dell'oggetto**: nel BPD è compromessa — se l'altro non è visibile, c'è il vuoto.
-  Ripreso dalle prime lezioni sullo sviluppo.
+- <span class="c-impl">**Costanza dell'oggetto**: nel BPD è compromessa — se l'altro non è visibile, c'è il vuoto.
+  Ripreso dalle prime lezioni sullo sviluppo.</span>
 - **Meccanismi di difesa**: concetto introdotto in lezioni precedenti, qui sistematizzato.
 - **Prossima lezione**: sintomi dissociativi (derealizzazione, depersonalizzazione) —
   menzionati come spesso associati al BPD in momenti di forte stress.

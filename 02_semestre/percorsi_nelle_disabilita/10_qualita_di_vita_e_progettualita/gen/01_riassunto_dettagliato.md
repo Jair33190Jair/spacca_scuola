@@ -1,6 +1,15 @@
 # Qualità di Vita e Progettualità
 Percorsi nella Disabilità · Sessione 10 · 28 aprile 2026
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 > Questa lezione è il grande mosaico che mette insieme tutto quello che hai studiato finora: l'ICF, la Convenzione ONU, l'inclusione. Il filo che li unisce è il paradigma della **Qualità di Vita** — un concetto che sembra intuitivo, ma che per diventare utile nella pratica va "spacchettato" con metodo. E lo strumento principale per farlo? Il **progetto di vita**.
 
 ---
@@ -34,7 +43,7 @@ In pratica, si passa da:
 | Deficit individuali | Contesti e barriere |
 | Esclusione | Partecipazione |
 
-La prof sottolinea che questo cambiamento non è solo teoria: lo verificherete concretamente in stage. Molti servizi sono ancora ancorati al vecchio paradigma, e la responsabilità di chi entra nel campo adesso è proprio quella di rendere concreti i nuovi approcci.
+<span class="c-tesi">La prof sottolinea che questo cambiamento non è solo teoria: lo verificherete concretamente in stage. Molti servizi sono ancora ancorati al vecchio paradigma, e la responsabilità di chi entra nel campo adesso è proprio quella di rendere concreti i nuovi approcci.</span>
 
 ---
 
@@ -42,23 +51,23 @@ La prof sottolinea che questo cambiamento non è solo teoria: lo verificherete c
 
 ### Cos'è e perché ci serve
 
-Nel 1990, Edgerton osservava che sappiamo "troppo poco della qualità della vita delle persone con disabilità intellettiva e quasi nulla in merito alla loro soddisfazione". Da lì è partito un lavoro scientifico durato decenni.
+Nel <span class="c-dato">1990</span>, <span class="c-dato">Edgerton</span> osservava che sappiamo "troppo poco della qualità della vita delle persone con disabilità intellettiva e quasi nulla in merito alla loro soddisfazione". Da lì è partito un lavoro scientifico durato decenni.
 
 **Definizione OMS (1995):**
-> "La percezione dell'individuo della propria posizione nella vita nel contesto dei sistemi culturali e dei valori di riferimento nei quali è inserito e in relazione ai propri obiettivi, aspettative, standard e interessi."
+> <span class="c-def">"La percezione dell'individuo della propria posizione nella vita nel contesto dei sistemi culturali e dei valori di riferimento nei quali è inserito e in relazione ai propri obiettivi, aspettative, standard e interessi."</span>
 
 Tre elementi fondamentali emergono da questa definizione:
-1. È **soggettiva**: ognuno percepisce la propria qualità di vita in modo personale
-2. È **multidimensionale**: non si riduce a un solo aspetto della vita
-3. È **misurabile**: sia con metodi quantitativi che qualitativi, con indicatori oggettivi e soggettivi
+1. È <span class="c-def">**soggettiva**</span>: ognuno percepisce la propria qualità di vita in modo personale
+2. È <span class="c-def">**multidimensionale**</span>: non si riduce a un solo aspetto della vita
+3. È <span class="c-def">**misurabile**</span>: sia con metodi quantitativi che qualitativi, con indicatori oggettivi e soggettivi
 
 ### A cosa ci serve in pratica?
 
-La professoressa (citando Cottini, 2016) chiarisce il doppio ruolo della QdV:
-- **Macro-finalità**: è l'orizzonte verso cui tendono tutti gli interventi educativi
-- **Strumento di valutazione**: ci permette di misurare se quello che facciamo sta davvero funzionando
+La professoressa (citando <span class="c-dato">Cottini, 2016</span>) chiarisce il doppio ruolo della QdV:
+- <span class="c-def">**Macro-finalità**</span>: è l'orizzonte verso cui tendono tutti gli interventi educativi
+- <span class="c-def">**Strumento di valutazione**</span>: ci permette di misurare se quello che facciamo sta davvero funzionando
 
-Pensala come il GPS della pratica professionale: non solo indica la destinazione, ma verifica in continuo se ci stai andando davvero.
+<span class="c-es">Pensala come il GPS della pratica professionale: non solo indica la destinazione, ma verifica in continuo se ci stai andando davvero.</span>
 
 ### L'analogia dell'orchestra (la prof la ama)
 
@@ -75,7 +84,7 @@ La qualità complessiva del concerto dipende da:
 - Quanto ha potuto studiare → le **opportunità di sviluppo**
 - Il contesto della sala → i **fattori contestuali**
 
-Se mancano strumenti (sostegni), anche la partitura migliore non basta. Come capita al Tassino quando scoppia il temporale durante il concerto di primavera — l'ambiente conta.
+<span class="c-impl">Se mancano strumenti (sostegni), anche la partitura migliore non basta.</span>
 
 ---
 
@@ -87,22 +96,20 @@ Si chiama meta-modello perché è una sintesi di numerosi studi e modelli proven
 
 ### I 3 Fattori e gli 8 Domini
 
-Il modello organizza la qualità di vita in una struttura a tre livelli: **fattori → domini → indicatori**.
+Il modello organizza la qualità di vita in una struttura a tre livelli: <span class="c-def">**fattori → domini → indicatori**</span>.
 
 | Fattore | Dominio |
 |---|---|
-| **Indipendenza** | Sviluppo personale |
+| <span class="c-def">**Indipendenza**</span> | Sviluppo personale |
 | | Autodeterminazione |
-| **Partecipazione sociale** | Relazioni interpersonali |
+| <span class="c-def">**Partecipazione sociale**</span> | Relazioni interpersonali |
 | | Inclusione sociale |
 | | Diritti |
-| **Benessere** | Benessere emozionale |
+| <span class="c-def">**Benessere**</span> | Benessere emozionale |
 | | Benessere fisico |
 | | Benessere materiale |
 
-Questi 8 domini sono applicabili a **tutte le persone**, con o senza disabilità. La forza del modello è proprio questa universalità: non inventa categorie speciali, ma parte da quello che conta per tutti gli esseri umani.
-
-Come una foresta dove ogni albero ha le sue radici principali (i fattori), le radici secondarie (i domini) e i peli radicali (gli indicatori specifici) — le radici sono le stesse per tutti, ma ogni pianta le sviluppa in modo unico nel suo contesto.
+<span class="c-tesi">Questi 8 domini sono applicabili a **tutte le persone**, con o senza disabilità. La forza del modello è proprio questa universalità: non inventa categorie speciali, ma parte da quello che conta per tutti gli esseri umani.</span>
 
 ### Cosa dice la ricerca
 
@@ -117,25 +124,25 @@ Le evidenze scientifiche mostrano che la QdV migliora quando:
 
 ### Fattore Indipendenza
 
-**Sviluppo personale** → tutto ciò che riguarda l'apprendimento, la formazione, l'acquisizione di abilità, la possibilità di continuare a crescere nell'arco della vita. Esempi di indicatori: livello di educazione, abilità personali, comportamento adattivo.
+<span class="c-def">**Sviluppo personale**</span> → tutto ciò che riguarda l'apprendimento, la formazione, l'acquisizione di abilità, la possibilità di continuare a crescere nell'arco della vita. Esempi di indicatori: livello di educazione, abilità personali, comportamento adattivo.
 
-**Autodeterminazione** → la capacità e la soddisfazione di fare scelte, esprimere preferenze, avere controllo sulla propria vita. La prof sottolinea che questo dominio sarà approfondito nella lezione successiva: l'autodeterminazione si educa e si allena, e prima si comincia meglio è. Esempi: scelte/decisioni, autonomia, obiettivi personali.
+<span class="c-def">**Autodeterminazione**</span> → la capacità e la soddisfazione di fare scelte, esprimere preferenze, avere controllo sulla propria vita. <span class="c-impl">La prof sottolinea che questo dominio sarà approfondito nella lezione successiva: l'autodeterminazione si educa e si allena, e prima si comincia meglio è.</span> Esempi: scelte/decisioni, autonomia, obiettivi personali.
 
 ### Fattore Partecipazione Sociale
 
-**Relazioni interpersonali** → i contatti con familiari, amici, conoscenti. Non conta solo la quantità (quante persone nella rete), ma la qualità: relazioni dove non sei sempre "l'oggetto di cura", ma puoi anche dare qualcosa agli altri. Esempi: rete sociale, amicizie, attività sociali.
+<span class="c-def">**Relazioni interpersonali**</span> → i contatti con familiari, amici, conoscenti. Non conta solo la quantità (quante persone nella rete), ma la qualità: <span class="c-tesi">relazioni dove non sei sempre "l'oggetto di cura", ma puoi anche dare qualcosa agli altri.</span> Esempi: rete sociale, amicizie, attività sociali.
 
-**Inclusione sociale** → sentirsi parte di una comunità, non solo parteciparvi formalmente. Puoi essere fisicamente presente in un'attività comunitaria e sentirti comunque isolato. Esempi: integrazione nella comunità, ruoli nella comunità.
+<span class="c-def">**Inclusione sociale**</span> → sentirsi parte di una comunità, non solo parteciparvi formalmente. <span class="c-warn">Puoi essere fisicamente presente in un'attività comunitaria e sentirti comunque isolato.</span> Esempi: integrazione nella comunità, ruoli nella comunità.
 
-**Diritti** → la garanzia e l'esercizio effettivo dei diritti umani e legali. Non basta che i diritti esistano sulla carta: la persona deve conoscerli, sentirli e poterli vivere concretamente. Include diritti umani (rispetto, dignità, uguaglianza) e diritti legali (assistenza legale, doveri di cittadino).
+<span class="c-def">**Diritti**</span> → la garanzia e l'esercizio effettivo dei diritti umani e legali. <span class="c-warn">Non basta che i diritti esistano sulla carta: la persona deve conoscerli, sentirli e poterli vivere concretamente.</span> Include diritti umani (rispetto, dignità, uguaglianza) e diritti legali (assistenza legale, doveri di cittadino).
 
 ### Fattore Benessere
 
-**Benessere fisico** → salute, alimentazione sana, stile di vita attivo, accesso alle cure. La prof fa un esempio pratico: puoi avere indicatori oggettivi (piramide alimentare, calorie) e soggettivi (sono vegetariana, mi piacciono i peperoni rossi). Entrambi vanno considerati e tenuti in equilibrio.
+<span class="c-def">**Benessere fisico**</span> → salute, alimentazione sana, stile di vita attivo, accesso alle cure. <span class="c-es">La prof fa un esempio pratico: puoi avere indicatori oggettivi (piramide alimentare, calorie) e soggettivi (sono vegetariana, mi piacciono i peperoni rossi). Entrambi vanno considerati e tenuti in equilibrio.</span>
 
-**Benessere emozionale** → sentirsi soddisfatti di sé e della propria vita, percepire emozioni positive, avere un buon rapporto con se stessi e il mondo. Include sicurezza, prevedibilità, autostima.
+<span class="c-def">**Benessere emozionale**</span> → sentirsi soddisfatti di sé e della propria vita, percepire emozioni positive, avere un buon rapporto con se stessi e il mondo. Include sicurezza, prevedibilità, autostima.
 
-**Benessere materiale** → avere risorse economiche, effetti personali, un proprio spazio, condizioni abitative dignitose. Status finanziario, stato lavorativo, stato abitativo.
+<span class="c-def">**Benessere materiale**</span> → avere risorse economiche, effetti personali, un proprio spazio, condizioni abitative dignitose. Status finanziario, stato lavorativo, stato abitativo.
 
 ---
 
@@ -143,32 +150,32 @@ Le evidenze scientifiche mostrano che la QdV migliora quando:
 
 ### Cos'è un indicatore
 
-Gli indicatori sono **percezioni, comportamenti o condizioni specifici** che permettono di misurare la qualità di vita. Senza indicatori, la QdV rimane un'intuizione vaga ("mi sembra che l'utente stia bene"). Con gli indicatori, diventa qualcosa che puoi osservare, misurare e su cui puoi progettare.
+Gli <span class="c-def">**indicatori**</span> sono **percezioni, comportamenti o condizioni specifici** che permettono di misurare la qualità di vita. <span class="c-tesi">Senza indicatori, la QdV rimane un'intuizione vaga ("mi sembra che l'utente stia bene"). Con gli indicatori, diventa qualcosa che puoi osservare, misurare e su cui puoi progettare.</span>
 
-La prof usa la metafora di spacchettare: come non puoi "lavorare sulla sessualità" in generale, ma devi scomporla in relazioni, corpo, emozioni — così non puoi "migliorare la qualità di vita" in generale, ma devi identificare su quale dominio e quale indicatore specifico intervenire.
+<span class="c-es">La prof usa la metafora di spacchettare: come non puoi "lavorare sulla sessualità" in generale, ma devi scomporla in relazioni, corpo, emozioni — così non puoi "migliorare la qualità di vita" in generale, ma devi identificare su quale dominio e quale indicatore specifico intervenire.</span>
 
 ### Oggettivi vs. Soggettivi
 
 | Tipo | Caratteristica | Esempio |
 |---|---|---|
-| **Oggettivo** | Basato su standard condivisi | Rispetto della piramide alimentare; numero di persone nella rete sociale |
-| **Soggettivo** | Basato su preferenze e vissuti personali | "Mi piacciono i peperoni rossi"; "preferisco i gruppi piccoli" |
+| **Oggettivo** | Basato su standard condivisi | <span class="c-es">Rispetto della piramide alimentare; numero di persone nella rete sociale</span> |
+| **Soggettivo** | Basato su preferenze e vissuti personali | <span class="c-es">"Mi piacciono i peperoni rossi"; "preferisco i gruppi piccoli"</span> |
 
-Entrambi sono necessari. Se consideri solo gli oggettivi, costruisci una qualità di vita "normativa" che non corrisponde alla persona reale. Se consideri solo i soggettivi, potresti ignorare elementi importanti per la salute.
+<span class="c-warn">Entrambi sono necessari. Se consideri solo gli oggettivi, costruisci una qualità di vita "normativa" che non corrisponde alla persona reale. Se consideri solo i soggettivi, potresti ignorare elementi importanti per la salute.</span>
 
 ### I Tre Sistemi (dimensione ecologica)
 
-Cottini ricorda che il modello va visto in modo tridimensionale — i domini si muovono a tre livelli.
+<span class="c-dato">Cottini</span> ricorda che il modello va visto in modo tridimensionale — i domini si muovono a tre livelli.
 
 | Sistema | Cosa include |
 |---|---|
-| **Microsistema** | La persona stessa, la sua crescita, le sue opportunità di sviluppo |
-| **Mesosistema** | I servizi, le strutture, i progetti, gli operatori |
-| **Macrosistema** | Le politiche sociali, le leggi, la cultura |
+| <span class="c-def">**Microsistema**</span> | La persona stessa, la sua crescita, le sue opportunità di sviluppo |
+| <span class="c-def">**Mesosistema**</span> | I servizi, le strutture, i progetti, gli operatori |
+| <span class="c-def">**Macrosistema**</span> | Le politiche sociali, le leggi, la cultura |
 
-**Esempio pratico (la giostra a Mirabilandia):** una persona vuole andare su una giostra. Il desiderio è stato ascoltato (microsistema). La Convenzione ONU garantisce il diritto all'autonomia e al tempo libero (macrosistema). Ma la giostra non è accessibile per chi ha difficoltà di deambulazione (mesosistema). Risultato: il desiderio non si realizza e la qualità di vita percepita ne risente su entrambe le dimensioni.
+<span class="c-es">**Esempio pratico (la giostra a Mirabilandia):** una persona vuole andare su una giostra. Il desiderio è stato ascoltato (microsistema). La Convenzione ONU garantisce il diritto all'autonomia e al tempo libero (macrosistema). Ma la giostra non è accessibile per chi ha difficoltà di deambulazione (mesosistema). Risultato: il desiderio non si realizza e la qualità di vita percepita ne risente su entrambe le dimensioni.</span>
 
-La valutazione va fatta **nel tempo**: la QdV cambia. Quello che era importante a vent'anni è diverso da quello che conta a quaranta. I progetti vanno rivalutati e modificati continuamente. Lepri (citato indirettamente dalla prof): i progetti di vita si scrivono "a matita".
+<span class="c-impl">La valutazione va fatta **nel tempo**: la QdV cambia. Quello che era importante a vent'anni è diverso da quello che conta a quaranta. I progetti vanno rivalutati e modificati continuamente.</span> Lepri (citato indirettamente dalla prof): i progetti di vita si scrivono "a matita".
 
 ---
 
@@ -176,22 +183,22 @@ La valutazione va fatta **nel tempo**: la QdV cambia. Quello che era importante 
 
 ### Cos'è e perché è diverso dal PEI/PSI
 
-Il **progetto di vita** è lo strumento operativo principale per tradurre il paradigma della QdV nella pratica. È diverso dal PEI (Progetto Educativo Individualizzato) o dal PSI (Progetto di Sviluppo Individualizzato) perché:
+Il <span class="c-def">**progetto di vita**</span> è lo strumento operativo principale per tradurre il paradigma della QdV nella pratica. È diverso dal PEI (Progetto Educativo Individualizzato) o dal PSI (Progetto di Sviluppo Individualizzato) perché:
 
 - Non è limitato a un contesto specifico (scuola, struttura diurna, foyer)
 - Abbraccia **l'intera traiettoria di vita** della persona
 - Parte dai desideri, sogni e aspirazioni della persona
 - È co-costruito con la persona, la famiglia e la rete di riferimento
 
-La prof fa un esempio concreto: spesso i progetti del foyer (abitativo) e del centro diurno (lavorativo) non si parlano tra loro. Peggio ancora, possono avere obiettivi contraddittori — uno che lavora sulla socialità, l'altro che lavora sulla concentrazione individuale. Questo crea confusione, soprattutto per persone con disabilità intellettiva. Il progetto di vita è la cornice che dà coerenza a tutto.
+<span class="c-es">La prof fa un esempio concreto: spesso i progetti del foyer (abitativo) e del centro diurno (lavorativo) non si parlano tra loro. Peggio ancora, possono avere obiettivi contraddittori — uno che lavora sulla socialità, l'altro che lavora sulla concentrazione individuale. Questo crea confusione, soprattutto per persone con disabilità intellettiva.</span> <span class="c-impl">Il progetto di vita è la cornice che dà coerenza a tutto.</span>
 
-> "I progetti individuali nascono e si riconducono al progetto di vita… non dovremmo trovare obiettivi contraddittori." (Turati e Pozzi, 2024)
+> "I progetti individuali nascono e si riconducono al progetto di vita… non dovremmo trovare obiettivi contraddittori." (<span class="c-dato">Turati e Pozzi, 2024</span>)
 
 ### La legge italiana
 
-La prof menziona che in Italia è stata varata una legge apposita sul "progetto di vita individuale" che richiede a ogni ASL di designare un **case manager**: la figura responsabile di co-costruire il progetto di vita con la persona e la sua famiglia, in modo trasversale a tutti i contesti di vita.
+La prof menziona che in Italia è stata varata una legge apposita sul "progetto di vita individuale" che richiede a ogni ASL di designare un <span class="c-def">**case manager**</span>: la figura responsabile di co-costruire il progetto di vita con la persona e la sua famiglia, in modo trasversale a tutti i contesti di vita.
 
-In Svizzera/Ticino questa figura non è ancora formalizzata. Nella pratica, è spesso il genitore a svolgere questa funzione — a volte per tutta la vita del figlio.
+<span class="c-warn">In Svizzera/Ticino questa figura non è ancora formalizzata. Nella pratica, è spesso il genitore a svolgere questa funzione — a volte per tutta la vita del figlio.</span>
 
 ### Come si co-costruisce (Turati e Pozzi, 2024)
 
@@ -201,10 +208,8 @@ Co-costruire un progetto di vita significa:
 - Programmare obiettivi e sostegni **partendo dai desideri e aspirazioni della persona**
 - Monitorare e valutare gli esiti in termini di QdV
 
-Il punto di partenza è sempre il **desiderio**. Come scrivono Turati e Pozzi:
-> "Il progetto di vita realizza i desideri delle persone con disabilità. Ogni altro scopo, che parta da altri presupposti, lo svuota di senso."
-
-La parola "bisogno" e la parola "sogno" si assomigliano molto — e forse non è un caso.
+<span class="c-tesi">Il punto di partenza è sempre il **desiderio**. Come scrivono Turati e Pozzi:
+> "Il progetto di vita realizza i desideri delle persone con disabilità. Ogni altro scopo, che parta da altri presupposti, lo svuota di senso."</span>
 
 ---
 
@@ -212,27 +217,27 @@ La parola "bisogno" e la parola "sogno" si assomigliano molto — e forse non è
 
 ### Cos'è e a cosa serve
 
-La valutazione iniziale (o **assessment**) è il primo passo di ogni progettazione. Il suo scopo è conoscere i desideri della persona e confrontarli con la situazione attuale, per capire quale cambiamento vogliamo raggiungere.
+La valutazione iniziale (o <span class="c-def">**assessment**</span>) è il primo passo di ogni progettazione. Il suo scopo è conoscere i desideri della persona e confrontarli con la situazione attuale, per capire quale cambiamento vogliamo raggiungere.
 
-Si chiama anche **valutazione multidimensionale** perché adotta uno sguardo ecologico: tiene in considerazione sia le caratteristiche individuali sia quelle del contesto.
+Si chiama anche <span class="c-def">**valutazione multidimensionale**</span> perché adotta uno sguardo ecologico: tiene in considerazione sia le caratteristiche individuali sia quelle del contesto.
 
 ### Il "modo di essere" di Carl Rogers
 
-Turati e Pozzi richiamano Rogers (1902-1987): per fare una buona valutazione, l'operatore deve avere una predisposizione relazionale basata su tre elementi:
+<span class="c-dato">Turati e Pozzi</span> richiamano <span class="c-dato">Rogers (1902-1987)</span>: per fare una buona valutazione, l'operatore deve avere una predisposizione relazionale basata su tre elementi:
 
-1. **Autenticità**: essere sincero nell'intenzione di capire, senza maschere o atteggiamenti preimpostati
-2. **Accettazione incondizionata**: posizione di accoglienza e non giudizio
-3. **Empatia**: comprendere senza immedesimarsi totalmente, mantenendo lucidità e libertà di pensiero
+1. <span class="c-def">**Autenticità**</span>: essere sincero nell'intenzione di capire, senza maschere o atteggiamenti preimpostati
+2. <span class="c-def">**Accettazione incondizionata**</span>: posizione di accoglienza e non giudizio
+3. <span class="c-def">**Empatia**</span>: comprendere senza immedesimarsi totalmente, mantenendo lucidità e libertà di pensiero
 
-Questa predisposizione viene **prima** delle competenze tecniche.
+<span class="c-tesi">Questa predisposizione viene **prima** delle competenze tecniche.</span>
 
 ### Il rischio del "services-led assessment"
 
-Un rischio reale: l'operatore può finire per valutare non in base ai bisogni reali, ma in base ai servizi disponibili. Se so che posso offrire solo servizio A o B, tenderò a "vedere" solo i problemi che A o B risolvono.
+Un rischio reale: <span class="c-warn">l'operatore può finire per valutare non in base ai bisogni reali, ma in base ai servizi disponibili. Se so che posso offrire solo servizio A o B, tenderò a "vedere" solo i problemi che A o B risolvono.</span>
 
 | Da evitare | Obiettivo |
 |---|---|
-| Services-led assessment (valutazione guidata dai servizi) | Needs-led assessment (valutazione guidata dal bisogno) |
+| <span class="c-warn">Services-led assessment (valutazione guidata dai servizi)</span> | <span class="c-def">Needs-led assessment (valutazione guidata dal bisogno)</span> |
 
 ### Gli strumenti di valutazione
 
@@ -242,17 +247,17 @@ La valutazione si può fare attraverso:
 - **Osservazioni documentali**: leggere materiale esistente sulla persona
 - **Interviste a familiari e operatori di riferimento** (necessarie quando la comunicazione diretta è limitata)
 
-Attenzione: con persone che hanno difficoltà di comunicazione, lo strumento dell'intervista va adattato — lingua facile, CAA (Comunicazione Aumentativa e Alternativa), immagini e simboli.
+<span class="c-warn">Attenzione: con persone che hanno difficoltà di comunicazione, lo strumento dell'intervista va adattato — lingua facile, CAA (Comunicazione Aumentativa e Alternativa), immagini e simboli.</span>
 
 ### L'esercizio pratico in classe
 
-La prof ha fatto sperimentare in classe un'intervista strutturata sul dominio dell'autodeterminazione. Obiettivo: allenare la capacità di tradurre un dominio in domande concrete, e bilanciare indicatori oggettivi e soggettivi. L'utente che veniva intervistato doveva dare feedback: "questa domanda la capisco?" — esercizio fondamentale per chi lavorerà con persone che hanno difficoltà di comprensione.
+<span class="c-es">La prof ha fatto sperimentare in classe un'intervista strutturata sul dominio dell'autodeterminazione. Obiettivo: allenare la capacità di tradurre un dominio in domande concrete, e bilanciare indicatori oggettivi e soggettivi. L'utente che veniva intervistato doveva dare feedback: "questa domanda la capisco?" — esercizio fondamentale per chi lavorerà con persone che hanno difficoltà di comprensione.</span>
 
 ---
 
 ## I PEI/PSI come Tasselli del Progetto di Vita
 
-I Progetti Educativi Individualizzati e i Progetti di Sviluppo Individualizzati non sono alternativi al progetto di vita: sono **tasselli** di esso. Devono essere coerenti con gli obiettivi e la direzione del progetto di vita.
+<span class="c-impl">I Progetti Educativi Individualizzati e i Progetti di Sviluppo Individualizzati non sono alternativi al progetto di vita: sono **tasselli** di esso. Devono essere coerenti con gli obiettivi e la direzione del progetto di vita.</span>
 
 Caratteristiche fondamentali del PSI (secondo il modello ICF):
 - Aree di valutazione: funzioni corporee, strutture corporee, attività personali, partecipazione sociale, fattori contestuali ambientali, fattori contestuali personali
@@ -265,18 +270,18 @@ Caratteristiche fondamentali del PSI (secondo il modello ICF):
 
 ## La Ricerca in Ticino (laRegione, 2023)
 
-Elisa Geronimi (SUPSI) ha condotto una ricerca sulla qualità di vita delle persone con disabilità intellettiva nelle strutture socio-educative ticinesi.
+<span class="c-dato">Elisa Geronimi (SUPSI)</span> ha condotto una ricerca sulla qualità di vita delle persone con disabilità intellettiva nelle strutture socio-educative ticinesi.
 
 **Risultati principali:**
 - **Buon livello generale** di QdV
-- **Migliori risultati**: benessere emozionale e benessere fisico
-- **Domini più critici**: inclusione sociale e diritti
+- <span class="c-dato">**Migliori risultati**: benessere emozionale e benessere fisico</span>
+- <span class="c-warn">**Domini più critici**: inclusione sociale e diritti</span>
 
 **Cosa migliora la QdV:**
 - Prestazioni socio-professionali (laboratorio protetto) > prestazioni socio-occupazionali
 - Contesto comunitario (vivere con la famiglia) > contesto istituzionale
 - Maggiore autonomia (comportamento adattivo) → migliore QdV
-- **Le variabili ambientali contano più di quelle personali** — importante per noi operatori, perché significa che possiamo intervenire!
+- <span class="c-tesi">**Le variabili ambientali contano più di quelle personali** — importante per noi operatori, perché significa che possiamo intervenire!</span>
 
 ---
 
@@ -304,21 +309,21 @@ La ricerca condotta da Elisa Geronimi sulle strutture socio-educative ticinesi m
 
 | Termine | Significato |
 |---|---|
-| **Paradigma** | Insieme di teorie e metodologie che fanno da sfondo concettuale alla pratica |
-| **QdV** | Qualità di Vita — percezione soggettiva e multidimensionale del proprio benessere |
-| **Meta-modello** | Modello che sintetizza molti altri modelli e ricerche (Schalock e Verdugo) |
-| **Dominio** | Area tematica della QdV (es. autodeterminazione, benessere fisico) |
-| **Indicatore** | Elemento specifico e osservabile che misura un aspetto della QdV |
-| **Assessment** | Valutazione iniziale per conoscere la situazione e i desideri della persona |
-| **Progetto di vita** | Progettazione globale e longitudinale che abbraccia tutta la vita della persona |
-| **PEI/PSI** | Progetti individualizzati su specifici contesti — tasselli del progetto di vita |
-| **Case manager** | Figura che coordina il progetto di vita trasversalmente a tutti i contesti |
-| **Microsistema** | Livello della persona e del suo sviluppo |
-| **Mesosistema** | Livello dei servizi, delle strutture, degli operatori |
-| **Macrosistema** | Livello delle politiche sociali e delle leggi |
-| **Services-led assessment** | Valutazione guidata dai servizi disponibili (da evitare) |
-| **Needs-led assessment** | Valutazione guidata dai bisogni reali della persona (obiettivo) |
-| **Empowerment** | Processo che trasferisce alle persone il potere di esigere i propri diritti |
+| <span class="c-def">**Paradigma**</span> | Insieme di teorie e metodologie che fanno da sfondo concettuale alla pratica |
+| <span class="c-def">**QdV**</span> | Qualità di Vita — percezione soggettiva e multidimensionale del proprio benessere |
+| <span class="c-def">**Meta-modello**</span> | Modello che sintetizza molti altri modelli e ricerche (<span class="c-dato">Schalock e Verdugo</span>) |
+| <span class="c-def">**Dominio**</span> | Area tematica della QdV (<span class="c-es">es. autodeterminazione, benessere fisico</span>) |
+| <span class="c-def">**Indicatore**</span> | Elemento specifico e osservabile che misura un aspetto della QdV |
+| <span class="c-def">**Assessment**</span> | Valutazione iniziale per conoscere la situazione e i desideri della persona |
+| <span class="c-def">**Progetto di vita**</span> | Progettazione globale e longitudinale che abbraccia tutta la vita della persona |
+| <span class="c-def">**PEI/PSI**</span> | Progetti individualizzati su specifici contesti — tasselli del progetto di vita |
+| <span class="c-def">**Case manager**</span> | Figura che coordina il progetto di vita trasversalmente a tutti i contesti |
+| <span class="c-def">**Microsistema**</span> | Livello della persona e del suo sviluppo |
+| <span class="c-def">**Mesosistema**</span> | Livello dei servizi, delle strutture, degli operatori |
+| <span class="c-def">**Macrosistema**</span> | Livello delle politiche sociali e delle leggi |
+| <span class="c-warn">**Services-led assessment**</span> | Valutazione guidata dai servizi disponibili (da evitare) |
+| <span class="c-def">**Needs-led assessment**</span> | Valutazione guidata dai bisogni reali della persona (obiettivo) |
+| <span class="c-def">**Empowerment**</span> | Processo che trasferisce alle persone il potere di esigere i propri diritti |
 
 ---
 
@@ -331,10 +336,10 @@ La ricerca condotta da Elisa Geronimi sulle strutture socio-educative ticinesi m
 
 | Autore | Contributo |
 |---|---|
-| Schalock e Verdugo (2006) | Meta-modello della QdV — 3 fattori, 8 domini |
-| Cottini (2016) | QdV come macro-finalità e strumento di valutazione; dimensione ecologica |
-| Turati e Pozzi (2024) | Progetto di vita e disabilità — valutazione multidimensionale |
-| Geronimi / SUPSI (2023) | Ricerca sulla QdV in Ticino |
-| Croce / Anffas (2015) | Dal concetto intuitivo agli strumenti operativi |
-| Edgerton (1990) | Prima critica alla mancanza di dati sulla QdV nelle persone con disabilità |
-| Rogers (1902-1987) | Autenticità, accettazione incondizionata, empatia nella valutazione |
+| <span class="c-dato">Schalock e Verdugo (2006)</span> | Meta-modello della QdV — 3 fattori, 8 domini |
+| <span class="c-dato">Cottini (2016)</span> | QdV come macro-finalità e strumento di valutazione; dimensione ecologica |
+| <span class="c-dato">Turati e Pozzi (2024)</span> | Progetto di vita e disabilità — valutazione multidimensionale |
+| <span class="c-dato">Geronimi / SUPSI (2023)</span> | Ricerca sulla QdV in Ticino |
+| <span class="c-dato">Croce / Anffas (2015)</span> | Dal concetto intuitivo agli strumenti operativi |
+| <span class="c-dato">Edgerton (1990)</span> | Prima critica alla mancanza di dati sulla QdV nelle persone con disabilità |
+| <span class="c-dato">Rogers (1902-1987)</span> | Autenticità, accettazione incondizionata, empatia nella valutazione |

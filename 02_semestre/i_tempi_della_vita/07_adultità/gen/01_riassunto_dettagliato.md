@@ -1,6 +1,15 @@
 # Adultità
 I Tempi della Vita · Sessione 07
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 > Questa lezione è una di quelle che ti riguarda in prima persona, Jony.
 > A 30 anni sei esattamente dentro la "prima adultità" descritta da Levinson —
 > quel momento in cui si smette di esplorare alla cieca e si inizia a costruire
@@ -12,11 +21,11 @@ I Tempi della Vita · Sessione 07
 ## Cos'è l'adultità? Quattro punti di vista
 
 Il concetto di **adultità** non ha una definizione unica. Viene affrontato da
-quattro angolazioni diverse — e ognuna illumina una faccia differente dello
-stesso prisma.
+<span class="c-tesi">quattro angolazioni diverse — e ognuna illumina una faccia differente dello
+stesso prisma.</span>
 
 ### 1. Etimologico
-Dal latino **adultus** = cresciuto, sviluppato, maturo. Riferito a chi ha
+Dal latino <span class="c-dato">**adultus**</span> = <span class="c-def">cresciuto, sviluppato, maturo</span>. Riferito a chi ha
 raggiunto il completo sviluppo fisico e psichico. Semplice, ma già ci dice
 qualcosa: l'adulto è qualcuno che ha *completato* qualcosa.
 
@@ -26,18 +35,18 @@ La società fissa dei marcatori legali:
 - Possibilità di contrarre contratti, sposarsi, prendere la patente
 - Responsabilità penale
 
-Questi criteri definiscono chi è adulto *sulla carta*. Ma come vedremo, non
-bastano da soli.
+<span class="c-warn">Questi criteri definiscono chi è adulto *sulla carta*. Ma come vedremo, non
+bastano da soli.</span>
 
 ### 3. Cronologico
-Convenzionalmente, l'adultità copre la fascia **20-60 anni**. Alcuni autori
+Convenzionalmente, l'adultità copre la fascia <span class="c-dato">**20-60 anni**</span>. Alcuni autori
 la suddividono in:
 - **Prima adultità:** giovinezza (20-30) + età matura (30-40/45)
 - **Seconda adultità (mezz'età):** dai 40-45 ai 65 anni
 
 ### 4. Psicologico
-Qui si apre il territorio più ricco — e quello che vale davvero la pena
-approfondire. I grandi teorici della psicologia hanno ognuno la propria lettura.
+<span class="c-tesi">Qui si apre il territorio più ricco — e quello che vale davvero la pena
+approfondire.</span> I grandi teorici della psicologia hanno ognuno la propria lettura.
 
 ---
 
@@ -45,7 +54,7 @@ approfondire. I grandi teorici della psicologia hanno ognuno la propria lettura.
 
 ### Carl Gustav Jung (1875–1961) — Il processo di individuazione
 
-Jung è il fondatore della **psicologia del profondo**. La sua visione si
+<span class="c-dato">Jung</span> è il fondatore della <span class="c-def">**psicologia del profondo**</span>. La sua visione si
 distacca nettamente da Freud su punti fondamentali:
 
 | Freud | Jung |
@@ -55,72 +64,72 @@ distacca nettamente da Freud su punti fondamentali:
 | Psiche = Es, Io, Super-Io | Psiche = Io, inconscio personale, inconscio collettivo |
 | Dominata dal conflitto | Orientata all'integrazione |
 
-Per Jung, il cuore dell'adultità è il processo di **individuazione**: il percorso
-con cui l'individuo emerge dall'indifferenziazione e diventa pienamente se stesso.
-Questo processo si attiva in modo decisivo nella **"fase di mezzo"** (intorno ai
-40 anni), ma inizia a prendere forma già prima.
+Per Jung, il cuore dell'adultità è il processo di <span class="c-def">**individuazione**</span>: <span class="c-tesi">il percorso
+con cui l'individuo emerge dall'indifferenziazione e diventa pienamente se stesso.</span>
+Questo processo si attiva in modo decisivo nella <span class="c-def">**"fase di mezzo"**</span> (intorno ai
+<span class="c-dato">40 anni</span>), ma inizia a prendere forma già prima.
 
-Nel testo *Le diverse età dell'uomo* (1930), Jung chiama la fase dai 35-40 anni
+Nel testo <span class="c-dato">*Le diverse età dell'uomo* (1930)</span>, Jung chiama la fase dai <span class="c-dato">35-40 anni</span>
 **"l'età del dubbio"**: i sogni dell'infanzia si spezzano, appare un "secondo Io"
 che sfida quello infantile. Nasce qui la tensione tra due archetipi:
 
-- **Puer:** la parte immatura, infantile, creativa. Spinge all'esplorazione, al
+- <span class="c-def">**Puer:**</span> la parte immatura, infantile, creativa. Spinge all'esplorazione, al
   vagabondaggio, all'inquietudine. È la forza rigeneratrice.
-- **Senex:** la parte responsabile, stabile, ordinata. Lavoro, limiti, sopravvivenza.
+- <span class="c-def">**Senex:**</span> la parte responsabile, stabile, ordinata. Lavoro, limiti, sopravvivenza.
 
-Pensa al puer come al seme di una pianta selvatica — vuole espandersi ovunque,
+<span class="c-es">Pensa al puer come al seme di una pianta selvatica — vuole espandersi ovunque,
 senza confini. Il senex è il tutore che gli dà forma e direzione. L'adultità
 matura è quella pianta che ha trovato il suo equilibrio tra radici profonde
-e rami che si allungano verso la luce.
+e rami che si allungano verso la luce.</span>
 
-> **L'adultità secondo Jung = zona psicologica in equilibrio tra puer e senex.**
+> <span class="c-tesi">**L'adultità secondo Jung = zona psicologica in equilibrio tra puer e senex.**</span>
 
 La maturità si realizza quando l'individuo ha il coraggio di sostenere in prima
 persona le proprie idee. Vale la famosa citazione:
 
 > *"La verità del mattino costituisce l'errore della sera."*
 
-Non si può vivere la seconda metà della vita con il programma della prima.
+<span class="c-impl">Non si può vivere la seconda metà della vita con il programma della prima.</span>
 
 ---
 
 ### Erik H. Erikson — Stadi psicosociali
 
-Erikson introduce una novità fondamentale: lo sviluppo **non si ferma
-all'adolescenza**, ma continua per tutta la vita. La crescita adulta non dipende
+<span class="c-dato">Erikson</span> introduce una novità fondamentale: <span class="c-tesi">lo sviluppo **non si ferma
+all'adolescenza**, ma continua per tutta la vita.</span> La crescita adulta non dipende
 solo dalla libido (Freud), ma anche dall'**interazione con la società**.
 
 I due stadi rilevanti per l'adultità:
 
-**Stadio 6: Intimità vs Isolamento (20-29 anni)**
+**Stadio 6: <span class="c-def">Intimità vs Isolamento</span> (<span class="c-dato">20-29 anni</span>)**
 - *Intimità:* capacità di costruire un "noi" autentico al di fuori della famiglia
 - *Isolamento:* la paura di perdersi porta a evitare le relazioni; rapporti
   freddi e stereotipati
 
-**Stadio 7: Generatività vs Stagnazione (30-60 anni)**
+**Stadio 7: <span class="c-def">Generatività vs Stagnazione</span> (<span class="c-dato">30-60 anni</span>)**
 - *Generatività:* interesse a guidare le generazioni future, essere produttivi
   (genitorialità, lavoro)
 - *Stagnazione:* auto-assorbimento, noia, blocco della crescita psicologica,
   impoverimento della vita sociale
 
 Jony, nota che sei esattamente nel passaggio tra il 6° e il 7° stadio. Il 6° —
-l'intimità — l'hai attraversato. Adesso inizia il territorio della generatività:
+l'intimità — l'hai attraversato. <span class="c-impl">Adesso inizia il territorio della generatività:
 costruire qualcosa che lasci un segno, che abbia un impatto sulle persone e sul
-mondo intorno a te. Il corso in Lavoro Sociale è già una forma di generatività.
+mondo intorno a te.</span> Il corso in Lavoro Sociale è già una forma di generatività.
 
 ---
 
 ### Daniel Levinson (1920–1994) — Le stagioni della vita
 
-Levinson ha condotto uno studio empirico ambizioso sullo sviluppo adulto (*The
-Seasons of a Man's Life*, 1978; *The Seasons of a Woman's Life*, 1997). La sua
+<span class="c-dato">Levinson</span> ha condotto uno studio empirico ambizioso sullo sviluppo adulto (<span class="c-dato">*The
+Seasons of a Man's Life*, 1978; *The Seasons of a Woman's Life*, 1997</span>). La sua
 metafora? La vita come un susseguirsi di **stagioni**.
 
-Il modello prevede un'**alternanza ritmica** tra:
-- **Periodi di stabilità** (6-10 anni): costruzione di una struttura di vita
-- **Periodi di transizione** (4-5 anni): revisione, riorganizzazione, cambiamento
+Il modello prevede un'<span class="c-def">**alternanza ritmica**</span> tra:
+- **Periodi di stabilità** (<span class="c-dato">6-10 anni</span>): costruzione di una struttura di vita
+- **Periodi di transizione** (<span class="c-dato">4-5 anni</span>): revisione, riorganizzazione, cambiamento
 
-La **struttura di vita** — cioè chi sei in quel momento — può essere guardata da
+La <span class="c-def">**struttura di vita**</span> — cioè chi sei in quel momento — può essere guardata da
 tre angolazioni:
 1. Influenza del contesto socioculturale
 2. Il sé interiore (desideri, conflitti, ansie e modi di risolverli)
@@ -133,29 +142,29 @@ Nelle transizioni si compie un lavoro in cinque passaggi:
 - Decidere quali aspetti conservare e quali abbandonare
 - Considerare desideri e possibilità per il futuro
 
-Le transizioni sono segnate da **marker events** — eventi che portano un
+Le transizioni sono segnate da <span class="c-def">**marker events**</span> — <span class="c-impl">eventi che portano un
 cambiamento concreto: matrimonio, pensionamento, malattia, morte, traumi. Questi
-eventi assumono significati diversi in base alla storia di vita in cui si inseriscono.
+eventi assumono significati diversi in base alla storia di vita in cui si inseriscono.</span>
 
 #### Le fasi della prima adultità — la Novice Phase
 
 Pensa a questa fase come all'apprendistato dell'adultità. Levinson la chiama
-**Novice Phase** e la divide in tre momenti. Già te ne intendi di apprendistati...
+<span class="c-def">**Novice Phase**</span> e la divide in tre momenti.
 
-**Early Adult Transition (EAT) — il ponte**
+**<span class="c-def">Early Adult Transition (EAT)</span> — il ponte**
 - Separazione dal mondo pre-adulto e dalla famiglia d'origine
 - Crescente indipendenza economica, abbandono della casa, ruoli autonomi
 - Compiti: *terminare* (il passato) e *iniziare* (qualcosa di nuovo)
 
-**Entering the Adult World (EAW) — la prima costruzione**
+**<span class="c-def">Entering the Adult World (EAW)</span> — la prima costruzione**
 - Prima struttura adulta (ancora provvisoria)
 - Verifica, ridefinizione, consolidamento
 - Compiti: esplorare le possibilità del mondo adulto e raggiungere stabilità,
   ordine, radicamento
 
-**Age Thirty Transition (ATT) — il momento della verità**
+**<span class="c-def">Age Thirty Transition (ATT)</span> — il momento della verità**
 - Opportunità di modificare la prima struttura adulta
-- Presa di coscienza che il tempo non è infinito
+- <span class="c-warn">Presa di coscienza che il tempo non è infinito</span>
 - Spesso una fase di stress — il carattere provvisorio della vita sta finendo
 
 Questi tre periodi hanno quattro compiti centrali:
@@ -167,28 +176,28 @@ Questi tre periodi hanno quattro compiti centrali:
 | Trovare un'occupazione | Radicarsi professionalmente |
 | Costruire reciprocità | Relazioni mature e simmetriche |
 
-Il **Sogno** è cruciale: è una visione di sé ancora poco articolata, non
-completamente connessa alla realtà, ma è il motore che muove tutto. Si integra
-gradualmente nella struttura di vita. Inizialmente entusiasmante, richiede poi
-di fare i conti con i limiti del reale.
+Il <span class="c-def">**Sogno**</span> è cruciale: <span class="c-tesi">è una visione di sé ancora poco articolata, non
+completamente connessa alla realtà, ma è il motore che muove tutto.</span> Si integra
+gradualmente nella struttura di vita. <span class="c-warn">Inizialmente entusiasmante, richiede poi
+di fare i conti con i limiti del reale.</span>
 
 #### Le fasi della seconda adultità
 
-**Settling Down (SD)**
+**<span class="c-def">Settling Down (SD)</span>**
 - Consolidamento della seconda struttura di vita
 - Stabilizzazione delle scelte
 - Ambivalenza tra ricerca di affermazione sociale e desiderio di libertà
 
-**Mid-life Transition (MLT)**
+**<span class="c-def">Mid-life Transition (MLT)</span>**
 - Emergono preoccupazioni su avanzamento, affermazione, anzianità
 - Avanza il processo di individuazione
 
-**Entering Middle Adulthood (EMA)**
+**<span class="c-def">Entering Middle Adulthood (EMA)</span>**
 - Nuova costruzione strutturale
-- Talvolta richiede rivoluzioni (divorzio, cambio di lavoro, trasloco)
+- <span class="c-es">Talvolta richiede rivoluzioni (divorzio, cambio di lavoro, trasloco)</span>
 
-**Age 50 Transition**
-- Crisi per chi non ha "modificato abbastanza" durante la transizione di mezza età
+**<span class="c-def">Age 50 Transition</span>**
+- <span class="c-warn">Crisi per chi non ha "modificato abbastanza" durante la transizione di mezza età</span>
 
 #### Le quattro polarità di Levinson
 
@@ -199,30 +208,30 @@ Tensioni interne che l'individuo integra nel corso dell'adultità:
 - **Distruzione vs Creazione**
 - **Attaccamento vs Separazione**
 
-In sintesi: il corso della vita è una sequenza di fasi alternanti di
+<span class="c-tesi">In sintesi: il corso della vita è una sequenza di fasi alternanti di
 **cambiamento e consolidamento**. **Essere adulto = essere disponibile al
-cambiamento.**
+cambiamento.**</span>
 
 ---
 
 ## Essere adulto: cinque dimensioni
 
-L'adultità non è solo un'età — è qualcosa che si costruisce su **cinque piani**
-interdipendenti.
+<span class="c-tesi">L'adultità non è solo un'età — è qualcosa che si costruisce su **cinque piani**
+interdipendenti.</span>
 
 ### Dimensione Fisica
-Stabilità di sviluppo e accettazione del proprio corpo. Non è solo biologia: il
-corpo è una **componente attiva** dello sviluppo, non uno sfondo passivo.
+Stabilità di sviluppo e accettazione del proprio corpo. <span class="c-impl">Non è solo biologia: il
+corpo è una **componente attiva** dello sviluppo, non uno sfondo passivo.</span>
 
 ### Dimensione Personologica
 - Capacità di controllo degli impulsi
 - Agire autonomamente sul piano della realtà
-- **Funzioni esecutive:** pianificazione, organizzazione, regolazione e
+- <span class="c-def">**Funzioni esecutive:**</span> pianificazione, organizzazione, regolazione e
   monitoraggio del comportamento
 
 ### Dimensione Intellettuale — Il pensiero adulto
 
-Il modello di **Warner Schaie** (1977-78) descrive come cambia la cognizione nel
+Il modello di <span class="c-dato">**Warner Schaie** (1977-78)</span> descrive come cambia la cognizione nel
 corso della vita:
 
 | Fase | Scopo cognitivo | Periodo | Focus |
@@ -231,9 +240,9 @@ corso della vita:
 | Realizzativa/Esecutiva | Applicare | Età adulta | Usare le conoscenze per obiettivi concreti |
 | Reintegrativa | Selezionare | Terza età | Pensare solo a ciò che ha valore personale |
 
-Il **pensiero adulto** si distingue da quello adolescenziale: mentre il ragazzo
+<span class="c-tesi">Il **pensiero adulto** si distingue da quello adolescenziale: mentre il ragazzo
 tende a pensare in assoluti razionali, l'adulto sviluppa un pensiero **soggettivo,
-pratico e integrativo** — sa compensare una minore velocità di assimilazione
+pratico e integrativo**</span> — sa compensare una minore velocità di assimilazione
 con una maggiore capacità di integrare le informazioni.
 
 La transizione cognitiva avviene attraverso tre domande:
@@ -241,23 +250,23 @@ La transizione cognitiva avviene attraverso tre domande:
 2. *"In che modo devo usare quello che so?"* → decisione e responsabilità
 3. *"Perché?"* → selezione di ciò che ha significato personale
 
-Quest'ultimo livello è il **pensiero post-formale** (5° stadio): il livello
+Quest'ultimo livello è il <span class="c-def">**pensiero post-formale** (5° stadio)</span>: il livello
 cognitivo maturo dell'adulto, che non cerca più la risposta giusta assoluta ma
 la risposta giusta *per sé*.
 
 ### Dimensione Relazionale — La generatività
 
-La **generatività** è la capacità di relazionarsi con gli altri e costruire
+La <span class="c-def">**generatività**</span> è <span class="c-tesi">la capacità di relazionarsi con gli altri e costruire
 rapporti intimi e d'amore, ma anche il bisogno psichico di occuparsi delle
-generazioni future e lasciare un impatto positivo.
+generazioni future e lasciare un impatto positivo.</span>
 
 > *"Ogni vita risulta generativa quando è consapevole dell'impatto che lascia
 > sul suo contesto e si adopera perché questo sia positivo."*
 
-La **genitorialità** è uno degli aspetti della generatività — ma non l'unico.
+La <span class="c-def">**genitorialità**</span> è uno degli aspetti della generatività — ma non l'unico.
 È definita come lo spazio mentale e relazionale in cui convergono affetti,
-attaccamento, narcisismo, fantasie e storia personale. Non presuppone la nascita
-di un figlio reale: è uno spazio interno che fa parte dello sviluppo di ogni persona.
+attaccamento, narcisismo, fantasie e storia personale. <span class="c-warn">Non presuppone la nascita
+di un figlio reale: è uno spazio interno che fa parte dello sviluppo di ogni persona.</span>
 
 Le 12 funzioni della genitorialità:
 
@@ -278,9 +287,9 @@ Le 12 funzioni della genitorialità:
 
 ### Dimensione Professionale — Il lavoro
 
-Il lavoro svolge un ruolo **fondamentale** nell'adultità. Oltre al sostentamento,
+Il lavoro svolge un ruolo <span class="c-tesi">**fondamentale** nell'adultità.</span> Oltre al sostentamento,
 struttura la quotidianità e costituisce una delle principali fonti dell'identità
-e del senso di valore personale (Bandura, 1995):
+e del senso di valore personale (<span class="c-dato">Bandura, 1995</span>):
 
 Le funzioni del lavoro:
 - Sostentamento
@@ -290,9 +299,9 @@ Le funzioni del lavoro:
 - Riconoscimento del proprio valore
 - Scansione e organizzazione del tempo
 
-Il lavoro può essere occasione di soddisfazione e maturazione, ma anche fonte
-di frustrazione e traumi. La sua assenza o precarietà ha un costo identitario
-reale — non solo economico.
+<span class="c-impl">Il lavoro può essere occasione di soddisfazione e maturazione, ma anche fonte
+di frustrazione e traumi.</span> <span class="c-warn">La sua assenza o precarietà ha un costo identitario
+reale — non solo economico.</span>
 
 ---
 
@@ -304,15 +313,15 @@ di sé stessi, in relazione al contesto di appartenenza.
 
 Una metafora potente dalle slide:
 
-> *"Un puzzle comprato in negozio ha l'immagine finale già stampata sul
+> <span class="c-es">*"Un puzzle comprato in negozio ha l'immagine finale già stampata sul
 > coperchio [...]. Nessuna di queste agevolazioni è disponibile nel momento in
 > cui componi la tua identità. Tu non parti dall'immagine finale ma da una certa
 > quantità di pezzi di cui sei già entrato in possesso [...] e cerchi di scoprire
 > come ordinarli e riordinarli per ottenere un certo numero di immagini
-> soddisfacenti."*
+> soddisfacenti."*</span>
 
-L'identità emerge soprattutto nei momenti di **crisi**, quando ciò che sembrava
-stabile si rivela fragile. Ed è **polimorfa**: composizione di colori diversi —
+<span class="c-tesi">L'identità emerge soprattutto nei momenti di **crisi**, quando ciò che sembrava
+stabile si rivela fragile.</span> Ed è <span class="c-def">**polimorfa**</span>: composizione di colori diversi —
 infanzia, adolescenza, adultità, vecchiaia — tutti insieme.
 
 ---
@@ -323,9 +332,9 @@ Fenomeno sociale contemporaneo crescente: la distinzione tra giovane e adulto
 è sempre più sfumata. La società viene descritta come **"senza adulti"** o
 di **"eterni adolescenti"**.
 
-**Adultescente** (Zingarelli 2014): persona tra i 20 e i 30 anni le cui
+<span class="c-def">**Adultescente**</span> (<span class="c-dato">Zingarelli 2014</span>): persona tra i <span class="c-dato">20 e i 30 anni</span> le cui
 condizioni di vita e mentalità sono simili a quelle di un adolescente.
-In cultura anglosassone: **"kidult"** (kid + adult).
+In cultura anglosassone: <span class="c-dato">**"kidult"**</span> (kid + adult).
 
 Le caratteristiche:
 - Forte attenzione all'immagine corporea
@@ -335,15 +344,15 @@ Le caratteristiche:
 - Modalità di socializzazione gruppale
 - Mito del giovanilismo, "fuga dall'invecchiamento"
 
-È una **medaglia a due facce**:
+È una <span class="c-warn">**medaglia a due facce**</span>:
 
 | Polo negativo | Polo positivo |
 |--------------|--------------|
 | Adolescente immobile, bloccato, senza progettualità | Caratteristiche adolescenziali che mantengono viva la tensione di crescere |
 | Adulto infantilizzato, narcisista, che abdica al proprio ruolo | Immaturità creativa che permette di attraversare le età senza sentirsi "del tutto arrivati" |
 
-La definizione resta **inafferrabile**: l'adultescente è l'associazione di due
-incertezze. Non è possibile fissare caratteristiche distintive rigide.
+<span class="c-warn">La definizione resta **inafferrabile**: l'adultescente è l'associazione di due
+incertezze. Non è possibile fissare caratteristiche distintive rigide.</span>
 
 ---
 

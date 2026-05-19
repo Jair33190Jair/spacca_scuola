@@ -1,30 +1,39 @@
 # L'ICF — Schema
 Percorsi nelle disabilità · Sessione 06
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 ---
 
 ## Identità dello strumento
 
-- **ICF** → Classificazione Internazionale del Funzionamento, della Disabilità e della Salute
-- **Ente** → OMS (Organizzazione Mondiale della Sanità)
-- **Anno** → 2001 (traduzione italiana 2002)
-- **Versioni** → ICF classico (adulti) · ICF-CY (0-18 anni, 2007) · ICF versione breve
+- <span class="c-def">**ICF** → Classificazione Internazionale del Funzionamento, della Disabilità e della Salute</span>
+- **Ente** → <span class="c-dato">OMS (Organizzazione Mondiale della Sanità)</span>
+- **Anno** → <span class="c-dato">2001</span> (traduzione italiana 2002)
+- **Versioni** → ICF classico (adulti) · <span class="c-dato">ICF-CY (0-18 anni, 2007)</span> · ICF versione breve
 
 ---
 
 ## Concetto di salute (OMS)
 
-- **Salute** → stato di piena forma dell'intera persona, non semplice assenza di malattia
+- <span class="c-tesi">**Salute** → stato di piena forma dell'intera persona, non semplice assenza di malattia</span>
 - **Salute** → risorsa per la vita quotidiana, non obiettivo
-- **Salute** → inscindibile dall'ambiente e dal funzionamento a tutti i livelli
+- <span class="c-impl">**Salute** → inscindibile dall'ambiente e dal funzionamento a tutti i livelli</span>
 
 ---
 
 ## Cambio di paradigma
 
 - **Modello medico** → individuale · lineare-causale · guarda il deficit · domanda: "qual è il problema biologico?"
-- **Modello biopsicosociale (ICF)** → sistemico · multidimensionale · guarda le risorse · domanda: "quali condizioni permettono di funzionare al meglio?"
-- **Disabilità ICF** → nasce dall'interazione tra caratteristiche della persona e fattori contestuali
+- <span class="c-tesi">**Modello biopsicosociale (ICF)** → sistemico · multidimensionale · guarda le risorse · domanda: "quali condizioni permettono di funzionare al meglio?"</span>
+- <span class="c-def">**Disabilità ICF** → nasce dall'interazione tra caratteristiche della persona e fattori contestuali</span>
 - **3 dimensioni integrate** → biologica (condizioni di salute) · psichica (fattori personali) · sociale (fattori ambientali)
 
 ---
@@ -61,8 +70,8 @@ ICF
 - Parallele alle funzioni corporee
 
 ### Attività e Partecipazione (9 domini)
-- **Attività** → esecuzione di un compito/azione da parte di un individuo
-- **Partecipazione** → coinvolgimento in una situazione di vita
+- <span class="c-def">**Attività** → esecuzione di un compito/azione da parte di un individuo</span>
+- <span class="c-def">**Partecipazione** → coinvolgimento in una situazione di vita</span>
 
 | # | Dominio |
 |---|---------|
@@ -78,8 +87,8 @@ ICF
 
 ### Capacità vs Performance
 
-- **Capacità** → cosa la persona può fare in ambiente standard/neutro (caratteristica intrinseca, indipendente dall'ambiente)
-- **Performance** → cosa la persona fa effettivamente nel suo ambiente attuale (dipende dal contesto)
+- <span class="c-def">**Capacità** → cosa la persona può fare in ambiente standard/neutro (caratteristica intrinseca, indipendente dall'ambiente)</span>
+- <span class="c-def">**Performance** → cosa la persona fa effettivamente nel suo ambiente attuale (dipende dal contesto)</span>
 
 ---
 
@@ -92,29 +101,29 @@ ICF
 4. Atteggiamenti
 5. Servizi, sistemi e politiche
 
-- Impatto → **facilitante** (+) o **ostacolante** (barriera)
+- Impatto → <span class="c-def">**facilitante** (+) o **ostacolante** (barriera)</span>
 
 ### Fattori personali
 - Sesso, età, forma fisica, stile di vita, abitudini, educazione, background sociale, esperienze...
-- **Non classificati** nell'ICF (varietà troppo ampia per essere standardizzata)
+- <span class="c-warn">**Non classificati** nell'ICF (varietà troppo ampia per essere standardizzata)</span>
 
 ---
 
 ## Facilitatori e Barriere
 
-- **Facilitatore** → fattore ambientale che migliora il funzionamento e riduce la disabilità
+- <span class="c-def">**Facilitatore** → fattore ambientale che migliora il funzionamento e riduce la disabilità</span>
   - Può evitare che una menomazione diventi restrizione della partecipazione
-- **Barriera** → fattore ambientale che limita il funzionamento e crea/amplifica la disabilità
+- <span class="c-def">**Barriera** → fattore ambientale che limita il funzionamento e crea/amplifica la disabilità</span>
   - Tipi: fisiche · architettoniche · sociali · economiche · relazionali · di atteggiamento
 
 ---
 
 ## Dalla qualificazione emergono
 
-- **Menomazione** → disfunzione di funzione o struttura corporea
-- **Limitazione** → difficoltà nell'esecuzione di un'attività
-- **Restrizione** → problema nel coinvolgimento/partecipazione
-- **Barriera** → fattore contestuale ostacolante
+- <span class="c-def">**Menomazione** → disfunzione di funzione o struttura corporea</span>
+- <span class="c-def">**Limitazione** → difficoltà nell'esecuzione di un'attività</span>
+- <span class="c-def">**Restrizione** → problema nel coinvolgimento/partecipazione</span>
+- <span class="c-def">**Barriera** → fattore contestuale ostacolante</span>
 
 ---
 
@@ -128,8 +137,8 @@ ICF
 | `e` | Fattori ambientali | 2 |
 
 - **Struttura codice** → lettera + numero capitolo + sottocategorie + `.` + qualificatore
-- **Qualificatore** → 0 (nessuna difficoltà) → 4 (difficoltà completa)
-- **Fattori ambientali** → `+` facilitatore / `.` barriera
+- **Qualificatore** → <span class="c-def">0 (nessuna difficoltà) → 4 (difficoltà completa)</span>
+- **Fattori ambientali** → <span class="c-def">`+` facilitatore / `.` barriera</span>
 
 ---
 
@@ -137,11 +146,11 @@ ICF
 
 | Chi | Cosa | Quando |
 |-----|------|--------|
-| OMS | ICF (prima edizione) | 2001 |
-| OMS | Traduzione italiana ICF | 2002 |
-| OMS | ICF-CY (versione bambini/giovani) | 2007 |
+| <span class="c-dato">OMS</span> | ICF (prima edizione) | 2001 |
+| <span class="c-dato">OMS</span> | Traduzione italiana ICF | 2002 |
+| <span class="c-dato">OMS</span> | ICF-CY (versione bambini/giovani) | 2007 |
 | OMS | ICF Checklist | settembre 2003 |
-| Ianes D. | *La diagnosi funzionale secondo l'ICF*, Erickson | 2004 |
+| <span class="c-dato">Ianes D.</span> | *La diagnosi funzionale secondo l'ICF*, Erickson | 2004 |
 | Ianes, Cramerotti, Scapin | *Profilo di funzionamento su base ICF-CY e PEI*, Erickson | 2019 |
 | Franchini R. | *Disabilità, cura educativa e progetto di vita*, Erickson | — |
 

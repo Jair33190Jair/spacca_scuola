@@ -1,18 +1,27 @@
 # La Famiglia
 I Tempi della Vita · Sessione 05 · A.A. 2025–2026
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 > Questa lezione è un po' come studiare l'ecosistema di una foresta: la famiglia non è un singolo albero, ma un intreccio di radici, rami e specie diverse che si evolvono nel tempo. Capire come funziona — biologicamente, psicologicamente, socialmente — è fondamentale per chi fa lavoro sociale. Niente grafici d'esame vuoti: solo concetti che userai davvero sul campo.
 
 ---
 
 ## Che cos'è la famiglia? Definizioni a confronto
 
-La domanda sembra banale, ma non lo è. Il punto di partenza della lezione è proprio questo: **non esiste una definizione universale di famiglia**, e capire perché è già metà del lavoro.
+La domanda sembra banale, ma non lo è. Il punto di partenza della lezione è proprio questo: <span class="c-tesi">**non esiste una definizione universale di famiglia**</span>, e capire perché è già metà del lavoro.
 
-**Lévi-Strauss** identificava tre pilastri che legano famiglia e società:
-- la **proibizione dell'incesto**
-- una **forma riconosciuta di unione**
-- la **divisione sessuale dei compiti**
+**<span class="c-dato">Lévi-Strauss</span>** identificava tre pilastri che legano famiglia e società:
+- la **<span class="c-def">proibizione dell'incesto</span>**
+- una **<span class="c-def">forma riconosciuta di unione</span>**
+- la **<span class="c-def">divisione sessuale dei compiti</span>**
 
 Ma oggi queste categorie scricchiolano. La coppia, il genitore, la famiglia stessa hanno assunto forme che sfidano ogni schema classico.
 
@@ -25,11 +34,11 @@ Ma oggi queste categorie scricchiolano. La coppia, il genitore, la famiglia stes
 | Fruggeri (2005) | Non più un'istituzione, ma un'**unione di affetti** |
 | Colozzi (2009) | Il **topos** delle certezze — il luogo sicuro dove rifugiarsi in un mondo esterno frammentato |
 
-La svolta concettuale chiave: i sociologi ormai parlano di **"famiglie" al plurale**, non più di "famiglia". Un singolo individuo può attraversare più forme familiari nel corso della vita.
+<span class="c-tesi">La svolta concettuale chiave: i sociologi ormai parlano di **"famiglie" al plurale**, non più di "famiglia".</span> Un singolo individuo può attraversare più forme familiari nel corso della vita.
 
-### Tipologie di organizzazioni familiari (Alvaro et al., 2007)
+### Tipologie di organizzazioni familiari (<span class="c-dato">Alvaro et al., 2007</span>)
 
-Nucleare · Monoparentale · Ricomposta · Omo-genitoriale · D'affido · Adottiva · Da procreazione assistita · Di genitori separati · Unipersonale · LAT (*Living Apart Together*) · DINKS (*Double Income, No Kids*)
+<span class="c-es">Nucleare · Monoparentale · Ricomposta · Omo-genitoriale · D'affido · Adottiva · Da procreazione assistita · Di genitori separati · Unipersonale · LAT (*Living Apart Together*) · DINKS (*Double Income, No Kids*)</span>
 
 ---
 
@@ -37,7 +46,7 @@ Nucleare · Monoparentale · Ricomposta · Omo-genitoriale · D'affido · Adotti
 
 Prima di parlare di crisi della genitorialità, l'antropologia ci offre uno strumento prezioso per decostruire il concetto.
 
-**Esther Goody (1976, 1999)** ha scomposto la genitorialità in **cinque funzioni**, che nelle società occidentali tendono a concentrarsi sulle stesse persone, ma in altre culture (africane, studiate da Goody) vengono distribuite tra più adulti:
+**<span class="c-dato">Esther Goody (1976, 1999)</span>** ha scomposto la genitorialità in **<span class="c-def">cinque funzioni</span>**, che nelle società occidentali tendono a concentrarsi sulle stesse persone, ma in altre culture (africane, studiate da Goody) vengono distribuite tra più adulti:
 
 1. Concepire e mettere al mondo
 2. **Nutrire**
@@ -50,16 +59,16 @@ Pensa alle radici di una pianta: nella nostra cultura tendiamo a volerle tutte c
 ### Dissociazione della genitorialità
 
 Oggi si distingue tra:
-- **Genitorialità biologica** — chi concepisce
-- **Genitorialità istituzionale/giuridica** — chi ha il riconoscimento legale
-- **Genitorialità domestica** — chi si occupa della cura quotidiana
+- **<span class="c-def">Genitorialità biologica</span>** — chi concepisce
+- **<span class="c-def">Genitorialità istituzionale/giuridica</span>** — chi ha il riconoscimento legale
+- **<span class="c-def">Genitorialità domestica</span>** — chi si occupa della cura quotidiana
 
 Il sistema occidentale rimane ancorato a tre principi nella filiazione:
-- **Bilateralità** (due genitori riconosciuti)
-- **Ideologia del sangue** (legame biologico come primario)
-- **Esclusività** (un solo set di genitori "veri")
+- **<span class="c-def">Bilateralità</span>** (due genitori riconosciuti)
+- **<span class="c-def">Ideologia del sangue</span>** (legame biologico come primario)
+- **<span class="c-def">Esclusività</span>** (un solo set di genitori "veri")
 
-Questo crea tensioni evidenti con le nuove forme di plurigenitorialità (famiglie adottive, ricomposte, omo-genitoriali, ecc.).
+<span class="c-warn">Questo crea tensioni evidenti con le nuove forme di plurigenitorialità (famiglie adottive, ricomposte, omo-genitoriali, ecc.).</span>
 
 ---
 
@@ -70,21 +79,21 @@ La famiglia nucleare si è consolidata come modello tra il XVI e il XVII secolo.
 ### Famiglia tradizionale (XVI–XVIII sec.)
 - Famiglia dell'*Ancien Régime*: il **padre** esercita autorità assoluta
 - Donne e figli sottomessi alla sua volontà
-- L'amore romantico era percepito come **pericoloso** per le strategie familiari (il matrimonio unisce stirpi, non individui)
+- <span class="c-dato">L'amore romantico era percepito come **pericoloso** per le strategie familiari</span> (il matrimonio unisce stirpi, non individui)
 
 ### Famiglia moderna (fine XVIII – XX sec.)
 - Il Padre-tiranno cede il posto al padre affettuoso; il **bambino viene posto al centro**
 - Attenzione affettiva ed educativa verso i bambini
-- Ma nel 1803 il **codice civile napoleonico ristabilisce la potenza paterna**
+- <span class="c-warn">Ma nel <span class="c-dato">1803</span> il **codice civile napoleonico ristabilisce la potenza paterna**</span>
 - Rigida divisione dei ruoli; inferiorità giuridica della moglie
 
 ### Famiglia contemporanea / post-moderna (fine anni '60 in avanti)
-Il punto d'inflessione demografico è il **1965**: calano fecondità, nuzialità, aumentano divorzi e matrimoni tardivi.
+Il punto d'inflessione demografico è il **<span class="c-dato">1965</span>**: calano fecondità, nuzialità, aumentano divorzi e matrimoni tardivi.
 
 Cambiamenti strutturali:
 - Nuovo ruolo della **donna** (lavoratrice, autonoma, portavoce di nuovi diritti)
 - Ridimensionamento del modello **patriarcale**
-- Valorizzazione della **soggettività individuale** e dell'autorealizzazione
+- <span class="c-tesi">Valorizzazione della **soggettività individuale** e dell'autorealizzazione</span>
 - Coniugalità "privatizzata": il matrimonio come scelta personale, non un obbligo sociale
 - **Precarizzazione dell'unione** di coppia
 
@@ -92,7 +101,7 @@ Cambiamenti strutturali:
 
 ## Cambiamenti culturali nella transizione alla genitorialità
 
-*(Scabini & Cigoli, 2000)*
+*(<span class="c-dato">Scabini & Cigoli, 2000</span>)*
 
 Quattro trasformazioni fondamentali che caratterizzano la genitorialità contemporanea:
 
@@ -100,9 +109,9 @@ Quattro trasformazioni fondamentali che caratterizzano la genitorialità contemp
 L'età media al primo figlio si è spostata significativamente in avanti in tutto l'Occidente.
 
 **2. Avere figli è diventato sempre più raro**
-Fenomeno noto come **"seconda transizione demografica"** (Lesthaeghe & Van de Kaa, 1986): calo strutturale della fecondità, disallineamento tra tassi di natalità e mortalità. In Svizzera il tasso di fertilità è tra i più bassi d'Europa.
+Fenomeno noto come **<span class="c-def">"seconda transizione demografica"</span>** (<span class="c-dato">Lesthaeghe & Van de Kaa, 1986</span>): calo strutturale della fecondità, disallineamento tra tassi di natalità e mortalità. <span class="c-dato">In Svizzera il tasso di fertilità è tra i più bassi d'Europa.</span>
 
-Principali motivazioni per la scelta di non avere figli (De Pierrepont & Lévy, 2017):
+Principali motivazioni per la scelta di non avere figli (<span class="c-dato">De Pierrepont & Lévy, 2017</span>):
 - Percezione negativa di bambini e gravidanza
 - Assenza di desiderio genitoriale
 - Rifiuto dei vincoli e dei ruoli legati alla genitorialità
@@ -110,11 +119,11 @@ Principali motivazioni per la scelta di non avere figli (De Pierrepont & Lévy, 
 - Valori post-moderni: soddisfazione di bisogni "postmaterialisti"
 
 **3. La nascita è sempre più un evento scelto**
-Si passa dalla nascita come **evento atteso** (imprevedibile, estraneo alla pianificazione) alla nascita come **evento pianificato** (carico di aspettative e, a volte, di senso di colpa se le cose non vanno come previsto).
+Si passa dalla nascita come **<span class="c-def">evento atteso</span>** (imprevedibile, estraneo alla pianificazione) alla nascita come **<span class="c-def">evento pianificato</span>** (carico di aspettative e, a volte, di senso di colpa se le cose non vanno come previsto).
 
-In un contesto di relazioni sempre più frammentate, il figlio diventa il **nuovo principio organizzatore dei legami familiari** — un "figlio del bisogno", posto al centro della realizzazione personale.
+In un contesto di relazioni sempre più frammentate, <span class="c-tesi">il figlio diventa il **nuovo principio organizzatore dei legami familiari**</span> — un "figlio del bisogno", posto al centro della realizzazione personale.
 
-Si passa dalla **famiglia etica** (che trasmette valori e norme) alla **famiglia affettiva** (fondata sull'amore e sul legame emotivo — Pietropolli Charmet, 2000).
+Si passa dalla **<span class="c-def">famiglia etica</span>** (che trasmette valori e norme) alla **<span class="c-def">famiglia affettiva</span>** (fondata sull'amore e sul legame emotivo — <span class="c-dato">Pietropolli Charmet, 2000</span>).
 
 > «I genitori tendono a trasmettere amore più che regole e principi astratti, aspirano a farsi obbedire per amore e non per paura delle sanzioni, si piegano nei confronti del figlio nella prospettiva di intercettare quale sia la sua vera natura e indole.»
 > — Pietropolli Charmet, 2000
@@ -126,22 +135,22 @@ Le donne hanno aspettative sempre più elevate di un **impegno paritario e condi
 
 ## Il processo di accesso alla genitorialità
 
-*(Nanzer & Palacio Espasa)*
+*(<span class="c-dato">Nanzer & Palacio Espasa</span>)*
 
-Diventare genitore non è solo un fatto biologico — è un **processo psichico profondo** che inizia nell'infanzia ma si intensifica nel **periodo perinatale** (dal concepimento ai primi due anni dopo il parto).
+Diventare genitore non è solo un fatto biologico — è un **<span class="c-def">processo psichico profondo</span>** che inizia nell'infanzia ma si intensifica nel **<span class="c-def">periodo perinatale</span>** (dal concepimento ai primi due anni dopo il parto).
 
 Durante questa fase:
-- La donna attraversa un periodo di **"trasparenza psichica"**: estrema sensibilità emotiva, riemersione del passato
+- La donna attraversa un periodo di **<span class="c-def">"trasparenza psichica"</span>**: estrema sensibilità emotiva, riemersione del passato
 - Il genitore compie un **movimento regressivo** verso i propri vissuti infantili
 - Emergono domande fondamentali: *"Che genitore sarò? Come erano i miei genitori? Voglio essere uguale o diverso/a?"*
 
-Il processo implica **lutti di sviluppo**: occorre rinunciare a immagini idealizzate dei propri genitori, o elaborare perdite reali vissute nell'infanzia.
+Il processo implica **<span class="c-def">lutti di sviluppo</span>**: occorre rinunciare a immagini idealizzate dei propri genitori, o elaborare perdite reali vissute nell'infanzia.
 
 Fin qui ci siamo? Bene. Perché adesso viene la parte che, come futuro assistente sociale, tornerà più spesso nella tua pratica.
 
-Quando questi lutti sono **ben elaborati** → la genitorialità diventa un'occasione di crescita e "riedizione corretta" delle relazioni infantili.
+<span class="c-impl">Quando questi lutti sono **ben elaborati** → la genitorialità diventa un'occasione di crescita e "riedizione corretta" delle relazioni infantili.</span>
 
-Quando **non lo sono** → il bambino rischia di essere inconsciamente arruolato per riparare o compensare ciò che il genitore non ha elaborato.
+<span class="c-warn">Quando **non lo sono** → il bambino rischia di essere inconsciamente arruolato per riparare o compensare ciò che il genitore non ha elaborato.</span>
 
 > Come in un videogioco in cui un personaggio deve completare le quest non finite di un altro: il bambino porta il peso delle storie irrisolte dei genitori.
 
@@ -151,11 +160,11 @@ Anche le tappe di sviluppo del bambino (edipo, latenza, adolescenza) possono **r
 
 ## I conflitti della genitorialità: quattro livelli
 
-*(da Cramer & Palacio Espasa 1993; Manzano, Palacio Espasa & Zilkha 1999)*
+*(da <span class="c-dato">Cramer & Palacio Espasa 1993</span>; <span class="c-dato">Manzano, Palacio Espasa & Zilkha 1999</span>)*
 
-Il meccanismo centrale è quello delle **identificazioni proiettive**: il genitore proietta sul bambino immagini di sé da bambino, o dei propri genitori. Queste proiezioni possono essere sane e flessibili, oppure rigide e deformanti.
+Il meccanismo centrale è quello delle **<span class="c-def">identificazioni proiettive</span>**: il genitore proietta sul bambino immagini di sé da bambino, o dei propri genitori. Queste proiezioni possono essere sane e flessibili, oppure rigide e deformanti.
 
-> Freud (1914) aveva già intuito che i genitori rendono i figli depositari del proprio narcisismo infantile a cui hanno dovuto rinunciare.
+> <span class="c-dato">Freud (1914)</span> aveva già intuito che i genitori rendono i figli depositari del proprio narcisismo infantile a cui hanno dovuto rinunciare.
 
 ### Livello 1 — Genitorialità "normale"
 
@@ -164,9 +173,9 @@ Il meccanismo centrale è quello delle **identificazioni proiettive**: il genito
 - Le immagini proiettate sono prevalentemente **positive e libidiche**
 - Con il tempo queste immagini **sfumano**, lasciando spazio alla specificità del bambino reale
 
-> *Esempio:* "Ho avuto un'infanzia buona nel complesso. Mi arrabbio a volte coi miei genitori, ma la nostra relazione è solida. Faccio del mio meglio con mio figlio, non sono perfetto ma stiamo bene."
+> <span class="c-es">*Esempio:* "Ho avuto un'infanzia buona nel complesso. Mi arrabbio a volte coi miei genitori, ma la nostra relazione è solida. Faccio del mio meglio con mio figlio, non sono perfetto ma stiamo bene."</span>
 
-### Livello 2 — Genitorialità nevrotica
+### Livello 2 — <span class="c-def">Genitorialità nevrotica</span>
 
 - Il bambino viene **usato inconsciamente** per negare o riparare dolori infantili del genitore
 - Il genitore proietta sul bambino un'immagine idealizzata (il bambino che lui avrebbe voluto essere)
@@ -176,9 +185,9 @@ Il meccanismo centrale è quello delle **identificazioni proiettive**: il genito
 - Impatto: disturbi di separazione, sonno, alimentazione, comportamento nel bambino
 - In terapia: **pre-transfert positivo** verso il terapeuta
 
-> *Esempio:* "La partenza di mio padre mi ha lasciato una mancanza. Voglio che mio figlio abbia l'infanzia perfetta che non ho avuto."
+> <span class="c-es">*Esempio:* "La partenza di mio padre mi ha lasciato una mancanza. Voglio che mio figlio abbia l'infanzia perfetta che non ho avuto."</span>
 
-### Livello 3 — Genitorialità masochistica
+### Livello 3 — <span class="c-def">Genitorialità masochistica</span>
 
 Due varianti:
 1. Il genitore si è vissuto da bambino come **responsabile della tristezza/depressione dei propri genitori**
@@ -190,21 +199,21 @@ Impatto: disturbi del comportamento più gravi, disturbi ansiosi o dell'umore ne
 
 In terapia: **pre-transfert positivo**, ma il terapeuta deve fare attenzione a non mostrarsi colpevolizzante (il Super-Io già spinge all'espiazione).
 
-> *Esempio:* "I miei genitori hanno sacrificato tutto per me, sembravano sempre tristi. Oggi mio figlio fa solo di testa sua — ho l'impressione che cerchi di farmi pagare quello che ho fatto passare ai miei genitori."
+> <span class="c-es">*Esempio:* "I miei genitori hanno sacrificato tutto per me, sembravano sempre tristi. Oggi mio figlio fa solo di testa sua — ho l'impressione che cerchi di farmi pagare quello che ho fatto passare ai miei genitori."</span>
 
-### Livello 4 — Genitorialità narcisistica
+### Livello 4 — <span class="c-def">Genitorialità narcisistica</span>
 
 Il livello più grave. Le identificazioni proiettive sono:
 - **Rigide, unidirezionali, evacuatrici e deformanti**
 - Il genitore proietta aspetti **negativi** di sé (avidità, aggressività, pericolo) sul bambino
 - Genera un senso di persecuzione: il bambino viene vissuto come ostile o estraneo
 - Difese intense: **diniego e scissione** — il genitore è tagliato dalla propria vita emotiva
-- Anamnesi del passato vuota: *"Un'infanzia normale, come tutte le altre…"*
+- <span class="c-warn">Anamnesi del passato vuota: *"Un'infanzia normale, come tutte le altre…"*</span>
 - **Pre-transfert negativo**: il terapeuta viene vissuto come persecutore
 
 Impatto sul bambino: gravi disturbi dell'attaccamento, depressioni, disarmonie evolutive o psicotiche. A lungo termine: disturbo della personalità.
 
-> *Esempio:* "La mia infanzia? Non ho niente da dire. Oggi non capisco mio figlio — non mi ascolta, penso che non mi voglia bene."
+> <span class="c-es">*Esempio:* "La mia infanzia? Non ho niente da dire. Oggi non capisco mio figlio — non mi ascolta, penso che non mi voglia bene."</span>
 
 ---
 
@@ -212,9 +221,9 @@ Impatto sul bambino: gravi disturbi dell'attaccamento, depressioni, disarmonie e
 
 ### Caso Myriam — "L'erede psicologica"
 
-*(Palacio Espasa, Manzano & Zilkha — dal volume "Scenari della genitorialità")*
+*(<span class="c-dato">Palacio Espasa, Manzano & Zilkha</span> — dal volume "Scenari della genitorialità")*
 
-**La situazione:** Myriam, 11 anni e mezzo, adottata fin da piccola. Difficoltà scolastiche gravi, tristezza, inibizione, conflitti col fratello. La madre ha scelto l'adozione specificamente per **rompere con una linea ereditaria di gravi depressioni** nella sua famiglia d'origine — ma ora vede Myriam triste.
+**La situazione:** <span class="c-es">Myriam, 11 anni e mezzo, adottata fin da piccola. Difficoltà scolastiche gravi, tristezza, inibizione, conflitti col fratello. La madre ha scelto l'adozione specificamente per **rompere con una linea ereditaria di gravi depressioni** nella sua famiglia d'origine — ma ora vede Myriam triste.</span>
 
 **La dinamica:**
 - La madre proietta su Myriam l'immagine della **propria madre depressa**
@@ -228,20 +237,20 @@ Impatto sul bambino: gravi disturbi dell'attaccamento, depressioni, disarmonie e
 - A Myriam vengono proposte sedute individuali centrate sulla problematica isterica (rivalità fallica, angosce di separazione)
 - **Esito:** Myriam completa l'anno scolastico con successo, sviluppa nuove relazioni coi coetanei e si autonomizza
 
-> **Concetto chiave:** fuggendo l'eredità biologica (la depressione genetica), la madre ha costruito ugualmente un'**eredità psicologica**. Il sintomo di Myriam era il lutto irrisolto della madre travestito da tristezza della figlia.
+> **Concetto chiave:** <span class="c-tesi">fuggendo l'eredità biologica (la depressione genetica), la madre ha costruito ugualmente un'**eredità psicologica**.</span> Il sintomo di Myriam era il lutto irrisolto della madre travestito da tristezza della figlia.
 
 ---
 
 ### Caso Régine — "Il sorriso di sollievo"
 
-*(Palacio Espasa, Manzano & Zilkha)*
+*(<span class="c-dato">Palacio Espasa, Manzano & Zilkha</span>)*
 
-**La situazione:** Régine, 9 anni. Difficoltà di separazione severe: non riesce a dormire fuori casa, si angoscia quando qualcuno in famiglia perde un oggetto, pensa costantemente alla famiglia quando è lontana. La madre ha perso entrambi i genitori: il padre 12 anni prima, la madre quando era adolescente.
+**La situazione:** <span class="c-es">Régine, 9 anni. Difficoltà di separazione severe: non riesce a dormire fuori casa, si angoscia quando qualcuno in famiglia perde un oggetto, pensa costantemente alla famiglia quando è lontana. La madre ha perso entrambi i genitori: il padre 12 anni prima, la madre quando era adolescente.</span>
 
 **La dinamica:**
 - La madre proietta su Régine l'immagine della **"buona madre" che protegge dalla perdita** — quella madre che lei non ha avuto/ha perso
 - Régine **si identifica con l'oggetto proiettato**: diventa la bambina che non abbandona la mamma, per non farla sentire sola
-- Il sintomo — l'angoscia di separazione — è in realtà il lutto della madre che la bambina porta per lei
+- <span class="c-impl">Il sintomo — l'angoscia di separazione — è in realtà il lutto della madre che la bambina porta per lei</span>
 
 **L'intervento terapeutico:**
 Un unico intervento, rivolto alla bambina ma destinato anche alla madre:
@@ -252,7 +261,7 @@ La madre rimane stupita. Régine **sorride sollevata**. Nella stessa seduta, le 
 
 **Esito:** in una sola consultazione, il sintomo si dissolve perché la bambina viene liberata dal peso della proiezione.
 
-> **Concetto chiave:** il sintomo di Régine non era suo — era il lutto irrisolto della madre che la bambina portava in nome di lei. Liberata da questo compito, Régine può finalmente essere una bambina.
+> **Concetto chiave:** <span class="c-tesi">il sintomo di Régine non era suo — era il lutto irrisolto della madre che la bambina portava in nome di lei.</span> Liberata da questo compito, Régine può finalmente essere una bambina.
 
 ---
 
@@ -260,9 +269,9 @@ La madre rimane stupita. Régine **sorride sollevata**. Nella stessa seduta, le 
 
 Le famiglie ricomposte, adottive e plurigenitoriali pongono sfide specifiche per il bambino:
 
-- Le **modificazioni brusche** dell'ambiente familiare mettono in pericolo la **continuità narcisistica** del bambino
+- Le **modificazioni brusche** dell'ambiente familiare mettono in pericolo la **<span class="c-def">continuità narcisistica</span>** del bambino
 - È fondamentale **dare senso alle trasformazioni**: mettere in parole l'inatteso, aiutare il bambino a costruire una narrativa coerente della propria storia
-- Ammettere la **bilinearità delle origini**: il bambino cresciuto nella certezza della propria doppia origine riesce a trovare il "terzo" accanto alla madre — ciò che dà senso alle assenze e agli "abbandoni"
+- Ammettere la **<span class="c-def">bilinearità delle origini</span>**: il bambino cresciuto nella certezza della propria doppia origine riesce a trovare il "terzo" accanto alla madre — ciò che dà senso alle assenze e agli "abbandoni"
 
 **Rispettare lo spazio psichico del bambino significa:**
 - Spiegargli, in modo misurato, quello che succede
@@ -275,14 +284,14 @@ Le famiglie ricomposte, adottive e plurigenitoriali pongono sfide specifiche per
 
 ## Nuove pratiche di genitorialità e conseguenze per i bambini
 
-*(Lazartigues, 2000)*
+*(<span class="c-dato">Lazartigues, 2000</span>)*
 
-Nella famiglia contemporanea, l'**edonismo** — la ricerca di piacere immediato — ha preso il posto del dovere come valore centrale trasmesso ai figli.
+Nella famiglia contemporanea, l'**<span class="c-def">edonismo</span>** — la ricerca di piacere immediato — ha preso il posto del dovere come valore centrale trasmesso ai figli.
 
-Conseguenze osservate:
+<span class="c-warn">Conseguenze osservate:
 - **Ridotta tolleranza alla frustrazione** e all'attesa
 - Malessere e comportamenti **auto/eteroaggressivi** o di evitamento
-- Difficoltà nell'integrazione del **senso morale**
+- Difficoltà nell'integrazione del **senso morale**</span>
 
 ---
 

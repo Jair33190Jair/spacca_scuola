@@ -108,6 +108,36 @@ ragiona come se rispondessi a voce all'esame.}
 - **Ambiguità:** segnala con [?] i passaggi
   poco chiari nella trascrizione.
 
+## Sistema di colori
+
+Ogni file inizia con un commento HTML fisso che definisce la legenda:
+
+```html
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+```
+
+Poi, nel testo, usa `<span class="c-xxx">testo</span>` inline. Esempi:
+
+- `<span class="c-def">ICF</span>` per evidenziare un termine definitorio
+- `<span class="c-tesi">L'inclusione è un obbligo giuridico.</span>` per una tesi centrale
+- `<span class="c-es">Esempio: le nonne per il clima</span>` per esempi concreti
+- `<span class="c-dato">Legge LISPI, art. 2a</span>` per nomi, date, riferimenti
+- `<span class="c-impl">Questo implica che...</span>` per connessioni e conseguenze
+- `<span class="c-warn">Attenzione: eccezione importante</span>` per avvertenze
+
+**Regole d'uso:**
+- Applica i colori in modo **selettivo**: evidenzia ciò che merita davvero attenzione, non tutto.
+- Preferisci `c-tesi` per le frasi che sintetizzano un argomento chiave dell'intera sezione.
+- Usa `c-dato` per nomi propri, date, numeri di legge, titoli di opere.
+- Non annidare span dentro altri span.
+
 ## Regole di formato
 
 - **Markdown ben strutturato.** Heading, liste,

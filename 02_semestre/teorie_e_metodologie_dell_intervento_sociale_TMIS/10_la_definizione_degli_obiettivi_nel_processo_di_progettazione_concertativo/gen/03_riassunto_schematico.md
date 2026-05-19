@@ -1,41 +1,50 @@
 # La Definizione degli Obiettivi nel Processo di Progettazione Concertativo — Schema
 TMIS · Sessione 10
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 ---
 
 ## Fasi del processo di co-progettazione
 
 - **Ideazione** → nascita dell'idea
-- **Attivazione** → lettura condivisa, obiettivi, azioni ← *questa lezione*
+- <span class="c-def">**Attivazione**</span> → lettura condivisa, obiettivi, azioni ← *questa lezione*
 - **Scrittura del progetto** → stesura formale
 - **Realizzazione** → messa in campo delle azioni
 - **Verifica** → valutazione finale
-- Trasversale: valutazione in itinere + co-osservazione dialogica
+- Trasversale: <span class="c-def">valutazione in itinere</span> + co-osservazione dialogica
 
 ---
 
 ## Approccio delle capabilities
 
-- **Sen A.K. (2000)** → _Lo sviluppo è libertà_, Mondadori
-- **Principio** → ogni persona ha capacità; il lavoro parte da queste, non dal deficit
-- **Doppio asse** → capacità della persona + ambiente che permette di esercitarle
+- <span class="c-dato">**Sen A.K. (2000)**</span> → _Lo sviluppo è libertà_, Mondadori
+- <span class="c-tesi">**Principio** → ogni persona ha capacità; il lavoro parte da queste, non dal deficit</span>
+- <span class="c-impl">**Doppio asse** → capacità della persona + ambiente che permette di esercitarle</span>
 - **Esito** → la persona diventa risorsa sociale
 
 ---
 
 ## Struttura degli obiettivi
 
-- **Macrofinalità** → autonomia, autodeterminazione, benessere, integrazione sociale, empowerment, autostima, autoefficacia
+- <span class="c-def">**Macrofinalità**</span> → autonomia, autodeterminazione, benessere, integrazione sociale, empowerment, autostima, autoefficacia
   - ↓
-- **Obiettivo generale** → orizzonte di senso; medio-lungo termine; formulato con verbo all'infinito; max 2-3 per progetto
+- <span class="c-def">**Obiettivo generale**</span> → orizzonte di senso; medio-lungo termine; formulato con verbo all'infinito; max 2-3 per progetto
   - ↓
-- **Obiettivo specifico** → meta concreta, osservabile, breve-medio termine (1-6 mesi); max 2-3 per obiettivo generale
+- <span class="c-def">**Obiettivo specifico**</span> → meta concreta, osservabile, breve-medio termine (1-6 mesi); max 2-3 per obiettivo generale
   - ↓
-- **Azioni progettuali** → interventi concatenati; chi fa cosa; temporalità coerente con obiettivo specifico
+- <span class="c-def">**Azioni progettuali**</span> → interventi concatenati; chi fa cosa; temporalità coerente con obiettivo specifico
 
 ---
 
-## Funzioni degli obiettivi (Traverso, 2016)
+## Funzioni degli obiettivi (<span class="c-dato">Traverso, 2016</span>)
 
 - **Orientativa** → danno direzione al progetto (macro e micro)
 - **Comunicativa** → scambi chiari con utente, équipe, rete
@@ -44,12 +53,12 @@ TMIS · Sessione 10
 
 ---
 
-## Zona di sviluppo prossimale (Vygotskij)
+## Zona di sviluppo prossimale (<span class="c-dato">Vygotskij</span>)
 
 | Zona | Descrizione |
 |------|-------------|
-| **Zona effettiva** | Ciò che la persona sa fare da sola oggi |
-| **Zona prossimale** | Ciò che sa fare con accompagnamento → presto da sola ← *qui vanno gli obiettivi specifici* |
+| <span class="c-def">**Zona effettiva**</span> | Ciò che la persona sa fare da sola oggi |
+| <span class="c-def">**Zona prossimale**</span> | Ciò che sa fare con accompagnamento → presto da sola ← *qui vanno gli obiettivi specifici* |
 | **Zona potenziale** | Fuori portata anche con accompagnamento |
 
 ---
@@ -64,8 +73,8 @@ TMIS · Sessione 10
 | **R** | Realistico — raggiungibile, nella zona prossimale |
 | **T** | Temporale — lasso di tempo definito |
 
-- **Errore frequente** → obiettivo scritto per l'operatore, non per la persona
-- **Motivazione** → condizione necessaria; obiettivi devono partire dai desideri dell'utente
+- <span class="c-warn">**Errore frequente** → obiettivo scritto per l'operatore, non per la persona</span>
+- <span class="c-tesi">**Motivazione** → condizione necessaria; obiettivi devono partire dai desideri dell'utente</span>
 
 ---
 
@@ -74,13 +83,13 @@ TMIS · Sessione 10
 - **Definizione** → insieme di interventi concatenati attorno a un obiettivo specifico
 - **Chi** → utente + famiglia + professionisti + rete formale/informale
 - **Formato** → linguaggio SMART; temporalità coerente con obiettivo
-- **Scopo** → mettere in relazione obiettivi, metodologie, risorse, spazi, tempi
+- <span class="c-impl">**Scopo** → mettere in relazione obiettivi, metodologie, risorse, spazi, tempi</span>
 
 ---
 
 ## Progetto scritto
 
-- **Firma di tutti** → atto simbolico di responsabilità condivisa
+- <span class="c-tesi">**Firma di tutti** → atto simbolico di responsabilità condivisa</span>
 - **Scopo** → chiarisce accordi, garantisce continuità, lascia traccia modificabile in itinere
 
 ---
@@ -89,11 +98,11 @@ TMIS · Sessione 10
 
 | Tipo | Quando | Scopo |
 |------|--------|-------|
-| **Valutazione in itinere** | Durante tutto il progetto | Modificare, orientare, motivare l'operatore |
-| **Verifica finale** | Al termine | Scarto tra attese e risultati; include esiti inattesi positivi |
+| <span class="c-def">**Valutazione in itinere**</span> | Durante tutto il progetto | Modificare, orientare, motivare l'operatore |
+| <span class="c-def">**Verifica finale**</span> | Al termine | Scarto tra attese e risultati; <span class="c-tesi">include esiti inattesi positivi</span> |
 
 - **Strumenti monitoraggio** → griglie di osservazione, diario di bordo, bilanci periodici
-- **Dimensioni valutabili** → efficacia, coerenza obiettivi/azioni/strategie, integrazione col contesto
+- <span class="c-impl">**Dimensioni valutabili** → efficacia, coerenza obiettivi/azioni/strategie, integrazione col contesto</span>
 
 ---
 
@@ -101,9 +110,9 @@ TMIS · Sessione 10
 
 | Autore | Contributo | Anno |
 |--------|------------|------|
-| **Amartya Sen** | Approccio delle capabilities | 2000 |
-| **Lev Vygotskij** | Zona di sviluppo prossimale | anni '30-'50 |
-| **Andrea Traverso** | Funzioni degli obiettivi; metodologia progettazione educativa | 2016 |
+| <span class="c-dato">**Amartya Sen**</span> | Approccio delle capabilities | 2000 |
+| <span class="c-dato">**Lev Vygotskij**</span> | Zona di sviluppo prossimale | anni '30-'50 |
+| <span class="c-dato">**Andrea Traverso**</span> | Funzioni degli obiettivi; metodologia progettazione educativa | 2016 |
 
 ---
 

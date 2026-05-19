@@ -1,12 +1,21 @@
 # Le Psicosi — Schema
 Salute Mentale · Sessione 09
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 ---
 
 ## Psicosi: quadro generale
 
-- **Psicosi** → rapporto radicalmente alterato con la realtà
-- **Due destrutturazioni** (Jervis): realtà esterna + identità interna
+- <span class="c-def">**Psicosi**</span> → rapporto radicalmente alterato con la realtà
+- <span class="c-tesi">**Due destrutturazioni**</span> (<span class="c-dato">Jervis</span>): realtà esterna + identità interna
 - **Divisione classica**: organiche vs. funzionali
 
 ---
@@ -24,41 +33,41 @@ Salute Mentale · Sessione 09
 ## Psicosi organiche
 
 ### Demenze
-- **Processo** → indebolimento progressivo irreversibile di intelletto, affettività, volontà
+- **Processo** → <span class="c-def">indebolimento progressivo irreversibile di intelletto, affettività, volontà</span>
 - **Alzheimer** → degenerativa, identità si dissolve progressivamente
 - **Demenza senile** → da invecchiamento e atrofia cerebrale
 - **Demenze acquisite** → da sostanze (alcol) o agenti patogeni (sifilide)
 
 ### Epilessia
-- **Definizione** → scarica neuronale abnorme; "attacco a sorpresa" (greco)
+- **Definizione** → <span class="c-def">scarica neuronale abnorme; "attacco a sorpresa" (greco)</span>
 - **Crisi generalizzate**:
   - *Grande male* → tonica (contrazione) → clonica (convulsioni) → risolutiva (sonno)
   - *Piccolo male* → assenza di pochi secondi, senza convulsioni, senza consapevolezza
 - **Crisi parziali (focali)** → solo parte del cervello; manifestazione variabile (allucinazioni uditive, movimenti, parestesie)
-- ⚠️ Piccolo male può sembrare distrazione in classe/foyer
+- <span class="c-warn">⚠️ Piccolo male può sembrare distrazione in classe/foyer</span>
 
 ### Psicosi da sostanze
 - **Meccanismo** → agiscono sul sistema mesolimbico (dopamina) → sintomi psicotici per uso o astinenza
-- **Delirium tremens** → psicosi alcolica acuta da astinenza (tremore, allucinazioni, crisi)
-  - ⚠️ Chi beve molto non può smettere bruscamente senza supervisione medica
-- **Sindrome di Korsakov** → psicosi alcolica cronica → amnesia anterograda
-- **Cannabis indoor** → THC alto → rischio psicotico (specie in cervelli in sviluppo)
+- <span class="c-def">**Delirium tremens**</span> → psicosi alcolica acuta da astinenza (tremore, allucinazioni, crisi)
+  - <span class="c-warn">⚠️ Chi beve molto non può smettere bruscamente senza supervisione medica</span>
+- <span class="c-def">**Sindrome di Korsakov**</span> → psicosi alcolica cronica → <span class="c-warn">amnesia anterograda</span>
+- <span class="c-es">**Cannabis indoor** → THC alto → rischio psicotico (specie in cervelli in sviluppo)</span>
 
 ---
 
 ## Sintomatologia comune a tutte le psicosi
 
-- **Sintomi positivi** → delirio + allucinazioni (producono qualcosa che prima non c'era)
-- **Sintomi negativi** → apatia, abulia, ritiro sociale, appiattimento affettivo
-- **Disorganizzazione cognitiva** → pensiero frammentato, visibile nel linguaggio
+- <span class="c-def">**Sintomi positivi**</span> → delirio + allucinazioni (producono qualcosa che prima non c'era)
+- <span class="c-def">**Sintomi negativi**</span> → apatia, abulia, ritiro sociale, appiattimento affettivo
+- <span class="c-def">**Disorganizzazione cognitiva**</span> → pensiero frammentato, visibile nel linguaggio
 
 ---
 
 ## Schizofrenia
 
-- **Termine** → Bleuler (1911): *schizein* (scissione) + *phren* (mente)
-- **Definizione clinica** → incapacità di tenere insieme le funzioni mentali
-- **Metafora** → orchestra senza direttore: i musicisti ci sono, ma il risultato è rumore
+- **Termine** → <span class="c-dato">Bleuler (1911)</span>: *schizein* (scissione) + *phren* (mente)
+- <span class="c-def">**Definizione clinica**</span> → incapacità di tenere insieme le funzioni mentali
+- <span class="c-es">**Metafora** → orchestra senza direttore: i musicisti ci sono, ma il risultato è rumore</span>
 - **DSM-5** → anomalie in 5 ambiti: deliri, allucinazioni, pensiero disorganizzato, comportamento motorio anomalo, sintomi negativi
 
 ---
@@ -68,41 +77,41 @@ Salute Mentale · Sessione 09
 ### 1. Dissociazione
 
 **Ambito intellettuale (disturbi formali del pensiero)**:
-- **Disorganizzazione** → pensiero frammentato, caotico; neologismi; ecolalia
-- **Impoverimento** → discorso povero, lento, evasivo (valutare vs. normalità personale precedente)
-- **Concretismo** → incapacità di accedere al simbolico, ancorato al concreto
-- **Prolissità** → discorso lungo, senza filtri, oscuro e poco concludente
-- **Tangenzialità** → risposta "di traverso," sfiora il tema senza rispondere
-- **Deragliamento** → salto improvviso da un tema all'altro, senza continuità logica
+- <span class="c-def">**Disorganizzazione**</span> → pensiero frammentato, caotico; neologismi; ecolalia
+- <span class="c-def">**Impoverimento**</span> → discorso povero, lento, evasivo (valutare vs. normalità personale precedente)
+- <span class="c-def">**Concretismo**</span> → incapacità di accedere al simbolico, ancorato al concreto
+- <span class="c-def">**Prolissità**</span> → discorso lungo, senza filtri, oscuro e poco concludente
+- <span class="c-def">**Tangenzialità**</span> → risposta "di traverso," sfiora il tema senza rispondere
+- <span class="c-def">**Deragliamento**</span> → salto improvviso da un tema all'altro, senza continuità logica
 
 **Ambito affettivo**:
-- **Appiattimento** → reattività emotiva ridotta (non assente — Bleuler: *"in nessun caso del tutto spenta"*)
+- **Appiattimento** → reattività emotiva ridotta (<span class="c-warn">non assente</span> — <span class="c-dato">Bleuler</span>: *"in nessun caso del tutto spenta"*)
 - **Discordanza** → emozione incongruente con la situazione (es. ridere di un lutto)
 - **Ambivalenza** → emozioni opposte copresenti nello stesso momento
 
 **Ambito psicomotorio**:
 - *Riduzione* → ritiro, rallentamento (la più frequente)
-- *Aumento* → agitazione psicomotoria; **crisi pantoclastica** (comportamento distruttivo senza finalità)
-- *Qualitativa* → **manierismi** (comportamenti esasperati e teatrali), stereotipie
+- *Aumento* → agitazione psicomotoria; <span class="c-def">**crisi pantoclastica**</span> (comportamento distruttivo senza finalità)
+- *Qualitativa* → <span class="c-def">**manierismi**</span> (comportamenti esasperati e teatrali), stereotipie
 
 ### 2. Autismo
-- **Definizione** → perdita del contatto vitale con la realtà; ritiro nel mondo interno
+- **Definizione** → <span class="c-def">perdita del contatto vitale con la realtà; ritiro nel mondo interno</span>
 - **Oggi** → corrisponde ai sintomi negativi (ritiro, apatia, linguaggio non relazionale)
 
 ### 3. Delirio
-- **Definizione** → convinzione falsa, incrollabile, palese agli altri
-- **3 caratteristiche** (Sims, 2004): sostenuta con insolita convinzione / non riducibile alla logica / falsità palese
+- **Definizione** → <span class="c-def">convinzione falsa, incrollabile, palese agli altri</span>
+- **3 caratteristiche** (<span class="c-dato">Sims, 2004</span>): sostenuta con insolita convinzione / non riducibile alla logica / falsità palese
 - **Contenuti frequenti**: persecuzione, avvelenamento, influenzamento, gelosia, grandiosità
-- ⚠️ Il contenuto dipende dal background culturale del paziente
+- <span class="c-warn">⚠️ Il contenuto dipende dal background culturale del paziente</span>
 
 ### 4. Depersonalizzazione / Derealizzazione
-- **Depersonalizzazione** → si percepisce come automa, si vede dall'esterno
-- **Derealizzazione** → il mondo è estraneo, c'è una membrana tra sé e la realtà
+- <span class="c-def">**Depersonalizzazione**</span> → si percepisce come automa, si vede dall'esterno
+- <span class="c-def">**Derealizzazione**</span> → il mondo è estraneo, c'è una membrana tra sé e la realtà
 - **Tempo** → congelato, cristallizzato, senza progettualità
 
 ### 5. Disturbi del comportamento
-- **Suicidalità** → rischio 10-20x rispetto alla popolazione generale
-  - ⚠️ Picco nel *miglioramento*, non nello scompenso
+- **Suicidalità** → <span class="c-dato">rischio 10-20x rispetto alla popolazione generale</span>
+  - <span class="c-warn">⚠️ Picco nel *miglioramento*, non nello scompenso</span>
 - **Alimentazione** → deliri di avvelenamento → evitamento selettivo; pseudo-bulimia
 - **Sessualità** → autoerotico, angoscia identitaria, voci allucinatorie
 
@@ -110,7 +119,7 @@ Salute Mentale · Sessione 09
 - **Tipo più frequente** → uditive
 - **Caratteristica** → indistinguibili da percezioni reali per il paziente
 - **Atteggiamento del paziente** → variabile: le nasconde, le apprezza, le teme
-- ⚠️ Voci perentorie con ordini pericolosi → massima vigilanza
+- <span class="c-warn">⚠️ Voci perentorie con ordini pericolosi → massima vigilanza</span>
 
 ---
 
@@ -120,7 +129,7 @@ Salute Mentale · Sessione 09
 |---|---|---|
 | Nevrosi | Castrazione (limite, impedimento) | Genitale (riconosce l'alterità) |
 | Borderline | Abbandono | Anaclitico (appoggio vitale) |
-| Schizofrenia | **Frammentazione** (andare a pezzi) | **Fusionale** (confine sé/altro labili) |
+| Schizofrenia | <span class="c-def">**Frammentazione** (andare a pezzi)</span> | <span class="c-tesi">**Fusionale** (confine sé/altro labili)</span> |
 
 ---
 
@@ -133,7 +142,7 @@ Salute Mentale · Sessione 09
 | **Stato (~20 anni)** | Sintomi positivi manifesti (deliri, allucinazioni), scompenso psicotico | Clinica |
 | **Esiti** | Remissione / ricadute / stato cronico | Lungo termine |
 
-### Vulnerabilità premorbosa (Stanghellini & Ballerini, 2005)
+### Vulnerabilità premorbosa (<span class="c-dato">Stanghellini & Ballerini, 2005</span>)
 - Difficoltà nelle relazioni interpersonali
 - Disturbi socio-emozionali
 - Disturbi del sé (pensiero, linguaggio, percezione)
@@ -142,21 +151,21 @@ Salute Mentale · Sessione 09
 
 ---
 
-## Tipo 1 vs. Tipo 2 (Crow, 1980)
+## Tipo 1 vs. Tipo 2 (<span class="c-dato">Crow, 1980</span>)
 
 | | **Tipo 1** | **Tipo 2** |
 |---|---|---|
 | **Sintomi predominanti** | Positivi (deliri, allucinazioni) | Negativi (ritiro, apatia, deterioramento) |
 | **Decorso** | Potenzialmente reversibile | Cronico con deterioramento progressivo |
-| **Risposta ai neurolettici** | Buona | Ridotta |
+| **Risposta ai neurolettici** | Buona | <span class="c-warn">Ridotta</span> |
 
 ---
 
 ## Fattori prognostici
 
-**Favorevoli** → diagnosi precoce · intervento farmacologico immediato · andamento acuto iniziale · buon funzionamento premorboso · sesso femminile · esordio tardivo · rete sociale adeguata
+<span class="c-tesi">**Favorevoli**</span> → diagnosi precoce · intervento farmacologico immediato · andamento acuto iniziale · buon funzionamento premorboso · sesso femminile · esordio tardivo · rete sociale adeguata
 
-**Sfavorevoli** → esordio precoce · familiarità · isolamento sociale · sintomi negativi dominanti · resistenza al trattamento
+<span class="c-warn">**Sfavorevoli**</span> → esordio precoce · familiarità · isolamento sociale · sintomi negativi dominanti · resistenza al trattamento
 
 ---
 

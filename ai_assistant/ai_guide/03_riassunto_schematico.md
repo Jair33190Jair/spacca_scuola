@@ -62,6 +62,27 @@ Un file markdown: `gen/03_riassunto_schematico.md`
 - **Autori, date, riferimenti bibliografici**
   in tabella se presenti nella lezione.
 
+## Sistema di colori
+
+Stesse classi CSS degli altri formati. Includi il commento
+legenda in cima al file e usa `<span class="c-xxx">` inline.
+
+```html
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+```
+
+Nello schematico i colori si applicano principalmente dentro
+le celle delle tabelle e nelle mini-definizioni delle liste.
+Mantieni l'uso molto selettivo: solo i termini e i valori
+che è fondamentale non confondere o dimenticare.
+
 ## Regole di formato
 
 - **Struttura visiva massima.** Liste indentate,

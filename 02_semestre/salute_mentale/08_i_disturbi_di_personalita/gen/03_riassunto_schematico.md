@@ -1,20 +1,29 @@
 # I Disturbi di Personalità — Schema
 Salute Mentale · Sessione 08
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 ---
 
 ## Personalità: componenti di base
 
-- **Temperamento** → tratti congeniti, biologici; risposta emotiva agli stimoli
+- <span class="c-def">**Temperamento**</span> → tratti congeniti, biologici; risposta emotiva agli stimoli
   - Influenzato da genetica + fattori prenatali/perinatali
-  - Relativamente stabile ma non immutabile
-- **Carattere** → tratti acquisiti dall'interazione con l'ambiente; modellato dall'esperienza
-- **Personalità** → temperamento + carattere
+  - <span class="c-warn">Relativamente stabile ma non immutabile</span>
+- <span class="c-def">**Carattere**</span> → tratti acquisiti dall'interazione con l'ambiente; modellato dall'esperienza
+- <span class="c-def">**Personalità**</span> → temperamento + carattere
   - = modalità stabili di: **pensare · sentire · comportarsi · relazionarsi**
 
 ---
 
-## 9 variabili temperamentali (Thomas, Chess & Birch, 1968)
+## 9 variabili temperamentali (<span class="c-dato">Thomas, Chess & Birch, 1968</span>)
 
 - **Livello di attività** → quantità di movimento spontaneo
 - **Regolarità biologica** → prevedibilità di sonno, alimentazione, defecazione
@@ -28,43 +37,43 @@ Salute Mentale · Sessione 08
 
 **Tipologie infantili**:
 - Bambini **facili** → ritmi regolari, umore positivo, adattabili
-- Bambini **difficili** (~10%) → caratteristiche opposte
+- <span class="c-es">Bambini **difficili** (~10%)</span> → caratteristiche opposte
 - Bambini a **lenta attivazione** → risposte attenuate, adattamento lento
 
-**Goodness of fit** → armonia tra temperamento del bambino e risposte dell'ambiente
+<span class="c-def">**Goodness of fit**</span> → armonia tra temperamento del bambino e risposte dell'ambiente
 
 ---
 
 ## Modelli di tratti
 
-- **Eysenck**: estroversione · nevroticismo · psicoticismo (abbandonato)
-- **Big Five** (Costa & McCrae, 1988):
+- <span class="c-dato">**Eysenck**</span>: estroversione · nevroticismo · psicoticismo (abbandonato)
+- <span class="c-def">**Big Five**</span> (<span class="c-dato">Costa & McCrae, 1988</span>):
   - Estroversione
   - Nevroticismo
   - **Gradevolezza** → calore vs cinismo
   - **Coscienziosità** → autocontrollo vs impulsività
   - **Apertura all'esperienza** → curiosità vs convenzionalità
-- **Corazza caratteriale** (Reich) → stili difensivi abituali formati nell'infanzia
+- <span class="c-def">**Corazza caratteriale**</span> (<span class="c-dato">Reich</span>) → stili difensivi abituali formati nell'infanzia
 
 ---
 
 ## Tratto vs Stato
 
-- **Tratto** → stabile nel tempo e nelle situazioni → base dei disturbi di personalità
-- **Stato** → temporaneo, reattivo → base delle sindromi cliniche (es. depressione maggiore)
+- <span class="c-def">**Tratto**</span> → stabile nel tempo e nelle situazioni → <span class="c-impl">base dei disturbi di personalità</span>
+- <span class="c-def">**Stato**</span> → temporaneo, reattivo → <span class="c-impl">base delle sindromi cliniche</span> (es. depressione maggiore)
 
 ---
 
 ## Da stile a disturbo
 
-- **Stile** → tratti adattivi, non compromettono il funzionamento
-- **Disturbo** → tratti rigidi, pervasivi → sofferenza e/o compromissione significativa
+- <span class="c-def">**Stile**</span> → tratti adattivi, non compromettono il funzionamento
+- <span class="c-def">**Disturbo**</span> → tratti rigidi, pervasivi → sofferenza e/o compromissione significativa
 
-**Modello bio-psico-sociale** (Paris, 1997):
+<span class="c-tesi">**Modello bio-psico-sociale**</span> (<span class="c-dato">Paris, 1997</span>):
 - Fattori **biologici** → temperamento, neuropsicologia
 - Fattori **psicologici** → traumi, accudimento abnorme
 - Fattori **sociali** → disgregazione valori, riti iniziatici assenti
-- **Diatesi** (vulnerabilità) + **stress** = disturbo
+- <span class="c-def">**Diatesi**</span> (vulnerabilità) + **stress** = disturbo
 
 ---
 
@@ -79,72 +88,57 @@ Pattern che:
 Aree interessate (almeno 2):
 `Cognitività` · `Affettività` · `Funzionamento interpersonale` · `Controllo degli impulsi`
 
-- **Egosintonia** → tratti non percepiti come problematici → scarsa motivazione al trattamento
-- **Spettro internalizzante** → soffrono dentro, si incolpano (evitante, dipendente, schizoide)
-- **Spettro esternalizzante** → fanno soffrire gli altri, incolpano gli altri (paranoide, narcisistico, antisociale)
-- **BPD** → oscilla tra i due spettri
+- <span class="c-def">**Egosintonia**</span> → tratti non percepiti come problematici → <span class="c-warn">scarsa motivazione al trattamento</span>
+- <span class="c-tesi">**Spettro internalizzante**</span> → soffrono dentro, si incolpano (evitante, dipendente, schizoide)
+- <span class="c-tesi">**Spettro esternalizzante**</span> → fanno soffrire gli altri, incolpano gli altri (paranoide, narcisistico, antisociale)
+- <span class="c-warn">**BPD** → oscilla tra i due spettri</span>
 
 ---
 
 ## Cluster A — Strani ed eccentrici
 
 ### Paranoide
-- **Nucleo** → diffidenza e sospettosità pervasive; motivazioni altrui = malevole
+- **Nucleo** → <span class="c-def">diffidenza e sospettosità pervasive</span>; motivazioni altrui = malevole
 - **Criteri** → sospetta di essere sfruttato/ingannato · non si confida · porta rancore · reattività rabbiosa · gelosia infondata
 - **Credenza sé** → "Sono costantemente in pericolo"
 - **Credenza altri** → "Il mondo è pieno di persone pronte ad attaccarmi"
 - **Difese** → proiezione · identificazione proiettiva · diniego · formazione reattiva
 
 ### Schizoide
-- **Nucleo** → distacco pervasivo dalle relazioni; gamma emotiva ristretta
+- **Nucleo** → <span class="c-def">distacco pervasivo dalle relazioni; gamma emotiva ristretta</span>
 - **Criteri** → non desidera relazioni strette · attività solitarie · nessun amico stretto · indifferente a lodi/critiche · freddo emotivamente
-- **Credenza sé** → "La dipendenza e l'amore sono pericolosi"
-- **Credenza altri** → "La vita sociale mi invade e mi sopraffà"
 - **Difesa** → ritiro (comportamentale e in fantasia)
 
 ### Schizotipico
-- **Nucleo** → deficit sociali + distorsioni cognitive/percettive + eccentricità
-- **Criteri** → idee di riferimento · pensiero magico · esperienze percettive insolite · linguaggio strano · comportamento bizzarro · ansia sociale persistente
-- **Nota** → disturbo di personalità più vicino alla psicosi; contatto con realtà ancora presente
+- **Nucleo** → <span class="c-def">deficit sociali + distorsioni cognitive/percettive + eccentricità</span>
+- **Nota** → <span class="c-warn">disturbo di personalità più vicino alla psicosi; contatto con realtà ancora presente</span>
 
 ---
 
 ## Cluster B — Drammatici, emotivi, imprevedibili
 
 ### Antisociale
-- **Nucleo** → violazione pervasiva dei diritti altrui
-- **Criteri** → violazione norme legali · menzogne/truffe · impulsività · aggressività · negligenza sicurezza · irresponsabilità · assenza rimorso
-- **Criterio temporale** → disturbo della condotta prima dei **15 anni**
-- **Credenza sé** → "Posso fare tutto ciò che voglio"
-- **Credenza altri** → "Sono tutti egoisti e spregevoli"
+- **Nucleo** → <span class="c-def">violazione pervasiva dei diritti altrui</span>
+- <span class="c-warn">**Criterio temporale** → disturbo della condotta prima dei **15 anni**</span>
 - **Difesa** → controllo onnipotente
 
 ### Borderline (BPD)
-- **Nucleo** → instabilità di relazioni, identità e umore + marcata impulsività
-- **Prevalenza** → ~20% dei pazienti psichiatrici (Gunderson & Links, 2015)
+- **Nucleo** → <span class="c-tesi">instabilità di relazioni, identità e umore + marcata impulsività</span>
+- <span class="c-dato">**Prevalenza** → ~20% dei pazienti psichiatrici (Gunderson & Links, 2015)</span>
 - **Criteri**:
   - Sforzi disperati per evitare l'abbandono (reale o immaginario)
   - Relazioni intense e instabili → idealizzazione ↔ svalutazione
   - Identità instabile e persistentemente discontinua
   - Impulsività in aree dannose (spese, sessualità, sostanze, guida, abbuffate)
-  - Comportamenti automutilanti o minacce suicidarie (80% dei ricoverati)
-  - Instabilità affettiva rapida (≠ bipolare: cicli molto più brevi)
+  - <span class="c-dato">Comportamenti automutilanti o minacce suicidarie (80% dei ricoverati)</span>
+  - <span class="c-warn">Instabilità affettiva rapida (≠ bipolare: cicli molto più brevi)</span>
   - Sentimenti cronici di vuoto
   - Rabbia inappropriata e intensa
   - Ideazione paranoide transitoria / sintomi dissociativi sotto stress
-- **Credenza sé** → "Non so chi sono: mi sento confuso e privo di continuità"
-- **Credenza altri** → "Gli altri sono tutti buoni o tutti cattivi"
-- **Difese** → scissione · identificazione proiettiva · diniego · dissociazione · acting out
-
-### Istrionico
-- **Nucleo** → emotività eccessiva e ricerca di attenzione
-- **Criteri** → disagio senza attenzione · seduttività inappropriata · emotività superficiale e mutevole · usa l'aspetto fisico · drammatizzazione · suggestionabilità
+- **Difese** → <span class="c-def">scissione</span> · identificazione proiettiva · diniego · dissociazione · acting out
 
 ### Narcisistico
-- **Nucleo** → grandiosità + bisogno di ammirazione + mancanza empatia (emotiva)
-- **Criteri** → senso grandioso di importanza · fantasie di successo · si ritiene speciale · richiede ammirazione · senso che tutto gli sia dovuto · sfruttamento altrui · invidia · arroganza
-- **Credenza sé** → "Devo essere perfetto per sentirmi bene"
-- **Credenza altri** → "Gli altri hanno potere e fama — più ne avrò io e meglio starò"
+- **Nucleo** → <span class="c-def">grandiosità + bisogno di ammirazione + mancanza empatia (emotiva)</span>
 - **Difese** → idealizzazione · svalutazione
 
 ---
@@ -152,43 +146,30 @@ Aree interessate (almeno 2):
 ## Cluster C — Ansiosi e inibiti
 
 ### Evitante
-- **Nucleo** → inibizione sociale + inadeguatezza + ipersensibilità al giudizio
-- **Criteri** → evita contatto interpersonale lavorativo · riluttante alle relazioni · riservato per paura di umiliazione · si vede come inferiore/incapace
-- **Distinzione da schizoide** → l'evitante *vuole* le relazioni; lo schizoide no
-- **Distinzione da ansia sociale** → qui è un tratto stabile di personalità, non una fobia
-- **Credenza sé** → "Sono in costante pericolo"
-- **Credenza altri** → "Fonte di pericolo o protettori salvifici"
-- **Difese** → evitamento · simbolizzazione · spostamento · ansia indefinita
+- <span class="c-warn">**Distinzione da schizoide** → l'evitante *vuole* le relazioni; lo schizoide no</span>
+- <span class="c-warn">**Distinzione da ansia sociale** → qui è un tratto stabile di personalità, non una fobia</span>
 
 ### Dipendente
-- **Nucleo** → bisogno pervasivo di essere accuditi + sottomissione + paura separazione
-- **Criteri** → non decide senza consigli · lascia gli altri decidere · non esprime dissenso · si offre per compiti spiacevoli pur di mantenere supporto · insofferente alla solitudine · cerca subito nuova relazione se abbandonato
-- **Credenza sé** → "Sono inadeguato, debole, impotente"
-- **Credenza altri** → "Gli altri sono forti e io ho bisogno delle loro cure"
-- **Difese** → regressione · capovolgimento dell'affetto · evitamento · somatizzazione
+- **Nucleo** → <span class="c-def">bisogno pervasivo di essere accuditi + sottomissione + paura separazione</span>
 
 ### Ossessivo-Compulsivo di Personalità (DOCP)
-- **Nucleo** → ordine + perfezionismo + controllo interpersonale a spese di flessibilità
-- **Criteri** → fissazione su dettagli/regole · perfezionismo che blocca il completamento · workaholism · rigidità morale · accumulo oggetti · rifiuto a delegare · avarizia · ostinazione
-- **Distinzione da DOC** → nel DOCP non ci sono ossessioni né compulsioni vere; è egosintonico
-- **Credenza sé** → "Le emozioni sono pericolose e vanno controllate"
-- **Credenza altri** → "Gli altri sono meno precisi — devo controllare quello che fanno"
-- **Difese** → isolamento degli affetti · formazione reattiva · intellettualizzazione · moralismo · annullamento retroattivo
+- **Nucleo** → <span class="c-def">ordine + perfezionismo + controllo interpersonale a spese di flessibilità</span>
+- <span class="c-warn">**Distinzione da DOC** → nel DOCP non ci sono ossessioni né compulsioni vere; è egosintonico</span>
 
 ---
 
 ## Il problema diagnostico
 
-- DSM → approccio **categoriale** (sì/no) ↔ disturbi psicologici sono **dimensionali**
+- <span class="c-tesi">DSM → approccio **categoriale** (sì/no) ↔ disturbi psicologici sono **dimensionali**</span>
 - Problema → alta comorbilità, casi sotto soglia, categorie artificiali
-- Studio Shea et al. (1999) → veterani di guerra con PTSD: 82-90% criteri paranoide, 52-92% criteri borderline
-- **PDM-2** (Lingiardi & McWilliams) → alternativa più dimensionale e psicodinamica
+- <span class="c-es">Studio <span class="c-dato">Shea et al. (1999)</span> → veterani di guerra con PTSD: 82-90% criteri paranoide, 52-92% criteri borderline</span>
+- <span class="c-def">**PDM-2**</span> (<span class="c-dato">Lingiardi & McWilliams</span>) → alternativa più dimensionale e psicodinamica
 
 ---
 
 ## Organizzazione di personalità (Kernberg)
 
-**"Borderline" in senso estensivo** = livello strutturale intrapsichico (non solo diagnosi DSM)
+<span class="c-tesi">**"Borderline" in senso estensivo** = livello strutturale intrapsichico (non solo diagnosi DSM)</span>
 
 | Struttura | Identità | Difese | Esame di realtà |
 |-----------|----------|--------|-----------------|
@@ -197,19 +178,19 @@ Aree interessate (almeno 2):
 | **Psicotica** | Gravemente compromessa | Primitive | Perduto |
 
 3 criteri per l'organizzazione borderline:
-1. **Diffusione dell'identità** → sé e altri poco integrati; percezioni contraddittorie
-2. **Difese primitive** → scissione come meccanismo centrale (tutto buono / tutto cattivo)
-3. **Esame di realtà conservato** → distingue interno/esterno; non delira in modo persistente
+1. <span class="c-def">**Diffusione dell'identità**</span> → sé e altri poco integrati; percezioni contraddittorie
+2. <span class="c-def">**Difese primitive**</span> → scissione come meccanismo centrale (tutto buono / tutto cattivo)
+3. <span class="c-warn">**Esame di realtà conservato**</span> → distingue interno/esterno; non delira in modo persistente
 
-Organizzazione borderline sottende grosso modo i disturbi dei **cluster A e B**.
+<span class="c-impl">Organizzazione borderline sottende grosso modo i disturbi dei **cluster A e B**.</span>
 
 ---
 
 ## Trattamenti validati per BPD
 
-- **DBT** (Linehan) → dialettico-comportamentale; tolleranza emozioni; strategie interpersonali
-- **MBT** → basata sulla mentalizzazione
-- **TFP** (Kernberg) → basata sul transfert
+- <span class="c-def">**DBT**</span> (<span class="c-dato">Linehan</span>) → dialettico-comportamentale; tolleranza emozioni; strategie interpersonali
+- <span class="c-def">**MBT**</span> → basata sulla mentalizzazione
+- <span class="c-def">**TFP**</span> (<span class="c-dato">Kernberg</span>) → basata sul transfert
 
 ---
 

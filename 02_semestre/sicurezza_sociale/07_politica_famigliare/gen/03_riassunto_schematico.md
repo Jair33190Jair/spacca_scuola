@@ -1,36 +1,45 @@
 # Politica Famigliare in Svizzera e Ticino — Schema
 Sicurezza Sociale e Forme di Solidarietà · Sessione 07
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 ---
 
 ## Definizioni di famiglia
 
-- **Economia domestica** → persone che vivono insieme nella stessa abitazione
-- **Economia domestica familiare** → economia domestica + legame di parentela (senza obbligo di figli)
-- **Costituzione federale (art. 41)** → «comunità di adulti e bambini»; nessuna coabitazione obbligatoria
-- **COFF (2000)** → «gruppo sociale fondato sui rapporti genitori-figli, socialmente riconosciuto»
-  - Introduce: **filiazione** (legame giuridico genitori-figli)
+- <span class="c-def">**Economia domestica**</span> → persone che vivono insieme nella stessa abitazione
+- <span class="c-def">**Economia domestica familiare**</span> → economia domestica + legame di parentela (senza obbligo di figli)
+- <span class="c-dato">**Costituzione federale (art. 41)**</span> → «comunità di adulti e bambini»; nessuna coabitazione obbligatoria
+- <span class="c-dato">**COFF (2000)**</span> → «gruppo sociale fondato sui rapporti genitori-figli, socialmente riconosciuto»
+  - Introduce: <span class="c-def">**filiazione**</span> (legame giuridico genitori-figli)
   - Esclude: obbligo di matrimonio, coabitazione, figli minorenni
-  - Implica: la politica per anziani può rientrare nella politica famigliare
+  - <span class="c-impl">Implica: la politica per anziani può rientrare nella politica famigliare</span>
 
 ---
 
 ## Perché lo Stato interviene?
 
-- **Rapporto Lüscher (1982)** → la famiglia produce prestazioni utili alla società → non è solo affare privato
+- <span class="c-tesi">**Rapporto Lüscher (<span class="c-dato">1982</span>)** → la famiglia produce prestazioni utili alla società → non è solo affare privato</span>
 - Finalità **dirette**: benessere, diritti dei membri, protezione minori, contrasto violenza domestica
 - Finalità **esterne**:
   - Demografiche → natalità, equilibrio demografico
   - Economiche → reddito, povertà, mercato del lavoro, capitale umano
-  - Storiche → sostegno al **male breadwinner model**
+  - Storiche → sostegno al <span class="c-def">**male breadwinner model**</span>
 
 ---
 
 ## Organizzazione istituzionale
 
-- **Sussidiarietà verticale** → comune → cantone → Confederazione (interviene il livello più basso prima)
-- **Sussidiarietà orizzontale** → pubblico e privato concorrono
-- Base legale cantonale TI: **LFam (874.100, 2003)**
+- <span class="c-def">**Sussidiarietà verticale**</span> → comune → cantone → Confederazione (interviene il livello più basso prima)
+- <span class="c-def">**Sussidiarietà orizzontale**</span> → pubblico e privato concorrono
+- Base legale cantonale TI: <span class="c-dato">**LFam (874.100, 2003)**</span>
   - Strutture di accoglienza (nidi, famiglie diurne, extrascolastici)
   - Protezione minori e famiglie in difficoltà
   - Informazione, prevenzione, sensibilizzazione
@@ -41,44 +50,44 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 07
 
 | Gamba | Esempi |
 |---|---|
-| **Sostegno monetario** | Assegni familiari, AFI/API, IPG, sussidi, borse di studio, anticipo alimenti, misure fiscali |
-| **Tempo** | Congedo maternità, congedo altro genitore, congedo adozione |
-| **Servizi** | Nidi, famiglie diurne, doposcuola, servizi di protezione |
+| <span class="c-def">**Sostegno monetario**</span> | Assegni familiari, AFI/API, IPG, sussidi, borse di studio, anticipo alimenti, misure fiscali |
+| <span class="c-def">**Tempo**</span> | Congedo maternità, congedo altro genitore, congedo adozione |
+| <span class="c-def">**Servizi**</span> | Nidi, famiglie diurne, doposcuola, servizi di protezione |
 
 ---
 
-## Assegni familiari — LAFam (federale)
+## Assegni familiari — <span class="c-dato">LAFam</span> (federale)
 
 - **Obiettivo** → integrare (non sostituire) il reddito
-- **Assegno per i figli** → min. 215 CHF/mese, fino a 16 anni (20 se incapace al guadagno)
-- **Assegno di formazione** → min. 268 CHF/mese, dalla formazione post-obbligatoria fino a 25 anni
-- **Aventi diritto**: figli propri, figliastri, affiliati, fratelli/sorelle/abiatici a carico
+- **Assegno per i figli** → min. <span class="c-dato">215 CHF/mese</span>, fino a 16 anni (20 se incapace al guadagno)
+- **Assegno di formazione** → min. <span class="c-dato">268 CHF/mese</span>, dalla formazione post-obbligatoria fino a 25 anni
+- **Aventi diritto**: figli propri, figliastri, affiliati, fratelli/sorelle/<span class="c-def">abiatici</span> a carico
 - **Priorità** (in caso di più aventi diritto): 1) chi lavora 2) chi ha reddito più alto
 - Il Ticino applica i minimi federali
 
 ---
 
-## AFI e API — Assegni cantonali Ticino (dal 1996)
+## AFI e API — Assegni cantonali Ticino (dal <span class="c-dato">1996</span>)
 
-- **Scopo** → ridurre povertà famigliare, evitare assistenza sociale
-- **AFI** (Assegno Famigliare Integrativo)
+- <span class="c-tesi">**Scopo** → ridurre povertà famigliare, evitare assistenza sociale</span>
+- <span class="c-def">**AFI**</span> (Assegno Famigliare Integrativo)
   - Figli < 15 anni · integra fino a coprire il fabbisogno del figlio
-  - Max 818 CHF/mese (1°-2° figlio) / 545 (3°-4°) / 273 (ulteriori)
-- **API** (Assegno di Prima Infanzia)
+  - Max <span class="c-dato">818 CHF/mese</span> (1°-2° figlio) / <span class="c-dato">545</span> (3°-4°) / <span class="c-dato">273</span> (ulteriori)
+- <span class="c-def">**API**</span> (Assegno di Prima Infanzia)
   - Figli fino all'ingresso alla scuola dell'infanzia (~4 anni)
-  - Permette di raggiungere il **minimo vitale**
-- **Requisito residenza**: ≥ 3 anni TI (svizzeri) / ≥ 5 anni (stranieri)
+  - Permette di raggiungere il <span class="c-def">**minimo vitale**</span>
+- <span class="c-warn">**Requisito residenza**: ≥ 3 anni TI (svizzeri) / ≥ 5 anni (stranieri)</span>
 
 ---
 
 ## LAV — Vittime di reati / violenza domestica
 
-- **Base legale** → Legge federale concernente l'aiuto alle vittime di reati (LAV)
+- **Base legale** → <span class="c-dato">Legge federale concernente l'aiuto alle vittime di reati (LAV)</span>
 - **Ente erogatore TI** → Servizio LAV
 - **Aiuto immediato** → bisogni urgenti conseguenti al reato
-  - Spese mediche, psicologiche (max 10 sedute), legali (min. 4 ore), alloggio (max 35 gg.), trasloco, traduzione, custodia
+  - Spese mediche, psicologiche (max <span class="c-dato">10 sedute</span>), legali (min. <span class="c-dato">4 ore</span>), alloggio (max <span class="c-dato">35 gg.</span>), trasloco, traduzione, custodia
 - **Aiuto a lungo termine** → fino a stabilizzazione della situazione
-- **Regola chiave** → prestazioni **sussidiarie**: interviene LAV solo se non ci sono altre coperture (es. LAINF)
+- <span class="c-warn">**Regola chiave** → prestazioni **sussidiarie**: interviene LAV solo se non ci sono altre coperture (es. LAINF)</span>
 
 ---
 
@@ -86,44 +95,44 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 07
 
 | Componente | Base legale | Contenuto |
 |---|---|---|
-| **Congedo** (astensione dal lavoro) | Legge sul lavoro (LL) | Diritto legale a non lavorare |
-| **Indennità** (sostituzione del reddito) | LIPG | Compensazione economica |
+| <span class="c-def">**Congedo**</span> (astensione dal lavoro) | Legge sul lavoro (LL) | Diritto legale a non lavorare |
+| <span class="c-def">**Indennità**</span> (sostituzione del reddito) | LIPG | Compensazione economica |
 
 **Maternità**:
-- Congedo: 16 settimane totali (prime 8 obbligatorie con divieto di lavoro)
-- Indennità: 14 settimane · 80% del salario · max 220 CHF/giorno
-- Condizioni: 9 mesi AVS + 5 mesi di lavoro durante gravidanza
+- Congedo: <span class="c-dato">16 settimane</span> totali (<span class="c-warn">prime 8 obbligatorie con divieto di lavoro</span>)
+- Indennità: <span class="c-dato">14 settimane</span> · <span class="c-dato">80%</span> del salario · max <span class="c-dato">220 CHF/giorno</span>
+- Condizioni: <span class="c-dato">9 mesi AVS</span> + <span class="c-dato">5 mesi di lavoro</span> durante gravidanza
 
 **Altro genitore**:
-- 2 settimane · entro 6 mesi dalla nascita · stesse condizioni
+- <span class="c-dato">2 settimane</span> · entro 6 mesi dalla nascita · stesse condizioni
 
-**Confronto internazionale (OCSE 2023)**: Svizzera tra i paesi con congedi più brevi dell'Europa occidentale; nessun congedo parentale federale
+<span class="c-tesi">**Confronto internazionale (<span class="c-dato">OCSE 2023</span>)**: Svizzera tra i paesi con congedi più brevi dell'Europa occidentale; nessun congedo parentale federale</span>
 
 ---
 
 ## Sfide attuali
 
-- **Politica costruita per** → coppia sposata, figli biologici, male breadwinner model
+- **Politica costruita per** → coppia sposata, figli biologici, <span class="c-def">male breadwinner model</span>
 - **Nuove forme familiari** → monoparentali, ricomposte, omoparentali, nascite fuori dal matrimonio
 - **Risposte recenti**:
-  - Uguaglianza matrimoniale (2022) → filiazione per partner non biologico
-  - Misure conciliazione famiglia-lavoro → dual-earner (non ancora dual-carer)
-  - Convenzione di Istanbul → violenza domestica
+  - <span class="c-dato">Uguaglianza matrimoniale (2022)</span> → filiazione per partner non biologico
+  - Misure conciliazione famiglia-lavoro → <span class="c-def">dual-earner</span> (non ancora <span class="c-def">dual-carer</span>)
+  - <span class="c-dato">Convenzione di Istanbul</span> → violenza domestica
 
 ---
 
 ## Disuguaglianze di genere (Larenza; Giudici & Bruno)
 
 **Decisioni riproduttive**:
-- Donne istruite → più childlessness (33% tra 50-59enni con titolo terziario vs. 18% con secondario II)
-- Negli uomini: nessuna correlazione istruzione-infecondità
-- Reddito e stabilità lavorativa della donna → fattore determinante nella scelta riproduttiva
+- Donne istruite → più childlessness (<span class="c-dato">33%</span> tra 50-59enni con titolo terziario vs. <span class="c-dato">18%</span> con secondario II)
+- <span class="c-warn">Negli uomini: nessuna correlazione istruzione-infecondità</span>
+- <span class="c-impl">Reddito e stabilità lavorativa della donna → fattore determinante nella scelta riproduttiva</span>
 
 **Conciliazione**:
-- Costo nidi svizzeri → ~35% reddito famigliare (media OCSE: 14%)
-- Effetto paradossale: per madri a basso reddito, lavorare non conviene economicamente
+- <span class="c-tesi">Costo nidi svizzeri → ~<span class="c-dato">35%</span> reddito famigliare (media OCSE: <span class="c-dato">14%</span>)</span>
+- <span class="c-warn">Effetto paradossale: per madri a basso reddito, lavorare non conviene economicamente</span>
 
-**Strategie di custodia (studio 2014, n = 4.649 famiglie TI)**:
+**Strategie di custodia (<span class="c-dato">studio 2014, n = 4.649 famiglie TI</span>)**:
 
 | Strategia | % |
 |---|---|
@@ -134,13 +143,13 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 07
 | Custodia informale allargata | 9,2 |
 | Famiglia diurna | 5,2 |
 
-- Fattori determinanti: **reddito** e **disponibilità di nidi nel comune** (non le preferenze dei genitori)
-- Chi più beneficerebbe del nido (famiglie povere, alloglotte) → chi vi accede meno
+- <span class="c-tesi">Fattori determinanti: **reddito** e **disponibilità di nidi nel comune** (non le preferenze dei genitori)</span>
+- <span class="c-warn">Chi più beneficerebbe del nido (famiglie povere, alloglotte) → chi vi accede meno</span>
 
 **Monoparentalità**:
-- > 80% custodie esclusive → madri
-- Amplifica disuguaglianze preesistenti
-- Mancato versamento contributi di mantenimento → diffuso; difficile da recuperare (il CC protegge minimo vitale del debitore, art. 285)
+- <span class="c-dato">> 80%</span> custodie esclusive → madri
+- <span class="c-impl">Amplifica disuguaglianze preesistenti</span>
+- <span class="c-warn">Mancato versamento contributi di mantenimento → diffuso; difficile da recuperare (il CC protegge minimo vitale del debitore, <span class="c-dato">art. 285</span>)</span>
 
 ---
 
@@ -148,14 +157,14 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 07
 
 | Chi | Cosa | Quando |
 |---|---|---|
-| Lüscher | Rapporto: famiglia da affare privato a oggetto di politiche pubbliche | 1982 |
-| Saraceno | Classificazione finalità politica famigliare | 2011 |
-| Stutz et al. | COFF: politica anziani ↔ politica famigliare | 2004 |
-| Giudici & Bruno (USTAT) | Strategie di custodia prima infanzia in Ticino | 2016 |
-| Larenza | Disuguaglianze di genere nelle transizioni familiari (cap. 5) | — |
-| Larenza | Madri sole e obblighi di mantenimento (studio qualitativo) | 2022 |
-| Burkimsher & Zeman | Infecondità femminile in Svizzera | 2017 |
-| Hannappi et al. | Stabilità lavorativa e intenzioni riproduttive | 2017 |
+| <span class="c-dato">Lüscher</span> | Rapporto: famiglia da affare privato a oggetto di politiche pubbliche | 1982 |
+| <span class="c-dato">Saraceno</span> | Classificazione finalità politica famigliare | 2011 |
+| <span class="c-dato">Stutz et al.</span> | COFF: politica anziani ↔ politica famigliare | 2004 |
+| <span class="c-dato">Giudici & Bruno (USTAT)</span> | Strategie di custodia prima infanzia in Ticino | 2016 |
+| <span class="c-dato">Larenza</span> | Disuguaglianze di genere nelle transizioni familiari (cap. 5) | — |
+| <span class="c-dato">Larenza</span> | Madri sole e obblighi di mantenimento (studio qualitativo) | 2022 |
+| <span class="c-dato">Burkimsher & Zeman</span> | Infecondità femminile in Svizzera | 2017 |
+| <span class="c-dato">Hannappi et al.</span> | Stabilità lavorativa e intenzioni riproduttive | 2017 |
 
 ---
 

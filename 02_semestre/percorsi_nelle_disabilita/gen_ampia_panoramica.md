@@ -1,7 +1,7 @@
 # Percorsi nelle Disabilità — Panoramica completa
-Semestre 02 · 10 lezioni elaborate (01, 02, 04–11; manca 03)
+Semestre 02 · 12 lezioni elaborate (01, 02, 04–13; manca 03)
 
-> Da Hammurabi alle politiche inclusive ticinesi del 2024, questo modulo costruisce uno sguardo completo sulla disabilità: prima la storia e le classificazioni, poi i quadri legali e i modelli interpretativi, infine le situazioni specifiche (deficit intellettivo, ASD, polyhandicap) e la progettualità di vita. Il filo rosso è sempre lo stesso: la disabilità non è nella persona — è nell'interazione tra la persona e un contesto più o meno ostile.
+> Da Hammurabi alle politiche inclusive ticinesi del 2024, questo modulo costruisce uno sguardo completo sulla disabilità: prima la storia e le classificazioni, poi i quadri legali e i modelli interpretativi, poi le situazioni specifiche (deficit intellettivo, ASD, polyhandicap), la progettualità di vita e infine la famiglia come sistema di cura. Il filo rosso è sempre lo stesso: la disabilità non è nella persona — è nell'interazione tra la persona e un contesto più o meno ostile.
 
 ---
 
@@ -19,7 +19,9 @@ Semestre 02 · 10 lezioni elaborate (01, 02, 04–11; manca 03)
 | 08 | ASD — Parte 1 | Storia, diade diagnostica DSM-5, neurodiversità |
 | 09 | ASD — Parte 2 e Polyhandicap | Intervento educativo, CAA, approcci; polyhandicap |
 | 10 | Qualità di vita e progettualità | Meta-modello QdV, progetto di vita, assessment |
-| 11 | Cicli di vita e autodeterminazione | Adultità, liminalità, autonomia dipendente, autodeterminazione (Wehmeyer) |
+| 11 | Cicli di vita e autodeterminazione | Adultità, liminalità, autonomia dipendente, Wehmeyer |
+| 12 | LISPI e diritto di protezione | Piramide giuridica, curatela su misura, LISPI |
+| 13 | Familiari curanti e siblings | Familiare curante, siblings, carichi, "dopo di noi" |
 
 ---
 
@@ -331,6 +333,101 @@ ICF
 
 ---
 
+## Quadro giuridico cantonale e diritto di protezione · (Lez. 12)
+
+### Piramide delle fonti giuridiche
+
+- **Convenzione ONU disabilità** (ratificata CH 2014) → livello massimo
+  - **CEDU** → Convenzione europea dei diritti dell'uomo (1950)
+    - **Costituzione federale** (1999) → art. 35–36
+      - **Codice civile** (1907) → art. 388–398
+        - **LPMA / ROPMA / LISPI** → livello cantonale Ticino
+- ⚠️ Ogni strumento cantonale deve rispettare tutti i livelli superiori
+
+### Principi di ogni intervento (art. 36 Cost. / art. 389 CC)
+
+- **Sussidiarietà** → intervenire solo se famiglia e servizi ordinari sono insufficienti
+- **Proporzionalità** → misura calibrata allo scopo (temporale e materiale)
+- **Adeguatezza** → solo le misure strettamente necessarie
+
+### Capacità di discernimento
+
+- **Definizione** → capacità di agire ragionevolmente; ha due aspetti:
+  - **Cognitivo** → capisco perché lo faccio
+  - **Volitivo** → valuto le conseguenze
+- ⚠️ Non è binaria: si valuta per ogni singola decisione, non per la persona in generale
+- **Verifica** → riformulazione, analisi pro/contro, valutazione dell'impatto, difesa dell'opinione
+
+### Curatela su misura ("vestito su misura")
+
+- **Curatela di sostegno** → affianca senza sostituire — minima invasività
+- **Curatela di rappresentanza** → agisce al posto della persona in ambiti definiti
+- **Curatela di amministrazione dei beni** → gestione patrimoniale
+- **Curatela di cooperazione** → certi atti richiedono il consenso del curatore
+- **Combinazione** → più tipi insieme per rispondere ai bisogni reali
+- ⚠️ **Curatela generale** → strumento in via d'estinzione; contraria alla Convenzione ONU art. 12
+- Quattro ambiti: `amministrativo` · `cura della persona` · `benessere` · `patrimoniale/giuridico`
+
+### Diritti strettamente personali
+
+- **Assoluti** → nessuna rappresentanza possibile (matrimonio, testamento, tatuaggi, donazione organi)
+- **Relativi** → rappresentanza possibile solo in caso di incapacità di discernimento (cure mediche, fotografie)
+
+### Riforma 2013
+
+| Prima (fino al 01.01.2013) | Dopo (dal 01.01.2013) |
+|---|---|
+| Autorità parentale prolungata — minorenne a vita | Promozione dell'autodeterminazione |
+| Genitori decidono tutto | Accompagnamento alla vita adulta |
+
+### LISPI — Legge cantonale ticinese
+
+- **Definizione** → Legge sull'integrazione sociale e professionale degli invalidi (Canton Ticino)
+- **Strumento per** → inclusione · inserimento professionale · protezione · libertà di scelta
+- **4 obiettivi (art. 4)** → `terapia` · `educazione` · `socializzazione` · `lavoro creativo e remunerato`
+- ⚠️ Il luogo di vita è uno strumento, non un obiettivo
+- **Direttive 1/3/5** → standard qualitativi emanati dall'Ufficio invalidi
+
+### Dati di contesto · (Lez. 12)
+
+- ~1,8M persone over 16 con handicap in Svizzera; 300.000 con limitazioni forti (UFS, 2024)
+- 109.000 persone sotto misura di protezione in Svizzera (ARP, 31.12.2024)
+- 1.396 persone ancora sotto curatela generale (ARP, 31.12.2023) — dato in calo ma ancora presente
+
+---
+
+## Familiari curanti e siblings · (Lez. 13)
+
+### Ruolo della famiglia nel progetto di vita
+
+- **Bronfenbrenner** → la famiglia è presente a tutti i livelli ecologici (micro → macro); garantisce continuità nei passaggi tra fasi che i servizi non riescono ad assicurare
+- **Ruoli dei familiari** → fonte di informazione (esperti per esperienza) · co-costruttori del PI · promotori del progetto · risorsa o ostacolo (dipende dal sostegno ricevuto) · rappresentanti legali (curatela)
+- **ICF** → i fattori personali non sono classificabili → la famiglia diventa fonte indispensabile di conoscenza
+
+### Il familiare curante
+
+- **Definizione** → persona che presta regolarmente assistenza/sorveglianza/accompagnamento a titolo non professionale, rendendo possibile il mantenimento a domicilio
+- 1 persona su 4 o 5 in Svizzera è familiare curante (inclusi minorenni)
+- **Sostegni** → centri diurni · congedi (Legge federale 20.12.2019: max 3 giorni/evento, 10 giorni/anno) · AGI (Assegno Grandi Invalidi) · contributi cantonali
+
+### I siblings
+
+- **Sibling** → fratello/sorella di persona con disabilità — relazione più lunga della vita; ~260.000 bambini siblings in Svizzera
+- **Risposta tipica** → *"È semplicemente così"* → la disabilità è normalità, non eccezione
+- **Aspetti positivi** → empatia · autonomia · maturità · forte legame affettivo · tendenza a professioni sociali
+- **Carichi** → eccesso di responsabilità ("mini-genitore") · mancanza di attenzione genitoriale · isolamento · stigma · rinuncia ai propri bisogni
+  - ⚠️ Rischio nascosto: il sibling "bravo e adattato" sviluppa disturbi psichici cronici nel tempo
+- **Inquietudine per il futuro** → "dopo di noi" — chi si occuperà del fratello/sorella?
+- **Bisogni (Hochschule Luzern, 2021)** → tempo per sé · ascolto emotivo · spazio per i propri sentimenti · informazioni sulla disabilità · confronto con altri siblings
+- ⚠️ **I siblings sono familiari curanti invisibili** — il lavoro sociale deve riconoscerli come tali
+
+**3 dimensioni di lavoro coi siblings (Mengoni):**
+1. Con i siblings (gruppi, tutte le età)
+2. Con i genitori (delega, riconoscimento del figlio sano)
+3. Con i professionisti (lavorare coi siblings come con i genitori)
+
+---
+
 ## Termini e linguaggio rispettoso · (Lez. 05)
 
 - **Regola SUPSI** → persona prima del deficit: "persona con disabilità" (non "disabile" come sostantivo)
@@ -375,42 +472,53 @@ ICF
 | **Nuzzo, A.** | Operatore come "tessitore di relazioni" | 11 |
 | **Sen, A.** | Capability approach (1993) | 11 |
 | **Judith Singer** | Concetto di neurodiversità (anni '90) | 08 |
-| **Deci & Ryan** | Prima definizione di autodeterminazione in ambito educativo (1985) | 11 |
 | **Lachapelle et al.** | Correlazione autodeterminazione-QdV soggettiva (2005) | 11 |
+| **Ersilia Gianella** | Docente-ricercatrice SUPSI — diritto di protezione e LISPI | 12 |
+| **LISPI** | Legge cantonale TI sull'integrazione sociale e professionale degli invalidi | 12 |
+| **Bronfenbrenner** | Ecologia dello sviluppo — famiglia a tutti i livelli | 13 |
+| **Hochschule Luzern** | Studio quantitativo siblings (265 persone, 2021) | 13 |
+| **Mengoni** | 3 dimensioni di lavoro coi siblings | 13 |
+| **Atgabbes** | Associazione famiglie TI; Photovoice Siblings Ticino | 04, 13 |
 
 ---
 
 ### Parole chiave della materia
 
-`disabilità` · `handicap` · `deficit` · `menomazione` · `inclusione` · `integrazione` · `segregazione` · `esclusione` · `grande reclusione` · `trattamento morale` · `ius vivendi` · `ICD` · `ICIDH` · `ICF` · `ICF-CY` · `PPH` · `modello biomedico` · `modello biopsicosociale` · `facilitatore` · `barriera` · `capacità` · `performance` · `CDPD` · `"niente su di noi senza di noi"` · `Lingua Facile` · `art. 19` · `autodeterminazione` · `QI` · `comportamento adattivo` · `scaffolding` · `ZSP` · `SIS` · `deficit intellettivo` · `disabilità cognitiva` · `ASD` · `diade diagnostica` · `spettro` · `neurodiversità` · `sameness` · `ecolalia` · `CAA` · `PECS` · `ABA` · `TEACCH` · `ESDM` · `PEI` · `analisi funzionale` · `parent training` · `polyhandicap` · `causalità elementare` · `QdV` · `meta-modello` · `progetto di vita` · `assessment` · `needs-led` · `services-led` · `microsistema` · `mesosistema` · `macrosistema` · `Atgabbes` · `Pro Infirmis` · `LISPI` · `Fondazione ARES` · `singolari plurali` · `cicli di vita` · `adultità` · `liminalità` · `eterno bambino` · `riti di transizione` · `autonomia dipendente` · `agente causale` · `modello funzionale` · `empowerment` · `autoregolazione` · `autorealizzazione` · `infantilizzazione` · `tessitore di relazioni` · `approccio ecologico` · `capability approach` · `self advocacy`
+`disabilità` · `handicap` · `deficit` · `menomazione` · `inclusione` · `integrazione` · `segregazione` · `esclusione` · `grande reclusione` · `trattamento morale` · `ius vivendi` · `ICD` · `ICIDH` · `ICF` · `ICF-CY` · `PPH` · `modello biomedico` · `modello biopsicosociale` · `facilitatore` · `barriera` · `capacità` · `performance` · `CDPD` · `"niente su di noi senza di noi"` · `Lingua Facile` · `art. 19` · `autodeterminazione` · `QI` · `comportamento adattivo` · `scaffolding` · `ZSP` · `SIS` · `deficit intellettivo` · `disabilità cognitiva` · `ASD` · `diade diagnostica` · `spettro` · `neurodiversità` · `sameness` · `ecolalia` · `CAA` · `PECS` · `ABA` · `TEACCH` · `ESDM` · `PEI` · `analisi funzionale` · `parent training` · `polyhandicap` · `causalità elementare` · `QdV` · `meta-modello` · `progetto di vita` · `assessment` · `needs-led` · `services-led` · `microsistema` · `mesosistema` · `macrosistema` · `Atgabbes` · `Pro Infirmis` · `LISPI` · `Fondazione ARES` · `singolari plurali` · `cicli di vita` · `adultità` · `liminalità` · `eterno bambino` · `riti di transizione` · `autonomia dipendente` · `agente causale` · `modello funzionale` · `empowerment` · `autoregolazione` · `autorealizzazione` · `infantilizzazione` · `tessitore di relazioni` · `approccio ecologico` · `capability approach` · `self advocacy` · `curatela su misura` · `curatela generale` · `curatela di sostegno` · `curatela di rappresentanza` · `capacità di discernimento` · `sussidiarietà` · `proporzionalità` · `adeguatezza` · `ARP` · `autorità parentale prolungata` · `diritti strettamente personali` · `piramide delle fonti giuridiche` · `familiare curante` · `sibling` · `dopo di noi` · `AGI` · `esperti per esperienza` · `IMAGENCY` · `ambivalenza`
 
 ---
 
 ### Filo conduttore
 
-Il modulo percorre una trasformazione radicale nel modo in cui la società pensa alle persone con disabilità: da oggetti di paura, pietà o curiosità a soggetti di diritto. Questa traiettoria attraversa la storia (dall'infanticidio greco ai pionieri dell'educazione speciale), i modelli teorici (dal biomedico al biopsicosociale), il diritto internazionale (CDPD 2006) e gli strumenti clinico-educativi (ICF, PEI, analisi funzionale). L'arrivo naturale è la qualità di vita: tutto il lavoro educativo e di sostegno non ha senso se non migliora la vita reale della persona, nei suoi otto domini, secondo i suoi standard, non i nostri. L'inclusione non è un traguardo raggiunto — è un **orizzonte** verso cui orientare ogni scelta professionale, sapendo che la disabilità non abita nella persona, ma nello spazio tra la persona e un contesto che non sa ancora accoglierla.
+Il modulo percorre una trasformazione radicale nel modo in cui la società pensa alle persone con disabilità: da oggetti di paura, pietà o curiosità a soggetti di diritto. Questa traiettoria attraversa la storia (dall'infanticidio greco ai pionieri dell'educazione speciale), i modelli teorici (dal biomedico al biopsicosociale), il diritto internazionale (CDPD 2006) e gli strumenti clinico-educativi (ICF, PEI, analisi funzionale). Il percorso arriva fino alle norme cantonali ticinesi (LISPI, diritto di protezione) e alla famiglia come sistema di cura spesso invisibile — dai genitori ai siblings. Tutto converge su un'unica domanda: cosa rende buona la vita di una persona con disabilità? La risposta è sempre ambientale prima che individuale: le variabili contestuali pesano più di quelle personali (Geronimi/SUPSI, 2023). L'inclusione non è un traguardo raggiunto — è un **orizzonte** verso cui orientare ogni scelta professionale, sapendo che la disabilità non abita nella persona, ma nello spazio tra la persona e un contesto che non sa ancora accoglierla.
 
 ---
 
 ## Domande di orientamento allo studio
 
 **Come è cambiato nel corso dei secoli il modo in cui la società trattava le persone con disabilità? Quali sono le tappe più significative?**
-Il percorso va dall'eliminazione fisica alla partecipazione come diritto. Nell'antichità, le persone con disabilità grave venivano eliminate (infanticidio, esposizione) — pratica accettata fino ai primi imperatori cristiani, che sancirono lo ius vivendi (Costantino, 274–337). Nel Medioevo, la "follia" raccoglieva tutti i "diversi" in un contenitore indifferenziato, che sfocia nella Grande Reclusione (lebbrosari riconvertiti in ospedali generali). La svolta arriva con l'Illuminismo e la Rivoluzione Francese (fine '700): Pinel umanizza il trattamento dei "folli", Itard dimostra che tutte le persone sono educabili, Esquirol separa disagio psichico da deficit intellettivo. Il '900 porta prima l'errore della "madre frigorifero" sull'autismo (Bettelheim), poi la rivoluzione degli anni '70 con i movimenti dei diritti civili, e infine la CDPD del 2006 come sintesi di un cambio culturale globale. (Lez. 01, 02, 04, 08)
+Il percorso va dall'eliminazione fisica alla partecipazione come diritto. Nell'antichità, le persone con disabilità grave venivano eliminate (infanticidio, esposizione) — pratica accettata fino ai primi imperatori cristiani, che sancirono lo ius vivendi (Costantino, 274–337). Nel Medioevo, la "follia" raccoglieva tutti i "diversi" in un contenitore indifferenziato, che sfocia nella Grande Reclusione. La svolta arriva con l'Illuminismo: Pinel umanizza il trattamento, Itard dimostra che tutte le persone sono educabili, Esquirol separa disagio psichico da deficit intellettivo. Il '900 porta prima l'errore della "madre frigorifero" sull'autismo (Bettelheim), poi la rivoluzione degli anni '70 con i movimenti dei diritti civili, e infine la CDPD del 2006 come sintesi di un cambio culturale globale. (Lez. 01, 02, 04, 08)
 
 **Qual è il collegamento tra il modello biopsicosociale dell'ICF e la Convenzione ONU sui diritti delle persone con disabilità (CDPD)?**
-Entrambi condividono la stessa definizione di disabilità: non è una caratteristica della persona, ma il risultato dell'interazione tra la persona con menomazioni e le barriere (fisiche, culturali, sociali, legislative) del contesto. L'ICF (OMS, 2001) traduce questo principio in uno strumento di classificazione del funzionamento — si chiede cosa la persona può fare nel suo contesto, non solo quale malattia ha. La CDPD (2006) lo traduce in diritti giuridici: è il contesto che deve adattarsi, non la persona. I due strumenti sono complementari: l'ICF è lo strumento clinico-educativo, la CDPD è il quadro di diritti che ne giustifica l'uso. Entrambi portano alla stessa implicazione pratica: l'operatore sociale lavora sull'ambiente, non (solo) sulla persona. (Lez. 04, 05, 06)
+Entrambi condividono la stessa definizione di disabilità: non è una caratteristica della persona, ma il risultato dell'interazione tra la persona con menomazioni e le barriere del contesto. L'ICF (OMS, 2001) traduce questo principio in uno strumento di classificazione del funzionamento — si chiede cosa la persona può fare nel suo contesto. La CDPD (2006) lo traduce in diritti giuridici: è il contesto che deve adattarsi, non la persona. I due strumenti sono complementari: l'ICF è lo strumento clinico-educativo, la CDPD è il quadro di diritti che ne giustifica l'uso. Entrambi portano alla stessa implicazione pratica: l'operatore sociale lavora sull'ambiente, non (solo) sulla persona. (Lez. 04, 05, 06)
 
 **Come si distinguono integrazione e inclusione, e perché questa distinzione è fondamentale nella pratica professionale?**
-Nell'integrazione, la persona con disabilità entra in contesti ordinari, ma con misure speciali ed eccezionali negoziate caso per caso — è la persona che si adatta al sistema. È "nell'ordine delle possibilità": richiede battaglie individuali. Nell'inclusione, le misure speciali diventano la norma per tutta la popolazione, a priori — è il sistema che si adatta a tutti. Per la pratica professionale, questa distinzione orienta le scelte: agire in ottica inclusiva significa progettare il contesto per tutti (rampe ovunque a priori), non solo rispondere a emergenze individuali (rampa costruita per quel bambino). Due attenzioni importanti: l'inclusione non è una scala del bene e del male (a volte la separazione è la risposta migliore alla qualità di vita), e l'inclusione senza risorse di sostegno nel tempo porta alla ri-esclusione mascherata. (Lez. 01, 05)
+Nell'integrazione, la persona con disabilità entra in contesti ordinari con misure speciali eccezionali negoziate caso per caso — è la persona che si adatta al sistema. Nell'inclusione, le misure speciali diventano la norma per tutta la popolazione, a priori — è il sistema che si adatta a tutti. Per la pratica professionale, agire in ottica inclusiva significa progettare il contesto per tutti (rampe ovunque a priori), non solo rispondere a emergenze individuali. Due attenzioni: l'inclusione non è una scala del bene e del male (a volte la separazione è la risposta migliore alla qualità di vita), e l'inclusione senza risorse di sostegno porta alla ri-esclusione mascherata nel tempo. (Lez. 01, 05)
 
-**Quale è il percorso evolutivo delle classificazioni OMS dalla ICD alla ICF? Cosa ha cambiato concettualmente ciascuna tappa?**
-L'ICD classifica le malattie per cause (eziologia → patologia → manifestazione clinica): sguardo medico, non considera le conseguenze nella vita. L'ICIDH (1980) fa un passo avanti guardando alle conseguenze della malattia: introduce menomazione, disabilità e handicap in sequenza lineare — ma è criticata perché lineare, negativa (descrive la persona per mancanze) e sottovaluta i fattori ambientali. Il PPH (Processo di Produzione dell'Handicap) anticipa la logica dell'interazione: l'handicap emerge dall'interazione tra fattori personali e ambientali. L'ICF (2001) sintetizza tutto: classifica il funzionamento della persona nel suo contesto, si chiede cosa la persona può fare, e introduce esplicitamente barriere e facilitatori come parte della valutazione. È il passaggio definitivo dal deficit al funzionamento. (Lez. 05, 06)
+**Qual è il percorso evolutivo delle classificazioni OMS dalla ICD alla ICF? Cosa ha cambiato concettualmente ciascuna tappa?**
+L'ICD classifica le malattie per cause: sguardo medico, non considera le conseguenze nella vita. L'ICIDH (1980) guarda alle conseguenze della malattia con la sequenza menomazione → disabilità → handicap — ma è lineare, negativa e sottovaluta i fattori ambientali. Il PPH anticipa la logica dell'interazione: l'handicap emerge dall'incontro tra fattori personali e ambientali. L'ICF (2001) sintetizza tutto: classifica il funzionamento della persona nel suo contesto, si chiede cosa la persona può fare, e introduce esplicitamente barriere e facilitatori. È il passaggio definitivo dal deficit al funzionamento. (Lez. 05, 06)
 
 **Cosa accomuna il deficit intellettivo, l'ASD e il polyhandicap nella loro presa in carico educativa?**
-Tutte e tre le condizioni richiedono: (1) un'analisi funzionale concreta — non limitarsi alla diagnosi ma capire come quella persona funziona nel suo contesto specifico; (2) l'individuazione di barriere e facilitatori (ICF); (3) un sistema di sostegni calibrato sui bisogni reali (non troppo, non troppo poco — scaffolding e ZSP di Vygotskij); (4) obiettivi che partono dai punti di forza e dalle potenzialità, non solo dai deficit; (5) continuità e coerenza tra tutti gli attori (educatori, famiglia, specialisti). La differenza principale è nell'intensità e nella tipologia dei sostegni: il deficit intellettivo varia molto tra lieve e gravissimo; l'ASD richiede strutturazione dell'ambiente e lavoro specifico sulla comunicazione; il polyhandicap richiede l'intensità massima di sostegni e una supervisione d'équipe rigida per i rischi etici. (Lez. 07, 08, 09)
+Tutte e tre le condizioni richiedono: (1) un'analisi funzionale concreta — non limitarsi alla diagnosi ma capire come quella persona funziona nel suo contesto; (2) l'individuazione di barriere e facilitatori (ICF); (3) sostegni calibrati sui bisogni reali (scaffolding e ZSP di Vygotskij); (4) obiettivi che partono dai punti di forza e dalle potenzialità; (5) continuità e coerenza tra tutti gli attori. La differenza è nell'intensità: il DI varia molto tra lieve e gravissimo; l'ASD richiede strutturazione dell'ambiente e lavoro sulla comunicazione; il polyhandicap richiede l'intensità massima e una supervisione d'équipe rigida per i rischi etici. (Lez. 07, 08, 09)
 
 **Come si collega il paradigma della qualità di vita a tutto il percorso del modulo?**
-La qualità di vita (QdV) è l'orizzonte verso cui convergono tutti i concetti studiati. Il modello biopsicosociale (ICF) dà le categorie per valutare il funzionamento. La CDPD garantisce i diritti necessari per la partecipazione. La storia del trattamento delle persone con disabilità mostra quanti progressi sono stati fatti — e quanto resta da fare. I sistemi di sostegno (deficit intellettivo, ASD, polyhandicap) sono i mezzi. Il progetto di vita è lo strumento operativo che dà coerenza a tutto. E la QdV (meta-modello Schalock e Verdugo, 2006) è il criterio di valutazione: l'intervento funziona se migliora la vita reale della persona nei suoi otto domini, secondo i suoi standard soggettivi. Come rileva la ricerca ticinese (Geronimi/SUPSI, 2023), le variabili ambientali pesano più di quelle personali — il che significa che l'operatore può davvero fare la differenza. (Lez. 05, 06, 07, 09, 10)
+La qualità di vita (QdV) è l'orizzonte verso cui convergono tutti i concetti studiati. Il modello biopsicosociale (ICF) dà le categorie per valutare il funzionamento. La CDPD garantisce i diritti. I sistemi di sostegno (DI, ASD, polyhandicap) sono i mezzi. Il progetto di vita è lo strumento operativo. E la QdV (meta-modello Schalock e Verdugo, 2006) è il criterio di valutazione finale: l'intervento funziona se migliora la vita reale della persona nei suoi otto domini. Come rileva la ricerca ticinese (Geronimi/SUPSI, 2023), le variabili ambientali pesano più di quelle personali — il che significa che l'operatore può davvero fare la differenza. (Lez. 05, 06, 07, 09, 10)
+
+**Come si traduce il principio di autodeterminazione nel diritto di protezione svizzero e nella LISPI?**
+Il principio di autodeterminazione, affermato dalla CDPD (art. 12 e 19) e teorizzato da Wehmeyer come costrutto a 4 componenti, ha trovato espressione concreta nella riforma del Codice civile del 01.01.2013: l'autorità parentale prolungata è stata abolita, sostituita da un sistema di curatela su misura (logica del "vestito su misura"). I tre principi di ogni intervento (sussidiarietà, proporzionalità, adeguatezza) traducono direttamente la logica ONU: intervenire solo se necessario, solo quanto necessario, solo per quanto necessario. La curatela generale — la misura più invasiva — è ancora presente (1.396 casi al 31.12.2023) ma contraria alla CDPD art. 12 e in via d'estinzione. La LISPI, a livello ticinese, opera nello stesso spirito: il luogo di vita è uno strumento, non un obiettivo. (Lez. 04, 11, 12)
+
+**Qual è il ruolo della famiglia — in particolare dei siblings — nel lavoro educativo e sociale?**
+La famiglia è presente a tutti i livelli ecologici (Bronfenbrenner) e garantisce continuità nei passaggi tra le fasi della vita che i servizi non assicurano. I siblings sono i familiari curanti più invisibili: la relazione fraterna è la più lunga della vita, ma viene sistematicamente ignorata. Lo studio della Hochschule Luzern (2021) mostra che i bisogni principali dei siblings sono ascolto emotivo, spazio per i propri sentimenti e informazioni sulla disabilità. Il rischio da tenere a mente: il sibling "bravo e adattato" sviluppa disturbi psichici cronici nel tempo se rimane senza sostegno. Il lavoro professionale deve riconoscerli come familiari curanti, non renderli invisibili. (Lez. 13)
 
 **Qual è il filo conduttore dell'intera materia "Percorsi nelle Disabilità"?**
-Il filo conduttore è il passaggio da un paradigma dove la disabilità abita nella persona a uno dove la disabilità emerge dalla relazione tra la persona e un contesto più o meno ostile. Questo cambio attraversa tutto il modulo: storicamente (dall'infanticidio alla pedagogia speciale), concettualmente (dal modello medico al biopsicosociale), giuridicamente (dalla carità alla Convenzione ONU), strumentalmente (da diagnosi = destino a analisi funzionale + progetto di vita). Il risultato pratico per chi lavora nel settore è uno solo: l'intervento professionale si focalizza sull'ambiente e sui sostegni, non sulla "correzione" della persona. L'inclusione è la direzione, la qualità di vita è la misura, e la persona — con i suoi desideri, sogni e aspirazioni — è sempre il punto di partenza.
+Il filo conduttore è il passaggio da un paradigma dove la disabilità abita nella persona a uno dove la disabilità emerge dalla relazione tra la persona e un contesto più o meno ostile. Questo attraversa tutto il modulo: storicamente (dall'infanticidio alla pedagogia speciale), concettualmente (dal modello medico al biopsicosociale), giuridicamente (dalla carità alla CDPD), strumentalmente (da diagnosi = destino a analisi funzionale + progetto di vita), e socialmente (dal singolo alla famiglia, fino ai siblings invisibili). Il risultato pratico per chi lavora nel settore è uno solo: l'intervento professionale si focalizza sull'ambiente e sui sostegni, non sulla "correzione" della persona. L'inclusione è la direzione, la qualità di vita è la misura, e la persona — con i suoi desideri, sogni e aspirazioni — è sempre il punto di partenza.

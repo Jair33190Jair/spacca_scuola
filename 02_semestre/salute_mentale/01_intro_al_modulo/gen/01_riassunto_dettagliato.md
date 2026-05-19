@@ -1,12 +1,12 @@
 # Introduzione al modulo di Salute Mentale
 
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 
 Salute Mentale · Sessione 01 · 18.02.2026
@@ -36,7 +36,7 @@ tappe fondanti**, ispirate alla scuola fenomenologica:
    nosografica: sindromi affettive, ansiose, nevrosi,
    disturbi di personalità, psicosi.
 3. **Il corpo** — teatro della sofferenza: violenza,
-   aggressività, dimensioni anoressico-bulimiche,
+   aggressività, anoressico-bulimiche,
    sessualità come luogo di disagio, alessitimia.
 
 Queste tre tappe sono attraversate da quattro
@@ -46,32 +46,32 @@ e in un tempo, l'identità va declinata nella
 relazione, e prima della relazione viene l'incontro
 — senza il quale la relazione non sussiste.
 
-`<span class="c-tesi">`Il prof sottolinea un punto chiave: l'operatore
+<span class="c-tesi">Il prof sottolinea un punto chiave: l'operatore
 sociale non è un tecnico di una sola disciplina,
 ma un **trait d'union** tra le specializzazioni.
 Per questo serve una conoscenza delle aree
 psicopatologiche — non per fare diagnosi, ma per
 comunicare con le altre figure professionali e
-per accompagnare la persona nella sua interezza.
+per accompagnare la persona nella sua interezza.</span>
 
 Vale la pena fermarsi sulla parola **clinica**:
-viene dal greco *klinein*, "chinarsi". `<span class="c-def">`La clinica
+viene dal greco *klinein*, "chinarsi". <span class="c-def">La clinica
 è, radicalmente, l'atto di chinarsi sul letto
 — reale o metaforico — di chi soffre. È un atto
 di umiltà e premura verso l'altro nella sua
 condizione di *patente* (chi porta su di sé il
 proprio patire). Questa etimologia non è un
 dettaglio: definisce l'approccio di tutto il modulo.
-(`<span class="c-dato">`Callieri & C., 1999)
+(<span class="c-dato">Callieri & C., 1999)</span></span>
 
 ---
 
 ## Salute, benessere, normalità: tre concetti da non confondere
 
-`<span class="c-tesi">`Uno dei messaggi centrali della lezione: **salute,
+<span class="c-tesi">Uno dei messaggi centrali della lezione: **salute,
 benessere e normalità sono tre cose diverse** che
 spesso vengono confuse o sovrapposte. Vediamole
-una per una.
+una per una.</span>
 
 ### Salute: più complessa di quanto sembra
 
@@ -83,10 +83,10 @@ oppure puoi rispondere "mi sento bene" senza nessun
 esame (approccio soggettivo, *illness*). Non sono la
 stessa cosa.
 
-Introduce il lavoro di `<span class="c-dato">`**Christopher Boorse (1977)**,
+Introduce il lavoro di <span class="c-dato">**Christopher Boorse (1977)**,
 che nel suo articolo ha tentato di definire la salute
 esaminando sette possibili condizioni — dimostrando
-che **nessuna da sola regge**:
+che **nessuna da sola regge**:</span>
 
 | Condizione                                      | Perché non basta                                                                                                                     |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -98,14 +98,14 @@ che **nessuna da sola regge**:
 | **Salute come adattamento**               | L'essere umano adatta anche l'ambiente a sé. Pensate alle neurodivergenze: a volte è l'ambiente che va cambiato                     |
 | **Salute come omeostasi**                 | Il funzionamento umano si basa su un continuo perdere e riacquistare equilibrio. L'equilibrio statico è rigidità                    |
 
-L'ultimo punto merita attenzione. `<span class="c-tesi">`Il prof insiste:
+L'ultimo punto merita attenzione. <span class="c-tesi">Il prof insiste:
 **l'equilibrio statico non è salute, è rigidità**.
 La metafora è bellissima: camminare richiede di
 rompere continuamente l'equilibrio. Per fare un
 passo devi sbilancarti. La vita è movimento, e il
 movimento richiede di perdere e ritrovare l'equilibrio.
 "Le persone troppo equilibrate sono spesso molto
-rigide, poco disposte a rischiare."
+rigide, poco disposte a rischiare."</span>
 
 > *"Non c'è movimento senza perdere l'equilibrio,
 > e siccome la vita è costante movimento, occorre
@@ -119,41 +119,41 @@ rigide, poco disposte a rischiare."
 Per ordinare le idee sulla salute, il prof introduce
 la distinzione in tre dimensioni:
 
-- `<span class="c-def">`**Disease** — la malattia in senso biomedico,
+- <span class="c-def">**Disease** — la malattia in senso biomedico,
   misurabile (esami, parametri clinici)
-- `<span class="c-def">`**Illness** — il vissuto soggettivo: come la
+- <span class="c-def">**Illness** — il vissuto soggettivo: come la
   persona *si sente*
-- `<span class="c-def">`**Sickness** — la dimensione sociale: come la
-  società riconosce (o stigmatizza) quella condizione
+- <span class="c-def">**Sickness** — la dimensione sociale: come la
+  società riconosce (o stigmatizza) quella condizione</span></span></span>
 
-`<span class="c-impl">`Queste tre dimensioni **possono non coincidere**.
+<span class="c-impl">Queste tre dimensioni **possono non coincidere**.
 Una malattia può essere tale per il medico (disease)
 ma non vissuta come tale dal soggetto (illness),
 oppure può essere vista dalla società come un vizio
-(sickness negativa) anche se è una malattia vera.
+(sickness negativa) anche se è una malattia vera.</span>
 
-`<span class="c-warn">`Questo è importante per il lavoro sociale: lo sguardo
+<span class="c-warn">Questo è importante per il lavoro sociale: lo sguardo
 della società su una condizione ha effetti reali sul
 benessere della persona. Se hai una malattia che viene
 giudicata come "vizio" o "colpa", la stigmatizzazione
-peggiora tutto.
+peggiora tutto.</span>
 
 ---
 
 ## Il benessere: un concetto multidimensionale
 
 **Salute e benessere non coincidono.** Il prof porta
-l'esempio di `<span class="c-es">`**Tiziano Terzani** e del suo libro
+l'esempio di <span class="c-es">**Tiziano Terzani** e del suo libro
 *L'ultimo giro di giostra*: un giornalista gravemente
 malato di cancro che attraverso la malattia ha trovato
 una pace e una ricchezza interiore che non aveva quando
-stava "bene". Paradossale? No, profondamente umano.
+stava "bene". Paradossale? No, profondamente umano.</span>
 
 Il benessere è un concetto **polisemico e
-multidimensionale**. `<span class="c-dato">`**Carol Ryff** è una psicologa
+multidimensionale**. <span class="c-dato">**Carol Ryff** è una psicologa
 che ha risposto alla domanda: "Quando diciamo che
 una persona sta bene, di *cosa* esattamente stiamo
-parlando?" La risposta: di sei dimensioni distinte.
+parlando?" La risposta: di sei dimensioni distinte.</span>
 
 | Dimensione                       | Cosa significa in concreto                                                              |
 | -------------------------------- | --------------------------------------------------------------------------------------- |
@@ -164,11 +164,11 @@ parlando?" La risposta: di sei dimensioni distinte.
 | **Percezione di crescita** | Sentire che la propria vita è un processo continuo di sviluppo                         |
 | **Scopo nella vita**       | Avere mete, riuscire a dare senso a ciò che si fa                                      |
 
-`<span class="c-tesi">`Questo modello è prezioso per l'operatore sociale
+<span class="c-tesi">Questo modello è prezioso per l'operatore sociale
 perché rende il lavoro sul benessere **concreto**.
 Invece di un generico "lavoro per il benessere",
 puoi esplorare *quale* dimensione è più critica
-e intervenire lì.
+e intervenire lì.</span>
 
 ---
 
@@ -179,34 +179,34 @@ rilevanti per il lavoro con le persone.
 
 ### 1. Norma statistica
 
-`<span class="c-def">`La "normalità" come conformità alla media della
-popolazione. `<span class="c-warn">`Sembra neutro, ma non lo è: essere
+<span class="c-def">La "normalità" come conformità alla media della
+popolazione. <span class="c-warn">Sembra neutro, ma non lo è: essere
 fuori dalla norma statistica può provocare stigma,
 isolamento, discriminazione. L'omosessualità è stata
 a lungo classificata come patologia proprio su base
 statistica — e solo quando la comunità scientifica
-ha cambiato i criteri ne è uscita.
+ha cambiato i criteri ne è uscita.</span></span>
 
 ### 2. Norma di valore (ideale)
 
 Uno standard ideale che si pone come riferimento.
-`<span class="c-warn">`**Attenzione**: la norma ideale incide anche sugli
+<span class="c-warn">**Attenzione**: la norma ideale incide anche sugli
 operatori. Abbiamo ideali su come dovrebbe essere
 un utente, come dovrebbe comportarsi, cosa dovrebbe
 raggiungere. Se quella norma ideale diventa il metro
 di lavoro, rischia di diventare penalizzante per
-la relazione.
+la relazione.</span>
 
 ### 3. Norma personale (individuale)
 
-`<span class="c-def">`La normalità *rispetto a come funzionavo prima*.
+<span class="c-def">La normalità *rispetto a come funzionavo prima*.
 Ma il prof aggiunge un avvertimento cruciale:
-`<span class="c-warn">`**la normalità personale non è sempre da riconquistare**.
+<span class="c-warn">**la normalità personale non è sempre da riconquistare**.
 A volte è proprio quella "normalità" precedente che
 ha causato il problema. Esempio: "Lavoravo 10 ore
 al giorno, gestivo tutto, poi mi sono ammalato —
 voglio tornare come prima." Forse no. Se torni come
-eri prima, tra un mese ci rivediamo peggio.
+eri prima, tra un mese ci rivediamo peggio.</span></span>
 
 ---
 
@@ -222,7 +222,7 @@ pone rispetto alla propria condizione.
   la mia malattia, è qualcosa di estraneo"
 - *Mi identifico*: "La mia condizione fa parte di me"
 
-**Asse 2 — `<span class="c-def">`Agentività** (termine tecnico dal greco):
+**Asse 2 — <span class="c-def">Agentività** (termine tecnico dal greco):</span>
 
 - *Agentivo* (attivo): affronto la situazione,
   mi muovo, cerco alleati
@@ -235,22 +235,22 @@ Incrociando i due assi si ottengono quattro posizioni:
 | **Passivo**  | **Delega**: "Faccia lei, risolva lei"                | **Delega assistenziale**: aspetta che qualcuno si prenda cura |
 | **Agentivo** | **Guarigione**: combatte per eliminare la condizione | **Cura**: lavora sul proprio benessere dentro la condizione   |
 
-`<span class="c-impl">`Il passaggio chiave: quando il soggetto si identifica
+<span class="c-impl">Il passaggio chiave: quando il soggetto si identifica
 con la propria condizione e diventa agentivo, il
 paradigma passa dalla **guarigione** alla **cura**.
 Non si tratta più di eliminare la malattia (che a
 volte non è possibile), ma di aumentare il benessere
-*dentro* la condizione.
+*dentro* la condizione.</span>
 
 > *"Non tutto si può guarire. Ma tutto può essere
 > curato."*
 > — Il professore
 
-`<span class="c-tesi">`La differenza tra *to cure* (terapia) e *to care*
+<span class="c-tesi">La differenza tra *to cure* (terapia) e *to care*
 (cura) è fondamentale per il lavoro sociale: la
 terapia non è sempre possibile, ma la cura — nel
 senso di prendersi cura del benessere della persona
-— è sempre praticabile.
+— è sempre praticabile.</span>
 
 ---
 
@@ -261,23 +261,23 @@ include un lavoro su **cinque tragedie greche**.
 
 ### Perché la tragedia?
 
-`<span class="c-tesi">`La tragedia greca nasce insieme alla medicina antica
+<span class="c-tesi">La tragedia greca nasce insieme alla medicina antica
 (Ippocrate) e mette in scena la sofferenza umana —
 quella difficile da spiegare e a volte da comprendere.
 Assistere alla tragedia faceva emergere emozioni e
 sentimenti che, attraverso la **catarsi**, potevano
-uscire e liberare.
+uscire e liberare.</span>
 
 La tragedia parla dei **confini dell'umano**: la
 morte, la malattia, la follia. Il prof distingue
 gli approcci dei tre grandi tragediografi:
 
-- `<span class="c-dato">`**Eschilo** — il più arcaico: la follia arriva
+- <span class="c-dato">**Eschilo** — il più arcaico: la follia arriva
   dagli dèi, è una forza esterna che schiaccia
-- `<span class="c-dato">`**Sofocle** — il tragico non arriva dagli dèi,
+- <span class="c-dato">**Sofocle** — il tragico non arriva dagli dèi,
   è la vita stessa che è tragica
-- `<span class="c-dato">`**Euripide** — il più moderno: il tragico nasce
-  dalle relazioni tra le persone
+- <span class="c-dato">**Euripide** — il più moderno: il tragico nasce
+  dalle relazioni tra le persone</span></span></span>
 
 ### Le tragedie di quest'anno
 
@@ -287,11 +287,11 @@ tragedie che convergono su un tema comune: la
 
 Il prof collega esplicitamente queste storie ai dati
 odierni sulla violenza sessuale nei conflitti armati
-(Congo, Iraq, Rwanda), citando `<span class="c-dato">`**Nadia Murad**,
+(Congo, Iraq, Rwanda), citando <span class="c-dato">**Nadia Murad**,
 Premio Nobel per la Pace e sopravvissuta alla
 schiavitù sessuale dell'ISIS. La tragedia greca
 non è storia lontana: è cronaca con un linguaggio
-di 2500 anni fa.
+di 2500 anni fa.</span>
 
 ---
 
@@ -299,21 +299,21 @@ di 2500 anni fa.
 
 ## Concetti chiave
 
-| Termine                                                     | Significato                                                                                                            |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| `<span class="c-def">`**Clinica**          | Dal greco*klinein* ("chinarsi"): l'universo dell'incontro con chi soffre, fondato su umiltà e premura verso l'altro |
-| `<span class="c-def">`**Disease**          | Malattia in senso biomedico, misurabile con parametri clinici                                                          |
-| `<span class="c-def">`**Illness**          | Vissuto soggettivo della malattia, come la persona si sente                                                            |
-| `<span class="c-def">`**Sickness**         | Dimensione sociale della malattia, riconoscimento/stigma                                                               |
-| `<span class="c-def">`**Benessere**        | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo       |
-| `<span class="c-def">`**Norma statistica** | Normalità come conformità alla media della popolazione                                                               |
-| `<span class="c-def">`**Norma di valore**  | Normalità come conformità a un ideale                                                                                |
-| `<span class="c-def">`**Norma personale**  | Normalità rispetto al proprio funzionamento precedente                                                                |
-| `<span class="c-def">`**Agentività**      | Atteggiamento attivo del soggetto verso la propria condizione                                                          |
-| `<span class="c-def">`**Catarsi**          | Purificazione emotiva attraverso la partecipazione alla tragedia                                                       |
-| `<span class="c-def">`**Omeostasi**        | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio                          |
-| `<span class="c-def">`**To cure**          | Terapia: eliminare la malattia                                                                                         |
-| `<span class="c-def">`**To care**          | Cura: prendersi cura del benessere, sempre praticabile                                                                 |
+| Termine                                            | Significato                                                                                                            |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| <span class="c-def">**Clinica**          | Dal greco*klinein* ("chinarsi"): l'universo dell'incontro con chi soffre, fondato su umiltà e premura verso l'altro |
+| <span class="c-def">**Disease**          | Malattia in senso biomedico, misurabile con parametri clinici                                                          |
+| <span class="c-def">**Illness**          | Vissuto soggettivo della malattia, come la persona si sente                                                            |
+| <span class="c-def">**Sickness**         | Dimensione sociale della malattia, riconoscimento/stigma                                                               |
+| <span class="c-def">**Benessere**        | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo       |
+| <span class="c-def">**Norma statistica** | Normalità come conformità alla media della popolazione                                                               |
+| <span class="c-def">**Norma di valore**  | Normalità come conformità a un ideale                                                                                |
+| <span class="c-def">**Norma personale**  | Normalità rispetto al proprio funzionamento precedente                                                                |
+| <span class="c-def">**Agentività**      | Atteggiamento attivo del soggetto verso la propria condizione                                                          |
+| <span class="c-def">**Catarsi**          | Purificazione emotiva attraverso la partecipazione alla tragedia                                                       |
+| <span class="c-def">**Omeostasi**        | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio                          |
+| <span class="c-def">**To cure**          | Terapia: eliminare la malattia                                                                                         |
+| <span class="c-def">**To care**          | Cura: prendersi cura del benessere, sempre praticabile                                                                 |</span></span></span></span></span></span></span></span></span></span></span></span></span>
 
 ## Domande di orientamento allo studio
 
@@ -418,7 +418,7 @@ base del proprio mandato.
 
 ## Collegamenti
 
-- **Autori citati:** `<span class="c-dato">`Christopher Boorse (1977),
+- **Autori citati:** <span class="c-dato">Christopher Boorse (1977),
   Carol Ryff, Tiziano Terzani (*L'ultimo giro di
   giostra*), Callieri & C. (1999), Nadia Murad,
   Guidorizzi (2010) — sulla follia nella tragedia
@@ -433,4 +433,4 @@ base del proprio mandato.
   esempio storico sarà ripreso)
 - **Da ricordare:** il vademecum del modulo
   contiene i contenuti in forma scritta con i
-  riferimenti bibliografici precisi
+  riferimenti bibliografici precisi</span>

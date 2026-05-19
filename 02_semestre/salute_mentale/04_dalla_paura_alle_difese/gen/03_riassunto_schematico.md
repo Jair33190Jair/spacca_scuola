@@ -1,47 +1,56 @@
 # Dalla Paura alle Difese — Schema
 Salute Mentale · Sessione 04
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 ---
 
 ## 🏛️ Mito: Perseo e Medusa
 
-- **Medusa** → paura per antonomasia; pietrifica chi la guarda direttamente
+- **Medusa** → <span class="c-tesi">paura per antonomasia; pietrifica chi la guarda direttamente</span>
 - **Perseo** → si attrezza prima di affrontarla
   - Sacco, calzari alati, elmo dell'invisibilità (dagli inferi)
-  - **Scudo-specchio** da Atena (dea della sapienza) → guarda Medusa di riflesso
+  - <span class="c-def">**Scudo-specchio** da Atena (dea della sapienza) → guarda Medusa di riflesso</span>
   - Falcetto da Ermes → taglia la testa
 - **Azione** → aspetta che dorma, la guarda di riflesso, la decapita
-- **Dopo** → testa = risorsa per affrontare future minacce e aiutare altri
+- **Dopo** → <span class="c-impl">testa = risorsa per affrontare future minacce e aiutare altri</span>
 
 **3 lezioni psicologiche:**
 
-- **Lezione 1** → paure si affrontano con preparazione adeguata
-- **Lezione 2** → serve un medium (specchio/riflessione) per non essere travolti
-- **Lezione 3** → paure elaborate diventano capitale per sé e per gli altri (non empatia egocentrica)
+- **Lezione 1** → <span class="c-tesi">paure si affrontano con preparazione adeguata</span>
+- **Lezione 2** → <span class="c-def">serve un medium (specchio/riflessione) per non essere travolti</span>
+- **Lezione 3** → <span class="c-impl">paure elaborate diventano capitale per sé e per gli altri (non empatia egocentrica)</span>
 
-**Il punto di vista di Medusa (Ovidio):**
+**Il punto di vista di Medusa (<span class="c-dato">Ovidio</span>):**
 
-- Medusa era bellissima → stuprata da Poseidone nel tempio di Atena
-- Atena trasforma la **vittima** in mostro (non l'aggressore)
+- Medusa era bellissima → <span class="c-es">stuprata da Poseidone nel tempio di Atena</span>
+- <span class="c-warn">Atena trasforma la **vittima** in mostro (non l'aggressore)</span>
 - Medusa non aggredisce → pericolosa solo se ci vai tu
-- **Applicazione** → utenti "mostri" spesso = persone trasformate da ciò che hanno subito
+- **Applicazione** → <span class="c-impl">utenti "mostri" spesso = persone trasformate da ciò che hanno subito</span>
 
 ---
 
 ## ⚡ Filiera della paura
 
-**Minaccia → Valutazione protocognitiva → PAURA → Fuga → Protezione**
+**<span class="c-def">Minaccia → Valutazione protocognitiva → PAURA → Fuga → Protezione</span>**
 
-- **Valutazione** → automatica, inconscia, veloce (può sbagliare)
-- **Tre risposte etologiche** → fuga · attacco (quando fuga impossibile) · mimetismo
+- **Valutazione** → <span class="c-def">automatica, inconscia, veloce (può sbagliare)</span>
+- **Tre risposte etologiche** → <span class="c-def">fuga · attacco (quando fuga impossibile) · mimetismo</span>
 - **Paura = emozione** → ha oggetto, durata breve, risposta comportamentale, scopo (salvezza)
 
 **Quando non funziona:**
 
-- **Intensità eccessiva** → freezing (blocco: sopra soglia di arousal si paralizza)
+- <span class="c-def">**Intensità eccessiva** → freezing (blocco: sopra soglia di arousal si paralizza)</span>
 - **Durata eccessiva** → esaurimento risorse, uso sostanze
 
-**Schema contesto × minaccia (Pezzoli):**
+**Schema contesto × minaccia (<span class="c-dato">Pezzoli</span>):**
 
 | | Ambiente familiare | Ambiente non familiare |
 |---|---|---|
@@ -52,64 +61,64 @@ Salute Mentale · Sessione 04
 
 ## 🔍 Paura · Ansia · Sorpresa · Angoscia
 
-- **Paura** → oggetto specifico · minaccia presente · durata breve · amigdala
-- **Ansia** → nessun oggetto · proiettata nel futuro · durata prolungata · BNST
-  - Ansia = paura + anticipazione (Plutchik)
+- <span class="c-def">**Paura** → oggetto specifico · minaccia presente · durata breve · amigdala</span>
+- <span class="c-def">**Ansia** → nessun oggetto · proiettata nel futuro · durata prolungata · BNST</span>
+  - <span class="c-def">Ansia = paura + anticipazione (<span class="c-dato">Plutchik</span>)</span>
   - **Ansia normale**: limitata, gestibile, proporzionata
-  - **Ansia patologica**: intensa, frequente, compromette funzionalità
+  - <span class="c-warn">**Ansia patologica**: intensa, frequente, compromette funzionalità</span>
 - **Sorpresa** → evento inaspettato · domanda "che cos'è?" · risposta: stop · scopo: prendere tempo
   - Se la risposta è "è una minaccia" → parte la paura
-- **Angoscia** → termine freudiano: angoscia reale = paura; angoscia nevrotica = ansia
+- **Angoscia** → <span class="c-def">termine freudiano: angoscia reale = paura; angoscia nevrotica = ansia</span>
 
 ---
 
-## 📚 Fonti di angoscia (Freud, *Il disagio della civiltà*, 1930)
+## 📚 Fonti di angoscia (<span class="c-dato">Freud, *Il disagio della civiltà*, 1930</span>)
 
 - **Corpo** → si ammala, deperisce, può non piacerci
 - **Natura** → terremoti, catastrofi, forze esterne
-- **Relazioni** → la più importante; può distruggere o salvare
+- <span class="c-tesi">**Relazioni** → la più importante; può distruggere o salvare</span>
 
-> Metafora **porcospini di Schopenhauer** → distanza giusta: né troppo fredda né troppo pungente; soggettiva, cambia nel tempo
+> Metafora **<span class="c-dato">porcospini di Schopenhauer</span>** → <span class="c-es">distanza giusta: né troppo fredda né troppo pungente; soggettiva, cambia nel tempo</span>
 
 ---
 
 ## 🛡️ Meccanismi di difesa (MDD)
 
-**Definizione** → risposta automatica, inconscia, attivata dall'Io sotto pressione dell'angoscia
+<span class="c-def">**Definizione** → risposta automatica, inconscia, attivata dall'Io sotto pressione dell'angoscia</span>
 
-- **Non** sono strategie coscienti (quello è il coping)
-- **Scopo** → difendono dall'angoscia, non dal pericolo
+- <span class="c-warn">**Non** sono strategie coscienti (quello è il coping)</span>
+- <span class="c-tesi">**Scopo** → difendono dall'angoscia, non dal pericolo</span>
 - **Si sviluppano** progressivamente: primitivi prima, maturi dopo
 
-**3 criteri di valutazione (Anna Freud):**
+**3 criteri di valutazione (<span class="c-dato">Anna Freud</span>):**
 
-- **Age adequateness** → adeguato all'età?
-- **Intensity** → grado di distorsione della realtà
-- **Balance** → varietà d'uso vs. rigidità
+- <span class="c-def">**Age adequateness** → adeguato all'età?</span>
+- <span class="c-def">**Intensity** → grado di distorsione della realtà</span>
+- <span class="c-def">**Balance** → varietà d'uso vs. rigidità</span>
 
-**Regola operativa** → MDD primitivi in un adulto = alta angoscia del soggetto
+<span class="c-impl">**Regola operativa** → MDD primitivi in un adulto = alta angoscia del soggetto</span>
 
 ---
 
 ## 🔴 MDD Primitivi (alta distorsione realtà · comparsa precoce)
 
-- **Ritiro primitivo** → disattiva il contatto con realtà sovrastimolante
-  - Bambino: si addormenta · Adulto: sostanze, videogiochi, mondi paralleli
+- <span class="c-def">**Ritiro primitivo** → disattiva il contatto con realtà sovrastimolante</span>
+  - <span class="c-es">Bambino: si addormenta · Adulto: sostanze, videogiochi, mondi paralleli</span>
   - Dominanza nell'adulto → personalità schizoide
-- **Diniego** → non vede (percettivamente) ciò che genera angoscia
-  - Più radicale della rimozione: non c'è nemmeno contatto iniziale
-  - Esempio letterario: Pollyanna (E.H. Porter, 1913)
-- **Proiezione** → attribuisce ad altri propri stati interni insostenibili
-- **Introiezione** → fa proprie caratteristiche dell'altro
+- <span class="c-def">**Diniego** → non vede (percettivamente) ciò che genera angoscia</span>
+  - <span class="c-warn">Più radicale della rimozione: non c'è nemmeno contatto iniziale</span>
+  - <span class="c-es">Esempio letterario: Pollyanna (<span class="c-dato">E.H. Porter, 1913</span>)</span>
+- <span class="c-def">**Proiezione** → attribuisce ad altri propri stati interni insostenibili</span>
+- <span class="c-def">**Introiezione** → fa proprie caratteristiche dell'altro</span>
   - Forma estrema: identificazione con l'aggressore
-- **Identificazione proiettiva** → agisce nella relazione per far provare all'altro ciò che ha proiettato
-  - Richiede contatto diretto · molto presente nei disturbi di personalità
-- **Scissione** → mondo diviso buono/cattivo, senza sfumature
-  - Klein: posizione schizoide → posizione depressiva (tollerare l'ambivalenza)
+- <span class="c-def">**Identificazione proiettiva** → agisce nella relazione per far provare all'altro ciò che ha proiettato</span>
+  - <span class="c-warn">Richiede contatto diretto · molto presente nei disturbi di personalità</span>
+- <span class="c-def">**Scissione** → mondo diviso buono/cattivo, senza sfumature</span>
+  - <span class="c-dato">Klein</span>: posizione schizoide → posizione depressiva (tollerare l'ambivalenza)
 - **Idealizzazione** → amplifica qualità positive per ridurre angoscia
-- **Svalutazione** → speculare all'idealizzazione (si attiva quando l'altro "delude")
-- **Controllo onnipotente** → necessità di controllare tutto; cela fragilità interna
-  - Basi: egocentrismo primitivo (Piaget) + narcisismo primario (Freud)
+- <span class="c-warn">**Svalutazione** → speculare all'idealizzazione (si attiva quando l'altro "delude")</span>
+- <span class="c-def">**Controllo onnipotente** → necessità di controllare tutto; cela fragilità interna</span>
+  - Basi: <span class="c-dato">egocentrismo primitivo (Piaget) + narcisismo primario (Freud)</span>
 
 ---
 
@@ -117,30 +126,30 @@ Salute Mentale · Sessione 04
 
 **Dimenticare:**
 
-- **Rimozione** → sposta nell'inconscio pensieri/affetti dopo contatto iniziale
-- **Dissociazione** → discontinuità nell'esperienza mnestica/sensoriale; legata ai traumi
+- <span class="c-def">**Rimozione** → sposta nell'inconscio pensieri/affetti dopo contatto iniziale</span>
+- <span class="c-def">**Dissociazione** → discontinuità nell'esperienza mnestica/sensoriale; legata ai traumi</span>
 
 **Spostare:**
 
-- **Formazione reattiva** → trasforma affetto negativo nel suo opposto esagerato
+- <span class="c-def">**Formazione reattiva** → trasforma affetto negativo nel suo opposto esagerato</span>
 - **Spostamento** → sposta obiettivo dell'emozione su qualcosa di meno "pericoloso"
 - **Capovolgimento** → inverte passivo/attivo ("vorrei ricevere → do")
 
 **Separare:**
 
-- **Isolamento degli affetti** → separa componente emotiva da quella cognitiva
+- <span class="c-def">**Isolamento degli affetti** → separa componente emotiva da quella cognitiva</span>
 - **Intellettualizzazione** → descrive emozioni senza entrarci in contatto
 - **Razionalizzazione** → costruisce spiegazioni razionali per evitare impatto emotivo
 - **Moralizzazione** → dà cornice etico-morale per non sentire
-- **Compartimentalizzazione** → due sistemi cognitivi incompatibili non entrano mai in contatto
+- <span class="c-def">**Compartimentalizzazione** → due sistemi cognitivi incompatibili non entrano mai in contatto</span>
 
 **Maturo:**
 
-- **Umorismo** → mantiene contatto col problema; trasforma l'angoscia in ironia condivisibile
+- <span class="c-def">**Umorismo** → mantiene contatto col problema; trasforma l'angoscia in ironia condivisibile</span>
 
 ---
 
-## 📊 Scala di maturità dei MDD (Perrotta 2020, adatt. Pezzoli)
+## 📊 Scala di maturità dei MDD (<span class="c-dato">Perrotta 2020, adatt. Pezzoli</span>)
 
 | Livello | Tipo | Esempi |
 |---------|------|--------|
@@ -155,9 +164,9 @@ Salute Mentale · Sessione 04
 
 **Angosce per area clinica:**
 
-- **Nevrosi** → angoscia di castrazione (limite, prestazione)
-- **Psicosi** → angoscia di frammentazione (identità, unità del sé)
-- **Borderline** → angoscia di abbandono
+- <span class="c-def">**Nevrosi** → angoscia di castrazione (limite, prestazione)</span>
+- <span class="c-def">**Psicosi** → angoscia di frammentazione (identità, unità del sé)</span>
+- <span class="c-def">**Borderline** → angoscia di abbandono</span>
 
 ---
 
@@ -165,22 +174,22 @@ Salute Mentale · Sessione 04
 
 | Chi | Cosa | Quando |
 |-----|------|--------|
-| Charles Darwin | *L'espressione delle emozioni nell'uomo e negli animali* | 1872 |
-| Sigmund Freud | Concetto di "difesa" introdotto | 1894 |
-| Sigmund Freud | *Introduzione alla psicoanalisi* (angoscia e freezing) | 1915 |
-| Sigmund Freud | *Il disagio della civiltà* (tre fonti di angoscia) | 1930 |
-| Anna Freud | *L'Io e i meccanismi di difesa* | 1936 |
-| Ovidio | *Metamorfosi* libro IV (storia di Medusa) | ~8 d.C. |
-| Schopenhauer | Metafora dei porcospini (*Parerga e paralipomena*) | 1851 |
-| Mélanie Klein | Posizione schizoide e depressiva | XX sec. |
-| Plutchik | Modello delle emozioni (catena paura, ansia) | 2017 ed. |
-| Grillon | Sistemi neurali paura (amigdala) vs. ansia (BNST) | 2008 |
-| Biondi | Criteri ansia normale vs. patologica | 1996 |
-| Oliverio Ferraris | Paure etologiche, solitudine, buio, intensità/durata | 1998 |
-| Vaillant | MDD come processi regolatori involontari | 1994 |
-| Lingiardi & Madeddu | Criteri valutazione MDD | 1994 |
-| Perrotta | Potenziale disadattivo dei MDD | 2020 |
-| L. Pezzoli | Schema contesto × minaccia; elaborazione filiera emozioni | 2026 |
+| <span class="c-dato">Charles Darwin</span> | *L'espressione delle emozioni nell'uomo e negli animali* | <span class="c-dato">1872</span> |
+| <span class="c-dato">Sigmund Freud</span> | Concetto di "difesa" introdotto | <span class="c-dato">1894</span> |
+| <span class="c-dato">Sigmund Freud</span> | *Introduzione alla psicoanalisi* (angoscia e freezing) | <span class="c-dato">1915</span> |
+| <span class="c-dato">Sigmund Freud</span> | *Il disagio della civiltà* (tre fonti di angoscia) | <span class="c-dato">1930</span> |
+| <span class="c-dato">Anna Freud</span> | *L'Io e i meccanismi di difesa* | <span class="c-dato">1936</span> |
+| <span class="c-dato">Ovidio</span> | *Metamorfosi* libro IV (storia di Medusa) | <span class="c-dato">~8 d.C.</span> |
+| <span class="c-dato">Schopenhauer</span> | Metafora dei porcospini (*Parerga e paralipomena*) | <span class="c-dato">1851</span> |
+| <span class="c-dato">Mélanie Klein</span> | Posizione schizoide e depressiva | XX sec. |
+| <span class="c-dato">Plutchik</span> | Modello delle emozioni (catena paura, ansia) | <span class="c-dato">2017 ed.</span> |
+| <span class="c-dato">Grillon</span> | Sistemi neurali paura (amigdala) vs. ansia (BNST) | <span class="c-dato">2008</span> |
+| <span class="c-dato">Biondi</span> | Criteri ansia normale vs. patologica | <span class="c-dato">1996</span> |
+| <span class="c-dato">Oliverio Ferraris</span> | Paure etologiche, solitudine, buio, intensità/durata | <span class="c-dato">1998</span> |
+| <span class="c-dato">Vaillant</span> | MDD come processi regolatori involontari | <span class="c-dato">1994</span> |
+| <span class="c-dato">Lingiardi & Madeddu</span> | Criteri valutazione MDD | <span class="c-dato">1994</span> |
+| <span class="c-dato">Perrotta</span> | Potenziale disadattivo dei MDD | <span class="c-dato">2020</span> |
+| <span class="c-dato">L. Pezzoli</span> | Schema contesto × minaccia; elaborazione filiera emozioni | <span class="c-dato">2026</span> |
 
 ---
 

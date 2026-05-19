@@ -1,21 +1,30 @@
 # Il Corpo Deformato — Disturbi del Comportamento Alimentare · Schema
 Salute Mentale · Sessione 11
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 ---
 
 ## Cibo: Valore Simbolico e Relazionale
 
-- **Primo mediatore relazionale** → il neonato incontra il mondo attraverso l'alimentazione
+- <span class="c-tesi">**Primo mediatore relazionale**</span> → il neonato incontra il mondo attraverso l'alimentazione
 - **Prefigura le relazioni future** → modalità del nutrimento = prima esperienza affettiva
-- **Gusto** → elaborato da cervello, memoria (ippocampo), emozioni (amigdala) — mai neutro
+- **Gusto** → elaborato da cervello, memoria (ippocampo), emozioni (amigdala) — <span class="c-warn">mai neutro</span>
 - **Identità culturale** → cibo come confine tra sé e l'altro, tra gruppi sociali
-- **Tendenza attuale** → pasto da momento di unione a divisione (Niola, 2015: "tribù alimentari")
+- <span class="c-es">**Tendenza attuale** → pasto da momento di unione a divisione (<span class="c-dato">Niola, 2015</span>: "tribù alimentari")</span>
 
 ---
 
 ## Classificazione DNA — DSM-5-TR
 
-**DNA** = Disturbi della Nutrizione e dell'Alimentazione
+<span class="c-def">**DNA**</span> = Disturbi della Nutrizione e dell'Alimentazione
 
 | Disturbo | Caratteristica | Età |
 |---|---|---|
@@ -26,13 +35,13 @@ Salute Mentale · Sessione 11
 | **Bulimia nervosa** | Abbuffate + compensatori | Adolescenza+ |
 | **BED** | Abbuffate senza compensazione | Adulti |
 
-- **BED** riconosciuto come entità autonoma nel DSM-5 → **2013**
-- Quadri puri sempre meno frequenti → prevalgono forme miste e sindromi sottosoglia
+- <span class="c-dato">**BED** riconosciuto come entità autonoma nel DSM-5 → **2013**</span>
+- <span class="c-warn">Quadri puri sempre meno frequenti → prevalgono forme miste e sindromi sottosoglia</span>
 
 ### Anoressia Nervosa — Criteri
-- **Restrizione calorica** → peso < minimo normale
+- <span class="c-def">**Restrizione calorica**</span> → peso < minimo normale
 - **Paura intensa** di ingrassare (o comportamenti che impediscono l'aumento di peso)
-- **Distorsione immagine corporea** → peso/forma influenzano eccessivamente l'autostima
+- <span class="c-def">**Distorsione immagine corporea**</span> → peso/forma influenzano eccessivamente l'autostima
 - Sottotipi: **restrittivo** (solo dieta/esercizio) | **con abbuffate/eliminazione**
 - BMI < 17 → criterio indicativo di gravità
 
@@ -41,7 +50,7 @@ Salute Mentale · Sessione 11
 - **Comportamenti compensatori** → vomito (80%), lassativi, diuretici, digiuno, esercizio
 - Frequenza minima: 1 episodio/settimana per 3 mesi
 - **Autovalutazione** indebitamente influenzata da forma e peso
-- Non necessariamente sottopeso
+- <span class="c-warn">Non necessariamente sottopeso</span>
 
 ### BED — Caratteristiche
 - Abbuffate + perdita di controllo (come bulimia)
@@ -50,30 +59,30 @@ Salute Mentale · Sessione 11
 
 ---
 
-## Evoluzione Storica (Cosenza, 2008)
+## Evoluzione Storica (<span class="c-dato">Cosenza, 2008</span>)
 
 | Periodo | Caratteristiche |
 |---|---|
 | **Anni '60** "Mosche bianche" | Prime anoressiche negli ospedali; sintomo solo restrittivo |
 | **Anni '70** "Malattia d'élite" | Classe borghese; diffusione USA→Europa→Giappone (Bruch) |
 | **Anni '80-'90** | Compaiono abbuffate + evacuazione; si estende alle classi popolari |
-| **Anni 2000+** | Poliabuso; globalizzazione; siti pro-ana; identità costruita sul sintomo |
+| <span class="c-warn">**Anni 2000+**</span> | Poliabuso; globalizzazione; siti pro-ana; identità costruita sul sintomo |
 
 ---
 
 ## Scissione Mente-Corpo
 
-- **Selvini-Palazzoli** (1963) → paura del **corpo**, non del cibo
-- Il corpo pubere diventa **persecutorio** → si avvicina al corpo della madre → difficoltà separazione
-- Funzione **autarchica** → illusione di vivere senza apporti esterni
-- I DCA → **patologie narcisistiche**
-- Mito Eco e Narciso → impossibilità comunicativa + investimento narcisistico sul corpo
+- <span class="c-dato">**Selvini-Palazzoli**</span> (1963) → <span class="c-tesi">paura del **corpo**, non del cibo</span>
+- Il corpo pubere diventa <span class="c-def">**persecutorio**</span> → si avvicina al corpo della madre → difficoltà separazione
+- <span class="c-def">Funzione **autarchica**</span> → illusione di vivere senza apporti esterni
+- I DCA → <span class="c-def">**patologie narcisistiche**</span>
+- <span class="c-es">Mito Eco e Narciso → impossibilità comunicativa + investimento narcisistico sul corpo</span>
 
 ---
 
 ## DCA Come Disturbi Etnici
 
-**Devereux (1978)** → *Culture-Bound Syndrome* (disturbo etnico)
+<span class="c-dato">**Devereux (1978)**</span> → *Culture-Bound Syndrome* (disturbo etnico)
 
 Criteri di un disturbo etnico:
 - Frequente nella cultura specifica
@@ -81,26 +90,26 @@ Criteri di un disturbo etnico:
 - Esprime i conflitti fondamentali della società
 - Offre un "modello di cattiva condotta" socialmente strutturato
 
-Esempi: Amok (Malesia) · Windigo (Canada) · Cane Pazzo (Crow) · **Anoressia/bulimia (Occidente)**
+<span class="c-es">Esempi: Amok (Malesia) · Windigo (Canada) · Cane Pazzo (Crow) · **Anoressia/bulimia (Occidente)**</span>
 
 **Distinzione fondamentale:**
-- Cultura = **fattore patoplastico** (Jaspers) → plasma la **forma** della sofferenza, non ne è la causa
+- <span class="c-def">Cultura = **fattore patoplastico** (<span class="c-dato">Jaspers</span>)</span> → plasma la **forma** della sofferenza, non ne è la causa
 - Non: "la moda causa l'anoressia"
-- Sì: "chi ha una vulnerabilità psichica si ammala; la cultura indica in quale forma"
+- <span class="c-tesi">Sì: "chi ha una vulnerabilità psichica si ammala; la cultura indica in quale forma"</span>
 
 ---
 
 ## Ortoressia e Vigoressia
 
 ### Ortoressia
-- **orthos + orexis** → ossessione per il "mangiare sano"
+- **orthos + orexis** → <span class="c-def">ossessione per il "mangiare sano"</span>
 - Controllo sulla **qualità** (non quantità)
 - Evita socialità legata al cibo → porta i propri cibi ovunque
 - Non ancora nel DSM → in forte aumento post-COVID
-- Rischio: intolleranze auto-diagnosticate → diete sempre più restrittive (Dalla Ragione)
+- <span class="c-warn">Rischio: intolleranze auto-diagnosticate → diete sempre più restrittive (<span class="c-dato">Dalla Ragione</span>)</span>
 
 ### Vigoressia (Muscle Dysmorphia)
-- "Anoressia inversa" (Pope, 1993) → mai abbastanza muscolosi
+- <span class="c-def">"Anoressia inversa"</span> (<span class="c-dato">Pope, 1993</span>) → mai abbastanza muscolosi
 - Dismorfismo corporeo speculare all'anoressia
 - Prevalente nei maschi, in espansione tra adolescenti
 - Dimagrimento = effetto secondario, non obiettivo
@@ -123,51 +132,51 @@ Esempi: Amok (Malesia) · Windigo (Canada) · Cane Pazzo (Crow) · **Anoressia/b
 - Genetici → personalità ossessiva/perfezionista; predisposizione obesità infantile
 - Psicologici → bassa autostima, instabilità dell'umore
 - Familiari → modello alimentare della madre; commenti critici sul peso; abuso di sostanze in famiglia
-- Socioculturali → ideale di magrezza come pressione normativa
+- <span class="c-impl">Socioculturali → ideale di magrezza come pressione normativa</span>
 
 ### Fattori Precipitanti
 - Lutti, separazioni, aggressioni
 - Fallimenti scolastici, cambio scuola, prese in giro per l'aspetto
-- Traumi sessuali (fattore di rischio non specifico)
+- <span class="c-warn">Traumi sessuali (fattore di rischio non specifico)</span>
 - Problemi interpersonali + bassa autostima
 
 ### Fattori Cronicizzanti
 - Digiuno prolungato → spinta biologica crescente al cibo
 - Fattori cognitivi → difficoltà concentrazione, mancata presa di coscienza
 - Alterazioni fisiche → esofago, cuore, ossa, sistema ormonale
-- Distorsione immagine corporea → continua a vedersi grassa → continua a dimagrire
+- <span class="c-warn">Distorsione immagine corporea → continua a vedersi grassa → continua a dimagrire</span>
 - Dinamiche familiari → perpetuano le stesse condizioni
 
 ---
 
 ## Aspetti Psicodinamici
 
-- **Separazione-individuazione** (Mahler) → difficoltà nei primi 2-3 anni = fattore predisponente
-- **Bruch** → "bambine perfette" con bisogni non riconosciuti → **falso sé compiacente**
-- Il sintomo alimentare → unico spazio di autonomia e controllo
+- <span class="c-def">**Separazione-individuazione**</span> (<span class="c-dato">Mahler</span>) → difficoltà nei primi 2-3 anni = fattore predisponente
+- <span class="c-dato">**Bruch**</span> → "bambine perfette" con bisogni non riconosciuti → <span class="c-def">**falso sé compiacente**</span>
+- <span class="c-tesi">Il sintomo alimentare → unico spazio di autonomia e controllo</span>
 - Dialettica dipendenza/autonomia:
   - Abbuffata → riempire il vuoto (dipendenza)
   - Vomito → spingere via (autonomia)
   - Restrizione → illusione di bastare a sé stessi
-- Identità liquida → il sintomo offre un'identità chiara e stabile (disfunzionale)
+- <span class="c-impl">Identità liquida → il sintomo offre un'identità chiara e stabile (disfunzionale)</span>
 
 ---
 
 ## Immagine Corporea e Dispercezione
 
-- **Dispercezione corporea** → errore nella stima del proprio corpo (percettivo + affettivo)
-- Tecnica terapeutica: far disegnare l'immagine percepita → sovrapporre il contorno reale
-- Scissione mente-corpo grave → corpo vissuto come nemico → rischio ideazione suicidaria
+- <span class="c-def">**Dispercezione corporea**</span> → errore nella stima del proprio corpo (percettivo + affettivo)
+- <span class="c-es">Tecnica terapeutica: far disegnare l'immagine percepita → sovrapporre il contorno reale</span>
+- <span class="c-warn">Scissione mente-corpo grave → corpo vissuto come nemico → rischio ideazione suicidaria</span>
 
 ---
 
 ## Per il Lavoro Sociale
 
-- Non gestire l'alimentazione direttamente → presa in carico multidisciplinare
+- <span class="c-warn">Non gestire l'alimentazione direttamente → presa in carico multidisciplinare</span>
 - Costruire relazione senza forzare sul tema del cibo
 - Temi centrali: relazionali e affettivi
 - Coinvolgimento della famiglia → fondamentale
-- Ricadute → parte del processo, non sconfitte
+- <span class="c-warn">Ricadute → parte del processo, non sconfitte</span>
 
 ---
 

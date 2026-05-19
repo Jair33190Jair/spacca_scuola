@@ -1,46 +1,55 @@
 # Lezione 09 — Anzianità
 ## I Tempi della Vita | Lavoro Sociale — 2° semestre
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 > *"Un vecchio padre che non riusciva più a mangiare senza sporcare veniva fatto sedere in disparte. Un giorno il nipotino cominciò a raccogliere pezzi di legno. 'Cosa stai costruendo?' chiese il padre. 'Una scodella,' rispose il bambino, 'per quando sarai vecchio anche tu.'*
 > *Quella sera, i genitori rimisero il nonno a tavola con loro."*
 > — Fiaba dei Fratelli Grimm, citata dalla prof. Campello per aprire il modulo
 
 ---
 
-Ci sono argomenti che sembrano lontani finché non ti accorgi che ti riguardano già — o che riguardano le persone che ami. L'anzianità è uno di questi. E capirla bene non è solo utile per l'esame: è parte del mestiere. Come lavoratore sociale incontrerai anziani ogni giorno, e il modo in cui li guardi — come risorse o come problemi, come individui o come categoria — farà tutta la differenza.
+Ci sono argomenti che sembrano lontani finché non ti accorgi che ti riguardano già — o che riguardano le persone che ami. L'anzianità è uno di questi. E capirla bene non è solo utile per l'esame: è parte del mestiere. <span class="c-tesi">Come lavoratore sociale incontrerai anziani ogni giorno, e il modo in cui li guardi — come risorse o come problemi, come individui o come categoria — farà tutta la differenza.</span>
 
 ---
 
 ## 1. Quattro idee forti per iniziare (Cavalli)
 
-Il prof. Cavalli apre con quattro affermazioni che sembrano semplici ma cambiano il modo di guardare la vecchiaia.
+Il prof. <span class="c-dato">Cavalli</span> apre con quattro affermazioni che sembrano semplici ma cambiano il modo di guardare la vecchiaia.
 
-**Prima idea: invecchiare non significa declinare.** La ricerca CEVI (Centre of Interdisciplinary Gerontology di Ginevra, replicata in 8 paesi) ha studiato cosa cambia con l'età — e la risposta sorprende. Ci sono **guadagni** a tutte le età, non solo perdite. I giovani crescono su alcune dimensioni ma perdono su altre; gli anziani perdono su alcune ma guadagnano su altre. Il grafico di Cavalli mostra chiaramente che la curva "guadagni" non si azzera con gli anni: la saggezza, la stabilità emotiva, la capacità di relativizzare i problemi — queste cose aumentano.
+**Prima idea: <span class="c-tesi">invecchiare non significa declinare.</span>** La ricerca <span class="c-dato">CEVI</span> (Centre of Interdisciplinary Gerontology di Ginevra, replicata in 8 paesi) ha studiato cosa cambia con l'età — e la risposta sorprende. <span class="c-impl">Ci sono **guadagni** a tutte le età, non solo perdite. I giovani crescono su alcune dimensioni ma perdono su altre; gli anziani perdono su alcune ma guadagnano su altre.</span> Il grafico di Cavalli mostra chiaramente che la curva "guadagni" non si azzera con gli anni: la saggezza, la stabilità emotiva, la capacità di relativizzare i problemi — queste cose aumentano.
 
-**Seconda idea: la vecchiaia è una costruzione sociale.** Non è sempre esistita "la pensione" o "la terza età". In Svizzera, l'AVS (Assicurazione Vecchiaia e Superstiti) nasce nel **1948** — ed è questo momento storico che crea socialmente la categoria dell'anziano come fase distinta della vita. Prima, si lavorava finché si poteva, poi si moriva. Oggi la pensione è un diritto, un'istituzione, un marcatore biografico. Nota bene: la propaganda svizzera del 1947 rappresentava la vecchiaia con figure curve, dipendenti — un'immagine che oggi ci farebbe inorridire.
+**Seconda idea: <span class="c-tesi">la vecchiaia è una costruzione sociale.</span>** Non è sempre esistita "la pensione" o "la terza età". In Svizzera, l'<span class="c-dato">AVS</span> (Assicurazione Vecchiaia e Superstiti) nasce nel <span class="c-dato">**1948**</span> — ed è questo momento storico che crea socialmente la categoria dell'anziano come fase distinta della vita. Prima, si lavorava finché si poteva, poi si moriva. <span class="c-es">Nota bene: la propaganda svizzera del 1947 rappresentava la vecchiaia con figure curve, dipendenti — un'immagine che oggi ci farebbe inorridire.</span>
 
-**Terza idea: la popolazione anziana è straordinariamente eterogena.** Questa è forse l'idea più importante per chi lavora nel sociale. "La persona anziana non esiste" come categoria omogenea. Un 70enne può essere in forma, attivo, economicamente agiato — o fragile, isolato, con patologie multiple. La variabilità interindividuale è massima proprio in questa fase della vita. Ogni intervento che tratta "gli anziani" come un blocco uniforme è destinato a fallire.
+**Terza idea: <span class="c-tesi">la popolazione anziana è straordinariamente eterogena.</span>** Questa è forse l'idea più importante per chi lavora nel sociale. <span class="c-warn">"La persona anziana non esiste" come categoria omogenea. Un 70enne può essere in forma, attivo, economicamente agiato — o fragile, isolato, con patologie multiple.</span> La variabilità interindividuale è massima proprio in questa fase della vita. Ogni intervento che tratta "gli anziani" come un blocco uniforme è destinato a fallire.
 
-**Quarta idea: il futuro degli anziani sarà diverso dal presente.** Gli anziani di domani (baby boomer, nati 1945-1965) avranno profili completamente diversi dalla generazione silenziosa (1920-1940). Più istruiti, più autonomi, più connessi tecnologicamente, con aspettative più alte — e con disuguaglianze sociali più marcate. Chi lavora con gli anziani deve capire questa trasformazione.
+**Quarta idea: <span class="c-tesi">il futuro degli anziani sarà diverso dal presente.</span>** Gli anziani di domani (<span class="c-dato">baby boomer, nati 1945-1965</span>) avranno profili completamente diversi dalla <span class="c-dato">generazione silenziosa (1920-1940)</span>. Più istruiti, più autonomi, più connessi tecnologicamente, con aspettative più alte — e con disuguaglianze sociali più marcate. <span class="c-impl">Chi lavora con gli anziani deve capire questa trasformazione.</span>
 
 ---
 
 ## 2. La psicologia dell'invecchiamento: un campo giovane (Campello)
 
-La **psicologia dell'invecchiamento** come disciplina autonoma ha circa 60-70 anni — relativamente recente. Si divide in tre rami:
+La <span class="c-def">**psicologia dell'invecchiamento**</span> come disciplina autonoma ha circa <span class="c-dato">60-70 anni</span> — relativamente recente. Si divide in tre rami:
 - **Psicologia dell'invecchiamento** — i processi di cambiamento (come si invecchia)
 - **Psicologia della vecchiaia** — le caratteristiche di chi è già anziano
 - **Psicologia differenziale dell'età** — le differenze tra gruppi d'età diversi
 
 ### Le tre grandi teorie
 
-**Teoria del disimpegno** (Cumming & Henry, 1961): con l'età, l'individuo si ritira progressivamente dalla società e la società si ritira dall'individuo — un processo naturale e reciproco. Era una teoria descrittiva, ma è stata molto criticata perché sembrava *giustificare* l'esclusione sociale degli anziani.
+<span class="c-def">**Teoria del disimpegno**</span> (<span class="c-dato">Cumming & Henry, 1961</span>): con l'età, l'individuo si ritira progressivamente dalla società e la società si ritira dall'individuo — un processo naturale e reciproco. <span class="c-warn">Era una teoria descrittiva, ma è stata molto criticata perché sembrava *giustificare* l'esclusione sociale degli anziani.</span>
 
-**Teoria dell'attività**: l'invecchiamento sano richiede di mantenere un livello di attività il più alto possibile, sostituendo i ruoli perduti (lavoro, genitorialità attiva) con nuovi ruoli. Chi rimane attivo invecchia meglio.
+<span class="c-def">**Teoria dell'attività**</span>: <span class="c-tesi">l'invecchiamento sano richiede di mantenere un livello di attività il più alto possibile, sostituendo i ruoli perduti (lavoro, genitorialità attiva) con nuovi ruoli.</span> Chi rimane attivo invecchia meglio.
 
-**Teoria della continuità** (Atchley): le persone tendono a mantenere abitudini, valori e strutture di vita nel tempo. L'adattamento riuscito all'invecchiamento passa attraverso la continuità — non tutto cambia, e questo è una risorsa, non un limite.
+<span class="c-def">**Teoria della continuità**</span> (<span class="c-dato">Atchley</span>): <span class="c-tesi">le persone tendono a mantenere abitudini, valori e strutture di vita nel tempo. L'adattamento riuscito all'invecchiamento passa attraverso la continuità</span> — non tutto cambia, e questo è una risorsa, non un limite.
 
-Attenzione: queste teorie non si escludono a vicenda. Ognuna cattura una dimensione reale. Il disimpegno può essere scelto (riposo in pace con se stessi) o subito (esclusione imposta). L'attività può essere una strategia vitale o una negazione della fragilità. La continuità può essere stabilizzante o può ostacolare adattamenti necessari.
+<span class="c-warn">Attenzione: queste teorie non si escludono a vicenda. Ognuna cattura una dimensione reale. Il disimpegno può essere scelto (riposo in pace con se stessi) o subito (esclusione imposta). L'attività può essere una strategia vitale o una negazione della fragilità. La continuità può essere stabilizzante o può ostacolare adattamenti necessari.</span>
 
 ---
 
@@ -48,29 +57,29 @@ Attenzione: queste teorie non si escludono a vicenda. Ognuna cattura una dimensi
 
 Torniamo al tema dell'eterogeneità, che è così centrale da meritare una sezione propria.
 
-**L'età anagrafica** è utile per il diritto, per le statistiche, per i sistemi pensionistici — ma è **arbitraria e problematica** come criterio clinico o sociale. L'esempio più recente e doloroso: durante la pandemia COVID-19, il Ticino (marzo 2020) ha emesso misure per "i over 65", come se tutti condividessero lo stesso livello di rischio. Il 13 marzo 2020 gli over 65 vengono dichiarati "a rischio"; il 20 marzo arriva la frase — letteralmente — "vadano in letargo"; il 21 marzo viene vietato loro di fare la spesa. La ricerca condotta su **818 anziani ticinesi** dopo questi eventi ha rilevato reazioni molto differenziate: c'era chi aveva capito e accettato, chi si era sentito umiliato, chi aveva reagito con rabbia. Non un blocco uniforme — persone diverse.
+<span class="c-warn">**L'età anagrafica** è utile per il diritto, per le statistiche, per i sistemi pensionistici — ma è **arbitraria e problematica** come criterio clinico o sociale.</span> <span class="c-es">L'esempio più recente e doloroso: durante la pandemia COVID-19, il Ticino (marzo 2020) ha emesso misure per "i over 65", come se tutti condividessero lo stesso livello di rischio. Il 13 marzo 2020 gli over 65 vengono dichiarati "a rischio"; il 20 marzo arriva la frase — letteralmente — "vadano in letargo"; il 21 marzo viene vietato loro di fare la spesa.</span> La ricerca condotta su <span class="c-dato">**818 anziani ticinesi**</span> dopo questi eventi ha rilevato reazioni molto differenziate: c'era chi aveva capito e accettato, chi si era sentito umiliato, chi aveva reagito con rabbia. Non un blocco uniforme — persone diverse.
 
 I **quattro tipi di età** aiutano a capire perché l'età anagrafica non basta:
-- **Età anagrafica**: anni dal momento della nascita
-- **Età biologica**: condizione di organi e sistemi fisiologici
-- **Età cerebrale**: stato cognitivo, velocità di elaborazione
-- **Età mentale/soggettiva**: come ci si sente — e questa è spesso la più importante per il benessere
+- <span class="c-def">**Età anagrafica**</span>: anni dal momento della nascita
+- <span class="c-def">**Età biologica**</span>: condizione di organi e sistemi fisiologici
+- <span class="c-def">**Età cerebrale**</span>: stato cognitivo, velocità di elaborazione
+- <span class="c-def">**Età mentale/soggettiva**</span>: come ci si sente — <span class="c-tesi">e questa è spesso la più importante per il benessere</span>
 
-Lo studio Swiss100 sui centenari ha chiesto: "A che età ti sei sentito/a diventare vecchio/a?" La mediana delle risposte è stata **98 anni**. Novantotto. Centenari che si percepiscono ancora giovani a 98 anni. Questo non è solo aneddotico — dimostra quanto l'età soggettiva possa divergere da quella anagrafica.
+Lo studio <span class="c-dato">Swiss100</span> sui centenari ha chiesto: "A che età ti sei sentito/a diventare vecchio/a?" La mediana delle risposte è stata <span class="c-dato">**98 anni**</span>. <span class="c-impl">Questo non è solo aneddotico — dimostra quanto l'età soggettiva possa divergere da quella anagrafica.</span>
 
 ---
 
 ## 4. Fragilizzazione e fragilità
 
-Il prof. Cavalli introduce una distinzione importante, elaborata da **Lalive d'Epinay e Spini (2008)**:
+Il prof. Cavalli introduce una distinzione importante, elaborata da <span class="c-dato">**Lalive d'Epinay e Spini (2008)**</span>:
 
-**Fragilizzazione** è il processo — la riduzione progressiva delle riserve fisiologiche, sensoriali, motorie che avviene con l'invecchiamento. È normale, graduale, non è patologia.
+<span class="c-def">**Fragilizzazione**</span> è il processo — <span class="c-tesi">la riduzione progressiva delle riserve fisiologiche, sensoriali, motorie che avviene con l'invecchiamento. È normale, graduale, non è patologia.</span>
 
-**Fragilità** è lo stato in cui questa riduzione di riserve minaccia l'equilibrio con l'ambiente. Quando le risorse disponibili non bastano più a fronteggiare le richieste della vita quotidiana, si è fragili nel senso tecnico del termine.
+<span class="c-def">**Fragilità**</span> è lo stato in cui <span class="c-tesi">questa riduzione di riserve minaccia l'equilibrio con l'ambiente. Quando le risorse disponibili non bastano più a fronteggiare le richieste della vita quotidiana, si è fragili nel senso tecnico del termine.</span>
 
-Pensala come una pianta: ogni anno perde un po' di vigore (fragilizzazione). La fragilità arriva quando una siccità o un parassita — che una pianta giovane avrebbe superato senza problemi — diventa una minaccia seria. La pianta non è "morta" — è in uno stato di vulnerabilità aumentata che richiede cure specifiche.
+<span class="c-es">Pensala come una pianta: ogni anno perde un po' di vigore (fragilizzazione). La fragilità arriva quando una siccità o un parassita — che una pianta giovane avrebbe superato senza problemi — diventa una minaccia seria.</span>
 
-Nota terminologica importante: **"vecchio" vs "anziano"**. Le word cloud create dagli studenti nel corso mostrano che "vecchio" evoca termini negativi (declino, dipendenza, morte), mentre "anziano" evoca termini più neutri o positivi. Nella pratica professionale questo conta.
+Nota terminologica importante: <span class="c-warn">**"vecchio" vs "anziano"**. Le word cloud create dagli studenti nel corso mostrano che "vecchio" evoca termini negativi (declino, dipendenza, morte), mentre "anziano" evoca termini più neutri o positivi. Nella pratica professionale questo conta.</span>
 
 ---
 
@@ -78,9 +87,9 @@ Nota terminologica importante: **"vecchio" vs "anziano"**. Le word cloud create 
 
 ### L'identità di luogo (place identity)
 
-La prof. Campello introduce un concetto affascinante: **l'identità di luogo** (place identity). Non siamo solo legati a dove abitiamo — i luoghi fisici diventano parte di chi siamo. La casa non è solo un container; è un prolungamento dell'identità, un nodo di memorie, di abitudini, di controllo.
+La prof. <span class="c-dato">Campello</span> introduce un concetto affascinante: <span class="c-def">**l'identità di luogo**</span> (place identity). <span class="c-tesi">Non siamo solo legati a dove abitiamo — i luoghi fisici diventano parte di chi siamo. La casa non è solo un container; è un prolungamento dell'identità, un nodo di memorie, di abitudini, di controllo.</span>
 
-Per un anziano, perdere la propria casa non è solo un cambiamento logistico. È una perdita di identità. Il film *Up* di Pixar — citato dalla prof. Campello — lo mostra perfettamente: Carl non vuole lasciare la casa perché quella casa *è* Ellie, è la sua storia, è chi è lui.
+<span class="c-impl">Per un anziano, perdere la propria casa non è solo un cambiamento logistico. È una perdita di identità.</span> <span class="c-es">Il film *Up* di Pixar — citato dalla prof. Campello — lo mostra perfettamente: Carl non vuole lasciare la casa perché quella casa *è* Ellie, è la sua storia, è chi è lui.</span>
 
 L'identità di luogo fornisce tre funzioni psicologiche fondamentali:
 - **Continuità**: la casa è prova materiale che sei ancora tu
@@ -91,27 +100,25 @@ L'identità di luogo fornisce tre funzioni psicologiche fondamentali:
 
 Ci sono eventi nella vita di un anziano che segnano soglie di transizione — spesso dolorosi:
 
-**L'abbandono della patente di guida.** Sembra banale. Non lo è. La macchina è mobilità, indipendenza, capacità di visitare i figli, fare la spesa, essere adulto autonomo. Perdere la patente è perdere una parte di sé. La ricerca citata dalla prof. mostra un impatto sul benessere psicologico significativo, soprattutto nei maschi (per i quali l'automobile ha avuto un ruolo identitario particolarmente forte nella generazione silenziosa).
+<span class="c-es">**L'abbandono della patente di guida.** Sembra banale. Non lo è. La macchina è mobilità, indipendenza, capacità di visitare i figli, fare la spesa, essere adulto autonomo. Perdere la patente è perdere una parte di sé.</span> La ricerca citata dalla prof. mostra un impatto sul benessere psicologico significativo, <span class="c-warn">soprattutto nei maschi (per i quali l'automobile ha avuto un ruolo identitario particolarmente forte nella generazione silenziosa).</span>
 
-**L'ingresso in una casa anziani.** Ancora più marcato come transizione. Anche se la struttura è eccellente, c'è una rottura: si lascia il proprio spazio, si entra in un ambiente istituzionale, si perde parte del controllo quotidiano. Per il lavoratore sociale, capire questa transizione significa aiutare la persona a *portare con sé* elementi di continuità — oggetti, abitudini, relazioni.
+**L'ingresso in una casa anziani.** Ancora più marcato come transizione. <span class="c-impl">Anche se la struttura è eccellente, c'è una rottura: si lascia il proprio spazio, si entra in un ambiente istituzionale, si perde parte del controllo quotidiano. Per il lavoratore sociale, capire questa transizione significa aiutare la persona a *portare con sé* elementi di continuità — oggetti, abitudini, relazioni.</span>
 
 ---
 
 ## 6. Il cervello che invecchia: intelligenza fluida e cristallizzata
 
-Qui arriviamo a un tema che è anche una buona notizia — almeno in parte.
+<span class="c-dato">**Raymond Cattell**</span> (poi sviluppato da <span class="c-dato">**Paul Baltes**</span> e dallo <span class="c-dato">**Seattle Longitudinal Study di Schaie**</span>) distingue due tipi di intelligenza:
 
-**Raymond Cattell** (poi sviluppato da **Paul Baltes** e dallo **Seattle Longitudinal Study di Schaie**) distingue due tipi di intelligenza:
+<span class="c-def">**Intelligenza fluida**</span>: velocità di elaborazione, memoria di lavoro, orientamento spaziale, ragionamento su problemi nuovi. <span class="c-warn">Inizia a declinare intorno ai **25-30 anni** — lentamente, ma già da lì.</span> È la capacità di fare cose che non hai mai fatto prima, di adattarti alla novità.
 
-**Intelligenza fluida**: velocità di elaborazione, memoria di lavoro, orientamento spaziale, ragionamento su problemi nuovi. Inizia a declinare intorno ai **25-30 anni** — lentamente, ma già da lì. È la capacità di fare cose che non hai mai fatto prima, di adattarti alla novità.
+<span class="c-def">**Intelligenza cristallizzata**</span>: competenze acquisite, vocabolario, conoscenze accumulate, sapere pratico. <span class="c-tesi">Si **mantiene stabile fino ai 70 anni e oltre**. In alcuni domini, continua a crescere. È la saggezza, l'expertise, la capacità di usare quello che sai.</span>
 
-**Intelligenza cristallizzata**: competenze acquisite, vocabolario, conoscenze accumulate, sapere pratico. Si **mantiene stabile fino ai 70 anni e oltre**. In alcuni domini, continua a crescere. È la saggezza, l'expertise, la capacità di usare quello che sai.
-
-L'analogia: la fluida è la velocità di connessione a internet (il hardware bruto); la cristallizzata è il contenuto salvato — i file, i documenti, le skill acquisite. Con l'età il processore può rallentare, ma il database cresce.
+<span class="c-es">L'analogia: la fluida è la velocità di connessione a internet (il hardware bruto); la cristallizzata è il contenuto salvato — i file, i documenti, le skill acquisite. Con l'età il processore può rallentare, ma il database cresce.</span>
 
 ### La riserva cognitiva
 
-Qui arriva la parte più pratica: la **riserva cognitiva**. È la capacità del cervello di compensare danni o rallentamenti usando percorsi alternativi. Non è qualcosa di geneticamente fisso — si costruisce nel corso della vita.
+La <span class="c-def">**riserva cognitiva**</span> è <span class="c-tesi">la capacità del cervello di compensare danni o rallentamenti usando percorsi alternativi. Non è qualcosa di geneticamente fisso — si costruisce nel corso della vita.</span>
 
 Come si costruisce riserva cognitiva?
 - **Istruzione** (più anni di studio = più riserva)
@@ -120,19 +127,19 @@ Come si costruisce riserva cognitiva?
 - **Engagement sociale** (relazioni, conversazioni, appartenenza)
 - **Bilinguismo/multilinguismo** (gestire due sistemi linguistici mantiene il cervello allenato)
 
-Il concetto di **carico allostatico** (da Belsky): lo stress cronico ha un costo biologico cumulativo che accelera l'invecchiamento cerebrale. Non è solo metafora — c'è evidenza fisiologica misurabile.
+Il concetto di <span class="c-def">**carico allostatico**</span> (da <span class="c-dato">Belsky</span>): <span class="c-warn">lo stress cronico ha un costo biologico cumulativo che accelera l'invecchiamento cerebrale. Non è solo metafora — c'è evidenza fisiologica misurabile.</span>
 
 ### SOC: Ottimizzazione Selettiva con Compensazione
 
-Baltes propone una strategia generale per un invecchiamento funzionale: **SOC** (Selezione, Ottimizzazione, Compensazione).
+<span class="c-dato">Baltes</span> propone una strategia generale per un invecchiamento funzionale: <span class="c-def">**SOC**</span> (Selezione, Ottimizzazione, Compensazione).
 
-**Selezione**: scegliere su cosa concentrarsi, rinunciare a ciò che non è prioritario. Non è resa — è gestione intelligente delle risorse.
+<span class="c-def">**Selezione**</span>: scegliere su cosa concentrarsi, rinunciare a ciò che non è prioritario. Non è resa — è gestione intelligente delle risorse.
 
-**Ottimizzazione**: dedicare tempo e pratica a ciò che si vuole mantenere.
+<span class="c-def">**Ottimizzazione**</span>: dedicare tempo e pratica a ciò che si vuole mantenere.
 
-**Compensazione**: quando una risorsa viene meno, usarne un'altra. Il pianista Arthur Rubinstein, interrogato su come riuscisse ancora a suonare bene da anziano, spiegò: suono meno pezzi (selezione), li studio di più (ottimizzazione), e rallento prima dei passaggi veloci così il contrasto li fa sembrare più rapidi (compensazione).
+<span class="c-def">**Compensazione**</span>: quando una risorsa viene meno, usarne un'altra.
 
-Nei giochi di ruolo è la build di fine partita: non puoi più fare tutto, ma hai punti esperienza da spendere strategicamente su ciò che conta davvero.
+<span class="c-es">Il pianista <span class="c-dato">Arthur Rubinstein</span>, interrogato su come riuscisse ancora a suonare bene da anziano, spiegò: suono meno pezzi (selezione), li studio di più (ottimizzazione), e rallento prima dei passaggi veloci così il contrasto li fa sembrare più rapidi (compensazione).</span>
 
 ---
 
@@ -140,9 +147,9 @@ Nei giochi di ruolo è la build di fine partita: non puoi più fare tutto, ma ha
 
 ### Il ruolo dei nonni
 
-**Janet Belsky** (manuale) descrive i nonni come "**guardiani della famiglia**" (guardians of the family). Non nel senso di controllo, ma di presenza stabilizzante, memoria storica, rete di sicurezza.
+<span class="c-dato">**Janet Belsky**</span> (manuale) descrive i nonni come <span class="c-def">**"guardiani della famiglia"**</span> (guardians of the family). Non nel senso di controllo, ma di <span class="c-tesi">presenza stabilizzante, memoria storica, rete di sicurezza.</span>
 
-Da un punto di vista evolutivo, la menopausa femminile ha una spiegazione funzionale: permettere alle nonne di investire nei nipoti anziché produrre nuovi figli. Le nonne aumentano la sopravvivenza dei nipoti — lo confermano studi sulle popolazioni tradizionali.
+Da un punto di vista evolutivo, <span class="c-impl">la menopausa femminile ha una spiegazione funzionale: permettere alle nonne di investire nei nipoti anziché produrre nuovi figli.</span> Le nonne aumentano la sopravvivenza dei nipoti — lo confermano studi sulle popolazioni tradizionali.
 
 Il livello di coinvolgimento dei nonni varia in base a:
 - **Genere**: le nonne tendono a essere più coinvolte dei nonni
@@ -150,7 +157,7 @@ Il livello di coinvolgimento dei nonni varia in base a:
 - **Età dei nipoti**: coinvolgimento massimo quando i nipoti sono piccoli
 - **Tecnologia**: la videochiamata ha cambiato molto per le famiglie lontane
 
-Fenomeno crescente: **nonni che allevano nipoti** (in assenza o difficoltà dei genitori). È un ruolo non istituzionalizzato, spesso invisibile, fisicamente ed emotivamente oneroso — e rilevante per il lavoro sociale.
+<span class="c-warn">Fenomeno crescente: **nonni che allevano nipoti** (in assenza o difficoltà dei genitori). È un ruolo non istituzionalizzato, spesso invisibile, fisicamente ed emotivamente oneroso — e rilevante per il lavoro sociale.</span>
 
 ### Il pensionamento
 
@@ -163,39 +170,39 @@ Il pensionamento è un'altra transizione marcatrice — positiva o negativa dipe
 - Presenza di un partner già pensionato
 - Cultura e norme sociali
 
-**Modelli di sistema pensionistico**: Belsky confronta il modello tedesco ("modello Mercedes" — ricco, generoso) con il modello americano ("vecchia auto usata" — frammentato, insufficiente per molti). La Svizzera ha il sistema dei **tre pilastri** (AVS pubblica + cassa pensioni professionale + risparmio privato) — uno dei più solidi al mondo.
+**Modelli di sistema pensionistico**: <span class="c-dato">Belsky</span> confronta il modello tedesco (<span class="c-es">"modello Mercedes" — ricco, generoso</span>) con il modello americano (<span class="c-es">"vecchia auto usata" — frammentato, insufficiente per molti</span>). La Svizzera ha il sistema dei <span class="c-dato">**tre pilastri**</span> (AVS pubblica + cassa pensioni professionale + risparmio privato) — uno dei più solidi al mondo.
 
-**Lavoro ponte** (bridge employment): molti anziani non escono di colpo dal mercato del lavoro. Riducono l'orario, cambiano ruolo, fanno consulenza. È una transizione graduale che facilita l'adattamento psicologico.
+<span class="c-def">**Lavoro ponte**</span> (bridge employment): <span class="c-impl">molti anziani non escono di colpo dal mercato del lavoro. Riducono l'orario, cambiano ruolo, fanno consulenza. È una transizione graduale che facilita l'adattamento psicologico.</span>
 
-**Discriminazione per età** (ageism): esiste nel mercato del lavoro, nella sanità, nella vita sociale. È reale, documentata, e il lavoro sociale deve saperla riconoscere e nominare.
+<span class="c-def">**Discriminazione per età** (ageism)</span>: <span class="c-warn">esiste nel mercato del lavoro, nella sanità, nella vita sociale. È reale, documentata, e il lavoro sociale deve saperla riconoscere e nominare.</span>
 
 ### La vedovanza
 
 La perdita del partner è tra gli eventi più stressanti della vita adulta. Gli effetti documentati sono:
-- **Impatto sulla mortalità**: i vedovi mostrano tassi di mortalità più alti nei mesi/anni successivi al lutto
-- **Solitudine** come problema principale — non la tristezza in sé, ma la solitudine operativa: chi cucina? chi accompagna dal medico? chi decide con me?
+- <span class="c-warn">**Impatto sulla mortalità**: i vedovi mostrano tassi di mortalità più alti nei mesi/anni successivi al lutto</span>
+- **Solitudine** come problema principale — non la tristezza in sé, ma la <span class="c-def">solitudine operativa</span>: chi cucina? chi accompagna dal medico? chi decide con me?
 - **Ricostruzione delle abitudini**: le routine quotidiane erano costruite attorno alla coppia — vanno ricreate da zero
-- **Differenze di genere**: le donne tendono ad avere reti sociali più ricche che le supportano; gli uomini spesso dipendevano dalla moglie per le relazioni sociali — con la sua scomparsa, rimangono più isolati
+- <span class="c-warn">**Differenze di genere**: le donne tendono ad avere reti sociali più ricche che le supportano; gli uomini spesso dipendevano dalla moglie per le relazioni sociali — con la sua scomparsa, rimangono più isolati</span>
 
 ---
 
 ## 8. Il tempo storico e le generazioni: il diagramma di Lexis
 
-Uno degli strumenti concettuali più eleganti introdotti da Cavalli è il **diagramma di Lexis**. È un grafico che incrocia il **tempo individuale** (anni dalla nascita) con il **tempo storico** (anno del calendario). Permette di vedere dove si intersecano traiettorie biografiche e contesti storici.
+Uno degli strumenti concettuali più eleganti introdotti da <span class="c-dato">Cavalli</span> è il <span class="c-def">**diagramma di Lexis**</span>. <span class="c-tesi">È un grafico che incrocia il **tempo individuale** (anni dalla nascita) con il **tempo storico** (anno del calendario). Permette di vedere dove si intersecano traiettorie biografiche e contesti storici.</span>
 
-Perché importa? Perché due persone che hanno 70 anni nel 2025 hanno traiettorie radicalmente diverse da chi ne aveva 70 nel 1975. Il contesto storico — guerre, boom economici, rivoluzioni culturali, crisi — plasma le generazioni in modo irreversibile.
+<span class="c-impl">Perché importa? Perché due persone che hanno 70 anni nel 2025 hanno traiettorie radicalmente diverse da chi ne aveva 70 nel 1975. Il contesto storico — guerre, boom economici, rivoluzioni culturali, crisi — plasma le generazioni in modo irreversibile.</span>
 
 ### Generazione silenziosa vs baby boomer
 
-**Generazione silenziosa** (nati 1920-1940): cresciuta durante le guerre, la Grande Depressione, la povertà. Valori: risparmio, sacrificio, rispetto dell'autorità, riservatezza. Molti hanno vissuto emigrazioni, hanno costruito da zero. Scolarizzazione bassa.
+<span class="c-def">**Generazione silenziosa**</span> (<span class="c-dato">nati 1920-1940</span>): cresciuta durante le guerre, la Grande Depressione, la povertà. Valori: risparmio, sacrificio, rispetto dell'autorità, riservatezza. Molti hanno vissuto emigrazioni, hanno costruito da zero. Scolarizzazione bassa.
 
-**Baby boomer** (nati 1945-1965): cresciuti nel dopoguerra, nel boom economico, nel '68, nelle rivoluzioni culturali. Valori: individualismo, benessere, diritti civili, autorealizzazione. Scolarizzazione più alta. Hanno vissuto la massificazione dei consumi, la TV, poi internet.
+<span class="c-def">**Baby boomer**</span> (<span class="c-dato">nati 1945-1965</span>): cresciuti nel dopoguerra, nel boom economico, nel '68, nelle rivoluzioni culturali. Valori: individualismo, benessere, diritti civili, autorealizzazione. Scolarizzazione più alta. Hanno vissuto la massificazione dei consumi, la TV, poi internet.
 
-Gli anziani di oggi appartengono alla generazione silenziosa. Gli anziani di domani saranno baby boomer. Saranno **più esigenti, più autonomi, più critici** verso i servizi — e il sistema del lavoro sociale deve adattarsi.
+<span class="c-tesi">Gli anziani di oggi appartengono alla generazione silenziosa. Gli anziani di domani saranno baby boomer. Saranno **più esigenti, più autonomi, più critici** verso i servizi — e il sistema del lavoro sociale deve adattarsi.</span>
 
 ### Gli anziani di domani (Cavalli & Corna 2020)
 
-Il rapporto per il Canton Ticino traccia un profilo degli anziani futuri:
+Il rapporto per il <span class="c-dato">Canton Ticino</span> traccia un profilo degli anziani futuri:
 - Più **istruiti** (e l'istruzione è il differenziatore principale)
 - Economicamente più **confortevoli** (in media — ma con disuguaglianze crescenti)
 - Con **passato migratorio** più frequente
@@ -203,38 +210,38 @@ Il rapporto per il Canton Ticino traccia un profilo degli anziani futuri:
 - Più **tecnologicamente connessi**
 - Più **secolarizzati**, con maggiori aspettative di autonomia e autodeterminazione
 
-La disuguaglianza è un tema chiave: i vantaggi e gli svantaggi si **accumulano** nel corso della vita. Chi aveva buona istruzione, lavoro stimolante, reti sociali forti — arriverà alla vecchiaia con più risorse. Chi aveva poco, avrà ancora meno. Il lavoro sociale deve stare dalla parte di chi ha accumulato svantaggi.
+<span class="c-warn">La disuguaglianza è un tema chiave: i vantaggi e gli svantaggi si **accumulano** nel corso della vita. Chi aveva buona istruzione, lavoro stimolante, reti sociali forti — arriverà alla vecchiaia con più risorse. Chi aveva poco, avrà ancora meno. Il lavoro sociale deve stare dalla parte di chi ha accumulato svantaggi.</span>
 
 ---
 
 ## 9. Dignità, COVID-19 e la filosofia della vecchiaia
 
-La sezione sulla dignità degli anziani durante la pandemia è uno dei contributi più importanti di questo modulo — e anche uno dei più scomodi.
+<span class="c-tesi">La sezione sulla dignità degli anziani durante la pandemia è uno dei contributi più importanti di questo modulo — e anche uno dei più scomodi.</span>
 
-Durante il COVID-19 in Ticino, le misure adottate per gli "over 65" hanno sollevato questioni etiche serie. Il 13 marzo 2020 gli over 65 vengono dichiarati "a rischio"; il 20 marzo arriva la frase — letteralmente — "vadano in letargo"; il 21 marzo viene vietato loro di fare la spesa.
+<span class="c-es">Durante il COVID-19 in Ticino, le misure adottate per gli "over 65" hanno sollevato questioni etiche serie. Il 13 marzo 2020 gli over 65 vengono dichiarati "a rischio"; il 20 marzo arriva la frase — letteralmente — "vadano in letargo"; il 21 marzo viene vietato loro di fare la spesa.</span>
 
-La ricerca condotta su **818 anziani ticinesi** ha rilevato cinque tipi di risposta:
+La ricerca condotta su <span class="c-dato">**818 anziani ticinesi**</span> ha rilevato cinque tipi di risposta:
 1. **Senza problemi** — accettazione senza difficoltà
 2. **Valutazione** — analisi critica delle misure
 3. **Emozione** — risposta emotiva primaria (paura, sollievo, umiliazione)
 4. **Reazione** — risposta comportamentale (adattamento, resistenza)
 5. **Parere** — posizione espressa sulla gestione politica
 
-Il filosofo Mormino distingue due accezioni di **dignità**:
-- **Dignità meritocratica**: si guadagna con le azioni, i ruoli, i meriti. Può essere persa.
-- **Dignità universale**: ogni essere umano la possiede per il fatto di essere umano. Non si perde mai.
+Il filosofo <span class="c-dato">Mormino</span> distingue due accezioni di **dignità**:
+- <span class="c-def">**Dignità meritocratica**</span>: si guadagna con le azioni, i ruoli, i meriti. <span class="c-warn">Può essere persa.</span>
+- <span class="c-def">**Dignità universale**</span>: <span class="c-tesi">ogni essere umano la possiede per il fatto di essere umano. Non si perde mai.</span>
 
-La tendenza a definire "l'anziano" come "chi non è più capace di..." è una trappola: riduce la persona a ciò che non sa più fare, invece di riconoscere ciò che è e ciò che porta. È un'erosione della dignità universale — e il lavoratore sociale deve saperla riconoscere e contrastare.
+<span class="c-warn">La tendenza a definire "l'anziano" come "chi non è più capace di..." è una trappola: riduce la persona a ciò che non sa più fare, invece di riconoscere ciò che è e ciò che porta. È un'erosione della dignità universale — e il lavoratore sociale deve saperla riconoscere e contrastare.</span>
 
 ---
 
 ## 10. Centenari e zone blu: un po' di spirito critico
 
-Lo studio **Swiss100** ha intervistato centenari chiedendo, tra le altre cose, a che età si sono sentiti "diventare vecchi". La mediana della risposta: **98 anni**. Il dato dimostra quanto l'età soggettiva possa divergere da quella anagrafica — e quanto sia importante non proiettare sugli anziani l'idea che si sentano vecchi solo perché lo sono anagraficamente.
+Lo studio <span class="c-dato">**Swiss100**</span> ha intervistato centenari chiedendo, tra le altre cose, a che età si sono sentiti "diventare vecchi". La mediana della risposta: <span class="c-dato">**98 anni**</span>. <span class="c-impl">Il dato dimostra quanto l'età soggettiva possa divergere da quella anagrafica — e quanto sia importante non proiettare sugli anziani l'idea che si sentano vecchi solo perché lo sono anagraficamente.</span>
 
-Le **zone blu** (Blue Zones) sono aree geografiche con concentrazione insolita di centenari: Sardegna, Okinawa (Giappone), Ikaria (Grecia), Nicoya (Costa Rica), Loma Linda (California). Vengono spesso citate come modelli di invecchiamento sano.
+Le <span class="c-def">**zone blu**</span> (Blue Zones) sono aree geografiche con concentrazione insolita di centenari: <span class="c-dato">Sardegna, Okinawa (Giappone), Ikaria (Grecia), Nicoya (Costa Rica), Loma Linda (California)</span>. Vengono spesso citate come modelli di invecchiamento sano.
 
-Cavalli invita alla cautela critica: i dati demografici sulle zone blu vanno presi con prudenza, perché in alcune aree storicamente c'erano problemi di accuratezza dei registri anagrafici. Non significa che non ci insegnino nulla — ma non vanno mitizzate.
+<span class="c-warn">Cavalli invita alla cautela critica: i dati demografici sulle zone blu vanno presi con prudenza, perché in alcune aree storicamente c'erano problemi di accuratezza dei registri anagrafici. Non significa che non ci insegnino nulla — ma non vanno mitizzate.</span>
 
 ---
 
@@ -242,21 +249,21 @@ Cavalli invita alla cautela critica: i dati demografici sulle zone blu vanno pre
 
 | Concetto | Definizione sintetica |
 |---|---|
-| Prospettiva life span | Lo sviluppo continua per tutta la vita; ci sono guadagni e perdite a ogni età |
-| Eterogeneità | La variabilità tra anziani è maggiore che in qualsiasi altra fase della vita |
-| Fragilizzazione | Riduzione progressiva delle riserve fisiologiche — processo normale |
-| Fragilità | Stato in cui le riserve ridotte minacciano l'equilibrio con l'ambiente (Lalive d'Epinay & Spini 2008) |
-| Intelligenza fluida | Velocità cognitiva, memoria di lavoro, problem solving su novità; declina da ~25-30 anni |
-| Intelligenza cristallizzata | Conoscenze, competenze, vocabolario; si mantiene fino a 70+ anni |
-| Riserva cognitiva | Capacità del cervello di compensare perdite; si costruisce nel corso della vita |
-| SOC (Baltes) | Selezione + Ottimizzazione + Compensazione — strategia adattiva all'invecchiamento |
-| Identità di luogo | Legame tra identità personale e spazio fisico abitativo |
-| Costruzione sociale | La vecchiaia come categoria è storicamente e culturalmente determinata (AVS 1948) |
-| Diagramma di Lexis | Strumento che incrocia traiettoria individuale e tempo storico |
-| Generazione silenziosa | Nati 1920-1940: valori di risparmio, sacrificio, autorità |
-| Baby boomer | Nati 1945-1965: individualismo, benessere, diritti; saranno gli anziani di domani |
-| Dignità universale | La dignità che ogni persona ha per il solo fatto di essere umana (Mormino) |
-| Carico allostatico | Costo biologico cumulativo dello stress cronico; accelera l'invecchiamento |
+| <span class="c-def">Prospettiva life span</span> | Lo sviluppo continua per tutta la vita; ci sono guadagni e perdite a ogni età |
+| <span class="c-def">Eterogeneità</span> | La variabilità tra anziani è maggiore che in qualsiasi altra fase della vita |
+| <span class="c-def">Fragilizzazione</span> | Riduzione progressiva delle riserve fisiologiche — processo normale |
+| <span class="c-def">Fragilità</span> | Stato in cui le riserve ridotte minacciano l'equilibrio con l'ambiente (<span class="c-dato">Lalive d'Epinay & Spini 2008</span>) |
+| <span class="c-def">Intelligenza fluida</span> | Velocità cognitiva, memoria di lavoro, problem solving su novità; declina da ~25-30 anni |
+| <span class="c-def">Intelligenza cristallizzata</span> | Conoscenze, competenze, vocabolario; si mantiene fino a 70+ anni |
+| <span class="c-def">Riserva cognitiva</span> | Capacità del cervello di compensare perdite; si costruisce nel corso della vita |
+| <span class="c-def">SOC (Baltes)</span> | Selezione + Ottimizzazione + Compensazione — strategia adattiva all'invecchiamento |
+| <span class="c-def">Identità di luogo</span> | Legame tra identità personale e spazio fisico abitativo |
+| <span class="c-def">Costruzione sociale</span> | La vecchiaia come categoria è storicamente e culturalmente determinata (<span class="c-dato">AVS 1948</span>) |
+| <span class="c-def">Diagramma di Lexis</span> | Strumento che incrocia traiettoria individuale e tempo storico |
+| <span class="c-def">Generazione silenziosa</span> | Nati 1920-1940: valori di risparmio, sacrificio, autorità |
+| <span class="c-def">Baby boomer</span> | Nati 1945-1965: individualismo, benessere, diritti; saranno gli anziani di domani |
+| <span class="c-def">Dignità universale</span> | La dignità che ogni persona ha per il solo fatto di essere umana (<span class="c-dato">Mormino</span>) |
+| <span class="c-def">Carico allostatico</span> | Costo biologico cumulativo dello stress cronico; accelera l'invecchiamento |
 
 ---
 
@@ -290,7 +297,7 @@ Mormino propone due concezioni della dignità: la *dignità universale* riconosc
 
 ## Collegamenti
 
-- **Lezioni precedenti (adultità, identità):** L'identità che si consolida in età adulta qui si trasforma: identità di luogo, continuità biografica, gestione della perdita di ruoli. Il lavoro sull'identità non finisce con la giovinezza — si evolve.
+- **Lezioni precedenti (adultità, identità):** <span class="c-impl">L'identità che si consolida in età adulta qui si trasforma: identità di luogo, continuità biografica, gestione della perdita di ruoli. Il lavoro sull'identità non finisce con la giovinezza — si evolve.</span>
 - **Generatività (Erikson):** Il ruolo dei nonni come "guardiani della famiglia" è una forma concreta di generatività — prendersi cura delle generazioni future come bisogno psicosociale.
 - **Costruzione sociale (tema trasversale del corso):** Come la gioventù e l'adultità, anche la vecchiaia è costruita socialmente. Le sue soglie, i suoi significati, i suoi diritti — tutto è negoziato storicamente.
 - **Lavoro sociale:** Ogni concetto di questo modulo ha implicazioni dirette per la pratica: non categorizzare per età anagrafica, supportare le transizioni (pensionamento, vedovanza, istituzionalizzazione), riconoscere l'eterogeneità, tutelare la dignità universale.

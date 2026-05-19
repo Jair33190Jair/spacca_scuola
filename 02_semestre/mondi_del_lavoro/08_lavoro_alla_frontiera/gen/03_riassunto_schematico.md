@@ -1,79 +1,88 @@
 # Il Lavoro alla Frontiera — Schema
 Mondi del Lavoro · Sessione 08
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 ---
 
 ## Contesto e approccio
 
-- **Tema** → Il frontalierato nel Canton Ticino e in Svizzera
-- **Relatore** → Prof. Paolo Barcella, Università di Bergamo, storico
-- **Approccio "laico"** → distaccarsi dalle posizioni ideologiche precostituite; ragionare su dati e storia
+- **Tema** → <span class="c-tesi">Il frontalierato nel Canton Ticino e in Svizzera</span>
+- **Relatore** → <span class="c-dato">Prof. Paolo Barcella, Università di Bergamo, storico</span>
+- <span class="c-def">**Approccio "laico"**</span> → distaccarsi dalle posizioni ideologiche precostituite; ragionare su dati e storia
 
 ---
 
 ## Definizione di frontalierato
 
-- **Frontalierato** → forma di **mobilità da lavoro internazionale**
-  - Definizione precisa: **pendolarismo internazionale di breve raggio**
-- **Pendolarismo** → movimento regolare casa-lavoro, andirivieni continui, periodicità riconoscibile (quotidiana/settimanale/mensile)
-- **Internazionale** → attraversamento regolare di un confine di Stato
+- <span class="c-def">**Frontalierato**</span> → forma di **mobilità da lavoro internazionale**
+  - Definizione precisa: <span class="c-tesi">**pendolarismo internazionale di breve raggio**</span>
+- <span class="c-def">**Pendolarismo**</span> → movimento regolare casa-lavoro, andirivieni continui, periodicità riconoscibile (quotidiana/settimanale/mensile)
+- <span class="c-def">**Internazionale**</span> → attraversamento regolare di un confine di Stato
 - **Di breve raggio** → distanze sostenibili dato lo sviluppo tecnologico dei trasporti
-  - 1931: 20 km (percorribili in bicicletta)
-  - Oggi: concetto relativo (treno AV, voli low cost)
-- **NON è migrazione** → il frontaliere vive nel suo paese; usa i servizi (sanità, scuola, welfare) nel paese d'origine
+  - <span class="c-dato">1931: 20 km (percorribili in bicicletta)</span>
+  - <span class="c-warn">Oggi: concetto relativo (treno AV, voli low cost)</span>
+- <span class="c-tesi">**NON è migrazione**</span> → il frontaliere vive nel suo paese; usa i servizi (sanità, scuola, welfare) nel paese d'origine
 
 ---
 
-## Numeri attuali — 4° trim. 2025 (fonte: UST-STAF)
+## Numeri attuali — <span class="c-dato">4° trim. 2025</span> (fonte: <span class="c-dato">UST-STAF</span>)
 
 | Voce | Dato |
 |---|---|
-| Totale frontalieri CH | 411.450 |
-| Variaz. trimestrale | +0,3% |
-| Variaz. annuale | +1,1% |
-| Uomini | 264.969 |
-| Donne | 146.481 |
+| Totale frontalieri CH | <span class="c-dato">411.450</span> |
+| Variaz. trimestrale | <span class="c-dato">+0,3%</span> |
+| Variaz. annuale | <span class="c-dato">+1,1%</span> |
+| Uomini | <span class="c-dato">264.969</span> |
+| Donne | <span class="c-dato">146.481</span> |
 
 ### Per grande regione
 
 | Regione | Frontalieri |
 |---|---|
-| Regione del Lemano | 168.461 |
-| **Ticino** | **78.809** |
-| Svizzera nordoccidentale | 78.372 |
-| Espace Mittelland | 37.634 |
-| Svizzera orientale | 32.742 |
-| Zurigo | 12.320 |
-| Svizzera centrale | 3.113 |
+| Regione del Lemano | <span class="c-dato">168.461</span> |
+| **Ticino** | <span class="c-dato">**78.809**</span> |
+| Svizzera nordoccidentale | <span class="c-dato">78.372</span> |
+| Espace Mittelland | <span class="c-dato">37.634</span> |
+| Svizzera orientale | <span class="c-dato">32.742</span> |
+| Zurigo | <span class="c-dato">12.320</span> |
+| Svizzera centrale | <span class="c-dato">3.113</span> |
 
 ### Per settore economico
 
 | Settore | Frontalieri |
 |---|---|
-| Terziario | 287.294 |
-| Secondario | 121.266 |
-| Primario | 2.890 |
+| Terziario | <span class="c-dato">287.294</span> |
+| Secondario | <span class="c-dato">121.266</span> |
+| Primario | <span class="c-dato">2.890</span> |
 
 ### Per paese di provenienza
 
 | Paese | Frontalieri |
 |---|---|
-| Francia | 239.431 |
-| Italia | 91.247 |
-| Germania | 67.552 |
-| Austria | 8.818 |
+| Francia | <span class="c-dato">239.431</span> |
+| Italia | <span class="c-dato">91.247</span> |
+| Germania | <span class="c-dato">67.552</span> |
+| Austria | <span class="c-dato">8.818</span> |
 
-- **Ticino specifico:** 99,7% dei frontalieri reside in Italia · 86% degli italiani di frontiera diretto solo al Ticino
+- <span class="c-tesi">**Ticino specifico:** 99,7% dei frontalieri reside in Italia · 86% degli italiani di frontiera diretto solo al Ticino</span>
 
 ---
 
 ## Variabili che determinano l'intensità del frontalierato
 
-- **Differenziali salariali** tra regioni confinanti → più alti = più frontalieri
+- <span class="c-def">**Differenziali salariali**</span> tra regioni confinanti → più alti = più frontalieri
 - **Livelli occupazione/disoccupazione** nelle regioni confinanti
 - **Equilibri/squilibri demografici** tra le due aree
 - **Circolazione di capitali, merci, materie prime** nell'area
-- **Osmosi della frontiera** → facilità di attraversamento (frontiere europee = osmotiche; frontiere esterne UE = chiuse)
+- <span class="c-def">**Osmosi della frontiera**</span> → facilità di attraversamento (frontiere europee = osmotiche; frontiere esterne UE = chiuse)
 
 ---
 
@@ -81,21 +90,21 @@ Mondi del Lavoro · Sessione 08
 
 ### Fine '800 - inizio '900: tre fattori in Svizzera
 
-- **Domanda di lavoro** → boom industriale, ferroviario, turistico (montagna)
-- **Concorrenza aziendale interna** → imprese cercano manodopera più economica per tagliare i costi
-- **Legge sul lavoro di fabbrica** (1864 San Gallo; 1877 federale) → lavoratori svizzeri tutelati = costo più alto
+- **Domanda di lavoro** → <span class="c-es">boom industriale, ferroviario, turistico (montagna)</span>
+- <span class="c-impl">**Concorrenza aziendale interna** → imprese cercano manodopera più economica per tagliare i costi</span>
+- <span class="c-dato">**Legge sul lavoro di fabbrica** (1864 San Gallo; 1877 federale)</span> → lavoratori svizzeri tutelati = costo più alto
 
 ### Canton Ticino
 
 - Prima metà '900: cantone prevalentemente **rurale**
-- Imprese della Svizzera interna → trasferiscono fabbriche lungo i confini ticinesi
-- Usano: 30% ticinesi (mansioni alte) + 70% frontalieri italiani (manovalanza)
-- Effetto: contribuisce all'**industrializzazione del Ticino**
+- <span class="c-es">Imprese della Svizzera interna → trasferiscono fabbriche lungo i confini ticinesi</span>
+- Usano: <span class="c-dato">30% ticinesi (mansioni alte) + 70% frontalieri italiani (manovalanza)</span>
+- <span class="c-impl">Effetto: contribuisce all'**industrializzazione del Ticino**</span>
 
 ### Il paradosso fino agli anni '70
 
-- Classe dirigente svizzera → **preferiva frontalieri ai migranti**
-- Motivo: frontalieri = versione estrema del **Gastarbeiter** (lavoratore ospite)
+- <span class="c-tesi">Classe dirigente svizzera → **preferiva frontalieri ai migranti**</span>
+- Motivo: frontalieri = versione estrema del <span class="c-def">**Gastarbeiter**</span> (lavoratore ospite)
   - Rientrano a casa
   - Non si radicano
   - Non usano servizi svizzeri
@@ -107,39 +116,39 @@ Mondi del Lavoro · Sessione 08
 
 | Elemento | Contenuto |
 |---|---|
-| **Distanza residenza** | Entro 10-20 km dalla frontiera svizzera |
+| **Distanza residenza** | <span class="c-dato">Entro 10-20 km dalla frontiera svizzera</span> |
 | **Pendolarità** | Obbligo di rientro (inizialmente quotidiano, poi anche settimanale) |
-| **Questione fiscale** | Accordi bilaterali: le imposte pagate in CH vengono parzialmente retrocesse al paese di residenza |
+| **Questione fiscale** | <span class="c-def">Accordi bilaterali</span>: le imposte pagate in CH vengono parzialmente retrocesse al paese di residenza |
 
 - Svizzera e Lussemburgo → paesi con la presenza frontaliera più alta in Europa
-- La Legge 1931 → **diventata modello di riferimento per tutta Europa**
+- <span class="c-tesi">La Legge 1931 → **diventata modello di riferimento per tutta Europa**</span>
 
 ---
 
 ## La crescita dal 2002
 
-- **2002-2023:** frontalieri in CH quasi raddoppiati
+- <span class="c-tesi">**2002-2023:** frontalieri in CH quasi raddoppiati</span>
 - **Cause principali:**
-  - Accordi bilaterali CH-UE (1999, in vigore 2002)
-  - Crisi economica 2007/08 → mobilità da Lombardia e Veneto
+  - <span class="c-dato">Accordi bilaterali CH-UE (1999, in vigore 2002)</span>
+  - <span class="c-dato">Crisi economica 2007/08</span> → mobilità da Lombardia e Veneto
   - Sviluppo tecnologico e deregolamentazione mercato del lavoro
-  - Nuovi frontalieri e **notificati** (precari, reclutati via web, non necessariamente in zona di frontiera)
+  - Nuovi frontalieri e <span class="c-def">**notificati**</span> (precari, reclutati via web, non necessariamente in zona di frontiera)
   - Potenziamento trasporti e riduzione costi
 
 ### Dimensione regionale (dati 2022)
 
 | Regione italiana | Frontalieri/1.000 ab. |
 |---|---|
-| Lombardia | 7 |
-| Piemonte | 2 |
-| Trentino / Valle d'Aosta | 1 |
+| Lombardia | <span class="c-dato">7</span> |
+| Piemonte | <span class="c-dato">2</span> |
+| Trentino / Valle d'Aosta | <span class="c-dato">1</span> |
 
 | Provincia | Frontalieri su 100 ab. |
 |---|---|
-| Como | 4,9% |
-| Verbanio Cusio Ossola | 4,6% |
-| Varese | 3,3% |
-| Sondrio | 2,6% |
+| Como | <span class="c-dato">4,9%</span> |
+| Verbanio Cusio Ossola | <span class="c-dato">4,6%</span> |
+| Varese | <span class="c-dato">3,3%</span> |
+| Sondrio | <span class="c-dato">2,6%</span> |
 
 ---
 
@@ -147,14 +156,14 @@ Mondi del Lavoro · Sessione 08
 
 | Chi | Cosa | Quando |
 |---|---|---|
-| Prof. Paolo Barcella | Relatore, storico, Univ. Bergamo | Lezione 20.04.2026 |
-| E.H. Carr | Storico britannico; *Sei lezioni di storia* — sulla dimensione soggettiva nell'analisi storica | Citato a lezione |
-| Legge federale CH | Prima definizione sistematica del frontaliere | 1931 |
-| Legge lavoro fabbrica | Canton San Gallo → poi federale | 1864 → 1877 |
-| Campagne Schwarzenbach | Iniziative per limitare stranieri (frontalieri esclusi) | Fine anni '60 - inizio '70 |
-| Accordi bilaterali CH-UE | Liberalizzazione circolazione lavoratori | Firmati 1999, vigore 2002 |
-| Crisi economica | Impulso alla mobilità da regioni industriali italiane | 2007-2008 |
-| UST-STAF | Fonte dati statistica frontalieri | Dati aggiornati 19.02.2026 |
+| <span class="c-dato">Prof. Paolo Barcella</span> | Relatore, storico, Univ. Bergamo | Lezione 20.04.2026 |
+| <span class="c-dato">E.H. Carr</span> | Storico britannico; *Sei lezioni di storia* — sulla dimensione soggettiva nell'analisi storica | Citato a lezione |
+| <span class="c-dato">Legge federale CH</span> | Prima definizione sistematica del frontaliere | 1931 |
+| <span class="c-dato">Legge lavoro fabbrica</span> | Canton San Gallo → poi federale | 1864 → 1877 |
+| <span class="c-dato">Campagne Schwarzenbach</span> | Iniziative per limitare stranieri (frontalieri esclusi) | Fine anni '60 - inizio '70 |
+| <span class="c-dato">Accordi bilaterali CH-UE</span> | Liberalizzazione circolazione lavoratori | Firmati 1999, vigore 2002 |
+| <span class="c-dato">Crisi economica</span> | Impulso alla mobilità da regioni industriali italiane | 2007-2008 |
+| <span class="c-dato">UST-STAF</span> | Fonte dati statistica frontalieri | Dati aggiornati 19.02.2026 |
 
 ---
 

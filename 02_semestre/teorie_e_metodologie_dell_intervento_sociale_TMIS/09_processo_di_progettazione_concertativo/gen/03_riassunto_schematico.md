@@ -1,15 +1,24 @@
 # Processo di Progettazione Concertativo — Schema
 TMIS · Sessione 09
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 ---
 
 ## Approccio concertativo-partecipativo
 
-- **Critica al modello sinottico-razionale** → non considera interazione sociale, livelli cognitivi ed emotivi
-- **Principio base** → costruzione di significati condivisi prima della ricerca di soluzioni
-- **Processo** → circolare a spirale (non lineare)
-- **Dialogico** → da Bachtin: comunicazione co-costruita, attenta all'interlocutore
-  - Arnkil & Seikkula: "il dialogo è l'arte di valicare i confini"
+- <span class="c-warn">**Critica al modello sinottico-razionale**</span> → non considera interazione sociale, livelli cognitivi ed emotivi
+- <span class="c-tesi">**Principio base** → costruzione di significati condivisi prima della ricerca di soluzioni</span>
+- <span class="c-def">**Processo** → circolare a spirale (non lineare)</span>
+- <span class="c-def">**Dialogico**</span> → da <span class="c-dato">Bachtin</span>: comunicazione co-costruita, attenta all'interlocutore
+  - <span class="c-dato">Arnkil & Seikkula</span>: "il dialogo è l'arte di valicare i confini"
 
 **3 convinzioni fondamentali:**
 - Problemi sociali → causalità non lineare
@@ -20,13 +29,13 @@ TMIS · Sessione 09
 
 ## Progetto di vita vs PSI/PEI
 
-- **PSI** (Progetto di Sviluppo Individuale) / **PEI** (Progetto Educativo Individualizzato)
+- <span class="c-def">**PSI**</span> (Progetto di Sviluppo Individuale) / <span class="c-def">**PEI**</span> (Progetto Educativo Individualizzato)
   - logica professionale, esperto ha il progetto in mano
-- **PdV** (Progetto di vita)
+- <span class="c-def">**PdV**</span> (Progetto di vita)
   - traduce la dimensione di senso della vita della persona
   - include potenzialità, talenti, desideri, aspirazioni
   - si declina in breve / medio / lungo termine
-  - due piani → PdV + piccoli progetti annuali → devono andare nella stessa direzione
+  - <span class="c-impl">due piani → PdV + piccoli progetti annuali → devono andare nella stessa direzione</span>
 
 ---
 
@@ -40,26 +49,26 @@ TMIS · Sessione 09
 | Relazione con la mancanza | Nasce dalla mancanza | Trasforma la mancanza in percorso |
 | Funzione pedagogica | Mobilita il soggetto | Orienta, dà senso alla crescita |
 
-- **Appadurai** → capacità di aspirare = immaginare un futuro più favorevole
+- <span class="c-dato">**Appadurai**</span> → capacità di aspirare = immaginare un futuro più favorevole
   - si esercita nel presente
   - richiede: capacità culturale + navigare norme sociali + capacità di "voce"
-- Società povere/non democratiche → capacità di aspirare negata
-- Combattere disuguaglianze = promuovere la capacità di aspirare
+- <span class="c-impl">Società povere/non democratiche → capacità di aspirare negata</span>
+- <span class="c-impl">Combattere disuguaglianze = promuovere la capacità di aspirare</span>
 
 ---
 
 ## Analisi pedagogica dei problemi educativi
 
-- **Problema educativo** → distanza tra situazione esistente e auspicata
-- **Domanda progettuale** → esigenza di pianificare un intervento (scarto presente → desiderato)
+- <span class="c-def">**Problema educativo**</span> → distanza tra situazione esistente e auspicata
+- <span class="c-def">**Domanda progettuale**</span> → esigenza di pianificare un intervento (scarto presente → desiderato)
 - Problemi → multicausali, mai lineari
 
-**5 trappole interpretative (Brambilla):**
-1. **Interpretazioni diagnostiche deterministiche** → diagnosi ≠ sentenza
-2. **Oggettivazione / spersonalizzazione** → la persona non è un "caso"
-3. **Normalità vs diversità** → nessuna traiettoria di vita è l'unica valida
-4. **Ineducabilità preconcetta** → nessuno è "inutile lavorarci"
-5. **Custodia > emancipazione** → fine = autonomia, empowerment, non gestione
+**5 trappole interpretative (<span class="c-dato">Brambilla</span>):**
+1. <span class="c-warn">**Interpretazioni diagnostiche deterministiche**</span> → diagnosi ≠ sentenza
+2. <span class="c-warn">**Oggettivazione / spersonalizzazione**</span> → la persona non è un "caso"
+3. <span class="c-warn">**Normalità vs diversità**</span> → nessuna traiettoria di vita è l'unica valida
+4. <span class="c-warn">**Ineducabilità preconcetta**</span> → nessuno è "inutile lavorarci"
+5. <span class="c-warn">**Custodia > emancipazione**</span> → fine = autonomia, empowerment, non gestione
 
 ---
 
@@ -80,7 +89,7 @@ IDEAZIONE → ATTIVAZIONE → SCRITTURA → REALIZZAZIONE → VERIFICA
     - raccolta anamnesi e percorso socioeducativo
     - individuazione persone significative (rete interna ed esterna)
     - prima individuazione risorse e bisogni emancipativi
-    - **ZSP** (Vygotskij) → zona tra abilità autonoma e abilità con aiuto = dove si lavora
+    - <span class="c-def">**ZSP**</span> (<span class="c-dato">Vygotskij</span>) → zona tra abilità autonoma e abilità con aiuto = dove si lavora
   - B. Prime ipotesi obiettivi/strategie → da negoziare, non definitive
 
 ### Fase 2 — Attivazione
@@ -95,8 +104,8 @@ IDEAZIONE → ATTIVAZIONE → SCRITTURA → REALIZZAZIONE → VERIFICA
           Tempo libero
 ```
 
-- **Co-costruzione lettura condivisa**:
-  - operatore = facilitatore della comunicazione
+- <span class="c-tesi">**Co-costruzione lettura condivisa**:</span>
+  - operatore = <span class="c-def">facilitatore</span> della comunicazione
   - raccoglie rappresentazioni di tutti
   - riformula narrazione condivisa
   - solo dopo → obiettivi, strategie, responsabilità
@@ -107,7 +116,7 @@ IDEAZIONE → ATTIVAZIONE → SCRITTURA → REALIZZAZIONE → VERIFICA
 |----------|---------|
 | Generalizzazioni cristallizzate | Chiedere esempi concreti |
 | Resistenza a punti di vista diversi | Spiegare valore di ogni prospettiva |
-| Tendenza al "fare" subito | Non parlare di soluzioni prima della lettura condivisa |
+| <span class="c-warn">Tendenza al "fare" subito</span> | Non parlare di soluzioni prima della lettura condivisa |
 
 ---
 
@@ -131,14 +140,14 @@ IDEAZIONE → ATTIVAZIONE → SCRITTURA → REALIZZAZIONE → VERIFICA
 
 ---
 
-## Livelli di partecipazione (O'Sullivan)
+## Livelli di partecipazione (<span class="c-dato">O'Sullivan</span>)
 
 | | Livello | Descrizione |
 |-|---------|-------------|
 | A | Being in control | La persona decide per sé → obiettivo massimo |
-| B | Being a partner | Accordo negoziato → livello minimo accettabile |
+| B | Being a partner | Accordo negoziato → <span class="c-tesi">livello minimo accettabile</span> |
 | C | Being consulted | Parere considerato, decide il professionista |
-| D | Being told | Solo informata → approccio disabilitante/oppressivo |
+| D | <span class="c-warn">Being told</span> | Solo informata → approccio disabilitante/oppressivo |
 
 Progettazione dialogica → mira ad **A**, si muove tra **A–B**
 
@@ -148,13 +157,13 @@ Progettazione dialogica → mira ad **A**, si muove tra **A–B**
 
 | Chi | Cosa | Riferimento |
 |-----|------|-------------|
-| Michail Bachtin | Concetto di dialogico | 1895–1975 |
-| Arnkil & Seikkula | Metodi dialogici nel lavoro di rete | 2013 |
-| Arjun Appadurai | Capacità di aspirare | Antropologo statunitense |
-| Lev Vygotskij | Zona di Sviluppo Prossimale (ZSP) | Pedagogista russo |
-| Terence O'Sullivan | 4 livelli di partecipazione | 2011 |
-| Brambilla L. | 5 trappole interpretative | 2023, Carocci, pp. 47–82 |
-| Aleandri | Educazione per tutta la vita | 2003 |
+| <span class="c-dato">Michail Bachtin</span> | Concetto di dialogico | 1895–1975 |
+| <span class="c-dato">Arnkil & Seikkula</span> | Metodi dialogici nel lavoro di rete | 2013 |
+| <span class="c-dato">Arjun Appadurai</span> | Capacità di aspirare | Antropologo statunitense |
+| <span class="c-dato">Lev Vygotskij</span> | Zona di Sviluppo Prossimale (ZSP) | Pedagogista russo |
+| <span class="c-dato">Terence O'Sullivan</span> | 4 livelli di partecipazione | 2011 |
+| <span class="c-dato">Brambilla L.</span> | 5 trappole interpretative | 2023, Carocci, pp. 47–82 |
+| <span class="c-dato">Aleandri</span> | Educazione per tutta la vita | 2003 |
 
 ### Parole chiave
 

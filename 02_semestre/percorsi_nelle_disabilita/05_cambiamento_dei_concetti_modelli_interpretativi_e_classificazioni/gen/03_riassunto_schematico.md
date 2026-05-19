@@ -1,25 +1,34 @@
 # Cambiamento dei concetti, modelli interpretativi e classificazioni — Schema
 Percorsi nelle Disabilità · Sessione 05
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 ---
 
 ## Linguaggio rispettoso (SUPSI)
 
-- **Regola** → persona prima del deficit
-- **Da evitare** → invalido, disabile (sostantivo), handicappato, diversamente abile, portatore di handicap
-- **Da usare** → persona con disabilità, persona in situazione di handicap
-  - Es.: persona con disabilità visiva / uditiva / motoria / cognitiva
-- **Motivazione** → sostantivare = ridurre la persona al deficit
+- **Regola** → <span class="c-tesi">persona prima del deficit</span>
+- **Da evitare** → <span class="c-warn">invalido, disabile (sostantivo), handicappato, diversamente abile, portatore di handicap</span>
+- **Da usare** → <span class="c-def">persona con disabilità, persona in situazione di handicap</span>
+  - Es.: <span class="c-es">persona con disabilità visiva / uditiva / motoria / cognitiva</span>
+- **Motivazione** → <span class="c-impl">sostantivare = ridurre la persona al deficit</span>
 
 ---
 
 ## Dimensione del fenomeno
 
-- **Mondo** → >1 miliardo persone con disabilità (~15% pop. mondiale)
-- **Con familiari** → >1/3 dell'umanità coinvolta
-- **Metafora Gardou** → "Terza nazione del mondo" (dopo Cina e India)
-- **Media per persona** → 8 anni in condizione di disabilità (nei paesi con speranza di vita >70 anni)
-- **Svizzera** → 1,8 milioni · Ticino → 70.000 (2024)
+- **Mondo** → <span class="c-dato">>1 miliardo persone con disabilità (~15% pop. mondiale)</span>
+- **Con familiari** → <span class="c-dato">>1/3 dell'umanità coinvolta</span>
+- **Metafora Gardou** → <span class="c-dato">"Terza nazione del mondo" (dopo Cina e India)</span>
+- **Media per persona** → <span class="c-dato">8 anni in condizione di disabilità</span> (nei paesi con speranza di vita >70 anni)
+- **Svizzera** → <span class="c-dato">1,8 milioni · Ticino → 70.000 (2024)</span>
 - **Trend** → in crescita (invecchiamento, cure neonatali, conflitti, malattie croniche)
 
 ---
@@ -37,57 +46,57 @@ Percorsi nelle Disabilità · Sessione 05
 
 ## Modelli interpretativi
 
-**Caso esercizio:** persona su sedia a rotelle non accede al seggio elettorale
+**<span class="c-es">Caso esercizio: persona su sedia a rotelle non accede al seggio elettorale</span>**
 
-- **Modello biomedico** → danno alla spina dorsale (individuale)
+- **Modello biomedico** → <span class="c-def">danno alla spina dorsale (individuale)</span>
 - **Modello funzionale/riabilitativo** → non può camminare (individuale)
-- **Modello ambientale** → la scala è una barriera architettonica (sociale)
-- **Modello civico / diritti umani** → esclusione sociale, discriminazione (sociale)
+- **Modello ambientale** → <span class="c-def">la scala è una barriera architettonica (sociale)</span>
+- **Modello civico / diritti umani** → <span class="c-def">esclusione sociale, discriminazione (sociale)</span>
 
-**CDPD (ONU)** → disabilità = interazione tra menomazioni e barriere ambientali/comportamentali
+<span class="c-tesi">**CDPD (ONU)** → disabilità = interazione tra menomazioni e barriere ambientali/comportamentali</span>
 
 ---
 
 ## Classificazioni OMS
 
 ### ICD (International Classification of Diseases)
-- **Schema** → EZIOLOGIA → PATOLOGIA → MANIFESTAZIONE CLINICA
+- **Schema** → <span class="c-def">EZIOLOGIA → PATOLOGIA → MANIFESTAZIONE CLINICA</span>
 - **Focus** → cause della malattia
 - **Modello** → medico-riabilitativo (riparare la persona)
-- **Versione attuale** → ICD-11
+- **Versione attuale** → <span class="c-dato">ICD-11</span>
 
 ### ICIDH (1980)
-- **Schema** → MALATTIA → MENOMAZIONE → DISABILITÀ → HANDICAP
+- **Schema** → <span class="c-def">MALATTIA → MENOMAZIONE → DISABILITÀ → HANDICAP</span>
 - **Focus** → conseguenze della malattia
 - **Concetti:**
-  - **Menomazione** → danno organico/funzionale
-  - **Disabilità** → perdita di capacità operative
-  - **Handicap** → svantaggio vissuto nell'interazione con l'ambiente
+  - **<span class="c-def">Menomazione</span>** → danno organico/funzionale
+  - **<span class="c-def">Disabilità</span>** → perdita di capacità operative
+  - **<span class="c-def">Handicap</span>** → svantaggio vissuto nell'interazione con l'ambiente
 - **Critiche:**
-  - Sequenza lineare non sempre valida
-  - Linguaggio negativo (descrive per mancanze)
-  - Non considera abbastanza i fattori ambientali
+  - <span class="c-warn">Sequenza lineare non sempre valida</span>
+  - <span class="c-warn">Linguaggio negativo (descrive per mancanze)</span>
+  - <span class="c-warn">Non considera abbastanza i fattori ambientali</span>
   - Non è dinamico (handicap può essere temporaneo)
 
 ### PPH — Processo di Produzione dell'Handicap
-- **Schema** → Fattori personali + Fattori ambientali → Interazione → Partecipazione sociale / Situazione di handicap
-- **Innovazione** → handicap come risultato dell'interazione, non caratteristica della persona
+- **Schema** → <span class="c-def">Fattori personali + Fattori ambientali → Interazione → Partecipazione sociale / Situazione di handicap</span>
+- **Innovazione** → <span class="c-tesi">handicap come risultato dell'interazione, non caratteristica della persona</span>
 
 ### ICF (2001 — classificazione attuale)
-- **Schema** → funzionamento della persona nel contesto
+- **Schema** → <span class="c-tesi">funzionamento della persona nel contesto</span>
 - **Focus** → cosa la persona *può fare* (non solo cosa non riesce a fare)
-- **Modello** → biopsicosociale
-- **Versione bambini** → ICF-CY (2004)
+- **Modello** → <span class="c-def">biopsicosociale</span>
+- **Versione bambini** → <span class="c-dato">ICF-CY (2004)</span>
 
 ### Cronologia revisioni ICIDH → ICF
 
 | Anno | Documento |
 |---|---|
-| 1980 | ICIDH |
+| <span class="c-dato">1980</span> | ICIDH |
 | 1997 | ICIDH-2 bozza beta 1 (attività + partecipazione) |
 | 1999 | ICIDH-2 bozza beta 2 |
-| 2001 | **ICF** |
-| 2004 | ICF-CY |
+| <span class="c-dato">2001</span> | **ICF** |
+| <span class="c-dato">2004</span> | ICF-CY |
 
 ---
 
@@ -98,33 +107,33 @@ Percorsi nelle Disabilità · Sessione 05
 
 | Quadrante | Luogo | Attenzione | Nome |
 |---|---|---|---|
-| 0 | Speciale | Nessuna | **Esclusione / Ghettizzazione** |
-| 1 | Speciale | Speciale | **Segregazione** |
-| 2 | Ordinario | Speciale (eccezionale) | **Integrazione** |
-| 3 | Ordinario | Normalmente speciale | **Inclusione** |
+| 0 | Speciale | Nessuna | **<span class="c-def">Esclusione / Ghettizzazione</span>** |
+| 1 | Speciale | Speciale | **<span class="c-def">Segregazione</span>** |
+| 2 | Ordinario | Speciale (eccezionale) | **<span class="c-def">Integrazione</span>** |
+| 3 | Ordinario | Normalmente speciale | **<span class="c-def">Inclusione</span>** |
 
 ### Distinzione integrazione vs inclusione (chiave esame)
 
 - **Integrazione**
-  - → misura speciale ed *eccezionale* per la persona specifica
+  - → <span class="c-def">misura speciale ed *eccezionale* per la persona specifica</span>
   - → la persona si adatta al sistema
   - → nell'ordine delle possibilità (si negozia)
-  - → esempio: rampa costruita *per quel bambino specifico*
+  - → <span class="c-es">esempio: rampa costruita *per quel bambino specifico*</span>
 
 - **Inclusione**
-  - → misure speciali ma *normali* per tutta la popolazione, a priori
+  - → <span class="c-def">misure speciali ma *normali* per tutta la popolazione, a priori</span>
   - → il sistema si adatta a tutti
-  - → esempio: rampe in tutti gli edifici pubblici indipendentemente da chi li usa
+  - → <span class="c-es">esempio: rampe in tutti gli edifici pubblici indipendentemente da chi li usa</span>
 
-> ⚠️ Non è una scala del bene/male: in certi momenti la separazione è la risposta migliore alla qualità di vita della persona.
+> <span class="c-warn">⚠️ Non è una scala del bene/male: in certi momenti la separazione è la risposta migliore alla qualità di vita della persona.</span>
 
 ---
 
 ## Rischi dell'inclusione
 
-- **Banalizzazione** → il termine viene usato a sproposito (es. eventi presentati come inclusivi che non lo sono)
-- **Inclusione senza risorse** → mettere dentro senza garantire i sostegni = ri-esclusione mascherata nel tempo
-- **Direzione, non stato** → è un orizzonte, non un traguardo già raggiunto
+- <span class="c-warn">**Banalizzazione** → il termine viene usato a sproposito</span> (es. eventi presentati come inclusivi che non lo sono)
+- <span class="c-warn">**Inclusione senza risorse** → mettere dentro senza garantire i sostegni = ri-esclusione mascherata nel tempo</span>
+- **Direzione, non stato** → <span class="c-tesi">è un orizzonte, non un traguardo già raggiunto</span>
 
 ---
 
@@ -133,7 +142,7 @@ Percorsi nelle Disabilità · Sessione 05
 - **Strumento** → scrittura semplificata per accessibilità cognitiva
 - **Integrativo** → se disponibile solo su richiesta / per certi gruppi
 - **Inclusivo** → se adottato a priori per tutta la comunicazione pubblica
-- Lo strumento *in sé* è inclusivo; l'uso dipende dal contesto
+- <span class="c-impl">Lo strumento *in sé* è inclusivo; l'uso dipende dal contesto</span>
 
 ---
 
@@ -141,13 +150,13 @@ Percorsi nelle Disabilità · Sessione 05
 
 | Chi | Cosa | Quando |
 |---|---|---|
-| OMS | ICD (International Classification of Diseases) | 1975 → ICD-11 oggi |
-| OMS | ICIDH (menomazione, disabilità, handicap) | 1980 |
-| OMS | ICF (funzionamento, disabilità, salute) | 2001 |
-| Mainardi | Schema 4 modelli istituzionali | 2010 |
-| Gardou | "Terza nazione del mondo" / modello inclusivo | 2009, 2016 |
-| Soresi | Analisi critica classificazioni OMS | 2016 |
-| ONU | CDPD — Convenzione diritti persone con disabilità | 2006 (ratif. CH 2014) |
+| <span class="c-dato">OMS</span> | ICD (International Classification of Diseases) | 1975 → ICD-11 oggi |
+| <span class="c-dato">OMS</span> | ICIDH (menomazione, disabilità, handicap) | 1980 |
+| <span class="c-dato">OMS</span> | ICF (funzionamento, disabilità, salute) | 2001 |
+| <span class="c-dato">Mainardi</span> | Schema 4 modelli istituzionali | 2010 |
+| <span class="c-dato">Gardou</span> | "Terza nazione del mondo" / modello inclusivo | 2009, 2016 |
+| <span class="c-dato">Soresi</span> | Analisi critica classificazioni OMS | 2016 |
+| <span class="c-dato">ONU</span> | CDPD — Convenzione diritti persone con disabilità | 2006 (ratif. CH 2014) |
 | SUPSI | Raccomandazioni "Esprimersi… Diversamente!" | — |
 | Di Maggio, Nota, Soresi | Definizione di inclusione | 2016 |
 

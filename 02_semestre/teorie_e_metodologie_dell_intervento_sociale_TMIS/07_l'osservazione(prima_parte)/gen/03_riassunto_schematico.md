@@ -1,31 +1,40 @@
 # L'Osservazione (Prima Parte) — Schema
 TMIS — Teorie e Metodologie dell'Intervento Sociale · Sessione 07
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 ---
 
 ## Premesse fondamentali
 
-- **Realtà polifonica** → stesso fenomeno, significati diversi per persone diverse
-- **Osservazione imprescindibile** → sempre presente nel lavoro socio-educativo, in ogni forma
-- **Soggettività inevitabile** → non si può essere oggettivi; non si può conoscere tutto
+- <span class="c-def">**Realtà polifonica** → stesso fenomeno, significati diversi per persone diverse</span>
+- <span class="c-tesi">**Osservazione imprescindibile** → sempre presente nel lavoro socio-educativo, in ogni forma</span>
+- <span class="c-warn">**Soggettività inevitabile** → non si può essere oggettivi; non si può conoscere tutto</span>
 - **Parzialità inevitabile** → si vede sempre solo una parte del fenomeno
 
 ---
 
 ## Definizione di osservazione
 
-- **Dizionario del Lavoro Educativo (Tramma, Brandani, 2014):**
-  → movimento intenzionale verso qualcuno/qualcosa per capire al di là delle apparenze
-- **Mantovani (1995):**
-  → sguardo intenzionale, mirato, attivo, non generico
+- <span class="c-dato">**Dizionario del Lavoro Educativo (Tramma, Brandani, 2014):**</span>
+  → <span class="c-def">movimento intenzionale verso qualcuno/qualcosa per capire al di là delle apparenze</span>
+- <span class="c-dato">**Mantovani (1995):**</span>
+  → sguardo <span class="c-def">intenzionale, mirato, attivo, non generico</span>
 - **Etimologia:** *ob* (verso/per) + *servare* (custodire/stare attento)
   → osservo con uno scopo; conservo per condividere
 
 ### Guardare vs. Vedere
 
-- **Guardare** → atto analitico, scomposizione, controllo
-- **Vedere** → comprensione, coinvolgimento, presa di coscienza
-- Entrambi necessari: scomponi per analizzare → ricomponi per dare senso
+- <span class="c-def">**Guardare** → atto analitico, scomposizione, controllo</span>
+- <span class="c-def">**Vedere** → comprensione, coinvolgimento, presa di coscienza</span>
+- <span class="c-impl">Entrambi necessari: scomponi per analizzare → ricomponi per dare senso</span>
 - Somma > parti singole
 
 ---
@@ -46,9 +55,9 @@ Interpretazione  ← condivisa, collettiva
 (ricomincia → spirale ciclica)
 ```
 
-- **Ipotesi** ≠ **Interpretazione**
+- <span class="c-def">**Ipotesi** ≠ **Interpretazione**</span>
   - Ipotesi = mia, finché non condivido
-  - Interpretazione = senso costruito insieme, valore condiviso
+  - <span class="c-impl">Interpretazione = senso costruito insieme, valore condiviso</span>
 
 ---
 
@@ -57,8 +66,8 @@ Interpretazione  ← condivisa, collettiva
 | # | Paradigma | Assunto | Usato nel lavoro sociale? |
 |---|-----------|---------|--------------------------|
 | 1 | Oggettività (moderno) | Realtà conoscibile; osservatore neutro | No |
-| 2 | Soggettività relativa | Tutti i punti di vista validi; no oggettività | No (rischio relativismo assoluto) |
-| 3 | Complessità (post-moderno) | Conoscenza co-costruita nella relazione | Sì |
+| 2 | Soggettività relativa | Tutti i punti di vista validi; no oggettività | <span class="c-warn">No (rischio relativismo assoluto)</span> |
+| 3 | <span class="c-tesi">Complessità (post-moderno)</span> | <span class="c-tesi">Conoscenza co-costruita nella relazione</span> | <span class="c-tesi">Sì</span> |
 
 ---
 
@@ -66,7 +75,7 @@ Interpretazione  ← condivisa, collettiva
 
 ### Auto-osservazione
 
-- **Senza auto-osservazione non c'è osservazione**
+- <span class="c-tesi">**Senza auto-osservazione non c'è osservazione**</span>
 - Domande da porsi: con quale angolatura? con quali pregiudizi? come influenzo ciò che osservo?
 - Fattori di deformazione: emotività · memoria · cultura · motivazione · esperienza · contesto
 - L'osservatore è osservato (Wragg)
@@ -82,9 +91,9 @@ Interpretazione  ← condivisa, collettiva
 
 ### Risposta all'ampiezza
 
-- Rompere l'illusione di conoscere tutto
-- Vedere l'indeterminatezza come **area di possibilità**
-- Creare **protocolli di osservazione** che delimitino il campo
+- <span class="c-warn">Rompere l'illusione di conoscere tutto</span>
+- <span class="c-impl">Vedere l'indeterminatezza come **area di possibilità**</span>
+- Creare <span class="c-def">**protocolli di osservazione**</span> che delimitino il campo
 
 ---
 
@@ -92,16 +101,16 @@ Interpretazione  ← condivisa, collettiva
 
 | Componente | Domanda | Concetto chiave |
 |------------|---------|-----------------|
-| **Curiosità** | Cosa voglio scoprire? | Domanda come mezzo; mantenere area di dubbio |
-| **Soggetto** (io che osservo) | Chi sono io? | Auto-osservazione; angolatura; pregiudizi |
-| **Oggetto** (cosa osservo) | Cosa? | Delimitazione del campo; focus preciso |
-| **Obiettivo** | Perché? | Ipotesi condivisa con équipe; orienta strumenti |
-| **Tempo e Spazio** | Quando? Dove? | Sincronico + diacronico; luogo non è neutro |
+| <span class="c-def">**Curiosità**</span> | Cosa voglio scoprire? | Domanda come mezzo; mantenere area di dubbio |
+| <span class="c-def">**Soggetto**</span> (io che osservo) | Chi sono io? | Auto-osservazione; angolatura; pregiudizi |
+| <span class="c-def">**Oggetto**</span> (cosa osservo) | Cosa? | Delimitazione del campo; focus preciso |
+| <span class="c-def">**Obiettivo**</span> | Perché? | Ipotesi condivisa con équipe; orienta strumenti |
+| <span class="c-def">**Tempo e Spazio**</span> | Quando? Dove? | Sincronico + diacronico; luogo non è neutro |
 
 ### Tempo: due dimensioni
 
-- **Sincronico** → durata dell'attività (es. "il pranzo: 12:00–13:00")
-- **Diacronico** → attività nel tempo (es. "ogni giorno per 2 mesi, 5x/settimana")
+- <span class="c-def">**Sincronico** → durata dell'attività (es. "il pranzo: 12:00–13:00")</span>
+- <span class="c-def">**Diacronico** → attività nel tempo (es. "ogni giorno per 2 mesi, 5x/settimana")</span>
 
 ---
 
@@ -109,14 +118,14 @@ Interpretazione  ← condivisa, collettiva
 
 | Chi | Cosa | Quando |
 |-----|------|--------|
-| Maida S., Molteni L., Nuzzo A. | *Educazione e osservazione* — componenti essenziali, ampiezza, atto interpretativo | 2022 |
-| Tramma S., Brandani W. | *Dizionario del Lavoro Educativo* — definizione di osservazione | 2014 |
-| Mantovani S. | Distinzione osservazione / semplice guardare | 1995 |
-| Dovigo F. | *Manuale per l'osservazione educativa* — circuito dei 5 momenti | 2014 |
-| Zanon O. | Apprendimento come messa in discussione del sistema di premesse | 2016 |
-| Braga P. | Fattori di deformazione nell'osservatore | 1994 |
-| Bateson G. | Osservare "con occhi differenti"; molteplicità dei punti di vista | — |
-| Arnkil T.E., Seikkula J. | *Metodi dialogici nel lavoro di rete* — realtà polifonica | 2013 |
+| <span class="c-dato">Maida S., Molteni L., Nuzzo A.</span> | *Educazione e osservazione* — componenti essenziali, ampiezza, atto interpretativo | 2022 |
+| <span class="c-dato">Tramma S., Brandani W.</span> | *Dizionario del Lavoro Educativo* — definizione di osservazione | 2014 |
+| <span class="c-dato">Mantovani S.</span> | Distinzione osservazione / semplice guardare | 1995 |
+| <span class="c-dato">Dovigo F.</span> | *Manuale per l'osservazione educativa* — circuito dei 5 momenti | 2014 |
+| <span class="c-dato">Zanon O.</span> | Apprendimento come messa in discussione del sistema di premesse | 2016 |
+| <span class="c-dato">Braga P.</span> | Fattori di deformazione nell'osservatore | 1994 |
+| <span class="c-dato">Bateson G.</span> | Osservare "con occhi differenti"; molteplicità dei punti di vista | — |
+| <span class="c-dato">Arnkil T.E., Seikkula J.</span> | *Metodi dialogici nel lavoro di rete* — realtà polifonica | 2013 |
 
 ---
 

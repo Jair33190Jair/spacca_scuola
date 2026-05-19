@@ -1,19 +1,28 @@
 # Le Psicosi
 Salute Mentale · Sessione 09 · 22.04.2026
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 > Questa lezione è una vera e propria mappa di un territorio enorme: il mondo delle psicosi. Dal delirium tremens alla schizofrenia, dalla demenza alla crisi pantoclastica — tutto fa parte dello stesso universo. L'obiettivo è orientarsi in questo "universo delle psicosi" capendo come funziona, come si riconosce, e cosa significa per chi lo abita dall'interno.
 
 ---
 
 ## Che cos'è la psicosi
 
-La psicosi non è una singola malattia ma un **gruppo eterogeneo di disturbi** che condividono una caratteristica fondamentale: un rapporto radicalmente alterato con la realtà.
+<span class="c-tesi">La psicosi non è una singola malattia ma un **gruppo eterogeneo di disturbi** che condividono una caratteristica fondamentale: un rapporto radicalmente alterato con la realtà.</span>
 
-Eveline Pewzner (2002) lo dice bene:
+<span class="c-dato">Eveline Pewzner (2002)</span> lo dice bene:
 
 > "Ciò che caratterizza la psicosi non è l'assenza di sofferenza, ma una radicale alterazione del rapporto che il soggetto instaura con la realtà, credendo con forza in un mondo che non è più il mondo esterno al quale noi tutti possiamo fare riferimento, ma un mondo delirante."
 
-Per Giovanni Jervis (1984) ci sono due destrutturazioni centrali: quella della realtà esterna così come viene percepita e vissuta, e quella della propria identità psicologica. Lo psicotico, in pratica, non perde solo il contatto col mondo — perde il contatto con se stesso.
+Per <span class="c-dato">Giovanni Jervis (1984)</span> ci sono due destrutturazioni centrali: quella della realtà esterna così come viene percepita e vissuta, e quella della propria identità psicologica. <span class="c-tesi">Lo psicotico, in pratica, non perde solo il contatto col mondo — perde il contatto con se stesso.</span>
 
 ---
 
@@ -21,11 +30,11 @@ Per Giovanni Jervis (1984) ci sono due destrutturazioni centrali: quella della r
 
 Pensala come una cartografia del territorio. Le psicosi si dividono in due grandi continenti:
 
-**Psicosi organiche** → causa organica nota, chiara, condivisa a livello scientifico. Il problema è fisico, biologico. Non c'entrano educazione, traumi o contesto sociale.
+<span class="c-def">**Psicosi organiche**</span> → causa organica nota, chiara, condivisa a livello scientifico. Il problema è fisico, biologico. Non c'entrano educazione, traumi o contesto sociale.
 
-**Psicosi funzionali** → causa biologica ipotizzata ma non univoca. L'origine è multifattoriale: componente organica (es. neurotrasmettitori, genetica) + esperienze di vita + contesto sociale.
+<span class="c-def">**Psicosi funzionali**</span> → causa biologica ipotizzata ma non univoca. L'origine è multifattoriale: componente organica (es. neurotrasmettitori, genetica) + esperienze di vita + contesto sociale.
 
-Il prof sottolinea che questa divisione non è più usata nel DSM attuale, ma rimane uno strumento efficace per capire il mondo delle psicosi.
+<span class="c-warn">Il prof sottolinea che questa divisione non è più usata nel DSM attuale, ma rimane uno strumento efficace per capire il mondo delle psicosi.</span>
 
 ---
 
@@ -33,25 +42,25 @@ Il prof sottolinea che questa divisione non è più usata nel DSM attuale, ma ri
 
 ### Sindromi demenziali
 
-Nelle demenze si assiste a un **progressivo indebolimento irreversibile** di tutte le funzioni mentali: area intellettiva, affettiva e volitiva. Il processo coinvolge il substrato organico.
+Nelle demenze si assiste a un <span class="c-def">**progressivo indebolimento irreversibile** di tutte le funzioni mentali</span>: area intellettiva, affettiva e volitiva. Il processo coinvolge il substrato organico.
 
-L'esempio del pittore **William Utermöhlen** — diagnosticato con Alzheimer a 51 anni nel 1995 e morto nel 2007 — è particolarmente potente: i suoi autoritratti mostrano come identità e forma del sé si dissolvano progressivamente, fino a diventare un segno indistinguibile.
+<span class="c-es">L'esempio del pittore **William Utermöhlen** — diagnosticato con Alzheimer a 51 anni nel <span class="c-dato">1995</span> e morto nel <span class="c-dato">2007</span> — è particolarmente potente: i suoi autoritratti mostrano come identità e forma del sé si dissolvano progressivamente, fino a diventare un segno indistinguibile.</span>
 
 Tipi di demenza:
-- **Demenza senile** → legata all'invecchiamento e all'atrofia cerebrale
-- **Malattia di Alzheimer** → la più nota tra le demenze degenerative
+- <span class="c-def">**Demenza senile**</span> → legata all'invecchiamento e all'atrofia cerebrale
+- <span class="c-def">**Malattia di Alzheimer**</span> → la più nota tra le demenze degenerative
 - **Demenze acquisite** → causate da agenti esterni (alcol, sifilide, ecc.)
 
-La differenza chiave tra psicosi organiche e funzionali rispetto alle tre dimensioni **io–qui–adesso** (identità, spazio, tempo), come la spiega Minkowski (2004):
+La differenza chiave tra psicosi organiche e funzionali rispetto alle tre dimensioni <span class="c-def">**io–qui–adesso**</span> (identità, spazio, tempo), come la spiega <span class="c-dato">Minkowski (2004)</span>:
 
 - **Demenza**: il soggetto *non sa più* dove si trova, chi è, che giorno è. I riferimenti spaziotemporali si sgretolano.
-- **Schizofrenia**: il soggetto *sa* dove si trova e chi è, ma *non si sente* di appartenere a quel posto. C'è una distanza tra il sapere e il sentire.
+- <span class="c-warn">**Schizofrenia**: il soggetto *sa* dove si trova e chi è, ma *non si sente* di appartenere a quel posto. C'è una distanza tra il sapere e il sentire.</span>
 
-Come dice la citazione del demente paralitico: risponde "qui" e batte il piede per terra. Lo schizofrenico invece dirà: "so dove mi trovo, ma non mi sento nel posto in cui mi trovo."
+<span class="c-es">Come dice la citazione del demente paralitico: risponde "qui" e batte il piede per terra. Lo schizofrenico invece dirà: "so dove mi trovo, ma non mi sento nel posto in cui mi trovo."</span>
 
 ### Epilessia
 
-Il termine deriva dal greco e significa "attacco a sorpresa." Una crisi epilettica è un **malfunzionamento temporaneo delle cellule nervose** del cervello con scariche elettriche anormali.
+Il termine deriva dal greco e significa "attacco a sorpresa." <span class="c-def">Una crisi epilettica è un **malfunzionamento temporaneo delle cellule nervose** del cervello con scariche elettriche anormali.</span>
 
 Le epilessie si dividono in:
 - **Crisi generalizzate**: coinvolgono l'intero cervello
@@ -59,18 +68,18 @@ Le epilessie si dividono in:
   - *Piccolo male*: assenza di pochi secondi, senza convulsioni, senza consapevolezza. Il soggetto non reagisce agli stimoli esterni.
 - **Crisi parziali (o focali)**: coinvolgono solo una parte del cervello. La manifestazione dipende dall'area coinvolta: allucinazioni uditive, movimenti involontari, parestesie periferiche, ecc.
 
-Il prof sottolinea un punto importante per il lavoro educativo: **le assenze da piccolo male possono sembrare distrazione** in classe o in foyer. Un bambino "tra le nuvole" potrebbe essere in una crisi epilettica, non svogliato.
+<span class="c-warn">Il prof sottolinea un punto importante per il lavoro educativo: **le assenze da piccolo male possono sembrare distrazione** in classe o in foyer. Un bambino "tra le nuvole" potrebbe essere in una crisi epilettica, non svogliato.</span>
 
 ### Psicosi da sostanze
 
-Tutte le **sostanze psicoattive** — quelle che agiscono sul sistema mesolimbico (la via della dopamina) — hanno la capacità di produrre sintomi psicotici. Questo può avvenire sia durante l'uso eccessivo che durante l'astinenza.
+<span class="c-tesi">Tutte le **sostanze psicoattive** — quelle che agiscono sul sistema mesolimbico (la via della dopamina) — hanno la capacità di produrre sintomi psicotici.</span> Questo può avvenire sia durante l'uso eccessivo che durante l'astinenza.
 
 Esempi:
-- **Delirium tremens** → psicosi alcolica acuta che si manifesta con l'*astinenza* dopo consumo prolungato. Tremore, allucinazioni, stati confusionali. Può essere letale. Attenzione: chi beve molto *non può smettere di colpo* senza supervisione medica.
-- **Sindrome di Korsakov** → psicosi alcolica cronica con **amnesia anterograda** (il paziente non riesce a fissare nuovi ricordi). Problema grave per la compliance terapeutica.
-- **Cannabis indoor** → principio attivo più alto, può produrre deliri e allucinazioni in chi ne fa uso eccessivo, specialmente nei cervelli in via di sviluppo.
+- <span class="c-def">**Delirium tremens**</span> → psicosi alcolica acuta che si manifesta con l'*astinenza* dopo consumo prolungato. Tremore, allucinazioni, stati confusionali. Può essere letale. <span class="c-warn">Attenzione: chi beve molto *non può smettere di colpo* senza supervisione medica.</span>
+- <span class="c-def">**Sindrome di Korsakov**</span> → psicosi alcolica cronica con <span class="c-warn">**amnesia anterograda** (il paziente non riesce a fissare nuovi ricordi). Problema grave per la compliance terapeutica.</span>
+- <span class="c-es">**Cannabis indoor** → principio attivo più alto, può produrre deliri e allucinazioni in chi ne fa uso eccessivo, specialmente nei cervelli in via di sviluppo.</span>
 
-Il DSM-5 mappa per ogni sostanza il tipo di disturbo psicotico prodotto (con intossicazione, con astinenza, o entrambi). L'alcol è campione assoluto: produce sintomi psicotici sia con l'uso eccessivo che con l'astinenza.
+Il DSM-5 mappa per ogni sostanza il tipo di disturbo psicotico prodotto (con intossicazione, con astinenza, o entrambi). <span class="c-dato">L'alcol è campione assoluto: produce sintomi psicotici sia con l'uso eccessivo che con l'astinenza.</span>
 
 ---
 
@@ -78,22 +87,22 @@ Il DSM-5 mappa per ogni sostanza il tipo di disturbo psicotico prodotto (con int
 
 Tutte le psicosi condividono tre gruppi di sintomi:
 
-1. **Sintomi positivi** (producono qualcosa che prima non c'era):
-   - **Delirio** → alterazione del *contenuto* del pensiero. Convinzioni incrollabili, non riconducibili alla logica, false per gli altri.
-   - **Allucinazione** → alterazione della *percezione*. Produzioni percettive senza corrispondente stimolo esterno (voci, visioni, sensazioni corporee).
+1. <span class="c-def">**Sintomi positivi**</span> (producono qualcosa che prima non c'era):
+   - <span class="c-def">**Delirio**</span> → alterazione del *contenuto* del pensiero. Convinzioni incrollabili, non riconducibili alla logica, false per gli altri.
+   - <span class="c-def">**Allucinazione**</span> → alterazione della *percezione*. Produzioni percettive senza corrispondente stimolo esterno (voci, visioni, sensazioni corporee).
 
-2. **Sintomi negativi** (sottraggono qualcosa):
+2. <span class="c-def">**Sintomi negativi**</span> (sottraggono qualcosa):
    - Impoverimento ideo-affettivo, apatia, abulia (mancanza di volontà/iniziativa), ritiro sociale, anaffettività.
 
-3. **Disorganizzazione cognitiva** → il pensiero è confuso, frammentato, non coerente. Si manifesta nel linguaggio: deragliamenti, blocchi improvvisi, neologismi.
+3. <span class="c-def">**Disorganizzazione cognitiva**</span> → il pensiero è confuso, frammentato, non coerente. Si manifesta nel linguaggio: deragliamenti, blocchi improvvisi, neologismi.
 
 ---
 
 ## La schizofrenia
 
-La **schizofrenia** è la psicosi funzionale per eccellenza. Eugen Bleuler coniò il termine nel 1911 (dal greco: *schizein* = scissione + *phren* = mente), sostituendo il paradigma di Kraepelin che la chiamava "demenza precoce."
+<span class="c-tesi">La **schizofrenia** è la psicosi funzionale per eccellenza.</span> <span class="c-dato">Eugen Bleuler coniò il termine nel 1911</span> (dal greco: *schizein* = scissione + *phren* = mente), sostituendo il paradigma di Kraepelin che la chiamava "demenza precoce."
 
-La schizofrenia non si manifesta nell'intelligenza, negli affetti o nella volontà — il paziente li ha tutti. Il problema è nella **capacità di tenerli insieme**. È come un'orchestra senza direttore: tutti i musicisti ci sono, ma il risultato è rumore. O come un libro con tutte le pagine mescolate: ci sono tutte, ma nell'ordine sbagliato.
+<span class="c-tesi">La schizofrenia non si manifesta nell'intelligenza, negli affetti o nella volontà — il paziente li ha tutti. Il problema è nella **capacità di tenerli insieme**.</span> <span class="c-es">È come un'orchestra senza direttore: tutti i musicisti ci sono, ma il risultato è rumore. O come un libro con tutte le pagine mescolate: ci sono tutte, ma nell'ordine sbagliato.</span>
 
 ### Sindrome fondamentale
 
@@ -105,72 +114,72 @@ La **sindrome fondamentale** della schizofrenia comprende: dissociazione, autism
 
 **a) Disturbi formali del pensiero (intelletto)**
 
-Il pensiero non riesce a mantenere coerenza e continuità. Si manifesta nel linguaggio:
-- **Disorganizzazione** → pensiero frammentato, caotico. Nei casi gravi: *neologismi* (parole inventate) ed *ecolalia* (il paziente ripete a eco le domande).
-- **Impoverimento** → discorso povero, lento, con poche informazioni. Risposte evasive, pause lunghe. Valutato sempre rispetto alla normalità personale precedente.
-- **Concretismo** → il soggetto rimane ancorato al concreto, non riesce ad accedere al simbolico e all'astratto. Come una pianta che non riesce a crescere oltre il suolo.
-- **Prolissità** → discorso lungo, senza filtri, con dettagli inutili. Il pensiero si perde e il discorso diventa "oscuro e poco concludente."
-- **Tangenzialità** → risposte "di traverso": rispondono alla forma della domanda ma non alla sostanza. *Esempio: "Come si chiama?" — "È importante nella vita avere un nome, tutte le persone ne hanno uno."*
-- **Deragliamento** → il discorso parte su un tema e poi salta improvvisamente a un altro senza continuità logica.
+<span class="c-tesi">Il pensiero non riesce a mantenere coerenza e continuità.</span> Si manifesta nel linguaggio:
+- <span class="c-def">**Disorganizzazione**</span> → pensiero frammentato, caotico. Nei casi gravi: *neologismi* (parole inventate) ed *ecolalia* (il paziente ripete a eco le domande).
+- <span class="c-def">**Impoverimento**</span> → discorso povero, lento, con poche informazioni. Risposte evasive, pause lunghe. Valutato sempre rispetto alla normalità personale precedente.
+- <span class="c-def">**Concretismo**</span> → il soggetto rimane ancorato al concreto, non riesce ad accedere al simbolico e all'astratto. <span class="c-es">Come una pianta che non riesce a crescere oltre il suolo.</span>
+- <span class="c-def">**Prolissità**</span> → discorso lungo, senza filtri, con dettagli inutili. Il pensiero si perde e il discorso diventa "oscuro e poco concludente."
+- <span class="c-def">**Tangenzialità**</span> → risposte "di traverso": rispondono alla forma della domanda ma non alla sostanza. <span class="c-es">*Esempio: "Come si chiama?" — "È importante nella vita avere un nome, tutte le persone ne hanno uno."*</span>
+- <span class="c-def">**Deragliamento**</span> → il discorso parte su un tema e poi salta improvvisamente a un altro senza continuità logica.
 
 **b) Alterazioni dell'affettività**
 
-Tre dimensioni (Pancheri & Cassano, 1999):
-- **Appiattimento affettivo** → riduzione della modulazione emotiva. Il paziente appare freddo, indifferente, anche davanti a eventi rilevanti. Bleuler: *"in nessun caso però l'affettività è del tutto spenta."*
-- **Discordanza** → la reazione emotiva non corrisponde alla situazione. Si ride di fronte a una notizia luttuosa. Il prof ricorda che anche certi adolescenti vanno in discordanza emotiva non per prendere in giro, ma per eccessiva tensione interna.
-- **Ambivalenza** → copresenza simultanea di emozioni opposte nello stesso momento.
+Tre dimensioni (<span class="c-dato">Pancheri & Cassano, 1999</span>):
+- <span class="c-def">**Appiattimento affettivo**</span> → riduzione della modulazione emotiva. Il paziente appare freddo, indifferente, anche davanti a eventi rilevanti. <span class="c-dato">Bleuler</span>: *"in nessun caso però l'affettività è del tutto spenta."*
+- <span class="c-def">**Discordanza**</span> → la reazione emotiva non corrisponde alla situazione. Si ride di fronte a una notizia luttuosa. <span class="c-warn">Il prof ricorda che anche certi adolescenti vanno in discordanza emotiva non per prendere in giro, ma per eccessiva tensione interna.</span>
+- <span class="c-def">**Ambivalenza**</span> → copresenza simultanea di emozioni opposte nello stesso momento.
 
 **c) Attività psicomotoria**
 
 Può essere:
 - *Ridotta* (la più frequente) → il paziente si ritira, sta a letto, smette di esplorare l'ambiente e di comunicare
-- *Aumentata* → agitazione psicomotoria, **crisi pantoclastica** (rompe e spacca oggetti senza finalità chiara)
-- *Alterata qualitativamente* → **manierismi** (comportamenti normali esasperati e teatrali), stereotipie
+- *Aumentata* → agitazione psicomotoria, <span class="c-def">**crisi pantoclastica**</span> (rompe e spacca oggetti senza finalità chiara)
+- *Alterata qualitativamente* → <span class="c-def">**manierismi**</span> (comportamenti normali esasperati e teatrali), stereotipie
 
 #### 2. Autismo
 
-L'autismo nella schizofrenia (concetto di Bleuler, distinto dal disturbo neurologico omonimo) descrive la **perdita del contatto vitale con la realtà**: il soggetto si ritira in un mondo interno, privato, impenetrabile. Il senso comune — quella base condivisa che permette la comunicazione — vacilla e viene sostituito da una logica propria.
+<span class="c-tesi">L'autismo nella schizofrenia (concetto di Bleuler, distinto dal disturbo neurologico omonimo) descrive la **perdita del contatto vitale con la realtà**: il soggetto si ritira in un mondo interno, privato, impenetrabile.</span> Il senso comune — quella base condivisa che permette la comunicazione — vacilla e viene sostituito da una logica propria.
 
 Nei termini dei sintomi negativi moderni: ritiro sociale, disinteresse per il mondo esterno, linguaggio non orientato alla relazione.
 
 #### 3. Delirio
 
-Il delirio è una **trasformazione della realtà** attraverso convinzioni false sostenute con insolita certezza. Tre caratteristiche (Sims, 2004):
+<span class="c-def">Il delirio è una **trasformazione della realtà** attraverso convinzioni false sostenute con insolita certezza.</span> Tre caratteristiche (<span class="c-dato">Sims, 2004</span>):
 1. Sostenuto con insolita convinzione
 2. Non riconducibile alla logica
 3. Falsità palese per gli altri
 
 Contenuti ricorrenti nella schizofrenia: persecuzione, avvelenamento, influenzamento, gelosia, grandiosità.
 
-**Attenzione culturale**: il contenuto del delirio dipende dal background culturale del paziente. Un sistema di credenze radicato in una cultura diversa dalla propria **non è necessariamente un delirio**. L'operatore sociale deve conoscere il contesto prima di valutare.
+<span class="c-warn">**Attenzione culturale**: il contenuto del delirio dipende dal background culturale del paziente. Un sistema di credenze radicato in una cultura diversa dalla propria **non è necessariamente un delirio**. L'operatore sociale deve conoscere il contesto prima di valutare.</span>
 
 Il delirio può influenzare il comportamento in modo significativo (es. aggressività verso persone "invase dagli alieni").
 
 #### 4. Depersonalizzazione
 
-Alterazione della coscienza dell'io che si esprime come **sensazione di estraneità o irrealtà** rispetto al mondo e a se stessi. Il paziente si vede "dall'esterno," come un automa o una marionetta.
+<span class="c-def">Alterazione della coscienza dell'io che si esprime come **sensazione di estraneità o irrealtà** rispetto al mondo e a se stessi.</span> Il paziente si vede "dall'esterno," come un automa o una marionetta.
 
-Spesso associata alla **derealizzazione**: ci si sente distaccati dall'ambiente, come se ci fosse una membrana tra sé e il mondo. Il tempo diventa "congelato," cristallizzato, senza slancio progettuale.
+Spesso associata alla <span class="c-def">**derealizzazione**</span>: ci si sente distaccati dall'ambiente, come se ci fosse una membrana tra sé e il mondo. Il tempo diventa "congelato," cristallizzato, senza slancio progettuale.
 
 #### 5. Disturbi del comportamento
 
 Tre aree principali:
 
-- **Aggressività e suicidalità** → rischio suicidario 10-20 volte superiore alla popolazione generale. Punto cruciale: i pazienti schizofrenici non si suicidano durante lo scompenso, ma *quando recuperano* e si rendono conto della propria condizione. Il prof insiste: *"si ammazzano non perché la vita fa schifo, ma perché sanno che è bellissima e capiscono di non potervi più avere accesso."* Vigilanza massima alla dimissione, soprattutto nei giovani.
+- <span class="c-warn">**Aggressività e suicidalità** → rischio suicidario <span class="c-dato">10-20 volte superiore alla popolazione generale</span>. Punto cruciale: i pazienti schizofrenici non si suicidano durante lo scompenso, ma *quando recuperano* e si rendono conto della propria condizione. Il prof insiste: *"si ammazzano non perché la vita fa schifo, ma perché sanno che è bellissima e capiscono di non potervi più avere accesso."* Vigilanza massima alla dimissione, soprattutto nei giovani.</span>
 - **Alimentazione** → deliri di avvelenamento → evitamento selettivo di alimenti. Oppure ingestione indiscriminata di cibo (pseudo-bulimia) legata alla perdita del confine dentro/fuori.
 - **Sessualità** → ripiegamento autoerotico. Ma soprattutto: angoscia identitaria sull'identità sessuale, spesso veicolata da voci allucinatorie.
 
 #### 6. Allucinazioni
 
-Le allucinazioni uditive sono le più frequenti nella schizofrenia. Sono produzioni percettive senza stimolo esterno. Per il paziente, sono del tutto reali e indistinguibili da percezioni normali.
+<span class="c-tesi">Le allucinazioni uditive sono le più frequenti nella schizofrenia. Sono produzioni percettive senza stimolo esterno. Per il paziente, sono del tutto reali e indistinguibili da percezioni normali.</span>
 
 Il rapporto del paziente con le proprie allucinazioni è **molto vario**:
 - Alcuni le tacciono per paura di essere etichettati come "matti"
 - Alcuni le dissimulano perché le voci hanno un carattere positivo (consolatrici, guide)
 - Alcuni usano strategie per gestirle (es. musica a volume alto per coprirle)
-- Alcuni ricevono voci perentorie che ordinano azioni pericolose — qui la vigilanza è massima
+- <span class="c-warn">Alcuni ricevono voci perentorie che ordinano azioni pericolose — qui la vigilanza è massima</span>
 
-Il prof sottolinea: non dare per scontato che ogni esperienza sensoriale insolita sia un'allucinazione. Il caso della pianta che si muoveva era un terremoto, non un'allucinazione. Ascolta sempre il paziente prima di concludere.
+<span class="c-warn">Il prof sottolinea: non dare per scontato che ogni esperienza sensoriale insolita sia un'allucinazione. <span class="c-es">Il caso della pianta che si muoveva era un terremoto, non un'allucinazione.</span> Ascolta sempre il paziente prima di concludere.</span>
 
 ---
 
@@ -178,15 +187,15 @@ Il prof sottolinea: non dare per scontato che ogni esperienza sensoriale insolit
 
 L'angoscia nelle psicosi è qualitativamente diversa da quella delle nevrosi (angoscia di castrazione) e del disturbo borderline (angoscia di abbandono).
 
-L'**angoscia nella schizofrenia è l'angoscia di frammentazione**: la paura di andare letteralmente a pezzi. I confini tra sé e l'altro sono labili — il mondo può invadere il soggetto, il soggetto può dissolversi nel mondo.
+<span class="c-def">L'**angoscia nella schizofrenia è l'angoscia di frammentazione**: la paura di andare letteralmente a pezzi.</span> I confini tra sé e l'altro sono labili — il mondo può invadere il soggetto, il soggetto può dissolversi nel mondo.
 
-Il rapporto con l'altro in questo contesto è **fusionale**: lo psicotico non percepisce l'altro come separato ma come parte del proprio mondo. L'operatore che lavora con pazienti schizofrenici può sperimentare di essere "inglobato" nel suo universo.
+<span class="c-impl">Il rapporto con l'altro in questo contesto è **fusionale**: lo psicotico non percepisce l'altro come separato ma come parte del proprio mondo. L'operatore che lavora con pazienti schizofrenici può sperimentare di essere "inglobato" nel suo universo.</span>
 
 ---
 
 ## Il decorso della schizofrenia
 
-La schizofrenia ha un suo tempo, una sua storia naturale. Esordisce tipicamente attorno ai **20 anni** (tarda adolescenza/prima età adulta), ragion per cui veniva chiamata "demenza precoce."
+La schizofrenia ha un suo tempo, una sua storia naturale. <span class="c-dato">Esordisce tipicamente attorno ai **20 anni** (tarda adolescenza/prima età adulta)</span>, ragion per cui veniva chiamata "demenza precoce."
 
 ### Fase premorbosa (infanzia → adolescenza)
 
@@ -197,9 +206,9 @@ Identificabile solo *retrospettivamente*. Caratteristiche tipiche:
 - Rendimento scolastico critico, comportamento a volte aggressivo
 - Emotività fredda, distaccata, scarsamente empatica
 
-Queste caratteristiche non significano che quel bambino diventerà schizofrenico. Ma retrospettivamente le ritroviamo nell'anamnesi.
+<span class="c-warn">Queste caratteristiche non significano che quel bambino diventerà schizofrenico. Ma retrospettivamente le ritroviamo nell'anamnesi.</span>
 
-**Vulnerabilità** identificate (Stanghellini & Ballerini, 2005):
+**Vulnerabilità** identificate (<span class="c-dato">Stanghellini & Ballerini, 2005</span>):
 - Difficoltà nelle relazioni interpersonali
 - Disturbi socio-emozionali
 - Disturbi del sé (pensiero, linguaggio, percezione)
@@ -212,7 +221,7 @@ Le stesse caratteristiche del premorboso si accentuano fino a interferire con la
 
 Segni prodromici: ansia, irritabilità, depressione, apatia, disturbi cognitivi, fenomeni dissociativi, comportamenti bizzarri, sospettosità, ritiro sociale.
 
-La fase prodromica dura mediamente 1-2 anni (Mc Gorry & Jackson, 1999).
+<span class="c-dato">La fase prodromica dura mediamente 1-2 anni (Mc Gorry & Jackson, 1999).</span>
 
 ### Fase di stato (esordio psicotico)
 
@@ -221,17 +230,17 @@ Comparsa dei sintomi psicotici positivi (deliri, allucinazioni) con piena manife
 ### Decorso e esiti
 
 Il decorso può essere molto variabile:
-- **Schizofrenia di tipo 1** (Crow, 1980) → dominano i sintomi positivi; decorso potenzialmente reversibile; migliore risposta ai neurolettici
-- **Schizofrenia di tipo 2** → dominano i sintomi negativi; andamento cronico con progressivo deterioramento cognitivo; risposta ridotta ai farmaci
+- <span class="c-def">**Schizofrenia di tipo 1**</span> (<span class="c-dato">Crow, 1980</span>) → dominano i sintomi positivi; decorso potenzialmente reversibile; migliore risposta ai neurolettici
+- <span class="c-def">**Schizofrenia di tipo 2**</span> → dominano i sintomi negativi; andamento cronico con progressivo deterioramento cognitivo; risposta ridotta ai farmaci
 
-Tre stadi di esito post-primo episodio (Schultze-Lutter, 2009):
+Tre stadi di esito post-primo episodio (<span class="c-dato">Schultze-Lutter, 2009</span>):
 1. **Remissione completa** entro 3 anni
 2. **Ricaduta** con condizione a bassa sintomatologia intermittente
 3. **Stato cronico** con sintomatologia persistente > 3 anni
 
-**Fattori prognostici favorevoli**: diagnosi precoce, intervento farmacologico immediato, andamento acuto iniziale (paradossalmente migliore!), buon funzionamento premorboso, sesso femminile, esordio tardivo, rete sociale adeguata.
+<span class="c-tesi">**Fattori prognostici favorevoli**: diagnosi precoce, intervento farmacologico immediato, andamento acuto iniziale (paradossalmente migliore!), buon funzionamento premorboso, sesso femminile, esordio tardivo, rete sociale adeguata.</span>
 
-**Fattori prognostici sfavorevoli**: inizio precoce, familiarità, isolamento sociale, dominanza dei sintomi negativi, resistenza al trattamento.
+<span class="c-warn">**Fattori prognostici sfavorevoli**: inizio precoce, familiarità, isolamento sociale, dominanza dei sintomi negativi, resistenza al trattamento.</span>
 
 ---
 
@@ -239,11 +248,11 @@ Tre stadi di esito post-primo episodio (Schultze-Lutter, 2009):
 
 Il prof insiste su diversi punti pratici per chi lavora in campo psichiatrico:
 
-- **L'operatore vede quello che il clinico non vede**: il paziente che mette le cuffie a volume altissimo, che si chiude in camera, che smette di mangiare determinati cibi. Queste osservazioni vanno comunicate allo psichiatra.
-- **Non passivizzare il paziente**: anche un paziente psicotico rimane un soggetto con diritti e capacità di scelta. La diagnosi non annulla la persona.
+- <span class="c-tesi">**L'operatore vede quello che il clinico non vede**: il paziente che mette le cuffie a volume altissimo, che si chiude in camera, che smette di mangiare determinati cibi. Queste osservazioni vanno comunicate allo psichiatra.</span>
+- <span class="c-tesi">**Non passivizzare il paziente**: anche un paziente psicotico rimane un soggetto con diritti e capacità di scelta. La diagnosi non annulla la persona.</span>
 - **Non dare per scontato**: né che ogni comportamento strano sia sintomo, né che il sintomo noto sia sempre lo stesso.
-- **Vigilanza nel miglioramento**: il rischio suicidario è più alto *dopo* lo scompenso, quando il paziente recupera lucidità.
-- **Cultura e contesto**: prima di valutare un delirio, conoscere il sistema culturale del paziente.
+- <span class="c-warn">**Vigilanza nel miglioramento**: il rischio suicidario è più alto *dopo* lo scompenso, quando il paziente recupera lucidità.</span>
+- <span class="c-warn">**Cultura e contesto**: prima di valutare un delirio, conoscere il sistema culturale del paziente.</span>
 
 ---
 
@@ -283,8 +292,8 @@ Il prof insiste su diversi punti pratici per chi lavora in campo psichiatrico:
 
 - **Lezione sulla semiologia** (Cinzia Campello): orientamento nei tre assi io–qui–adesso — concetti ripresi e approfonditi qui
 - **Modulo Elisa Milani**: disturbi da uso di sostanze, disturbo borderline (angoscia di abbandono vs. frammentazione)
-- **Lezioni sulle nevrosi**: angoscia di castrazione come contrasto con l'angoscia psicotica
-- **Disturbi di personalità**: cluster A (paranoide, schizoide, schizotipico) compatibili con il periodo premorboso
+- <span class="c-impl">**Lezioni sulle nevrosi**: angoscia di castrazione come contrasto con l'angoscia psicotica</span>
+- <span class="c-impl">**Disturbi di personalità**: cluster A (paranoide, schizoide, schizotipico) compatibili con il periodo premorboso</span>
 
 **Temi aperti / da approfondire per i seminari**:
 - Psicosi postparto e bufere deliranti acute
@@ -296,7 +305,7 @@ Il prof insiste su diversi punti pratici per chi lavora in campo psichiatrico:
 
 **1. Qual è la differenza tra psicosi organiche e psicosi funzionali, e perché questa distinzione è utile anche se il DSM attuale non la usa più?**
 
-Le **psicosi organiche** hanno una causa organica identificata e condivisa scientificamente (es. delirium da intossicazione alcolica, demenza, crisi epilettica). Le **psicosi funzionali** (es. schizofrenia) hanno una componente biologica ipotizzata (neurotrasmettitori, genetica) ma non univoca — l'origine è multifattoriale. Il DSM attuale ha abbandonato la distinzione, ma resta utile come mappa orientativa: nel primo caso puoi cercare e trattare la causa organica; nel secondo, devi lavorare su più livelli (biologico, psicologico, sociale).
+Le <span class="c-def">**psicosi organiche**</span> hanno una causa organica identificata e condivisa scientificamente (es. delirium da intossicazione alcolica, demenza, crisi epilettica). Le <span class="c-def">**psicosi funzionali**</span> (es. schizofrenia) hanno una componente biologica ipotizzata (neurotrasmettitori, genetica) ma non univoca — l'origine è multifattoriale. Il DSM attuale ha abbandonato la distinzione, ma resta utile come mappa orientativa: nel primo caso puoi cercare e trattare la causa organica; nel secondo, devi lavorare su più livelli (biologico, psicologico, sociale).
 
 **2. Cosa sono i sintomi positivi, negativi e di disorganizzazione nella schizofrenia? Fai almeno un esempio per categoria.**
 
@@ -304,15 +313,15 @@ Le **psicosi organiche** hanno una causa organica identificata e condivisa scien
 - **Negativi** (sottrazione di qualcosa che dovrebbe esserci): appiattimento affettivo, alogia (povertà del linguaggio), abulia, anedonia, ritiro sociale
 - **Disorganizzazione** (perdita della coerenza): pensiero tangenziale, deragliamento, neologismi, ecolalia, manierismi
 
-La distinzione è clinicamente rilevante perché i farmaci antipsicotici trattano meglio i sintomi positivi, mentre i negativi sono più resistenti e più legati al deterioramento funzionale a lungo termine.
+<span class="c-impl">La distinzione è clinicamente rilevante perché i farmaci antipsicotici trattano meglio i sintomi positivi, mentre i negativi sono più resistenti e più legati al deterioramento funzionale a lungo termine.</span>
 
 **3. Qual è la differenza tra delirio e allucinazione, e perché entrambi rappresentano un problema di rapporto con la realtà?**
 
-Il **delirio** è una convinzione falsa, non condivisibile e non modificabile dalla critica razionale. L'**allucinazione** è una percezione in assenza di stimolo esterno (si sente una voce che non esiste). In entrambi i casi il soggetto è convinto della propria esperienza — il delirio e l'allucinazione non sono vissuti come "sogni" ma come realtà. È questo che li rende così destabilizzanti: non c'è accesso critico alla propria esperienza.
+Il <span class="c-def">**delirio**</span> è una convinzione falsa, non condivisibile e non modificabile dalla critica razionale. L'<span class="c-def">**allucinazione**</span> è una percezione in assenza di stimolo esterno (si sente una voce che non esiste). In entrambi i casi il soggetto è convinto della propria esperienza — il delirio e l'allucinazione non sono vissuti come "sogni" ma come realtà. <span class="c-tesi">È questo che li rende così destabilizzanti: non c'è accesso critico alla propria esperienza.</span>
 
 **4. Cos'è l'angoscia di frammentazione e in cosa si distingue dall'angoscia di castrazione (nevrotica) e dall'angoscia di abbandono (borderline)?**
 
-L'**angoscia di frammentazione** è l'angoscia primaria psicotica: il terrore che l'io si dissolva completamente — che non ci sia più un "io qui adesso" coerente. È la più arcaica e la più devastante. L'**angoscia di castrazione** è nevrotica: paura della punizione, della perdita di qualcosa di prezioso, ma il sé rimane intatto. L'**angoscia di abbandono** (borderline) è intermedia: il sé esiste ma è terrorizzato dall'assenza dell'altro che lo regola. La distinzione orienta l'intervento: con uno psicotico non ha senso fare insight terapeutico — serve prima stabilizzare il contatto con la realtà.
+L'<span class="c-def">**angoscia di frammentazione**</span> è l'angoscia primaria psicotica: il terrore che l'io si dissolva completamente — che non ci sia più un "io qui adesso" coerente. È la più arcaica e la più devastante. L'**angoscia di castrazione** è nevrotica: paura della punizione, della perdita di qualcosa di prezioso, ma il sé rimane intatto. L'**angoscia di abbandono** (borderline) è intermedia: il sé esiste ma è terrorizzato dall'assenza dell'altro che lo regola. <span class="c-impl">La distinzione orienta l'intervento: con uno psicotico non ha senso fare insight terapeutico — serve prima stabilizzare il contatto con la realtà.</span>
 
 **5. Descrivere il decorso della schizofrenia: fasi e fattori prognostici favorevoli.**
 
@@ -320,5 +329,5 @@ Le fasi tipiche sono: (1) **premorboso** — ritiro progressivo, trascuratezza, 
 
 **6. Qual è il ruolo specifico dell'operatore sociale in psichiatria nei confronti di una persona con psicosi?**
 
-L'operatore sociale non fa diagnosi né terapia, ma ha un ruolo cruciale nell'**individuazione precoce** (riconoscere i segnali del periodo prodromico), nel **supporto al reinserimento** (abitativo, lavorativo, relazionale) e nel **mantenimento della rete**. È spesso il professionista con il contatto più continuativo con la persona e la famiglia. Nella psicosi — dove i legami con la realtà sono fragili — la continuità, la coerenza e la prevedibilità del rapporto con l'operatore hanno di per sé un valore terapeutico.
+L'operatore sociale non fa diagnosi né terapia, ma ha un ruolo cruciale nell'**individuazione precoce** (riconoscere i segnali del periodo prodromico), nel **supporto al reinserimento** (abitativo, lavorativo, relazionale) e nel **mantenimento della rete**. È spesso il professionista con il contatto più continuativo con la persona e la famiglia. <span class="c-tesi">Nella psicosi — dove i legami con la realtà sono fragili — la continuità, la coerenza e la prevedibilità del rapporto con l'operatore hanno di per sé un valore terapeutico.</span>
 - Materiale clinico: video, testimonianze, dipinti dei pazienti

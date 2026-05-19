@@ -1,39 +1,48 @@
 # Il Mercato del Lavoro — Schema
 Mondi del Lavoro · Sessione 05
 
+<!-- LEGENDA COLORI
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
+-->
+
 ---
 
 ## Struttura del Mercato del Lavoro
 
-- **Mercato del lavoro** → incontro tra domanda e offerta del bene "lavoro"
-- **Offerta di lavoro** → lavoratori/lavoratrici (popolazione attiva)
-- **Domanda di lavoro** → posti di lavoro (datori di lavoro)
+- <span class="c-def">**Mercato del lavoro** → incontro tra domanda e offerta del bene "lavoro"</span>
+- <span class="c-warn">**Offerta di lavoro** → lavoratori/lavoratrici (popolazione attiva)</span>
+- <span class="c-warn">**Domanda di lavoro** → posti di lavoro (datori di lavoro)</span>
 
 ---
 
 ## Popolazione in Età Lavorativa
 
-- **Fascia:** 15-74 anni (convenzionale; in alcune statistiche 15-65)
+- <span class="c-def">**Fascia:** 15-74 anni (convenzionale; in alcune statistiche 15-65)</span>
 - Si divide in tre **statuti professionali:**
 
 | Statuto | Definizione |
 |---|---|
-| **Occupati** | ≥ 1 ora contro remunerazione nella settimana di riferimento |
-| **Disoccupati** | Non occupati + cercato attivamente nelle 4 sett. prec. + disponibili ad accettare |
-| **Inattivi** | Né occupati né disoccupati |
+| <span class="c-def">**Occupati**</span> | ≥ 1 ora contro remunerazione nella settimana di riferimento |
+| <span class="c-def">**Disoccupati**</span> | Non occupati + cercato attivamente nelle 4 sett. prec. + disponibili ad accettare |
+| <span class="c-def">**Inattivi**</span> | Né occupati né disoccupati |
 
-> **Offerta di lavoro = Occupati + Disoccupati**
+> <span class="c-tesi">**Offerta di lavoro = Occupati + Disoccupati**</span>
 
 ---
 
 ## Categorie Limite
 
-- **Sottoccupati** → occupati a tempo parziale insoddisfatti del loro grado di occupazione
-  - ~5% degli occupati
-  - ~70% donne
-- **Scoraggiati** → inattivi disponibili ma che non cercano più
+- <span class="c-def">**Sottoccupati** → occupati a tempo parziale insoddisfatti del loro grado di occupazione</span>
+  - <span class="c-dato">~5% degli occupati</span>
+  - <span class="c-dato">~70% donne</span>
+- <span class="c-def">**Scoraggiati** → inattivi disponibili ma che non cercano più</span>
 - **Inattivi che cercano ma non sono disponibili** → es. genitore in attesa di rientrare
-- **Forza lavoro potenziale** → inattivi + sottoccupati + disoccupati
+- <span class="c-def">**Forza lavoro potenziale** → inattivi + sottoccupati + disoccupati</span>
 
 ---
 
@@ -45,44 +54,44 @@ Mondi del Lavoro · Sessione 05
 | Periodicità | Trimestrale | Mensile |
 | Criteri | Standard ILO internazionale | Iscrizione all'URC |
 | Dettaglio | Nazionale / gruppi | Cantonale |
-| Differenza | ~+2 punti % | ~-2 punti % |
+| Differenza | <span class="c-dato">~+2 punti %</span> | <span class="c-dato">~-2 punti %</span> |
 
-- **Dato ILO** → usa per disoccupazione giovanile o per specifici gruppi
+- <span class="c-warn">**Dato ILO** → usa per disoccupazione giovanile o per specifici gruppi</span>
 - **Dato SECO** → usa per confronti intercantonali e variazioni nel tempo
 
 ---
 
 ## Principio dei Vasi Comunicanti
 
-- Occupati + Disoccupati + Inattivi = 100% popolazione in età lavorativa
+- <span class="c-tesi">Occupati + Disoccupati + Inattivi = 100% popolazione in età lavorativa</span>
 - Disoccupazione cala → chiedi dove sono finiti:
   - → occupati ✓
-  - → inattivi (scoraggiati) ✗
+  - <span class="c-warn">→ inattivi (scoraggiati) ✗</span>
   - → pensionati (neutro per il mercato)
 
 ---
 
 ## Indicatori Chiave
 
-- **Tasso di attività** → persone attive / pop. 15+ × 100
-- **Tasso di disoccupazione** → disoccupati / persone attive × 100
-- **FTE (Full-Time Equivalent)** → somma delle % di occupazione (2 × 50% = 1 FTE)
+- <span class="c-def">**Tasso di attività** → persone attive / pop. 15+ × 100</span>
+- <span class="c-def">**Tasso di disoccupazione** → disoccupati / persone attive × 100</span>
+- <span class="c-def">**FTE (Full-Time Equivalent)** → somma delle % di occupazione (2 × 50% = 1 FTE)</span>
 
 ---
 
 ## Dati Strutturali Svizzera
 
-- Tasso di attività donne < uomini (divario in calo ma persistente)
-- Tempo parziale: donne ~doppio degli uomini
-- Multiattività: donne ~doppio degli uomini
-- Stranieri occupati: più che raddoppiati dal 1970
-- Tasso di disoccupazione: più alto per persone con passato migratorio
+- <span class="c-tesi">Tasso di attività donne < uomini (divario in calo ma persistente)</span>
+- <span class="c-dato">Tempo parziale: donne ~doppio degli uomini</span>
+- <span class="c-dato">Multiattività: donne ~doppio degli uomini</span>
+- <span class="c-dato">Stranieri occupati: più che raddoppiati dal 1970</span>
+- <span class="c-tesi">Tasso di disoccupazione: più alto per persone con passato migratorio</span>
 
 ---
 
 ## Frontalieri in Ticino
 
-### Spartiacque: 2002 (ALCP)
+### Spartiacque: <span class="c-dato">2002 (ALCP)</span>
 
 | | Pre-2002 | Post-2002 |
 |---|---|---|
@@ -95,13 +104,13 @@ Mondi del Lavoro · Sessione 05
 
 - Da: operai/industria e costruzioni (bassa qualifica)
 - A: terziario, sanità, università, banche (qualifica crescente)
-- Salari: restano significativamente più bassi dei residenti (Bigotta e Giancone, 2020)
+- <span class="c-warn">Salari: restano significativamente più bassi dei residenti (<span class="c-dato">Bigotta e Giancone, 2020</span>)</span>
 
 ### Impatto
 
 - **Positivo** → contrasto penuria manodopera, crescita sanità/ricerca/università
-- **Critico** → "delocalizzazione sul posto" (Martinelli, 2021) → dumping salariale
-  - Categorie più colpite: donne straniere, 25-49enni, formazione secondaria (Losa, 2012)
+- <span class="c-impl">**Critico** → <span class="c-def">"delocalizzazione sul posto"</span> (<span class="c-dato">Martinelli, 2021</span>) → dumping salariale</span>
+  - <span class="c-dato">Categorie più colpite: donne straniere, 25-49enni, formazione secondaria (Losa, 2012)</span>
 
 ---
 
@@ -109,11 +118,11 @@ Mondi del Lavoro · Sessione 05
 
 | Chi | Cosa | Anno |
 |---|---|---|
-| Bigotta & Giancone | Struttura ed evoluzione dei salari in Ticino | 2020 |
-| Bigotta & Pellegrin | Mercato del lavoro transfrontaliero | 2021 |
-| Losa, Bigotta & Gonzalez | Libera circolazione: gioie o dolori? | 2012 |
-| Martinelli | "Délocalisation sur place" / lavoro frontaliero Ticino | 2021 |
-| Gonzalez | Progressione dei "nuovi" frontalieri in Ticino | 2013 |
+| <span class="c-dato">Bigotta & Giancone</span> | Struttura ed evoluzione dei salari in Ticino | 2020 |
+| <span class="c-dato">Bigotta & Pellegrin</span> | Mercato del lavoro transfrontaliero | 2021 |
+| <span class="c-dato">Losa, Bigotta & Gonzalez</span> | Libera circolazione: gioie o dolori? | 2012 |
+| <span class="c-dato">Martinelli</span> | "Délocalisation sur place" / lavoro frontaliero Ticino | 2021 |
+| <span class="c-dato">Gonzalez</span> | Progressione dei "nuovi" frontalieri in Ticino | 2013 |
 
 ---
 
