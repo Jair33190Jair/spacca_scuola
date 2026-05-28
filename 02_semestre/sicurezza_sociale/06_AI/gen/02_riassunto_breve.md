@@ -83,7 +83,7 @@ Grado d'invalidità = (Reddito precedente − Reddito residuo) / Reddito precede
 | Grado | Rendita |
 |---|---|
 | < 40% | Nessuna rendita AI |
-| 40–49% | Quota secondo tabella graduata |
+| 40–49% | Quota secondo tabella graduata (non lineare, es. 40%=25%, 45%=37,5%, 49%=47,5%) |
 | 50–69% | % uguale al grado (es. 55% → rendita al 55%) |
 | ≥ 70% | Rendita intera (min CHF 1'260, max CHF 2'520/mese) |
 
@@ -92,8 +92,11 @@ Grado d'invalidità = (Reddito precedente − Reddito residuo) / Reddito precede
 - <span class="c-def">Sistema **meritocratico-occupazionale**: chi guadagnava di più → rendita più alta</span>
 - <span class="c-warn">L'Ufficio AI tende ad abbassare il grado per evitare rendite (soglia critica: 39% vs 40%)</span>
 - Chi non lavorava: valutazione tramite confronto delle attività domestiche
+- Chi lavora parzialmente: calcolo misto (perdita di guadagno + confronto attività domestiche)
 - <span class="c-dato">**Invalidi precoci (< 23 anni):**</span> rendita straordinaria = <span class="c-dato">**CHF 1'680/mese**</span>
+- <span class="c-dato">**Invalidi precoci (< 25 anni) con contribuzione completa:**</span> rendita pari ad almeno 133⅓% del minimo della rendita intera
 - <span class="c-impl">L'assicurazione infortuni eroga rendita già dal **<span class="c-dato">10%</span>**, il secondo pilastro dal <span class="c-dato">40%</span></span>
+- <span class="c-dato">In Svizzera: **220'000+ beneficiari** di rendita AI; oltre **100'000 per cause psichiche** (in crescita, soprattutto nei giovani)</span>
 
 ---
 

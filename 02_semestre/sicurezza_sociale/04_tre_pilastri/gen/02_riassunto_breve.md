@@ -2,12 +2,12 @@
 Sicurezza Sociale e Forme di Solidarietà · Sessione 04
 
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 
 > Tre rischi (vecchiaia, invalidità, decesso), tre pilastri, tre logiche diverse. Questa è la mappa — usala ogni volta che ti perdi nel sistema.
@@ -81,7 +81,7 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 04
 
 ## Persone senza attività lucrativa (PAL)
 
-- AVS, AI e IPG sono obbligatorie anche per chi non ha reddito
+- AVS, AI e <span class="c-def">**IPG**</span> (Indennità per perdita di guadagno) sono obbligatorie anche per chi non ha reddito
 - Contributo forfettario minimo: <span class="c-dato">**CHF 535/anno** (2026)</span>
 - Recupero retroattivo contributi mancanti: max **5 anni** precedenti
 - <span class="c-impl">Importante da verificare sempre allo sportello sociale</span>

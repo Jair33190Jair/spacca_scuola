@@ -73,9 +73,19 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 06
 | Grado | Rendita |
 |---|---|
 | < 40% | Nessuna rendita AI |
-| 40–49% | Quota secondo tabella graduata |
+| 40–49% | Quota secondo tabella graduata (non lineare) |
 | 50–69% | % = grado (es. 55% → rendita 55%) |
 | ≥ 70% | Rendita intera |
+
+**Tabella graduata 40–49% (da sapere per esame):**
+
+| Grado | Quota | Grado | Quota |
+|---|---|---|---|
+| 40% | 25% | 45% | 37,5% |
+| 41% | 27,5% | 46% | 40% |
+| 42% | 30% | 47% | 42,5% |
+| 43% | 32,5% | 48% | 45% |
+| 44% | 35% | 49% | 47,5% |
 
 - **Rendita intera** → <span class="c-dato">CHF 1'260–2'520/mese</span> (scala 44, 2025)
 - <span class="c-def">**Sistema meritocratico-occupazionale**</span> → chi guadagnava di più → rendita più alta
@@ -86,8 +96,19 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 06
 ### Casi speciali
 
 - **Senza attività lucrativa** → valutazione tramite confronto delle attività domestiche
+- **Attività parziale** → calcolo misto (perdita guadagno + confronto attività domestiche)
 - <span class="c-dato">**Invalidi precoci (< 23 anni)**</span> → rendita straordinaria <span class="c-dato">CHF 1'680/mese</span>
+- <span class="c-dato">**Invalidi precoci (< 25 anni) con contribuzione completa**</span> → rendita ≥ 133⅓% del minimo rendita intera
 - **Ricorso** → Tribunale delle assicurazioni sociali
+
+### Beneficiari rendita AI in Svizzera
+
+| Causa | N. beneficiari |
+|---|---|
+| Totale | <span class="c-dato">220'000+</span> |
+| Malattie psichiche | <span class="c-dato">100'000+</span> (in crescita, spec. giovani) |
+| Infermità congenite | ~27'500 |
+| Sistema locomotore | ~24'000 |
 
 ---
 

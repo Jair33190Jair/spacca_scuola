@@ -2,12 +2,12 @@
 Sicurezza Sociale e Forme di Solidarietà · Sessione 05 · <span class="c-dato">27 marzo 2026</span>
 
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 
 > Questa lezione scava nel cuore del sistema previdenziale svizzero: i tre pilastri, come funzionano, chi coprono, come si finanziano e — cosa importantissima per il tuo futuro lavoro di operatore sociale — dove le persone cadono nelle crepe del sistema. È tanta roba, ma è la colonna vertebrale di tutto quello che farai sul campo.
@@ -57,6 +57,8 @@ La rendita semplice di vecchiaia si situa tra <span class="c-dato">**CHF 1'260**
 Questi importi vengono adeguati ogni due anni, tenendo conto dell'evoluzione dei prezzi e dei salari.
 
 CHF 2'520 al mese: ci si vive in Svizzera? Con fatica. <span class="c-impl">Ecco perché esistono il secondo pilastro e le prestazioni complementari.</span>
+
+Un aspetto spesso trascurato è il principio di **solidarietà verticale** dell'AVS. <span class="c-tesi">Chi ha guadagnato poco durante la propria carriera riceve una rendita proporzionalmente più alta rispetto a chi ha avuto redditi elevati.</span> Non è un sistema puramente proporzionale — è anche redistributivo. In più, chi ha figli minorenni o ancora agli studi ha diritto a una **rendita per figli** pari al <span class="c-dato">40% della rendita di vecchiaia</span>, che si aggiunge alla rendita principale.
 
 ### Come si calcola la rendita — i tre elementi
 
@@ -180,7 +182,9 @@ Dati dello studio <span class="c-dato">UFAS 2025 (Bischof & Adrian, analisi in 8
 - Il 57% di chi non le percepisce dichiara di averne poca o nessuna conoscenza
 - Motivi di non-ricorso tra chi sa di averne diritto: mancanza di conoscenza della procedura (45%), complessità (31%), paura dell'obbligo di rimborso (28%), mancanza di sostegno (24%)
 
-Ostacoli strutturali aggiuntivi: complessità della procedura di domanda, scarsa conoscenza dei servizi di supporto, difficoltà linguistiche, mobilità ridotta, vergogna e stigma.
+Ostacoli strutturali aggiuntivi: complessità della procedura di domanda, scarsa conoscenza dei servizi di supporto, difficoltà linguistiche, mobilità ridotta, vergogna e stigma. <span class="c-warn">Un ostacolo specifico per le persone straniere: il **timore di perdere il permesso di soggiorno** percependo prestazioni legate all'assistenza pubblica. Questo timore può essere infondato giuridicamente, ma resta una barriera psicologica reale.</span>
+
+Il <span class="c-dato">93%</span> dei beneficiari di PC che hanno fatto domanda ha dichiarato di aver avuto bisogno di supporto per compilarla (dati studio UFAS 2025) — a conferma che la procedura non è mai davvero autonoma.
 
 **Buone pratiche cantonali identificate dallo studio**:
 - Consulenza personalizzata e accompagnamento
@@ -204,7 +208,13 @@ Il secondo pilastro è **obbligatorio solo per i salariati** con contratto > 3 m
 
 ### Mandato
 
-L'obiettivo è garantire il **mantenimento del tenore di vita** precedente al pensionamento (art. 113 Cost.). Non il minimo vitale — quello lo copre l'AVS — ma uno stile di vita simile a quello da attivi.
+L'obiettivo è garantire il **mantenimento del tenore di vita** precedente al pensionamento (<span class="c-dato">art. 113 Cost.</span>). Non il minimo vitale — quello lo copre l'AVS — ma uno stile di vita simile a quello da attivi.
+
+Anche il secondo pilastro prevede una **rendita per figli** a carico (<span class="c-dato">20% della rendita di vecchiaia PP</span>). In alternativa alla rendita, è possibile richiedere — almeno parzialmente — il **versamento del capitale accumulato** in forma di liquidità.
+
+### Disoccupati e secondo pilastro
+
+<span class="c-warn">I lavoratori disoccupati restano coperti dal secondo pilastro per i rischi **decesso** e **invalidità**, ma **non accumulano accrediti per la vecchiaia**. Il periodo di disoccupazione lascia quindi una lacuna permanente nel capitale previdenziale.</span>
 
 ### Perché può non bastare
 
@@ -244,7 +254,7 @@ Copre le conseguenze economiche di infortuni professionali e non professionali, 
 La rendita AVS dipende da tre fattori: (1) gli anni di contributi versati — per una rendita piena (scala 44) occorrono 44 anni ininterrotti di contribuzione dal 21° al 65° anno di età; ogni anno mancante riduce la rendita del 2,3%; (2) il reddito medio realizzato durante la vita lavorativa, rivalutato per tener conto dell'inflazione; (3) gli accrediti per compiti educativi e assistenziali — per ogni anno di cura di un figlio fino ai 16 anni viene riconosciuto un reddito figurativo che migliora la futura rendita, diviso in parti uguali tra i due genitori.
 
 **Che cos'è il fenomeno del non-ricorso alle prestazioni complementari? Quali sono le cause principali?**
-Il non-ricorso è il fenomeno per cui circa un terzo degli aventi diritto alle PC non le richiede. Le cause principali identificate dallo studio UFAS 2025 sono: mancanza di conoscenza dell'esistenza delle PC (23% degli interessati non ne ha mai sentito parlare); complessità della procedura di domanda (31%); paura dell'obbligo di restituzione dagli eredi (28%); mancanza di supporto (24%). Si aggiungono ostacoli strutturali come difficoltà linguistiche, mobilità ridotta e stigma.
+Il non-ricorso è il fenomeno per cui circa un terzo degli aventi diritto alle PC non le richiede. Le cause principali identificate dallo studio UFAS 2025 sono: mancanza di conoscenza dell'esistenza delle PC (23% degli interessati non ne ha mai sentito parlare); complessità della procedura di domanda (31%); paura dell'obbligo di restituzione dagli eredi (28%); mancanza di supporto (24%). Si aggiungono ostacoli strutturali come difficoltà linguistiche, mobilità ridotta, stigma e — per le persone straniere — il timore di perdere il permesso di soggiorno. Il 93% dei beneficiari ha dichiarato di aver avuto bisogno di aiuto per completare la domanda, il che conferma la necessità di accompagnamento attivo da parte degli operatori sociali.
 
 **Come si calcolano le Prestazioni Complementari? Fai l'esempio con i numeri.**
 Le PC si calcolano con la formula: uscite riconosciute − entrate disponibili = PC. Le uscite comprendono il bisogno vitale riconosciuto, l'affitto lordo e il premio cassa malati. Le entrate comprendono le rendite AVS/AI, i redditi da capitale e una quota del patrimonio (dopo deduzione di una franchigia, solo 1/10 del patrimonio residuo entra nel calcolo come reddito figurativo). Esempio del prof: uscite CHF 38.754, entrate CHF 20.325 → PC annua CHF 18.429, cioè circa CHF 1.537 al mese.

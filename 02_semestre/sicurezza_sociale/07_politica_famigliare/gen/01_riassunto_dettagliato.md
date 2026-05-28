@@ -248,7 +248,7 @@ Le donne lavorano sempre più, ma continuano a farsi carico della maggior parte 
 
 ### Strategie di custodia nella prima infanzia (Giudici & Bruno, 2016)
 
-Uno studio su ~<span class="c-dato">4.650 famiglie ticinesi</span> con almeno un figlio sotto i 4 anni ha identificato 6 strategie di custodia:
+Uno studio su <span class="c-dato">4.649 famiglie ticinesi</span> con almeno un figlio sotto i 4 anni ha identificato 6 strategie di custodia:
 
 | Strategia | % famiglie |
 |---|---|
@@ -263,6 +263,8 @@ I fattori che più influenzano la scelta non sono le preferenze culturali dei ge
 1. <span class="c-tesi">**Il reddito famigliare**: le famiglie con redditi bassi usano meno il nido — non per scelta, ma per costo</span>
 2. **La disponibilità di nidi nel comune**: più nidi ci sono, più vengono usati (anche da chi inizialmente non era favorevole)
 
+<span class="c-dato">Il Ticino ha solo 13 posti in nido ogni 100 bambini di 0-3 anni</span> — tra i tassi di attrezzatura più bassi della Svizzera, nonostante la crescita dell'offerta negli ultimi vent'anni.
+
 <span class="c-warn">Il risultato paradossale: i bambini che **più beneficerebbero** del nido (quelli di famiglie svantaggiate, stranieri, alloglotti) sono proprio quelli che vi accedono meno. Il supporto dello Stato finisce per favorire le classi medio-alte.</span>
 
 ### Monoparentalità e accumulo degli svantaggi
@@ -272,7 +274,25 @@ La <span class="c-def">**monoparentalità**</span> (principalmente femminile —
 - il rischio di povertà aumenta sensibilmente
 - spesso il padre **non versa i contributi di mantenimento** — e il sistema legale rende difficile recuperarli (<span class="c-dato">il Codice civile protegge il minimo vitale del debitore, art. 285 CC</span>)
 
+Quando il debitore non paga, alla madre si aprono tre strade principali, nessuna senza ostacoli:
+
+1. <span class="c-def">**Denuncia penale**</span>: raramente esperita. Molte madri temono che il padre si vendichi riducendo i contatti con i figli — un vero dilemma morale.
+2. <span class="c-def">**Anticipo alimenti**</span>: strumento più immediato, ma temporaneo. In Ticino dura al massimo <span class="c-dato">60 mesi</span>. Soggetto a test dei mezzi e può essere difficile da accedere per chi ha un reddito variabile.
+3. <span class="c-def">**Aiuto all'incasso**</span>: se il debitore ha ridotto fittiziamente il grado di occupazione o occultato i redditi, il recupero diventa quasi impossibile — il CC tutela il suo minimo vitale (<span class="c-dato">art. 285 cpv. 1</span>).
+
 <span class="c-impl">Le madri descrivono percorsi estenuanti per recuperare le somme dovute, con il rischio che il padre si vendichi riducendo i contatti con i figli — un vero e proprio dilemma morale che indebolisce ulteriormente la loro posizione.</span>
+
+---
+
+## Politica famigliare e sicurezza sociale: i legami
+
+Perché la politica famigliare si studia in un corso di sicurezza sociale? Non è un caso. I due ambiti si intrecciano in modo diretto.
+
+<span class="c-tesi">**Primo legame — demografia e previdenza**: le decisioni riproduttive influenzano la natalità. Meno nascite = meno popolazione attiva = più sbilanciamento tra pensionati e lavoratori che finanziano il sistema. <span class="c-impl">Sostenere le famiglie non è solo una questione di benessere — è anche una questione di sostenibilità finanziaria della previdenza sociale (AVS in primis).</span></span>
+
+<span class="c-tesi">**Secondo legame — partecipazione al lavoro e tutela dai rischi sociali**: le difficoltà di conciliazione famiglia-lavoro riducono il grado di occupazione delle donne (più part-time, più interruzioni). In un sistema previdenziale meritocratico-occupazionale come quello svizzero, <span class="c-warn">meno anni di contributi = rendita di vecchiaia più bassa = maggiore rischio di povertà in età anziana per le donne.</span></span>
+
+> Il prof sottolinea questo collegamento nel seminario: una politica famigliare debole non è solo un problema "famigliare" — è un problema che si scarica sull'intero sistema di welfare.
 
 ---
 
@@ -292,6 +312,12 @@ Gli assegni familiari sono prestazioni obbligatorie finanziate dai contributi de
 
 **Cosa sono AFI e API in Ticino e a chi si rivolgono?**
 <span class="c-def">AFI (Assegno Famigliare Integrativo) e API (Assegno di Prima Infanzia)</span> sono prestazioni cantonali ticinesi introdotte nel <span class="c-dato">1996</span> per ridurre la povertà delle famiglie ed evitare il ricorso all'assistenza sociale. L'AFI è riconosciuto ai genitori con figli sotto i 15 anni (<span class="c-dato">818 CHF/mese</span> per il primo e secondo figlio) e si cumula con l'assegno per figli federale. L'API è riconosciuto fino all'ingresso del figlio alla scuola dell'infanzia (circa 4 anni) e serve a garantire il minimo vitale alle famiglie. Hanno diritto i domiciliati in Ticino da almeno <span class="c-dato">3 anni (svizzeri) o 5 anni (stranieri)</span>.
+
+**Qual è il legame tra politica famigliare e sistema di sicurezza sociale?**
+<span class="c-tesi">Il legame è doppio. Da un lato, le decisioni riproduttive influenzano la natalità e quindi l'equilibrio demografico: meno nascite significa meno lavoratori attivi per finanziare il sistema pensionistico (AVS). Dall'altro, le difficoltà di conciliazione famiglia-lavoro riducono la partecipazione lavorativa delle donne — il che, in un sistema meritocratico-occupazionale come quello svizzero, si traduce in carriere più corte e contributi più bassi, aumentando il rischio di povertà in vecchiaia per le donne.</span> In sostanza, <span class="c-impl">una politica famigliare insufficiente non è solo un problema di benessere immediato: genera disuguaglianze che si trascinano per decenni, fino all'età anziana.</span>
+
+**Quali strumenti giuridici ha una madre a cui il padre non versa i contributi di mantenimento, e quali sono i loro limiti?**
+La madre ha tre opzioni principali. La <span class="c-def">denuncia penale</span> è raramente usata: molte madri temono che il padre si vendichi riducendo i contatti con i figli (dilemma morale). L'<span class="c-def">anticipo alimenti</span> è più accessibile ma è temporaneo (in Ticino max <span class="c-dato">60 mesi</span>) e soggetto al test dei mezzi; chi ha reddito variabile fatica a documentare la propria situazione. L'<span class="c-def">aiuto all'incasso</span> è vanificato quando il debitore ha fittiziamente ridotto il reddito: il Codice civile (<span class="c-dato">art. 285 cpv. 1 CC</span>) protegge il suo minimo vitale, rendendo quasi impossibile il recupero. <span class="c-warn">In tutti i casi, il peso ricade sulla madre.</span>
 
 **Perché in Svizzera il costo dei nidi è un problema per la conciliazione famiglia-lavoro?**
 <span class="c-tesi">I nidi svizzeri sono tra i più costosi dell'OCSE: nel 2020 rappresentavano quasi il 35% del reddito famigliare per due figli, contro una media OCSE del 14%.</span> <span class="c-warn">Questo crea un effetto paradossale: per le madri con salari bassi o medi, il costo del nido può avvicinarsi o superare il guadagno che otterrebbero lavorando. Il risultato è un disincentivo strutturale al lavoro materno, che colpisce soprattutto le famiglie svantaggiate — proprio quelle che beneficerebbero di più dalla frequenza del nido per i bambini.</span> <span class="c-impl">È un fallimento del mercato che le politiche pubbliche cercano di correggere con sussidi alle rette.</span>
@@ -343,3 +369,4 @@ Gli assegni familiari sono prestazioni obbligatorie finanziate dai contributi de
 - <span class="c-impl">Il tema della conciliazione famiglia-lavoro si lega al mercato del lavoro e alle politiche di pari opportunità</span>
 - La LFam ticinese disciplina anche i servizi di accoglienza per l'infanzia, che verranno trattati in sede separata
 - Il tema della monoparentalità e degli obblighi di mantenimento è strettamente legato al diritto di famiglia (Codice civile)
+- <span class="c-tesi">**Collegamento seminario (esplicitato dal prof):** la politica famigliare è intrecciata alla sicurezza sociale su due fronti: (1) natalità → sostenibilità finanziaria dell'AVS; (2) conciliazione → partecipazione lavorativa femminile → tutela dal rischio vecchiaia</span>

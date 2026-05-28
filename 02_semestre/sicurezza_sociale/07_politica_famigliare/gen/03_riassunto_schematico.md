@@ -132,6 +132,9 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 07
 - <span class="c-tesi">Costo nidi svizzeri → ~<span class="c-dato">35%</span> reddito famigliare (media OCSE: <span class="c-dato">14%</span>)</span>
 - <span class="c-warn">Effetto paradossale: per madri a basso reddito, lavorare non conviene economicamente</span>
 
+**Conciliazione — strutture di accoglienza**:
+- TI: <span class="c-dato">13 posti ogni 100 bambini 0-3 anni</span> → tra i tassi più bassi della Svizzera
+
 **Strategie di custodia (<span class="c-dato">studio 2014, n = 4.649 famiglie TI</span>)**:
 
 | Strategia | % |
@@ -149,7 +152,18 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 07
 **Monoparentalità**:
 - <span class="c-dato">> 80%</span> custodie esclusive → madri
 - <span class="c-impl">Amplifica disuguaglianze preesistenti</span>
-- <span class="c-warn">Mancato versamento contributi di mantenimento → diffuso; difficile da recuperare (il CC protegge minimo vitale del debitore, <span class="c-dato">art. 285</span>)</span>
+- <span class="c-warn">Mancato versamento contributi → strumenti giuridici e loro limiti:</span>
+  - <span class="c-def">Denuncia penale</span> → raramente usata (dilemma morale)
+  - <span class="c-def">Anticipo alimenti</span> → temporaneo (TI: max <span class="c-dato">60 mesi</span>); soggetto a test dei mezzi
+  - <span class="c-def">Aiuto all'incasso</span> → bloccato dal minimo vitale del debitore (<span class="c-dato">art. 285 cpv. 1 CC</span>)
+
+---
+
+## Politica famigliare ↔ sicurezza sociale
+
+- <span class="c-tesi">Decisioni riproduttive → natalità → equilibrio demografico → sostenibilità finanziaria AVS</span>
+- <span class="c-tesi">Difficoltà conciliazione → ↓ occupazione femminile → ↓ contributi → ↑ rischio povertà in vecchiaia per le donne</span>
+- <span class="c-impl">In un sistema meritocratico-occupazionale: politica famigliare = politica previdenziale</span>
 
 ---
 
@@ -170,4 +184,4 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 07
 
 ### Parole chiave
 
-`economia domestica` · `filiazione` · `COFF` · `sussidiarietà verticale` · `sussidiarietà orizzontale` · `male breadwinner model` · `dual-earner model` · `dual-carer` · `LAFam` · `AFI` · `API` · `LAV` · `LIPG` · `IPG` · `congedo maternità` · `minimo vitale` · `LFam` · `childlessness` · `monoparentalità` · `custodia alternata` · `abiatici`
+`economia domestica` · `filiazione` · `COFF` · `sussidiarietà verticale` · `sussidiarietà orizzontale` · `male breadwinner model` · `dual-earner model` · `dual-carer` · `LAFam` · `AFI` · `API` · `LAV` · `LIPG` · `IPG` · `congedo maternità` · `minimo vitale` · `LFam` · `childlessness` · `monoparentalità` · `custodia alternata` · `abiatici` · `anticipo alimenti` · `aiuto all'incasso` · `tasso d'attrezzatura nidi`

@@ -1,5 +1,5 @@
 # Percorsi nelle Disabilità — Panoramica completa
-Semestre 02 · 12 lezioni elaborate (01, 02, 04–13; manca 03)
+Semestre 02 · 13 lezioni elaborate (01, 02, 04–14; manca 03)
 
 > Da Hammurabi alle politiche inclusive ticinesi del 2024, questo modulo costruisce uno sguardo completo sulla disabilità: prima la storia e le classificazioni, poi i quadri legali e i modelli interpretativi, poi le situazioni specifiche (deficit intellettivo, ASD, polyhandicap), la progettualità di vita e infine la famiglia come sistema di cura. Il filo rosso è sempre lo stesso: la disabilità non è nella persona — è nell'interazione tra la persona e un contesto più o meno ostile.
 
@@ -22,6 +22,7 @@ Semestre 02 · 12 lezioni elaborate (01, 02, 04–13; manca 03)
 | 11 | Cicli di vita e autodeterminazione | Adultità, liminalità, autonomia dipendente, Wehmeyer |
 | 12 | LISPI e diritto di protezione | Piramide giuridica, curatela su misura, LISPI |
 | 13 | Familiari curanti e siblings | Familiare curante, siblings, carichi, "dopo di noi" |
+| 14 | Familiari — Pedagogia dei Genitori | Sapere familiare, narrazione, complementarietà dei saperi |
 
 ---
 
@@ -428,6 +429,63 @@ ICF
 
 ---
 
+## Pedagogia dei Genitori · (Lez. 14)
+
+- **Fondatori** → Moletto, Zucchi (Italia, anni '90); in Ticino dal 2005 (Atgabbes)
+- **Ambito** → qualsiasi contesto genitoriale, non solo disabilità; a SUPSI DEASS da oltre 15 anni
+- **Scopo** → valorizzare il sapere familiare come complementare al sapere professionale
+
+### Cambio di paradigma
+
+- **Vecchio paradigma** → positivismo: esperto autosufficiente; conoscenza oggettiva; emozioni escluse
+- **Nuovo paradigma** → visione ecologica: persona = sistema di relazioni; sapere situato; emozione e razionalità unite
+
+### Riferimenti teorici
+
+| Autore | Contributo |
+|--------|-----------|
+| **Feyerabend** | Metafora contadino/agronomo: il genitore ha il sapere concreto del proprio figlio; l'agronomo (professionista) ha quello comparativo → **complementarietà, non gerarchia** |
+| **Vygotskij** | L'uomo è cultura, storia, rete di relazioni |
+| **Bruner** | Pedagogia popolare — il sapere familiare ha valore scientifico |
+| **Vico** | "verum ipsum factum" — si conosce solo ciò che si fa direttamente |
+| **Schoen** | Professionista riflessivo — impara dall'azione e dai partner |
+| **Kuhn** | La scienza avanza per rivoluzioni di paradigma |
+
+- ⚠️ Il genitore è esperto del **proprio** figlio — non della diagnosi in generale
+
+### Narrazione — strumento centrale
+
+- **Narrazione** → dare forma all'esperienza per renderla comunicabile e condivisibile
+- Due livelli: **cognitivo** (consapevolezza delle scelte educative) + **emotivo** (costruzione di comunità)
+- **Regola fondamentale** → si narra sempre dal positivo
+- **Gruppo di narrazione** → spazio periodico; genitori + professionisti narrano insieme
+- **"Con i nostri occhi"** → il genitore presenta il figlio nella sua totalità (non la diagnosi)
+- Narrazioni pubblicate → cittadinanza attiva, cambio culturale
+
+### Sei valori pedagogici in azione
+
+| Valore | Significato breve |
+|--------|-------------------|
+| **Responsabilità** | Accompagnamento genitoriale per tutta la vita |
+| **Identità e riconoscimento** | Il figlio si costruisce nell'essere visto come unico |
+| **Speranza** | Senza speranza non esiste progetto di vita |
+| **Fiducia** | Valorizzare le potenzialità → autonomia progressiva |
+| **Crescita** | Lungo durata: flessibilità + argini solidi |
+| **Inadeguatezza** | Sentirsi inadeguati = adattamento continuo (risorsa, non limite) |
+
+### Formazione narrativa vs. informazione
+
+- **Informazione** → fornisce notizie ma non modifica gli atteggiamenti
+- **Formazione narrativa** → cambiamento durevole di pensiero e comportamento
+- Condizione: cornice teorica epistemologica **prima** della narrazione (senza teoria → emozione evapora; senza narrazione → teoria rimane fredda)
+
+### Genitori come formatori
+
+- Una delle azioni centrali di Atgabbes → genitori entrano nelle scuole (SUPSI, DEASS) come formatori con narrazioni scritte
+- Non sono "casi" — sono esperti che formano i futuri professionisti
+
+---
+
 ## Termini e linguaggio rispettoso · (Lez. 05)
 
 - **Regola SUPSI** → persona prima del deficit: "persona con disabilità" (non "disabile" come sostantivo)
@@ -478,19 +536,22 @@ ICF
 | **Bronfenbrenner** | Ecologia dello sviluppo — famiglia a tutti i livelli | 13 |
 | **Hochschule Luzern** | Studio quantitativo siblings (265 persone, 2021) | 13 |
 | **Mengoni** | 3 dimensioni di lavoro coi siblings | 13 |
-| **Atgabbes** | Associazione famiglie TI; Photovoice Siblings Ticino | 04, 13 |
+| **Atgabbes** | Associazione famiglie TI; Photovoice Siblings Ticino; Pedagogia dei Genitori in TI dal 2005 | 04, 13, 14 |
+| **Moletto & Zucchi** | Fondatori Pedagogia dei Genitori (Italia, anni '90) | 14 |
+| **Feyerabend** | Metafora contadino/agronomo — complementarietà sapere familiare e professionale | 14 |
+| **Schoen** | Professionista riflessivo | 14 |
 
 ---
 
 ### Parole chiave della materia
 
-`disabilità` · `handicap` · `deficit` · `menomazione` · `inclusione` · `integrazione` · `segregazione` · `esclusione` · `grande reclusione` · `trattamento morale` · `ius vivendi` · `ICD` · `ICIDH` · `ICF` · `ICF-CY` · `PPH` · `modello biomedico` · `modello biopsicosociale` · `facilitatore` · `barriera` · `capacità` · `performance` · `CDPD` · `"niente su di noi senza di noi"` · `Lingua Facile` · `art. 19` · `autodeterminazione` · `QI` · `comportamento adattivo` · `scaffolding` · `ZSP` · `SIS` · `deficit intellettivo` · `disabilità cognitiva` · `ASD` · `diade diagnostica` · `spettro` · `neurodiversità` · `sameness` · `ecolalia` · `CAA` · `PECS` · `ABA` · `TEACCH` · `ESDM` · `PEI` · `analisi funzionale` · `parent training` · `polyhandicap` · `causalità elementare` · `QdV` · `meta-modello` · `progetto di vita` · `assessment` · `needs-led` · `services-led` · `microsistema` · `mesosistema` · `macrosistema` · `Atgabbes` · `Pro Infirmis` · `LISPI` · `Fondazione ARES` · `singolari plurali` · `cicli di vita` · `adultità` · `liminalità` · `eterno bambino` · `riti di transizione` · `autonomia dipendente` · `agente causale` · `modello funzionale` · `empowerment` · `autoregolazione` · `autorealizzazione` · `infantilizzazione` · `tessitore di relazioni` · `approccio ecologico` · `capability approach` · `self advocacy` · `curatela su misura` · `curatela generale` · `curatela di sostegno` · `curatela di rappresentanza` · `capacità di discernimento` · `sussidiarietà` · `proporzionalità` · `adeguatezza` · `ARP` · `autorità parentale prolungata` · `diritti strettamente personali` · `piramide delle fonti giuridiche` · `familiare curante` · `sibling` · `dopo di noi` · `AGI` · `esperti per esperienza` · `IMAGENCY` · `ambivalenza`
+`disabilità` · `handicap` · `deficit` · `menomazione` · `inclusione` · `integrazione` · `segregazione` · `esclusione` · `grande reclusione` · `trattamento morale` · `ius vivendi` · `ICD` · `ICIDH` · `ICF` · `ICF-CY` · `PPH` · `modello biomedico` · `modello biopsicosociale` · `facilitatore` · `barriera` · `capacità` · `performance` · `CDPD` · `"niente su di noi senza di noi"` · `Lingua Facile` · `art. 19` · `autodeterminazione` · `QI` · `comportamento adattivo` · `scaffolding` · `ZSP` · `SIS` · `deficit intellettivo` · `disabilità cognitiva` · `ASD` · `diade diagnostica` · `spettro` · `neurodiversità` · `sameness` · `ecolalia` · `CAA` · `PECS` · `ABA` · `TEACCH` · `ESDM` · `PEI` · `analisi funzionale` · `parent training` · `polyhandicap` · `causalità elementare` · `QdV` · `meta-modello` · `progetto di vita` · `assessment` · `needs-led` · `services-led` · `microsistema` · `mesosistema` · `macrosistema` · `Atgabbes` · `Pro Infirmis` · `LISPI` · `Fondazione ARES` · `singolari plurali` · `cicli di vita` · `adultità` · `liminalità` · `eterno bambino` · `riti di transizione` · `autonomia dipendente` · `agente causale` · `modello funzionale` · `empowerment` · `autoregolazione` · `autorealizzazione` · `infantilizzazione` · `tessitore di relazioni` · `approccio ecologico` · `capability approach` · `self advocacy` · `curatela su misura` · `curatela generale` · `curatela di sostegno` · `curatela di rappresentanza` · `capacità di discernimento` · `sussidiarietà` · `proporzionalità` · `adeguatezza` · `ARP` · `autorità parentale prolungata` · `diritti strettamente personali` · `piramide delle fonti giuridiche` · `familiare curante` · `sibling` · `dopo di noi` · `AGI` · `esperti per esperienza` · `IMAGENCY` · `ambivalenza` · `pedagogia dei genitori` · `sapere dell'esperienza` · `narrazione` · `complementarietà dei saperi` · `gruppo di narrazione` · `formazione narrativa` · `professionista riflessivo` · `cambio di paradigma` · `comunità educante` · `speranza` · `inadeguatezza`
 
 ---
 
 ### Filo conduttore
 
-Il modulo percorre una trasformazione radicale nel modo in cui la società pensa alle persone con disabilità: da oggetti di paura, pietà o curiosità a soggetti di diritto. Questa traiettoria attraversa la storia (dall'infanticidio greco ai pionieri dell'educazione speciale), i modelli teorici (dal biomedico al biopsicosociale), il diritto internazionale (CDPD 2006) e gli strumenti clinico-educativi (ICF, PEI, analisi funzionale). Il percorso arriva fino alle norme cantonali ticinesi (LISPI, diritto di protezione) e alla famiglia come sistema di cura spesso invisibile — dai genitori ai siblings. Tutto converge su un'unica domanda: cosa rende buona la vita di una persona con disabilità? La risposta è sempre ambientale prima che individuale: le variabili contestuali pesano più di quelle personali (Geronimi/SUPSI, 2023). L'inclusione non è un traguardo raggiunto — è un **orizzonte** verso cui orientare ogni scelta professionale, sapendo che la disabilità non abita nella persona, ma nello spazio tra la persona e un contesto che non sa ancora accoglierla.
+Il modulo percorre una trasformazione radicale nel modo in cui la società pensa alle persone con disabilità: da oggetti di paura, pietà o curiosità a soggetti di diritto. Questa traiettoria attraversa la storia (dall'infanticidio greco ai pionieri dell'educazione speciale), i modelli teorici (dal biomedico al biopsicosociale), il diritto internazionale (CDPD 2006) e gli strumenti clinico-educativi (ICF, PEI, analisi funzionale). Il percorso arriva fino alle norme cantonali ticinesi (LISPI, diritto di protezione) e alla famiglia come sistema di cura spesso invisibile — dai genitori, ai siblings, fino alla Pedagogia dei Genitori che riconosce il sapere familiare come complementare, non subordinato, a quello professionale. Tutto converge su un'unica domanda: cosa rende buona la vita di una persona con disabilità? La risposta è sempre ambientale prima che individuale: le variabili contestuali pesano più di quelle personali (Geronimi/SUPSI, 2023). L'inclusione non è un traguardo raggiunto — è un **orizzonte** verso cui orientare ogni scelta professionale, sapendo che la disabilità non abita nella persona, ma nello spazio tra la persona e un contesto che non sa ancora accoglierla.
 
 ---
 
@@ -517,8 +578,8 @@ La qualità di vita (QdV) è l'orizzonte verso cui convergono tutti i concetti s
 **Come si traduce il principio di autodeterminazione nel diritto di protezione svizzero e nella LISPI?**
 Il principio di autodeterminazione, affermato dalla CDPD (art. 12 e 19) e teorizzato da Wehmeyer come costrutto a 4 componenti, ha trovato espressione concreta nella riforma del Codice civile del 01.01.2013: l'autorità parentale prolungata è stata abolita, sostituita da un sistema di curatela su misura (logica del "vestito su misura"). I tre principi di ogni intervento (sussidiarietà, proporzionalità, adeguatezza) traducono direttamente la logica ONU: intervenire solo se necessario, solo quanto necessario, solo per quanto necessario. La curatela generale — la misura più invasiva — è ancora presente (1.396 casi al 31.12.2023) ma contraria alla CDPD art. 12 e in via d'estinzione. La LISPI, a livello ticinese, opera nello stesso spirito: il luogo di vita è uno strumento, non un obiettivo. (Lez. 04, 11, 12)
 
-**Qual è il ruolo della famiglia — in particolare dei siblings — nel lavoro educativo e sociale?**
-La famiglia è presente a tutti i livelli ecologici (Bronfenbrenner) e garantisce continuità nei passaggi tra le fasi della vita che i servizi non assicurano. I siblings sono i familiari curanti più invisibili: la relazione fraterna è la più lunga della vita, ma viene sistematicamente ignorata. Lo studio della Hochschule Luzern (2021) mostra che i bisogni principali dei siblings sono ascolto emotivo, spazio per i propri sentimenti e informazioni sulla disabilità. Il rischio da tenere a mente: il sibling "bravo e adattato" sviluppa disturbi psichici cronici nel tempo se rimane senza sostegno. Il lavoro professionale deve riconoscerli come familiari curanti, non renderli invisibili. (Lez. 13)
+**Qual è il ruolo della famiglia — in particolare dei siblings — nel lavoro educativo e sociale, e cosa aggiunge la Pedagogia dei Genitori?**
+La famiglia è presente a tutti i livelli ecologici (Bronfenbrenner) e garantisce continuità nei passaggi tra le fasi della vita che i servizi non assicurano. I siblings sono i familiari curanti più invisibili: la relazione fraterna è la più lunga della vita, ma viene sistematicamente ignorata. Lo studio della Hochschule Luzern (2021) mostra che i bisogni principali dei siblings sono ascolto emotivo, spazio per i propri sentimenti e informazioni sulla disabilità. Il rischio: il sibling "bravo e adattato" sviluppa disturbi psichici cronici nel tempo se rimane senza sostegno. La Pedagogia dei Genitori (Moletto e Zucchi, anni '90; Ticino dal 2005) aggiunge una dimensione epistemologica: il genitore possiede un sapere sull'esperienza concreta del proprio figlio che nessun professionista può replicare — il genitore è l'agronomo che non si può sostituire, ma integrare. Questo cambia il tipo di relazione tra operatore e famiglia: non più esperto vs. paziente, ma due saperi complementari co-costruttori del progetto di vita. (Lez. 13, 14)
 
 **Qual è il filo conduttore dell'intera materia "Percorsi nelle Disabilità"?**
-Il filo conduttore è il passaggio da un paradigma dove la disabilità abita nella persona a uno dove la disabilità emerge dalla relazione tra la persona e un contesto più o meno ostile. Questo attraversa tutto il modulo: storicamente (dall'infanticidio alla pedagogia speciale), concettualmente (dal modello medico al biopsicosociale), giuridicamente (dalla carità alla CDPD), strumentalmente (da diagnosi = destino a analisi funzionale + progetto di vita), e socialmente (dal singolo alla famiglia, fino ai siblings invisibili). Il risultato pratico per chi lavora nel settore è uno solo: l'intervento professionale si focalizza sull'ambiente e sui sostegni, non sulla "correzione" della persona. L'inclusione è la direzione, la qualità di vita è la misura, e la persona — con i suoi desideri, sogni e aspirazioni — è sempre il punto di partenza.
+Il filo conduttore è il passaggio da un paradigma dove la disabilità abita nella persona a uno dove la disabilità emerge dalla relazione tra la persona e un contesto più o meno ostile. Questo attraversa tutto il modulo: storicamente (dall'infanticidio alla pedagogia speciale), concettualmente (dal modello medico al biopsicosociale), giuridicamente (dalla carità alla CDPD), strumentalmente (da diagnosi = destino a analisi funzionale + progetto di vita), e socialmente (dal singolo alla famiglia, fino ai siblings e alla Pedagogia dei Genitori che riconosce il sapere familiare come sapere scientifico). Il risultato pratico per chi lavora nel settore è uno solo: l'intervento professionale si focalizza sull'ambiente e sui sostegni, non sulla "correzione" della persona — e lo fa in alleanza con la famiglia, non al suo posto. L'inclusione è la direzione, la qualità di vita è la misura, e la persona — con i suoi desideri, sogni e aspirazioni — è sempre il punto di partenza.

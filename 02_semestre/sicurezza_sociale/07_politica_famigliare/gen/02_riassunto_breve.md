@@ -103,10 +103,20 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 07
 
 - Le **donne istruite** rinunciano più spesso alla genitorialità per timore dell'impatto sulla carriera — <span class="c-warn">negli uomini questa correlazione non esiste</span>
 - <span class="c-tesi">I nidi svizzeri costano il <span class="c-dato">**35% del reddito famigliare**</span> medio (vs. <span class="c-dato">14% OCSE</span>): per le madri con redditi bassi, lavorare non conviene economicamente</span>
-- <span class="c-es">Studio Giudici & Bruno (2016): 40% delle famiglie ticinesi non usa custodia esterna; i fattori principali non sono le preferenze, ma il **reddito** e la **disponibilità di servizi nel comune**</span>
+- <span class="c-es">Studio Giudici & Bruno (2016, n=<span class="c-dato">4.649</span> famiglie TI): 40% delle famiglie ticinesi non usa custodia esterna; i fattori principali non sono le preferenze, ma il **reddito** e la **disponibilità di servizi nel comune**</span>
+- Il Ticino ha solo <span class="c-dato">13 posti ogni 100 bambini 0-3 anni</span> — tra i tassi più bassi della Svizzera
 - <span class="c-warn">Chi più beneficerebbe dei nidi (famiglie svantaggiate, alloglotte) è chi vi accede meno</span>
-- <span class="c-def">**Monoparentalità**</span>: oltre <span class="c-dato">80%</span> dei casi di custodia esclusiva è femminile → <span class="c-impl">amplifica le disuguaglianze preesistenti</span>, il mancato versamento dei contributi di mantenimento è diffuso e difficile da recuperare
+- <span class="c-def">**Monoparentalità**</span>: oltre <span class="c-dato">80%</span> dei casi di custodia esclusiva è femminile → <span class="c-impl">amplifica le disuguaglianze preesistenti</span>
+- Mancato versamento contributi: tre strumenti possibili — <span class="c-def">denuncia penale</span> (raro, dilemma morale), <span class="c-def">anticipo alimenti</span> (max <span class="c-dato">60 mesi in TI</span>), <span class="c-def">aiuto all'incasso</span> (bloccato dal minimo vitale del debitore, <span class="c-dato">art. 285 CC</span>)
 
 ---
 
-**Da ricordare:** la politica famigliare si regge su <span class="c-tesi">**tre gambe** (soldi, tempo, servizi)</span> · la <span class="c-def">**sussidiarietà**</span> è il principio organizzativo chiave · le disuguaglianze di genere non nascono con la separazione — ci sono già nella coppia e la separazione le <span class="c-impl">**amplifica**</span>
+## Politica famigliare ↔ sicurezza sociale
+
+- <span class="c-tesi">Meno nascite → meno lavoratori → meno finanziamento per l'AVS: la politica famigliare incide sulla sostenibilità del sistema previdenziale</span>
+- <span class="c-tesi">Difficoltà di conciliazione → meno lavoro femminile → contributi ridotti → <span class="c-warn">maggiore rischio di povertà in vecchiaia per le donne</span></span>
+- <span class="c-impl">In un sistema meritocratico-occupazionale come quello svizzero, la politica famigliare è anche politica previdenziale.</span>
+
+---
+
+**Da ricordare:** la politica famigliare si regge su <span class="c-tesi">**tre gambe** (soldi, tempo, servizi)</span> · la <span class="c-def">**sussidiarietà**</span> è il principio organizzativo chiave · le disuguaglianze di genere non nascono con la separazione — ci sono già nella coppia e la separazione le <span class="c-impl">**amplifica**</span> · <span class="c-tesi">una politica famigliare debole si scarica sul sistema di welfare per decenni</span>

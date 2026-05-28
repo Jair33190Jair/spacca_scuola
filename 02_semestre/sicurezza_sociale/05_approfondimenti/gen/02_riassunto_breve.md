@@ -27,6 +27,8 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 05
 - <span class="c-def">Obbligatoria per tutta la popolazione residente</span> (regime universale)
 - Obbligo contributivo: dai <span class="c-dato">**21 anni**</span> ai <span class="c-dato">**65 anni**</span>
 - Rendita mensile: <span class="c-dato">**CHF 1'260**</span> (min) — <span class="c-dato">**CHF 2'520**</span> (max), media ~<span class="c-dato">CHF 1'870</span>
+- <span class="c-tesi">**Solidarietà verticale**: chi guadagna poco riceve una rendita proporzionalmente più alta</span> rispetto a chi ha avuto redditi elevati
+- **Rendita per figli** a carico (minorenni o agli studi): <span class="c-dato">+40% della rendita AVS</span>
 - Finanziamento: prelievi su salari/redditi + contributi pubblici + redditi da capitale (fondo riserva ~50 mld)
 - Fondo riserva: garantisce autonomia finanziaria di <span class="c-dato">**almeno 1 anno**</span> senza nuove entrate
 
@@ -73,7 +75,8 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 05
 
 ### Problema del non-ricorso
 - <span class="c-dato">~**1/3**</span> degli aventi diritto non fa domanda
-- Cause: <span class="c-es">ignoranza dell'esistenza (23%), complessità procedura (31%), paura del rimborso (28%), stigma</span>
+- Cause: <span class="c-es">ignoranza dell'esistenza (23%), complessità procedura (31%), paura del rimborso (28%), stigma</span>; <span class="c-warn">per stranieri: **timore di perdere il permesso di soggiorno**</span>
+- Il <span class="c-dato">93%</span> dei beneficiari ha avuto bisogno di supporto per fare domanda → accompagnamento è essenziale
 - <span class="c-impl">Buone pratiche: consulenza personalizzata, documentazione semplificata, procedure digitali, visite a domicilio</span>
 
 ---
@@ -84,6 +87,8 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 05
 - Facoltativa per indipendenti
 - <span class="c-def">Sistema a capitalizzazione: contributi versati in parti uguali da lavoratore e datore di lavoro</span>
 - Obiettivo: mantenere il tenore di vita precedente (<span class="c-dato">art. 113 Cost.</span>)
+- **Rendita per figli** a carico: <span class="c-dato">+20% della rendita PP</span> — in alternativa possibile richiedere il **capitale** accumulato
+- <span class="c-warn">Disoccupati: coperti per decesso e invalidità, ma **senza accumulo accrediti vecchiaia**</span>
 - <span class="c-warn">Rischi di insufficienza: lacune contributive, bassi salari, divorzio, prelievo anticipato, fluttuazioni mercati</span>
 
 ---

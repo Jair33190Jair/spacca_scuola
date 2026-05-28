@@ -2,12 +2,12 @@
 Sicurezza sociale e forme di solidarietà · Sessione 03 · <span class="c-dato">5–13 marzo 2026</span>
 
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 
 > Questa lezione è il cuore del corso: ti spiega come funziona il sistema di sicurezza sociale svizzero dall'interno — chi paga, chi riceve, perché, e soprattutto chi viene lasciato indietro. Spoiler: i lavoratori indipendenti. E lo capirai molto bene, perché il prof usa come esempio un giardiniere.

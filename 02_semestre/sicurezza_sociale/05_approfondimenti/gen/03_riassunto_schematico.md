@@ -25,6 +25,8 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 05
 - **Regime** → <span class="c-def">universale (tutta la popolazione residente)</span>
 - **Obbligo contributivo** → dai <span class="c-dato">21 anni</span> ai <span class="c-dato">65 anni</span>
 - **Rendita mensile** → min <span class="c-dato">CHF 1'260</span> · max <span class="c-dato">CHF 2'520</span> · media ~<span class="c-dato">CHF 1'870</span>
+- <span class="c-tesi">**Solidarietà verticale** → chi guadagna poco riceve rendita proporzionalmente più alta</span>
+- **Rendita per figli** → <span class="c-dato">+40%</span> della rendita AVS (figli minorenni o agli studi)
 - **Finanziamento** → 3 fonti:
   - Prelievi su salari e redditi
   - Contributi pubblici (Confederazione + Cantoni)
@@ -121,11 +123,14 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 05
 | Causa | % |
 |-------|---|
 | Non conosce la procedura | 45% |
-| Non ritiene di averne bisogno | 30% |
 | Complessità della procedura | 31% |
-| Paura del rimborso | 28% |
+| Non ritiene di averne bisogno | 30% |
+| Paura del rimborso (obbligo eredi) | 28% |
 | Mancanza di sostegno | 24% |
-| Non ne ha mai sentito parlare | 23% |
+| Non ne ha mai sentito parlare (in difficoltà fin.) | 23% |
+| Timore perdita permesso di soggiorno | — |
+
+- <span class="c-dato">93%</span> dei beneficiari ha avuto bisogno di supporto per fare domanda
 
 <span class="c-tesi">**Buone pratiche cantonali** (<span class="c-dato">studio UFAS 2025 — Bischof & Adrian</span>):</span>
 - Consulenza personalizzata
@@ -142,6 +147,8 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 05
 - **Facoltativa** → indipendenti
 - <span class="c-def">**Sistema** → capitalizzazione (conto personale + contributo datore di lavoro)</span>
 - **Mandato** → <span class="c-dato">art. 113 Cost.</span> → mantenimento tenore di vita
+- **Rendita per figli** → <span class="c-dato">+20%</span> della rendita PP · oppure possibile richiedere il **capitale**
+- <span class="c-warn">**Disoccupati** → coperti per decesso/invalidità · **nessun accumulo accrediti vecchiaia**</span>
 - <span class="c-warn">**Rischi di insufficienza**:</span>
   - Lacune contributive
   - Bassi salari
@@ -180,4 +187,4 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 05
 
 ### Parole chiave
 
-`AVS` · `AI` · `PC` · `PP` · `AINF` · `SUVA` · `ripartizione` · `capitalizzazione` · `accredito educativo` · `accredito assistenziale` · `means test` · `non-ricorso` · `fondi in giacenza` · `franchigia` · `AGI` · `restituzione PC`
+`AVS` · `AI` · `PC` · `PP` · `AINF` · `SUVA` · `ripartizione` · `capitalizzazione` · `solidarietà verticale` · `accredito educativo` · `accredito assistenziale` · `means test` · `non-ricorso` · `fondi in giacenza` · `franchigia` · `AGI` · `restituzione PC` · `rendita per figli`

@@ -1,0 +1,400 @@
+13
+ginalmente la composizione (magari con un nuovo 
+eccipiente che ne facilita la somministrazione).
+Un secondo elemento che spinge i costi del sistema 
+sanitario è l’invecchiamento della popolazione, so-
+prattutto nei settori delle case per anziani e delle cure 
+a domicilio, ma anche nel consumo di medicamenti 
+per alcune malattie croniche. Per dare un’idea della 
+sda che ciò implica, si consideri la pianicazione di 
+recente approvata dal Canton Ticino che riguarda, 
+tra le altre cose, le case per anziani e il settore dell’as-
+sistenza e cure a domicilio[2]. Tale pianicazione sti-
+ma necessari, per il 2030, ben 1'180 posti letto in più 
+nelle case per anziani con mandato di prestazione 
+cantonale, rispetto ai 4'580 attivi nel 2018 (+26%). Per 
+le ore di cure a domicilio, la stima di aumento previsto 
+è addirittura del +62% (da 1.19 mio di ore a 1.93 mio).
+Un terzo fattore che fa lievitare la spesa è la limi-
+tata crescita della produttività del lavoro nei servizi 
+sanitari, rispetto a quanto succede in altri settori 
+quali la trasformazione manifatturiera o l’agri-
+coltura. Tale fenomeno, noto come “malattia dei 
+costi di Baumol” (dal nome dell’economista che la 
+descrisse negli anni sessanta), caratterizza i servizi 
+alla persona che possono essere sostituiti solo in 
+misura limitata dall’automazione[3].
+Inne, un ultimo importante fattore di aumento 
+della spesa sanitaria sono le crescenti aspettative 
+di tutti noi. Problemi che pochi decenni fa sareb-
+bero stati gestiti personalmente o addirittura fa-
+talisticamente accettati, oggi ci spingono invece a 
+cercare risposte e soluzioni presso medici, siote-
+rapisti, psicoterapeuti, ecc.
+Struttura e obiettivi del sistema di 
+nanziamento
+Nel paragrafo precedente abbiamo guardato 
+alla spesa sanitaria e ad alcune importanti deter-
+minanti della sua crescita. Ma come è nanziata 
+Finanziare i servizi sanitari: 
+un rompicapo per la politica 
+e la società
+Carlo De Pietro è Pro-
+fessore in Management 
+sanitario presso il DEASS 
+della SUPSI.  
+Svolge attività di 
+ricerca-intervento per 
+organizzazioni sani-
+tarie e socio-sanitarie, 
+nonché valutazioni di 
+politiche sanitarie e 
+sociali per l’Amministra-
+zione cantonale e federale. 
+Insegna soprattutto nella 
+formazione continua, dove 
+è responsabile del MAS in 
+Gestione sanitaria.
+Carlo De Pietro
+L’articolo considera l’annoso problema 
+dei premi di cassa malattia nel quadro 
+della spesa sanitaria in Svizzera e del suo 
+nanziamento. Il settore sanitario è de-
+stinato a espandersi e il suo nanziamento 
+richiederà crescente solidarietà nanziaria 
+sull’asse sani–malati e su quello ricchi– 
+poveri. Ottenere tale solidarietà rappresen-
+ta una sda politica dicile, di fronte alla 
+quale il meccanismo assicurativo LAMal 
+sembra oramai inadeguato.
+Una spesa sanitaria sempre crescente
+Nel 2021 i costi complessivi del sistema sanitario 
+svizzero hanno raggiunto 9'924 CHF per ogni resi-
+dente (Ucio federale di statistica 2023). Nel 1996, 
+all’entrata in vigore della Legge federale sull'assicu-
+razione malattie (LAMal), i costi pro-capite erano di 
+5'292 CHF. L’aumento, in ventiquattro anni, è stato 
+dell’88%. Nello stesso periodo, il Prodotto interno lor-
+do (PIL) nominale pro-capite è aumentato del 41%[1].
+Il PIL pro-capite – e cioè il valore prodotto nel cor-
+so dell’anno dal sistema economico svizzero – ha 
+avuto qualche battuta di arresto, con riduzioni oc-
+corse negli anni 2002, 2009, 2015, 2020. La spesa 
+sanitaria pro-capite ha invece continuato nella 
+sua ascesa anno dopo anno, “insensibile” all’anda-
+mento economico generale.
+I principali elementi che spiegano tale continuo 
+aumento sono ben noti.
+Innanzi tutto il progresso tecnico, che contribuisce ad 
+aumentare la speranza e la qualità di vita, ma spesso 
+nel sistema sanitario non riduce i costi, al contrario 
+di quanto succede per esempio in gran parte dei 
+prodotti manifatturieri. Ciò succede soprattutto nel 
+caso di innovazioni di prodotto, dove ad esempio un 
+nuovo farmaco ne sostituisce uno precedente, che 
+era molto meno caro, migliorandone soltanto mar-
+[1] Oce fédéral de la 
+statistique (2023). Coûts du 
+système de santé depuis 
+1960. Période d’observa-
+tion 1960-2021. Tableaux. 
+Recuperato 8 ottobre 2023, 
+da: https://dam-api.bfs.
+admin.ch/hub/api/dam/
+assets/24525225/master 
+[2] Pianicazione integra-
+ta LAnz-LACD - DASF 
+(DSS)-Repubblica e Cantone 
+Ticino. (s.d.). Recuperato 8 
+ottobre 2023, da https://
+www4.ti.ch/dss/dasf/temi/
+anziani/pianicazione/
+pianicazione-integra-
+ta-lanz-lacd
+[3] Baumol, W.J, & Bowen 
+W.G. (1965). On the perfor-
+ming arts: the anatomy of 
+their economic problems. 
+American Economic Review, 
+55(1/2), 495-502.
+
+---
+
+14
+Finanziare i servizi  
+sanitari: un rompicapo 
+per la politica e la società
+questa spesa in Svizzera? E quali sono gli obiettivi 
+del sistema di nanziamento?
+Per descrivere la struttura del sistema di nanzia-
+mento, l’Ucio federale di statistica distingue tre 
+aspetti: le “fonti” del nanziamento (famiglie, Can-
+toni, Confederazione, Comuni, imprese), i “regimi” di 
+nanziamento e i fornitori di cura che ottengono i 
+compensi (i rimborsi) per i servizi che erogano[].
+Se guardiamo ai regimi di nanziamento nel 2021, 
+l’assicurazione malattie di base (LAMal) ha nanzia-
+to il 35.8% della spesa sanitaria totale, seguita dallo 
+Stato con il 23% (Cantoni, Confederazione e Co-
+muni), dalle economie domestiche con il 22.3% (per 
+le prestazioni non coperte dalla LAMal né da altre 
+assicurazioni sociali o private, per la franchigia e la 
+quota-parte previste dalla LAMal, ecc.), dalle altre 
+assicurazioni sociali con il 9% (assicurazioni infortuni, 
+invalidità, militare), dall’assicurazione complemen-
+tare con il 6.5%, da altre fonti minori con il 3.5%. 
+Si tratta dunque di un sistema di nanziamento 
+articolato, nel quale la LAMal assume un ruolo 
+preminente ma non maggioritario. Ed è un siste-
+ma di nanziamento che persegue più nalità:
+ ◆
+nanziare adeguatamente i fornitori di cure 
+(salari adeguati, remunerazione del capitale),
+ ◆
+favorire e premiare la qualità delle prestazioni,
+ ◆
+controllare l’appropriatezza clinica (cioè che 
+il sistema eroghi cure realmente utili) e orga-
+nizzativa (cioè che il sistema preferisca “set-
+ting” di cura economici, ad esempio il regime 
+ambulatoriale invece di quello stazionario, a 
+parità di ecacia clinica),
+ ◆
+garantire la sostenibilità del sistema nel tem-
+po (ad esempio nanziando la formazione di 
+un numero di operatori suciente a soddisfa-
+re i futuri bisogni sanitari della popolazione).
+A complicare ulteriormente tale quadro, è l’esigenza 
+che il sistema di nanziamento e il sistema sanita-
+rio nel suo complesso rispondano a principi di equità 
+nell’accesso ai servizi e nel loro nanziamento. Per 
+semplicità, equità nell’accesso signica che i servizi 
+devono essere messi a disposizione in base ai bisogni 
+sanitari degli individui e non in base alla loro capa-
+cità economica (né ad altre condizioni quali genere, 
+età, lingua e appartenenza etnica, luogo di residenza, 
+ecc.). Equità nel nanziamento signica prevedere 
+minori contributi da parte dei poveri rispetto ai ricchi, 
+secondo un principio di progressività.
+Le scelte della LAMal
+Come detto sopra, la Svizzera si avvale di più “regi-
+mi” per il nanziamento del sistema sanitario, con 
+il ruolo principale svolto dall’assicurazione LAMal 
+in vigore dal 1996. Si tratta di un sistema com-
+plesso, che risente profondamente della storia 
+precedente ma anche di elementi fondativi delle 
+istituzioni politiche e della cultura del nostro pa-
+ese: una tradizione e una cultura che riconoscono 
+un’importanza centrale alla responsabilità indi-
+viduale e alla libertà di commercio; e un sistema 
+politico-istituzionale fortemente decentrato, con 
+processi legislativi che riconoscono legittimità al 
+corporativismo, lasciano l’ultima parola alla volon-
+tà popolare grazie agli strumenti del referendum 
+obbligatorio o facoltativo.
+Sono questi gli elementi che spiegano origini e 
+sviluppo del sistema di nanziamento dei servizi 
+sanitari in Svizzera, a partire dalla LAMal e dalla sua 
+scelta – anch’essa frutto di un compromesso poli-
+tico – di avere premi che variano in base a regione 
+di residenza, genere ed età degli assicurati, livello 
+di franchigia e modello assicurativo, cassa malati 
+scelta, ma non in base al loro reddito e sostanza. 
+In ciò la LAMal rappresenta un unicum rispetto a 
+tutte le altre assicurazioni sociali svizzere.
+In presenza di premi LAMal elevati ma non ba-
+sati sul reddito, è chiaro che l’obiettivo di equi-
+tà del nanziamento resta non soddisfatto. A 
+correggere in parte tale situazione sono so-
+prattutto due leve: da una parte il sistema dei 
+cosiddetti sussidi di cassa malati (che nel 2020 
+son stati erogati per 2.9 miliardi di franchi dalla 
+Confederazione e per 2.6 miliardi dai Cantoni, 
+sgravando in tutto o in parte il 28% degli assicu-
+rati[5]), dall’altra i rimborsi diretti dei prestatori di 
+cura da parte dello Stato (in primo luogo il 55% 
+che gli ospedali fatturano al Cantone per le cure 
+stazionarie). Nonostante questi due correttivi, il 
+nanziamento del sistema sanitario resta pe-
+santemente iniquo e gravoso soprattutto per la 
+classe media. Lo stesso sistema dei sussidi è sot-
+to pressione crescente, nonostante i frequenti 
+aggiustamenti da parte dei Cantoni. I problemi 
+dei sussidi comprendono gli alti costi ammi-
+nistrativi dovuti al trattamento di un numero 
+molto elevato di dossier, gli inevitabili eetti 
+soglia che tali sistemi creano (piccole dierenze 
+di reddito tra famiglie possono accompagnarsi 
+a grandi dierenze nei sussidi che esse ricevo-
+no), la dicoltà di denire sistemi che trattino in 
+modo “equo” le diverse tipologie di famiglie (es. 
+le coppie senza gli rispetto alle famiglie mo-
+noparentali), le profonde dierenze tra Cantoni 
+(per quota di popolazione sussidiata, importo 
+medio dei sussidi, processi amministrativi per 
+richiesta e decisione, ecc.)[6].
+[] Oce fédéral de la 
+statistique. (2023, aprile 
+25). Coût et nancement 
+du système de santé-2021. 
+Diagramme. OFS. https://
+www.bfs.admin.ch/asset/
+fr/24925855
+[5] Consiglio Federale della 
+Confederazione Svizzera 
+(2021). Messaggio concer-
+nente l’iniziativa popolare «Al 
+massimo il 10 per cento del 
+reddito per i premi delle casse 
+malati (Iniziativa per premi 
+meno onerosi)» e il contro-
+progetto indiretto (modica 
+della legge sull’assicurazione 
+malattie). Recuperato 8 
+ottobre 2023 da https://
+www.fedlex.admin.ch/eli/
+fga/2021/2383/it 
+[6] Ecoplan. (2022). Wirk-
+samkeit der Prämienverbilligung 
+– Monitoring 2020. Im Auftrag 
+des Bundesamtes für Gesun-
+dheit (BAG). Ecoplan AG.  
+Recuperato 8 ottobre 
+2023 da https://www.bag.
+admin.ch/dam/bag/de/
+dokumente/kuv-aufsicht/
+bakv/pramienverbilligung/
+praemienverbilligung-nive-
+au6/monitoring-2020-wir-
+ksamkeit-pv.pdf.download.
+pdf/monitoring-2020-wir-
+ksamkeit-pv.pdf
+
+---
+
+15
+15
+Il dibattito politico attuale
+A ne settembre 2023, l’annuncio di forti aumenti 
+dei premi LAMal per il 2024 (in media +8.7% a li-
+vello nazionale e +10.5% per il Ticino) ha riacceso 
+il dibattito.
+Il Consiglio federale ha ribadito la grande dicol-
+tà di far passare misure di risparmio presso le due 
+camere federali. Il Consiglio di Stato ticinese ha 
+lamentato gli scarsi spazi di azione a sua disposi-
+zione consentiti dalle basi legali federali. Gli assicu-
+ratori malattia hanno ribadito la loro necessità di 
+adeguare i premi all’aumento dei costi.
+Dal canto loro, i partiti politici – soprattutto in Can-
+ton Ticino – hanno chiesto che nell’immediato la 
+Confederazione aumenti il proprio nanziamento 
+per il sistema dei sussidi, in modo da “neutralizzare” 
+l’aumento dei premi. Gli stessi partiti si sono però 
+mostrati molto meno d’accordo rispetto alle rifor-
+me per rallentare l’aumento della spesa nel medio 
+periodo. Grosso modo, i partiti di destra sembrano 
+orientarsi verso una riduzione della copertura oer-
+ta dalla LAMal (giudicata troppo ampia e onerosa) 
+ed eventualmente verso un aumento generalizzato 
+della franchigia (per far leva sulla responsabilità in-
+dividuale). I partiti di sinistra puntano invece su un 
+aumento strutturale dei sussidi in modo che i premi 
+netti pagati dalle famiglie non superino il 10% del 
+loro reddito disponibile e, nel medio periodo, pun-
+tano a una cassa malati unica pubblica con pre-
+mi basati sul reddito. In Ticino, colpito duramente 
+dall’aumento dei premi, l’ipotesi della cassa malati 
+unica è stata sostenuta da numerosi esponenti po-
+litici, anche di centro-destra.
+Alcune prospettive conclusive
+Come detto in precedenza, in assenza di shock eco-
+nomici o politici maggiori, la spesa sanitaria è desti-
+nata ad aumentare. Il rapido invecchiamento della 
+popolazione previsto per i prossimi anni richiederà 
+maggiori volumi di servizi, come ben esemplicato 
+nella recente pianicazione integrata per anziani e 
+cure a domicilio[2]. Allo stesso modo, per molti servizi 
+sanitari – soprattutto quelli di assistenza agli anzia-
+ni – è dicile immaginare processi di automazione 
+capaci di generare alti guadagni di produttività del 
+lavoro socio-sanitario. Si tratta dunque di due fattori 
+di aumento della spesa che, con tutta probabilità, si 
+manterranno vigorosi anche in futuro.
+Qualche margine di azione in più è possibile nel 
+controllare il progresso tecnologico (attraverso 
+una inclusione più prudente dell’innovazione me-
+dica tra le prestazioni rimborsate dalla LAMal) e 
+nel limitare le aspettative crescenti da parte della 
+popolazione. Ma è chiaro che tali limitazioni sono 
+dicili da un punto di vista tecnico e, ancor più, 
+politico, in quanto percepite come azioni di “razio-
+namento” delle cure.
+Accanto a questi quattro fattori di aumento del-
+la spesa sanitaria, che avevamo già introdotto nel 
+primo paragrafo, ci sono poi ulteriori elementi che 
+potrebbero spingere ancora tale spesa. Si pensi all’i-
+niziativa popolare “Per cure infermieristiche forti 
+(Iniziativa sulle cure infermieristiche)” accettata nel 
+2021, che chiede condizioni di lavoro e retributive 
+migliori per il personale di cura[7]. Oppure si pen-
+si alla volontà – da parte di tutte le forze politiche, 
+della Confederazione e dei Cantoni – di ridurre la 
+dipendenza del sistema sanitario svizzero dall’im-
+migrazione di professionisti sanitari formati all’e-
+stero: è chiaro che una maggiore “autosucienza” 
+del nostro paese richiederebbe importanti investi-
+menti e dunque maggiore spesa in formazione.
+Per tutte le ragioni sopra esposte, il sistema sani-
+tario continuerà ad espandersi e con esso la sua 
+spesa. Al di là dei pur necessari tentativi di rallen-
+tare tale spesa, le vere sde attorno al nanzia-
+mento non riguardano tanto la sua sostenibilità 
+in relazione alle possibilità economiche del paese, 
+quanto il concetto chiave della solidarietà lun-
+go i due assi sano–malato e ricco–povero[8]. Su 
+entrambi gli assi in futuro avremo bisogno di più 
+solidarietà (e dunque redistribuzione nanziaria) 
+di oggi. Sull’asse sani–malati, i progressi della me-
+dicina tendono a concentrare costi molto alti su 
+pochi individui (es. per terapie farmaceutiche ad 
+alto costo), che dunque necessitano della solida-
+rietà nanziaria di molte persone. D’altro canto, 
+le malattie croniche rendono in buona parte pre-
+vedibili in anticipo le spese sanitarie del loro trat-
+tamento, eliminando il concetto di “rischio” tipico 
+dei meccanismi assicurativi. Sull’asse ricchi–po-
+veri, l’aumento della spesa rispetto al PIL richiede 
+un contributo nanziario crescente da parte delle 
+persone più abbienti.
+La necessità di ottenere questa solidarietà lungo 
+i due assi suddetti – da parte dei sani e dei ricchi 
+– è la condizione centrale della sostenibilità -
+nanziaria di un sistema sanitario che si voglia so-
+ciale. D’altro canto, proprio sugli stessi due assi il 
+meccanismo assicurativo LAMal (compresi i sus-
+sidi) mostra dicoltà evidenti e sempre più gravi. 
+Come “aggiustare” in profondità la LAMal, o come 
+sostituire l’attuale sistema, rappresenta una sda 
+tutt’altro che semplice, ma che la politica – col 
+fondamentale contributo della ricerca – è chia-
+mata con urgenza ad arontare.
+Carlo De Pietro
+[7] Ucio Federale della 
+Sanità Pubblica UFSP. 
+(2023). Attuazione dell’inizia-
+tiva sulle cure infermieristiche 
+(Art. 117b Cost). Recuperato 
+8 ottobre 2023, da https://
+www.bag.admin.ch/bag/it/
+home/berufe-im-gesun-
+dheitswesen/gesundheit-
+sberufe-der-tertiaerstufe/
+vi-pegeinitiative.html 
+[8] De Pietro, C. (2020). Un 
+rôle qui s’aaiblit? Primary 
+and Hospital Care – Médec-
+ine Interne Générale, 20(10), 
+314–317. https://phc.swis-
+shealthweb.ch/de/article/
+doi/phc-d.2020.10272

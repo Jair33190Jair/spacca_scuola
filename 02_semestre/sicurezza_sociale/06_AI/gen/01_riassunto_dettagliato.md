@@ -179,9 +179,19 @@ Grado di invalidità = (Perdita di guadagno / Reddito senza invalidità) × 100
 | Grado di invalidità | Rendita |
 |---|---|
 | < 40% | Nessuna rendita AI |
-| 40–49% | Quota proporzionale secondo tabella graduata |
+| 40–49% | Quota proporzionale secondo tabella graduata (vedi sotto) |
 | 50–69% | Rendita = % corrispondente al grado (es. 55% → 55% di una rendita intera) |
 | ≥ 70% | Rendita intera |
+
+<span class="c-warn">Per il grado 40–49%, la quota non è lineare ma segue una tabella specifica — utile saperlo per l'esame:</span>
+
+| Grado | Quota rendita | Grado | Quota rendita |
+|---|---|---|---|
+| 40% | 25% | 45% | 37,5% |
+| 41% | 27,5% | 46% | 40% |
+| 42% | 30% | 47% | 42,5% |
+| 43% | 32,5% | 48% | 45% |
+| 44% | 35% | 49% | 47,5% |
 
 La rendita intera varia tra <span class="c-dato">**CHF 1'260 e CHF 2'520 al mese**</span> (scala 44, dal 1° gennaio 2025), in base al reddito medio determinante.
 
@@ -203,9 +213,17 @@ La rendita intera varia tra <span class="c-dato">**CHF 1'260 e CHF 2'520 al mese
 
 ### Casi particolari
 
-**Persone senza attività lucrativa:** il grado di invalidità si calcola con un "confronto delle attività" — valutazione di quanto l'invalidità incide nelle attività domestiche quotidiane. <span class="c-impl">Qui è importante la presenza di operatori sociali durante la valutazione.</span>
+**Persone senza attività lucrativa:** il grado di invalidità si calcola con un "confronto delle attività" — valutazione di quanto l'invalidità incide nelle attività domestiche quotidiane. Per chi ha un'occupazione parziale, il calcolo tiene conto di entrambi i settori: perdita di guadagno + confronto delle attività domestiche. <span class="c-impl">Qui è importante la presenza di operatori sociali durante la valutazione.</span>
 
 <span class="c-dato">**Invalidi precoci (prima dei 23 anni):**</span> se non hanno accumulato 3 anni di contributi, hanno diritto a una **rendita straordinaria** di <span class="c-dato">CHF 1'680/mese</span>. Possono cumularla con rendite per figli.
+
+<span class="c-dato">**Invalidi precoci (prima dei 25 anni) con contribuzione completa:**</span> chi è diventato invalido prima dei 25 anni e ha una durata completa di contribuzione ha diritto a una rendita AI pari almeno al 133⅓% dell'importo minimo della rendita completa.
+
+### Chi riceve la rendita AI in Svizzera
+
+<span class="c-dato">Più di **220'000 persone**</span> beneficiano di una rendita AI in Svizzera. Di queste, oltre <span class="c-dato">**100'000 per cause psichiche**</span> — un numero in crescita, soprattutto nelle fasce giovani. Le malattie psichiche (burnout, depressione, disturbi d'ansia) sono diventate la prima causa di invalidità.
+
+<span class="c-impl">Per voi come operatori sociali: sempre più giovani entrano in procedura AI prima dei 25 anni. Conoscere le rendite straordinarie e i provvedimenti di integrazione precoce è fondamentale.</span>
 
 **Possibilità di ricorso:** qualsiasi decisione dell'AI può essere impugnata davanti al Tribunale delle assicurazioni sociali. Il ricorso può riguardare: ammontare della rendita, riconoscimento di una malattia psichica come causa d'invalidità, diniego di prestazioni di integrazione. <span class="c-warn">Ma il percorso è lungo, costoso e non garantisce esito positivo.</span>
 
