@@ -15,8 +15,7 @@ anche un'**ampia panoramica** di materia.
 - Python 3.9+
 - Node.js (per Claude Code CLI)
 - Tesseract OCR + Poppler (per estrarre testo dai PDF)
-- Claude Code CLI (nessuna API key richiesta: basta l'account
-  Claude usato da `claude`)
+- Claude Code CLI oppure Codex CLI
 
 ## Installazione
 
@@ -71,7 +70,7 @@ Metti tutto nella cartella `risorse/` della lezione:
 Per una nuova materia, copia `02_semestre/template_materia/`
 come punto di partenza.
 
-### 2. Genera i riassunti con Claude Code
+### 2. Genera i riassunti con Claude Code o Codex
 
 Apri Claude Code dalla root del progetto:
 
@@ -85,11 +84,19 @@ Poi usa la skill:
 /genera-riassunti 02_semestre/<materia>/<NN>_<lezione>
 ```
 
+Con Codex, avvia `codex` dalla stessa directory e usa:
+
+```
+$genera-riassunti 02_semestre/<materia>/<NN>_<lezione>
+```
+
 Per tutta la materia (operazione più lunga, richiede il flag):
 
 ```
-/genera-riassunti 02_semestre/<materia> forza
+/genera-riassunti 02_semestre/<materia> super-forza
 ```
+
+In Codex usa lo stesso percorso con `$genera-riassunti`.
 
 La skill fa in automatico:
 

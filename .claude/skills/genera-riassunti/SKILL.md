@@ -4,9 +4,11 @@ description: Genera i 3 riassunti (dettagliato, breve, schematico) per una lezio
 argument-hint: <semestre/materia> | <semestre/materia/lezione> [super-forza]
 ---
 
-## Parsing degli argomenti
+## Input del workflow
 
-`$ARGUMENTS` può terminare con un flag opzionale separato da spazio.
+In Claude Code, l'input è disponibile come `$ARGUMENTS`.
+In Codex, è il testo che segue `$genera-riassunti`.
+L'input può terminare con un flag opzionale separato da spazio.
 
 - Estrai il **path** come tutto ciò che precede il flag finale.
 - Il flag è valido solo se è esattamente l'ultima parola.
@@ -33,7 +35,7 @@ Il path ha sempre questa struttura:
 
 ### 1. Controlla file esistenti
 
-Usa `Bash ls` (non Glob) per verificare se `<path>/gen/`
+Usa `ls` (non un glob dello strumento) per verificare se `<path>/gen/`
 contiene file generati (uno qualsiasi tra
 `01_`, `02_`, `03_riassunto_*.md`).
 
@@ -119,6 +121,8 @@ istruzioni (con il percorso lezione già risolto):
 - Leggi `ai_assistant/ai_context.md`
 - Leggi `ai_assistant/profilo_studente.md`
 - Leggi tutte le risorse in `<percorso-lezione-risolto>/risorse/`
+- Segui `ai_assistant/ai_guide/00_indice.md`
+  → scrivi `<percorso-lezione-risolto>/gen/00_indice.md`
 - Segui `ai_assistant/ai_guide/01_riassunto_dettagliato.md`
   → scrivi `<percorso-lezione-risolto>/gen/01_riassunto_dettagliato.md`
 - Segui `ai_assistant/ai_guide/02_riassunto_breve.md`

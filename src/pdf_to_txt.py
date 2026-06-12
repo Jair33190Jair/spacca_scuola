@@ -36,17 +36,43 @@ def extract_direct_text(page: fitz.Page) -> str:
     return page.get_text("text").strip()
 
 
+def auto_rotate_image(img: Image.Image) -> tuple[Image.Image, int]:
+    """Detect and correct image rotation using Tesseract OSD."""
+    try:
+        import pytesseract
+        osd = pytesseract.image_to_osd(img, output_type=pytesseract.Output.DICT)
+        angle = osd.get("rotate", 0)
+        if angle != 0:
+            return img.rotate(-angle, expand=True), angle
+    except Exception:
+        pass
+    return img, 0
+
+
+def is_low_quality(text: str) -> bool:
+    """Return True if extracted text looks garbled."""
+    words = text.split()
+    if len(words) < 30:
+        return True
+    total = len(text)
+    if total == 0:
+        return True
+    garbage = sum(
+        1 for c in text
+        if not (c.isalnum() or c.isspace())
+    )
+    return (garbage / total) > 0.25
+
+
 def extract_ocr_text(
     pdf_path: str,
     page_number: int,
     dpi: int,
-) -> str:
+) -> tuple[str, int]:
     """
-    Convert a single page to an image
-    and apply Tesseract OCR.
+    Convert a single page to an image and apply Tesseract OCR.
+    Returns (text, rotation_angle_applied).
     """
-    # Lazy import: avoids a crash if Tesseract
-    # is not installed and is not needed.
     from pdf2image import convert_from_path
     import pytesseract
 
@@ -57,12 +83,11 @@ def extract_ocr_text(
         dpi=dpi,
     )
     if not images:
-        return ""
+        return "", 0
 
-    return pytesseract.image_to_string(
-        images[0],
-        lang="ita",
-    ).strip()
+    img, angle = auto_rotate_image(images[0])
+    text = pytesseract.image_to_string(img, lang="ita").strip()
+    return text, angle
 
 
 def check_tesseract() -> bool:
@@ -79,6 +104,8 @@ def extract_pdf(pdf_path: str, dpi: int = 300) -> str:
     """
     doc = fitz.open(pdf_path)
     result = []
+    rotated_pages = []
+    low_quality_pages = []
 
     for i, page in enumerate(doc):
         page_num = i + 1
@@ -89,6 +116,9 @@ def extract_pdf(pdf_path: str, dpi: int = 300) -> str:
                 f"  Page {page_num}/{len(doc)}: "
                 f"direct text ({len(text)} characters)"
             )
+            if is_low_quality(text):
+                low_quality_pages.append(page_num)
+                print(f"  Page {page_num}: ⚠ low quality")
             result.append(text)
             continue
 
@@ -108,10 +138,24 @@ def extract_pdf(pdf_path: str, dpi: int = 300) -> str:
             f"  Page {page_num}/{len(doc)}: "
             f"OCR (Tesseract, {dpi} DPI)..."
         )
-        ocr_text = extract_ocr_text(pdf_path, page_num, dpi)
+        ocr_text, angle = extract_ocr_text(pdf_path, page_num, dpi)
+        if angle != 0:
+            rotated_pages.append(page_num)
+            print(f"  Page {page_num}: rotated {angle}° before OCR")
+        if is_low_quality(ocr_text):
+            low_quality_pages.append(page_num)
+            print(f"  Page {page_num}: ⚠ low quality after OCR")
         result.append(ocr_text)
 
     doc.close()
+
+    if rotated_pages:
+        pages = ", ".join(str(p) for p in rotated_pages)
+        print(f"\n⚠  {len(rotated_pages)} page(s) auto-rotated (pages: {pages})")
+    if low_quality_pages:
+        pages = ", ".join(str(p) for p in low_quality_pages)
+        print(f"⚠  {len(low_quality_pages)} page(s) low quality after extraction (pages: {pages}) — review manually")
+
     return "\n\n---\n\n".join(result)
 
 
@@ -140,6 +184,7 @@ def main():
 
     print(f"Processing: {pdf_path}")
     extracted_text = extract_pdf(str(pdf_path), dpi=args.dpi)
+    extracted_text = f"[FONTE: {pdf_path.name}]\n\n{extracted_text}"
     output_path = pdf_path.with_suffix(".txt")
     output_path.write_text(extracted_text, encoding="utf-8")
     print(f"Saved: {output_path}")
