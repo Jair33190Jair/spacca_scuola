@@ -1,5 +1,3 @@
-# Introduzione al modulo di Salute Mentale
-
 <!-- LEGENDA COLORI
   🔵 c-def  → Definizione / concetto chiave
   🟢 c-tesi → Tesi / argomento centrale
@@ -9,428 +7,295 @@
   🔴 c-warn → Attenzione / eccezione
 -->
 
-Salute Mentale · Sessione 01 · 18.02.2026
+# Introduzione al modulo di Salute mentale
+Salute mentale · Sessione 01 · 18.02.2026
 
-> Questa prima lezione mette sul tavolo le fondamenta
-> di tutto il modulo: che cos'è davvero la salute?
-> Cos'è il benessere? E la normalità? Spoiler: nessuna
-> di queste domande ha una risposta semplice — e
-> proprio da qui parte il bello. Si parla anche della
-> tragedia greca come strumento per avvicinarsi alla
-> sofferenza umana. Roba potente, vedrai.
+> Questa lezione costruisce le fondamenta del modulo: distingue salute, benessere e normalità, mostra quanto il linguaggio condizioni lo sguardo sulla sofferenza psichica e chiarisce quale posizione può assumere una persona davanti alla malattia. Per il lavoro sociale, capire queste distinzioni significa evitare etichette facili e accompagnare la persona nella sua interezza.
 
----
+## Struttura e orientamento del modulo
 
-## Il modulo: struttura e filosofia
+Il modulo affronta il **patire**, il disagio e le sofferenze psichiche che l'operatore sociale incontrerà nei diversi ambiti professionali. L'approccio deriva dalla scuola fenomenologica e si organizza in tre tappe:
 
-Il modulo di Salute Mentale si articola su **tre
-tappe fondanti**, ispirate alla scuola fenomenologica:
+1. **Clinica**: incontro con chi soffre, concetti di salute e malattia, normalità e patologia, empatia e meccanismi di difesa.
+2. **Mondo**: funzioni psichiche e loro alterazioni, poi descrizione nosografica di sindromi affettive e ansiose, disturbi di personalità, nevrosi e psicosi.
+3. **Corpo**: corpo come luogo ed espressione della sofferenza, con temi quali aggressività, violenza, anoressia-bulimia, sessualità e alessitimia.
 
-1. **La clinica** — l'universo dell'incontro con
-   chi soffre. Si esplorano i concetti di salute
-   e malattia, normalità e patologia, l'incontro
-   empatico con l'altro e i meccanismi di difesa.
-2. **Il mondo** — le funzioni psichiche e le loro
-   alterazioni (coscienza, percezione, pensiero,
-   affettività...), per poi passare alla dimensione
-   nosografica: sindromi affettive, ansiose, nevrosi,
-   disturbi di personalità, psicosi.
-3. **Il corpo** — teatro della sofferenza: violenza,
-   aggressività, anoressico-bulimiche,
-   sessualità come luogo di disagio, alessitimia.
+Le tre tappe sono attraversate da quattro dimensioni esistenziali: **spazio**, **tempo**, **identità** e **incontro**. La relazione nasce solo dopo un incontro reale con l'altro; il suo mondo e la sua esperienza modificano il modo in cui vive spazio, tempo, corpo e identità.
 
-Queste tre tappe sono attraversate da quattro
-dimensioni esistenziali: **spazio, tempo, identità
-e incontro**. La clinica va calata in uno spazio
-e in un tempo, l'identità va declinata nella
-relazione, e prima della relazione viene l'incontro
-— senza il quale la relazione non sussiste.
+<span class="c-tesi">L'operatore sociale agisce come **trait d'union** tra discipline specialistiche: non deve sostituirsi al clinico, ma conoscere il linguaggio psicopatologico e possedere competenze relazionali per evitare che la persona venga frammentata in singoli problemi.</span>
 
-<span class="c-tesi">Il prof sottolinea un punto chiave: l'operatore
-sociale non è un tecnico di una sola disciplina,
-ma un **trait d'union** tra le specializzazioni.
-Per questo serve una conoscenza delle aree
-psicopatologiche — non per fare diagnosi, ma per
-comunicare con le altre figure professionali e
-per accompagnare la persona nella sua interezza.</span>
+### Che cosa significa "clinica"
 
-Vale la pena fermarsi sulla parola **clinica**:
-viene dal greco *klinein*, "chinarsi". <span class="c-def">La clinica
-è, radicalmente, l'atto di chinarsi sul letto
-— reale o metaforico — di chi soffre. È un atto
-di umiltà e premura verso l'altro nella sua
-condizione di *patente* (chi porta su di sé il
-proprio patire). Questa etimologia non è un
-dettaglio: definisce l'approccio di tutto il modulo.
-(<span class="c-dato">Callieri & C., 1999)</span></span>
+**Clinica** deriva dal greco *klinein*, "chinarsi". Indica il chinarsi sul letto reale o metaforico di chi soffre, con umiltà e premura. Il curante, in questa prospettiva, non è soltanto il medico: è chiunque si prende cura della persona che porta su di sé il proprio patire.
 
----
+<span class="c-impl">La formula importante è **presa in cura**, non semplice "presa in carico": al centro resta una persona con cui si costruisce un incontro, non un caso da amministrare.</span>
 
-## Salute, benessere, normalità: tre concetti da non confondere
+## Salute, benessere e normalità
 
-<span class="c-tesi">Uno dei messaggi centrali della lezione: **salute,
-benessere e normalità sono tre cose diverse** che
-spesso vengono confuse o sovrapposte. Vediamole
-una per una.</span>
+I tre concetti vengono spesso sovrapposti, ma indicano piani differenti:
 
-### Salute: più complessa di quanto sembra
+| Concetto | Domanda centrale | Piano prevalente |
+|---|---|---|
+| **Salute** | Come funziona la persona e quali potenzialità possiede? | Funzionale e biomedico |
+| **Benessere** | Come si sente la persona nella propria vita? | Soggettivo e multidimensionale |
+| **Normalità** | Quanto la persona è conforme a una media, un ideale o il proprio funzionamento abituale? | Statistico, culturale e personale |
 
-Il prof parte da una domanda semplice: "Chi di voi
-sta bene?" Poi mostra quanto sia difficile rispondere.
-Due paradigmi diversi: puoi andare a fare gli esami
-del sangue e la TAC (approccio biomedico, *disease*),
-oppure puoi rispondere "mi sento bene" senza nessun
-esame (approccio soggettivo, *illness*). Non sono la
-stessa cosa.
+<span class="c-warn">Essere fuori dalla norma non significa automaticamente essere malati; essere in salute non garantisce il benessere; sentirsi bene non esclude una malattia.</span>
 
-Introduce il lavoro di <span class="c-dato">**Christopher Boorse (1977)**,
-che nel suo articolo ha tentato di definire la salute
-esaminando sette possibili condizioni — dimostrando
-che **nessuna da sola regge**:</span>
+Un'immagine utile è quella di una pianta: la salute riguarda anche le sue funzioni vitali, il benessere riguarda le condizioni complessive in cui riesce a vivere, mentre la normalità dipende dal confronto scelto. Una pianta insolita non è per questo malata.
 
-| Condizione                                      | Perché non basta                                                                                                                     |
-| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Salute come valore**                    | Non tutto ciò che è desiderabile è salute; ci sono contesti dove non essere in salute può essere preferibile (es. durante guerre) |
-| **Malattia come ciò che il medico cura** | La medicina ha "colonizzato" ambiti non patologici (gravidanza, adolescenza); molte malattie non vengono trattate                     |
-| **Salute come norma statistica**          | Fuori dalla media ≠ malattia (l'omosessualità è stata classificata come patologia a lungo)                                         |
-| **Malattia come sofferenza**              | Malattie asintomatiche e dolori normali (ciclo mestruale, coliche neonatali, dentizione)                                              |
-| **Malattia come disabilità**             | Tutti attraversiamo fasi di "non abilità" (un neonato non cammina, ma non è malato)                                                 |
-| **Salute come adattamento**               | L'essere umano adatta anche l'ambiente a sé. Pensate alle neurodivergenze: a volte è l'ambiente che va cambiato                     |
-| **Salute come omeostasi**                 | Il funzionamento umano si basa su un continuo perdere e riacquistare equilibrio. L'equilibrio statico è rigidità                    |
+## Disease, illness e sickness
 
-L'ultimo punto merita attenzione. <span class="c-tesi">Il prof insiste:
-**l'equilibrio statico non è salute, è rigidità**.
-La metafora è bellissima: camminare richiede di
-rompere continuamente l'equilibrio. Per fare un
-passo devi sbilancarti. La vita è movimento, e il
-movimento richiede di perdere e ritrovare l'equilibrio.
-"Le persone troppo equilibrate sono spesso molto
-rigide, poco disposte a rischiare."</span>
+La lingua inglese distingue tre dimensioni che in italiano tendono a confondersi:
 
-> *"Non c'è movimento senza perdere l'equilibrio,
-> e siccome la vita è costante movimento, occorre
-> mettersi nell'ottica di capire e accompagnare
-> la perdita e la riconquista dell'equilibrio —
-> non impedirla."*
-> — Il professore
+- <span class="c-def">**Disease**: condizione biomedica certificabile e misurabile attraverso segni, esami e parametri clinici.</span>
+- <span class="c-def">**Illness**: esperienza soggettiva della malattia, cioè come la persona vive e interpreta ciò che le accade.</span>
+- <span class="c-def">**Sickness**: riconoscimento sociale della condizione e ruolo attribuito alla persona malata, compresi etichettamento e stigma.</span>
 
-### La triade anglosassone: disease, illness, sickness
+Le tre dimensioni possono presentarsi insieme oppure separatamente. Una persona può avere una *disease* senza avvertire sintomi; può sentirsi male senza una certificazione clinica; può ricevere un'etichetta sociale anche quando le altre due dimensioni non sono riconosciute.
 
-Per ordinare le idee sulla salute, il prof introduce
-la distinzione in tre dimensioni:
+<span class="c-tesi">Per il lavoro sociale la *sickness* è decisiva: il giudizio della società può offrire riconoscimento e accesso all'aiuto, ma può anche trasformarsi in stigma, colpevolizzazione ed esclusione.</span>
 
-- <span class="c-def">**Disease** — la malattia in senso biomedico,
-  misurabile (esami, parametri clinici)
-- <span class="c-def">**Illness** — il vissuto soggettivo: come la
-  persona *si sente*
-- <span class="c-def">**Sickness** — la dimensione sociale: come la
-  società riconosce (o stigmatizza) quella condizione</span></span></span>
+## La salute secondo Christopher Boorse
 
-<span class="c-impl">Queste tre dimensioni **possono non coincidere**.
-Una malattia può essere tale per il medico (disease)
-ma non vissuta come tale dal soggetto (illness),
-oppure può essere vista dalla società come un vizio
-(sickness negativa) anche se è una malattia vera.</span>
+Nel testo <span class="c-dato">*Health as a Theoretical Concept* (1977)</span>, **Christopher Boorse** analizza sette idee comunemente usate per definire salute e malattia. Nessuna, presa da sola, è una condizione necessaria e sufficiente.
 
-<span class="c-warn">Questo è importante per il lavoro sociale: lo sguardo
-della società su una condizione ha effetti reali sul
-benessere della persona. Se hai una malattia che viene
-giudicata come "vizio" o "colpa", la stigmatizzazione
-peggiora tutto.</span>
+| Criterio | Perché non basta |
+|---|---|
+| **Salute come valore** | Ciò che è desiderabile varia tra persone, culture e situazioni; in guerra, per esempio, non essere idonei può evitare il fronte. |
+| **Malattia come ciò che il medico tratta** | Non tutte le malattie vengono trattate e la medicina interviene anche in condizioni non patologiche, come gravidanza e adolescenza. |
+| **Salute come norma statistica** | Frequente non equivale a sano e raro non equivale a malato; l'omosessualità mostra i rischi storici di questa equivalenza. |
+| **Malattia come disagio o sofferenza** | Esistono malattie asintomatiche e dolori fisiologici, come dentizione, mestruazioni o fatica muscolare. |
+| **Malattia come disabilità** | Una funzione assente o ridotta non indica sempre malattia: il neonato non cammina e durante il sonno molte abilità non vengono esercitate. |
+| **Salute come adattamento all'ambiente** | L'essere umano modifica anche l'ambiente; nelle disabilità e neurodivergenze può essere il contesto a dover diventare accessibile. |
+| **Salute come omeostasi** | Molte funzioni vitali rompono l'equilibrio: crescita, riproduzione, percezione e locomozione. |
 
----
+### Equilibrio come processo
 
-## Il benessere: un concetto multidimensionale
+Il docente insiste sul limite dell'equilibrio statico. Per camminare bisogna perdere e ritrovare continuamente l'equilibrio; allo stesso modo, vivere e crescere richiede trasformazioni.
 
-**Salute e benessere non coincidono.** Il prof porta
-l'esempio di <span class="c-es">**Tiziano Terzani** e del suo libro
-*L'ultimo giro di giostra*: un giornalista gravemente
-malato di cancro che attraverso la malattia ha trovato
-una pace e una ricchezza interiore che non aveva quando
-stava "bene". Paradossale? No, profondamente umano.</span>
+<span class="c-tesi">La salute non è immobilità perfetta, ma capacità di attraversare squilibri e riorganizzarsi. Un equilibrio incapace di cambiare diventa rigidità.</span>
 
-Il benessere è un concetto **polisemico e
-multidimensionale**. <span class="c-dato">**Carol Ryff** è una psicologa
-che ha risposto alla domanda: "Quando diciamo che
-una persona sta bene, di *cosa* esattamente stiamo
-parlando?" La risposta: di sei dimensioni distinte.</span>
+## Il benessere e le sue variabili
 
-| Dimensione                       | Cosa significa in concreto                                                              |
-| -------------------------------- | --------------------------------------------------------------------------------------- |
-| **Autonomia**              | Capacità di determinarsi senza dipendere dagli altri per le proprie scelte             |
-| **Controllo ambientale**   | Capacità di cogliere, sfruttare e valorizzare le risorse e le possibilità disponibili |
-| **Relazioni positive**     | Avere relazioni calde, fiduciose, contraddistinte da affetto e reciprocità             |
-| **Autoaccettazione**       | Consapevolezza delle proprie qualità e limiti, senza negare né l'uno né l'altro      |
-| **Percezione di crescita** | Sentire che la propria vita è un processo continuo di sviluppo                         |
-| **Scopo nella vita**       | Avere mete, riuscire a dare senso a ciò che si fa                                      |
+La salute è importante per la qualità della vita, ma non la produce automaticamente. Il manuale ricorda che persone con malattie croniche possono ritrovare senso, desideri e relazioni profonde; al contrario, una persona clinicamente sana può vivere senza soddisfazione.
 
-<span class="c-tesi">Questo modello è prezioso per l'operatore sociale
-perché rende il lavoro sul benessere **concreto**.
-Invece di un generico "lavoro per il benessere",
-puoi esplorare *quale* dimensione è più critica
-e intervenire lì.</span>
+<span class="c-es">Il docente cita Tiziano Terzani e *Un altro giro di giostra*: la malattia può mettere in crisi la vita, ma anche cambiare il peso attribuito alle cose e aprire una diversa esperienza di benessere.</span>
 
----
+### Le sei dimensioni di Carol Ryff
 
-## La normalità: quale normalità?
+Secondo **Carol Ryff**, il benessere psicologico comprende sei componenti:
 
-Il prof introduce tre tipi di normalità — tutti
-rilevanti per il lavoro con le persone.
+| Dimensione | Significato |
+|---|---|
+| **Autoaccettazione** | Avere un atteggiamento positivo verso di sé, riconoscendo qualità, limiti e percorso di vita. |
+| **Relazioni positive** | Vivere rapporti caratterizzati da fiducia, calore, affetto, intimità e reciprocità. |
+| **Autonomia** | Regolarsi in modo indipendente senza dipendere interamente da pressioni e aspettative sociali. |
+| **Controllo ambientale** | Riconoscere e valorizzare opportunità e risorse presenti nell'ambiente. |
+| **Percezione di crescita** | Leggere la propria vita come sviluppo continuo e apertura al cambiamento. |
+| **Scopo nella vita** | Avere mete e attribuire significato alle proprie azioni e ai propri sacrifici. |
 
-### 1. Norma statistica
+<span class="c-impl">Il modello rende operativo il lavoro sul benessere: invece di chiedere soltanto "stai bene?", l'operatore può esplorare quale dimensione è fragile e quali risorse possono essere attivate.</span>
 
-<span class="c-def">La "normalità" come conformità alla media della
-popolazione. <span class="c-warn">Sembra neutro, ma non lo è: essere
-fuori dalla norma statistica può provocare stigma,
-isolamento, discriminazione. L'omosessualità è stata
-a lungo classificata come patologia proprio su base
-statistica — e solo quando la comunità scientifica
-ha cambiato i criteri ne è uscita.</span></span>
+### Dal benessere alla malattia mentale
 
-### 2. Norma di valore (ideale)
+Fulcheri descrive un continuum dinamico, con possibili passaggi e reversibilità:
 
-Uno standard ideale che si pone come riferimento.
-<span class="c-warn">**Attenzione**: la norma ideale incide anche sugli
-operatori. Abbiamo ideali su come dovrebbe essere
-un utente, come dovrebbe comportarsi, cosa dovrebbe
-raggiungere. Se quella norma ideale diventa il metro
-di lavoro, rischia di diventare penalizzante per
-la relazione.</span>
+| Condizione | Elementi principali |
+|---|---|
+| **Benessere psichico** | Bisogni sufficientemente soddisfatti, qualità di vita positiva, accettazione della propria condizione. |
+| **Disagio psichico** | Inquietudine, frustrazione, tristezza o aggressività legate a difficoltà; non vi sono ancora sintomi specifici. |
+| **Malessere psichico** | Sofferenza più intensa e consapevolezza di non stare bene, anche con stanchezza, tensione o sensazioni corporee. |
+| **Disturbo psichico** | La sofferenza non trova soluzione, è intensa e si accompagna a sintomi clinici e alterazioni del comportamento. |
+| **Malattia mentale** | Le alterazioni mentali e comportamentali persistono nel tempo e si stabilizzano. |
 
-### 3. Norma personale (individuale)
+<span class="c-warn">Queste categorie aiutano a orientarsi, ma non autorizzano diagnosi automatiche: intensità, durata, contesto, compromissione della vita e vissuto soggettivo vanno considerati insieme.</span>
 
-<span class="c-def">La normalità *rispetto a come funzionavo prima*.
-Ma il prof aggiunge un avvertimento cruciale:
-<span class="c-warn">**la normalità personale non è sempre da riconquistare**.
-A volte è proprio quella "normalità" precedente che
-ha causato il problema. Esempio: "Lavoravo 10 ore
-al giorno, gestivo tutto, poi mi sono ammalato —
-voglio tornare come prima." Forse no. Se torni come
-eri prima, tra un mese ci rivediamo peggio.</span></span>
+## Le tre normalità
 
----
+### Norma statistica
+
+Definisce normale ciò che si colloca nella media di una popolazione o di un gruppo. È relativa al campione e al contesto: un comportamento frequente in un sottogruppo può essere raro altrove.
+
+<span class="c-es">Konrad Lorenz, osservato mentre procedeva a quattro zampe senza che gli spettatori vedessero gli anatroccoli che lo seguivano, appariva "strano". Il contesto trasformava completamente il significato della condotta.</span>
+
+### Norma di valore
+
+Confronta la persona con uno standard ideale o desiderabile. Una condotta può essere statisticamente frequente ma lontana dall'ideale scelto.
+
+<span class="c-warn">Anche l'operatore possiede immagini ideali dell'utente, dell'autonomia e del cambiamento. Se non le riconosce, rischia di imporle e di valutare la persona come insufficiente.</span>
+
+### Norma individuale
+
+Confronta la persona con il proprio funzionamento abituale. Malattia, trauma o invecchiamento possono produrre una rottura tra un "prima" e un "dopo".
+
+La norma precedente non è però sempre recuperabile né sempre desiderabile. Tornare a lavorare dieci ore al giorno, se quella modalità ha contribuito al crollo, non coincide necessariamente con la cura.
+
+<span class="c-tesi">Nel progetto sociale non si tratta sempre di restaurare il passato, ma di costruire un nuovo funzionamento possibile e significativo.</span>
 
 ## La posizione del soggetto davanti alla malattia
 
-L'ultima parte della lezione introduce un modello
-pratico a due assi per capire come il soggetto si
-pone rispetto alla propria condizione.
+Il modello usa due assi:
 
-**Asse 1 — Identificazione:**
+- **Identificazione**: la condizione viene sentita come parte di sé oppure come elemento estraneo da espellere.
+- **Agentività**: la persona si percepisce capace di agire sulla propria vita oppure delega e subisce gli eventi.
 
-- *Non mi identifico* con la malattia: "Io non sono
-  la mia malattia, è qualcosa di estraneo"
-- *Mi identifico*: "La mia condizione fa parte di me"
+L'incrocio produce quattro posizioni:
 
-**Asse 2 — <span class="c-def">Agentività** (termine tecnico dal greco):</span>
+| Posizione | Identificazione | Agentività | Orientamento |
+|---|---|---|---|
+| **Combatto** | No | Alta | La condizione è un nemico da eliminare; la persona cerca attivamente la guarigione. |
+| **Guarisci-mi** | No | Bassa | La condizione è estranea, ma la persona delega allo specialista il compito di eliminarla. |
+| **Mi curo** | Sì | Alta | La persona integra la condizione e cerca attivamente benessere e autonomia, anche senza guarigione. |
+| **Cura-mi** | Sì | Bassa | La persona riconosce la condizione ma delega ad altri il miglioramento della propria vita. |
 
-- *Agentivo* (attivo): affronto la situazione,
-  mi muovo, cerco alleati
-- *Passivo*: subisco, aspetto che qualcuno intervenga
+La parte alta della matrice è l'**area dell'alleanza**, perché il soggetto partecipa al percorso. La parte bassa è l'**area della delega**. Le posizioni non sono identità fisse: una persona può spostarsi nel tempo grazie a competenze, sostegno ed esperienza.
 
-Incrociando i due assi si ottengono quattro posizioni:
+### To cure e to care
 
-|                    | Non si identifica                                          | Si identifica                                                       |
-| ------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------- |
-| **Passivo**  | **Delega**: "Faccia lei, risolva lei"                | **Delega assistenziale**: aspetta che qualcuno si prenda cura |
-| **Agentivo** | **Guarigione**: combatte per eliminare la condizione | **Cura**: lavora sul proprio benessere dentro la condizione   |
+**To cure** indica l'intervento terapeutico rivolto alla guarigione; **to care** indica il prendersi cura della persona e del suo benessere. La terapia non è sempre disponibile o efficace, mentre la cura rimane praticabile anche nelle condizioni croniche o non guaribili.
 
-<span class="c-impl">Il passaggio chiave: quando il soggetto si identifica
-con la propria condizione e diventa agentivo, il
-paradigma passa dalla **guarigione** alla **cura**.
-Non si tratta più di eliminare la malattia (che a
-volte non è possibile), ma di aumentare il benessere
-*dentro* la condizione.</span>
+<span class="c-tesi">Per il lavoro sociale, aumentare agentività e qualità della vita non è un ripiego: è un obiettivo centrale della cura.</span>
 
-> *"Non tutto si può guarire. Ma tutto può essere
-> curato."*
-> — Il professore
+## Elementi salienti della salute mentale
 
-<span class="c-tesi">La differenza tra *to cure* (terapia) e *to care*
-(cura) è fondamentale per il lavoro sociale: la
-terapia non è sempre possibile, ma la cura — nel
-senso di prendersi cura del benessere della persona
-— è sempre praticabile.</span>
+Definire la salute mentale soltanto come assenza di disturbo è riduttivo. Il materiale evidenzia alcuni elementi:
 
----
+- è parte inseparabile della salute generale;
+- riguarda il benessere e la realizzazione di sé;
+- comprende la capacità di affrontare tensioni e difficoltà;
+- implica partecipazione alla vita produttiva e comunitaria;
+- nasce dall'interazione tra predisposizioni, biografia, comportamenti, cultura, condizioni sociali, economiche, politiche e ambientali;
+- riguarda la relazione con sé, con gli altri e con il mondo;
+- richiede uno sguardo rispettoso che contrasti stigma e colpevolizzazione.
 
-## La tragedia greca: passioni e follia
+La definizione dell'OMS presentata nel manuale descrive la salute mentale come uno stato di benessere nel quale la persona può realizzarsi, superare le tensioni quotidiane, lavorare in modo produttivo e contribuire alla comunità.
 
-Parallelamente allo studio teorico, il modulo
-include un lavoro su **cinque tragedie greche**.
+La **Carta di Ottawa del 21 novembre 1986** aggiunge un passaggio importante: <span class="c-tesi">la salute è una risorsa per la vita quotidiana, non l'obiettivo finale dell'esistenza, e la sua promozione non appartiene soltanto al settore sanitario.</span>
 
-### Perché la tragedia?
+### Comportamento, contesto e relazione
 
-<span class="c-tesi">La tragedia greca nasce insieme alla medicina antica
-(Ippocrate) e mette in scena la sofferenza umana —
-quella difficile da spiegare e a volte da comprendere.
-Assistere alla tragedia faceva emergere emozioni e
-sentimenti che, attraverso la **catarsi**, potevano
-uscire e liberare.</span>
+Il comportamento è spesso il primo elemento osservabile, ma non può essere separato dal contesto. Imprevedibilità, scarsa controllabilità e apparente irrazionalità possono allarmare l'osservatore e favorire un giudizio di devianza.
 
-La tragedia parla dei **confini dell'umano**: la
-morte, la malattia, la follia. Il prof distingue
-gli approcci dei tre grandi tragediografi:
+Secondo il materiale, la malattia mentale non è riducibile a un guasto interno all'individuo. Può manifestarsi come difficoltà nel rapporto intersoggettivo, nella comunicazione e nella comprensione reciproca. La salute psichica comprende allora anche una capacità dialogica tra le diverse parti della psiche e nella relazione con gli altri.
 
-- <span class="c-dato">**Eschilo** — il più arcaico: la follia arriva
-  dagli dèi, è una forza esterna che schiaccia
-- <span class="c-dato">**Sofocle** — il tragico non arriva dagli dèi,
-  è la vita stessa che è tragica
-- <span class="c-dato">**Euripide** — il più moderno: il tragico nasce
-  dalle relazioni tra le persone</span></span></span>
+## Linguaggio e salute mentale
 
-### Le tragedie di quest'anno
+Le parole non descrivono soltanto: orientano lo sguardo e possono assegnare identità.
 
-Le docenti hanno scelto — indipendentemente —
-tragedie che convergono su un tema comune: la
-**violenza sulle donne nei conflitti armati**.
+- **Matto** richiama un agire incontrollato o improprio rispetto alle aspettative sociali.
+- **Follia** rimanda etimologicamente al sacco pieno d'aria, quindi a vuoto e perdita di senso; questa immagine rischia di svalutare tutto ciò che la persona dice.
+- **Pazzia** contiene riferimenti al *pathos*, alla sofferenza e alla furia.
+- **Alienato** deriva da *alienus*, estraneo, e può spingere a non riconoscere nell'altro un'umanità comune.
+- **Delirio** richiama l'uscita dal solco dell'aratro e quindi la deviazione da un percorso condiviso.
 
-Il prof collega esplicitamente queste storie ai dati
-odierni sulla violenza sessuale nei conflitti armati
-(Congo, Iraq, Rwanda), citando <span class="c-dato">**Nadia Murad**,
-Premio Nobel per la Pace e sopravvissuta alla
-schiavitù sessuale dell'ISIS. La tragedia greca
-non è storia lontana: è cronaca con un linguaggio
-di 2500 anni fa.</span>
+<span class="c-warn">Ciò che appare privo di senso può segnalare soprattutto il limite di comprensione dell'osservatore, non l'assenza di significato nell'esperienza della persona.</span>
 
----
+Cargnello osserva inoltre che per la sofferenza mentale si usa spesso il verbo **essere** ("è schizofrenico", "è demente"), mentre per molte malattie fisiche prevale **avere** ("ha un tumore", "ha una polmonite"). L'uso di *essere* fonde la diagnosi con l'identità.
+
+<span class="c-impl">Dire "persona con schizofrenia" invece di "schizofrenico" non è un dettaglio cosmetico: conserva la distinzione tra persona e condizione e riduce il rischio di trasformare una diagnosi nell'intera identità.</span>
+
+## I quattro snodi della Swiss Public Health Conference
+
+Nel <span class="c-dato">terzo incontro della Rete Salute Psichica Svizzera, svoltosi a Olten il 21-22 agosto 2014 nell'ambito della Swiss Public Health Conference</span>, un manifesto ha proposto quattro snodi:
+
+1. **La salute psichica è un processo**: comprende sviluppo emozionale, intellettuale e professionale, superamento delle difficoltà e contributo alla società. Dipende da condizioni individuali, sociali, culturali, economiche e politiche.
+2. **Non c'è salute senza salute psichica**: salute fisica, psichica e sociale sono equivalenti e interdipendenti; le conoscenze sulla dimensione psichica vanno integrate in tutti gli ambiti.
+3. **La salute psichica è complessa**: deriva dall'interazione tra predisposizione, biografia, comportamento, cultura, comunità e ambiente. Una società sana combatte pregiudizio, colpevolizzazione e stigma.
+4. **La salute psichica è una sfida permanente**: ogni età e situazione di vita presenta compiti che possono attivare risorse o disturbi; un sostegno adeguato orienta positivamente il processo.
+
+Un buon tag mentale per ricordarli è **P-I-C-S**: **Processo, Interdipendenza, Complessità, Sfida**.
+
+## Tragedia greca, passioni e follia
+
+Il modulo affianca alla teoria il lavoro su cinque tragedie: lettura, confronto nel gruppo, sintesi, scrittura scenica e rappresentazione. L'attività allena ascolto di linguaggi non familiari, collaborazione, capacità di scegliere e rinunciare a parti del materiale.
+
+La tragedia mette pubblicamente in scena sofferenza, follia e disperazione. Attraverso la **catarsi**, lo spettatore incontra emozioni difficili e sposta il proprio sguardo sui confini dell'umano.
+
+I tre tragediografi vengono distinti così:
+
+- **Eschilo**: la follia giunge dagli dèi come forza esterna.
+- **Sofocle**: il tragico appartiene alla vita stessa.
+- **Euripide**: il tragico nasce soprattutto nelle relazioni umane.
+
+Le tragedie scelte per il 2026 convergono sulla violenza contro le donne nei conflitti. Il collegamento con deportazioni, schiavitù sessuale e guerre contemporanee mostra che il testo antico continua a interrogare il presente.
+
+Il lavoro prevede anche l'incontro con il **Club '74**, nato nel clima di trasformazione degli anni Settanta. Non è pensato come semplice fornitore di materiali: la collaborazione deve essere reciproca e basata sull'incontro con le persone.
+
+<span class="c-tesi">Secondo il docente, il lavoro sociale ha inevitabilmente una dimensione politica: nelle pratiche quotidiane decide chi viene riconosciuto, incluso e ascoltato e quanto i principi di partecipazione diventino reali.</span>
 
 ---
 
 ## Concetti chiave
 
-| Termine                                            | Significato                                                                                                            |
-| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| <span class="c-def">**Clinica**          | Dal greco*klinein* ("chinarsi"): l'universo dell'incontro con chi soffre, fondato su umiltà e premura verso l'altro |
-| <span class="c-def">**Disease**          | Malattia in senso biomedico, misurabile con parametri clinici                                                          |
-| <span class="c-def">**Illness**          | Vissuto soggettivo della malattia, come la persona si sente                                                            |
-| <span class="c-def">**Sickness**         | Dimensione sociale della malattia, riconoscimento/stigma                                                               |
-| <span class="c-def">**Benessere**        | Concetto multidimensionale (Ryff): autonomia, controllo ambientale, relazioni, autoaccettazione, crescita, scopo       |
-| <span class="c-def">**Norma statistica** | Normalità come conformità alla media della popolazione                                                               |
-| <span class="c-def">**Norma di valore**  | Normalità come conformità a un ideale                                                                                |
-| <span class="c-def">**Norma personale**  | Normalità rispetto al proprio funzionamento precedente                                                                |
-| <span class="c-def">**Agentività**      | Atteggiamento attivo del soggetto verso la propria condizione                                                          |
-| <span class="c-def">**Catarsi**          | Purificazione emotiva attraverso la partecipazione alla tragedia                                                       |
-| <span class="c-def">**Omeostasi**        | Equilibrio biologico — la vita si fonda sulla continua perdita e riconquista dell'equilibrio                          |
-| <span class="c-def">**To cure**          | Terapia: eliminare la malattia                                                                                         |
-| <span class="c-def">**To care**          | Cura: prendersi cura del benessere, sempre praticabile                                                                 |</span></span></span></span></span></span></span></span></span></span></span></span></span>
-
-## Domande di orientamento allo studio
-
-**Cosa si intende con la triade anglosassone
-disease, illness e sickness?**
-
-Disease è la malattia in senso biomedico:
-ciò che è misurabile con esami e parametri
-clinici. Illness è il vissuto soggettivo:
-come la persona si sente, indipendentemente
-dai dati oggettivi. Sickness è la dimensione
-sociale: il riconoscimento — o lo stigma —
-che la società attribuisce a una condizione.
-Le tre dimensioni possono non coincidere: si
-può avere una disease senza sentirsi malati,
-o essere stigmatizzati socialmente senza una
-patologia riconosciuta. Per l'operatore
-sociale, la sickness è la dimensione più
-critica: la stigmatizzazione ha effetti reali
-sul benessere anche in assenza di peggioramenti
-clinici.
-
-**Perché Boorse (1977) conclude che nessuna
-delle sette condizioni da lui analizzate
-basta a definire la salute?**
-
-Boorse esamina sette possibili definizioni
-— salute come valore, come ciò che il
-medico cura, come norma statistica, come
-assenza di sofferenza, come capacità
-funzionale, come adattamento e come omeostasi
-— e mostra che ciascuna presenta eccezioni
-che ne invalidano la portata universale.
-Per esempio, la norma statistica ha a lungo
-classificato l'omosessualità come patologia.
-L'omeostasi non regge perché il funzionamento
-umano si basa sul continuo perdere e
-riacquistare equilibrio: l'equilibrio statico
-è rigidità, non salute. La conclusione è che
-la salute non è riducibile a un'unica
-condizione necessaria e sufficiente.
-
-**Quali sono le sei dimensioni del benessere
-secondo Carol Ryff e perché questo modello
-è utile per il lavoro sociale?**
-
-Ryff individua sei dimensioni: autonomia
-(determinarsi senza dipendere dagli altri),
-controllo ambientale (sfruttare le risorse
-disponibili), relazioni positive (relazioni
-calde e fiduciose), autoaccettazione
-(consapevolezza dei propri limiti e qualità),
-percezione di crescita (senso di sviluppo
-continuo) e scopo nella vita (avere mete e
-senso in ciò che si fa). Il modello rende
-il lavoro sul benessere operativo e concreto:
-invece di un generico "aumentare il benessere",
-l'operatore identifica quale dimensione è più
-critica e interviene lì. Se una dimensione
-non è lavorabile in quel momento, si compensa
-sulle altre.
-
-**Quali sono i tre tipi di normalità e quali
-rischi comportano per l'operatore sociale?**
-
-Il professore distingue tre tipi: norma
-statistica (conformità alla media), norma
-di valore o ideale (conformità a uno standard
-desiderabile) e norma personale (normalità
-rispetto al proprio funzionamento precedente).
-Ogni tipo porta rischi specifici. La norma
-statistica può stigmatizzare chi è "fuori
-dalla media". La norma ideale, se usata
-inconsapevolmente dall'operatore, diventa un
-metro penalizzante verso l'utente. La norma
-personale rischia di idealizzare un passato
-che forse era esso stesso problematico:
-riportare qualcuno a "com'era prima" non è
-sempre terapeutico.
-
-**Qual è la differenza tra guarigione (to cure)
-e cura (to care) e perché è fondamentale
-per il lavoro sociale?**
-
-To cure è la terapia in senso stretto:
-eliminare la malattia. To care è prendersi
-cura del benessere della persona, indipendente-
-mente dalla possibilità di guarire. La
-distinzione è fondamentale perché non tutte
-le condizioni sono curabili, ma il benessere
-è sempre lavorabile. Quando il soggetto si
-identifica con la propria condizione e diventa
-agentivo, il paradigma si sposta dalla
-guarigione alla cura: non si combatte più la
-condizione per eliminarla, ma si lavora per
-vivere meglio dentro di essa. Per l'operatore
-sociale, che raramente dispone di strumenti
-terapeutici clinici, questo spostamento è la
-base del proprio mandato.
+| Termine | Significato |
+|---|---|
+| **Clinica** | Incontro e presa in cura di chi soffre; dal greco *klinein*, chinarsi. |
+| **Disease** | Dimensione biomedica e certificabile della malattia. |
+| **Illness** | Esperienza soggettiva della persona. |
+| **Sickness** | Dimensione e riconoscimento sociale della malattia. |
+| **Benessere** | Costrutto soggettivo e multidimensionale, non sinonimo di salute. |
+| **Norma statistica** | Conformità alla media di una popolazione o di un gruppo. |
+| **Norma di valore** | Conformità a un ideale ritenuto desiderabile. |
+| **Norma individuale** | Confronto con il funzionamento abituale della stessa persona. |
+| **Agentività** | Percezione di poter agire sulla propria condizione e sulla propria vita. |
+| **Identificazione** | Riconoscimento della condizione come parte di sé. |
+| **To cure** | Trattare con l'obiettivo della guarigione. |
+| **To care** | Prendersi cura della persona e del suo benessere. |
+| **Stigma** | Etichetta sociale negativa che svaluta ed esclude. |
+| **Catarsi** | Elaborazione emotiva favorita dalla rappresentazione tragica. |
 
 ---
 
+## Domande di orientamento allo studio
+
+**Perché salute, benessere e normalità non sono sinonimi?**
+La salute riguarda funzionalità e potenzialità, il benessere il vissuto soggettivo, mentre la normalità dipende dal confronto con una media, un ideale o il funzionamento precedente. I tre piani si influenzano ma possono non coincidere: una persona può essere malata e percepire benessere, oppure essere statisticamente atipica senza avere una patologia.
+
+**Perché il contesto è indispensabile per interpretare un comportamento?**
+Lo stesso gesto può assumere significati differenti secondo cultura, situazione e relazioni. Senza contesto si rischia di scambiare per sintomo ciò che è comprensibile nella situazione concreta e di trasformare la devianza sociale in malattia.
+
+**Come cambia l'intervento passando da guarigione a cura?**
+La guarigione mira a eliminare la condizione; la cura lavora sulla qualità della vita anche quando la condizione permane. L'operatore sostiene agentività, risorse, relazioni e partecipazione invece di misurare ogni esito soltanto con la scomparsa della malattia.
+
+**Perché il linguaggio può produrre stigma?**
+Parole ed espressioni possono fondere la persona con la diagnosi, attribuirle estraneità o negare significato a ciò che comunica. Usare un linguaggio centrato sulla persona conserva identità e dignità e mantiene aperta la possibilità di comprensione.
+
+## Domande esame 01
+
+**1. Che cosa si intende per salute?**
+La salute è un concetto complesso legato al funzionamento e alle potenzialità della persona, ma non può essere ridotta a un singolo criterio né alla sola assenza di malattia. Va considerata nelle dimensioni biomedica, soggettiva e sociale e come risorsa dinamica per la vita quotidiana.
+
+**2. Qual è la differenza tra benessere, disagio, malessere e disturbo?**
+Il benessere implica soddisfazione dei bisogni, qualità di vita e accettazione. Il disagio è una sofferenza ancora priva di sintomi specifici; nel malessere aumentano intensità e consapevolezza di non stare bene, anche con sensazioni corporee. Nel disturbo la sofferenza è elevata, persistente e accompagnata da sintomi clinici e alterazioni del comportamento; la malattia mentale indica una maggiore stabilizzazione nel tempo.
+
+**3. Quali concetti di normalità vengono presentati?**
+La normalità statistica coincide con la media del gruppo, la norma di valore con un ideale desiderabile e la norma individuale con il funzionamento abituale della persona. Nessuna coincide automaticamente con la salute: l'anormalità può non essere patologica e il ritorno alla normalità precedente può non essere possibile o utile.
+
+**4. Come si distinguono disease, illness e sickness?**
+*Disease* è la malattia biomedica certificabile; *illness* è il vissuto soggettivo; *sickness* è il riconoscimento e l'etichettamento sociale. Le tre dimensioni possono combinarsi oppure non coincidere e richiedono quindi sguardi professionali differenti ma coordinati.
+
+**5. Quali definizioni di salute e malattia analizza Boorse?**
+Boorse analizza salute come valore, malattia come oggetto di trattamento medico, salute come norma statistica, malattia come disagio o sofferenza, malattia come disabilità, salute come adattamento e salute come omeostasi. Per ciascun criterio individua eccezioni; nessuno è da solo necessario e sufficiente.
+
+**6. Quali sono le variabili del benessere secondo Ryff?**
+Sono autoaccettazione, relazioni positive, autonomia, controllo ambientale, percezione di crescita e scopo nella vita. Il benessere deriva dalla loro configurazione complessiva e non dalla perfezione uniforme di tutte le dimensioni.
+
+**7. Quali posizioni può assumere il soggetto davanti alla malattia?**
+Incrociando identificazione e agentività emergono quattro posizioni: *Combatto*, *Guarisci-mi*, *Mi curo* e *Cura-mi*. Le prime due considerano la malattia estranea; le altre la integrano nella propria condizione. Le posizioni agentive favoriscono alleanza e partecipazione, quelle passive tendono alla delega.
+
+**8. Quali sono gli elementi salienti della salute mentale?**
+La salute mentale è parte della salute generale, non semplice assenza di disturbo. Comprende benessere, realizzazione, capacità di affrontare difficoltà, lavoro e partecipazione comunitaria; deriva dall'interazione tra biografia, predisposizioni, relazioni, cultura e condizioni sociali e ambientali.
+
+**9. Qual è il rapporto tra linguaggio e salute mentale?**
+Il linguaggio costruisce rappresentazioni sociali e può trasformare una condizione nell'identità totale della persona. Termini come folle, pazzo e alienato portano immagini di vuoto, incontrollabilità ed estraneità; l'uso dell'ausiliare *essere* nelle diagnosi psichiatriche rafforza questa identificazione. Un linguaggio centrato sulla persona limita stigma ed esclusione.
+
+**10. Quali sono gli snodi della salute mentale indicati dalla Swiss Public Health Conference?**
+I quattro snodi sono: salute psichica come processo; impossibilità di separarla dalla salute fisica e sociale; complessità delle interazioni che la determinano; carattere permanente della sfida lungo tutte le età della vita. Ne derivano corresponsabilità professionale, integrazione dei saperi, lotta allo stigma e importanza del sostegno.
+
 ## Collegamenti
 
-- **Autori citati:** <span class="c-dato">Christopher Boorse (1977),
-  Carol Ryff, Tiziano Terzani (*L'ultimo giro di
-  giostra*), Callieri & C. (1999), Nadia Murad,
-  Guidorizzi (2010) — sulla follia nella tragedia
-  greca come accesso a "luoghi e dimensioni
-  diverse" oltre che come cedimento della coscienza
-- **Lezioni successive:** Storia della follia
-  (25.02), L'incontro con l'alienità (4.03), Dal
-  modello psicoanalitico alle difese (11.03)
-- **Temi aperti:** Come cambiano le categorie
-  diagnostiche nel tempo? Come si costruisce una
-  diagnosi psichiatrica? (L'omosessualità come
-  esempio storico sarà ripreso)
-- **Da ricordare:** il vademecum del modulo
-  contiene i contenuti in forma scritta con i
-  riferimenti bibliografici precisi</span>
+- **Lezione successiva:** la storia della follia approfondirà come categorie, istituzioni e parole cambino nel tempo.
+- **Incontro ed empatia:** il riconoscimento dell'altro come persona precede ogni classificazione.
+- **Meccanismi di difesa:** saranno letti come modi funzionali o disfunzionali di rispondere alle minacce.
+- **Lavoro sociale:** partecipazione, accessibilità dell'ambiente, alleanza e contrasto allo stigma collegano tutti i concetti della lezione.

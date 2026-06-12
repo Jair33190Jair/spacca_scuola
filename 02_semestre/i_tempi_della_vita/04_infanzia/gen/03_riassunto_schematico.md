@@ -1,11 +1,11 @@
 # L'Infanzia: Sviluppo psicoaffettivo, relazioni primarie e attaccamento — Schema
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 I Tempi della Vita · Sessione 04
 
@@ -30,9 +30,21 @@ I Tempi della Vita · Sessione 04
 | **Latenza** | 6-12 aa | — | Rimozione, apprendimento |
 | **Genitale** | Pubertà | — | Integrazione pulsioni |
 
+- **Sottofasi (K. Abraham)**:
+  - **Orale libidica** → piacere / **Orale aggressiva** → post-dentizione
+  - **Anale espulsiva** → espellere / **Anale ritentiva** → trattenere
 - **Fissazione** → blocco energetico a uno stadio
 - **Regressione** → ritorno a funzionamento più antico sotto stress
 - <span class="c-tesi">**Complesso di Edipo** → da relazione duale → triangolare; struttura Io/Es/Super-Io</span>
+- <span class="c-warn">**Complesso di Elettra** (Jung) → versione femminile; Freud: invidia del pene → posizione fallocentrica superata</span>
+
+### Psicopatologia nella logica freudiana
+
+| Patologia | Stadio di riferimento |
+|-----------|----------------------|
+| Nevrotico ossessivo | Sadico-anale |
+| Maniaco-depressivo (aspetti) | Orale |
+| Isteria | Edipico |
 
 ---
 
@@ -86,6 +98,13 @@ I Tempi della Vita · Sessione 04
 - <span class="c-def">**Attaccamento** → sistema innato; ricerca prossimità per sicurezza</span>
 - **Accudimento** → sistema complementare nell'adulto
 
+### Condizioni per parlare di legame di attaccamento
+
+- Legame **duraturo** (non transitorio)
+- Con una **persona specifica**
+- **Emotivamente significativo**
+- Orientato alla **ricerca di sicurezza e conforto**
+
 ### Caratteristiche del sistema
 
 - **Neotenia** → immaturità prolungata; sistema di attaccamento molto sviluppato e duraturo
@@ -123,6 +142,22 @@ I Tempi della Vita · Sessione 04
 
 ---
 
+## Attaccamento nel ciclo di vita e separazione
+
+- <span class="c-tesi">**Dalla culla alla tomba** (Principio F) → MOI stabili ma modificabili</span>
+- **Attaccamento sicuro** → risorsa di resilienza (Principio G)
+- **Attaccamento insicuro** → fattore di vulnerabilità; rischi per salute mentale e relazioni
+
+### Risposta alla separazione (Principio H)
+
+| Fase | Descrizione |
+|------|-------------|
+| **Protesta** | Ricerca attiva, pianto, rabbia |
+| **Disperazione** | Ritiro passivo, tristezza |
+| **Distacco** | Apparente indifferenza — difesa, non guarigione |
+
+---
+
 ## Metodologie di valutazione
 
 | Strumento | Autori | Soggetto | Valutazione |
@@ -154,6 +189,8 @@ I Tempi della Vita · Sessione 04
 | Chi | Cosa | Quando |
 |-----|------|--------|
 | <span class="c-def">**Freud S.**</span> | Stadi psicosessuali, pulsioni, Edipo | 1905-1938 |
+| Abraham K. | Sottofasi orale e sadico-anale | 1924 |
+| Jung C.G. | Complesso di Elettra | 1913 |
 | <span class="c-def">**Bowlby J.**</span> | Teoria dell'attaccamento, *Attaccamento e perdita* (3 vol.) | 1969-1980 |
 | <span class="c-def">**Ainsworth M.**</span> | Strange Situation, base sicura, 4 pattern | 1978 |
 | Kaplan, Main, Goldwyn | Adult Attachment Interview (AAI) | 1985 |
@@ -168,4 +205,4 @@ I Tempi della Vita · Sessione 04
 
 ### Parole chiave
 
-`pulsione` · `libido` · `Eros` · `Thanatos` · `zona erogena` · `fissazione` · `regressione` · `Edipo` · `latenza` · `attaccamento` · `accudimento` · `monotropismo` · `neotenia` · `MOI` · `Strange Situation` · `AAI` · `sicuro` · `evitante` · `ambivalente` · `disorganizzato` · `holding` · `handling` · `object presenting` · `rêverie materna` · `mirroring` · `preoccupazione materna primaria` · `de-accomodamento` · `oggetto transizionale` · `arousal` · `mismatch` · `riparazione` · `base sicura` · `porto sicuro` · `trasmissione intergenerazionale`
+`pulsione` · `libido` · `Eros` · `Thanatos` · `zona erogena` · `fissazione` · `regressione` · `Edipo` · `Elettra` · `latenza` · `oralità libidica` · `oralità aggressiva` · `attaccamento` · `accudimento` · `monotropismo` · `neotenia` · `MOI` · `Strange Situation` · `AAI` · `sicuro` · `evitante` · `ambivalente` · `disorganizzato` · `holding` · `handling` · `object presenting` · `rêverie materna` · `mirroring` · `preoccupazione materna primaria` · `de-accomodamento` · `oggetto transizionale` · `arousal` · `mismatch` · `riparazione` · `base sicura` · `porto sicuro` · `trasmissione intergenerazionale` · `protesta` · `disperazione` · `distacco`

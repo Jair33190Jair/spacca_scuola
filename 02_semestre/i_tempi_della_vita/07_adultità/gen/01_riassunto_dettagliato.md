@@ -232,13 +232,14 @@ corpo è una **componente attiva** dello sviluppo, non uno sfondo passivo.</span
 ### Dimensione Intellettuale — Il pensiero adulto
 
 Il modello di <span class="c-dato">**Warner Schaie** (1977-78)</span> descrive come cambia la cognizione nel
-corso della vita:
+corso della vita in **quattro fasi**:
 
 | Fase | Scopo cognitivo | Periodo | Focus |
 |------|----------------|---------|-------|
-| Acquisitiva | Imparare | Infanzia/adolescenza | Accumulare conoscenze |
-| Realizzativa/Esecutiva | Applicare | Età adulta | Usare le conoscenze per obiettivi concreti |
-| Reintegrativa | Selezionare | Terza età | Pensare solo a ciò che ha valore personale |
+| Acquisitiva | Imparare | Infanzia/adolescenza | Accumulare conoscenze e abilità non specialistiche |
+| Realizzativa | Applicare | Prima età adulta | Usare le conoscenze per affermarsi nel mondo; pensiero finalizzato |
+| Responsabilità/Esecutiva | Risolvere e gestire | Età adulta intermedia | Problemi della vita reale; responsabilità verso sistemi sociali più ampi |
+| Reintegrativa | Selezionare | Tarda età adulta / terza età | Dare senso all'esistenza; pensare solo a ciò che ha valore personale |
 
 <span class="c-tesi">Il **pensiero adulto** si distingue da quello adolescenziale: mentre il ragazzo
 tende a pensare in assoluti razionali, l'adulto sviluppa un pensiero **soggettivo,

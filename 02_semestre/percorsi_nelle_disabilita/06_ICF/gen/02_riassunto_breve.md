@@ -20,6 +20,7 @@ Percorsi nelle disabilità · Sessione 06
 - <span class="c-def">**ICF** = Classificazione Internazionale del Funzionamento, della Disabilità e della Salute — <span class="c-dato">OMS, 2001</span></span>
 - Strumento per analizzare e descrivere la disabilità come condizione umana che *tutti* possono sperimentare
 - <span class="c-impl">Complementare all'ICD-10: l'ICD classifica le malattie, l'ICF classifica il funzionamento</span>
+- Traduce operativamente i principi della <span class="c-dato">Convenzione ONU sui Diritti delle Persone con Disabilità (New York, 2006)</span>: disabilità = menomazione + barriere ambientali
 - Esistono tre versioni: ICF classico (adulti), <span class="c-dato">ICF-CY (0-18 anni)</span>, ICF versione breve
 
 ## Il nuovo concetto di salute

@@ -1,11 +1,11 @@
 # Evoluzione storica e sviluppo psico-sociale secondo Erikson
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 I Tempi della Vita · Sessione 01 · A.A. 2025/2026
 
@@ -15,7 +15,7 @@ I Tempi della Vita · Sessione 01 · A.A. 2025/2026
 
 ## Da "psicologia dell'età evolutiva" a "psicologia dello sviluppo"
 
-Storicamente, la psicologia si è occupata quasi esclusivamente delle prime fasi della vita: infanzia e adolescenza. Questo campo si chiamava **psicologia dell'età evolutiva** e considerava lo sviluppo qualcosa che finiva con la crescita.
+Storicamente, la psicologia si è occupata quasi esclusivamente delle prime fasi della vita: infanzia e adolescenza. Questo campo si chiamava <span class="c-def">**psicologia dell'età evolutiva**: lo studio scientifico dello sviluppo dalla nascita fino all'adolescenza (Belsky, 2018).</span> Considerava lo sviluppo qualcosa che finiva con la crescita — l'adulto era visto come punto di arrivo e di stabilità, l'anzianità come momento del declino.
 
 <span class="c-tesi">Il grande cambio di paradigma è avvenuto **nella seconda metà del Novecento**: si è capito che la persona continua a cambiare — psicologicamente, socialmente, cognitivamente — per tutta la vita, fino alla morte.</span>
 
@@ -84,7 +84,7 @@ Tre grandi contributi della Life Span Psychology:
 | 2 | È multidimensionale e multidirezionale | Riguarda fisico, cognitivo, emotivo-affettivo e sociale insieme |
 | 3 | È caratterizzato da plasticità | Le esperienze possono modificare le traiettorie di sviluppo a qualsiasi età |
 | 4 | Implica guadagni e perdite | In ogni fase ci sono entrambi; non esistono fasi di "puro guadagno" |
-| 5 | È un processo interattivo | Siamo influenzati dal contesto, ma lo influenziamo a nostra volta |
+| 5 | È un processo interattivo | Lo sviluppo è risultato dell'interazione tra individuo e ambiente. **Prospettiva interazionista-sistemica**: tutte le parti del sistema sono interconnesse — il cambiamento di anche solo un elemento modifica tutto il sistema |
 | 6 | È calato nella realtà storica e culturale | L'adolescente di oggi non è quello di 30 anni fa; il contesto conta sempre |
 | 7 | È multidisciplinare | Psicologia, sociologia, biologia, neuroscienze, economia... nessuna disciplina basta da sola |
 
@@ -162,7 +162,7 @@ Non si tratta di "vincere" il polo positivo. Il polo negativo ha una funzione �
 
 - **Polo +**: iniziativa (propone giochi, esplora, prende decisioni).
 - **Polo −**: senso di colpa (paura di sbagliare che blocca l'iniziativa).
-- **Integrazione ottimale**: propone, ma accetta anche il "no" degli altri. Impara ad assumersi responsabilità per le proprie scelte, anche quando vanno male.
+- **Integrazione ottimale**: propone, ma accetta anche il "no" degli altri. Impara ad assumersi responsabilità per le proprie scelte, anche quando vanno male. <span class="c-impl">La parte positiva del polo negativo include proprio l'assunzione di responsabilità per l'esito delle proprie iniziative — competenza che si sviluppa progressivamente (dalla responsabilità dei propri giochi, all'animale domestico, a contesti sempre più ampi).</span>
 
 ---
 
@@ -202,8 +202,8 @@ Non si tratta di "vincere" il polo positivo. Il polo negativo ha una funzione �
 
 **Compito evolutivo**: sentirsi generativi, trasmettere qualcosa alle generazioni future.
 
-- **Polo +**: creatività / generatività — trasmissione di saperi, competenze, esperienze (non solo come genitore, ma anche come mentore, professionista, insegnante).
-- **Polo −**: stagnazione — routine immobile, nessun interesse per il futuro.
+- **Polo +**: <span class="c-def">**creatività** (termine originale: **generatività**)</span> — Erikson chiamò inizialmente questa fase *generatività*, riferendosi al diventare genitore. In seguito ampliò il concetto: l'adulto può lasciare qualcosa alle generazioni future anche senza figli — trasmettendo saperi, competenze, esperienze come mentore, professionista, insegnante.
+- **Polo −**: stagnazione — routine immobile, nessun interesse per le generazioni future.
 - **Integrazione ottimale**: anche la stagnazione può diventare la spinta a cambiare qualcosa. La cosiddetta **crisi di mezza età** si colloca qui.
 
 <span class="c-warn">Nota: molti teorici contemporanei propongono di unire gli stadi 6 e 7 in un'unica fase adulta, poiché i bisogni di intimità e creatività coesistono durante tutta l'età adulta.</span>

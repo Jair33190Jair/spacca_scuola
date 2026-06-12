@@ -45,6 +45,15 @@ L'ICF cattura esattamente questa complessità.
 e della Salute**.</span> È uno strumento dell'<span class="c-dato">OMS elaborato nel 2001</span> che appartiene alla
 stessa famiglia di classificazioni internazionali dell'ICD-10.
 
+L'ICF traduce in strumento operativo i principi sanciti nella <span class="c-dato">**Convenzione ONU sui
+Diritti delle Persone con Disabilità (New York, 13 dicembre 2006)**</span>. Quella convenzione
+definisce "persone con disabilità" come coloro che presentano durature **menomazioni
+fisiche, mentali, intellettuali o sensoriali** che — in interazione con barriere di diversa
+natura — possono ostacolare la loro piena ed effettiva partecipazione nella società su
+base di uguaglianza (art. 1). Notare: è già qui, nella definizione giuridica internazionale,
+la logica ICF. Non è la menomazione da sola a produrre disabilità — è l'incontro tra
+menomazione e barriera.
+
 Ma attenzione: è il suo **opposto complementare**.
 
 | | ICD-10 | ICF |
@@ -278,10 +287,15 @@ Un codice compilato in Svizzera è leggibile anche in Germania o in Spagna.
 <span class="c-es">Esempio: `b167` = funzioni mentali del linguaggio; `b1670` = recepire il linguaggio;
 `b16700` = recepire il linguaggio verbale.</span>
 
-**Il qualificatore** viene scritto dopo il punto e indica la gravità:
-- Per funzioni/strutture: <span class="c-def">`0` (nessuna menomazione) → `4` (menomazione completa)</span>
-- Per attività/partecipazione: primo qualificatore = performance, secondo = capacità
-- Per fattori ambientali: <span class="c-def">`+` = facilitatore, `.` = barriera (scala 0-4)</span>
+**Il qualificatore** viene scritto dopo il punto e indica la gravità. Le regole variano
+per componente:
+
+- **Funzioni corporee** → un qualificatore: gravità della menomazione
+  (`0` = nessuna → `4` = completa)
+- **Strutture corporee** → tre qualificatori: <span class="c-def">gravità + natura + localizzazione
+  della menomazione</span>
+- **Attività/partecipazione** → due qualificatori: primo = performance, secondo = capacità
+- **Fattori ambientali** → <span class="c-def">`+` = facilitatore, `.` = barriera (scala 0-4)</span>
 
 **Dalla qualificazione emergono quattro tipi di situazioni:**
 1. <span class="c-def">**Menomazione** — disfunzione a livello di funzione o struttura corporea</span>
@@ -339,7 +353,10 @@ I fattori ambientali sono le influenze esterne che possono avere impatto positiv
 L'ICF ha cinque applicazioni concrete: (1) griglia di osservazione sistematica — i 9 domini di attività e partecipazione dicono esattamente dove guardare quando si osserva una persona; (2) costruzione del PEI (Piano Educativo Individualizzato) — ogni obiettivo può essere ancorato a un dominio ICF specifico; (3) linguaggio condiviso tra medici, educatori, assistenti sociali e famiglie, anche tra paesi diversi grazie al sistema alfanumerico internazionale; (4) ricerca sistematica di barriere e facilitatori per agire sul contesto; (5) sviluppo della consapevolezza della propria responsabilità educativa come operatori che sono parte dell'ambiente.
 
 **Come funziona il sistema di codifica ICF?**
-L'ICF usa un sistema alfanumerico standardizzato. Le lettere indicano la componente: b (body) per funzioni corporee, s (structure) per strutture corporee, d (domain) per attività e partecipazione, e (environment) per fattori ambientali. I numeri specificano il dominio in modo gerarchico progressivo (es. b167 = funzioni mentali del linguaggio; b1670 = recepire il linguaggio; b16700 = recepire il linguaggio verbale). Il qualificatore numerico dopo il punto indica la gravità: da 0 (nessuna menomazione) a 4 (menomazione completa) per funzioni e strutture; per i fattori ambientali, + indica un facilitatore e . una barriera (scala 0–4).
+L'ICF usa un sistema alfanumerico standardizzato. Le lettere indicano la componente: b (body) per funzioni corporee, s (structure) per strutture corporee, d (domain) per attività e partecipazione, e (environment) per fattori ambientali. I numeri specificano il dominio in modo gerarchico progressivo (es. b167 = funzioni mentali del linguaggio; b1670 = recepire il linguaggio; b16700 = recepire il linguaggio verbale). Il qualificatore numerico dopo il punto indica la gravità, ma con regole diverse per componente: per le funzioni corporee c'è un qualificatore (gravità della menomazione, scala 0–4); per le strutture corporee ci sono tre qualificatori (gravità, natura e localizzazione della menomazione); per attività e partecipazione i due qualificatori indicano rispettivamente performance e capacità; per i fattori ambientali, + indica un facilitatore e . una barriera (scala 0–4).
+
+**Qual è il collegamento tra ICF e Convenzione ONU sui Diritti delle Persone con Disabilità?**
+L'ICF traduce in strumento operativo i principi della Convenzione ONU sui Diritti delle Persone con Disabilità (New York, 13 dicembre 2006). Quella convenzione definisce le persone con disabilità come coloro che presentano durature menomazioni fisiche, mentali, intellettuali o sensoriali che — in interazione con barriere di diversa natura — possono ostacolare la loro piena ed effettiva partecipazione nella società su base di uguaglianza con gli altri (art. 1). Questa definizione è già perfettamente allineata con la logica ICF: non è la menomazione da sola a produrre disabilità, ma la sua interazione con un ambiente che pone barriere. L'ICF fornisce il linguaggio e lo strumento operativo per applicare concretamente questa visione nel lavoro quotidiano.
 
 ---
 
@@ -360,7 +377,8 @@ L'ICF usa un sistema alfanumerico standardizzato. Le lettere indicano la compone
 | **<span class="c-def">Performance</span>** | Cosa una persona fa effettivamente nel suo ambiente attuale |
 | **<span class="c-def">Facilitatore</span>** | Fattore ambientale che migliora il funzionamento e riduce la disabilità |
 | **<span class="c-def">Barriera</span>** | Fattore ambientale che limita il funzionamento e crea/amplifica la disabilità |
-| **Qualificatore** | Codice numerico che valuta la gravità di menomazioni, limitazioni, restrizioni e barriere/facilitatori |
+| **Qualificatore** | Codice numerico che valuta la gravità di menomazioni, limitazioni, restrizioni e barriere/facilitatori. Per le strutture corporee: tre qualificatori (gravità, natura, localizzazione) |
+| **<span class="c-dato">Convenzione ONU 2006</span>** | Convenzione sui Diritti delle Persone con Disabilità (New York, 2006) — definisce la disabilità come interazione tra menomazione e barriere; l'ICF ne è lo strumento operativo |
 | **PEI** | Piano Educativo Individualizzato — strumento di progettazione ispirato all'ICF |
 
 ---
@@ -385,3 +403,4 @@ L'ICF usa un sistema alfanumerico standardizzato. Le lettere indicano la compone
 - Franchini R., *Disabilità, cura educativa e progetto di vita*, Erickson
 - OMS, *ICF Checklist*, settembre 2003
 - Ianes D., Cramerotti S., Scapin C. (2019), *Profilo di funzionamento su base ICF-CY e PEI*, Erickson
+- <span class="c-dato">ONU (2006), *Convenzione sui Diritti delle Persone con Disabilità*, New York, 13 dicembre 2006</span>

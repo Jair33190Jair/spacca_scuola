@@ -217,6 +217,17 @@ Il consiglio operativo per chi lavora con persone nello spettro: essere <span cl
 
 **Sul linguaggio:** quando manca il verbale, la persona con ASD spesso non sviluppa compensazioni gestuali spontanee. Sviluppa invece la <span class="c-def">**comunicazione motoria**</span>: prende per mano e porta. Le persone verbali usano spesso <span class="c-def">**linguaggio ecolalico**</span> (ripetono frasi sentite, anche dai cartoni animati, come riempitivo o per comunicare qualcosa in modo indiretto), linguaggio monocorde, o parlano a lungo di argomenti ristretti senza curarsi dell'interesse dell'interlocutore.
 
+Una caratteristica specifica segnalata nelle slide ARES è la <span class="c-def">**inversione pronominale**</span>: la persona usa "tu" invece di "io", o il proprio nome in terza persona, invece dei pronomi personali corretti. È un segnale precoce importante.
+
+Il seguente schema (da Nicola Rudelli, ARES) riassume visivamente tutti i deficit comunicativi nelle loro due dimensioni:
+
+| Dimensione | Produzione | Comprensione |
+|---|---|---|
+| **Verbale** | Difficoltà nell'articolazione; ecolalia; inversione pronominale; linguaggio idiosincratico | Mancata comprensione del linguaggio; interpretazione letterale |
+| **Non verbale** | Mancato uso della gestualità | Mancata comprensione della gestualità |
+
+In entrambi i casi il problema è sia nella produzione (ciò che la persona dice o esprime) sia nella comprensione (ciò che riesce a interpretare degli altri). La difficoltà nella pragmatica taglia trasversalmente tutte e quattro le celle.
+
 ---
 
 ### Criterio B — Pattern ristretti e ripetitivi
@@ -331,6 +342,18 @@ L'ASD coesiste spesso con altre condizioni:
 
 ---
 
+## I due video osservati in aula
+
+La lezione si è chiusa con la visione e l'analisi in gruppo di due video, scelti deliberatamente perché mostrano due profili completamente diversi — entrambi con diagnosi di ASD.
+
+**Temple Grandin** — professoressa di scienze animali alla Colorado University, autrice della "macchina degli abbracci", attivista per i diritti delle persone con autismo. Video di esempio per il Livello 1 (ex Asperger, alto funzionamento). Cosa si osserva nell'intervista: non risponde alle domande dell'intervistatore — risponde a ciò che vuole dire lei, seguendo i propri binari. Tono di voce piatto e monocorde. Ha avuto difficoltà scolari e sociali (bullismo). Ha trasformato i propri interessi ristretti (animali, tecnologia) in una carriera di eccellenza. <span class="c-es">Esempio concreto: ha inventato la macchina degli abbracci per se stessa dopo aver progettato macchine di contenimento per il bestiame.</span>
+
+**Noè** ("Mon petit frère de la lune", corto animato) — bambino con ASD di livello più grave. Video di esempio per profili con bisogno di supporto sostanziale. Mostra chiaramente il mondo sensoriale e relazionale dalla prospettiva del bambino.
+
+<span class="c-tesi">L'obiettivo dei due video era mostrare empiricamente cosa significa "spettro": stessa diagnosi, manifestazioni radicalmente diverse.</span> La prof. ha sottolineato anche un punto metodologico: le stereotipie non sono comunicazione funzionale — danno informazioni e vanno interpretate, ma non possono essere l'obiettivo del lavoro educativo, che punta sempre a una comunicazione funzionale più evoluta.
+
+---
+
 ## La Fondazione ARES — risorsa ticinese
 
 In Ticino, il punto di riferimento per famiglie e professionisti è la <span class="c-dato">**Fondazione ARES (Autismo Risorse e Sviluppo)**</span>, attiva dal <span class="c-dato">1995</span>, con sede a <span class="c-dato">Giubiasco</span>. Offre consulenza, formazione, presa in carico individuale e parent-training. È la stessa fondazione che collabora con il corso.
@@ -366,6 +389,7 @@ Il termine neurodiversità è stato coniato da Judith Singer negli anni '90. L'i
 | <span class="c-def">**ASD**</span> | Autism Spectrum Disorder — Disturbo dello Spettro Autistico |
 | <span class="c-def">**Diade diagnostica**</span> | Le due aree diagnostiche: comunicazione sociale + comportamenti ristretti/ripetitivi |
 | <span class="c-def">**Ecolalia**</span> | Ripetizione di parole o frasi sentite (anche da media/cartoni) |
+| <span class="c-def">**Inversione pronominale**</span> | Uso di "tu" invece di "io", o del proprio nome in terza persona — segnale precoce caratteristico |
 | <span class="c-def">**Pragmatica del linguaggio**</span> | L'uso del linguaggio nel contesto: tono, intenzione, gesti — tutto ciò che va oltre le parole |
 | <span class="c-def">**Neurodiversità**</span> | Visione che considera le differenze neurologiche come naturale variabilità umana |
 | <span class="c-def">**Sameness / Immodificabilità**</span> | Bisogno intenso di routine e prevedibilità |

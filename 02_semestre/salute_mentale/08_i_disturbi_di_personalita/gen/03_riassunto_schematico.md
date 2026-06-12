@@ -137,6 +137,11 @@ Aree interessate (almeno 2):
   - Ideazione paranoide transitoria / sintomi dissociativi sotto stress
 - **Difese** → <span class="c-def">scissione</span> · identificazione proiettiva · diniego · dissociazione · acting out
 
+### Istrionico
+- **Nucleo** → <span class="c-def">emotività eccessiva + ricerca pervasiva di attenzione</span>
+- **Criteri** → disagio se non al centro · seduttività inappropriata · emotività mutevole e superficiale · usa l'aspetto fisico · eloquio impressionistico · drammatizzazione · suggestionabilità · considera relazioni più intime di quanto siano
+- **Difese** → difese prevalentemente isteriche (repressione, sessualizzazione)
+
 ### Narcisistico
 - **Nucleo** → <span class="c-def">grandiosità + bisogno di ammirazione + mancanza empatia (emotiva)</span>
 - **Difese** → idealizzazione · svalutazione

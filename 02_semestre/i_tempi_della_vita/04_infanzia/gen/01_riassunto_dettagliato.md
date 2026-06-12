@@ -1,11 +1,11 @@
 # L'Infanzia: Sviluppo psicoaffettivo, relazioni primarie e teoria dell'attaccamento
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 I Tempi della Vita · Sessione 04 · Ottobre 2025
 
@@ -53,9 +53,15 @@ Nei testi tardivi Freud teorizza due pulsioni fondamentali:
 
 <span class="c-es">Dal bisogno fisiologico di nutrirsi si organizza un piacere erotico. La bocca diventa la prima **zona erogena**: il bambino non succhia solo per nutrirsi, ma per piacere. Il prof usa un esempio concreto: il bacio — appoggiare le labbra sulla bocca di qualcuno — è la sopravvivenza adulta di questo primissimo piacere orale.</span>
 
+<span class="c-dato">K. Abraham</span> distingue due sottofasi all'interno dell'oralità:
+1. **Oralità libidica** — legata al piacere della suzione.
+2. **Oralità aggressiva** — compare dopo la dentizione, con una componente più aggressiva (mordere).
+
 #### La fase sadico-anale
 
 Intorno alle vicende del **trattenere e concedere** — legate all'educazione alla pulizia — si organizza una certa ambivalenza: attività/passività, ritenzione/espulsione. Le parolacce e gli insulti scatologici in molte culture sono la traccia adulta di questa fase.
+
+<span class="c-dato">K. Abraham</span> distingue anche qui due momenti: **fase sadico-anale espulsiva** (priorità all'espellere) e **fase sadico-anale ritentiva** (priorità al trattenere).
 
 #### Lo stadio fallico e il Complesso di Edipo
 
@@ -67,11 +73,29 @@ Intorno alle vicende del **trattenere e concedere** — legate all'educazione al
 
 <span class="c-impl">La risoluzione dell'Edipo è la "pietra angolare" della costruzione finale della psiche: struttura l'Io, l'Es, il Super-Io e apre alla vita simbolica (sogni, sublimazioni, identificazioni).</span>
 
-#### Fissazioni, regressioni e latenza
+#### Il Complesso di Elettra e la versione femminile dell'Edipo
+
+<span class="c-dato">C.G. Jung</span> propone il termine **Complesso di Elettra** per descrivere la versione femminile: la bambina sviluppa un'inclinazione per il padre e gelosia verso la madre.
+
+<span class="c-warn">Freud non accetta questo termine. Concettualizza la versione femminile intorno al complesso di evirazione e all'**invidia del pene** — una posizione fallocentrica ampiamente criticata e superata dalla psicoanalisi contemporanea.</span>
+
+#### Fissazioni, regressioni e la lettura psicopatologica
 
 <span class="c-def">La **fissazione** è quando l'energia rimane bloccata a un certo stadio. La **regressione** è il ritorno a modalità di funzionamento più antiche in momenti di stress.</span>
 
-La **fase di latenza** (7-12 anni) è un periodo di apparente calma: la rimozione libera molta energia psichica che viene investita nell'apprendimento.
+Freud usa questi concetti anche per leggere la **psicopatologia**: la patologia libera il livello di funzionamento più semplice e automatico, corrispondente a una tappa anteriore dello sviluppo.
+
+- Il **nevrotico ossessivo** è parzialmente regredito alla fase sadico-anale.
+- Alcuni aspetti del **funzionamento maniaco-depressivo** rimandano all'oralità.
+- **L'isteria** si rivela come drammatizzazione del complesso di Edipo.
+
+<span class="c-impl">Ciò che non può essere integrato viene rimosso e continua ad esercitare pressione dall'inconscio — nelle nevrosi si manifesta in forma immaginaria (sogni, sintomi); nelle perversioni nel comportamento diretto.</span>
+
+#### La fase di latenza
+
+La **fase di latenza** (7-12 anni) è un periodo di apparente calma: la rimozione libera molta energia psichica che viene investita nell'apprendimento e nella socializzazione. L'organizzazione psico-affettiva ha una colorazione "ossessiva" che permette ai bambini di accedere serenamente ai ritmi e alla disciplina richiesti dalla scuola.
+
+<span class="c-warn">Sotto questa apparente calma si trovano spesso intense sollecitazioni non espresse.</span>
 
 #### L'eredità di Freud cent'anni dopo
 
@@ -176,6 +200,14 @@ Inizialmente c'è **dipendenza assoluta**: la madre comprende il bambino per emp
 
 <span class="c-def">**Attaccamento** = sistema innato di comportamenti che spinge il bambino a cercare protezione e vicinanza da una figura di riferimento quando percepisce pericolo o stress. Ha la funzione di garantire sicurezza fisica ed emotiva — base per lo sviluppo socio-emotivo.</span>
 
+Non si tratta di un istinto puro, ma di una predisposizione istintuale: ogni coppia madre-bambino sviluppa una forma diversa. I **comportamenti di attaccamento** includono: pianto, sorriso, seguire, rimanere aggrappati.
+
+Per parlare di vero **legame di attaccamento** servono quattro condizioni (Bowlby):
+1. Legame **duraturo** (non transitorio)
+2. Con una **persona specifica**
+3. **Emotivamente significativo**
+4. Orientato alla **ricerca di sicurezza e conforto**
+
 Le funzioni dell'attaccamento (Principio D):
 1. **Ricerca di prossimità**: promuovere la sicurezza e la sopravvivenza fisica e percepita.
 2. **Porto sicuro**: aiutare a regolare le emozioni nei momenti di angoscia.
@@ -208,6 +240,19 @@ Le funzioni dell'attaccamento (Principio D):
 #### I pattern insicuri "strutturati" come soluzioni di compromesso
 
 <span class="c-impl">I pattern **evitante** e **ambivalente** sono soluzioni di compromesso per mantenersi regolati malgrado il legame insicuro.</span>
+
+### L'attaccamento nel ciclo di vita e la separazione
+
+<span class="c-tesi">Il sistema di attaccamento è rilevante **dalla culla alla tomba** (Principio F). I Modelli Operativi Interni, costruiti nell'infanzia, continuano a guidare cognizioni, emozioni e comportamenti per tutta la vita adulta. Gli stili di attaccamento nell'adulto sono relativamente stabili, ma possono cambiare in risposta a esperienze significative o alla terapia.</span>
+
+<span class="c-def">**Principio G** — L'attaccamento sicuro è una **risorsa interna** che facilita la resilienza; l'attaccamento insicuro è un fattore di vulnerabilità associato a rischi per la salute mentale e a difficoltà interpersonali.</span>
+
+Quando un bambino (o un adulto) è **separato o perde** la figura di attaccamento, attraversa tre fasi:
+1. **Protesta** — ricerca attiva, pianto, rabbia.
+2. **Disperazione** — ritiro, tristezza, comportamento più passivo.
+3. **Distacco** — apparente indifferenza, riorganizzazione difensiva.
+
+<span class="c-impl">Ciascuna di queste risposte ha uno scopo adattivo. La fase di distacco non è guarigione: è una difesa. La riparazione — nella terapia o in relazioni correttive — può riportare flessibilità al sistema.</span>
 
 ### Trasmissione intergenerazionale
 
@@ -251,6 +296,10 @@ La ricerca ha mostrato un significativo rapporto statistico tra:
 | <span class="c-def">**Mirroring**</span> | Rispecchiamento della madre che restituisce un'immagine coerente al bambino (Fonagy) |
 | <span class="c-def">**Oggetto transizionale**</span> | Primo possesso "non-me" — area intermedia tra soggettivo e oggettivo (Winnicott) |
 | <span class="c-def">**Mismatch/Riparazione**</span> | Dissincronia e successivo recupero nella diade — motori dello sviluppo (Tronick) |
+| <span class="c-def">**Complesso di Elettra**</span> | Termine di Jung per la versione femminile dell'Edipo — non accettato da Freud |
+| <span class="c-def">**Oralità libidica / aggressiva**</span> | Due sottofasi dell'oralità (K. Abraham): piacere della suzione / componente aggressiva post-dentizione |
+| <span class="c-def">**Protesta / Disperazione / Distacco**</span> | Le tre fasi della risposta alla separazione dalla figura di attaccamento (Principio H) |
+| <span class="c-def">**Attaccamento nel ciclo di vita**</span> | Il sistema di attaccamento è rilevante dalla culla alla tomba — gli stili adulti sono stabili ma modificabili |
 
 ## Domande di orientamento allo studio
 
@@ -265,6 +314,12 @@ La preoccupazione materna primaria è uno stato di identificazione empatica inte
 
 **Cosa si intende per attaccamento disorganizzato e perché è il pattern più preoccupante?**
 L'attaccamento disorganizzato emerge quando la figura di attaccamento è anche fonte di paura: il bambino si trova in un "dramma insolubile" perché la fonte di sicurezza è la fonte di pericolo. Questo produce l'attivazione simultanea di sistemi contraddittori (fight, flight, freeze) che portano a reazioni disorganizzate. È il pattern statisticamente più correlato a disturbi psicopatologici nell'adulto.
+
+**Come si manifesta la risposta alla separazione dalla figura di attaccamento e perché è clinicamente rilevante?**
+Bowlby descrive tre fasi: **protesta** (ricerca attiva, pianto, rabbia), **disperazione** (ritiro passivo, tristezza) e **distacco** (apparente indifferenza, riorganizzazione difensiva). Ciascuna ha uno scopo adattivo, ma il distacco non equivale a guarigione — è una difesa. In contesti educativi e clinici è importante non confondere il silenzio difensivo del bambino con il benessere. Le separazioni non tematizzate dagli adulti (separazioni familiari improvvise, cambi di caregiver) aumentano il rischio di sofferenza perché il bambino non ha strumenti per elaborarle.
+
+**Qual è la posizione di Freud e di Jung sul versante femminile dell'Edipo?**
+Jung propone il termine Complesso di Elettra per descrivere la versione femminile: inclinazione per il padre e gelosia verso la madre. Freud rifiuta il termine e concettualizza la versione femminile intorno all'invidia del pene — una prospettiva fallocentrica oggi ampiamente superata dalla psicoanalisi contemporanea. Vale la pena conoscere la critica a questa posizione: ridurre l'esperienza femminile a un'assenza (il pene) è stata interpretata come una proiezione culturale patriarcale, non una necessità teorica.
 
 ---
 

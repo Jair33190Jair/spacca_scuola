@@ -40,6 +40,14 @@ I Tempi della Vita · Sessione 05
 - **<span class="c-dato">Moderna (fine XVIII – XX sec.)</span>:** padre affettuoso, bambino al centro; ma il <span class="c-warn">codice napoleonico (<span class="c-dato">1803</span>) ristabilisce la potenza paterna</span>
 - **<span class="c-dato">Contemporanea (dal 1965)</span>:** crollo del modello patriarcale, valorizzazione dell'individuo, coniugalità "privatizzata", aumento divorzi
 
+### La coppia contemporanea
+
+- Orizzonte temporale ridotto al presente · regressione istituzione matrimonio
+- Coniugalità privatizzata: il matrimonio come scelta individuale
+- Difficoltà identitarie nei ruoli coniugali e genitoriali
+- <span class="c-impl">Emergenza educativa positiva: senza norme condivise, ogni regola deve essere negoziata — opportunità di relazioni più autentiche, ma anche rischio per chi ha meno risorse</span>
+- <span class="c-warn">**Crisi di legittimità**: i genitori faticano a sentirsi autorizzati a imporre limiti → fenomeno del **bambino-re**</span>
+
 ---
 
 ## Cambiamenti culturali nella transizione alla genitorialità
@@ -104,3 +112,4 @@ I Tempi della Vita · Sessione 05
 - **<span class="c-def">Genitorialità</span>** = processo psichico, non solo biologico; inizia nell'infanzia e si intensifica nel periodo perinatale
 - **Quattro livelli di conflitto** (normale, nevrotico, masochistico, narcisistico) — determinati dal grado di elaborazione dei lutti del genitore
 - <span class="c-tesi">**I casi Myriam e Régine** mostrano come il sintomo del bambino sia spesso il portavoce del conflitto irrisolto del genitore</span>
+- **Crisi di legittimità**: senza consenso sociale sulle norme educative, i genitori si sentono soli e non autorizzati a porre limiti → rischio del **bambino-re** (bambino al centro senza struttura adeguata)

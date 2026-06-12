@@ -1,11 +1,11 @@
 # Sviluppo Cognitivo secondo Piaget
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 I Tempi della Vita · Lezione 02 · A.A. 2025/2026
 
@@ -116,11 +116,26 @@ Il periodo sensomotorio si divide in **6 sotto-stadi**:
 
 <span class="c-def">La conquista più importante di questo stadio è la **permanenza dell'oggetto**: la comprensione che un oggetto continua a esistere anche quando non è visibile.</span> Prima di questa acquisizione, "lontano dagli occhi = lontano dalla mente" è letteralmente vero per il bambino.
 
+Con il sesto sotto-stadio, il bambino fa il salto verso l'intelligenza rappresentativa. Piaget distingue due forme di intelligenza con differenze fondamentali:
+
+| | Intelligenza sensomotoria | Pensiero concettuale |
+|---|---|---|
+| **Orientamento** | Orientata alla **riuscita** pratica (fare) | Orientata alla **conoscenza** (capire il perché) |
+| **Natura** | Adattamento fisico — agisce su oggetti e corpi | Opera secondo **regole** logiche interne |
+
+<span class="c-impl">Il passaggio dall'una all'altra non è brusco: il sesto sotto-stadio sensomotorio è la cerniera — il bambino comincia a interiorizzare schemi e anticipare risultati, aprendo la strada al pensiero simbolico del periodo preoperatorio.</span>
+
 ---
 
 ### Stadio 2 — Preoperatorio (18 mesi – 6/7 anni)
 
 <span class="c-tesi">Il bambino acquisisce la **rappresentazione simbolica**: usa parole, immagini mentali, gioco simbolico e disegno per rappresentare il mondo. È una svolta enorme — finalmente può pensare a cose che non sono fisicamente presenti.</span>
+
+Piaget divide questo stadio in due periodi interni:
+
+<span class="c-def">**Periodo preconcettuale (2–4 anni)** — il pensiero simbolico si affina, ma è ancora soggetto a limitazioni importanti: animismo ed egocentrismo dominano.</span>
+
+<span class="c-def">**Periodo intuitivo (4–7 anni)** — il bambino interiorizza i dati percettivi e inizia a ragionare in modo più articolato, ma il pensiero rimane **irreversibile**: coglie le cose ma non sa giustificare o analizzare il procedimento che l'ha portato a capirle.</span> <span class="c-es">Un bambino di 6 anni sa che due file di gettoni sono uguali, ma se sposti i gettoni senza cambiarne il numero, non riconosce più l'uguaglianza — perché ragiona sull'aspetto percettivo, non sulla logica.</span>
 
 Ma questo stadio è anche caratterizzato da **importanti limiti cognitivi**:
 
@@ -136,7 +151,7 @@ Ma questo stadio è anche caratterizzato da **importanti limiti cognitivi**:
 
 ---
 
-### Stadio 3 — Operatorio Concreto (7–11 anni)
+### Stadio 3 — Operatorio Concreto (7–12 anni)
 
 Compare il **pensiero logico**, ma ancora ancorato a oggetti e situazioni concrete. Il bambino ragiona correttamente su esperienze tangibili, ma non ancora su proposizioni puramente astratte.
 
@@ -217,7 +232,7 @@ Le invarianti funzionali sono tre processi — organizzazione, adattamento ed eq
 L'assimilazione è il processo con cui nuove informazioni vengono incorporate negli schemi già esistenti, senza modificarli. L'accomodamento è il processo opposto: quando le nuove informazioni non rientrano in nessuno schema esistente, gli schemi si modificano per adattarsi. Esempio: un bambino che conosce i cani e vede un cavallo per la prima volta lo chiama "cane grande" (assimilazione). Quando capisce che il cavallo è qualcosa di diverso e crea un nuovo schema, avviene l'accomodamento. Entrambi lavorano sempre in coppia.
 
 **Quali sono i 4 stadi di sviluppo cognitivo secondo Piaget e le loro fasce d'età?**
-I quattro stadi sono: 1) Sensomotorio (0–2 anni): il bambino conosce il mondo attraverso sensi e movimento, senza pensiero simbolico. 2) Preoperatorio (18 mesi–7 anni): compare il pensiero simbolico, ma con limitazioni importanti (egocentrismo, animismo, artificialismo, costanza dell'identità). 3) Operatorio concreto (7–11 anni): compare la logica, ma solo applicata a situazioni concrete; conquista principale è la conservazione. 4) Operatorio formale (dai 12 anni): pensiero astratto e ipotetico-deduttivo. La sequenza è universale e non può essere saltata.
+I quattro stadi sono: 1) Sensomotorio (0–2 anni): il bambino conosce il mondo attraverso sensi e movimento, senza pensiero simbolico. 2) Preoperatorio (18 mesi–7 anni): compare il pensiero simbolico (prima periodo preconcettuale 2–4 anni, poi periodo intuitivo 4–7 anni), ma con limitazioni importanti (egocentrismo, animismo, artificialismo, costanza dell'identità). 3) Operatorio concreto (7–12 anni): compare la logica, ma solo applicata a situazioni concrete; conquista principale è la conservazione. 4) Operatorio formale (dai 12 anni): pensiero astratto e ipotetico-deduttivo. La sequenza è universale e non può essere saltata.
 
 **Quali sono i 4 limiti cognitivi del periodo preoperatorio?**
 I quattro limiti del preoperatorio sono: l'egocentrismo (incapacità di assumere la prospettiva altrui, presente fino a circa 8 anni); l'animismo (credenza che gli oggetti inanimati siano vivi); l'artificialismo (credenza che tutto ciò che esiste in natura sia stato creato dall'uomo); e la costanza dell'identità (incapacità di comprendere che l'identità di una persona resta la stessa nonostante i cambiamenti esteriori). Questi limiti non sono difetti morali — riflettono semplicemente il funzionamento della mente a quella fase.

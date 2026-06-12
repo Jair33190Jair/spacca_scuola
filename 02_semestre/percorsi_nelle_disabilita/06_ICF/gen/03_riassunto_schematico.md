@@ -18,6 +18,7 @@ Percorsi nelle disabilità · Sessione 06
 - **Ente** → <span class="c-dato">OMS (Organizzazione Mondiale della Sanità)</span>
 - **Anno** → <span class="c-dato">2001</span> (traduzione italiana 2002)
 - **Versioni** → ICF classico (adulti) · <span class="c-dato">ICF-CY (0-18 anni, 2007)</span> · ICF versione breve
+- **Collegamento giuridico** → <span class="c-dato">Convenzione ONU sui Diritti delle Persone con Disabilità (New York, 2006)</span> — definisce disabilità come interazione tra menomazione e barriere; l'ICF è lo strumento operativo
 
 ---
 
@@ -136,9 +137,12 @@ ICF
 | `d` | Attività e Partecipazione | 1 |
 | `e` | Fattori ambientali | 2 |
 
-- **Struttura codice** → lettera + numero capitolo + sottocategorie + `.` + qualificatore
-- **Qualificatore** → <span class="c-def">0 (nessuna difficoltà) → 4 (difficoltà completa)</span>
-- **Fattori ambientali** → <span class="c-def">`+` facilitatore / `.` barriera</span>
+- **Struttura codice** → lettera + numero capitolo + sottocategorie + `.` + qualificatore(i)
+- **Qualificatori per componente:**
+  - Funzioni corporee → 1 qualificatore: gravità menomazione (0–4)
+  - Strutture corporee → <span class="c-def">3 qualificatori: gravità · natura · localizzazione della menomazione</span>
+  - Attività/partecipazione → 2 qualificatori: performance · capacità
+  - Fattori ambientali → <span class="c-def">`+` facilitatore / `.` barriera (0–4)</span>
 
 ---
 
@@ -148,8 +152,9 @@ ICF
 |-----|------|--------|
 | <span class="c-dato">OMS</span> | ICF (prima edizione) | 2001 |
 | <span class="c-dato">OMS</span> | Traduzione italiana ICF | 2002 |
+| <span class="c-dato">OMS</span> | ICF Checklist | settembre 2003 |
 | <span class="c-dato">OMS</span> | ICF-CY (versione bambini/giovani) | 2007 |
-| OMS | ICF Checklist | settembre 2003 |
+| <span class="c-dato">ONU</span> | Convenzione sui Diritti delle Persone con Disabilità | 2006 |
 | <span class="c-dato">Ianes D.</span> | *La diagnosi funzionale secondo l'ICF*, Erickson | 2004 |
 | Ianes, Cramerotti, Scapin | *Profilo di funzionamento su base ICF-CY e PEI*, Erickson | 2019 |
 | Franchini R. | *Disabilità, cura educativa e progetto di vita*, Erickson | — |
@@ -158,4 +163,4 @@ ICF
 
 ### Parole chiave
 
-`ICF` · `ICF-CY` · `OMS` · `funzionamento` · `disabilità` · `salute` · `modello biopsicosociale` · `modello medico` · `cambio di paradigma` · `menomazione` · `limitazione` · `restrizione` · `facilitatore` · `barriera` · `capacità` · `performance` · `fattori contestuali` · `fattori ambientali` · `fattori personali` · `PEI` · `qualificatore` · `codifica alfanumerica`
+`ICF` · `ICF-CY` · `OMS` · `Convenzione ONU 2006` · `funzionamento` · `disabilità` · `salute` · `modello biopsicosociale` · `modello medico` · `cambio di paradigma` · `menomazione` · `limitazione` · `restrizione` · `facilitatore` · `barriera` · `capacità` · `performance` · `fattori contestuali` · `fattori ambientali` · `fattori personali` · `PEI` · `qualificatore` · `codifica alfanumerica`

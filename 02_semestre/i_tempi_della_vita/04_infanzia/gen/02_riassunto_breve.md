@@ -1,11 +1,11 @@
 # L'Infanzia: Sviluppo psicoaffettivo, relazioni primarie e attaccamento — Sintesi
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 I Tempi della Vita · Sessione 04
 
@@ -23,10 +23,13 @@ I Tempi della Vita · Sessione 04
   - **Sadico-anale** (18 mesi - 4 anni): trattenere/espellere, controllo, ambivalenza.
   - **Fallico-uretrale** (3-5 anni): genitali, potenza narcisistica.
   - **Complesso di Edipo** (~4 anni): triangolo relazionale, limiti, differenze di genere e generazione.
-  - **Latenza** (6-12 anni): rimozione, investimento nell'apprendimento.
+  - **Latenza** (6-12 anni): rimozione, investimento nell'apprendimento. <span class="c-warn">Sotto la calma apparente: intense sollecitazioni non espresse.</span>
   - **Sessualità genitale** (pubertà): integrazione delle pulsioni.
+- <span class="c-dato">K. Abraham</span> distingue sottofasi: **oralità libidica** (piacere) e **oralità aggressiva** (post-dentizione); fase anale **espulsiva** e **ritentiva**.
 - **Fissazione**: blocco dell'energia a uno stadio. **Regressione**: ritorno a modalità più antiche sotto stress.
 - <span class="c-impl">Il **Complesso di Edipo** struttura l'intera psiche (Io, Es, Super-Io) e apre alla vita simbolica — dalla relazione duale a quella triangolare.</span>
+- <span class="c-warn">Versione femminile: Jung propone "Complesso di Elettra"; Freud parla di "invidia del pene" — concezione fallocentrica oggi superata.</span>
+- **Psicopatologia nella logica freudiana**: ossessività → fissazione sadico-anale; aspetti maniaco-depressivi → oralità; isteria → dramma edipico.
 
 ---
 
@@ -60,10 +63,13 @@ I Tempi della Vita · Sessione 04
 
 - <span class="c-tesi">**Attaccamento è primario**, non derivato dalla nutrizione (Bowlby). Prove: imprinting di Lorenz, esperimenti di Harlow sui macachi.</span>
 - <span class="c-def">**Attaccamento** = sistema innato che spinge il bambino verso il caregiver per sicurezza; **Accudimento** = il sistema complementare nell'adulto.</span>
+- Condizioni per parlare di legame di attaccamento: duraturo, con una persona specifica, emotivamente significativo, orientato alla sicurezza.
 - Caratteristiche: **neotenia** (immaturità prolungata), **monotropismo** (legame preferenziale con una figura).
 - Il sistema si attiva in situazioni di stress e si disattiva quando il bambino raggiunge sicurezza.
 - <span class="c-def">**Modelli Operativi Interni (MOI)**: pattern cognitivo-affettivi costruiti nell'infanzia che guidano tutte le relazioni successive, operando al di fuori della coscienza.</span>
 - Tre funzioni del legame: **ricerca di prossimità**, **porto sicuro**, **base sicura**.
+- <span class="c-tesi">L'attaccamento è rilevante **dalla culla alla tomba**: gli stili adulti sono relativamente stabili ma modificabili da esperienze correttive e terapia.</span>
+- Risposta alla separazione — tre fasi: **Protesta** (ricerca attiva) → **Disperazione** (ritiro passivo) → **Distacco** (apparente indifferenza difensiva).
 
 ### I quattro pattern (Strange Situation — Ainsworth)
 

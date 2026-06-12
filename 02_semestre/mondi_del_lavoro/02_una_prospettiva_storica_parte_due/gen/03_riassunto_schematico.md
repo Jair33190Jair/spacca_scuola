@@ -1,11 +1,11 @@
 # Il lavoro e le sue trasformazioni: una prospettiva storica — Parte 2 · Schema
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 Mondi del lavoro · Sessione 02
 
@@ -115,13 +115,18 @@ Mondi del lavoro · Sessione 02
 | Indicatore | Dato |
 |---|---|
 | Tasso attività donne (CH, 2023) | <span class="c-dato">62,6% vs. uomini 72,9% (divario 10,3 pp, in calo dal 13 pp del 2013)</span> |
-| Donne che lavorano part-time (TI, 2024) | <span class="c-dato">57,7%</span> |
+| Calo tasso femminile | <span class="c-warn">Comincia a decrescere dopo i 25 anni con l'arrivo dei figli; per gli uomini il picco è a 35–44 anni</span> |
+| Donne che lavorano part-time (TI, 2024) | <span class="c-dato">57,7%</span> (motivazione principale: cura figli) |
 | Divario salariale mediano (TI, 2022) | <span class="c-dato">8,4% (era 17,1% nel 2010)</span> |
-| Divario salariale non spiegato (TI, 2022) | <span class="c-warn">11,1%</span> |
+| Divario salariale — settore pubblico (TI, 2022) | <span class="c-dato">7,7%</span> |
+| Divario salariale — settore privato (TI, 2022) | <span class="c-warn">13,0%</span> |
+| Divario salariale — titolo terziario (TI, 2022) | <span class="c-warn">18,0%</span> — più alto con più istruzione |
+| Divario salariale non spiegato (TI, 2022) | <span class="c-warn">11,1%</span> — potenzialmente discriminatorio |
 | Divario tra quadri medi/alti (TI, 2022) | <span class="c-dato">18,7%</span> |
 | Donne dirigenti (TI, 2024) | <span class="c-dato">35,6%</span> |
-| Lavoro non remunerato svolto da donne (CH) | <span class="c-dato">60,5%</span> |
-| Famiglie con aiuto esterno per cura figli (TI, 2018) | 58,3% (era 26,2% nel 2004) |
+| Lavoro non remunerato svolto da donne (CH, 2020) | <span class="c-dato">60,5%</span> (valore totale: 434 miliardi fr.) |
+| Famiglie con aiuto esterno per cura figli (TI, 2018) | <span class="c-dato">58,3%</span> (era 26,2% nel 2004) |
+| Modello "solo uomo occupato" con figli 0–5 anni | <span class="c-dato">dal 45% nel 2000 al 26,5% nel 2023</span> — in forte calo |
 
 ---
 

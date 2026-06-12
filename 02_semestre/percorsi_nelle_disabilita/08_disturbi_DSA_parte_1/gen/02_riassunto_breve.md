@@ -106,6 +106,14 @@ Percorsi nelle Disabilità · Sessione 08
 
 ---
 
+## Comorbidità frequenti
+
+- Nei **bambini**: <span class="c-dato">ADHD (35%)</span>, disturbi d'ansia (40-50%), dislessia (15-20%), problemi di attenzione (60-70%)
+- Negli **adulti**: <span class="c-dato">depressione (20-40%, fino al 70% nell'arco della vita)</span>, DOC (44-60%), disturbi di personalità (70-90%)
+- <span class="c-warn">L'ASD raramente si presenta da solo: le diagnosi aggiuntive si accumulano nel tempo</span>
+
+---
+
 ## Risorse ticinesi
 
 - <span class="c-dato">**Fondazione ARES**</span> (Giubiasco, dal 1995) → consulenza, formazione, presa in carico, parent-training per famiglie e professionisti

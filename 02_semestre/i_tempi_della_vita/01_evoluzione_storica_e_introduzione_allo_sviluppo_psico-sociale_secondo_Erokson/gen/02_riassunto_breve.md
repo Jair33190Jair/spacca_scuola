@@ -1,11 +1,11 @@
 # Evoluzione storica e sviluppo psico-sociale secondo Erikson — Sintesi
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 I Tempi della Vita · Sessione 01
 
@@ -52,7 +52,7 @@ I Tempi della Vita · Sessione 01
 2. È **multidimensionale e multidirezionale** (fisico, cognitivo, emotivo, sociale).
 3. È caratterizzato da **plasticità** (le traiettorie si possono modificare a qualsiasi età).
 4. <span class="c-tesi">Implica **guadagni e perdite** in ogni fase (nessuna fase è "solo guadagno" o "solo perdita").</span>
-5. È **interattivo** (individuo ↔ ambiente; prospettiva interazionista-sistemica).
+5. È **interattivo** (individuo ↔ ambiente; **prospettiva interazionista-sistemica**: il cambiamento di un elemento modifica tutto il sistema).
 6. È calato nella **realtà storica e culturale** (l'adolescente di oggi ≠ quello di 30 anni fa).
 7. È **multidisciplinare** (psicologia, sociologia, biologia, neuroscienze, economia...).
 
@@ -101,7 +101,7 @@ I Tempi della Vita · Sessione 01
 - <span class="c-es">**Stadio 1**: mi fido di chi mi cura, ma non di tutti indistintamente (sfiducia come protezione).</span>
 - **Stadio 2**: faccio le cose da solo, ma tollero piccole frustrazioni senza bloccarmi.
 - **Stadio 5**: esploro ruoli diversi prima di definire chi sono — nessun percorso imposto.
-- **Stadio 7**: trasmetto qualcosa alle generazioni future (non solo come genitore — anche come mentore, professionista).
+- **Stadio 7**: trasmetto alle generazioni future (termine originale: *generatività*; poi ampliato a *creatività* — non solo come genitore, anche come mentore, professionista).
 - **Stadio 8**: accetto anche ciò che non ho potuto realizzare, integrandolo nella mia storia.
 
 ---

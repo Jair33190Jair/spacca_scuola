@@ -81,7 +81,7 @@ Percorsi nelle Disabilità · Sessione 08
 
 ### B. Pattern ristretti e ripetitivi _(4 criteri)_
 
-- **B.1** → <span class="c-def">stereotipie motorie, ecolalia, linguaggio idiosincratico</span>
+- **B.1** → <span class="c-def">stereotipie motorie, ecolalia, inversione pronominale, linguaggio idiosincratico</span>
 - **B.2** → <span class="c-def">insistenza nella sameness</span> (routine rigide, stress da cambiamenti)
 - **B.3** → interessi ristretti e fissi, anomali per intensità/profondità
 - **B.4** → <span class="c-def">iper- o ipo-reattività sensoriale</span>
@@ -107,6 +107,27 @@ Percorsi nelle Disabilità · Sessione 08
 | **3** | Grave | Supporto molto sostanziale |
 
 **Specificatori:** con/senza compromissione intellettiva · con/senza compromissione del linguaggio · con condizioni mediche/genetiche associate · con altri disturbi del neurosviluppo
+
+---
+
+## Schema Deficit Comunicativo _(Rudelli / ARES)_
+
+| | **Produzione** | **Comprensione** |
+|---|---|---|
+| **Verbale** | articolazione difficoltosa · ecolalia · inversione pronominale · linguaggio idiosincratico | mancata comprensione del linguaggio · interpretazione letterale |
+| **Non verbale** | mancato uso della gestualità | mancata comprensione della gestualità |
+
+---
+
+## Due profili a confronto (video in aula)
+
+| | **Temple Grandin** | **Noè** |
+|---|---|---|
+| Livello | 1 (ex Asperger) | Elevato bisogno di supporto |
+| Intelletto | Nella norma / superiore | — |
+| Comunicazione | Verbale ma non pragmatica (fuori tema) | Limitata |
+| Interessi | Animali, tecnologia (macchina abbracci) | — |
+| Chiave | Stessa diagnosi, manifestazione radicalmente diversa |
 
 ---
 
@@ -142,4 +163,4 @@ Percorsi nelle Disabilità · Sessione 08
 
 ### Parole chiave
 
-`ASD` · `diade diagnostica` · `ecolalia` · `pragmatica del linguaggio` · `neurodiversità` · `sameness` · `stereotipie` · `ipersensibilità` · `iposensibilità` · `SIRS` · `HYPO` · `HYPER` · `EP` · `intervento precoce` · `neurotipico` · `comorbidità` · `spettro`
+`ASD` · `diade diagnostica` · `ecolalia` · `inversione pronominale` · `pragmatica del linguaggio` · `neurodiversità` · `sameness` · `stereotipie` · `ipersensibilità` · `iposensibilità` · `SIRS` · `HYPO` · `HYPER` · `EP` · `intervento precoce` · `neurotipico` · `comorbidità` · `spettro`

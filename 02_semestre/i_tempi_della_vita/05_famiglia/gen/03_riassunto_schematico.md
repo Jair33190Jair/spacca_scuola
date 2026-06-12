@@ -36,6 +36,7 @@ I Tempi della Vita · Sessione 05
   5. Garantire l'accesso allo statuto di adulto
 - **<span class="c-def">Dissociazione contemporanea</span>** → genitorialità **biologica** / **istituzionale** (giuridica) / **domestica** (cura)
 - **<span class="c-warn">Principi dominanti filiazione occidentale</span>** → bilateralità · ideologia del sangue · esclusività
+- **<span class="c-def">Genitorialità additive</span>** → più figure adulte svolgono funzioni genitoriali in modo complementare (non sostitutivo)
 
 ---
 
@@ -46,6 +47,15 @@ I Tempi della Vita · Sessione 05
 | **<span class="c-dato">Tradizionale</span>** (XVI–XVIII sec.) | Padre-padrone · donna e figli sottomessi · matrimonio = alleanza tra stirpi |
 | **<span class="c-dato">Moderna</span>** (fine XVIII – XX sec.) | Padre affettuoso · bambino al centro · <span class="c-warn">codice napoleonico <span class="c-dato">1803</span>: ristabilisce potenza paterna</span> · rigida divisione ruoli |
 | **<span class="c-dato">Contemporanea / post-moderna</span>** (dal 1965) | Crollo patriarcato · valorizzazione soggettività · coniugalità privatizzata · precarizzazione unione |
+
+### La coppia contemporanea
+
+- **Orizzonte temporale** → ridotto al presente
+- **Istituzione matrimonio** → in regressione
+- **Coniugalità privatizzata** → scelta individuale; grande peso alla soddisfazione personale
+- **Difficoltà identitarie** → ruoli genitoriali e coniugali meno definiti da norme sociali
+- **<span class="c-impl">Emergenza educativa positiva</span>** → senza norme condivise, la negoziazione delle regole può arricchire — ma richiede risorse
+- **<span class="c-warn">Crisi di legittimità</span>** → i genitori faticano a sentirsi autorizzati a imporre limiti → **bambino-re**
 
 ---
 
@@ -132,9 +142,10 @@ I Tempi della Vita · Sessione 05
 | <span class="c-dato">Cramer & Palacio Espasa</span> | Conflitti della genitorialità; psicoterapie madre-bambino | 1993 |
 | <span class="c-dato">Lazartigues</span> | Edonismo e nuove pratiche di genitorialità | 2000 |
 | <span class="c-dato">Fruggeri</span> | Famiglia come unione di affetti | 2005 |
+| <span class="c-dato">De Pierrepont & Lévy</span> | Motivazioni della scelta di non avere figli | 2017 |
 
 ---
 
 ### Parole chiave
 
-`genitorialità` · `plurigenitorialità` · `identificazioni proiettive` · `lutti di sviluppo` · `trasparenza psichica` · `periodo perinatale` · `genitorialità nevrotica` · `genitorialità masochistica` · `genitorialità narcisistica` · `pre-transfert` · `seconda transizione demografica` · `famiglia affettiva` · `bilinearità delle origini` · `dissociazione della genitorialità` · `generatività`
+`genitorialità` · `plurigenitorialità` · `genitorialità additive` · `identificazioni proiettive` · `lutti di sviluppo` · `trasparenza psichica` · `periodo perinatale` · `genitorialità nevrotica` · `genitorialità masochistica` · `genitorialità narcisistica` · `pre-transfert` · `seconda transizione demografica` · `famiglia affettiva` · `bilinearità delle origini` · `dissociazione della genitorialità` · `generatività` · `bambino-re` · `crisi di legittimità` · `edonismo`

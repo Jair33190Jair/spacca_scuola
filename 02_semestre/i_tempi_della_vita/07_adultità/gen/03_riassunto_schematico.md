@@ -99,8 +99,9 @@ I Tempi della Vita · Sessione 07
 | Fase | Scopo | Periodo |
 |------|-------|---------|
 | Acquisitiva | Imparare | Infanzia/adolescenza |
-| Realizzativa/Esecutiva | Applicare | Età adulta |
-| Reintegrativa | Selezionare | Terza età |
+| Realizzativa | Applicare / affermarsi | Prima età adulta |
+| Responsabilità/Esecutiva | Risolvere; gestire sistemi sociali | Età adulta intermedia |
+| Reintegrativa | Selezionare; dare senso | Tarda età adulta / terza età |
 
 - <span class="c-def">**Pensiero post-formale (5° stadio)**</span> → soggettivo, pratico, integrativo; <span class="c-warn">non cerca la verità assoluta ma quella significativa per sé</span>
 

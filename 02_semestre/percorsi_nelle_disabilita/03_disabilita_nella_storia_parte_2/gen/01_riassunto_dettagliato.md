@@ -124,6 +124,20 @@ A partire dal <span class="c-dato">1935</span>, discussioni interne al partito n
 
 ---
 
+## Il nazismo: numeri e meccanismi dello sterminio
+
+Prima di passare al dopoguerra, vale la pena fermarsi sui dati concreti che Schianchi riporta — perché i numeri, qui, fanno capire la scala dell'orrore meglio di qualsiasi descrizione.
+
+Già nel <span class="c-dato">1933</span> la Germania nazista emanò una legge per la **sterilizzazione forzata** delle persone considerate portatrici di malattie ereditarie. In dodici anni, secondo alcune stime, vennero sterilizzate <span class="c-dato">400.000 persone</span> (isterectomia per le donne, vasectomia per gli uomini). Nel <span class="c-dato">1935</span> fu promulgata una legge che vietava il matrimonio tra persone disabili — le patologie "additate" includevano deformità fisiche ereditarie, cecità, schizofrenia, epilessia, alcolismo grave.
+
+Il "programma eutanasia" (Aktion T4) iniziò di fatto nell'<span class="c-dato">agosto 1939</span>: bambini nati disabili vennero portati in "sanatori pedagogici" dove erano uccisi con iniezioni letali o lasciati morire. Questa prima fase portò all'eliminazione di circa <span class="c-dato">5.000 bambini</span>.
+
+Poi toccò agli adulti. Tra il <span class="c-dato">1940 e il 1941</span>, il programma produsse oltre <span class="c-dato">70.000 morti</span>. L'operazione era coperta da istituzioni fittizie — la "Società di pubblica utilità per il trasporto degli ammalati" prelevava le persone e le portava in sei "istituti di cura" dotati di camere a gas e forni crematori. Nell'agosto 1941, dopo che le comunità religiose e la popolazione iniziarono a mostrare dissenso, il programma fu ufficialmente sospeso. Ma proseguì in modo più nascosto: al maggio 1945, le vittime totali di questo progetto "terapeutico" ammontano a circa <span class="c-dato">200.000 persone</span>.
+
+<span class="c-warn">Il genocidio delle persone disabili — che precede cronologicamente lo sterminio degli ebrei — è spesso dimenticato nella memoria storica collettiva. I dati di Schianchi lo rendono impossibile da ignorare.</span>
+
+---
+
 ## Dopo il 1945: la lenta ricostruzione
 
 La caduta del regime nazista non cancellò l'ideologia eugenista. <span class="c-tesi">Sarebbe un'illusione credere che le misure di esclusione — e di eliminazione "dolce" — siano cessate con la fine del nazismo.</span>
@@ -142,6 +156,24 @@ Chi cambiò le cose? Non i governi, non i medici. <span class="c-tesi">Furono le
 
 Nel dopoguerra si svilupparono nuove strutture in internato e in esternato, capaci di assicurare non solo l'insegnamento ma anche un'educazione sociale e le terapie necessarie. <span class="c-es">È soprattutto l'azione delle associazioni dei genitori di bambini con disabilità e i movimenti di rappresentanza che contribuirono a questo cambiamento.</span>
 
+### Il quadro giuridico: dalla Dichiarazione ONU alla Costituzione italiana
+
+Il dopoguerra portò anche un'importante risposta sul piano dei diritti. La <span class="c-dato">Dichiarazione universale dei diritti dell'uomo (1948)</span> affermò principi rilevanti anche per i disabili: tutti gli esseri umani nascono liberi ed eguali in dignità, senza distinzione alcuna, e ciascuno ha "diritto alla sicurezza in caso di disoccupazione, malattia, invalidità".
+
+La <span class="c-dato">Costituzione italiana</span> si allineò a questo spirito: l'art. 3 impone alla Repubblica di rimuovere gli ostacoli economici e sociali che impediscono il pieno sviluppo della persona; l'art. 38 afferma che "gli inabili ed i minorati hanno diritto all'educazione e all'avviamento professionale".
+
+### La Convenzione ONU del 2006 (in vigore 2008)
+
+Il punto d'arrivo più recente è la <span class="c-dato">Convenzione delle Nazioni Unite sui diritti delle persone con disabilità</span>, entrata in vigore nel <span class="c-dato">maggio 2008</span>, siglata da 126 paesi.
+
+La Convenzione introduce un cambio di paradigma fondamentale:
+
+> <span class="c-tesi">"La disabilità è il risultato dell'interazione tra persone con menomazioni e barriere comportamentali ed ambientali, che impediscono la loro piena ed effettiva partecipazione alla società su base di uguaglianza con gli altri."</span>
+
+<span class="c-impl">Questo non è un dettaglio formale: è una rivoluzione concettuale. La disabilità non è più una proprietà dell'individuo, ma il prodotto di un'interazione tra la persona e il contesto sociale. Questo sposta il problema dalla persona alla società, e cambia radicalmente cosa significa "fare inclusione".</span>
+
+<span class="c-warn">Attenzione: la Convenzione non introduce nuovi diritti, ma afferma che la discriminazione delle persone con disabilità costituisce una violazione della dignità umana già sancita dai patti internazionali.</span>
+
 ---
 
 ## Concetti chiave
@@ -156,6 +188,8 @@ Nel dopoguerra si svilupparono nuove strutture in internato e in esternato, capa
 | <span class="c-def">Aktion T4</span> | Nome in codice del "programma eutanasia" nazista, avviato nel 1939 |
 | <span class="c-def">Segregazione istituzionale</span> | Pratica di raccogliere persone con disabilità in grandi strutture isolate dalla società |
 | <span class="c-dato">AAMD</span> | American Association on Mental Deficiency, fondata con il contributo di Séguin, ancora oggi attiva |
+| <span class="c-def">Aktion T4 (dati)</span> | Circa 5.000 bambini uccisi (1939); 70.000+ morti tra adulti (1940–41); ~200.000 vittime totali |
+| <span class="c-def">Convenzione ONU 2008</span> | Trattato internazionale che definisce la disabilità come risultato di interazione persona-ambiente, non come proprietà individuale |
 
 ---
 
@@ -179,10 +213,17 @@ Il nazismo rinominò l'eugenismo "igiene razziale" e lo portò alle estreme cons
 **Chi guidò il cambiamento dopo il 1945?**
 Il cambiamento non fu guidato dai governi né dalla classe medica, ma dalle associazioni di genitori di bambini con disabilità. Fino alla metà degli anni '70 l'istituzionalizzazione restò la misura dominante. Furono i movimenti di pressione delle famiglie a opporsi alla politica di esclusione sistematica e ad aprire la strada a nuove strutture più inclusive, con educazione sociale e terapie.
 
+**Qual è il cambio di paradigma introdotto dalla Convenzione ONU del 2008?**
+La Convenzione ONU sui diritti delle persone con disabilità, entrata in vigore nel maggio 2008, afferma che la disabilità non è una proprietà dell'individuo ma "il risultato dell'interazione tra persone con menomazioni e barriere comportamentali ed ambientali". Questo sposta la responsabilità dalla persona alla società: l'esclusione non è inevitabile, ma prodotta da un contesto che non rimuove le barriere. La Convenzione non introduce nuovi diritti, ma applica quelli esistenti alla situazione delle persone con disabilità, affermando che la loro discriminazione è una violazione della dignità umana.
+
+**Quali misure concrete adottò la Germania nazista contro le persone con disabilità prima del "programma eutanasia"?**
+Già dal 1933, con la legge per la sterilizzazione forzata, la Germania nazista avviò un programma sistematico che portò in dodici anni alla sterilizzazione di circa 400.000 persone. Nel 1935 fu vietato il matrimonio tra persone con disabilità. Solo dopo questa base "preventiva" fu avviato il programma eutanasia (Aktion T4) nel 1939, che uccise prima circa 5.000 bambini, poi oltre 70.000 adulti tra il 1940 e il 1941, per un totale stimato di 200.000 vittime al termine del conflitto.
+
 ---
 
 ## Collegamenti
 
 - **Lezione 02 (Parte 1)**: il percorso da Itard a Séguin — questa lezione è la diretta continuazione.
-- **Temi aperti**: il movimento per i diritti delle persone con disabilità (anni '70–'80), la deistituzionalizzazione, la Convenzione ONU del 2006 sui diritti delle persone con disabilità.
+- **Temi aperti**: il movimento per i diritti delle persone con disabilità (anni '70–'80), la deistituzionalizzazione, l'ICF e il modello bio-psico-sociale (lezioni successive).
 - **Risorsa da vedere**: Marco Paolini — "Ausmerzen – Vite indegne di essere vissute" (link nelle slide: https://nanoo.tv/link/b/1443555).
+- **Fonte Schianchi**: il capitolo "La terza nazione del mondo" approfondisce la storia della disabilità dall'antichità alla Convenzione ONU 2008, inclusi dati precisi sullo sterminio nazista e l'evoluzione del quadro giuridico.

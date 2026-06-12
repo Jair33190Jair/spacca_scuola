@@ -1,11 +1,11 @@
 # Sviluppo Cognitivo secondo Piaget — Sintesi
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 I Tempi della Vita · Lezione 02
 
@@ -47,7 +47,7 @@ Tre processi sempre attivi, indipendentemente dall'età:
 |---|---|---|
 | **Sensomotorio** | 0–2 anni | Interazione con il mondo tramite sensi e movimenti |
 | **Preoperatorio** | 18 mesi–7 anni | Pensiero simbolico; ma egocentrico e animistico |
-| **Operatorio concreto** | 7–11 anni | Logica concreta; compare la conservazione |
+| **Operatorio concreto** | 7–12 anni | Logica concreta; compare la conservazione |
 | **Operatorio formale** | 12+ anni | Pensiero astratto e ipotetico-deduttivo |
 
 <span class="c-warn">Criteri degli stadi: sequenza universale, gerarchizzazione, integrazione, consolidamento, equilibrazione.</span>
@@ -67,8 +67,13 @@ Conquista chiave: <span class="c-def">**permanenza dell'oggetto**</span> (l'ogge
 
 ---
 
-## Stadio preoperatorio — 4 limiti cognitivi
+## Stadio preoperatorio — struttura interna e 4 limiti cognitivi
 
+Due periodi interni:
+- <span class="c-def">**Periodo preconcettuale (2–4 anni)** — pensiero simbolico presente ma dominato da animismo ed egocentrismo</span>
+- <span class="c-def">**Periodo intuitivo (4–7 anni)** — pensiero ancora irreversibile: il bambino coglie le cose ma non sa giustificare il procedimento</span>
+
+4 limiti cognitivi del preoperatorio:
 - <span class="c-def">**Egocentrismo**</span> — non riesce ad assumere la prospettiva dell'altro (fino a ~8 anni)
 - <span class="c-def">**Animismo**</span> — gli oggetti inanimati sembrano vivi
 - <span class="c-def">**Artificialismo**</span> — tutto in natura è stato fatto dall'uomo

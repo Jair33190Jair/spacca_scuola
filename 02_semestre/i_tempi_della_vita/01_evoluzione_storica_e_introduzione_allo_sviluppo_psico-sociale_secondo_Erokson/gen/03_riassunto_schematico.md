@@ -1,11 +1,11 @@
 # Evoluzione storica e sviluppo psico-sociale secondo Erikson — Schema
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 I Tempi della Vita · Sessione 01
 
@@ -51,7 +51,7 @@ I Tempi della Vita · Sessione 01
 | 2 | Multidimensionale e multidirezionale |
 | 3 | Caratterizzato da plasticità |
 | 4 | <span class="c-tesi">Implica guadagni e perdite (sempre entrambi)</span> |
-| 5 | Processo interattivo (individuo ↔ ambiente) |
+| 5 | Processo interattivo (individuo ↔ ambiente) — prospettiva interazionista-sistemica |
 | 6 | Calato nella realtà storica e culturale |
 | 7 | Multidisciplinare |
 
@@ -101,7 +101,7 @@ I Tempi della Vita · Sessione 01
 | 4 | 6-10 anni | Industriosità | Inferiorità | La difficoltà mi stimola; riconosco i miei punti di forza |
 | 5 | Adolescenza | Identità | Confusione dei ruoli | Esploro ruoli diversi senza percorso imposto |
 | 6 | Fase giovanile | Intimità | Isolamento | Relazioni profonde mantenendo spazi propri |
-| 7 | Età adulta | Creatività | Stagnazione | Trasmetto alle generazioni future (non solo come genitore) |
+| 7 | Età adulta | Creatività *(orig. generatività)* | Stagnazione | Trasmetto alle generazioni future (non solo come genitore) |
 | 8 | Età senile | Integrità dell'Io | Disperazione | Accetto anche ciò che non ho realizzato, integrandolo |
 
 ---

@@ -1,11 +1,11 @@
 # Il lavoro e le sue trasformazioni: una prospettiva storica — Parte 2
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
-  🟡 Oro    #D4AC0D → Connessione / implicazione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 Mondi del lavoro · Sessione 02
 
@@ -105,6 +105,16 @@ Le critiche sul campo sono ancora più dirette:
 
 <span class="c-es">Il risultato: **numerosi scioperi** — in particolare nel settore automobilistico — alla fine degli anni '60 e all'inizio degli anni '70 contestano violentemente il sistema. <span class="c-dato">Mirafiori (Torino, 1962)</span>, <span class="c-dato">Fiat (Torino, 1980)</span>: nomi che segnano la storia del conflitto sociale.</span>
 
+### Dal management stesso
+
+Le critiche arrivano anche dall'interno del sistema produttivo. I dirigenti stessi riconoscono tre limiti:
+
+- **Efficacia limitata**: il taylorismo funziona, ma non quanto prometteva
+- **Scarsa propensione a mobilitare i dipendenti**: un operaio che fa solo gesti meccanici non porta idee, non si impegna oltre il minimo
+- **Difficoltà nel gestire variabilità e qualità**: il sistema rigido fatica ad adattarsi quando il prodotto cambia o quando la qualità diventa una variabile competitiva
+
+<span class="c-impl">Paradossalmente, è anche l'inefficacia riconosciuta dal management che apre la strada ai nuovi modelli post-fordisti.</span>
+
 ### La crisi strutturale del fordismo
 
 Negli anni '70 arriva la tempesta perfetta. Cinque fattori si sommano:
@@ -152,6 +162,21 @@ Il sistema post-fordista si caratterizza per:
 
 ---
 
+### Taylorismo-fordismo vs. post-fordismo: quadro comparativo
+
+Le slide propongono una sintesi utile per l'esame. Vale la pena tenerla in testa:
+
+| Dimensione | Modello taylorista-fordista | Modello post-fordista |
+|---|---|---|
+| **Produzione** | Massa, standardizzata, orientata alle risorse | Flessibile, personalizzata, just-in-time, orientata alla domanda |
+| **Organizzazione** | Grande impresa gerarchica, controllo burocratico | Medie/piccole unità, imprese a rete, decentramento |
+| **Lavoro** | Parcellizzato, ripetitivo, scarsa autonomia | Maggiore autonomia, orientato agli obiettivi, ritmi intensi |
+| **Lavoratori** | Scarsamente qualificati | Flessibili ma con nuove tecniche di gestione del personale |
+| **Contratti** | Standard, piena occupazione (uomini bianchi) | Non standard, segmentati, femminilizzazione dell'impiego |
+| **Famiglia** | "Casalighizzazione" del lavoro femminile | Donne nel mercato, ma via flessibilità e precarietà |
+
+---
+
 ## La questione di genere nel mondo del lavoro
 
 Fin qui la storia "ufficiale" dell'organizzazione del lavoro. Ma il professore dedica ampio spazio a una dimensione che spesso rimane in ombra: **il genere**.
@@ -171,6 +196,7 @@ Il professore integra le schede statistiche de *Le cifre della parità* (<span c
 **Partecipazione al mercato del lavoro:**
 - In Svizzera (<span class="c-dato">2023</span>): **tasso di attività** al <span class="c-dato">67,7%</span> — tra i più alti in Europa
 - <span class="c-dato">Donne: 62,6% vs. Uomini: 72,9%</span> (divario di <span class="c-dato">10,3 punti percentuali</span>, in calo dal 13 del 2013)
+- <span class="c-warn">Il tasso femminile comincia a **decrescere a partire dai 25 anni**: molte donne lasciano il mercato del lavoro o riducono l'orario per dedicarsi alla famiglia con l'arrivo dei figli. La paternità, al contrario, non interrompe la traiettoria professionale maschile.</span>
 
 **Formazione:**
 - <span class="c-dato">Le donne 25–44 anni con titolo terziario (51,8%) **superano** gli uomini di pari età (45,0%)</span> — un ribaltamento storico
@@ -189,9 +215,25 @@ Il professore integra le schede statistiche de *Le cifre della parità* (<span c
 - <span class="c-warn">La parte del divario **non spiegata** da fattori oggettivi (potenzialmente discriminatoria) è ancora dell'<span class="c-dato">**11,1%**</span></span>
 - Il divario cresce con l'età e nei ruoli di responsabilità: tra i quadri medi e alti raggiunge il <span class="c-dato">**18,7%**</span>
 
+Le schede mostrano che il divario varia molto a seconda del contesto:
+
+| Fattore | Divario salariale (Ticino, 2022) |
+|---|---|
+| Settore pubblico | <span class="c-dato">7,7%</span> |
+| Settore privato | <span class="c-warn">13,0%</span> — più alto e meno regolamentato |
+| Formazione livello secondario II | 9,6% |
+| Formazione livello terziario | <span class="c-warn">18,0%</span> — il divario *aumenta* con l'istruzione |
+| Senza funzione quadro | 12,9% |
+| Quadri medi e alti | <span class="c-warn">18,7%</span> |
+
+<span class="c-impl">Dato controintuitivo: più alto è il livello di formazione, più grande è il divario salariale. Le donne con titolo terziario percepiscono il 18% in meno degli uomini con la stessa qualifica. Il sistema premia la qualificazione, ma non in modo uguale.</span>
+
 **Conciliabilità famiglia-lavoro:**
-- Il lavoro non remunerato (domestico, cura, volontariato) vale <span class="c-dato">434 miliardi di franchi</span> in Svizzera (<span class="c-dato">2020</span>)
+- Il lavoro non remunerato (domestico, cura, volontariato) vale <span class="c-dato">434 miliardi di franchi</span> in Svizzera (<span class="c-dato">2020</span>) — più del lavoro remunerato (7,9 miliardi di ore contro 9,8 miliardi)
 - Le donne svolgono il <span class="c-dato">**60,5%**</span> di questo lavoro
+- Il modello occupazionale più diffuso tra le coppie con figli sotto i 5 anni (<span class="c-dato">2023</span>): uomo a tempo pieno + donna a tempo parziale. Il modello "solo uomo occupato" (tradizionale) è sceso dal <span class="c-dato">45% nel 2000 al 26,5% nel 2023</span>
+- La quota di famiglie che ricorre ad aiuto esterno per la cura dei figli è passata dal <span class="c-dato">26,2% nel 2004 al 58,3% nel 2018</span>
+- In Ticino (<span class="c-dato">2024</span>): il <span class="c-dato">57,7%</span> delle donne lavora a tempo parziale, motivazione principale: cura dei figli
 
 ---
 
@@ -230,6 +272,9 @@ La segregazione occupazionale di genere descrive la distribuzione disuguale dell
 
 **Quali sono i dati chiave sulla partecipazione femminile al mercato del lavoro in Svizzera/Ticino?**
 In Svizzera (2023) il tasso di attività femminile è del 62,6% contro il 72,9% maschile — un divario di 10,3 punti, in calo dal 13 del 2013. In Ticino (2024) il 57,7% delle donne lavora a tempo parziale, motivazione principale: cura dei figli. Il divario salariale mediano in Ticino è dell'8,4% (in calo dal 17,1% del 2010), ma la parte non spiegata — potenzialmente discriminatoria — è ancora dell'11,1%, e raggiunge il 18,7% tra i quadri medi e alti. Le donne svolgono il 60,5% del lavoro non remunerato in Svizzera.
+
+**Perché il divario salariale non spiegato è importante?**
+Il divario salariale totale tra donne e uomini è in parte spiegabile da fattori oggettivi (settore, formazione, ruolo, anzianità). Ma una quota rilevante — l'11,1% in Ticino nel 2022 — non è attribuibile a nessuna variabile misurabile: è potenzialmente discriminatoria. Questo dato è il cuore del problema: significa che a parità di qualifiche, esperienza e ruolo, le donne vengono pagate meno semplicemente in quanto donne. Il principio costituzionale del "lavoro di uguale valore" (art. 8 Cost. federale) lo vieta esplicitamente, ma i dati mostrano che la realtà è ancora distante da quel principio.
 
 ---
 

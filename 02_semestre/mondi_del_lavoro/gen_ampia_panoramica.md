@@ -3,6 +3,8 @@ Semestre 02 · 9 lezioni
 
 > Da cosa sia il lavoro e come si è trasformato storicamente, fino alla digitalizzazione, alle specificità del mercato ticinese e alla risposta collettiva dei sindacati: il corso costruisce una visione d'insieme del lavoro moderno come fenomeno economico, sociale e politico. Il filo conduttore è uno solo — il **conflitto tra chi vende la forza lavoro e chi la compra** — e ogni lezione aggiunge una lente nuova per leggerlo.
 
+_Ultimo aggiornamento: 9 lezioni · giugno 2026_
+
 ---
 
 ## Mappa dei temi

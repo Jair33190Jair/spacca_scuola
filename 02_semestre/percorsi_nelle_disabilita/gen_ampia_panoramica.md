@@ -1,5 +1,5 @@
 # Percorsi nelle Disabilità — Panoramica completa
-Semestre 02 · 14 lezioni (tutte elaborate: 01–14)
+Semestre 02 · 14 lezioni
 
 > Da Hammurabi alle politiche inclusive ticinesi del 2024, questo modulo costruisce uno sguardo completo sulla disabilità: prima la storia e le classificazioni, poi i quadri legali e i modelli interpretativi, poi le situazioni specifiche (deficit intellettivo, ASD, polyhandicap), la progettualità di vita e infine la famiglia come sistema di cura. Il filo rosso è sempre lo stesso: la disabilità non è nella persona — è nell'interazione tra la persona e un contesto più o meno ostile.
 
@@ -40,23 +40,24 @@ Semestre 02 · 14 lezioni (tutte elaborate: 01–14)
   - **Haüy (1784)** → prima scuola per ciechi; forma Louis Braille
   - **Esquirol (1818)** → prima distinzione scientifica disagio psichico ≠ deficit intellettivo
   - **Itard (1800–1801)** → 5 principi pedagogici (Victor dell'Aveyron) → "tutte le persone sono educabili"
-  - **Séguin (1837–1839)** → prima scuola per persone con deficit intellettivo; rompe il fatalismo di Esquirol ("idioti sono quello che devono essere per tutta la vita"); programma fisico + intellettuale + morale; emigra negli USA nel 1851; contribuisce a fondare l'**AAMD** (oggi AAIDD) · (Lez. 02, 03)
+  - **Séguin (1837–1839)** → prima scuola per persone con deficit intellettivo; rompe il fatalismo di Esquirol; programma fisico + intellettuale + morale; emigra negli USA nel 1851; contribuisce a fondare l'**AAMD** (oggi AAIDD) · (Lez. 02, 03)
 - **Darwinismo sociale e eugenismo (fine '800 – inizio '900)** · (Lez. 03):
-  - **Darwin (1859)** → premesse scientifiche (involontarie) per il ragionamento eugenista: frenare la riproduzione degli "esseri deboli"
-  - **Galton (1880)** → fonda l'eugenismo: "migliorare la discendenza delle razze più dotate"; il talento è ereditario; povertà = deficit genetico
+  - **Darwin (1859)** → premesse scientifiche (involontarie) per il ragionamento eugenista
+  - **Galton (1880)** → fonda l'eugenismo: "migliorare la discendenza delle razze più dotate"; povertà = deficit genetico
   - **Degenerescenza** → ideologia che associa deficit intellettivo, povertà e criminalità in un'unica "inferiorità biologica" (1885–1925)
-  - **Eugenismo applicato** → segregazione in istituti (doppia funzione: proteggere i "normali" e "proteggere" gli anormali) · sterilizzazione (obbligatoria dal 1920) · controllo immigrazione
-  - ⚠️ Fino agli anni '60 nessuna voce si levò contro questi istituti disumani
+  - **Eugenismo applicato** → segregazione in istituti · sterilizzazione (obbligatoria dal 1920) · controllo immigrazione
+  - Fino agli anni '60 nessuna voce critica si levò contro questi istituti
 - **Nazismo (anni '30–'45)** · (Lez. 03):
   - Eugenismo ribattezzato **"igiene razziale"**
   - **Binding e Hoche (1920)** → nozione di "esseri inutili": la persona deve giustificare il fatto di essere in vita
-  - **Triade infernale** → deficit intellettivo + povertà + deficienza morale; poi vagabondi, disoccupati, omosessuali
-  - **1939** → decreto di Hitler: "programma eutanasia" (Aktion T4) — sterminio sistematico di persone con disabilità
+  - **Triade infernale** → deficit intellettivo + povertà + deficienza morale
+  - **1939** → decreto di Hitler: Aktion T4 — sterminio sistematico di persone con disabilità (~200.000 vittime)
+  - Il genocidio dei disabili precede cronologicamente lo sterminio degli ebrei
 - **Dopoguerra** · (Lez. 03):
   - Le idee eugeniste non spariscono con il nazismo
   - L'istituzionalizzazione resta dominante fino alla metà degli anni '70 in USA e Europa
   - **Le associazioni di genitori** sono il motore del cambiamento — non i governi
-- **Anni '70** → movimenti attivisti USA → prime norme antidiscriminazione; nascita associazioni (Atgabbes 1967, Fondazione Diamante 1978, LISPI 1979) · (Lez. 04)
+- **Anni '70** → movimenti attivisti USA; nascita associazioni (Atgabbes 1967, Fondazione Diamante 1978, LISPI 1979) · (Lez. 04)
 - **Evoluzione terminologica** · (Lez. 05):
 
 | Periodo | Termine | Modello |
@@ -87,9 +88,9 @@ Semestre 02 · 14 lezioni (tutte elaborate: 01–14)
 
 - **Integrazione** → misura eccezionale per la persona specifica; la persona si adatta al sistema · (Lez. 01, 05)
 - **Inclusione** → misure speciali normali a priori per tutti; il sistema si adatta · (Lez. 01, 05)
-  - ⚠️ Rischi: banalizzazione del termine, inclusione senza risorse = ri-esclusione mascherata
+  - Rischi: banalizzazione del termine, inclusione senza risorse = ri-esclusione mascherata
   - È una direzione, non un traguardo raggiunto
-  - ⚠️ In certi momenti la separazione è la risposta migliore alla qualità di vita della persona
+  - In certi momenti la separazione è la risposta migliore alla qualità di vita della persona
 
 ---
 
@@ -215,7 +216,7 @@ ICF
 - **Analisi funzionale** → non la diagnosi, ma come la persona funziona nel suo contesto
   - Focus su: capacità residue e **potenzialità di sviluppo** (qui si costruiscono gli obiettivi)
 - **Aree PEI** → abilità motorie · autonomie personali · apprendimenti scolastici · abilità sociali · comunicazione
-- **CAA/PECS** → quando il verbale non è raggiungibile; prerequisiti della comunicazione: percezione, imitazione, attenzione condivisa, intento comunicativo
+- **CAA/PECS** → quando il verbale non è raggiungibile; prerequisiti: percezione, imitazione, attenzione condivisa, intento comunicativo
 - Principi chiave: training strutturato e ripetuto da tutti · abbassare l'ansia prima del training · usare la motivazione intrinseca
 - **Comportamenti problema** → hanno funzione comunicativa → sostituire, non sopprimere (valutazione funzionale)
 
@@ -236,7 +237,7 @@ ICF
 - **Effetto** → restrizione estrema di autonomia, percezione, espressione, relazione; evolve nel tempo
 - **Funzionamento intellettivo** → livello profondo; ≈ bebè 6 mesi; periodo senso-motorio Piaget (stadi 1–4)
 - **Comunicazione** → comprensione precede sempre la produzione
-  - ⚠️ "non produrre ≠ non capire" — errore grave da non fare mai
+  - "non produrre ≠ non capire" — errore grave da non fare mai
   - Canale principale: non verbale (sguardo, gesti minimi); **causalità elementare** come base per comunicare
 - **Salute** → polipatologie gravi evolutive; epilessia frequente; dolore in 4 forme; effetti a cascata dal deficit motorio
   - Cambiamenti di comportamento = possibile segnale di dolore fisico non comunicato
@@ -358,7 +359,7 @@ ICF
     - **Costituzione federale** (1999) → art. 35–36
       - **Codice civile** (1907) → art. 388–398
         - **LPMA / ROPMA / LISPI** → livello cantonale Ticino
-- ⚠️ Ogni strumento cantonale deve rispettare tutti i livelli superiori
+- Ogni strumento cantonale deve rispettare tutti i livelli superiori
 
 ### Principi di ogni intervento (art. 36 Cost. / art. 389 CC)
 
@@ -371,7 +372,7 @@ ICF
 - **Definizione** → capacità di agire ragionevolmente; ha due aspetti:
   - **Cognitivo** → capisco perché lo faccio
   - **Volitivo** → valuto le conseguenze
-- ⚠️ Non è binaria: si valuta per ogni singola decisione, non per la persona in generale
+- Non è binaria: si valuta per ogni singola decisione, non per la persona in generale
 - **Verifica** → riformulazione, analisi pro/contro, valutazione dell'impatto, difesa dell'opinione
 
 ### Curatela su misura ("vestito su misura")
@@ -381,7 +382,7 @@ ICF
 - **Curatela di amministrazione dei beni** → gestione patrimoniale
 - **Curatela di cooperazione** → certi atti richiedono il consenso del curatore
 - **Combinazione** → più tipi insieme per rispondere ai bisogni reali
-- ⚠️ **Curatela generale** → strumento in via d'estinzione; contraria alla Convenzione ONU art. 12
+- **Curatela generale** → strumento in via d'estinzione; contraria alla Convenzione ONU art. 12
 - Quattro ambiti: `amministrativo` · `cura della persona` · `benessere` · `patrimoniale/giuridico`
 
 ### Diritti strettamente personali
@@ -401,7 +402,7 @@ ICF
 - **Definizione** → Legge sull'integrazione sociale e professionale degli invalidi (Canton Ticino)
 - **Strumento per** → inclusione · inserimento professionale · protezione · libertà di scelta
 - **4 obiettivi (art. 4)** → `terapia` · `educazione` · `socializzazione` · `lavoro creativo e remunerato`
-- ⚠️ Il luogo di vita è uno strumento, non un obiettivo
+- Il luogo di vita è uno strumento, non un obiettivo
 - **Direttive 1/3/5** → standard qualitativi emanati dall'Ufficio invalidi
 
 ### Dati di contesto · (Lez. 12)
@@ -423,19 +424,19 @@ ICF
 ### Il familiare curante
 
 - **Definizione** → persona che presta regolarmente assistenza/sorveglianza/accompagnamento a titolo non professionale, rendendo possibile il mantenimento a domicilio
-- 1 persona su 4 o 5 in Svizzera è familiare curante (inclusi minorenni)
+- 1 persona su 4 in Svizzera è familiare curante
 - **Sostegni** → centri diurni · congedi (Legge federale 20.12.2019: max 3 giorni/evento, 10 giorni/anno) · AGI (Assegno Grandi Invalidi) · contributi cantonali
 
 ### I siblings
 
-- **Sibling** → fratello/sorella di persona con disabilità — relazione più lunga della vita; ~260.000 bambini siblings in Svizzera
+- **Sibling** → fratello/sorella di persona con disabilità — relazione più lunga della vita
 - **Risposta tipica** → *"È semplicemente così"* → la disabilità è normalità, non eccezione
-- **Aspetti positivi** → empatia · autonomia · maturità · forte legame affettivo · tendenza a professioni sociali
-- **Carichi** → eccesso di responsabilità ("mini-genitore") · mancanza di attenzione genitoriale · isolamento · stigma · rinuncia ai propri bisogni
-  - ⚠️ Rischio nascosto: il sibling "bravo e adattato" sviluppa disturbi psichici cronici nel tempo
+- **Aspetti positivi** → empatia · autonomia · maturità · forte legame affettivo
+- **Carichi** → eccesso di responsabilità · mancanza di attenzione genitoriale · isolamento · stigma · rinuncia ai propri bisogni
+  - Rischio nascosto: il sibling "bravo e adattato" sviluppa disturbi psichici cronici nel tempo
 - **Inquietudine per il futuro** → "dopo di noi" — chi si occuperà del fratello/sorella?
 - **Bisogni (Hochschule Luzern, 2021)** → tempo per sé · ascolto emotivo · spazio per i propri sentimenti · informazioni sulla disabilità · confronto con altri siblings
-- ⚠️ **I siblings sono familiari curanti invisibili** — il lavoro sociale deve riconoscerli come tali
+- I siblings sono familiari curanti invisibili — il lavoro sociale deve riconoscerli come tali
 
 **3 dimensioni di lavoro coi siblings (Mengoni):**
 1. Con i siblings (gruppi, tutte le età)
@@ -459,14 +460,14 @@ ICF
 
 | Autore | Contributo |
 |--------|-----------|
-| **Feyerabend** | Metafora contadino/agronomo: il genitore ha il sapere concreto del proprio figlio; l'agronomo (professionista) ha quello comparativo → **complementarietà, non gerarchia** |
+| **Feyerabend** | Metafora contadino/agronomo: il genitore ha il sapere concreto del proprio figlio; l'agronomo (professionista) ha quello comparativo → complementarietà, non gerarchia |
 | **Vygotskij** | L'uomo è cultura, storia, rete di relazioni |
 | **Bruner** | Pedagogia popolare — il sapere familiare ha valore scientifico |
 | **Vico** | "verum ipsum factum" — si conosce solo ciò che si fa direttamente |
 | **Schoen** | Professionista riflessivo — impara dall'azione e dai partner |
 | **Kuhn** | La scienza avanza per rivoluzioni di paradigma |
 
-- ⚠️ Il genitore è esperto del **proprio** figlio — non della diagnosi in generale
+- Il genitore è esperto del **proprio** figlio — non della diagnosi in generale
 
 ### Narrazione — strumento centrale
 
@@ -506,6 +507,7 @@ ICF
 - **Regola SUPSI** → persona prima del deficit: "persona con disabilità" (non "disabile" come sostantivo)
 - **Da evitare** → invalido, handicappato, diversamente abile, portatore di handicap
 - **Motivazione** → sostantivare riduce la persona al deficit
+- **Agire strumentale vs. comunicativo (Habermas)** → l'altro come oggetto da gestire vs. l'altro come soggetto in relazione → (Lez. 01)
 
 ---
 
@@ -536,6 +538,7 @@ ICF
 | **Wood, Bruner, Ross** | Scaffolding (1976) | 07 |
 | **Leo Kanner** | "Autismo precoce infantile" (1943) | 08 |
 | **Lorna Wing** | Triade + concetto di spettro (1983) | 08 |
+| **Judith Singer** | Concetto di neurodiversità (anni '90) | 08 |
 | **DSM-5** | Diade diagnostica ASD + 3 livelli di gravità (2013) | 08 |
 | **Schopler** | TEACCH (1972) | 09 |
 | **Rogers e Dawson** | ESDM / Modello Denver | 09 |
@@ -550,7 +553,6 @@ ICF
 | **Morin, E.** | Autonomia dipendente | 11 |
 | **Nuzzo, A.** | Operatore come "tessitore di relazioni" | 11 |
 | **Sen, A.** | Capability approach (1993) | 11 |
-| **Judith Singer** | Concetto di neurodiversità (anni '90) | 08 |
 | **Lachapelle et al.** | Correlazione autodeterminazione-QdV soggettiva (2005) | 11 |
 | **Ersilia Gianella** | Docente-ricercatrice SUPSI — diritto di protezione e LISPI | 12 |
 | **LISPI** | Legge cantonale TI sull'integrazione sociale e professionale degli invalidi | 12 |
@@ -566,7 +568,7 @@ ICF
 
 ### Parole chiave della materia
 
-`disabilità` · `handicap` · `deficit` · `menomazione` · `inclusione` · `integrazione` · `segregazione` · `esclusione` · `grande reclusione` · `trattamento morale` · `ius vivendi` · `eugenismo` · `darwinismo sociale` · `degenerescenza` · `igiene razziale` · `esseri inutili` · `Aktion T4` · `triade infernale` · `sterilizzazione` · `AAMD` · `ICD` · `ICIDH` · `ICF` · `ICF-CY` · `PPH` · `modello biomedico` · `modello biopsicosociale` · `facilitatore` · `barriera` · `capacità` · `performance` · `CDPD` · `"niente su di noi senza di noi"` · `Lingua Facile` · `art. 19` · `autodeterminazione` · `QI` · `comportamento adattivo` · `scaffolding` · `ZSP` · `SIS` · `deficit intellettivo` · `disabilità cognitiva` · `ASD` · `diade diagnostica` · `spettro` · `neurodiversità` · `sameness` · `ecolalia` · `CAA` · `PECS` · `ABA` · `TEACCH` · `ESDM` · `PEI` · `analisi funzionale` · `parent training` · `polyhandicap` · `causalità elementare` · `QdV` · `meta-modello` · `progetto di vita` · `assessment` · `needs-led` · `services-led` · `microsistema` · `mesosistema` · `macrosistema` · `Atgabbes` · `Pro Infirmis` · `LISPI` · `Fondazione ARES` · `singolari plurali` · `cicli di vita` · `adultità` · `liminalità` · `eterno bambino` · `riti di transizione` · `autonomia dipendente` · `agente causale` · `modello funzionale` · `empowerment` · `autoregolazione` · `autorealizzazione` · `infantilizzazione` · `tessitore di relazioni` · `approccio ecologico` · `capability approach` · `self advocacy` · `curatela su misura` · `curatela generale` · `curatela di sostegno` · `curatela di rappresentanza` · `capacità di discernimento` · `sussidiarietà` · `proporzionalità` · `adeguatezza` · `ARP` · `autorità parentale prolungata` · `diritti strettamente personali` · `piramide delle fonti giuridiche` · `familiare curante` · `sibling` · `dopo di noi` · `AGI` · `esperti per esperienza` · `IMAGENCY` · `ambivalenza` · `pedagogia dei genitori` · `sapere dell'esperienza` · `narrazione` · `complementarietà dei saperi` · `gruppo di narrazione` · `formazione narrativa` · `professionista riflessivo` · `cambio di paradigma` · `comunità educante` · `speranza` · `inadeguatezza`
+`disabilità` · `handicap` · `deficit` · `menomazione` · `inclusione` · `integrazione` · `segregazione` · `esclusione` · `grande reclusione` · `trattamento morale` · `ius vivendi` · `eugenismo` · `darwinismo sociale` · `degenerescenza` · `igiene razziale` · `esseri inutili` · `Aktion T4` · `triade infernale` · `sterilizzazione` · `AAMD` · `ICD` · `ICIDH` · `ICF` · `ICF-CY` · `PPH` · `modello biomedico` · `modello biopsicosociale` · `facilitatore` · `barriera` · `capacità` · `performance` · `CDPD` · `"niente su di noi senza di noi"` · `Lingua Facile` · `art. 19` · `autodeterminazione` · `QI` · `comportamento adattivo` · `scaffolding` · `ZSP` · `SIS` · `deficit intellettivo` · `disabilità cognitiva` · `ASD` · `diade diagnostica` · `spettro` · `neurodiversità` · `sameness` · `ecolalia` · `CAA` · `PECS` · `ABA` · `TEACCH` · `ESDM` · `PEI` · `analisi funzionale` · `parent training` · `polyhandicap` · `causalità elementare` · `QdV` · `meta-modello` · `progetto di vita` · `assessment` · `needs-led` · `services-led` · `microsistema` · `mesosistema` · `macrosistema` · `Atgabbes` · `Pro Infirmis` · `LISPI` · `Fondazione ARES` · `singolari plurali` · `cicli di vita` · `adultità` · `liminalità` · `eterno bambino` · `riti di transizione` · `autonomia dipendente` · `agente causale` · `modello funzionale` · `empowerment` · `autoregolazione` · `autorealizzazione` · `infantilizzazione` · `tessitore di relazioni` · `approccio ecologico` · `capability approach` · `self advocacy` · `curatela su misura` · `curatela generale` · `curatela di sostegno` · `curatela di rappresentanza` · `capacità di discernimento` · `sussidiarietà` · `proporzionalità` · `adeguatezza` · `ARP` · `autorità parentale prolungata` · `diritti strettamente personali` · `piramide delle fonti giuridiche` · `familiare curante` · `sibling` · `dopo di noi` · `AGI` · `esperti per esperienza` · `ambivalenza` · `pedagogia dei genitori` · `sapere dell'esperienza` · `narrazione` · `complementarietà dei saperi` · `gruppo di narrazione` · `formazione narrativa` · `professionista riflessivo` · `cambio di paradigma` · `comunità educante` · `speranza` · `inadeguatezza`
 
 ---
 
@@ -579,7 +581,7 @@ Il modulo percorre una trasformazione radicale nel modo in cui la società pensa
 ## Domande di orientamento allo studio
 
 **Come è cambiato nel corso dei secoli il modo in cui la società trattava le persone con disabilità? Quali sono le tappe più significative?**
-Il percorso va dall'eliminazione fisica alla partecipazione come diritto. Nell'antichità, le persone con disabilità grave venivano eliminate (infanticidio, esposizione) — pratica accettata fino ai primi imperatori cristiani, che sancirono lo ius vivendi (Costantino, 274–337). Nel Medioevo, la "follia" raccoglieva tutti i "diversi" in un contenitore indifferenziato, che sfocia nella Grande Reclusione. La svolta arriva con l'Illuminismo: Pinel umanizza il trattamento, Itard dimostra che tutte le persone sono educabili, Esquirol separa disagio psichico da deficit intellettivo. Séguin apre la prima scuola per idioti nel 1839, ma questa traiettoria positiva viene interrotta dall'eugenismo (Galton, 1880) e dalla sua radicalizzazione nazista: il programma eutanasia (Aktion T4, 1939) porta allo sterminio sistematico di persone con disabilità. Il dopoguerra non cancella subito il modello istituzionale — fino agli anni '70 la segregazione resta dominante. La svolta viene dalle associazioni di genitori, poi dalla CDPD del 2006 come sintesi di un cambio culturale globale. (Lez. 01, 02, 03, 04, 08)
+Il percorso va dall'eliminazione fisica alla partecipazione come diritto. Nell'antichità, le persone con disabilità grave venivano eliminate (infanticidio, esposizione) — pratica accettata fino ai primi imperatori cristiani, che sancirono lo ius vivendi (Costantino, 274–337). Nel Medioevo, la "follia" raccoglieva tutti i "diversi" in un contenitore indifferenziato, che sfocia nella Grande Reclusione. La svolta arriva con l'Illuminismo: Pinel umanizza il trattamento, Itard dimostra che tutte le persone sono educabili, Esquirol separa disagio psichico da deficit intellettivo. Séguin apre la prima scuola per idioti nel 1839, ma questa traiettoria positiva viene interrotta dall'eugenismo (Galton, 1880) e dalla sua radicalizzazione nazista: il programma eutanasia (Aktion T4, 1939) porta allo sterminio sistematico di persone con disabilità. Il dopoguerra non cancella subito il modello istituzionale — fino agli anni '70 la segregazione resta dominante. La svolta viene dalle associazioni di genitori, poi dalla CDPD del 2006 come sintesi di un cambio culturale globale. (Lez. 01, 02, 03, 04)
 
 **Qual è il collegamento tra il modello biopsicosociale dell'ICF e la Convenzione ONU sui diritti delle persone con disabilità (CDPD)?**
 Entrambi condividono la stessa definizione di disabilità: non è una caratteristica della persona, ma il risultato dell'interazione tra la persona con menomazioni e le barriere del contesto. L'ICF (OMS, 2001) traduce questo principio in uno strumento di classificazione del funzionamento — si chiede cosa la persona può fare nel suo contesto. La CDPD (2006) lo traduce in diritti giuridici: è il contesto che deve adattarsi, non la persona. I due strumenti sono complementari: l'ICF è lo strumento clinico-educativo, la CDPD è il quadro di diritti che ne giustifica l'uso. Entrambi portano alla stessa implicazione pratica: l'operatore sociale lavora sull'ambiente, non (solo) sulla persona. (Lez. 04, 05, 06)
@@ -603,4 +605,4 @@ Il principio di autodeterminazione, affermato dalla CDPD (art. 12 e 19) e teoriz
 La famiglia è presente a tutti i livelli ecologici (Bronfenbrenner) e garantisce continuità nei passaggi tra le fasi della vita che i servizi non assicurano. I siblings sono i familiari curanti più invisibili: la relazione fraterna è la più lunga della vita, ma viene sistematicamente ignorata. Lo studio della Hochschule Luzern (2021) mostra che i bisogni principali dei siblings sono ascolto emotivo, spazio per i propri sentimenti e informazioni sulla disabilità. Il rischio: il sibling "bravo e adattato" sviluppa disturbi psichici cronici nel tempo se rimane senza sostegno. La Pedagogia dei Genitori (Moletto e Zucchi, anni '90; Ticino dal 2005) aggiunge una dimensione epistemologica: il genitore possiede un sapere sull'esperienza concreta del proprio figlio che nessun professionista può replicare — il genitore è l'agronomo che non si può sostituire, ma integrare. Questo cambia il tipo di relazione tra operatore e famiglia: non più esperto vs. paziente, ma due saperi complementari co-costruttori del progetto di vita. (Lez. 13, 14)
 
 **Qual è il filo conduttore dell'intera materia "Percorsi nelle Disabilità"?**
-Il filo conduttore è il passaggio da un paradigma dove la disabilità abita nella persona a uno dove la disabilità emerge dalla relazione tra la persona e un contesto più o meno ostile. Questo attraversa tutto il modulo: storicamente (dall'infanticidio alla pedagogia speciale), concettualmente (dal modello medico al biopsicosociale), giuridicamente (dalla carità alla CDPD), strumentalmente (da diagnosi = destino a analisi funzionale + progetto di vita), e socialmente (dal singolo alla famiglia, fino ai siblings e alla Pedagogia dei Genitori che riconosce il sapere familiare come sapere scientifico). Il risultato pratico per chi lavora nel settore è uno solo: l'intervento professionale si focalizza sull'ambiente e sui sostegni, non sulla "correzione" della persona — e lo fa in alleanza con la famiglia, non al suo posto. L'inclusione è la direzione, la qualità di vita è la misura, e la persona — con i suoi desideri, sogni e aspirazioni — è sempre il punto di partenza.
+Il filo conduttore è il passaggio da un paradigma dove la disabilità abita nella persona a uno dove la disabilità emerge dalla relazione tra la persona e un contesto più o meno ostile. Questo attraversa tutto il modulo: storicamente (dall'infanticidio alla pedagogia speciale), concettualmente (dal modello medico al biopsicosociale), giuridicamente (dalla carità alla CDPD), strumentalmente (da diagnosi = destino a analisi funzionale + progetto di vita), e socialmente (dal singolo alla famiglia, fino ai siblings e alla Pedagogia dei Genitori che riconosce il sapere familiare come sapere scientifico). Il risultato pratico per chi lavora nel settore è uno solo: l'intervento professionale si focalizza sull'ambiente e sui sostegni, non sulla "correzione" della persona — e lo fa in alleanza con la famiglia, non al suo posto. L'inclusione è la direzione, la qualità di vita è la misura, e la persona — con i suoi desideri, sogni e aspirazioni — è sempre il punto di partenza. (Lez. 01–14)

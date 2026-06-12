@@ -1,11 +1,11 @@
 # Sviluppo Cognitivo secondo Piaget — Schema
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 I Tempi della Vita · Lezione 02
 
@@ -44,7 +44,7 @@ I Tempi della Vita · Lezione 02
 |---|---|---|
 | **Sensomotorio** | 0–2 anni | Sensi + movimenti; no pensiero simbolico |
 | **Preoperatorio** | 18 mesi–7 anni | Pensiero simbolico; limiti egocentrici |
-| **Operatorio concreto** | 7–11 anni | Logica concreta; conservazione |
+| **Operatorio concreto** | 7–12 anni | Logica concreta; conservazione |
 | **Operatorio formale** | 12+ anni | Astratto; ipotetico-deduttivo |
 
 <span class="c-warn">**5 criteri degli stadi:** gerarchizzazione · integrazione · strutture d'insieme · consolidamento · equilibrazione</span>
@@ -66,8 +66,13 @@ I Tempi della Vita · Lezione 02
 
 ---
 
-## Stadio Preoperatorio — 4 limiti
+## Stadio Preoperatorio — struttura interna e 4 limiti
 
+Suddivisione interna:
+- <span class="c-def">**Periodo preconcettuale** → 2–4 anni · pensiero simbolico + animismo + egocentrismo</span>
+- <span class="c-def">**Periodo intuitivo** → 4–7 anni · pensiero irreversibile · coglie ma non analizza</span>
+
+4 limiti cognitivi:
 - <span class="c-def">**Egocentrismo** → incapacità di assumere la prospettiva altrui · fino a ~8 anni</span>
 - <span class="c-def">**Animismo** → oggetti inanimati percepiti come vivi</span>
 - <span class="c-def">**Artificialismo** → tutto in natura = fatto dall'uomo</span>

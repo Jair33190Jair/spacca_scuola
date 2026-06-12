@@ -70,6 +70,8 @@ Il sistema occidentale rimane ancorato a tre principi nella filiazione:
 
 <span class="c-warn">Questo crea tensioni evidenti con le nuove forme di plurigenitorialità (famiglie adottive, ricomposte, omo-genitoriali, ecc.).</span>
 
+Oggi si parla sempre più di **<span class="c-def">genitorialità additive</span>**: situazioni in cui le funzioni genitoriali non si sottraggono ma si sommano tra più figure adulte (genitori biologici, adottivi, affidatari, partner del genitore). L'approccio antropologico permette di leggere queste configurazioni senza giudicarle devianti rispetto a un modello ideale.
+
 ---
 
 ## Evoluzione storica della famiglia occidentale
@@ -96,6 +98,18 @@ Cambiamenti strutturali:
 - <span class="c-tesi">Valorizzazione della **soggettività individuale** e dell'autorealizzazione</span>
 - Coniugalità "privatizzata": il matrimonio come scelta personale, non un obbligo sociale
 - **Precarizzazione dell'unione** di coppia
+
+### La coppia contemporanea
+
+Le trasformazioni della famiglia si riflettono direttamente sulla coppia. Alcuni tratti caratteristici emersi dagli studi:
+
+- **Orizzonte temporale ridotto al presente** — la progettualità a lungo termine si affievolisce
+- **Regressione dell'istituzione matrimonio** — meno matrimoni formali, più unioni di fatto
+- **Coniugalità "privatizzata"** — il matrimonio vissuto come scelta individuale con grande peso alla soddisfazione relazionale personale
+- **Difficoltà identitarie** — il ruolo coniugale e genitoriale è sempre meno definito da norme sociali condivise
+- <span class="c-impl">**Emergenza educativa positiva** legata al diffondersi delle nuove forme familiari</span>: la necessità di negoziare le regole, anziché riceverle pronte dalla tradizione, può stimolare relazioni più autentiche e consapevoli — se i genitori hanno le risorse per farlo
+
+<span class="c-warn">In Svizzera, il matrimonio rimane tuttavia molto diffuso tra le coppie con figli, e la famiglia nucleare è ancora la forma prevalente finché i figli sono in età prescolare.</span>
 
 ---
 
@@ -293,6 +307,22 @@ Nella famiglia contemporanea, l'**<span class="c-def">edonismo</span>** — la r
 - Malessere e comportamenti **auto/eteroaggressivi** o di evitamento
 - Difficoltà nell'integrazione del **senso morale**</span>
 
+### La crisi di legittimità dell'autorità genitoriale
+
+*(da "Genitori, siete importanti", cap. incluso nelle risorse)*
+
+Negli ultimi cinquant'anni, accanto ai cambiamenti demografici, si è affermata una corrente culturale che ha sistematicamente **delegittimato l'autorità degli adulti**. Le cause sono molteplici:
+
+- Il tramonto del consenso sociale sulle norme educative: ogni famiglia fa per sé, i figli possono contestare le regole confrontandole con quelle dei coetanei
+- La **psicologizzazione** dell'educazione: "ascoltare il bambino" è diventato un valore, a volte interpretato in modo così radicale da mettere il bambino al centro di ogni decisione
+- Il senso di colpa dei genitori: chi lavora e ha poco tempo con i figli tende a evitare i conflitti per non "rovinare" i momenti insieme
+
+Il risultato è il fenomeno del **<span class="c-def">"bambino-re"</span>**: il bambino posto al centro del sistema familiare, privato però dei limiti necessari al suo sviluppo. <span class="c-tesi">Il rischio non è l'eccesso di autorità, ma l'eccesso opposto: la confusione generazionale, in cui adulti e figli si relazionano come pari.</span>
+
+La **solitudine dei genitori** è un'altra conseguenza: senza un consenso sociale che li sostenga, devono costruire da soli ogni regola, e spesso si sentono isolati, privi di legittimità.
+
+<span class="c-impl">Come assistente sociale, riconoscere questa crisi di legittimità è fondamentale: i genitori che incontri spesso non hanno bisogno di essere giudicati per i loro limiti, ma di essere sostenuti nel ritrovare la fiducia nel loro ruolo.</span>
+
 ---
 
 ## Concetti chiave
@@ -312,6 +342,10 @@ Nella famiglia contemporanea, l'**<span class="c-def">edonismo</span>** — la r
 | **Pre-transfert** | Atteggiamento iniziale del genitore verso il terapeuta, influenzato dalle proiezioni sulle figure d'autorità |
 | **Famiglia affettiva** | Modello post-moderno fondato sull'amore e sulla realizzazione emotiva (vs. famiglia etica, basata sulla trasmissione di valori normativi) |
 | **Bilinearità delle origini** | Riconoscimento delle due linee di provenienza del bambino, fondamentale nelle famiglie ricomposte/adottive |
+| **Genitorialità additive** | Situazioni in cui più figure adulte svolgono funzioni genitoriali in modo complementare anziché sostitutivo |
+| **Bambino-re** | Fenomeno contemporaneo in cui il bambino è posto al centro del sistema familiare senza limiti adeguati, con rischi per il suo sviluppo |
+| **Crisi di legittimità dell'autorità** | Erosione del consenso sociale sulle norme educative: i genitori faticano a sentirsi legittimati a imporre regole e limiti |
+| **Edonismo** | Valore dominante trasmesso nella famiglia contemporanea — la ricerca di piacere immediato ha sostituito il dovere come principio guida (Lazartigues, 2000) |
 
 ---
 
@@ -331,6 +365,9 @@ La trasparenza psichica è uno stato di estrema sensibilità emotiva che la donn
 
 **Cosa si intende per "rispettare lo spazio psichico del bambino" nelle famiglie ricomposte o plurigenitoriali?**
 Rispettare lo spazio psichico del bambino significa: spiegargli, in modo misurato e adeguato alla sua età, quello che succede nelle trasformazioni familiari; accettare che abbia sentimenti e opinioni proprie, anche scomodi; dargli il diritto al segreto; aiutarlo a conservare buoni ricordi degli assenti; prendere misura delle discontinuità che vive. È fondamentale ammettere la bilinearità delle origini — il bambino cresciuto nella certezza della propria doppia provenienza riesce meglio a trovare un senso alle assenze e agli "abbandoni".
+
+**Cosa si intende per "crisi di legittimità" dell'autorità genitoriale e quali sono le sue conseguenze?**
+La crisi di legittimità si riferisce all'erosione, avvenuta negli ultimi decenni, del consenso sociale sulle norme educative. I genitori faticano a sentirsi legittimati a imporre regole e limiti, per diverse ragioni: il tramonto di codici condivisi, la psicologizzazione dell'educazione (che ha messo il bambino al centro), e il senso di colpa di chi ha poco tempo da dedicare ai figli. La conseguenza più rilevante è il fenomeno del "bambino-re": il bambino posto al centro del sistema familiare senza limiti adeguati allo sviluppo. A lungo termine, ciò riduce la tolleranza alla frustrazione, rende più difficile l'integrazione del senso morale e isola i genitori nella loro funzione educativa.
 
 ---
 

@@ -63,7 +63,12 @@ Percorsi nelle Disabilità · Sessione 03
 - <span class="c-dato">Binding e Hoche (1920)</span>: nozione di <span class="c-def">"esseri inutili"</span> — gli "idioti incurabili".
 - <span class="c-tesi">La persona deve giustificare il fatto di essere in vita.</span>
 - Progressione: "triade infernale" (deficit intellettivo, povertà, deficienza morale) → poi anche vagabondi, disoccupati, omosessuali.
-- <span class="c-dato">1939</span>: decreto di <span class="c-dato">Hitler</span> avvia il <span class="c-def">"programma eutanasia"</span> (Aktion T4).
+- Misure concrete (Schianchi):
+  - <span class="c-dato">1933</span>: legge per sterilizzazione forzata → **400.000 persone** sterilizzate in 12 anni.
+  - <span class="c-dato">1935</span>: vietato il matrimonio tra persone con disabilità.
+  - <span class="c-dato">1939</span>: decreto di <span class="c-dato">Hitler</span> avvia il <span class="c-def">"programma eutanasia"</span> (Aktion T4) → ~5.000 bambini uccisi.
+  - <span class="c-dato">1940–1941</span>: 70.000+ morti tra adulti; totale finale ~200.000 vittime.
+- <span class="c-warn">Il genocidio delle persone disabili precede cronologicamente lo sterminio degli ebrei.</span>
 - Riferimento: Marco Paolini, "Ausmerzen – Vite indegne di essere vissute".
 
 ---
@@ -77,11 +82,21 @@ Percorsi nelle Disabilità · Sessione 03
 - <span class="c-impl">Un insegnamento chiave per il lavoro sociale: il cambiamento viene spesso dal basso.</span>
 - Nuovo sviluppo: strutture in internato e in esternato con educazione sociale e terapie.
 
+## Il quadro giuridico e la Convenzione ONU
+
+- <span class="c-dato">Dichiarazione universale dei diritti dell'uomo (1948)</span>: tutti nascono liberi ed eguali; diritto alla sicurezza in caso di invalidità.
+- <span class="c-dato">Costituzione italiana</span>: art. 3 (rimozione ostacoli) e art. 38 (diritto all'educazione degli inabili).
+- <span class="c-dato">Convenzione ONU 2008</span>: cambio di paradigma fondamentale.
+  - <span class="c-tesi">La disabilità è il risultato dell'interazione tra la persona e le barriere ambientali/comportamentali.</span>
+  - <span class="c-impl">Non è una proprietà dell'individuo: il problema è nel contesto sociale, non nella persona.</span>
+  - Non introduce nuovi diritti, ma applica quelli esistenti affermando che la discriminazione è violazione della dignità umana.
+
 ---
 
 **Da ricordare:**
 
 - <span class="c-dato">Séguin</span> rompe nel 1839 con il fatalismo sull'idiozia → prima scuola, poi AAMD.
 - <span class="c-dato">Galton (1880)</span>: eugenismo = "migliorare" le razze; povertà = deficit genetico.
-- Nazismo = eugenismo radicalizzato → "esseri inutili" → Aktion T4 (1939).
+- Nazismo = eugenismo radicalizzato → sterilizzazione forzata (400.000) → Aktion T4 (200.000 vittime totali).
 - Dopoguerra: cambiamento guidato dalle **famiglie**, non dai governi.
+- <span class="c-dato">Convenzione ONU 2008</span>: disabilità = interazione persona + barriere sociali (non caratteristica individuale).

@@ -1,112 +1,149 @@
-# Introduzione al modulo di Salute Mentale — Schema
-Salute Mentale · Sessione 01
-
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 
-## Struttura del modulo
+# Introduzione al modulo di Salute mentale — Schema
+Salute mentale · Sessione 01
 
-- **Tre tappe** → clinica · mondo · corpo
-- **Quattro dimensioni trasversali** → spazio ·
-  tempo · identità · incontro
-- **Ruolo operatore sociale** → trait d'union
-  tra discipline specialistiche
+## Mappa del modulo
 
----
+- **Clinica** → incontro · salute/malattia · normalità/patologia · empatia · difese
+- **Mondo** → funzioni psichiche · alterazioni · nosografia
+- **Corpo** → aggressività · anoressia-bulimia · sessualità · alessitimia
+- **Dimensioni trasversali** → spazio · tempo · identità · incontro
+- **Operatore sociale** → trait d'union tra discipline
+- **Clinica** → *klinein* → chinarsi sul patire
 
-## Salute — 7 condizioni di <span class="c-dato">Boorse (1977)</span>
+## Tre concetti
 
-- **Valore** → la desiderabilità non è universale
-- **Trattamento medico** → né necessario né
-  sufficiente per definire malattia
-- **Norma statistica** → fuori dalla media ≠ malato
-- **Sofferenza** → malattie asintomatiche e dolori
-  fisiologici esistono
-- **Disabilità** → non-abilità ≠ malattia (neonati,
-  sonno)
-- **Adattamento** → l'uomo adatta l'ambiente a sé,
-  non solo il contrario
-- **Omeostasi** → la vita richiede perdita e
-  riconquista continua di equilibrio
+| Concetto | Riferimento |
+|---|---|
+| **Salute** | Funzionalità · potenzialità |
+| **Benessere** | Vissuto soggettivo · qualità della vita |
+| **Normalità** | Media · ideale · funzionamento personale |
 
-<span class="c-warn">⚠️ Nessuna condizione è sufficiente da sola</span>
+- <span class="c-warn">**Anormale** ≠ automaticamente **patologico**</span>
+- <span class="c-tesi">**Salute** ≠ **benessere**</span>
 
----
+## Disease · Illness · Sickness
 
-## Disease / Illness / Sickness
+| Termine | Dimensione |
+|---|---|
+| <span class="c-def">**Disease**</span> | Biomedica · misurabile · certificabile |
+| <span class="c-def">**Illness**</span> | Soggettiva · esperienza vissuta |
+| <span class="c-def">**Sickness**</span> | Sociale · ruolo · riconoscimento · stigma |
 
-| Dimensione | Tipo | Riferimento |
-|---|---|---|
-| **Disease** | Biomedica | Parametri clinici |
-| **Illness** | Soggettiva | Vissuto personale |
-| **Sickness** | Sociale | Stigma / riconoscimento |
+- **Relazione** → possono coincidere oppure presentarsi separatamente
 
-- <span class="c-impl">Le tre dimensioni possono non coincidere</span>
-- <span class="c-warn">Lo stigma (*sickness* negativa) peggiora
-  l'andamento della malattia</span>
+## Boorse (1977)
 
----
+| Criterio | Limite |
+|---|---|
+| **Valore** | Desiderabilità relativa |
+| **Trattamento medico** | Cura medica ≠ prova di malattia |
+| **Norma statistica** | Frequenza ≠ salute |
+| **Sofferenza** | Asintomaticità · dolore fisiologico |
+| **Disabilità** | Non-abilità ≠ sempre malattia |
+| **Adattamento** | Anche l'ambiente si adatta |
+| **Omeostasi** | Vita e movimento rompono l'equilibrio |
 
-## Benessere — 6 dimensioni di <span class="c-dato">Ryff</span>
+- <span class="c-tesi">**Equilibrio dinamico** → perdere · riorganizzare · ritrovare</span>
 
-- **Autonomia** → autodeterminazione senza
-  condizionamenti esterni
-- **Controllo ambientale** → valorizzare risorse
-  e possibilità
-- **Relazioni positive** → calore · fiducia ·
-  reciprocità
-- **Autoaccettazione** → consapevolezza qualità
-  e limiti
-- **Percezione di crescita** → vita come sviluppo
-  continuo
-- **Scopo nella vita** → mete e senso
+## Benessere secondo Ryff
 
-<span class="c-tesi">⚠️ Salute ≠ benessere (possono non coincidere)</span>
+- **Autoaccettazione** → qualità · limiti · percorso
+- **Relazioni positive** → fiducia · calore · reciprocità
+- **Autonomia** → regolazione indipendente
+- **Controllo ambientale** → uso di risorse e opportunità
+- **Crescita personale** → apertura · sviluppo
+- **Scopo nella vita** → mete · significato
 
----
+### Continuum
 
-## Normalità — 3 tipi
+`benessere` → `disagio` → `malessere` → `disturbo` → `malattia mentale`
+
+- **Disagio** → sofferenza senza sintomi specifici
+- **Malessere** → intensità maggiore · consapevolezza · segnali corporei
+- **Disturbo** → sintomi clinici · comportamento alterato
+- **Malattia mentale** → persistenza e stabilizzazione
+
+## Normalità
 
 | Tipo | Definizione | Rischio |
 |---|---|---|
-| **Statistica** | Nella media della popolazione | Stigma per chi devia |
-| **Di valore** | Ideale da raggiungere | Irraggiungibile → sofferenza perpetua |
-| **Personale** | Rispetto al funzionamento precedente | Idealizzare il passato; la normalità precedente può essere la causa della malattia |
+| **Statistica** | Conformità alla media | Devianza scambiata per patologia |
+| **Di valore** | Conformità all'ideale | Imposizione di aspettative |
+| **Individuale** | Confronto col proprio prima | Idealizzazione del passato |
 
----
+- **Contesto** → determina il significato della condotta
+- **Progetto sociale** → costruire un nuovo funzionamento possibile
 
-## Posizione del soggetto verso la malattia
+## Posizione del soggetto
 
-|  | Non si identifica | Si identifica |
+|  | Condizione estranea | Condizione parte di sé |
 |---|---|---|
-| **Agentivo** | Guarigione → eliminare la condizione | Cura → benessere dentro la condizione |
-| **Passivo** | Delega → "guariscimi" | Delega assistenziale |
+| **Agentivo** | **Combatto** | **Mi curo** |
+| **Passivo** | **Guarisci-mi** | **Cura-mi** |
 
-- <span class="c-def">**To cure** → terapia: non sempre possibile</span>
-- <span class="c-def">**To care** → cura del benessere: sempre possibile</span>
-- <span class="c-tesi">*"Non tutto si può guarire, ma tutto può essere
-  curato"*</span>
+- **Agentività** → autoefficacia · partecipazione
+- **Identificazione** → integrazione della condizione nell'identità
+- **Parte alta** → area dell'alleanza
+- **Parte bassa** → area della delega
+- **To cure** → guarigione
+- **To care** → cura e benessere
+- <span class="c-tesi">**Cura** → praticabile anche senza guarigione</span>
 
----
+## Salute mentale
 
-## La tragedia greca
+- **Non è** → sola assenza di disturbo
+- **È** → parte della salute generale
+- **Comprende** → benessere · realizzazione · gestione delle difficoltà
+- **Comporta** → lavoro produttivo · partecipazione comunitaria
+- **Dipende da** → biografia · predisposizione · comportamento · cultura · ambiente
+- **Coinvolge** → relazione con sé · altri · mondo
+- **Richiede** → contrasto a stigma e colpevolizzazione
+- <span class="c-dato">**Carta di Ottawa, 1986**</span> → salute come risorsa quotidiana
 
-- **5 tragedie** → Aiace · Andromaca · Agamennone ·
-  Le Troiane · Le Trachinie
-- **Tre tragediografi** →
-  - <span class="c-dato">Eschilo</span>: la follia viene dagli dèi (forza esterna)
-  - <span class="c-dato">Sofocle</span>: il tragico è la vita stessa
-  - <span class="c-dato">Euripide</span>: il tragico nasce dalle relazioni
-- <span class="c-def">**Catarsi** → far emergere ed elaborare emozioni
-  difficili attraverso la sofferenza altrui</span>
-- **Esercizio pedagogico** →
-  leggere → condividere → sintetizzare → mettere in scena
+## Linguaggio
+
+| Parola/forma | Effetto simbolico |
+|---|---|
+| **Matto** | Incontrollabilità |
+| **Follia** | Vuoto · non-senso |
+| **Pazzia** | *Pathos* · furia |
+| **Alienato** | Estraneità · esclusione |
+| **Delirio** | Uscita dal solco |
+| **È schizofrenico** | Diagnosi = identità |
+| **Ha una schizofrenia** | Persona distinta dalla condizione |
+
+- <span class="c-warn">**Non comprendo** ≠ **non esiste significato**</span>
+
+## Swiss Public Health Conference
+
+<span class="c-dato">Olten · 21-22 agosto 2014</span>
+
+| Tag | Snodo | Contenuto |
+|---|---|---|
+| **P** | Processo | Sviluppo · difficoltà · contributo sociale |
+| **I** | Interdipendenza | Psichico · fisico · sociale |
+| **C** | Complessità | Fattori individuali · biografici · culturali · ambientali |
+| **S** | Sfida permanente | Ogni età · risorse · disturbi · sostegno |
+
+## Tragedia greca
+
+- **Funzione** → sofferenza pubblica · catarsi · cambio di sguardo
+- **Eschilo** → follia dagli dèi
+- **Sofocle** → tragicità della vita
+- **Euripide** → tragedia delle relazioni
+- **Attività** → lettura → confronto → sintesi → scena
+- **Tema 2026** → violenza contro le donne nei conflitti
+- **Club '74** → reciprocità · incontro · partecipazione
+- **Lavoro sociale** → dimensione politica dell'inclusione
 
 ---
 
@@ -114,18 +151,14 @@ Salute Mentale · Sessione 01
 
 | Chi | Cosa | Quando |
 |---|---|---|
-| Christopher Boorse | 7 condizioni della salute | 1977 |
-| Carol Ryff | 6 dimensioni del benessere | — |
-| Callieri & C. | Definizione di clinica | 1999 |
-| Tiziano Terzani | *L'ultimo giro di giostra* | — |
-| Nadia Murad | Attivista, Premio Nobel per la Pace | — |
-| Guidorizzi | Follia nella tragedia greca | 2010 |
+| Christopher Boorse | Sette criteri di salute/malattia | 1977 |
+| Carol Ryff | Sei dimensioni del benessere | 1989/2014 |
+| Fulcheri | Continuum benessere-malattia | 2005 |
+| Hoffman | Triade disease-illness-sickness | 2002 |
+| Cargnello | Linguaggio, identità, rapporto io-altro | 1999 |
+| Carta di Ottawa | Salute come risorsa | 1986 |
+| Swiss Public Health Conference | Quattro snodi P-I-C-S | 2014 |
 
 ### Parole chiave
 
-`salute` · `benessere` · `normalità` · `disease`
-· `illness` · `sickness` · `Boorse` · `Ryff` ·
-`agentività` · `omeostasi` · `norma statistica`
-· `norma di valore` · `norma personale` ·
-`catarsi` · `guarigione` · `cura` · `to cure`
-· `to care` · `tragedia greca` · `clinica`
+`salute` · `benessere` · `normalità` · `disease` · `illness` · `sickness` · `Boorse` · `Ryff` · `agentività` · `identificazione` · `to cure` · `to care` · `stigma` · `linguaggio` · `contesto` · `processo` · `interdipendenza` · `complessità` · `sfida`

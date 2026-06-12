@@ -67,7 +67,16 @@ Percorsi nelle Disabilità · Sessione 03
 - **Progressione misure naziste:**
   - Cause biologiche: <span class="c-def">triade infernale</span> (deficit intellettivo + povertà + deficienza morale)
   - Poi: vagabondi, disoccupati, omosessuali, delinquenti
-- **1939** → decreto di <span class="c-dato">Hitler</span>: <span class="c-def">"programma eutanasia"</span> (nome in codice: Aktion T4)
+
+| Anno | Misura | Scala |
+|------|--------|-------|
+| <span class="c-dato">1933</span> | Legge sterilizzazione forzata | ~<span class="c-dato">400.000 persone</span> in 12 anni |
+| <span class="c-dato">1935</span> | Divieto matrimonio tra disabili | — |
+| <span class="c-dato">1939</span> | Decreto Hitler: Aktion T4 (bambini) | ~<span class="c-dato">5.000 bambini</span> uccisi |
+| <span class="c-dato">1940–41</span> | Aktion T4 (adulti) | <span class="c-dato">70.000+</span> morti |
+| <span class="c-dato">1945</span> | Fine conflitto: totale vittime programma | ~<span class="c-dato">200.000</span> |
+
+- <span class="c-warn">Il genocidio dei disabili precede cronologicamente lo sterminio degli ebrei</span>
 
 ---
 
@@ -79,6 +88,17 @@ Percorsi nelle Disabilità · Sessione 03
 - **Agenti del cambiamento** → <span class="c-tesi">associazioni di genitori di bambini con disabilità</span>
 - <span class="c-impl">Il cambiamento arriva dal basso, non dai governi</span>
 - **Nuove strutture** → internato + esternato · educazione sociale · terapie
+
+## Quadro giuridico
+
+| Documento | Anno | Contenuto rilevante |
+|-----------|------|---------------------|
+| <span class="c-dato">Dichiarazione universale diritti dell'uomo</span> | 1948 | Uguaglianza; diritto alla sicurezza in caso di invalidità |
+| <span class="c-dato">Costituzione italiana, art. 3 e 38</span> | 1948 | Rimozione ostacoli; diritto all'educazione degli inabili |
+| <span class="c-dato">Convenzione ONU sui diritti delle persone con disabilità</span> | in vigore 2008 | Disabilità = interazione persona + barriere ambientali |
+
+- **Cambio di paradigma (Convenzione ONU)** → <span class="c-tesi">disabilità non è proprietà dell'individuo, ma prodotto del contesto sociale</span>
+- <span class="c-impl">Sposta il problema dalla persona alla società: l'esclusione è costruita, non inevitabile</span>
 
 ---
 
@@ -92,9 +112,10 @@ Percorsi nelle Disabilità · Sessione 03
 | <span class="c-dato">Binding e Hoche</span> | Nozione di "esseri inutili" | 1920 |
 | <span class="c-dato">Hitler / Reich</span> | Decreto programma eutanasia (Aktion T4) | 1939 |
 | <span class="c-dato">Marco Paolini</span> | "Ausmerzen – Vite indegne di essere vissute" | spettacolo |
+| <span class="c-dato">ONU</span> | Convenzione sui diritti delle persone con disabilità | 2008 |
 
 ---
 
 ### Parole chiave
 
-`eugenismo` · `darwinismo sociale` · `degenerescenza` · `igiene razziale` · `esseri inutili` · `triade infernale` · `Aktion T4` · `segregazione` · `sterilizzazione` · `AAMD` · `istituzionalizzazione`
+`eugenismo` · `darwinismo sociale` · `degenerescenza` · `igiene razziale` · `esseri inutili` · `triade infernale` · `Aktion T4` · `segregazione` · `sterilizzazione` · `AAMD` · `istituzionalizzazione` · `Convenzione ONU 2008` · `barriere ambientali`

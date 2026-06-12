@@ -1,11 +1,11 @@
 # Il lavoro e le sue trasformazioni: una prospettiva storica — Parte 2 · Sintesi
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
-  🟡 Oro    #D4AC0D → Connessione / implicazione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 Mondi del lavoro · Sessione 02
 
@@ -91,13 +91,13 @@ Mondi del lavoro · Sessione 02
 - <span class="c-def">**Verticale**: poche donne ai vertici → **soffitto di cristallo** + **effetto a imbuto**</span>
   - <span class="c-dato">Ticino 2024: le donne sono il 35,6% dei dirigenti</span>
 
-### Dati Ticino (<span class="c-dato">Le cifre della parità, 2025</span>)
+### Dati Ticino / Svizzera (<span class="c-dato">Le cifre della parità, 2025</span>)
 - Tasso di attività femminile (<span class="c-dato">2023</span>): <span class="c-dato">62,6%</span> vs. maschile <span class="c-dato">72,9%</span>
-- Il tasso femminile cala dopo i 25–30 anni (maternità e cura)
-- <span class="c-dato">**57,7%**</span> delle donne lavora a tempo parziale (motivazione: cura figli)
+- <span class="c-warn">Il tasso femminile cala dopo i 25–30 anni: la maternità interrompe o riduce le carriere femminili, ma non quelle maschili</span>
+- <span class="c-dato">**57,7%**</span> delle donne lavora a tempo parziale (motivazione principale: cura figli)
 - <span class="c-dato">**Divario salariale** (2022): 8,4%</span> in Ticino (era <span class="c-dato">17,1% nel 2010</span>) — ma la parte non spiegata è ancora <span class="c-dato">11,1%</span>
-- Il divario aumenta nei ruoli di responsabilità (<span class="c-dato">18,7%</span> tra i quadri medi e alti)
-- Le donne svolgono il <span class="c-dato">**60,5%**</span> del lavoro non remunerato in Svizzera
+- Il divario aumenta con la formazione (<span class="c-warn">18% tra chi ha titolo terziario</span>) e nei ruoli di responsabilità (<span class="c-dato">18,7%</span> tra i quadri medi e alti)
+- Le donne svolgono il <span class="c-dato">**60,5%**</span> del lavoro non remunerato in Svizzera (valore: <span class="c-dato">434 miliardi di fr.</span>)
 
 ---
 

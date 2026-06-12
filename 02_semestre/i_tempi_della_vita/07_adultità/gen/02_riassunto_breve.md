@@ -81,7 +81,7 @@ Quattro polarità da integrare: Maschile/Femminile · Giovane/Anziano · Distruz
 - **Fisica:** stabilità e accettazione del proprio corpo (componente attiva, non solo biologica)
 - **Personologica:** controllo degli impulsi, autonomia, <span class="c-def">funzioni esecutive</span>
 - **Intellettuale:** <span class="c-tesi">pensiero adulto = soggettivo, pratico, integrativo</span>
-  - <span class="c-dato">Schaie:</span> fase acquisitiva → realizzativa/esecutiva → reintegrativa
+  - <span class="c-dato">Schaie:</span> acquisitiva → realizzativa → responsabilità/esecutiva → reintegrativa (4 stadi)
   - <span class="c-def">Pensiero post-formale (5° stadio):</span> <span class="c-warn">non cerca la risposta assoluta, ma quella significativa per sé</span>
 - **Relazionale:** <span class="c-def">generatività</span> — lasciare un impatto positivo; genitorialità come spazio mentale (12 funzioni)
 - **Professionale:** <span class="c-impl">il lavoro struttura identità, appartenenza, senso di valore</span> (<span class="c-dato">Bandura</span>)
