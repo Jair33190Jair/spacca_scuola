@@ -99,12 +99,7 @@ la qualità dei riassunti esistenti. Istruzioni al subagente:
     insufficiente, la struttura non segue la guida, o la
     qualità complessiva non è adeguata. Rigenera il/i
     riassunto/i da zero.
-- Se il flag è `super-forza`: esegui l'azione scelta
-  **senza chiedere conferma**.
-- Se il flag **non** è `super-forza` e l'azione è 3
-  (rigenera): avvisa l'utente dell'azione che intendi
-  fare e chiedi conferma prima di procedere.
-  Per le azioni 1 e 2 procedi direttamente.
+- Se il flag è `super-forza`, esegui senza chiedere conferma; altrimenti chiedi conferma solo per l'azione 3.
 
 Se l'azione è 3, torna allo step 2 per il pre-processing
 e poi al 3 per la generazione.
@@ -181,6 +176,16 @@ istruzioni (con i percorsi già risolti):
   non vuoti in `<percorso-materia-risolto>/`
 - Output: aggiorna `<percorso-materia-risolto>/gen_ampia_panoramica.md`
 
+Dopo che il subagente B ha completato, verifica:
+
+```bash
+[ -f "<percorso-materia-risolto>/gen_ampia_panoramica.md" ] \
+  && [ "$(wc -w < "<percorso-materia-risolto>/gen_ampia_panoramica.md")" -gt 100 ] \
+  && echo "ok" || echo "MANCANTE O VUOTO: gen_ampia_panoramica.md"
+```
+
+Se il file risulta mancante o vuoto, avvisa l'utente.
+
 ---
 
 ## Caso B — Materia intera
@@ -220,11 +225,7 @@ autonoma + azione scelta). Se l'azione è 3 (rigenera),
 il subagente esegue anche il pre-processing e la
 generazione completa.
 
-Se il flag è `super-forza`: i subagenti decidono e
-agiscono senza mai chiedere conferma.
-Se il flag **non** è `super-forza`: i subagenti chiedono
-conferma prima di un'azione 3 (rigenera) su lezioni
-con file esistenti.
+Se il flag è `super-forza`, i subagenti agiscono senza chiedere conferma; altrimenti chiedono conferma solo per l'azione 3.
 
 Aspetta che il batch corrente finisca prima di lanciare
 il successivo.
@@ -237,3 +238,13 @@ materia risolto (come descritto nel Caso A step 4).
 
 Questo sovrascrive `gen_ampia_panoramica.md` con la
 visione aggiornata di tutte le lezioni della materia.
+
+Dopo che il subagente B ha completato, verifica:
+
+```bash
+[ -f "<percorso-materia-risolto>/gen_ampia_panoramica.md" ] \
+  && [ "$(wc -w < "<percorso-materia-risolto>/gen_ampia_panoramica.md")" -gt 100 ] \
+  && echo "ok" || echo "MANCANTE O VUOTO: gen_ampia_panoramica.md"
+```
+
+Se il file risulta mancante o vuoto, avvisa l'utente.

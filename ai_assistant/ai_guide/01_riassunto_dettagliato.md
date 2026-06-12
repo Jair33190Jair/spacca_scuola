@@ -73,6 +73,10 @@ ragiona come se rispondessi a voce all'esame.}
 - **Estrai dalle risorse** le domande d'esame esplicite se
   presenti (il prof le enuncia spesso a inizio o fine lezione,
   nelle slide riepilogative, o come "su cosa vi chiederò").
+- **Se esiste `risorse/domande_esami_<NN>.txt`**, aggiungi una
+  sezione separata `## Domande esame <NN>` **dopo** quella
+  generata. Rispondi a tutte le domande del file, nell'ordine
+  in cui appaiono, basandoti sul contenuto della lezione.
 - **Se non ci sono domande esplicite**, genera 4–6 domande
   basate sui concetti che il prof ha enfatizzato di più,
   sulle definizioni tecniche e sui nodi concettuali centrali

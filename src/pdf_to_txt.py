@@ -12,6 +12,7 @@ Usage:
 """
 
 import argparse
+import re
 import shutil
 import sys
 from pathlib import Path
@@ -62,6 +63,47 @@ def is_low_quality(text: str) -> bool:
         if not (c.isalnum() or c.isspace())
     )
     return (garbage / total) > 0.25
+
+
+def _mid_case_transitions(word: str) -> int:
+    return sum(1 for i in range(1, len(word)) if word[i].isupper() and word[i - 1].islower())
+
+
+def _garbled_line_score(line: str) -> float:
+    words = line.split()
+    if not words:
+        return 0.0
+    alpha_words = [re.sub(r'[^\w]', '', w) for w in words if re.search(r'[a-zA-Z]', w)]
+    mixed = sum(1 for w in alpha_words if re.search(r'[a-zA-Z]', w) and re.search(r'\d', w))
+    case_flips = sum(_mid_case_transitions(w) for w in alpha_words)
+    mid_brackets = len(re.findall(r'(?<!\[FONTE)\]', line))
+    digit_count = sum(1 for c in line if c.isdigit())
+    n = len(alpha_words) or 1
+    return (
+        (mixed / n) * 0.4
+        + min(case_flips / n / 2, 1.0) * 0.35
+        + min(mid_brackets / 3, 1.0) * 0.1
+        + min(digit_count / 20, 1.0) * 0.15
+    )
+
+
+def looks_garbled(text: str) -> bool:
+    """Return True if direct-extracted text has the scrambled-PDF pattern."""
+    lines = [l for l in text.splitlines() if len(l) > 10]
+    sample = lines[:80]
+    if not sample:
+        return False
+    scores = [_garbled_line_score(l) for l in sample]
+    garbled_fraction = sum(1 for s in scores if s > 0.20) / len(scores)
+    if garbled_fraction > 0.25:
+        return True
+    flip_counts = [
+        sum(_mid_case_transitions(re.sub(r'[^\w]', '', w)) for w in l.split() if re.search(r'[a-zA-Z]', w))
+        for l in sample
+    ]
+    if flip_counts and sum(1 for f in flip_counts if f >= 2) / len(flip_counts) > 0.20:
+        return True
+    return False
 
 
 def extract_ocr_text(
@@ -123,9 +165,12 @@ def extract_pdf(pdf_path: str, dpi: int = 300) -> str:
                     f"[⚠ PAGINA ILLEGGIBILE: pagina {page_num}"
                     f" — contenuto non leggibile, revisione manuale necessaria]"
                 )
+                continue
+            if looks_garbled(text):
+                print(f"  Page {page_num}: ⚠ garbled direct text — falling back to OCR")
             else:
                 result.append(text)
-            continue
+                continue
 
         if len(text) >= MIN_CHARS and page.rotation != 0:
             # Direct extraction on rotated pages gives wrong reading order —
