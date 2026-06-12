@@ -52,7 +52,7 @@ def auto_rotate_image(img: Image.Image) -> tuple[Image.Image, int]:
 def is_low_quality(text: str) -> bool:
     """Return True if extracted text looks garbled."""
     words = text.split()
-    if len(words) < 30:
+    if len(words) < 10:
         return True
     total = len(text)
     if total == 0:
@@ -111,7 +111,7 @@ def extract_pdf(pdf_path: str, dpi: int = 300) -> str:
         page_num = i + 1
         text = extract_direct_text(page)
 
-        if len(text) >= MIN_CHARS:
+        if len(text) >= MIN_CHARS and page.rotation == 0:
             print(
                 f"  Page {page_num}/{len(doc)}: "
                 f"direct text ({len(text)} characters)"
@@ -119,8 +119,21 @@ def extract_pdf(pdf_path: str, dpi: int = 300) -> str:
             if is_low_quality(text):
                 low_quality_pages.append(page_num)
                 print(f"  Page {page_num}: ⚠ low quality")
-            result.append(text)
+                result.append(
+                    f"[⚠ PAGINA ILLEGGIBILE: pagina {page_num}"
+                    f" — contenuto non leggibile, revisione manuale necessaria]"
+                )
+            else:
+                result.append(text)
             continue
+
+        if len(text) >= MIN_CHARS and page.rotation != 0:
+            # Direct extraction on rotated pages gives wrong reading order —
+            # always use OCR so auto-rotation can correct it.
+            print(
+                f"  Page {page_num}/{len(doc)}: "
+                f"direct text skipped (rotation={page.rotation}°) — using OCR"
+            )
 
         # Page without text -> OCR required
         if not check_tesseract():
@@ -145,7 +158,12 @@ def extract_pdf(pdf_path: str, dpi: int = 300) -> str:
         if is_low_quality(ocr_text):
             low_quality_pages.append(page_num)
             print(f"  Page {page_num}: ⚠ low quality after OCR")
-        result.append(ocr_text)
+            result.append(
+                f"[⚠ PAGINA ILLEGGIBILE: pagina {page_num}"
+                f" — contenuto non leggibile, revisione manuale necessaria]"
+            )
+        else:
+            result.append(ocr_text)
 
     doc.close()
 

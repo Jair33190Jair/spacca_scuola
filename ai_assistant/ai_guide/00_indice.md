@@ -50,6 +50,10 @@ la descrizione del contenuto.
   (non un riassunto — cosa tratta). Basarsi sulle prime righe del `.txt`.
 - **File senza metadati** (es. `trascrizione_01.txt`): nome file
   come titolo, niente autore/anno, descrizione dal contenuto.
+- **Pagine illeggibili.** Se il `.txt` contiene uno o più
+  `[⚠ PAGINA ILLEGGIBILE: pagina N]`, aggiungili sotto la
+  descrizione del documento usando HTML inline per il colore rosso:
+  `<span style="color:red">⚠ Pagine non leggibili: N, M</span>`
 - **Ordine**: alfabetico per nome file.
 
 ## Regole di formato

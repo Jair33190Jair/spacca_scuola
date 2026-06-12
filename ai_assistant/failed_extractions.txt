@@ -1,0 +1,41 @@
+EMPTY	/home/jairj/dev/projects/social/spacca_scuola/01_strumenti/00_template_materia/01_nome_lezione/risorse/trascrizione_01.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/i_tempi_della_vita/01_evoluzione_storica_e_introduzione_allo_sviluppo_psico-sociale_secondo_Erokson/risorse/Castelli C.  Sbattella F. (2008) Psicologia del ciclo di vita. Raffaello Cortina Editore pp. 157-165.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/i_tempi_della_vita/01_evoluzione_storica_e_introduzione_allo_sviluppo_psico-sociale_secondo_Erokson/risorse/Erikson Infanzia e Società.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/i_tempi_della_vita/02_sviluppo_cognitivo_secondo_Piaget/risorse/Castelli C.  Sbattella F. (2008) Psicologia del ciclo di vita. Raffaello Cortina Editore pp. 79-91.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/i_tempi_della_vita/04_infanzia/risorse/Bowlby Attaccamento e perdita.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/i_tempi_della_vita/04_infanzia/risorse/Bowlby Modelli di attaccamento.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/i_tempi_della_vita/04_infanzia/risorse/Freud COmpendio di psicoanalisi.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/i_tempi_della_vita/04_infanzia/risorse/Graham Music Attaccamento.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/i_tempi_della_vita/04_infanzia/risorse/Sviluppo dei rapporti oggettuali.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/i_tempi_della_vita/04_infanzia/risorse/WInnicott La preoccupazione materna primaria.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/i_tempi_della_vita/05_famiglia/risorse/Genitori, siete importanti.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/i_tempi_della_vita/05_famiglia/risorse/Scenari narcisistici della genitorialità.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/i_tempi_della_vita/07_adultità/risorse/Letà adulta - Demetrio.txt
+EMPTY	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/mondi_del_lavoro/02_una_prospettiva_storica_parte_due/risorse/trascrizione_02.txt
+EMPTY	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/percorsi_nelle_disabilita/01_presentazione_del_modulo/risorse/trascrizione_01.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/percorsi_nelle_disabilita/03_disabilita_nella_storia_parte_2/risorse/Canevaro e Gaudreau, 2022, Leducazione degli handicappati - I cinque obiettivi pedagogici di Itard pp 54-59.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/percorsi_nelle_disabilita/03_disabilita_nella_storia_parte_2/risorse/Matteo Schianchi_La terza nazione del mondo_storia.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/percorsi_nelle_disabilita/06_ICF/risorse/dalonzo icf-linguaggio.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/percorsi_nelle_disabilita/08_disturbi_DSA_parte_1/risorse/autismo T. Peeters- H. De Clercq.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/salute_mentale/08_i_disturbi_di_personalita/risorse/Wanda Winnipeg- È una bella giornata di pioggia.txt
+EMPTY	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/sicurezza_sociale/01_tutela_contro_i_rischi_sociali_CH_e_TI/risorse/trascrizione_01.txt
+EMPTY	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/sicurezza_sociale/08_AD_PTDA_Amal/risorse/trascrizione_08.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/01_introduzione_al_lavoro_sociale/risorse/Bronfenbrenner_Modello multidimensionale bioecologico dello sviluppo umano.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/04_introduzione_al_lavoro_sociale/risorse/Oggionni F., il profilo delleducatore.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/05_introduzione_al_lavoro_sociale/risorse/Mediazione educativa in Palmieri, C. (2011). Un’esperienza di cui aver cura.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/05_introduzione_al_lavoro_sociale/risorse/Pensiero complesso in Ripamonti, E. (2018). Collaborare. Metodi partecipativi per il sociale.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/05_introduzione_al_lavoro_sociale/risorse/Tolleranza e fiducia in Ripamonti, E. (2018). Collaborare. Metodi partecipativi per il sociale.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/07_l'osservazione(prima_parte)/risorse/Educazione e osservazione pp.17-28.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/09_processo_di_progettazione_concertativo/risorse/Analisi pedagogica dei problemi educativi_Brambilla.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/10_la_definizione_degli_obiettivi_nel_processo_di_progettazione_concertativo/risorse/Metodologia della progettazione educativa _obiettivi - A.Traverso.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/12_materiale_esame_finale_TMIS_introduzione_teorica/risorse/Mediazione educativa in Palmieri, C. (2011). Un’esperienza di cui aver cura.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/12_materiale_esame_finale_TMIS_introduzione_teorica/risorse/Oggionni F., il profilo delleducatore.txt
+GARBLED	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/12_materiale_esame_finale_TMIS_introduzione_teorica/risorse/Tolleranza e fiducia in Ripamonti, E. (2018). Collaborare. Metodi partecipativi per il sociale.txt
+EMPTY	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/13_materiale_esame_finale_TMIS_progettazione/risorse/Analisi pedagogica dei problemi educativi_Brambilla.txt
+EMPTY	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/13_materiale_esame_finale_TMIS_progettazione/risorse/Costruire e valutare i progetti nel sociale.txt
+EMPTY	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/13_materiale_esame_finale_TMIS_progettazione/risorse/Educazione e osservazione pp.134-150.txt
+EMPTY	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/13_materiale_esame_finale_TMIS_progettazione/risorse/Educazione e osservazione pp.17-28.txt
+EMPTY	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/13_materiale_esame_finale_TMIS_progettazione/risorse/Educazione e osservazione pp.91-108.txt
+EMPTY	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/13_materiale_esame_finale_TMIS_progettazione/risorse/La progettazione pedagogica_Brambilla.txt
+EMPTY	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/13_materiale_esame_finale_TMIS_progettazione/risorse/Maida S., Nuzzo A., Dizionario del lavoro sociale. Osservazione.txt
+EMPTY	/home/jairj/dev/projects/social/spacca_scuola/02_semestre/teorie_e_metodologie_dell_intervento_sociale_TMIS/13_materiale_esame_finale_TMIS_progettazione/risorse/Metodologia della progettazione educativa _obiettivi - A.Traverso.txt

@@ -33,6 +33,16 @@ Il path ha sempre questa struttura:
 
 ## Caso A — Lezione singola
 
+### 0. Verifica path
+
+Prima di tutto:
+
+```bash
+[ -d "<path>" ] || { echo "Errore: path non trovato: <path>"; exit 1; }
+```
+
+Se il path non esiste, **interrompi** e avvisa l'utente.
+
 ### 1. Controlla file esistenti
 
 Usa `ls` (non un glob dello strumento) per verificare se `<path>/gen/`
@@ -113,6 +123,15 @@ make preprocess FOLDER=<path>/risorse
 
 Attendi il completamento prima di procedere.
 
+Poi esegui il gate qualità sulle risorse:
+
+```bash
+python3 ai_assistant/find_failed_extractions.py --root <path>
+```
+
+Se l'output contiene righe EMPTY o GARBLED per questa lezione,
+**interrompi** e mostra la lista all'utente. Non lanciare il subagente A.
+
 ### 3. Subagente A — Genera i 3 riassunti
 
 Lancia un subagente con contesto fresco e passagli queste
@@ -120,7 +139,11 @@ istruzioni (con il percorso lezione già risolto):
 
 - Leggi `ai_assistant/ai_context.md`
 - Leggi `ai_assistant/profilo_studente.md`
-- Leggi tutte le risorse in `<percorso-lezione-risolto>/risorse/`
+- Leggi tutte le risorse in `<percorso-lezione-risolto>/risorse/`.
+  Per ogni file: se il body è vuoto oppure il testo è palesemente
+  corrotto (OCR scrambled, caratteri invertiti, cifre fuse in parole),
+  interrompi immediatamente e avvisa l'utente con il nome del file
+  e il tipo di problema (EMPTY / GARBLED). Non proseguire.
 - Segui `ai_assistant/ai_guide/00_indice.md`
   → scrivi `<percorso-lezione-risolto>/gen/00_indice.md`
 - Segui `ai_assistant/ai_guide/01_riassunto_dettagliato.md`
@@ -129,6 +152,20 @@ istruzioni (con il percorso lezione già risolto):
   → scrivi `<percorso-lezione-risolto>/gen/02_riassunto_breve.md`
 - Segui `ai_assistant/ai_guide/03_riassunto_schematico.md`
   → scrivi `<percorso-lezione-risolto>/gen/03_riassunto_schematico.md`
+
+Dopo che il subagente A ha completato, verifica che i 4 file siano
+stati scritti e non vuoti (stessa soglia dello step 1):
+
+```bash
+for f in <percorso-lezione-risolto>/gen/{00_indice,01_riassunto_dettagliato,02_riassunto_breve,03_riassunto_schematico}.md; do
+  [ -f "$f" ] \
+    && [ "$(wc -l < "$f")" -gt 3 ] \
+    && [ "$(wc -w < "$f")" -gt 100 ] \
+    && echo "ok: $f" || echo "MANCANTE O VUOTO: $f"
+done
+```
+
+Se uno o più file risultano mancanti o vuoti, avvisa l'utente.
 
 ### 4. Subagente B — Aggiorna l'ampia panoramica
 
@@ -150,17 +187,8 @@ istruzioni (con i percorsi già risolti):
 
 ### 1. Controlla file esistenti per ogni lezione
 
-Per ogni cartella lezione in `<path>/`, esegui lo stesso
-controllo del Caso A step 1:
-
-```bash
-for f in <percorso-lezione>/gen/*riassunto*.md; do
-  [ -f "$f" ] \
-    && [ "$(wc -l < "$f")" -gt 3 ] \
-    && [ "$(wc -w < "$f")" -gt 100 ] \
-    && echo "non-vuoto: $f"
-done
-```
+Per ogni cartella lezione in `<path>/`, applica lo stesso
+controllo del Caso A step 1 (bash check + soglie identiche).
 
 Classifica ogni lezione:
 - **Senza file**: da generare.
@@ -199,8 +227,7 @@ conferma prima di un'azione 3 (rigenera) su lezioni
 con file esistenti.
 
 Aspetta che il batch corrente finisca prima di lanciare
-il successivo. Questo evita di esaurire il rate limit
-di Claude Pro (~35–70K token per subagente).
+il successivo.
 
 ### 4. Subagente B — Una sola volta, dopo che tutti gli A sono finiti
 
