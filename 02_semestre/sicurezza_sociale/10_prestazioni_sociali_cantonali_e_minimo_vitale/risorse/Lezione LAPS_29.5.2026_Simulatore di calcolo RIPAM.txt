@@ -1,0 +1,84 @@
+Simulatore di calcolo RIPAM per l'anno 2026 – Sito IAS 
+ 
+ 
+Famiglia Bernasconi - Calcolo RIPAM per Giovanni, Anna, Luca, Sara e 
+Mauro 
+ 
+Giovanni, Anna, Luca e Sara, vivono in affitto in un appartamento di 4 locali, a pochi passi da Luigi, 
+pagando una pigione lorda di 1'600 franchi (acconto spese incluso). Pagano un premio di cassa 
+malati di base di 1'290 franchi al mese (480 franchi Giovanni e Anna, 110 Luca, Sara e Mauro).  
+Giovanni lavora da 3 anni presso l’attuale datore di lavoro in qualità di pittore edile, percependo uno 
+stipendio mensile lordo di 5'000 franchi (cui si aggiunge il tredicesimo salario). La famiglia ha pochi 
+risparmi. 
+ 
+ 
+ 
+ 
+ 
+ 
+I dati richiesti possono essere desunti dalla notifica di tassazione per l’imposta cantonale IC 2023. 
+ 
+Dati immessi 
+N. genitori / persone sole / conviventi > 25 anni 
+2 
+N. genitori / persone sole / conviventi 19-25 anni 
+0 
+N. genitori / persone sole / conviventi < 19 anni 
+0 
+N. figli > 25 anni 
+0 
+N. figli 19-25 anni 
+0 
+N. figli < 19 anni 
+3 
+Totale dei redditi 
+65'000 
+Sostanza netta 
+0 
+Contributi sociali obbligatori 
+7'050 
+Pensioni alimentari pagate 
+0
+
+---
+
+Spese professionali per salariati 
+3'000 
+Interessi passivi 
+0 
+Dati considerati 
+N. genitori / persone sole / conviventi 
+2 
+N. figli 
+3 
+Totale dei redditi 
+65'000 
+1/15 sostanza netta 
+0 
+Contributi sociali obbligatori 
+7'050 
+Pensioni alimentari pagate 
+0 
+Spese professionali per salariati (max 4'000) 
+3'000 
+Interessi passivi (max 3'000) 
+0 
+Premio medio di riferimento 
+21'513 
+Reddito disponibile semplificato 
+33'437 
+Reddito disponibile massimo 
+122'253 
+ 
+Riduzione dei premi annua calcolata 
+Riduzione dei premi annua calcolata 
+15'226 
+La sua richiesta potrebbe essere accolta 
+ 
+Per evitare di corrispondere agli assicurati importi bagatella, l'ammontare minimo annuale versato è pari a 
+fr. 120.- per ogni singolo membro dell'unità di riferimento 
+ 
+ 
+ 
+Premio LAMal per tutta la famiglia: (480x2 + 110x3) x 12 = 15'480 CHF (annui) 
+Premio LAMal al netto della RIPAM: 15'480 – 15'226 = 254 CHF (annui)

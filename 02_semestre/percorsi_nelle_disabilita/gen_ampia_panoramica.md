@@ -1,5 +1,5 @@
 # Percorsi nelle Disabilità — Panoramica completa
-Semestre 02 · 13 lezioni elaborate (01, 02, 04–14; manca 03)
+Semestre 02 · 14 lezioni (tutte elaborate: 01–14)
 
 > Da Hammurabi alle politiche inclusive ticinesi del 2024, questo modulo costruisce uno sguardo completo sulla disabilità: prima la storia e le classificazioni, poi i quadri legali e i modelli interpretativi, poi le situazioni specifiche (deficit intellettivo, ASD, polyhandicap), la progettualità di vita e infine la famiglia come sistema di cura. Il filo rosso è sempre lo stesso: la disabilità non è nella persona — è nell'interazione tra la persona e un contesto più o meno ostile.
 
@@ -11,7 +11,7 @@ Semestre 02 · 13 lezioni elaborate (01, 02, 04–14; manca 03)
 |---|---------|---------------|
 | 01 | Presentazione del modulo | Struttura del corso, Gardou, inclusione vs. integrazione |
 | 02 | Disabilità nella storia — Parte 1 | Dall'antichità ai pionieri dell'educazione speciale |
-| 03 | Disabilità nella storia — Parte 2 | *(non ancora elaborata)* |
+| 03 | Disabilità nella storia — Parte 2 | Séguin, eugenismo, nazismo, dopoguerra |
 | 04 | Convenzione ONU sui diritti (CDPD) | Quadro legale internazionale, Lingua Facile |
 | 05 | Cambiamento dei concetti e modelli | ICD, ICIDH, ICF, PPH, 4 modelli istituzionali |
 | 06 | ICF | Struttura dettagliata, codifica, facilitatori e barriere |
@@ -40,7 +40,22 @@ Semestre 02 · 13 lezioni elaborate (01, 02, 04–14; manca 03)
   - **Haüy (1784)** → prima scuola per ciechi; forma Louis Braille
   - **Esquirol (1818)** → prima distinzione scientifica disagio psichico ≠ deficit intellettivo
   - **Itard (1800–1801)** → 5 principi pedagogici (Victor dell'Aveyron) → "tutte le persone sono educabili"
-  - **Séguin (1837)** → prima scuola per persone con deficit intellettivo · (Lez. 02)
+  - **Séguin (1837–1839)** → prima scuola per persone con deficit intellettivo; rompe il fatalismo di Esquirol ("idioti sono quello che devono essere per tutta la vita"); programma fisico + intellettuale + morale; emigra negli USA nel 1851; contribuisce a fondare l'**AAMD** (oggi AAIDD) · (Lez. 02, 03)
+- **Darwinismo sociale e eugenismo (fine '800 – inizio '900)** · (Lez. 03):
+  - **Darwin (1859)** → premesse scientifiche (involontarie) per il ragionamento eugenista: frenare la riproduzione degli "esseri deboli"
+  - **Galton (1880)** → fonda l'eugenismo: "migliorare la discendenza delle razze più dotate"; il talento è ereditario; povertà = deficit genetico
+  - **Degenerescenza** → ideologia che associa deficit intellettivo, povertà e criminalità in un'unica "inferiorità biologica" (1885–1925)
+  - **Eugenismo applicato** → segregazione in istituti (doppia funzione: proteggere i "normali" e "proteggere" gli anormali) · sterilizzazione (obbligatoria dal 1920) · controllo immigrazione
+  - ⚠️ Fino agli anni '60 nessuna voce si levò contro questi istituti disumani
+- **Nazismo (anni '30–'45)** · (Lez. 03):
+  - Eugenismo ribattezzato **"igiene razziale"**
+  - **Binding e Hoche (1920)** → nozione di "esseri inutili": la persona deve giustificare il fatto di essere in vita
+  - **Triade infernale** → deficit intellettivo + povertà + deficienza morale; poi vagabondi, disoccupati, omosessuali
+  - **1939** → decreto di Hitler: "programma eutanasia" (Aktion T4) — sterminio sistematico di persone con disabilità
+- **Dopoguerra** · (Lez. 03):
+  - Le idee eugeniste non spariscono con il nazismo
+  - L'istituzionalizzazione resta dominante fino alla metà degli anni '70 in USA e Europa
+  - **Le associazioni di genitori** sono il motore del cambiamento — non i governi
 - **Anni '70** → movimenti attivisti USA → prime norme antidiscriminazione; nascita associazioni (Atgabbes 1967, Fondazione Diamante 1978, LISPI 1979) · (Lez. 04)
 - **Evoluzione terminologica** · (Lez. 05):
 
@@ -506,6 +521,12 @@ ICF
 | **Esquirol** | Prima classificazione scientifica: idiozia, imbecillità, demenza (1818) | 02 |
 | **Abbé de l'Épée** | Prima scuola pubblica per sordi (1760) | 02 |
 | **Valentin Haüy** | Prima scuola per ciechi; forma Braille (1784) | 02 |
+| **Édouard Séguin** | Prima scuola per idioti (1839); "Trattamento morale degli idioti" (1846); co-fondatore AAMD | 02, 03 |
+| **Charles Darwin** | "L'origine della specie" (1859); premesse per il darwinismo sociale | 03 |
+| **Francis Galton** | Fonda l'eugenismo (1880); il talento è ereditario; povertà = deficit genetico | 03 |
+| **Binding e Hoche** | Nozione di "esseri inutili" (1920); la persona deve giustificare l'esistenza | 03 |
+| **Hitler / Reich** | "Programma eutanasia" Aktion T4 (1939) — sterminio persone con disabilità | 03 |
+| **Marco Paolini** | "Ausmerzen – Vite indegne di essere vissute" — documentazione teatrale Aktion T4 | 03 |
 | **OMS** | ICD, ICIDH (1980), ICF (2001), ICF-CY (2007) | 05, 06 |
 | **Mainardi** | 4 modelli istituzionali (esclusione, segregazione, integrazione, inclusione) | 05 |
 | **ONU** | CDPD — adottata 2006; ratifica CH 2014 | 04 |
@@ -545,20 +566,20 @@ ICF
 
 ### Parole chiave della materia
 
-`disabilità` · `handicap` · `deficit` · `menomazione` · `inclusione` · `integrazione` · `segregazione` · `esclusione` · `grande reclusione` · `trattamento morale` · `ius vivendi` · `ICD` · `ICIDH` · `ICF` · `ICF-CY` · `PPH` · `modello biomedico` · `modello biopsicosociale` · `facilitatore` · `barriera` · `capacità` · `performance` · `CDPD` · `"niente su di noi senza di noi"` · `Lingua Facile` · `art. 19` · `autodeterminazione` · `QI` · `comportamento adattivo` · `scaffolding` · `ZSP` · `SIS` · `deficit intellettivo` · `disabilità cognitiva` · `ASD` · `diade diagnostica` · `spettro` · `neurodiversità` · `sameness` · `ecolalia` · `CAA` · `PECS` · `ABA` · `TEACCH` · `ESDM` · `PEI` · `analisi funzionale` · `parent training` · `polyhandicap` · `causalità elementare` · `QdV` · `meta-modello` · `progetto di vita` · `assessment` · `needs-led` · `services-led` · `microsistema` · `mesosistema` · `macrosistema` · `Atgabbes` · `Pro Infirmis` · `LISPI` · `Fondazione ARES` · `singolari plurali` · `cicli di vita` · `adultità` · `liminalità` · `eterno bambino` · `riti di transizione` · `autonomia dipendente` · `agente causale` · `modello funzionale` · `empowerment` · `autoregolazione` · `autorealizzazione` · `infantilizzazione` · `tessitore di relazioni` · `approccio ecologico` · `capability approach` · `self advocacy` · `curatela su misura` · `curatela generale` · `curatela di sostegno` · `curatela di rappresentanza` · `capacità di discernimento` · `sussidiarietà` · `proporzionalità` · `adeguatezza` · `ARP` · `autorità parentale prolungata` · `diritti strettamente personali` · `piramide delle fonti giuridiche` · `familiare curante` · `sibling` · `dopo di noi` · `AGI` · `esperti per esperienza` · `IMAGENCY` · `ambivalenza` · `pedagogia dei genitori` · `sapere dell'esperienza` · `narrazione` · `complementarietà dei saperi` · `gruppo di narrazione` · `formazione narrativa` · `professionista riflessivo` · `cambio di paradigma` · `comunità educante` · `speranza` · `inadeguatezza`
+`disabilità` · `handicap` · `deficit` · `menomazione` · `inclusione` · `integrazione` · `segregazione` · `esclusione` · `grande reclusione` · `trattamento morale` · `ius vivendi` · `eugenismo` · `darwinismo sociale` · `degenerescenza` · `igiene razziale` · `esseri inutili` · `Aktion T4` · `triade infernale` · `sterilizzazione` · `AAMD` · `ICD` · `ICIDH` · `ICF` · `ICF-CY` · `PPH` · `modello biomedico` · `modello biopsicosociale` · `facilitatore` · `barriera` · `capacità` · `performance` · `CDPD` · `"niente su di noi senza di noi"` · `Lingua Facile` · `art. 19` · `autodeterminazione` · `QI` · `comportamento adattivo` · `scaffolding` · `ZSP` · `SIS` · `deficit intellettivo` · `disabilità cognitiva` · `ASD` · `diade diagnostica` · `spettro` · `neurodiversità` · `sameness` · `ecolalia` · `CAA` · `PECS` · `ABA` · `TEACCH` · `ESDM` · `PEI` · `analisi funzionale` · `parent training` · `polyhandicap` · `causalità elementare` · `QdV` · `meta-modello` · `progetto di vita` · `assessment` · `needs-led` · `services-led` · `microsistema` · `mesosistema` · `macrosistema` · `Atgabbes` · `Pro Infirmis` · `LISPI` · `Fondazione ARES` · `singolari plurali` · `cicli di vita` · `adultità` · `liminalità` · `eterno bambino` · `riti di transizione` · `autonomia dipendente` · `agente causale` · `modello funzionale` · `empowerment` · `autoregolazione` · `autorealizzazione` · `infantilizzazione` · `tessitore di relazioni` · `approccio ecologico` · `capability approach` · `self advocacy` · `curatela su misura` · `curatela generale` · `curatela di sostegno` · `curatela di rappresentanza` · `capacità di discernimento` · `sussidiarietà` · `proporzionalità` · `adeguatezza` · `ARP` · `autorità parentale prolungata` · `diritti strettamente personali` · `piramide delle fonti giuridiche` · `familiare curante` · `sibling` · `dopo di noi` · `AGI` · `esperti per esperienza` · `IMAGENCY` · `ambivalenza` · `pedagogia dei genitori` · `sapere dell'esperienza` · `narrazione` · `complementarietà dei saperi` · `gruppo di narrazione` · `formazione narrativa` · `professionista riflessivo` · `cambio di paradigma` · `comunità educante` · `speranza` · `inadeguatezza`
 
 ---
 
 ### Filo conduttore
 
-Il modulo percorre una trasformazione radicale nel modo in cui la società pensa alle persone con disabilità: da oggetti di paura, pietà o curiosità a soggetti di diritto. Questa traiettoria attraversa la storia (dall'infanticidio greco ai pionieri dell'educazione speciale), i modelli teorici (dal biomedico al biopsicosociale), il diritto internazionale (CDPD 2006) e gli strumenti clinico-educativi (ICF, PEI, analisi funzionale). Il percorso arriva fino alle norme cantonali ticinesi (LISPI, diritto di protezione) e alla famiglia come sistema di cura spesso invisibile — dai genitori, ai siblings, fino alla Pedagogia dei Genitori che riconosce il sapere familiare come complementare, non subordinato, a quello professionale. Tutto converge su un'unica domanda: cosa rende buona la vita di una persona con disabilità? La risposta è sempre ambientale prima che individuale: le variabili contestuali pesano più di quelle personali (Geronimi/SUPSI, 2023). L'inclusione non è un traguardo raggiunto — è un **orizzonte** verso cui orientare ogni scelta professionale, sapendo che la disabilità non abita nella persona, ma nello spazio tra la persona e un contesto che non sa ancora accoglierla.
+Il modulo percorre una trasformazione radicale nel modo in cui la società pensa alle persone con disabilità: da oggetti di paura, pietà o curiosità a soggetti di diritto. Questa traiettoria attraversa la storia (dall'infanticidio greco ai pionieri dell'educazione speciale; dalla svolta di Séguin fino all'orrore dell'eugenismo e del nazismo, con il programma eutanasia Aktion T4 del 1939 — uno degli episodi più bui della storia occidentale, figlio diretto di quella stessa ideologia della degenerescenza che aveva trasformato la scienza in strumento di eliminazione), i modelli teorici (dal biomedico al biopsicosociale), il diritto internazionale (CDPD 2006) e gli strumenti clinico-educativi (ICF, PEI, analisi funzionale). Il percorso arriva fino alle norme cantonali ticinesi (LISPI, diritto di protezione) e alla famiglia come sistema di cura spesso invisibile — dai genitori, ai siblings, fino alla Pedagogia dei Genitori che riconosce il sapere familiare come complementare, non subordinato, a quello professionale. Tutto converge su un'unica domanda: cosa rende buona la vita di una persona con disabilità? La risposta è sempre ambientale prima che individuale: le variabili contestuali pesano più di quelle personali (Geronimi/SUPSI, 2023). L'inclusione non è un traguardo raggiunto — è un **orizzonte** verso cui orientare ogni scelta professionale, sapendo che la disabilità non abita nella persona, ma nello spazio tra la persona e un contesto che non sa ancora accoglierla.
 
 ---
 
 ## Domande di orientamento allo studio
 
 **Come è cambiato nel corso dei secoli il modo in cui la società trattava le persone con disabilità? Quali sono le tappe più significative?**
-Il percorso va dall'eliminazione fisica alla partecipazione come diritto. Nell'antichità, le persone con disabilità grave venivano eliminate (infanticidio, esposizione) — pratica accettata fino ai primi imperatori cristiani, che sancirono lo ius vivendi (Costantino, 274–337). Nel Medioevo, la "follia" raccoglieva tutti i "diversi" in un contenitore indifferenziato, che sfocia nella Grande Reclusione. La svolta arriva con l'Illuminismo: Pinel umanizza il trattamento, Itard dimostra che tutte le persone sono educabili, Esquirol separa disagio psichico da deficit intellettivo. Il '900 porta prima l'errore della "madre frigorifero" sull'autismo (Bettelheim), poi la rivoluzione degli anni '70 con i movimenti dei diritti civili, e infine la CDPD del 2006 come sintesi di un cambio culturale globale. (Lez. 01, 02, 04, 08)
+Il percorso va dall'eliminazione fisica alla partecipazione come diritto. Nell'antichità, le persone con disabilità grave venivano eliminate (infanticidio, esposizione) — pratica accettata fino ai primi imperatori cristiani, che sancirono lo ius vivendi (Costantino, 274–337). Nel Medioevo, la "follia" raccoglieva tutti i "diversi" in un contenitore indifferenziato, che sfocia nella Grande Reclusione. La svolta arriva con l'Illuminismo: Pinel umanizza il trattamento, Itard dimostra che tutte le persone sono educabili, Esquirol separa disagio psichico da deficit intellettivo. Séguin apre la prima scuola per idioti nel 1839, ma questa traiettoria positiva viene interrotta dall'eugenismo (Galton, 1880) e dalla sua radicalizzazione nazista: il programma eutanasia (Aktion T4, 1939) porta allo sterminio sistematico di persone con disabilità. Il dopoguerra non cancella subito il modello istituzionale — fino agli anni '70 la segregazione resta dominante. La svolta viene dalle associazioni di genitori, poi dalla CDPD del 2006 come sintesi di un cambio culturale globale. (Lez. 01, 02, 03, 04, 08)
 
 **Qual è il collegamento tra il modello biopsicosociale dell'ICF e la Convenzione ONU sui diritti delle persone con disabilità (CDPD)?**
 Entrambi condividono la stessa definizione di disabilità: non è una caratteristica della persona, ma il risultato dell'interazione tra la persona con menomazioni e le barriere del contesto. L'ICF (OMS, 2001) traduce questo principio in uno strumento di classificazione del funzionamento — si chiede cosa la persona può fare nel suo contesto. La CDPD (2006) lo traduce in diritti giuridici: è il contesto che deve adattarsi, non la persona. I due strumenti sono complementari: l'ICF è lo strumento clinico-educativo, la CDPD è il quadro di diritti che ne giustifica l'uso. Entrambi portano alla stessa implicazione pratica: l'operatore sociale lavora sull'ambiente, non (solo) sulla persona. (Lez. 04, 05, 06)

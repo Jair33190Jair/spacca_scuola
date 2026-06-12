@@ -1,7 +1,7 @@
 # Sicurezza Sociale e Forme di Solidarietà — Panoramica completa
-Semestre 02 · 9 lezioni
+Semestre 02 · 10 lezioni
 
-> Nove lezioni per capire come la Svizzera — e il Ticino in particolare — risponde ai momenti più difficili della vita: malattia, lavoro che finisce, vecchiaia, invalidità, famiglia che cambia, confine tra chi appartiene al sistema e chi resta fuori. Il percorso parte dai fondamenti teorici, costruisce l'architettura del sistema pezzo per pezzo, e arriva alle sfide aperte: chi rimane scoperto, cosa ancora non funziona, come i nuovi modelli familiari e la migrazione stanno riscrivendo le regole. Il filo conduttore è uno: la sicurezza sociale non è carità, è solidarietà organizzata — e capire chi ne è escluso è già metà del lavoro di un operatore sociale.
+> Dieci lezioni per capire come la Svizzera — e il Ticino in particolare — risponde ai momenti più difficili della vita: malattia, lavoro che finisce, vecchiaia, invalidità, famiglia che cambia, confine tra chi appartiene al sistema e chi resta fuori. Il percorso parte dai fondamenti teorici, costruisce l'architettura del sistema pezzo per pezzo, e arriva alle sfide aperte: chi rimane scoperto, cosa ancora non funziona, come i nuovi modelli familiari e la migrazione stanno riscrivendo le regole. La lezione 10 chiude il cerchio con il livello cantonale: la LAPS e le 9 prestazioni ticinesi commisurate al bisogno, con il meccanismo concreto del calcolo del diritto. Il filo conduttore è uno: la sicurezza sociale non è carità, è solidarietà organizzata — e capire chi ne è escluso è già metà del lavoro di un operatore sociale.
 
 ---
 
@@ -18,6 +18,7 @@ Semestre 02 · 9 lezioni
 | 07 | Politica famigliare | Interventi per la famiglia, assegni, congedi, disuguaglianze di genere |
 | 08 | AD, PTDA e Assicurazione Malattia | Disoccupazione, prestazioni transitorie anziani, LAMal/AOMS |
 | 09 | Stranieri e sistema sanitario | Accesso degli stranieri ai diritti sociali, spesa sanitaria, iniquità LAMal |
+| 10 | Prestazioni sociali cantonali e minimo vitale | LAPS, calcolo RDR, le 9 prestazioni ticinesi, AFI/API/ISD/RIPAM |
 
 ---
 
@@ -414,17 +415,78 @@ La Svizzera è tra i paesi OCSE con congedi più brevi dell'Europa occidentale; 
 
 ## Prestazioni commisurate al bisogno — Ticino (LAPS)
 
-**9 prestazioni in ordine di priorità** (Lez. 01):
+### LAPS — cornice legale (Lez. 01, 10)
 
-1. RIPAM
-2. Aiuto sociale speciale
-3. Assegno di studio
-4. Formazione terziaria sociosanitaria
-5. Riqualificazione professionale
-6. ISD
-7. AFI
-8. API
-9. Aiuto sociale ← ultima opzione
+- **LAPS** → Legge sull'Armonizzazione e il Coordinamento delle Prestazioni Sociali; in vigore dal **2003** (varata 2000)
+- **Scopo** → garantire il minimo vitale a tutte le economie domestiche del Cantone
+- **Coordina** → 9 prestazioni cantonali con accertamento dei mezzi
+- **Non include** → PC AVS/AI (federali), anticipo alimenti, aiuti per mantenimento al domicilio
+
+### Calcolo del diritto: il RDR (Lez. 10)
+
+- **RDR** = Reddito Disponibile Residuale = redditi computabili − spese computabili
+- Se RDR < soglia d'intervento → **diritto alle prestazioni LAPS**
+- **UR** = Unità di Riferimento (la cerchia familiare considerata; ogni persona appartiene a una sola UR)
+
+**Redditi computabili:**
+- Lavoro dipendente/indipendente (franchigia 20%, max CHF 500/mese per membro)
+- Patrimonio: 1/15 della sostanza netta
+- Rendite, redditi sostitutivi, proventi PC AVS/AI
+
+**Spese computabili:**
+- Alloggio (pigione netta + 15%; massimale regione 2: CHF 26'064/anno per 3+ persone)
+- Premi LAMal fino al PMR (Premio Medio di Riferimento)
+- Oneri sociali obbligatori (AVS/AI/IPG, AD, PP)
+
+### Soglie d'intervento mensili (Lez. 10)
+
+| UR | LAPS | Aiuto sociale |
+|---|---|---|
+| 1 | Fr. 1'559 | Fr. 1'061 |
+| 2 | Fr. 2'327 | Fr. 1'624 |
+| 3 | Fr. 2'899 | Fr. 1'974 |
+| 4 | Fr. 3'337 | Fr. 2'271 |
+
+> L'aiuto sociale ha soglia più bassa rispetto alle altre LAPS — è la rete più stretta del sistema.
+
+### Le 9 prestazioni LAPS — cascata (Lez. 01, 10)
+
+| Priorità | Prestazione | Acronimo | Cosa copre |
+|---|---|---|---|
+| 1 | Riduzione premi assicurazione malattia | **RIPAM** | Premio LAMal di base |
+| 2 | Aiuto soc. speciale formazione | — | Costi scuola obbligo privata |
+| 3 | Borsa studio / assegno tirocinio | — | Formazione post-obbligatoria |
+| 4 | Formazione terziaria sociosanitaria | — | Formazione + mantenimento UR |
+| 5 | Riqualificazione professionale | — | Formazione + mantenimento UR |
+| 6 | Ind. straord. disoccup. ex-indipendenti | **ISD** | Minimo vitale UR (max 120 ind.) |
+| 7 | Assegno Famigliare Integrativo | **AFI** | Minimo vitale figli 0–14 anni |
+| 8 | Assegno di Prima Infanzia | **API** | Minimo vitale intera UR (figlio pre-scolare) |
+| 9 | Aiuto sociale | — | Minimo vitale UR (norme COSAS) ← ultima opzione |
+
+### ISD — copertura per ex-indipendenti (Lez. 10)
+
+- L'AD ordinaria copre solo lavoratori dipendenti → gli indipendenti ne sono esclusi · (Lez. 03, 08)
+- **ISD** colma il vuoto per ex-indipendenti con cessazione attività < 6 mesi
+- Copre: minimo vitale dell'intera UR
+- Durata max: **120 indennità giornaliere (~6 mesi)**
+- Richiede: accertamento dei mezzi + iscrizione all'URC
+
+### RIPAM — importi di riferimento 2026 (Lez. 10)
+
+| Categoria | PMR annuo |
+|---|---|
+| Minorenni | Fr. 1'827 |
+| Giovani adulti 18–25 | Fr. 6'143 |
+| Adulti | Fr. 8'016 |
+
+### Organizzazione (Lez. 10)
+
+| Livello | Chi | Cosa |
+|---|---|---|
+| 1° | Comune di domicilio | Consulenza + lista documenti |
+| 2° | 13 sportelli regionali LAPS | Istruzione domanda |
+| 3° | Uffici cantonali (DSS, DECS, DFE, DASF) | Decisione + versamento |
+| Coord. | SCPS (IAS) | Piattaforma + coordinamento |
 
 ---
 
@@ -453,7 +515,7 @@ La Svizzera è tra i paesi OCSE con congedi più brevi dell'Europa occidentale; 
 
 ## Parole chiave della materia
 
-`sicurezza sociale` · `stato sociale` · `welfare state` · `welfare mix` · `rischio sociale` · `assicurazione sociale` · `prestazione commisurata al bisogno` · `prova dei mezzi` · `minimo vitale` · `sussidiarietà` · `solidarietà` · `logica causale` · `logica finale` · `piramide rovesciata` · `AVS` · `AI` · `PC` · `PP` · `AINF` · `IPG` · `AD` · `PTDA` · `LPTD` · `LAFam` · `LAI` · `LISPI` · `LPGA` · `LAPS` · `LFam` · `LAS` · `LAMal` · `AOMS` · `LCA` · `ripartizione` · `capitalizzazione` · `grado d'invalidità` · `accredito educativo` · `accredito assistenziale` · `non-ricorso` · `indipendente` · `pseudo-indipendente` · `lavoro atipico` · `precarietà` · `caregiver burden` · `familiare curante` · `AGI` · `contributo per l'assistenza` · `indennità di assistenza` · `SACD` · `CDSA` · `filiazione` · `COFF` · `male breadwinner model` · `dual-earner` · `childlessness` · `monoparentalità` · `AFI` · `API` · `LAV` · `PAL` · `3a vincolata` · `3b libera` · `rilevamento tempestivo` · `intervento tempestivo` · `sistema meritocratico-occupazionale` · `rendita straordinaria` · `SUVA` · `UFAS` · `Überfremdung` · `statuto stagionale` · `libera circolazione` · `criterio contribuzione` · `criterio residenza` · `criterio statuto` · `non-domanda` · `diritti sociali condizionati` · `guadagno assicurato` · `malattia dei costi di Baumol` · `selezione avversa` · `sans-papiers`
+`sicurezza sociale` · `stato sociale` · `welfare state` · `welfare mix` · `rischio sociale` · `assicurazione sociale` · `prestazione commisurata al bisogno` · `prova dei mezzi` · `minimo vitale` · `sussidiarietà` · `solidarietà` · `logica causale` · `logica finale` · `piramide rovesciata` · `AVS` · `AI` · `PC` · `PP` · `AINF` · `IPG` · `AD` · `PTDA` · `LPTD` · `LAFam` · `LAI` · `LISPI` · `LPGA` · `LAPS` · `LFam` · `LAS` · `LAMal` · `AOMS` · `LCA` · `ripartizione` · `capitalizzazione` · `grado d'invalidità` · `accredito educativo` · `accredito assistenziale` · `non-ricorso` · `indipendente` · `pseudo-indipendente` · `lavoro atipico` · `precarietà` · `caregiver burden` · `familiare curante` · `AGI` · `contributo per l'assistenza` · `indennità di assistenza` · `SACD` · `CDSA` · `filiazione` · `COFF` · `male breadwinner model` · `dual-earner` · `childlessness` · `monoparentalità` · `AFI` · `API` · `ISD` · `RIPAM` · `LAV` · `PAL` · `3a vincolata` · `3b libera` · `rilevamento tempestivo` · `intervento tempestivo` · `sistema meritocratico-occupazionale` · `rendita straordinaria` · `SUVA` · `UFAS` · `Überfremdung` · `statuto stagionale` · `libera circolazione` · `criterio contribuzione` · `criterio residenza` · `criterio statuto` · `non-domanda` · `diritti sociali condizionati` · `guadagno assicurato` · `malattia dei costi di Baumol` · `selezione avversa` · `sans-papiers` · `RDR` · `UR` · `PMR` · `cascata prestazioni` · `soglia d'intervento` · `accertamento dei mezzi` · `COSAS` · `LCAMal` · `LASt` · `LAF`
 
 ---
 
@@ -483,11 +545,14 @@ La LAMal è l'unica assicurazione sociale svizzera con premi fissi non basati su
 **In che modo il sistema di sicurezza sociale svizzero tratta diversamente gli stranieri rispetto ai cittadini?**
 Il principio formale è l'uguale accesso per chi lavora e versa contributi — sulle assicurazioni contributive (AVS, AI, AD, 2° pilastro) non c'è discriminazione diretta. Il problema si concentra sull'assistenza: per i titolari di permesso B e C, ricorrere all'aiuto sociale può compromettere il rinnovo o la stabilità del permesso di soggiorno. Questo crea il fenomeno della "non-domanda": stranieri che rinunciano a prestazioni a cui avrebbero diritto, con effetti concreti su salute, abitazione e indebitamento. È il paradosso definito da Borrelli et al. (2021) come "diritti sociali condizionati": un diritto esiste sulla carta ma il suo esercizio crea un rischio. (Lez. 09)
 
+**Come funziona concretamente il calcolo del diritto alle prestazioni LAPS in Ticino, e perché è importante saperlo fare?**
+Il diritto si calcola tramite il RDR (Reddito Disponibile Residuale): si sottraggono le spese computabili (affitto, premi LAMal, oneri sociali) dai redditi computabili (lavoro, patrimonio, rendite). Se il RDR è inferiore alla soglia d'intervento per la dimensione dell'UR, scatta il diritto. La sequenza delle 9 prestazioni LAPS è rigida: si parte da RIPAM (sussidio cassa malati) e si scende in cascata fino all'aiuto sociale, che è sempre l'ultima opzione. Conoscere questo meccanismo consente all'operatore di identificare quale prestazione è appropriata senza saltare livelli o richiedere la più pesante prima di aver esaurito quelle più leggere. (Lez. 01, 10)
+
 **Qual è il filo conduttore dell'intera materia? Come descriveresti il sistema di sicurezza sociale svizzero a chi non lo conosce?**
-Il sistema di sicurezza sociale svizzero è una rete di solidarietà organizzata che protegge i residenti contro undici rischi sociali riconosciuti, combinando assicurazioni obbligatorie (finanziate da contributi) e prestazioni sussidiarie (finanziate da imposte). È un sistema solido per chi ha un'intera carriera da salariato, ma mostra crepe strutturali per gli indipendenti, i lavoratori atipici, chi ha carriere discontinue, chi non conosce i propri diritti, e chi vive con un permesso di soggiorno precario. L'evoluzione demografica, la trasformazione del mercato del lavoro e il cambiamento dei modelli familiari stanno mettendo sotto pressione un sistema costruito nel Novecento su premesse che non corrispondono più alla realtà. (Tutte le lezioni)
+Il sistema di sicurezza sociale svizzero è una rete di solidarietà organizzata che protegge i residenti contro undici rischi sociali riconosciuti, combinando assicurazioni obbligatorie (finanziate da contributi) e prestazioni sussidiarie (finanziate da imposte). È un sistema solido per chi ha un'intera carriera da salariato, ma mostra crepe strutturali per gli indipendenti, i lavoratori atipici, chi ha carriere discontinue, chi non conosce i propri diritti, e chi vive con un permesso di soggiorno precario. La lezione 10 mostra il volto concreto del livello cantonale: la LAPS con le sue 9 prestazioni in cascata è lo strumento che traduce in diritti esigibili quella rete di protezione — ma anche lì, chi non sa come funziona o chi non soddisfa i requisiti di residenza resta fuori. L'evoluzione demografica, la trasformazione del mercato del lavoro e il cambiamento dei modelli familiari stanno mettendo sotto pressione un sistema costruito nel Novecento su premesse che non corrispondono più alla realtà. (Tutte le lezioni)
 
 ---
 
 ## Filo conduttore
 
-Le prime due lezioni costruiscono il vocabolario e la mappa: cos'è lo Stato sociale, da dove viene, quali valori lo animano. La lezione 03 introduce la distinzione centrale tra due logiche — assicurativa (ho diritto perché ho contribuito) e assistenziale (ho diritto perché ho dimostrato il bisogno) — e rivela la prima grande crepa: il sistema è costruito attorno al salariato industriale, e gli indipendenti restano spesso scoperti. Le lezioni 04 e 05 entrano nel meccanismo previdenziale dei tre pilastri, confermano questo divario, e mostrano i dettagli concreti: come si calcola la rendita AVS, perché tante persone non richiedono le PC a cui avrebbero diritto, come gli accrediti educativi compensano (parzialmente) il lavoro di cura non pagato. La lezione 06 porta tutto sul campo: l'AI è l'assicurazione più complessa, quella che gli operatori sociali incontrano ogni giorno — il suo calcolo del grado d'invalidità rivela un principio scomodo: non misura quanto una persona è menomata, ma quanto guadagnava prima. La lezione 07 allarga la visuale alla politica famigliare: strumenti concreti (assegni, congedi, servizi), ma anche limiti strutturali — un sistema pensato per la coppia eterosessuale con il maschio breadwinner, sempre più inadeguato di fronte alle nuove forme familiari e alle disuguaglianze di genere. La lezione 08 aggiunge i tasselli mancanti sul lato del lavoro e della salute: come funziona l'AD (e perché gli indipendenti ne sono esclusi), le PTDA come rete di salvataggio per i disoccupati anziani, e l'AMal con la sua anomalia strutturale — premi fissi che pesano di più sui redditi bassi. La lezione 09 apre l'ultima questione: chi è "dentro" al sistema? La Svizzera è un paese di immigrazione, e il sistema di welfare si trova in tensione permanente tra l'inclusione economica degli stranieri (che lavorano e contribuiscono) e la loro esclusione giuridica condizionata — un meccanismo che produce non-domanda, rinuncia ai diritti, e vulnerabilità crescente. Il filo che percorre tutte e nove le lezioni è uno solo: la sicurezza sociale non è neutra. Riflette scelte politiche, valori, e rapporti di forza — e comprenderlo è il primo passo per usarla bene come strumento di lavoro sociale.
+Le prime due lezioni costruiscono il vocabolario e la mappa: cos'è lo Stato sociale, da dove viene, quali valori lo animano. La lezione 03 introduce la distinzione centrale tra due logiche — assicurativa (ho diritto perché ho contribuito) e assistenziale (ho diritto perché ho dimostrato il bisogno) — e rivela la prima grande crepa: il sistema è costruito attorno al salariato industriale, e gli indipendenti restano spesso scoperti. Le lezioni 04 e 05 entrano nel meccanismo previdenziale dei tre pilastri, confermano questo divario, e mostrano i dettagli concreti: come si calcola la rendita AVS, perché tante persone non richiedono le PC a cui avrebbero diritto, come gli accrediti educativi compensano (parzialmente) il lavoro di cura non pagato. La lezione 06 porta tutto sul campo: l'AI è l'assicurazione più complessa, quella che gli operatori sociali incontrano ogni giorno — il suo calcolo del grado d'invalidità rivela un principio scomodo: non misura quanto una persona è menomata, ma quanto guadagnava prima. La lezione 07 allarga la visuale alla politica famigliare: strumenti concreti (assegni, congedi, servizi), ma anche limiti strutturali — un sistema pensato per la coppia eterosessuale con il maschio breadwinner, sempre più inadeguato di fronte alle nuove forme familiari e alle disuguaglianze di genere. La lezione 08 aggiunge i tasselli mancanti sul lato del lavoro e della salute: come funziona l'AD (e perché gli indipendenti ne sono esclusi), le PTDA come rete di salvataggio per i disoccupati anziani, e l'AMal con la sua anomalia strutturale — premi fissi che pesano di più sui redditi bassi. La lezione 09 apre la questione dell'appartenenza: chi è "dentro" al sistema? La Svizzera è un paese di immigrazione, e il welfare si trova in tensione permanente tra l'inclusione economica degli stranieri (che lavorano e contribuiscono) e la loro esclusione giuridica condizionata — meccanismo che produce non-domanda, rinuncia ai diritti, e vulnerabilità crescente. La lezione 10 chiude il percorso portando tutto al livello operativo del Ticino: la LAPS con le sue 9 prestazioni in cascata — dal RIPAM all'aiuto sociale, ultima opzione — e il meccanismo del RDR che traduce la situazione economica di una famiglia in un diritto (o non diritto) concreto. Il filo che percorre tutte e dieci le lezioni è uno solo: la sicurezza sociale non è neutra. Riflette scelte politiche, valori, e rapporti di forza — e comprenderlo è il primo passo per usarla bene come strumento di lavoro sociale.
