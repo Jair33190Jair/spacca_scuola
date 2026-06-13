@@ -263,6 +263,38 @@ Compaiono dopo la prima infanzia. <span class="c-tesi">Sono più complessi, dist
 
 ---
 
+## Scopo, modalità d'uso e impatto dei meccanismi di difesa
+
+<span class="c-dato">Vaillant (1994)</span> sistematizza i MDD come processi regolativi innati e involontari che riducono la dissonanza cognitiva e minimizzano i cambiamenti bruschi dell'ambiente (interno o esterno) agendo sulla percezione. Il loro impatto può ricadere su una di tre dimensioni, o su tutte e tre nei casi più estremi:
+
+1. **il soggetto** (il sé)
+2. **l'oggetto** (l'altro)
+3. **l'idea o il sentimento**
+
+Per valutare se un MDD è adattivo o disadattivo, <span class="c-dato">Perrotta (2020)</span> propone tre criteri che sintetizzano scopo, modalità d'uso ed effetti:
+
+| Criterio | Polo adattivo | Polo disadattivo |
+|---|---|---|
+| **Scopo** | Difende dall'angoscia mantenendo il contatto con la realtà conflittuale | Evita il conflitto completamente, senza possibilità di elaborazione |
+| **Modalità d'uso** | Flessibile, variato, appropriato al contesto | Rigido, esclusivo, restrittivo |
+| **Effetti/Impatto** | Distorsione lieve della realtà; la difesa funziona | Distorsione pesante; la difesa compromette il funzionamento |
+
+<span class="c-impl">**Esempio pratico**: il ritiro primitivo elimina l'angoscia portando il soggetto lontano dal conflitto (scopo raggiunto) ma impedisce ogni elaborazione. L'umorismo invece mantiene il contatto con la fonte di disagio — la trasforma, non la evita — e rimane adattivo.</span>
+
+### I tre criteri di classificazione (Perrotta, 2020)
+
+Oltre ai criteri di valutazione di Anna Freud (age adequateness, intensity, balance), Perrotta identifica **tre dimensioni di classificazione** dei MDD:
+
+| Dimensione | Polo maturo/adattivo | Polo primitivo/disadattivo |
+|---|---|---|
+| **Maturità** | Funzionale e adattivo | Disfunzionale e disadattivo |
+| **Area clinica** (compromissione del piano di realtà) | Nevrotica | Borderline → Psicotica |
+| **Fonte di formazione** | Secondaria: compare nel corso dello sviluppo | Primaria: primitiva, nei primi anni di vita |
+
+<span class="c-warn">La valutazione di una difesa non si fa mai su un singolo atto osservato — va sempre contestualizzata: un meccanismo molto distorcente può essere adeguato in un contesto traumatico acuto; una difesa di impatto minore può diventare disadattiva se usata in modo pervasivo e continuo.</span>
+
+---
+
 ## La scala di maturità: un quadro d'insieme
 
 I MDD si organizzano lungo due assi:
@@ -322,6 +354,58 @@ I meccanismi primitivi compaiono nella prima infanzia: sono semplici, molto effi
 **Cosa significa "identificazione proiettiva" e qual è il suo impatto nel lavoro sociale?**
 
 L'identificazione proiettiva è un meccanismo complesso: non basta proiettare un contenuto sull'altro, si agisce nella relazione in modo che l'altro provi davvero ciò che gli è stato proiettato. Non è ipocrisia consapevole — è inconscio. Nel lavoro sociale si manifesta quando un utente con vissuto di frustrazione e fallimento porta l'assistente sociale a costruire progetto dopo progetto che fallisce, finché l'operatore prova esattamente le stesse emozioni dell'utente all'inizio: frustrazione, senso di inadeguatezza, rabbia. Ha vissuto dall'interno il mondo interno dell'utente. Riconoscere questo meccanismo permette all'operatore di non confondere le proprie emozioni indotte con una valutazione obiettiva della situazione.
+
+---
+
+## Domande esame 04
+
+**Definire la paura e le dimensioni che caratterizzano questa emozione.**
+
+La paura è un'emozione con un oggetto specifico — una minaccia reale e presente — caratterizzata da breve durata e da un'attivazione fisiologica orientata alla reazione (principalmente attraverso l'amigdala). Seguendo la filiera elaborata da Pezzoli a partire da Plutchik (2017), la paura si attiva secondo la sequenza: Minaccia → Valutazione protocognitiva (pericolo?) → Paura → Fuga → Protezione/salvezza. La valutazione è automatica e inconscia — veloce ma non infallibile. La paura ha una funzione adattiva: mobilita energie, facilita la trasmissione sociale del segnale di allarme, predispone alla reazione difensiva. Darwin (1872) la collegava etimologicamente a "qualcosa di pericoloso e improvviso". Le sue dimensioni principali sono: oggetto specifico, durata breve, valenza negativa soggettiva, funzione protettiva, coinvolgimento dell'amigdala a livello neurologico.
+
+**Reazioni a livello etologico alla paura.**
+
+A livello etologico, di fronte a una minaccia percepita, esistono tre risposte comportamentali fondamentali: fuga (la più tipica), attacco (quando la fuga è impossibile o il soggetto è "nell'angolo"), e mimetismo/immobilità (sparire dalla vista del predatore). Queste risposte si ritrovano, con le dovute specificità, anche nell'uomo. Nell'ambito del lavoro sociale è fondamentale riconoscerle: un utente che attacca durante un colloquio non è necessariamente aggressivo per natura — potrebbe essere in una situazione in cui percepisce di non avere vie di fuga.
+
+**Mettere in relazione la paura ai temi della malattia e della relazione di aiuto.**
+
+La paura si attiva sia di fronte a minacce concrete (malattia, pericolo fisico) sia in contesti relazionali. Nella malattia, il soggetto si trova spesso in un doppio contesto di allarme: la minaccia interna (la malattia) si somma a un ambiente non familiare (l'ospedale, il reparto). Questo produce il massimo livello di attivazione della paura. Nella relazione di aiuto, l'operatore funge da "scudo di Atena": media l'incontro del soggetto con la sua paura, rende la minaccia meno frontale e più trattabile. Quando un professionista entra in contatto con le storie di utenti che hanno vissuto eventi traumatici, può lui stesso essere "pietrificato" — attivando difese primitive che ostacolano la relazione. Riconoscere questo meccanismo è essenziale per mantenere la funzione di cura.
+
+**Aspetti che favoriscono o contengono la paura.**
+
+Secondo lo schema a quattro quadranti di Pezzoli, la paura è modulata dall'incrocio tra due variabili: la presenza/assenza di minacce percepite e la familiarità/non familiarità dell'ambiente. Un ambiente familiare riduce l'impatto di una minaccia presente (area di pericolo), mentre un ambiente non familiare amplifica persino la paura in assenza di minaccia diretta (area di attenzione). Il massimo allarme si raggiunge quando minaccia e ambiente non familiare si combinano. Altri aspetti che amplificano la paura: isolamento, buio, rumori intensi, presenza di estranei, cambiamenti improvvisi (Oliverio Ferraris, 1998). La presenza di figure conosciute e la familiarizzazione progressiva dell'ambiente sono fattori protettivi importanti in tutti i contesti di cura.
+
+**Differenza tra paura e ansia.**
+
+Paura e ansia non sono sinonimi, né a livello psicologico né neurologico (Grillon, 2008). La paura risponde a una minaccia specifica, attuale e identificabile; ha durata breve e coinvolge principalmente l'amigdala. L'ansia è uno stato emotivo diffuso, senza oggetto definito, proiettato nel futuro; ha durata prolungata e coinvolge il BNST (Bed Nucleus of the Stria Terminalis), una struttura limbica distinta. Per Plutchik, l'ansia è la combinazione di paura + anticipazione. Freud le distingue come "angoscia reale" (paura) e "angoscia nevrotica" (ansia). La paura restringe l'attenzione e concentra le energie per l'azione immediata; l'ansia allarga la sensibilità sensoriale e si focalizza sulla valutazione del rischio futuro.
+
+**Ansia normale e ansia patologica come Biondi le suddivide e ne propone una distinzione.**
+
+Biondi (1996) colloca l'ansia lungo un continuum dalla normalità alla patologia. I criteri di distinzione sono: intensità (lieve-moderata vs. moderata-intensa), durata (limitata vs. lunga o con postumi), frequenza (episodi rari vs. frequenti o continui), adeguatezza della reazione alla situazione (proporzionata vs. inappropriata/sproporzionata), sofferenza soggettiva (limitata e temporanea vs. evidente e frequente), impatto sulla funzionalità (compromissione minima vs. compromissione delle libertà e delle funzionalità quotidiane). L'ansia patologica interferisce significativamente con le attività quotidiane e la vita sociale della persona.
+
+**Definizione dei meccanismi di difesa.**
+
+I meccanismi di difesa (MDD) sono risposte automatiche e inconsce, attivate dall'Io sotto la pressione dell'angoscia. Sono innati, a regolazione involontaria, e hanno lo scopo principale di difendere il soggetto dall'angoscia — non dalla minaccia che la genera. Il punto cruciale: eliminano il disagio soggettivo ma non risolvono il conflitto alla base. Non sono strategie coscienti (quello è il coping). Anna Freud (1936) distingue tre fonti di angoscia che i MDD devono fronteggiare: angoscia istintuale (dall'Es che preme per soddisfazione immediata), angoscia del reale (dalla realtà esterna minacciosa), angoscia morale (dal Super-Io che impone divieti). Il loro impatto può ricadere sul sé, sull'altro, o sull'idea/sentimento in gioco.
+
+**Criterio orizzontale e criterio verticale dei MDD.**
+
+Il criterio orizzontale riguarda la comparsa nel tempo: i MDD non compaiono tutti contemporaneamente, ma si sviluppano progressivamente. Si possono ordinare lungo un continuum temporale da quelli primitivi (comparsa precoce, prima infanzia) a quelli maturi (comparsa tardiva, con lo sviluppo). Il criterio verticale riguarda invece la gerarchia basata su caratteristiche intrinseche: grado di complessità e livello di distorsione della realtà (Lingiardi & Madeddu, 1994). I MDD primitivi distorcono molto la realtà e hanno poca complessità; quelli maturi distorcono meno e presentano maggiore elaborazione. I due criteri si combinano: quanto più primitivo è un meccanismo, tanto più distorce la realtà; quanto più maturo, tanto meno la distorce e tanto più mantiene il contatto con la dimensione conflittuale.
+
+**Cosa si intende per scopo, modalità d'uso e impatto nei MDD.**
+
+Perrotta (2020) propone di valutare i MDD su tre vertici: lo **scopo** (proteggere dall'angoscia — adattivo se si mantiene il contatto con la realtà conflittuale, disadattivo se il conflitto viene completamente evitato), la **modalità d'uso** (adattiva se flessibile e variata, disadattiva se rigida, esclusiva, restrittiva), e gli **effetti/impatto** (adattivi se la difesa funziona senza distorcere gravemente la realtà, disadattivi se compromette il controllo del conflitto). Esempio: nel ritiro primitivo lo scopo è raggiunto (angoscia eliminata) ma con effetti disadattivi (zero elaborazione). Nell'umorismo lo scopo è raggiunto, la modalità è flessibile e gli effetti sono adattivi: il soggetto rimane in contatto con il problema e lo trasforma.
+
+**Gerarchia delle difese: differenziazione dei meccanismi di difesa in primari e secondari.**
+
+I MDD si distinguono in primitivi (o primari) e secondari (o maturi). I primitivi compaiono nella prima infanzia, sono semplici, distorcono molto la realtà, ma sono efficaci nell'eliminare l'angoscia a breve termine. Esempi: ritiro primitivo, diniego, proiezione, introiezione, identificazione proiettiva, scissione, idealizzazione/svalutazione, controllo onnipotente. I secondari compaiono dopo la prima infanzia, con lo sviluppo del soggetto; distorcono meno la realtà e mantengono un maggiore contatto con la dimensione conflittuale che genera l'angoscia. Si organizzano in sottogruppi: "dimenticare" (rimozione, dissociazione), "spostare" (formazione reattiva, spostamento, capovolgimento), "separare" (isolamento degli affetti, intellettualizzazione, razionalizzazione, compartimentalizzazione). Al livello più maturo troviamo le difese adattive: altruismo, affiliazione, umorismo, sublimazione.
+
+**Meccanismi di difesa e ambito psicopatologico: come si distribuiscono le difese.**
+
+I MDD si distribuiscono lungo aree cliniche corrispondenti al grado di compromissione del piano di realtà. Nell'area nevrotica dominano difese di livello 5° (rimozione, formazione reattiva, spostamento) e 6° (intellettualizzazione, isolamento degli affetti): distorsione moderata, vulnerabilità del soggetto, ma piano di realtà sostanzialmente conservato. Nell'area borderline dominano le difese di 2° livello (scissione, identificazione proiettiva): incapacità di tenere insieme aspetti positivi e negativi, polarizzazione tutto/niente. Nell'area psicotica si arriva alla rottura con la realtà (livello 0): negazione psicotica, distorsione psicotica, proiezione delirante. Le tre grandi aree psicopatologiche hanno anche angosce dominanti diverse: angoscia di castrazione (nevrosi), angoscia di frammentazione (psicosi), angoscia di abbandono (borderline/stato limite).
+
+**Conoscenza e capacità di definire e descrivere i principali meccanismi di difesa presenti nel materiale del corso.**
+
+Vedi sezioni "I meccanismi di difesa primitivi" e "I meccanismi di difesa secondari (o maturi)" in questo documento, e la tabella "Concetti chiave" per definizioni sintetiche. I principali MDD trattati: ritiro primitivo, diniego, proiezione, introiezione, identificazione proiettiva, scissione, idealizzazione, svalutazione, controllo onnipotente (primitivi); rimozione, dissociazione, formazione reattiva, spostamento, capovolgimento, isolamento degli affetti, intellettualizzazione, razionalizzazione, compartimentalizzazione, umorismo (secondari/maturi).
 
 ---
 

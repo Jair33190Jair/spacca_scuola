@@ -299,6 +299,74 @@ L'operatore sociale deve conoscere le classi principali: antipsicotici (agiscono
 
 ---
 
+## Domande esame 05
+
+**Conosci la differenza tra segni e sintomi.**
+
+<span class="c-def">I **segni** sono indicatori di malattia oggettivamente riscontrabili dal curante</span> — ad esempio la febbre, un tremore, la frequenza cardiaca, l'amimia. <span class="c-def">I **sintomi** sono indicatori soggettivi riferiti dal paziente</span>, come il dolore, l'angoscia, la sensazione di mancanza di piacere. Il segno lo rileva chi osserva; il sintomo lo riferisce chi lo vive.
+
+**Sai definire la semiologia.**
+
+<span class="c-def">La **semiologia** è la disciplina che studia i segni rilevabili in una persona per comprendere il suo stato di salute.</span> In psichiatria, è il linguaggio comune che permette di osservare, raccogliere dati e costruire un quadro clinico. È la base di tutta la valutazione del paziente.
+
+**Conosci l'area della semiologia del comportamento e le dimensioni che la caratterizzano.**
+
+La semiologia del comportamento studia come una persona si presenta nel contesto. Si articola in cinque dimensioni:
+1. **Apparenza e mimica** — come si cura, come si veste; tipi di mimica (ipertimia, amimia, mimica discordante)
+2. **Discorso** — velocità, tono, fluenza, necessità di stimolazione
+3. **Condotte istintuali** — cura del sé, disturbi del sonno, alimentazione, sessualità, disturbi sfinterici, qualità delle relazioni sociali
+4. **Passaggi all'atto** — comportamenti auto-aggressivi, etero-aggressivi, fughe dissociative, disturbi del controllo degli impulsi
+5. **Disturbi delle funzioni psicomotorie** — agitazione, catatonia, tic, paracinesi, stereotipie
+
+**Conosci l'area della semiologia dello stato mentale attuale e le dimensioni che la caratterizzano.**
+
+La semiologia dello stato mentale attuale valuta le funzioni mentali nel momento presente. Le dimensioni principali sono:
+- **Coscienza** — vigilanza, lucidità, coscienza di sé; alterazioni quantitative (lucidità → coma) e qualitative (delirium, mania à potu, stato oniroide, automatismo, ecc.)
+- **Orientamento** — nei tre domini: persona, spazio, tempo
+- **Memoria** — sensoriale, a breve termine, di lavoro, a lungo termine (implicita/esplicita); disturbi quantitativi (amnesia anterograda/retrograda) e qualitativi (confabulazioni, falsi ricordi)
+- **Attenzione** — selettiva, divisa, sostenuta
+- **Percezione** — distorsioni quantitative (iperestesia/ipoestesia), qualitative (micropsia/macropsia), false percezioni (illusioni, allucinazioni), agnosie
+- **Umore** — rientra in quest'area (approfondito nella lezione 06)
+- **Disturbi dell'attività operativa** — capacità attentiva, corso del pensiero, giudizio
+
+**Sai definire le funzioni cognitive.**
+
+<span class="c-def">Le **funzioni cognitive** sono le operazioni mentali che permettono di raccogliere informazioni dall'ambiente, riconoscerle, immagazzinarle e usarle per agire nel mondo in modo adeguato.</span> Sono strettamente legate alla qualità di vita e dipendono dall'integrità del sistema nervoso centrale.
+
+**Conosci le diverse funzioni cognitive e sai spiegarle.**
+
+Le principali funzioni cognitive sono:
+- **Memoria** → apprende, trattiene e riattiva le informazioni
+- **Attenzione** → seleziona e mantiene le risorse cognitive sul compito
+- **Funzioni esecutive** → pianificazione, problem solving, inibizione, flessibilità cognitiva
+- **Linguaggio** → sistema di segni per comunicare e comprendere
+- **Funzioni gnosico-percettive** → riconoscimento delle informazioni sensoriali
+- **Prassie** → movimenti pianificati e finalizzati
+- **Emozioni** → reazioni complesse orientate alla sopravvivenza e ai bisogni fondamentali
+
+<span class="c-warn">Principio chiave: lo stesso comportamento osservato nel paziente può derivare da deficit di funzioni diverse — l'osservazione clinica attenta è fondamentale.</span>
+
+**Conosci la definizione di psicofarmaci.**
+
+<span class="c-def">Gli **psicofarmaci** sono sostanze che agiscono sul sistema nervoso centrale alterando l'umore o il comportamento</span> (<span class="c-dato">Faravelli, 2010</span>). Sono gli unici farmaci con un prefisso specifico ("psico-"), il che genera spesso pregiudizi nei pazienti — ma il loro meccanismo d'azione di base è lo stesso degli altri farmaci.
+
+**Sai definire farmacodinamica, farmacocinetica ed emivita.**
+
+- <span class="c-def">**Farmacodinamica** → descrive su quali recettori agisce il farmaco e in che modo produce il suo effetto</span>
+- <span class="c-def">**Farmacocinetica** → descrive come il farmaco entra in circolo, si trasforma nel corpo e viene eliminato</span>
+- <span class="c-def">**Emivita** → il tempo necessario al corpo per ridurre del 50% la concentrazione del farmaco nel sangue</span>. È il parametro chiave per l'operatore sociale: determina ogni quanto va somministrato il farmaco. Somministrare troppo presto = rischio di sovraccarico; troppo tardi = paziente scoperto dalla terapia.
+
+**Sai elencare le principali classi di psicofarmaci e descriverne le principali caratteristiche.**
+
+| Classe | Uso principale | Caratteristiche chiave |
+|---|---|---|
+| **Antipsicotici** | Sintomi positivi (deliri, allucinazioni, disturbi del linguaggio) | Tipici (1a gen., 1952): più effetti collaterali (tremori, sindrome parkinsoniana) · Atipici (2a gen., anni '90): meno effetti coll. extrapiramidali |
+| **Antidepressivi** | Depressione, ma anche ansia, DOC, disturbi alimentari, controllo impulsi, sintomi negativi della schizofrenia | Bifasici: effetto dopo 2-3 settimane · nelle prime settimane rischio suicidale aumentato → paziente va informato e accompagnato |
+| **Ansiolitici** | Ansia acuta | Benzodiazepine: effetto immediato, ma possibile dipendenza a lungo termine · a seconda del dosaggio: ansiolitico, sedativo, miorilassante o anticonvulsivante |
+| **Stabilizzatori dell'umore** | Disturbo bipolare (mania + prevenzione ricadute) | Sali di litio: efficaci ma tossici se sovradosati → monitoraggio ematico obbligatorio · interruzione brusca = alta probabilità di ricaduta entro 6 mesi |
+
+---
+
 ## Concetti chiave
 
 | Termine | Significato |

@@ -472,3 +472,67 @@ risolta.</span>
 | **Comprensibilità** (Jaspers) | Follia passionale = comprensibile; follia organica = no |
 | **Pellagra** | Malattia da carenza di niacina (monofagismo maidico): 3 D |
 | **Atavismo** | Lombroso: anomalie corporee come segni di regresso evolutivo |
+
+---
+
+## Domande di orientamento allo studio
+
+**Definisci il percorso dell'approccio alla malattia mentale dall'antichità alla modernità, tra malattia del corpo e malattia della psiche.**
+La storia della follia è attraversata da due sguardi in perenne conflitto: la *Gehirnpsychiatrie* (follia come malattia organica del cervello) e la *Geistespsychiatrie* (follia come prodotto delle passioni, della vita emotiva e delle relazioni). A partire da Ippocrate, che emancipa la follia dalla religione con la teoria degli umori, si passa per l'uomo macchina di De Lamettrie (1747), la svolta di Pinel (fine '700) che riscopre le passioni come causa, il trionfo organicista del positivismo ottocentesco (Griesinger, Morel, Lombroso, Kraepelin), fino alla sintesi di Bleuler (1911) che integra organico e psicologico. Questi due poli non si sono mai pacificamente risolti e sono ancora presenti nel dibattito clinico contemporaneo.
+
+**Qual è il contributo di Pinel alla psichiatria e gli spunti per il lavoro sociale?**
+Pinel segna una doppia cesura: libera i folli dalle catene (Bicêtre, 1793) e afferma che la follia non nasce da lesioni cerebrali ma dall'eccesso di passioni — ed è quindi guaribile. I suoi quattro principi (guaribilità, patoplastica, parzialità della follia, trattamento morale) sono ancora fondamentali per il lavoro sociale: impongono di conoscere la storia del paziente, di rivolgersi alla parte sana, di curare attraverso la relazione e di personalizzare ogni presa in carico.
+
+**Qual è il presupposto innovativo di Pinel nell'approccio al malato mentale?**
+Il presupposto è che il malato mentale non sia totalmente folle: conserva sempre una parte sana, interlocutrice. Questo principio di *parzialità della follia* implica che la cura non debba attaccare frontalmente il delirio, ma rivolgersi al modulo funzionante. A questo si aggiunge il principio *patoplastico*: la stessa malattia si declina in modo unico su ogni persona, perciò la cura deve essere personalizzata, ancorata alla biografia del paziente.
+
+**Qual è lo scopo delle case di trattamento di Pinel e la loro funzione?**
+Per Pinel l'ospedale non è un luogo di internamento definitivo ma un luogo di passaggio — uno snodo nella vita del paziente in un momento di crisi. La funzione è riabilitativa: restituire il paziente alla vita sociale. Questa visione si contrappone all'ospedale generale del '700, che era essenzialmente un calderone dove veniva internato chiunque desse fastidio all'ordine sociale.
+
+**Da dove origina la follia per Pinel e quali sono le sue caratteristiche?**
+Per Pinel la follia nasce dall'eccesso delle passioni — sono le emozioni che trascinano la ragione, non un difetto del cervello. La follia da passioni è *comprensibile* (ci ritroviamo qualcosa nell'esperienza del malato), *parziale* (rimane sempre una parte sana), e soprattutto *guaribile*. La cura consiste nel rimettere ordine nella vita emotiva attraverso la relazione.
+
+**Quali sono i mezzi e i principi del trattamento morale?**
+Il trattamento morale (*traitement moral*) è la cura via relazione, ascolto e riordino della vita emotiva. I mezzi: conoscere la storia del paziente (gusti, relazioni, passioni), rivolgersi alla parte sana, creare esperienze relazionali nuove che regolino le passioni disordinate. Il principio di fondo: le stesse passioni che hanno trascinato la ragione possono essere regolate attraverso nuove esperienze relazionali. Limite storico riconosciuto: la deriva paternalistica e manipolativa (le "finte commissioni statali" di Pinel).
+
+**Qual è il contributo dell'Ottocento e del Positivismo allo studio della malattia mentale?**
+Il positivismo sposta il pendolo verso l'organicismo. Griesinger (1845) afferma che le malattie psichiche sono malattie del cervello. Morel introduce la teoria della degenerazione (follia come involuzione evolutiva, progressiva e irreversibile), sull'onda del darwinismo. Lombroso sviluppa l'antropologia criminale e la teoria dell'atavismo. Il risultato: i sintomi diventano *segni* da classificare, non da ascoltare; l'attenzione alla parola del paziente è archiviata. Paradossalmente, la ricerca delle cause organiche denuncia la povertà come fattore patogeno (pellagra, monofagismo maidico).
+
+**Qual è l'innovazione di E. Kraepelin e la sua concezione della malattia mentale?**
+Kraepelin costruisce la prima grande mappa nosologica moderna — base del DSM attuale. Distingue malattie *esogene* (cause esterne: psicologiche come i traumi, e somatiche come infezioni e carenze nutrizionali) da malattie *endogene* (prodotte dal SNC stesso). Tra le endogene distingue la *psicosi maniaco-depressiva* (salta l'asse emotivo; parzialmente reversibile) e la *demenza precoce* (salta l'unità interna del soggetto; progressiva e irreversibile), poi rinominata da Bleuler *schizofrenia*.
+
+**Quale atteggiamento propone Kraepelin verso il sintomo psichico?**
+Per Kraepelin i sintomi non vanno *ascoltati* ma *classificati*: sono segni di un sistema biologico disfunzionante. Il delirio del paziente non significa nulla in sé — è solo l'espressione di un organismo malfunzionante. Questo approccio archivia l'attenzione alla soggettività cara a Pinel ed Esquirol, e pone le basi per la psichiatria diagnostica moderna (DSM).
+
+**Come suddivide Kraepelin le malattie mentali?**
+In due grandi categorie: **esogene** (causa esterna) — psicologiche (traumi, eventi di vita che lasciano una "cicatrice cerebrale") e somatiche (infezioni, carenze, agenti biologici come nella pellagra) — e **endogene** (il SNC produce la malattia dall'interno). Le endogene sono due: psicosi maniaco-depressiva (asse emotivo) e demenza precoce/schizofrenia (unità interna del soggetto).
+
+**Che cos'è il pendolo timico e che relazione ha con la teoria degli umori?**
+Il "pendolo timico" descrive l'oscillazione naturale dell'umore tra poli opposti (su/giù, attivazione/rallentamento). Richiama direttamente la teoria degli umori di Ippocrate, secondo cui l'equilibrio tra i quattro fluidi corporei determina salute e carattere. Il patologico non è l'oscillazione in sé, ma la sua *ampiezza* eccessiva (depressione grave, mania) o il *blocco* da un lato (oscillazione che non torna). La psicosi maniaco-depressiva di Kraepelin è la formalizzazione nosologica di questa intuizione antica.
+
+---
+
+## Domande esame 02
+
+Le domande ufficiali del file `domande_esame_02.txt` sono già coperte nelle domande di orientamento sopra. Si veda in particolare:
+
+- _Definisci il percorso_ → domanda 1
+- _Contributo di Pinel_ → domanda 2
+- _Presupposto innovativo di Pinel_ → domanda 3
+- _Scopo delle case di trattamento_ → domanda 4
+- _Da dove origina la follia per Pinel_ → domanda 5
+- _Mezzi e principi del trattamento morale_ → domanda 6
+- _Contributo Ottocentesco e del Positivismo_ → domanda 7
+- _Figura e innovazione di Kraepelin_ → domanda 8
+- _Atteggiamento verso il sintomo psichico_ → domanda 9
+- _Come suddivide Kraepelin le malattie_ → domanda 10
+- _Pendolo timico e teoria degli umori_ → domanda 11
+
+---
+
+## Collegamenti
+
+- **Lezione 01** (sessione precedente): intro alla salute mentale, tema della sofferenza e della relazione di aiuto — il prof Pezzoli riprende qui il filo dell'autenticità nel contatto con l'altro.
+- **Modulo psicopatologia** (Campello): la classificazione di Kraepelin (psicosi maniaco-depressiva, schizofrenia) sarà approfondita nelle lezioni sui disturbi specifici.
+- **Modulo violenza nelle relazioni**: il concetto di trauma come causa esogena psicologica (cicatrice cerebrale di Kraepelin) sarà ripreso.
+- **Temi aperti**: il dibattito Gehirnpsychiatrie vs. Geistespsychiatrie non è risolto — si riflette negli approcci terapeutici attuali (farmacologico vs. relazionale) e nella domanda sull'uso dell'ausiliare *essere* vs. *avere* nelle diagnosi.

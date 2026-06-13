@@ -16,6 +16,7 @@ Salute Mentale · Sessione 06
 
 ## Le emozioni
 
+- <span class="c-def">**Affettività:**</span> termine ombrello che comprende emozioni e sentimenti — "le ragioni del cuore" in contrapposizione alla razionalità (<span class="c-dato">Lalli, 2002</span>)
 - <span class="c-def">**Emozione:**</span> reazione affettiva acuta e breve, generata da un evento stimolo (<span class="c-dato">Galimberti, 1999</span>)
 - <span class="c-def">**Umore:**</span> disposizione affettiva di fondo, più persistente, non legata a un evento specifico (<span class="c-dato">Delay, 1946</span>)
 - Funzioni: adattamento all'ambiente + comunicazione con gli altri
@@ -116,6 +117,8 @@ Salute Mentale · Sessione 06
 - Agorafobia, Fobia specifica, Ansia da separazione, Mutismo selettivo
 
 > <span class="c-warn">DOC e PTSD **non** sono nei disturbi d'ansia nel DSM-5-TR — hanno capitoli propri.</span>
+
+<span class="c-tesi">**Ordine del DSM-5-TR:** il capitolo è strutturato evolutivamente — i disturbi sono elencati secondo l'età tipica di esordio (ansia da separazione e mutismo selettivo per primi; DAG per ultimo).</span>
 
 <span class="c-def">**Attacco di panico:**</span> paura intensissima + sintomi fisici marcati + convinzione di morire. <span class="c-warn">Non si muore dall'attacco, ma la risposta impulsiva può creare rischi.</span> Accoglienza senza giudizio.
 

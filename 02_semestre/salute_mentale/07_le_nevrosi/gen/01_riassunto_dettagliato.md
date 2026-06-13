@@ -307,6 +307,50 @@ Nella nevrosi isterica il luogo del sintomo è il corpo. Il meccanismo della con
 
 ---
 
+## Domande esame 07
+
+**Spiegare come nel tempo il concetto di nevrosi si è modificato.**
+
+Il termine nevrosi fu introdotto da William Cullen (fine '700) per classificare malattie senza causa organica. Pinel ne evidenziò l'assenza di substrato organico e propose il trattamento morale; Charcot ne stabilì la natura psicologica lavorando con l'ipnosi; Freud ne illustrò la dinamica inconscia con il metodo delle libere associazioni. Dalla terza edizione del DSM il termine è stato abbandonato: il concetto è stato frammentato in diagnosi specifiche (disturbi d'ansia, DOC, PTSD, disturbi somatici), come effetto di una psichiatria che privilegia la superficie osservabile rispetto alla profondità dinamica.
+
+**Essere in grado di dare una definizione esaustiva di nevrosi.**
+
+La nevrosi è un disturbo psichico senza causa organica: espressione simbolica di un conflitto inconscio tra desiderio e regola (Es vs Super-Io) che non riesce a essere elaborato in modo funzionale e produce sintomi. Non è una malattia in senso stretto, ma uno scorretto modo di affrontare la conflittualità interiore quotidiana. Il sintomo è egodistonico — la persona è consapevole della sua irrazionalità — e l'esame di realtà rimane integro.
+
+**Sapere distinguere l'evoluzione tra normalità e patologia nel concetto di nevrosi.**
+
+Pensieri e comportamenti nevrotici occasionali sono normali. Diventano patologia quando sono presenti tutti e tre i criteri: **durata** (persistenza nel tempo, spesso almeno 6 mesi), **gravità/intensità** (frequenza elevata, non sporadica), **profondità/compromissione** (interferenza significativa con lavoro, relazioni, vita quotidiana). Una persona può manifestare sintomatologia nevrotica intensa in situazioni eccezionali e poi rientrare nell'equilibrio: non è patologia. È patologia quando questo rientro non avviene.
+
+**Conoscere la fenomenologia del disturbo nevrotico.**
+
+La fenomenologia descrive il disturbo dall'interno, dal punto di vista soggettivo del paziente. Le aree colpite sono: esperienza del sé (bassa autostima, cronica indecisione, senso di colpa, vergogna, demoralizzazione); disturbi dell'umore (ansia dominante, depressione, irritabilità, disturbi del sonno); sintomi somatici (disturbi motori, anestesie, ipocondria, dolori somatoformi, dismorfofobia); esperienze relazionali (tutte le aree della vita sono colpite). L'esame di realtà rimane integro, ma la realtà è vissuta come tirannica e immutabilmente inevitabile.
+
+**Concetto di struttura.**
+
+La struttura mentale (Bergeret) è l'organizzazione permanente più profonda della personalità, da cui si organizzano sia i funzionamenti normali sia le vicende patologiche. Bergeret distingue due vere strutture — nevrotica e psicotica — con le organizzazioni limite nel mezzo. La struttura non è patologia: chiunque può funzionare bene con qualsiasi struttura finché non avviene uno scompenso. La diagnosi di struttura si pone solo in età adulta (~20–25 anni). I sintomi sono trasversali alle strutture: non si diagnostica solo dai sintomi.
+
+**Saper spiegare il disturbo ossessivo compulsivo.**
+
+Il DOC è un disturbo in cui il luogo del sintomo è il pensiero. È caratterizzato da ossessioni (pensieri, immagini o impulsi non desiderati, incontrollabili, incongruenti con i valori della persona) e compulsioni (rituali comportamentali o mentali ripetitivi per ridurre l'ansia ossessiva). Le compulsioni danno sollievo, non piacere. Il DSM-5-TR richiede che consumino più di 1 ora al giorno o causino compromissione funzionale significativa. L'evitamento è un elemento aggiuntivo importante. Senza trattamento il decorso è tipicamente cronico.
+
+**Conoscere la differenza tra ossessioni e compulsioni.**
+
+Le ossessioni sono pensieri/immagini/impulsi non desiderati, vissuti come ripugnanti, minacciosi o privi di senso — incontrollabili e incongruenti con i valori della persona. Generano ansia. Le compulsioni sono rituali (comportamentali o mentali) ripetitivi che la persona mette in atto per ridurre l'ansia generata dalle ossessioni. Non sono agite per piacere, ma per sollievo — movimento di allontanamento dal disagio, non verso qualcosa di gratificante. La distinzione piacere/sollievo è concettualmente centrale.
+
+**Conoscere i meccanismi di difesa secondari/evoluti.**
+
+Nelle nevrosi si usano meccanismi di difesa secondari (maturi), che distorcono la realtà in modo meno profondo rispetto ai primari. Nel DOC i principali sono: **rimozione** (impulsi inaccettabili eliminati dalla coscienza, riemergono come ossessioni); **formazione reattiva** (un affetto negativo trasformato nel suo polo opposto); **spostamento** (l'ansia dall'ossessione diretta verso un rituale più controllabile); **isolamento** (componente affettiva separata da quella cognitiva); **annullamento retroattivo** (comportamenti che cancellano simbolicamente pensieri o azioni precedenti).
+
+**Saper spiegare l'evoluzione della nevrosi isterica.**
+
+La nevrosi isterica è la più antica sindrome psichiatrica conosciuta. Il termine deriva da *hystéra* (utero) — le prime manifestazioni erano attribuite a movimenti dell'utero. Ippocrate ne fece le prime descrizioni cliniche; il Medioevo le associò a possessioni demoniache; Charcot ne studiò le quattro fasi (epiletoide, contorsioni, allucinatoria, delirio) alla Salpêtrière con l'ipnosi; Freud sviluppò le libere associazioni partendo dall'isteria. Oggi il termine è scomparso dal DSM: i contenuti sono distribuiti in disturbi dissociativi, disturbi da sintomi somatici e disturbi d'ansia.
+
+**Conoscere la nevrosi isterica d'angoscia.**
+
+La nevrosi isterica d'angoscia è una delle due sotto-strutture isteriche (l'altra è quella di conversione). Il suo sintomo centrale è la fobia: una paura angosciante, sproporzionata rispetto al pericolo reale, scatenata da un oggetto o situazione non oggettivamente pericolosi. Si origina quando il meccanismo della rimozione non è sufficiente: l'angoscia non riesce a essere contenuta psichicamente e viene spostata su un oggetto simbolico esterno. La fobia scompare quando l'oggetto o la situazione sparisce. Nel DSM-5-TR è classificata nei disturbi d'ansia come **fobia specifica**.
+
+---
+
 ## Collegamenti
 
 - **Lezione precedente (emozioni)**: La distinzione <span class="c-impl">**piacere vs. sollievo**</span> introdotta all'inizio è cruciale per capire le compulsioni — danno sollievo (allontanamento dal disagio), non piacere.

@@ -16,6 +16,8 @@ Salute Mentale · Sessione 06 · 25.03.2026
 
 ## Le emozioni: punto di partenza
 
+Prima di tutto, il quadro d'insieme: <span class="c-def">**l'affettività**</span> è il termine ombrello che comprende emozioni e sentimenti — quello che i filosofi chiamavano "le ragioni del cuore", in contrapposizione alla razionalità (<span class="c-dato">Lalli, 2002</span>). Dentro l'affettività troviamo due livelli: le **emozioni** (reazioni rapide e acute) e l'**umore** (tono affettivo di fondo, più stabile). Tenere in testa questa gerarchia aiuta a orientarsi nel vocabolario clinico.
+
 Prima di parlare di sindromi, bisogna capire cosa sono le emozioni. Il termine viene dal latino *ex-movere* — letteralmente "muovere fuori". <span class="c-dato">**Galimberti (1999)**</span> le definisce come «una reazione affettiva intensa con insorgenza acuta e di breve durata determinata da uno stimolo ambientale». <span class="c-dato">**Plutchik (2017)**</span> aggiunge che si tratta di «un discostarsi fisiologico dall'omeostasi», percepito soggettivamente come sentimento intenso e accompagnato da cambiamenti corporei (battito, respiro, tensione muscolare, ecc.).
 
 Le emozioni hanno due funzioni principali:
@@ -249,6 +251,8 @@ Da distinguere dalla <span class="c-def">**ruminazione depressiva**</span>, che 
 
 > <span class="c-warn">Nota: nel DSM-5-TR il DOC (disturbo ossessivo-compulsivo) e il PTSD (disturbo post-traumatico da stress) **non** rientrano più tra i disturbi d'ansia — hanno capitoli propri.</span>
 
+<span class="c-tesi">**Perché questo ordine?** Il capitolo dei disturbi d'ansia nel DSM-5-TR è strutturato **evolutivamente**: i disturbi sono elencati in sequenza secondo l'età tipica di esordio. Per questo il disturbo d'ansia da separazione e il mutismo selettivo vengono prima — insorgono nell'infanzia — mentre il disturbo d'ansia generalizzato viene più in fondo — tende a manifestarsi nell'età adulta. È un dettaglio che il prof sottolinea esplicitamente come domanda d'esame.</span>
+
 ### L'attacco di panico
 
 Durante un <span class="c-def">**attacco di panico**</span> la persona vive una paura intensissima con sintomi fisici marcati, sensazione di perdita totale di controllo e convinzione di stare per morire. Il picco si raggiunge in pochi minuti.
@@ -286,6 +290,38 @@ Il rimuginio ansioso è orientato al futuro: costruisce ripetutamente scenari ne
 **Cosa è l'attacco di panico? Come risponde un operatore sociale?**
 
 L'attacco di panico è un episodio di paura intensissima con sintomi fisici marcati (aumento del battito, iperventilazione, tremori, vertigini, nausea) e sensazione di perdita totale di controllo, con convinzione di stare per morire. Il picco si raggiunge in pochi minuti. La persona non muore dall'attacco di panico in sé, ma è convinta del contrario — e le risposte impulsive possono creare situazioni di rischio. L'operatore sociale risponde con accoglienza senza giudizio, presenza calma e non caotica, spiegazione chiara di cosa sta succedendo. Non minimizzare, non agitarsi insieme alla persona. La validazione dell'esperienza emotiva è il punto di partenza.
+
+---
+
+## Domande esame 06
+
+**Saper definire affettività, emozioni e umore.**
+
+L'affettività è il termine più ampio: comprende emozioni e sentimenti, ovvero tutto ciò che i filosofi chiamavano "le ragioni del cuore" in contrapposizione alla razionalità (Lalli, 2002). Le emozioni sono reazioni affettive intense, acute e brevi, generate da uno specifico evento stimolo (Galimberti, 1999). L'umore è invece una disposizione affettiva di fondo, più persistente, che dà a ogni stato d'animo una tonalità gradevole o sgradevole oscillante tra i due poli del piacere e del dolore; non richiede un evento scatenante specifico (Delay, 1946).
+
+**Conoscere le emozioni di base secondo Ekman e Friesen e il modello di Plutchik, e la loro funzione.**
+
+Ekman e Friesen (1971) identificano sei emozioni di base universali — gioia, tristezza, paura, disgusto, rabbia, sorpresa — universali come tema ma variabili nell'espressione in base alla cultura e alla persona. Plutchik (2017) propone un modello multidimensionale con otto emozioni primarie, disposte a fiore: l'intensità varia lungo i petali (tristezza → angoscia al centro, tristezza → pensierosità verso l'esterno), ogni emozione ha un opposto, e due emozioni primarie si combinano per formare emozioni secondarie (es. rabbia + disgusto = disprezzo). Le funzioni delle emozioni sono due: adattamento all'ambiente (riconoscimento di pericoli) e comunicazione con gli altri.
+
+**Conoscere e saper descrivere differenziandoli i principali gruppi clinici delle depressioni.**
+
+Si distinguono tre gruppi clinici principali. Le depressioni psicogene hanno una causa comprensibile (lutto, trauma, ferita narcisistica); la persona si sente vittima ed è reattiva all'ambiente — la relazione terapeutica e la stimolazione ambientale funzionano. Le depressioni endogene o melanconiche non hanno causa apparente identificabile, spesso con familiarità; la persona si sente colpevole, è poco reattiva all'ambiente, e la stimolazione può essere controproducente. Le depressioni di origine somatica hanno una causa organica (malattia metabolica, neurologica, farmaci) — vanno trattate anche a livello psicologico, non solo la causa organica.
+
+**Conoscere e saper descrivere i diversi disturbi bipolari secondo il DSM-5-TR.**
+
+Il DSM-5-TR distingue: disturbo bipolare I (alternanza di episodi depressivi e maniacali completi), disturbo bipolare II (alternanza di episodi depressivi e ipomaniacali — meno intensi ma non meno gravi), disturbo ciclotimico (fluttuazione continua per almeno 2 anni tra stati depressivi e ipomaniacali senza raggiungere mai i criteri pieni di nessuna fase). Esistono poi disturbi bipolari indotti da sostanze/farmaci e dovuti a un'altra condizione medica. Caratteristica comune: passaggio repentino da un estremo patologico all'altro — il pendolo timico.
+
+**Saper definire e differenziare paura e ansia.**
+
+La paura è una risposta a un pericolo concreto, presente e identificabile; ha carattere episodico e orienta alla lotta o alla fuga. L'ansia è invece rivolta a una minaccia indefinita, futura, ipotetica; produce ipervigilanza e comportamenti di evitamento e ha carattere di vigilanza sostenuta. Entrambe sono normali e funzionali; diventano patologiche quando sono sproporzionate nell'intensità o nella durata e interferiscono con la quotidianità.
+
+**Saper definire il rimuginio ansioso e la ruminazione depressiva e cosa li differenzia.**
+
+Il rimuginio ansioso (Borkovev et al., 1998) è la costruzione mentale ripetuta di scenari negativi futuri in condizione di incertezza; è orientato al futuro con funzione di prepararsi alla minaccia, ma paradossalmente alimenta l'ansia. La ruminazione depressiva è invece orientata al passato: analizza cause e conseguenze di eventi già accaduti, temi di perdita e fallimento, portando a svalutazione di sé e prolungamento dello stato depressivo. Entrambi sono pensieri ripetitivi negativi, intrusivi e difficilmente controllabili.
+
+**Conoscere i principali disturbi d'ansia nel DSM-5-TR e il motivo dell'ordine con il quale vengono elencati.**
+
+I principali disturbi d'ansia nel DSM-5-TR sono: disturbo d'ansia da separazione, mutismo selettivo, fobia specifica, disturbo d'ansia sociale, disturbo di panico, agorafobia, disturbo d'ansia generalizzato, disturbo d'ansia indotto da sostanze/farmaci, disturbo d'ansia dovuto a un'altra condizione medica. L'ordine non è casuale: <span class="c-tesi">il capitolo è strutturato evolutivamente, con i disturbi elencati in sequenza secondo l'età tipica di esordio</span> (American Psychiatric Association, 2023, p. 256). I disturbi ad esordio precoce (ansia da separazione, mutismo selettivo) vengono prima; quelli ad esordio adulto (DAG) vengono dopo. <span class="c-warn">Nota: DOC e PTSD non sono inclusi in questo capitolo — hanno capitoli propri nel DSM-5-TR.</span>
 
 ---
 

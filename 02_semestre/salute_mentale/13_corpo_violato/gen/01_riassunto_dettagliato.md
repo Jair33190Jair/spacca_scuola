@@ -274,6 +274,43 @@ Le piogge (la rabbia) gonfiano il fiume (l'aggressività). Un fiume imbrigliato 
 
 ---
 
+## Domande esame 13
+
+**Definire e distinguere rabbia, aggressività e violenza.**
+La rabbia è un'emozione — risposta soggettiva a un ostacolo — che predispone all'azione senza determinarla. L'aggressività è una forza orientata verso qualcosa o qualcuno (dal latino *adgredior*, "andare verso"): può essere benigna (evolutiva, costruttiva) o maligna (distruttiva e orientata al dominio). La violenza è la declinazione maligna dell'aggressività caratterizzata dall'intenzionalità e dallo scopo di controllo o sottomissione dell'altro. I tre termini non sono sinonimi: confonderli porta a interventi professionali errati.
+
+**Descrivere le caratteristiche della rabbia e le sue manifestazioni.**
+La rabbia è un'emozione che segue uno schema fisso: evento stimolo (l'ostacolo), valutazione protocognitiva ("c'è un nemico"), reazione emotiva (rabbia), reazione comportamentale (attacco), scopo (eliminazione dell'ostacolo). È sempre legittima — non si può rimproverare chi si arrabbia. Le manifestazioni sono fisiche (tensione muscolare, rossore, voce alzata) e comportamentali (attacco verbale o fisico). Secondo Plutchick (1995), gli antecedenti più comuni negli uomini sono problemi relazionali, interazioni con estranei, ingiustizie e disagi.
+
+**Descrivere l'aggressività e le sue caratteristiche attraverso la schematizzazione proposta.**
+L'aggressività si analizza su due dimensioni: direzione (verso l'esterno/eterodiretta o verso sé/introdiretta) e forma (attiva fisica, attiva verbale, passiva fisica, passiva verbale). Ogni combinazione dà origine a una manifestazione specifica: da "colpire direttamente" (attiva fisica diretta) a "rifiutarsi di parlare" (passiva verbale diretta) a "non impegnarsi nel piano educativo" (passiva fisica indiretta). La classificazione in benigna e maligna (a caldo vs a freddo) completa la schematizzazione e guida l'intervento.
+
+**Individuare rabbia, aggressività e violenza all'interno del video presentato a lezione.**
+Nel video su Masika Katsuva: la rabbia è la risposta emotiva all'ostacolo permanente (la violenza sistematica, l'assenza di giustizia statale) — contenuta e trasformata, ma riconoscibile nel racconto. L'aggressività delle milizie è di tipo maligno a freddo (predatoria): non nasce da una perdita di controllo ma da una pianificazione deliberata con scopo di dominio. La violenza è fisica, sessuale e psicologica, con l'aggiunta di una componente strutturale (assenza dello Stato). Masika stessa esemplifica l'aggressività benigna: trasforma la forza in azione costruttiva e politica.
+
+**Distinguere i tipi e le manifestazioni dell'aggressività.**
+L'aggressività benigna è orientata alla sopravvivenza, alla crescita e all'adattamento. Quella maligna si divide in reattiva (a caldo) — con perdita di controllo, coinvolgimento emotivo e senso di colpa successivo, associata al disturbo borderline — e predatoria (a freddo) — pianificata, senza perdita di controllo, con ricerca attiva di potere e assenza di senso di colpa per l'azione, associata al disturbo antisociale. La distinzione determina l'approccio di intervento.
+
+**Definire e tematizzare la violenza.**
+La violenza (OMS, 2002) è "l'utilizzo intenzionale della forza fisica o del potere, minacciato o reale, contro sé stessi, un'altra persona, o contro un gruppo o una comunità, che determini o che abbia un elevato grado di probabilità di determinare lesioni, morte, danno psicologico, cattivo sviluppo o privazione." Il termine "potere" nell'OMS amplia la definizione oltre la forza fisica a qualunque forma di coercizione. Scopi: ottenere risorse, obbedienza, sottomissione, giustizia percepita, deterrenza.
+
+**Definire la violenza domestica.**
+La violenza domestica (OMS, 1996) è "ogni forma di violenza fisica, psicologica o sessuale che riguarda tanto soggetti che hanno, hanno avuto o si propongono di avere una relazione intima di coppia, quanto soggetti che all'interno di un nucleo famigliare più o meno allargato hanno relazione di carattere parentale o affettivo." Non si riconosce sempre dai lividi: la violenza psicologica è spesso la prima e la più invisibile. È "democratica": non dipende da età, etnia o status sociale.
+
+**Definire il circolo della violenza e spiegare gli snodi principali.**
+Il ciclo (Walker, 1979) è circolare, non lineare, e si compone di quattro fasi. Prima: accumulo di tensione con erosione dell'autostima della vittima e sensi di colpa indotti. Seconda: esplosione della violenza con paura, confusione e senso di impotenza. Terza: ridimensionamento — l'autore minimizza, invalida, attribuisce la colpa alla vittima. Quarta: falsa riappacificazione — rimorso e promesse che non affrontano le cause e fanno leva sul bisogno naturale che le cose si sistemino. Poi il ciclo ricomincia.
+
+**Definire la spirale della violenza.**
+La spirale della violenza descrive come la violenza, se non interrotta, tende ad aggravarsi nel tempo: le fasi del ciclo si accorciano, le esplosioni diventano più frequenti e intense, e lo spazio della falsa riappacificazione si riduce. La spirale va letta in combinazione con il ciclo di Walker: spiega perché ritardare l'intervento aumenta il rischio per la vittima.
+
+**Definire e spiegare le forme di risposta alla violenza domestica.**
+Mannino, Cataudella e Zappalà (2003) identificano quattro strategie. Il ripiegamento (aderire alle pretese per prevenire le aggressioni) è passivo ma riduce il rischio immediato. Aggirare l'ostacolo (bugie, mezze verità) è attivo ma rischioso: può esacerbare la violenza se scoperto. La resistenza (consapevolezza attiva, minaccia di denuncia o separazione) può ridurre la violenza fisica ma aumentare quella psicologica. La separazione è il processo più protettivo ma richiede sostegno psicologico e una rete di accompagnamento strutturata.
+
+**Definire i meccanismi di disimpegno morale e saperli riconoscere o esemplificare.**
+I meccanismi di disimpegno morale (Bandura, 2017) sospendono selettivamente la moralità senza modificarne i criteri: permettono di fare del male senza sentire la dissonanza cognitiva. Agiscono su tre locus. Locus comportamentale: giustificazione morale ("il fine giustifica i mezzi"), etichettamento eufemistico ("intervento educativo" per una violenza), confronto vantaggioso ("non ho ucciso nessuno"). Locus soggetto-condotta: spostamento della responsabilità ("me l'ha detto il capo"), diffusione della responsabilità ("lo fanno tutti"), distorsione delle conseguenze ("occhio non vede cuore non duole"). Locus vittima: deumanizzazione (privare l'altro di qualità umane), attribuzione di colpa ("me l'ha provocato"). Questi meccanismi abitano tutti noi — anche gli operatori sociali.
+
+---
+
 ## Collegamenti
 
 - Il tema della rabbia come emozione si ricollega alle emozioni trattate in sessioni precedenti (ruota di Plutchick, sistemi motivazionali interpersonali).

@@ -247,6 +247,31 @@ Le dipendenze patologiche hanno eziologia multifattoriale, ma molti studi concor
 
 ---
 
+## Domande esame 12
+
+**Definisci l'intelligenza emotiva secondo Salovey e Mayer.**
+L'intelligenza emotiva, secondo Salovey e Mayer, coinvolge quattro abilità distinte: percepire, valutare ed esprimere le emozioni; accedere ai sentimenti e crearli quando facilitano il pensiero; comprendere le emozioni e la conoscenza emotiva; regolare consapevolmente le emozioni per promuovere la crescita emotiva e intellettuale. Queste quattro dimensioni corrispondono agli stadi dello sviluppo emozionale, dalla prima infanzia all'adolescenza, e si costruiscono progressivamente l'una sull'altra.
+
+**Cosa si intende con regolazione affettiva?**
+La regolazione affettiva è il processo, in gran parte inconsapevole, con cui una persona modula la natura, l'intensità e le manifestazioni delle proprie emozioni in modo congruo al contesto. Non si tratta di sopprimere le emozioni, ma di esprimerle con l'intensità giusta e al momento giusto. Il bambino impara a regolare le emozioni grazie al caregiver — che funge da regolatore esterno — e progressivamente acquisisce verbalizzazione, desomatizzazione e autoregolazione.
+
+**Spiega il costrutto di alessitimia secondo Taylor et al. (1997).**
+Secondo Taylor, l'alessitimia si caratterizza per tre aspetti centrali: difficoltà a identificare le proprie emozioni e a distinguerle dalle sensazioni somatiche; difficoltà a comunicare verbalmente i propri sentimenti agli altri; stile cognitivo orientato verso l'esterno, con scarsa introspezione e attività fantasmatica deficitaria. A questi si aggiungono caratteristiche cliniche come conformismo sociale, predisposizione all'azione (agiti), postura rigida, povertà espressiva, ridotta empatia e scarso ricordo dei sogni. Non è una diagnosi autonoma nel DSM o nell'ICD, ma un costrutto transnosografico.
+
+**Metti in relazione il costrutto di alessitimia con la regolazione affettiva.**
+L'alessitimia è, in sostanza, un fallimento nel processo di regolazione affettiva. Chi non riesce a dare un nome alle proprie emozioni non riesce nemmeno a regolarle: la verbalizzazione è condizione necessaria alla regolazione consapevole. Se il bambino non acquisisce verbalizzazione e desomatizzazione — perché il caregiver non ha svolto la sua funzione regolatoria — rimarrà con emozioni indifferenziate, vissute prevalentemente sul piano somatico, senza la possibilità di modularle in modo adeguato al contesto.
+
+**Metti in relazione il costrutto di alessitimia con il trauma in età infantile e in età adulta.**
+Secondo Krystal, trauma infantile e adulto hanno meccanismi diversi. Il trauma infantile — causato da un caregiver che non regola le emozioni del bambino o da una disillusione (Winnicott) troppo precoce — blocca lo sviluppo di desomatizzazione e verbalizzazione, portando a un'alessitimia di tratto: stabile, parte della personalità. Il trauma in età adulta, invece, produce un'alessitimia di stato: un progressivo passaggio dall'ansia alla passività catatonica, in cui il congelamento degli affetti offre sollievo paradossale. L'alessitimia di stato è potenzialmente reversibile attraverso l'elaborazione del trauma; quella di tratto richiede canali alternativi come musicoterapia, arteterapia o teatro.
+
+**Metti in relazione il costrutto di alessitimia con le dipendenze patologiche.**
+Le dipendenze patologiche hanno eziologia multifattoriale, ma molti studi concordano sul ruolo centrale del disturbo della regolazione affettiva. Chi non riesce a regolare le emozioni tende a usare la sostanza come stampella chimica per bloccare le sensazioni sgradevoli. Wurmser (1974) e Khantzian (1982) descrivono una mancanza di controllo sugli affetti come fonte centrale della sofferenza nei dipendenti. Cruise e Becerra (2018) hanno confermato l'alessitimia come fattore di rischio indipendente per il consumo problematico di alcol. L'attaccamento insicuro nell'infanzia, frequente nei dipendenti, è il terreno comune tra alessitimia e addiction.
+
+**Metti in relazione il costrutto di alessitimia con almeno uno degli altri seminari del modulo.**
+L'alessitimia è strettamente collegata ai disturbi dell'umore visti nei seminari precedenti: la depressione mascherata ne è un esempio diretto, poiché la sofferenza depressiva si esprime solo attraverso sintomi fisici, senza accesso al vissuto emotivo. Il collegamento si estende anche ai modelli di attaccamento di Bowlby (seminari sullo sviluppo): un attaccamento insicuro o disorganizzato pregiudica l'acquisizione delle competenze di regolazione affettiva, ponendo le basi per tratti alessitimici. Il seminario successivo sulla violenza agita è un ulteriore collegamento diretto: chi non riesce a regolare le emozioni tende a esprimerle attraverso agiti, inclusa la violenza.
+
+---
+
 ## Collegamenti
 
 - **Lezioni precedenti:** riprende i disturbi dell'umore (depressione mascherata), i disturbi d'ansia, i modelli di attaccamento di Bowlby e le teorie di Winnicott sulla disillusione.

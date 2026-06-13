@@ -386,9 +386,23 @@ La <span class="c-def">**disforia di genere**</span> (DSM-5-TR) è la sofferenza
 
 Una <span class="c-def">**parafilia**</span> è un interesse sessuale intenso e persistente verso oggetti, situazioni o persone inusuali (es. feticismo, voyeurismo, ecc.). Di per sé non è una diagnosi. Diventa un <span class="c-def">**disturbo parafilico**</span> quando soddisfa il criterio B: causa disagio personale significativo al soggetto stesso, oppure comporta danno ad altri (specie se non consenzienti). In pratica: la parafilia riguarda cosa eccita; il disturbo riguarda le conseguenze di quell'eccitazione su sé stessi o sugli altri.
 
-**6. Elenca i principali disturbi parafilici del DSM-5 e descrivine brevemente uno con una vignetta clinica.**
+**6. Quali sono i tre fattori psico-sessuali secondo Grazzottin, e a quale dimensione della sessualità corrispondono?**
 
-I disturbi parafilici principali sono: voyeuristico, esibizionistico, frotteuristico, masochismo sessuale, sadismo sessuale, pedofilico, feticistico, travestitico. <span class="c-es">**Vignetta (frotteurismo):** Un uomo di 34 anni riferisce un impulso ricorrente e incontrollabile a strusciare i propri genitali contro persone non consenzienti sui mezzi pubblici. L'atto lo eccita sessualmente. Prova vergogna intensa dopo, ma non riesce a trattenersi. Il disagio soggettivo (criterio B) e il coinvolgimento di persone non consenzienti confermano la diagnosi di disturbo frotteuristico.</span>
+<span class="c-dato">**Grazzottin**</span> identifica tre dimensioni neurologiche della sessualità, collegate a tre strutture cerebrali:
+
+1. <span class="c-def">**Cervello rettiliano**</span> → dimensione istintuale-riproduttiva: impulso sessuale grezzo, istintuale, finalizzato alla riproduzione.
+2. <span class="c-def">**Sistema limbico**</span> → dimensione emozionale-sensazionale: il piacere, le emozioni, il senso del desiderio e la componente affettiva.
+3. <span class="c-def">**Neocorteccia**</span> → dimensione matura e relazionale: riflessione, scelta consapevole del partner, intimità e costruzione della relazione.
+
+<span class="c-impl">Questa tripartizione aiuta a capire perché la sessualità umana è così complessa: non è solo istinto (rettiliano), ma anche emozione (limbico) e scelta relazionale (neocorteccia).</span>
+
+**6b. Come si sviluppa la sessualità nella prima infanzia? Qual è il ruolo della relazione caregiver-bambino?**
+
+Secondo la prospettiva psicoanalitica (<span class="c-dato">**Freud**</span>, <span class="c-dato">**Galimberti**</span>, <span class="c-dato">**Lalli**</span>), la sessualità inizia fin dalla nascita: la prima relazione che il bambino vive — quella con il caregiver — è la matrice da cui si sviluppano tutti i futuri pattern relazionali e sessuali. <span class="c-tesi">Il neonato nasce in totale dipendenza: il bisogno deve essere soddisfatto quasi immediatamente. La maturazione psicologica consiste nel trasformare il bisogno in desiderio — cioè imparare a differire la gratificazione, tollerare l'attesa e riconoscere l'altro come soggetto autonomo.</span> Se il caregiver è affettivamente assente, indifferente, o presenta uno stile seduttivo-manipolatorio, gli snodi psichici di Lalli non vengono risolti, e questo apre la strada alle parafilie nella vita adulta. <span class="c-warn">Non è un destino: è un fattore di rischio significativo, non deterministico.</span>
+
+**7. Elenca i principali disturbi parafilici del DSM-5 e descrivine brevemente uno con una vignetta clinica.**
+
+I disturbi parafilici principali sono: voyeuristico, esibizionistico, frotteuristico, masochismo sessuale, sadismo sessuale, pedofilico, feticistico, da travestitismo. <span class="c-es">**Vignetta (frotteurismo):** Un uomo di 34 anni riferisce un impulso ricorrente e incontrollabile a strusciare i propri genitali contro persone non consenzienti sui mezzi pubblici. L'atto lo eccita sessualmente. Prova vergogna intensa dopo, ma non riesce a trattenersi. Il disagio soggettivo (criterio B) e il coinvolgimento di persone non consenzienti confermano la diagnosi di disturbo frotteuristico.</span>
 
 ---
 

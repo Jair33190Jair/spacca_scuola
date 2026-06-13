@@ -14,6 +14,7 @@ Salute Mentale · Sessione 06
 
 ## Emozioni
 
+- <span class="c-def">**Affettività**</span> → comprende emozioni e sentimenti; "ragioni del cuore" vs. razionalità (<span class="c-dato">Lalli, 2002</span>)
 - <span class="c-def">**Emozione**</span> → reazione affettiva acuta, breve, da evento stimolo (<span class="c-dato">Galimberti, 1999</span>)
 - <span class="c-def">**Umore**</span> → disposizione affettiva di fondo, persistente, oscillante tra piacere e dolore (<span class="c-dato">Delay, 1946</span>)
 - **Funzioni** → adattamento all'ambiente + comunicazione con l'altro
@@ -146,6 +147,7 @@ Salute Mentale · Sessione 06
 - **Ansia da separazione** → paura eccessiva della separazione
 - **Mutismo selettivo** → incapacità di parlare in certi contesti sociali
 - <span class="c-warn">⚠️ DOC e PTSD → non nei disturbi d'ansia; capitoli propri nel DSM-5-TR</span>
+- <span class="c-tesi">**Ordine** → struttura evolutiva: sequenza per età tipica di esordio (infanzia → età adulta)</span>
 
 ### Attacco di panico
 

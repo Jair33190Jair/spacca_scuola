@@ -331,3 +331,75 @@ Le fasi tipiche sono: (1) **premorboso** — ritiro progressivo, trascuratezza, 
 
 L'operatore sociale non fa diagnosi né terapia, ma ha un ruolo cruciale nell'**individuazione precoce** (riconoscere i segnali del periodo prodromico), nel **supporto al reinserimento** (abitativo, lavorativo, relazionale) e nel **mantenimento della rete**. È spesso il professionista con il contatto più continuativo con la persona e la famiglia. <span class="c-tesi">Nella psicosi — dove i legami con la realtà sono fragili — la continuità, la coerenza e la prevedibilità del rapporto con l'operatore hanno di per sé un valore terapeutico.</span>
 - Materiale clinico: video, testimonianze, dipinti dei pazienti
+
+---
+
+## Domande esame 09
+
+**Descrivere l'universo delle psicosi e gli aspetti salienti che le caratterizzano.**
+
+Le psicosi formano un gruppo eterogeneo di disturbi che condividono un'unica caratteristica fondamentale: un rapporto radicalmente alterato con la realtà. Il soggetto psicotico non condivide più il mondo comune — abita un mondo delirante che per lui è altrettanto reale, anzi più reale. Jervis identifica due destrutturazioni centrali: quella della realtà esterna percepita e quella dell'identità psicologica interna. I sintomi si raggruppano in positivi (deliri, allucinazioni), negativi (apatia, ritiro, abulia) e disorganizzazione cognitiva.
+
+**Eugen Minkowski e la differenza tra psicosi organiche e psicosi funzionali.**
+
+<span class="c-dato">Eugen Minkowski (1951/2004)</span> propone la triade <span class="c-def">**io–qui–adesso**</span> come strumento per distinguere le due grandi famiglie di psicosi. Nelle psicosi organiche (es. demenza) la struttura spazio-temporale crolla: il soggetto *non sa* dove si trova, chi è, che giorno è. Nelle psicosi funzionali (es. schizofrenia) la struttura è intatta ma dissociata: il soggetto *sa* dove si trova ma *non si sente* di appartenervi. Le psicosi organiche hanno causa biologica nota e univoca; le funzionali hanno origine multifattoriale (bio + psico + sociale).
+
+**Le demenze.**
+
+Le demenze sono sindromi da <span class="c-def">**indebolimento progressivo e irreversibile**</span> di tutte le funzioni mentali: intelletto, affettività e volontà. Rientrano nelle psicosi organiche perché la causa è biologica (atrofia cerebrale, degenerazione neuronale, agenti esterni). Le principali forme sono: demenza senile (legata all'invecchiamento), malattia di Alzheimer (la più nota), e demenze acquisite (da alcol, sifilide, ecc.). <span class="c-es">Il caso di William Utermöhlen — pittore con Alzheimer che ha documentato la propria dissoluzione identitaria in autoritratti successivi — illustra come identità e forma del sé si disgregano progressivamente.</span>
+
+**Le psicosi alcoliche e quelle indotte da sostanze.**
+
+Tutte le sostanze che agiscono sul sistema mesolimbico (via dopaminergica) possono produrre sintomi psicotici, sia per uso eccessivo che per astinenza. Le principali psicosi alcoliche sono: il <span class="c-def">**delirium tremens**</span>, psicosi acuta da astinenza (tremore, allucinazioni, stati confusionali — può essere letale; chi beve molto non può smettere di colpo), e la <span class="c-def">**sindrome di Korsakov**</span>, psicosi cronica con amnesia anterograda (impossibilità di fissare nuovi ricordi). Tra le altre sostanze, la cannabis ad alto contenuto di THC (indoor) può indurre deliri e allucinazioni, specialmente nei cervelli in via di sviluppo.
+
+**L'epilessia.**
+
+L'epilessia è un <span class="c-def">**malfunzionamento temporaneo delle cellule nervose**</span> con scariche elettriche anormali (il termine greco significa "attacco a sorpresa"). Si divide in crisi generalizzate — grande male (fasi tonica, clonica, risolutiva) e piccolo male (assenze di pochi secondi senza convulsioni) — e crisi parziali o focali (coinvolgono solo parte del cervello, manifestazione variabile). <span class="c-warn">Punto chiave per l'operatore: le assenze da piccolo male possono sembrare semplice distrazione in classe o in foyer. Un bambino "tra le nuvole" potrebbe essere in una crisi epilettica.</span>
+
+**Impostare un discorso attorno alla schizofrenia capace di inquadrarne gli aspetti salienti delle manifestazioni e del decorso.**
+
+La schizofrenia è la psicosi funzionale per eccellenza. Il termine è di <span class="c-dato">Bleuler (1911)</span>: scissione della mente. Il problema non sta nell'assenza di intelligenza, affetti o volontà — il paziente li ha tutti — ma nell'incapacità di tenerli insieme. Le manifestazioni si dividono in sindrome fondamentale (dissociazione, autismo, delirio, depersonalizzazione, disturbi del comportamento, allucinazioni) e sintomatologia per positivi/negativi/disorganizzazione. Il decorso segue le fasi: premorbosa, prodromica, stato (esordio ~20 anni), esiti variabili (remissione, ricadute, cronicità).
+
+**Identificare gli aspetti del periodo premorboso della schizofrenia che introducono il concetto di vulnerabilità.**
+
+Il periodo premorboso è riconoscibile solo retrospettivamente. Il bambino/adolescente mostra: isolamento sociale, scarsa capacità di familiarizzazione con i pari, ansia e diffidenza, emotività fredda, rendimento scolastico critico, talvolta comportamento aggressivo. <span class="c-dato">Stanghellini & Ballerini (2005)</span> identificano cinque aree di vulnerabilità: difficoltà nelle relazioni interpersonali, disturbi socio-emozionali, disturbi del sé (pensiero, linguaggio, percezione), disturbi delle funzioni neuropsicologiche, disturbi nel neurosviluppo. <span class="c-warn">Queste caratteristiche non indicano che il soggetto diventerà schizofrenico — ma si ritrovano sistematicamente nell'anamnesi retrospettiva.</span>
+
+**Definire il periodo prodromico e il periodo di stato.**
+
+Il <span class="c-def">**periodo prodromico**</span> è la fase in cui le caratteristiche del premorboso si accentuano fino a interferire con la vita quotidiana: ritiro progressivo, pensiero "strano," neologismi, interessi bizzarri, aumento di ansia e angoscia. Dura mediamente <span class="c-dato">1–2 anni (Mc Gorry & Jackson, 1999)</span>. Il <span class="c-def">**periodo di stato**</span> corrisponde all'esordio psicotico vero e proprio: comparsa dei sintomi positivi manifesti (deliri, allucinazioni) con piena espressione della sindrome. È il momento dell'eventuale intervento psichiatrico.
+
+**Definire la sindrome fondamentale secondo E. Pewzner e identificarne gli aspetti costituenti.**
+
+<span class="c-dato">Pewzner (2002)</span> descrive la sindrome fondamentale della schizofrenia come il nucleo stabile della malattia, indipendente dalle fasi. Gli aspetti costituenti sono sei: (1) <span class="c-def">**dissociazione/discordanza**</span> — incapacità di tenere insieme le funzioni mentali (intelletto, affetti, psicomotricità); (2) <span class="c-def">**autismo**</span> — ritiro nel mondo interno con perdita del senso comune; (3) <span class="c-def">**delirio**</span> — convinzione falsa, incrollabile, palese agli altri; (4) <span class="c-def">**depersonalizzazione**</span> — senso di estraneità da sé e dalla realtà; (5) <span class="c-def">**disturbi del comportamento**</span> — aggressività, suicidalità, alterazioni alimentari e sessuali; (6) <span class="c-def">**allucinazioni**</span> — prevalentemente uditive.
+
+**Nello specifico della sindrome fondamentale descrivere la dissociazione o discordanza (intelletto, affetti, attività psicomotoria).**
+
+La dissociazione è il cuore della schizofrenia. Si manifesta in tre ambiti. **Intelletto**: disturbi formali del pensiero — disorganizzazione, impoverimento, concretismo, prolissità, tangenzialità, deragliamento, neologismi, ecolalia. **Affetti**: appiattimento affettivo (reattività ridotta ma non assente), discordanza (emozione incongruente con la situazione), ambivalenza (emozioni opposte copresenti). **Psicomotricità**: riduzione (ritiro, rallentamento — la più frequente), aumento (agitazione, crisi pantoclastica), alterazione qualitativa (manierismi, stereotipie).
+
+**Autismo (in ambito schizofrenico).**
+
+L'autismo schizofrenico (concetto di Bleuler, distinto dal disturbo neurologico) descrive la <span class="c-def">**perdita del contatto vitale con la realtà**</span>: il soggetto si ritira progressivamente in un mondo interno privato e impenetrabile. Il senso comune — la base condivisa che permette la comunicazione — si dissolve e viene sostituito da una logica propria. Nella classificazione moderna corrisponde ai sintomi negativi: ritiro sociale, disinteresse per il mondo esterno, linguaggio non orientato alla relazione.
+
+**Definire il delirio e le sue caratteristiche salienti.**
+
+Il <span class="c-def">**delirio**</span> è una trasformazione della realtà attraverso convinzioni false sostenute con insolita certezza. <span class="c-dato">Sims (2004)</span> ne identifica tre caratteristiche: (1) sostenuto con insolita convinzione; (2) non riconducibile alla logica; (3) falsità palese per gli altri. I contenuti più frequenti nella schizofrenia: persecuzione, avvelenamento, influenzamento, gelosia, grandiosità. <span class="c-warn">Il contenuto del delirio dipende dal background culturale — un sistema di credenze radicato in una cultura diversa non è necessariamente un delirio. L'operatore deve conoscere il contesto prima di valutare.</span>
+
+**Definire il fenomeno della depersonalizzazione.**
+
+La <span class="c-def">**depersonalizzazione**</span> è un'alterazione della coscienza dell'io che si esprime come sensazione di estraneità o irrealtà rispetto a se stessi: il soggetto si percepisce come un automa, si vede dall'esterno. Si accompagna spesso alla <span class="c-def">**derealizzazione**</span>: il mondo esterno è percepito come estraneo, come se ci fosse una membrana tra sé e la realtà. Il tempo diventa "congelato," cristallizzato, privo di slancio progettuale.
+
+**Definire l'area dei disturbi del comportamento in ambito della schizofrenia.**
+
+I disturbi del comportamento nella schizofrenia si articolano in tre aree: (1) <span class="c-warn">**aggressività e suicidalità** — rischio suicidario 10–20 volte superiore alla popolazione generale; cruciale: il picco di rischio è *durante il miglioramento*, non nello scompenso, quando il paziente recupera lucidità e si rende conto della propria condizione;</span> (2) **alimentazione** — deliri di avvelenamento portano all'evitamento selettivo di alimenti; oppure pseudo-bulimia per perdita del confine dentro/fuori; (3) **sessualità** — ripiegamento autoerotico, angoscia identitaria sull'identità sessuale spesso veicolata da voci allucinatorie.
+
+**Definire le allucinazioni e le loro caratteristiche salienti.**
+
+Le <span class="c-def">**allucinazioni**</span> sono produzioni percettive in assenza di uno stimolo esterno corrispondente. Nella schizofrenia le più frequenti sono quelle uditive (voci). Per il paziente sono del tutto reali e indistinguibili da percezioni normali. Il rapporto con le proprie allucinazioni è molto variabile: alcuni le tacciono per paura del giudizio, alcuni le apprezzano (consolatrici, guide), alcuni usano strategie per gestirle (es. musica ad alto volume). <span class="c-warn">Le voci che ordinano azioni pericolose richiedono la massima vigilanza clinica.</span>
+
+**Saper differenziare e definire i sintomi positivi e i sintomi negativi nella schizofrenia.**
+
+I <span class="c-def">**sintomi positivi**</span> producono qualcosa che normalmente non è presente: deliri, allucinazioni, comportamento disorganizzato o catatonico. I <span class="c-def">**sintomi negativi**</span> sottraggono qualcosa che dovrebbe esserci: appiattimento affettivo, alogia (povertà del linguaggio), abulia (mancanza di iniziativa), anedonia, ritiro sociale. <span class="c-impl">La distinzione è clinicamente rilevante: i farmaci antipsicotici (neurolettici) trattano meglio i sintomi positivi; i negativi sono più resistenti e più legati al deterioramento funzionale a lungo termine. La schizofrenia tipo 1 (positivi prevalenti) ha prognosi migliore della tipo 2 (negativi prevalenti).</span>
+
+**Identificare e spiegare i fattori prognostici favorevoli e quelli sfavorevoli nella schizofrenia.**
+
+<span class="c-tesi">**Fattori favorevoli**</span>: diagnosi precoce, intervento farmacologico immediato, andamento acuto iniziale (paradossalmente migliore di quello insidioso), buon funzionamento premorboso, sesso femminile, esordio tardivo, rete sociale adeguata, prevalenza di sintomi positivi (tipo 1). <span class="c-warn">**Fattori sfavorevoli**</span>: esordio precoce, familiarità positiva, isolamento sociale, dominanza dei sintomi negativi (tipo 2), resistenza al trattamento farmacologico.

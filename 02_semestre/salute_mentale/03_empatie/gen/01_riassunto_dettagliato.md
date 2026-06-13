@@ -240,5 +240,43 @@ L'empatia implica sentire con l'altro (feeling with), cioè condividere la sua e
 
 ---
 
+## Domande esame 03
+
+**Quali sono le dimensioni coinvolte nell'empatia per N. Feshbach e come sono oggi riconosciuti gli aspetti da lei individuati a livello di neuroscienze?**
+
+Feshbach (1987) scompone l'empatia in tre dimensioni: due cognitive e una affettiva. La prima cognitiva è l'assunzione di prospettiva — la capacità di decentrarsi e cogliere il punto di vista dell'altro, possibile solo dopo il superamento dell'egocentrismo piagetiano (circa 6 anni). La seconda cognitiva è la decodifica degli stati emotivi altrui — saper leggere e interpretare i segnali emotivi dell'interlocutore. La componente affettiva è la risonanza emotiva — sentire qualcosa di simile a ciò che prova l'altro. A livello di neuroscienze, Gallese (2003) ha fornito la base neurologica: i neuroni specchio e il meccanismo di simulazione incarnata (*embodied simulation*) spiegano come, osservando un'azione o un'emozione, si attivino le stesse aree cerebrali che si attiverebbero se fossimo noi a compierla o provarla. Le componenti cognitive corrispondono ai processi di alto livello (*mentalizing*), quella emotiva ai processi di basso livello (*mirroring*).
+
+**Quali caratteristiche cognitive sono necessarie per una vera e propria empatia?**
+
+Per una vera empatia — quella che Hoffman chiama "empatia vera e propria" e che compare attorno ai 6 anni — sono necessari: il superamento del pensiero preoperatorio di Piaget (superamento dell'egocentrismo e accesso alle operazioni concrete), la capacità di decentramento (vedere le cose da una prospettiva diversa dalla propria), lo sviluppo della Teoria della Mente (TOM) che permette di capire che gli altri hanno stati mentali, credenze ed emozioni diversi dai propri, e la capacità di decodifica degli stati emotivi altrui. Prima di queste acquisizioni cognitive non è possibile una vera empatia: al massimo si hanno forme di contagio emotivo o empatia quasi-egocentrica.
+
+**Quale teorizzazione dell'empatia è stata fatta da M. H. Hoffman?**
+
+Hoffman (2000) amplia il modello della Feshbach in tre direzioni. Prima: introduce la dimensione evolutiva — l'empatia non è statica ma si trasforma nel tempo man mano che matura lo sviluppo cognitivo, dando origine a forme diverse (empatie al plurale). Seconda: aggiunge la dimensione motivazionale — empatizzare con chi soffre attiva comportamenti prosociali, perché la sofferenza altrui genera disagio in noi e siamo motivati a ridurla. Terza: descrive cinque stadi evolutivi dell'empatia: distress empatico globale (contagio emotivo, neonato), distress empatico egocentrico (dai 12 mesi), distress empatico quasi-egocentrico (dai 2-3 anni), empatia vera e propria (dai 6 anni), empatia oltre la situazione (dall'adolescenza, con il pensiero formale). Tutte le forme coesistono nell'adulto, ma le più evolute non possono comparire prima delle relative precondizioni cognitive.
+
+**Quali sono i principali bias empatici? Di cosa tratta l'esperimento del buon samaritano e quali riflessioni se ne possono trarre per l'empatia?**
+
+I sei bias empatici (elaborazione originale di Lorenzo Pezzoli) sono: (1) non empatizziamo ugualmente con tutti — l'empatia emotiva si attiva di più verso chi ci somiglia; (2) brutti, sporchi e colpevoli inibiscono la risposta empatica — il giudizio morale ed estetico la riduce; (3) inganno e invidia bloccano l'empatia — verso chi ci ha fregati o con cui siamo in competizione; (4) l'empatia non è sensibile ai numeri — una storia singola mobilita, le statistiche no, con il rischio di favoritismi (effetto Sheri Summers); (5) l'empatia non rende necessariamente più buoni — gli psicopatici hanno elevata empatia cognitiva che usano per manipolare; (6) l'empatia è faticosa, la sovrattivazione porta all'evitamento.
+
+L'esperimento del buon samaritano (citato da Pezzoli) mostra come la disponibilità empatica dipenda dal contesto e dalle risorse cognitive disponibili: soggetti con fretta non si fermavano ad aiutare anche quando erano stati preparati su temi di cura — la pressione temporale e il sovraccarico cognitivo bloccano l'empatia. La riflessione per il lavoro di cura: per mettere in atto un'empatia efficace occorre prima di tutto *accorgersi* dell'altro, ossia che l'altro compaia nel proprio campo percettivo e cognitivo. Sistemi e condizioni di lavoro che impediscono questa disponibilità compromettono la risposta empatica indipendentemente dalle intenzioni.
+
+**Cosa si intende per feedback correttivi e cosa centrano con l'empatia?**
+
+I feedback correttivi sono esperienze in cui il tentativo di consolazione o aiuto messo in atto dal bambino — basato su ciò che lui stesso trova consolante — si rivela inefficace, spingendolo a correggere la risposta per adattarla al bisogno specifico dell'altro. L'esempio classico di Hoffman: il bambino porta il proprio orsacchiotto all'amico che piange, ma l'amico continua a piangere; allora va a prendere l'orsacchiotto dell'amico, e quello si calma. Questi feedback segnano il passaggio dall'empatia quasi-egocentrica a forme più mature: il bambino impara che ciò che è consolante per lui non lo è necessariamente per l'altro. Nell'ambito professionale, lo stesso errore è comune: offrire all'utente ciò che sarebbe consolante per noi, invece di sintonizzarsi sul suo bisogno specifico, soprattutto in contesti di diversità culturale.
+
+**Spiegare teoria della mente e il suo legame con lo sviluppo empatico**
+
+La Teoria della Mente (TOM — Theory of Mind) è la capacità di dedurre gli stati mentali altrui — credenze, desideri, emozioni, conoscenze — riconoscendo che possono essere diversi dai propri. Si sviluppa attorno ai 4 anni e viene rilevata con esperimenti di credenza falsa (un bambino che non ha ancora TOM pensa che l'altro sappia quello che sa lui). Wellman (2018) ne identifica cinque dimensioni: Diverse Desires (le persone desiderano cose diverse), Diverse Beliefs (credenze diverse sulla stessa situazione), Knowledge-Access (qualcuno può non sapere qualcosa di vero), False Belief (qualcuno può credere falsamente qualcosa) e Hidden Emotion (qualcuno può provare un'emozione e mostrarne un'altra). Il legame con l'empatia è diretto: la TOM è la precondizione cognitiva per passare dall'empatia quasi-egocentrica all'empatia vera e propria. Senza TOM il soggetto non riesce a distinguere pienamente il proprio mondo interno da quello altrui, limite che ostacola una risposta empatica accurata e mirata.
+
+**Come spiega l'empatia Tisseron?**
+
+Serge Tisseron (2013) descrive l'empatia su tre livelli di maturità crescente. Il più evoluto è l'empatia intersoggettiva, che presuppone l'adozione intenzionale del punto di vista altrui — non automatica, ma volontaria e consapevole. Tisseron aggiunge un elemento fondamentale e spesso trascurato: l'empatia verso sé stessi, intesa come capacità di essere ricettivi ai propri stati emotivi e cognitivi, di comprenderli senza giudicarsi severamente. Questa empatia verso sé stessi è una precondizione per l'empatia verso gli altri: più aumenta la consapevolezza delle proprie esperienze interiori, più diventa possibile comprendere quelle altrui. Il rapporto è bidirezionale: l'esercizio dell'empatia verso gli altri nutre anche l'empatia verso sé stessi.
+
+**Empatia e compassione sono la medesima cosa?**
+
+No. La distinzione è precisa e rilevante per il lavoro di cura. L'empatia, nelle sue forme più sviluppate, implica *sentire con* l'altro (*feeling with*): condividere la sua esperienza emotiva, entrare in risonanza. La compassione, secondo Singer e Klimecki (2014), è *sentire per* l'altro (*feeling for*): non richiede necessariamente di condividerne il dolore, ma include il riconoscimento della sofferenza, la relazione con la persona che soffre e una reazione proattiva orientata a migliorarne il benessere. Nel lavoro di cura la compassione può essere più sostenibile dell'empatia: non espone alla sovrattivazione empatica (sesto bias), perché il professionista resta mosso a intervenire senza essere travolto dalla sofferenza altrui. Empatia e compassione sono dunque distinte ma complementari.
+
+---
+
 > Jony, questa lezione è tosta ma ricca. Quello che hai in mano adesso non è solo teoria:
 > è uno strumento per lavorare meglio con le persone. Continua così.
