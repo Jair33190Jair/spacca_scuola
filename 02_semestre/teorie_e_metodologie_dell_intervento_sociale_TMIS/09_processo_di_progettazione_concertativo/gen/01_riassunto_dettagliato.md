@@ -153,6 +153,8 @@ Si raccolgono informazioni attraverso:
 
 Un concetto chiave qui è la <span class="c-def">**Zona di Sviluppo Prossimale (ZSP)**</span> di <span class="c-dato">**Lev Vygotskij**</span>: la distanza tra ciò che una persona sa fare da sola e ciò che sa fare con l'aiuto di altri. <span class="c-impl">È lì che si lavora — è il territorio della crescita possibile.</span>
 
+Altrettanto centrale è il concetto di <span class="c-def">**capabilities**</span> elaborato dall'economista <span class="c-dato">**Amartya Sen**</span>: nella progettazione sociale ed educativa non basta rispondere ai bisogni — bisogna anche far emergere e valorizzare le **risorse, le capacità, i talenti e le potenzialità** delle persone, considerandole protagoniste attive del proprio percorso di emancipazione. Tutti possiedono capabilities, incluse le persone in situazione di vulnerabilità, e meritano accesso alle istituzioni chiave della società. <span class="c-impl">Questo spostamento dal deficit alle potenzialità è coerente con l'approccio dialogico-partecipato: si progetta *con* la persona a partire da ciò che sa fare e da ciò che vuole diventare.</span>
+
 **B. Prime ipotesi di obiettivi e strategie**
 
 L'équipe formula ipotesi preliminari da *negoziare* con tutte le persone coinvolte. Non decisioni finali — un punto di partenza.
@@ -251,6 +253,7 @@ Si strutturano su due livelli:
 | **Facilitatore** | Ruolo dell'operatore negli incontri di rete: stimola il dialogo, raccoglie punti di vista, riformula |
 | **SMART** | Criteri per obiettivi: Semplice, Monitorabile, Auspicabile, Realistico, Temporale |
 | **O'Sullivan** | Autore dei 4 livelli di partecipazione (A: decide da solo → D: viene solo informato) |
+| **Capabilities (Sen)** | Capacità, risorse e potenzialità delle persone da valorizzare nella progettazione — non solo i bisogni |
 | **Impotenza appresa** | Condizione di chi ha imparato di non poter incidere sulla propria realtà — da trasformare |
 
 ---
@@ -270,7 +273,7 @@ La lettura condivisa è il processo attraverso cui tutti gli attori coinvolti (p
 Le aspirazioni (Appadurai) sono la capacità di immaginare un futuro più favorevole — trasformano la mancanza in percorso, il bisogno in possibilità. A differenza dei bisogni, che fotografano una mancanza presente, le aspirazioni orientano verso il futuro e attivano la motivazione intrinseca. Partire anche dai desideri e dalle aspirazioni sposta il focus dal deficit alle potenzialità, rispetta l'autodeterminazione, e produce un coinvolgimento più autentico nel progetto. "Di cosa hai bisogno?" e "Come vorresti che fosse la tua vita tra un anno?" producono conversazioni molto diverse — e la seconda spesso apre spazi più utili.
 
 **Quali sono le cinque "trappole interpretative" nell'analisi pedagogica dei problemi?**
-Brambilla identifica cinque errori ricorrenti: 1) ridurre il problema a una singola causa ignorando la complessità sistemica, 2) confondere la descrizione del comportamento con la spiegazione del problema, 3) attribuire il problema solo alla persona ignorando il contesto, 4) saltare all'intervento prima di aver compreso la situazione (ansia applicativa), 5) proiettare le proprie categorie interpretative sulla situazione dell'altro. Riconoscere queste trappole è fondamentale per condurre una lettura condivisa autentica, che parta dai significati delle persone coinvolte e non dai pregiudizi del professionista.
+Brambilla identifica cinque errori ricorrenti in cui l'operatore può cadere nell'interpretare una situazione-problema: 1) le **interpretazioni diagnostiche deterministiche**, che riducono la persona alla sua diagnosi come se questa ne determinasse il destino in modo immutabile; 2) **l'oggettivazione e spersonalizzazione**, che trattano la persona come un caso clinico o un problema da risolvere a priori, senza considerarla soggetto; 3) **dividere in normale/diverso**, imponendo traiettorie di vita standardizzate come unica norma accettabile; 4) la **ineducabilità preconcetta**, ovvero il pensiero che certe persone, famiglie o contesti non possano evolversi; 5) **privilegiare la custodia all'emancipazione**, che preferisce la gestione assistenziale all'empowerment, contrastando la finalità educativa dell'autonomia. Riconoscere queste trappole è essenziale per impostare una lettura condivisa autentica e una progettazione rispettosa dell'autodeterminazione.
 
 ---
 

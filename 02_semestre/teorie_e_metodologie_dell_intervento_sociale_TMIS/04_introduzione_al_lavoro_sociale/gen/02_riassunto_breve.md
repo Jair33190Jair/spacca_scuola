@@ -73,12 +73,16 @@ Teorie e Metodologie dell'Intervento Sociale (TMIS) · Sessione 04
 
 ---
 
-## Il profilo dell'educatore — Riflessività e pensiero critico
+## Il profilo dell'educatore — Oggionni
 
-- Testo di riferimento: <span class="c-dato">Oggionni F., *Il profilo dell'educatore*</span>
-- <span class="c-def">La **riflessività** è competenza professionale, non ornamento: significa fermarsi e chiedersi *perché* si fa quello che si fa</span>
-- <span class="c-def">Il **pensiero critico** significa non fermarsi alla superficie, mettere in discussione assunti dati per scontati</span>
-- L'esercitazione chiede: collegare teoria a esperienza, identificare un tema da approfondire, scegliere il passaggio più significativo su riflessività/pensiero critico
+- Testo di riferimento: <span class="c-dato">Oggionni F., *Il profilo dell'educatore*, Carocci Faber, 2019</span>
+- <span class="c-def">La **riflessività** è competenza professionale fondamentale: chiedersi *perché* si fa quello che si fa, gestire i propri impliciti invece di subirne gli effetti</span>
+  - Teorizzata da <span class="c-dato">Dewey (1961)</span>: pensiero riflessivo come elaborazione intelligente sulla pratica, contrario all'automatismo della routine
+- <span class="c-def">Il **pensiero critico e complesso** (Morin, 1993): articolazione continua tra osservazione e auto-osservazione; la complessità diventa esplorabile, non caotica</span>
+- <span class="c-def">**Asimmetria della relazione educativa** → consapevolezza, intenzionalità, responsabilità — non gerarchia fissa</span>
+- <span class="c-warn">L'educatore deve confrontarsi con la propria storia, valori, pregiudizi: senza autoconsapevolezza i propri impliciti filtrano l'ascolto</span>
+- Spazi della riflessività: équipe (formale), confronto tra colleghi (informale), supervisione pedagogica (meta-riflessivo)
+- Competenze fondamentali (da Piattaforma AIEJI Europa): riflessive, d'intervento e di valutazione — non basta l'intuizione
 
 ---
 
@@ -86,3 +90,4 @@ Teorie e Metodologie dell'Intervento Sociale (TMIS) · Sessione 04
 - <span class="c-def">**Autodeterminazione** = agente causale della propria vita, con rischi misurati, in negoziazione</span>
 - <span class="c-tesi">**Integrazione** = focus sul deficit della persona che si adatta al contesto</span>
 - <span class="c-tesi">**Inclusione** = focus sul contesto che si trasforma per accogliere le differenze di tutti</span>
+- <span class="c-def">**Riflessività** (Dewey) + **pensiero complesso** (Morin) = competenze costitutive del profilo dell'educatore, non accessori</span>

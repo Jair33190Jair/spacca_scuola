@@ -1,11 +1,11 @@
 # Introduzione al Lavoro Sociale — Parte 1
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 TMIS · Sessione 01
 
@@ -89,11 +89,15 @@ Questo è uno degli approcci teorici chiave del corso (Allegri e Sanfelici, 2023
 
 Si attua anche attraverso l'imposizione pacifica di sistemi culturali, credenze e modi di vivere. La sua essenza: **l'esclusione forzata** di persone e gruppi da opportunità, esperienze e risorse a disposizione dei gruppi dominanti.
 
+<span class="c-def">**La discriminazione**</span> è il trattamento non paritario riservato a persone in ragione della loro appartenenza a un gruppo (per genere, etnia, disabilità, orientamento sessuale, ecc.). Va distinta dall'oppressione — più sistemica e strutturale — ma le due si alimentano a vicenda.
+
+<span class="c-impl">Concetto chiave emerso in aula: **l'intersezionalità**. Le discriminazioni non operano mai in modo isolato. Una donna migrante con disabilità non subisce solo la discriminazione per immigrazione, ma anche quella per genere e per disabilità — simultaneamente e in modo intrecciato. Il lavoro sociale anti-oppressivo deve saper leggere questa complessità, tenendo conto delle discriminazioni multiple e sovrapposte che può vivere una persona.</span>
+
 ### La questione del potere
 
 <span class="c-tesi">Gli operatori sociali **detengono un potere enorme** connesso al loro ruolo professionale. Il lavoro oscilla continuamente tra la promozione dell'autodeterminazione delle persone e i vincoli sociali, istituzionali e professionali.</span>
 
-Sono <span class="c-def">**gatekeeper**</span>: regolano l'accesso a servizi e risorse. Hanno **discrezionalità**: possono prendere decisioni che impattano profondamente sulla vita delle persone.
+Sono <span class="c-def">**gatekeeper**</span>: regolano l'accesso a servizi e risorse. Hanno **discrezionalità**: possono prendere decisioni che impattano profondamente sulla vita delle persone. <span class="c-dato">**Michael Lipsky** (2010)</span> li chiama <span class="c-def">**street-level bureaucrats**</span> (burocrati di strada): professionisti che, nella loro pratica quotidiana, di fatto interpretano e applicano le politiche pubbliche con ampi margini di autonomia. Questa discrezionalità è reale, inevitabile, e va riconosciuta — non rimossa.
 
 <span class="c-impl">**Foucault** ha mostrato come il sapere professionale sia esso stesso una forma di potere: definire una persona attraverso diagnosi ed etichette contribuisce a co-costruire sistemi oppressivi. "Una persona dipendente" è etichetta — "una persona che si trova in una situazione di dipendenza" è descrizione che lascia spazio al cambiamento.</span>
 
@@ -188,7 +192,10 @@ Il modello finale di Bronfenbrenner si riassume nell'acronimo <span class="c-def
 | **Giustizia sociale** | Valore fondante del lavoro sociale: equità, inclusione, contrasto all'oppressione |
 | **Empowerment** | Rafforzamento delle capacità e dell'autonomia delle persone |
 | **Oppressione** | Esclusione forzata di persone/gruppi da opportunità e risorse; può essere esterna o interna |
+| **Discriminazione** | Trattamento non paritario in ragione dell'appartenenza a un gruppo (genere, etnia, disabilità, ecc.) |
+| **Intersezionalità** | Le discriminazioni si intrecciano: una persona può subire più discriminazioni sovrapposte simultaneamente |
 | **Approccio anti-oppressivo** | Pratica professionale che analizza e contrasta i meccanismi di potere e discriminazione |
+| **Street-level bureaucrat** | Burocrate di strada (Lipsky): il professionista che interpreta le politiche pubbliche con ampia discrezionalità |
 | **Trifocalità** | Sguardo simultaneo su tre livelli: micro (persona), meso (relazioni tra sistemi), macro (strutture sociali) |
 | **Causalità circolare** | Nei sistemi viventi non esiste una causa unica: gli elementi si influenzano reciprocamente |
 | **Microsistema** | Ambiente diretto della persona (famiglia, scuola, lavoro) |
@@ -214,6 +221,8 @@ Il modello finale di Bronfenbrenner si riassume nell'acronimo <span class="c-def
 | **Urie Bronfenbrenner** | Modello bioecologico dello sviluppo umano | 1979/2002 |
 | **Elena Allegri & Mara Sanfelici** | L'approccio anti-oppressivo nel servizio sociale | 2023 |
 | **Gregory Bateson** | Paradigma della complessità e causalità circolare | 1976 |
+| **Sergio Tramma** | Il lavoro educativo: dimensione politica, valori e inscindibilità con la politica | 2024 |
+| **Michael Lipsky** | Street-level bureaucracy: la discrezionalità dei professionisti di front-line | 2010 |
 
 ---
 

@@ -62,6 +62,7 @@ TMIS · Sessione 09
 - <span class="c-def">**Problema educativo**</span> → distanza tra situazione esistente e auspicata
 - <span class="c-def">**Domanda progettuale**</span> → esigenza di pianificare un intervento (scarto presente → desiderato)
 - Problemi → multicausali, mai lineari
+- <span class="c-def">**Capabilities** (<span class="c-dato">Sen</span>)</span> → risorse e potenzialità da valorizzare; progettare *con* la persona, non solo sui suoi bisogni
 
 **5 trappole interpretative (<span class="c-dato">Brambilla</span>):**
 1. <span class="c-warn">**Interpretazioni diagnostiche deterministiche**</span> → diagnosi ≠ sentenza
@@ -163,8 +164,9 @@ Progettazione dialogica → mira ad **A**, si muove tra **A–B**
 | <span class="c-dato">Lev Vygotskij</span> | Zona di Sviluppo Prossimale (ZSP) | Pedagogista russo |
 | <span class="c-dato">Terence O'Sullivan</span> | 4 livelli di partecipazione | 2011 |
 | <span class="c-dato">Brambilla L.</span> | 5 trappole interpretative | 2023, Carocci, pp. 47–82 |
+| <span class="c-dato">Amartya Sen</span> | Capabilities — risorse/potenzialità come base progettuale | 2000 |
 | <span class="c-dato">Aleandri</span> | Educazione per tutta la vita | 2003 |
 
 ### Parole chiave
 
-`approccio concertativo` · `dialogico` · `Bachtin` · `progetto di vita` · `PSI` · `PEI` · `desiderio` · `aspirazione` · `Appadurai` · `ZSP` · `Vygotskij` · `lettura condivisa` · `facilitatore` · `SMART` · `O'Sullivan` · `livelli di partecipazione` · `trappole interpretative` · `impotenza appresa` · `empowerment` · `co-progettazione`
+`approccio concertativo` · `dialogico` · `Bachtin` · `progetto di vita` · `PSI` · `PEI` · `desiderio` · `aspirazione` · `Appadurai` · `ZSP` · `Vygotskij` · `capabilities` · `Sen` · `lettura condivisa` · `facilitatore` · `SMART` · `O'Sullivan` · `livelli di partecipazione` · `trappole interpretative` · `impotenza appresa` · `empowerment` · `co-progettazione`

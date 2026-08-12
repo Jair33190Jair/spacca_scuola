@@ -63,6 +63,7 @@ TMIS · Sessione 09
 - <span class="c-def">**Problema educativo**</span> = distanza tra situazione esistente e auspicata
 - <span class="c-def">**Domanda progettuale**</span> = insieme di elementi che fanno emergere l'esigenza di intervenire
 - <span class="c-tesi">I problemi non hanno mai una causa unica — sono sempre complessi</span>
+- <span class="c-def">**Capabilities** (<span class="c-dato">Sen</span>)</span>: nella progettazione vanno valorizzate le risorse e le potenzialità delle persone, non solo analizzati i bisogni — tutti possiedono capabilities
 
 ### Le 5 trappole interpretative da evitare
 

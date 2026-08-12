@@ -149,26 +149,62 @@ Nodi significativi dell'approccio inclusivo:
 
 ## Il profilo dell'educatore/educatrice sociale
 
-La seconda parte della lezione introduce la lettura del testo di <span class="c-dato">Francesca Oggionni (*Il profilo dell'educatore*)</span>.
-
-### I tre quesiti riflessivi
-
-**Quesito A — Collega teoria ed esperienza**
-<span class="c-es">Scegli uno dei temi del testo e collegalo a una tua esperienza pratica.</span>
-
-**Quesito B — Cosa vuoi approfondire**
-Esplicita un contenuto teorico che vuoi approfondire.
-
-**Quesito C — Riflessività e pensiero critico**
-Individua il passaggio del testo più significativo per te sui temi della **riflessività e del pensiero critico** per l'operatore sociale.
+La seconda parte della lezione introduce la lettura del testo di <span class="c-dato">Francesca Oggionni (*Il profilo dell'educatore*, Carocci Faber, 2019)</span>. Il testo anticipa il secondo blocco del corso: la postura professionale dell'operatore sociale.
 
 ### Perché riflessività e pensiero critico contano
 
 <span class="c-tesi">Questi non sono concetti ornamentali — sono competenze professionali fondamentali.</span> Un operatore/operatrice che non riflette su sé stesso, sui propri impliciti, sul proprio modo di vedere il mondo, porta inconsapevolmente i suoi pregiudizi dentro le relazioni educative.
 
-<span class="c-def">La **riflessività** significa: fermarsi, guardare il proprio lavoro dall'esterno, chiedersi *perché faccio quello che faccio* e *cosa porta dentro il mio sguardo*.</span>
+<span class="c-def">La **riflessività** significa: fermarsi, guardare il proprio lavoro dall'esterno, chiedersi *perché faccio quello che faccio* e *cosa porta dentro il mio sguardo*.</span> È Dewey il teorico di riferimento: <span class="c-dato">Dewey (1961)</span> ha teorizzato il **valore euristico, conoscitivo e trasformativo del pensiero riflessivo** — un'elaborazione "intelligente" sulla pratica che svincola dall'automatismo della routine.
 
 <span class="c-def">Il **pensiero critico** significa: non fermarsi alla superficie, analizzare le situazioni complesse, mettere in discussione assunti dati per scontati — inclusi quelli della propria formazione.</span>
+
+### L'asimmetria della relazione educativa
+
+<span class="c-def">La relazione educativa è **asimmetrica** — ma questo non significa posizione di superiorità/inferiorità.</span> L'asimmetria si qualifica in termini di **consapevolezza, intenzionalità e responsabilità** rispetto alle finalità, alle scelte metodologiche e al monitoraggio dei processi.
+
+<span class="c-warn">Attenzione: l'asimmetria non legittima la gestione acritica e autoreferenziale di un potere autoritario. Ogni relazione è dinamica e bidirezionale — costringe tutti i soggetti a mettersi continuamente in discussione.</span>
+
+L'educatore deve confrontarsi prima di tutto con la propria storia personale: valori, pregiudizi, tracce di sofferenza, senso del limite. <span class="c-impl">Senza questa autoconsapevolezza, i propri impliciti filtrano l'ascolto e limitano i margini di cambiamento dell'utente.</span>
+
+### Il pensiero complesso
+
+<span class="c-def">L'educatore deve sviluppare un **pensiero complesso** (Morin, 1993) — articolazione continua tra osservazione e auto-osservazione, conoscenza e auto-conoscenza.</span>
+
+> "In assenza di pensiero complesso, la complessità viene vissuta come complicazione — eccesso di variabili incomprensibile. Con il pensiero complesso, le variabili sono molte ma finite, esplorabili e comprensibili." (Liverta Sempio, 1994)
+
+<span class="c-impl">Dipende dal soggetto, non dall'oggetto: scegliere il rischio e l'ignoto (pensiero complesso) o la sicurezza e il noto (pensiero semplificante) è una scelta professionale.</span>
+
+### Gli spazi della riflessività
+
+La riflessività non avviene in isolamento — richiede **spazi strutturati e non strutturati** di confronto:
+
+- **Formali**: équipe, tavoli di discussione con la rete territoriale dei servizi
+- **Informali**: confronto aperto tra colleghi e con gli utenti
+- **Meta-riflessivi**: comunità di pratica, supervisione pedagogica e psicologica
+
+<span class="c-tesi">Il presidio di questi spazi è fondamentale: il carico emotivo del lavoro educativo è reale e richiede tempi di decantazione e analisi collettiva.</span>
+
+### Le competenze fondamentali dell'educatore (da Oggionni)
+
+Il testo di Oggionni distingue tre tipologie di competenza:
+
+- **Riflessive, d'intervento e di valutazione** — "fondamentali": non può esserci educazione intenzionale senza una cultura professionale in grado di analizzare le questioni nodali
+- **Centrali** — di ordine personale, relazionale, sociale, comunicativo, organizzativo e sistemico
+- **Specifiche** — legate ai contesti e alle tipologie di utenza
+
+<span class="c-impl">L'intuizione e il buon senso non bastano. Le basi teoriche servono per rileggere le esperienze, pianificare interventi, monitorare processi e valutare i nessi tra intenzioni e risultati.</span>
+
+### I tre quesiti riflessivi dell'esercitazione
+
+**Quesito A — Collega teoria ed esperienza**
+<span class="c-es">Scegli uno dei temi del testo e collegalo a una tua esperienza pratica.</span>
+
+**Quesito B — Cosa vuoi approfondire**
+Esplicita un contenuto teorico che vuoi approfondire (e dove si trova nel testo).
+
+**Quesito C — Riflessività e pensiero critico**
+Individua il passaggio del testo più significativo per te sui temi della riflessività e del pensiero critico per l'operatore sociale, motivando la scelta.
 
 ---
 
@@ -185,6 +221,8 @@ Individua il passaggio del testo più significativo per te sui temi della **rifl
 | **Segregazione** | Isolamento o ghettizzazione di gruppi specifici di persone |
 | <span class="c-def">**Riflessività**</span> | Capacità dell'operatore di riflettere criticamente sul proprio agire professionale e sui propri impliciti |
 | <span class="c-def">**Pensiero critico**</span> | Capacità di analizzare situazioni complesse, mettere in discussione assunti, non fermarsi alla superficie |
+| <span class="c-def">**Pensiero complesso**</span> | Articolazione continua tra osservazione e auto-osservazione; permette di vedere la complessità come esplorabile, non come caotica |
+| <span class="c-def">**Asimmetria della relazione educativa**</span> | Differenza di ruolo e responsabilità tra educatore e utente; non implica gerarchia fissa ma consapevolezza, intenzionalità, responsabilità |
 | **Abilismo** | Sistema culturale che valorizza le capacità "abili" come norma, penalizzando chi si discosta da esse |
 
 ---
@@ -199,6 +237,9 @@ Individua il passaggio del testo più significativo per te sui temi della **rifl
 | <span class="c-dato">UNDESA / Strategia di Lisbona</span> | Definizione di inclusione sociale come processo multidimensionale | 2000 / 2009 |
 | <span class="c-dato">Oggionni, F.</span> | *Il profilo dell'educatore* — riflessività e competenze professionali | (testo in lettura) |
 | <span class="c-dato">Angeloz Brügger, Fontana-Lana, Petragallo Hauenstein</span> | Autodeterminazione e partecipazione civica nelle persone con disabilità intellettiva | 2022 |
+| <span class="c-dato">Cottini, L.</span> | *L'autodeterminazione nelle persone con disabilità. Percorsi educativi per svilupparla* | 2016 |
+| <span class="c-dato">Dewey, J.</span> | Teorizzazione del valore euristico, conoscitivo e trasformativo del **pensiero riflessivo** sulla pratica | 1961 |
+| <span class="c-dato">Morin, E.</span> | **Pensiero complesso** — critica al pensiero unicamente computante e lineare | 1993 |
 
 ---
 
@@ -215,6 +256,12 @@ L'integrazione sociale è un processo che inserisce le persone in un contesto ma
 
 **Quale differenza sostanziale connota i concetti di inclusione e integrazione?**
 <span class="c-tesi">La differenza fondamentale è il **focus dell'azione**: l'integrazione agisce principalmente sull'individuo per adattarlo al contesto (es. lo studente chiede la rampa e il contesto risponde al suo bisogno specifico), mentre l'inclusione agisce principalmente sul contesto per renderlo accessibile a tutti preventivamente (es. la rampa è già predisposta prima che arrivi chiunque ne abbia bisogno).</span>
+
+**Quali sono i tre nodi significativi della prospettiva inclusiva secondo Medeghini et al. (2013)?**
+Medeghini et al. identificano tre nodi su cui l'approccio inclusivo deve intervenire. Il primo è **le politiche**: l'inclusione richiede una ricomposizione fra diversi livelli (economia, urbanistica, trasporti, cultura) che abbia come riferimento l'insieme delle differenze — evitando la logica speciale dell'integrazione. Il secondo sono **gli attori e i luoghi sociali**: le persone con disabilità vivono spesso in spazi funzionalmente separati (centri diurni, scuole speciali, strutture residenziali); l'approccio inclusivo problematizza questa separazione e chiede di pensare spazi aperti culturalmente e strutturalmente alle differenze. Il terzo è **il piano legislativo**: <span class="c-warn">la standardizzazione dei percorsi di vita attraverso la legislazione può diventare un fattore di rischio e emarginazione, non di protezione</span>, se costruisce percorsi non modificabili basati su categorie omogenee e statiche.
+
+**Che ruolo hanno riflessività e pensiero complesso nella professionalità educativa secondo Oggionni?**
+Secondo <span class="c-dato">Oggionni (2019)</span>, riflessività e pensiero complesso non sono accessori ma elementi costitutivi del lavoro educativo. La riflessività — teorizzata da <span class="c-dato">Dewey</span> come elaborazione intelligente sulla pratica — permette di esplicitare le dimensioni nascoste del proprio agire, gestirle invece di subirle. Il pensiero complesso (Morin) consente di vedere la realtà articolata come esplorabile e comprensibile, anziché come caos. Senza queste competenze, l'educatore rischia di operare per routine, di non intercettare i propri pregiudizi e di limitare inconsapevolmente le possibilità di cambiamento delle persone con cui lavora.
 
 ---
 

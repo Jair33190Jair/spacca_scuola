@@ -1,7 +1,7 @@
 # Sicurezza Sociale e Forme di Solidarietà — Panoramica completa
 Semestre 02 · 10 lezioni
 
-> Dieci lezioni per capire come la Svizzera — e il Ticino in particolare — risponde ai momenti più difficili della vita: malattia, lavoro che finisce, vecchiaia, invalidità, famiglia che cambia, confine tra chi appartiene al sistema e chi resta fuori. Il percorso parte dai fondamenti teorici, costruisce l'architettura del sistema pezzo per pezzo, e arriva alle sfide aperte: chi rimane scoperto, cosa ancora non funziona, come i nuovi modelli familiari e la migrazione stanno riscrivendo le regole. La lezione 10 chiude il cerchio con il livello cantonale: la LAPS e le 9 prestazioni ticinesi commisurate al bisogno, con il meccanismo concreto del calcolo del diritto. Il filo conduttore è uno: la sicurezza sociale non è carità, è solidarietà organizzata — e capire chi ne è escluso è già metà del lavoro di un operatore sociale.
+> Dieci lezioni per costruire una lettura completa del sistema svizzero — e ticinese — di protezione sociale. Il percorso va dai fondamenti teorici (cos'è un rischio sociale, cos'è lo Stato sociale) attraverso l'intera architettura istituzionale (11 assicurazioni, tre pilastri, prestazioni cantonali), fino alle crepe del sistema: indipendenti scoperti, LAMal strutturalmente iniqua, donne penalizzate da carriere discontinue, stranieri con diritti di carta. Il filo conduttore è uno: la sicurezza sociale non è carità, è solidarietà organizzata — e capire chi ne è escluso è già metà del lavoro di un operatore sociale.
 
 ---
 

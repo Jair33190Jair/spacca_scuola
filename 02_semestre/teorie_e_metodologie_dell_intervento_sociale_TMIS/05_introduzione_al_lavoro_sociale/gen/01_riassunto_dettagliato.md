@@ -14,6 +14,16 @@ TMIS · Sessione 05 · a.a. 2025/26
 
 ---
 
+## La circolarità nei processi comunicativi
+
+Prima di entrare nelle specificità della relazione professionale, la lezione richiama il **modello della circolarità comunicativa**: ogni relazione si svolge dentro un sistema dove coesistono il contesto, le emozioni, le idee e intenzioni, e i comportamenti verbali e non verbali di entrambi gli interlocutori.
+
+<span class="c-def">**Circolarità**: ogni atto comunicativo genera un feedback e un contro-feedback</span> — non esiste la comunicazione unidirezionale. <span class="c-warn">Come ricorda il primo assioma della comunicazione: non è possibile non comunicare.</span> Anche il silenzio, anche l'indifferenza, sono messaggi.
+
+<span class="c-impl">Questo ha una conseguenza pratica diretta: quando siamo in relazione professionale, dobbiamo monitorare costantemente la qualità della nostra comunicazione — non solo il contenuto, ma il modo, il tono, la coerenza tra verbale e non verbale.</span> La relazione è un sistema vivo, non un monologo.
+
+---
+
 ## La relazione professionale: non è una chiacchierata
 
 <span class="c-tesi">La relazione educativa è la caratteristica distintiva dell'operatore sociale.</span> Senza di essa, le intenzioni educative restano lettera morta: <span class="c-tesi">dove non c'è relazione, non c'è la possibilità di produrre cambiamento</span> (<span class="c-dato">Tramma, 2018</span>).
@@ -139,6 +149,18 @@ C'è una <span class="c-def">distinzione fondamentale tra il lavorare *con* le p
 
 <span class="c-impl">L'ascolto è anche un **atto politico ed educativo**: ascoltare significa riconoscere l'altro, dargli voce, dargli fiducia.</span>
 
+### Il pregiudizio — amico scomodo, non nemico
+
+<span class="c-dato">Tramma (2018)</span> dedica una riflessione specifica al pregiudizio, che vale la pena conoscere bene perché rompe con la vulgata professionale.
+
+Nel lavoro educativo la parola "pregiudizio" è quasi sempre usata negativamente: sembra un difetto da eliminare, un'accusa. Il linguaggio degli operatori è pieno di termini come "neutralità", "posizione non giudicante", "accettazione". Ma <span class="c-warn">**presumere di non avere pregiudizi è il più pericoloso dei pregiudizi**</span>: quella della neutralità assoluta è un'illusione.
+
+<span class="c-def">Il pregiudizio, etimologicamente, è un giudizio pronunciato *prima* di un esame completo di tutti gli elementi rilevanti.</span> Non è automaticamente falso — è semplicemente anticipatorio. I pregiudizi, come ci ricorda <span class="c-dato">Gadamer (2000)</span>, sono le precondizioni che orientano il nostro sguardo: sono *la condizione del nostro incontro con la realtà*.
+
+<span class="c-tesi">I pregiudizi sono ineliminabili. La soluzione non è negarli, ma renderli consapevoli.</span> Un pregiudizio consapevole di sé — che comporta un'auto-riflessività costante, che comprende l'altro e sé stessi in relazione reciproca — è uno strumento di lavoro. Un pregiudizio che diventa etichettamento fisso, immobilità classificatoria, arroccamento in categorie interpretative rigide — quello è il problema reale.
+
+<span class="c-es">Nell'ascolto attivo questo si concretizza: riconoscere i propri pregiudizi, capire che spazio stanno occupando nella ricezione, tenerli monitorati. Non eliminarli — usarli con consapevolezza.</span>
+
 ### Il coinvolgimento emotivo e la giusta vicinanza
 
 Le emozioni sono sempre presenti nelle relazioni — non si possono ignorare, ma vanno gestite. Due rischi estremi (<span class="c-dato">Maida et al., 2012</span>):
@@ -236,6 +258,8 @@ Integra due funzioni cognitive:
 
 | Termine | Significato |
 |---------|-------------|
+| **Circolarità comunicativa** | Ogni atto comunicativo genera feedback e contro-feedback — non comunicare è impossibile |
+| **Pregiudizio** | Giudizio anticipatorio ineliminabile; va reso consapevole, non negato (Tramma, 2018; Gadamer, 2000) |
 | **Intenzionalità** | Ogni azione professionale è consapevolmente orientata a una finalità |
 | **Progettualità** | La relazione prefigura un cambiamento futuro possibile |
 | **Meta-competenza** | Competenza trasversale che governa le altre competenze (Milani, 2000) |

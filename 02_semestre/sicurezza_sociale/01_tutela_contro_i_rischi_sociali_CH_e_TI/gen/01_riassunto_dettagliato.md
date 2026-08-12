@@ -19,6 +19,12 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 01 · 20 febbraio 2026
 
 Il modulo è tenuto da **Gregorio Avilés**, docente e ricercatore senior al Centro competenze lavoro, welfare e società della SUPSI.
 
+Gli **obiettivi di apprendimento** formali del corso sono quattro:
+1. **Conoscere** i diritti alle prestazioni finanziarie e in natura di cui possono beneficiare persone e famiglie confrontate agli imprevisti della vita.
+2. **Capire** il ruolo, l'organizzazione e il funzionamento delle istituzioni coinvolte nell'erogazione delle prestazioni.
+3. **Comprendere e interpretare criticamente** le finalità, i valori e i principi della sicurezza sociale alla luce dei bisogni sociali emergenti e delle sfide attuali.
+4. **Saper contribuire** in modo consapevole al dibattito politico sullo Stato sociale.
+
 Alla fine del corso dovresti avere:
 - Una **visione d'insieme dell'architettura del sistema** svizzero e ticinese di sicurezza sociale.
 - Un **metodo di lavoro**: saper identificare i diritti sociali applicabili a una situazione concreta.

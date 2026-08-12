@@ -2,12 +2,12 @@
 Sostenibilità e Benessere · Sessione 01 · 16 aprile 2026
 
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 
 > Questa lezione è un viaggio nel tempo: dal 1945 a oggi, dal caos della guerra mondiale

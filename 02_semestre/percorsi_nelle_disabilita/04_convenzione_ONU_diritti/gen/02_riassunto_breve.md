@@ -2,12 +2,12 @@
 Percorsi nelle Disabilità · Sessione 04
 
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 
 > Questa sessione collega la storia dei movimenti degli anni '70 allo strumento giuridico che li ha coronati: la CDPD. E poi scende nel concreto con la Lingua Facile. Tieni a mente il filo: diritti → strumenti → pratica quotidiana.

@@ -225,6 +225,10 @@ Dal punto di vista pedagogico il bisogno è anche:
 6. Empowerment
 7. Estendibilità a tutte le persone
 
+### Benessere collettivo (Dal Pra Ponticelli, 2007)
+
+Il <span class="c-def">**benessere collettivo**</span> è la sensazione positiva collettiva determinata dalla percezione di sentirsi riconosciuti come collettività, di partecipare in modo attivo e responsabile alla vita sociale, di poter usufruire di beni, servizi e di condividere una solidarietà sociale. <span class="c-impl">Non è la somma dei benesseri individuali — è qualcosa di qualitativamente diverso che si genera nelle relazioni e nei legami sociali.</span>
+
 ### Salute e malattia
 
 <span class="c-dato">**OMS (1948)**</span>: "uno stato di completo benessere fisico, sociale e mentale e non soltanto l'assenza di malattia."
@@ -371,7 +375,8 @@ La meta-competenza si costruisce attraverso la <span class="c-def">**pratica rif
 - <span class="c-def">**Speranza**</span>: credere che si possa trovare una via per realizzare i propri obiettivi. <span class="c-tesi">Non è ingenuità — è un processo cognitivo.</span> Come dice <span class="c-dato">Freire</span>: *"Senza un minimo di speranza non possiamo nemmeno incominciare la lotta."*
 - <span class="c-def">**Empatia**</span> (<span class="c-dato">Palmieri</span>): non "mettersi nei panni dell'altro" (impossibile), ma <span class="c-tesi">**avvicinarsi al suo mondo di significati** mantenendo la consapevolezza della non sovrapponibilità delle nostre esistenze. È un andar-e-tornare continuo.</span>
 - <span class="c-def">**Coinvolgimento emotivo**</span>: la "giusta vicinanza". L'operatore deve lavorare sulla propria auto-osservazione per mantenere quella distanza che consente atteggiamenti professionali efficaci.
-- **Pensiero divergente**: integrazione del pensiero creativo con quello razionale.
+- <span class="c-def">**Attenzione all'intero**</span>: capacità di cogliere le situazioni nella loro complessità e le persone nella loro globalità — non parcellizzare l'intervento.
+- <span class="c-def">**Pensiero divergente**</span>: integrazione del pensiero creativo (apertura, circolarità, intuizione, ricettività) con quello razionale (ipotesi da verificare nella realtà). Fondato su un atteggiamento di curiosità e ricerca continua.
 
 ### Ascolto e mediazione educativa (Palmieri, 2011)
 
@@ -425,6 +430,7 @@ L'asimmetria riguarda:
 | **Pratica riflessiva** | Processo circolare di azione e riflessione sulla pratica (Dewey/Maida) |
 | **Asimmetria relazionale** | Maggior responsabilità dell'operatore, pari valore umano (Tramma) |
 | **Mediazione educativa** | Trasformare il vissuto in esperienza con significato (Palmieri) |
+| **Benessere collettivo** | Sensazione positiva collettiva: sentirsi riconosciuti come collettività, partecipare attivamente, condividere solidarietà (Dal Pra Ponticelli) |
 | **Disease/Illness/Sickness** | Malattia dal punto di vista medico / soggettivo / sociale (Twaddle) |
 
 ---
@@ -495,4 +501,4 @@ Palmieri (2011) propone che il bisogno non sia solo mancanza da colmare, ma anch
 Il disagio (Palmieri, 2012) è etimologicamente "mancanza di agio", ma non va visto come condizione irreversibile. È una situazione appresa: si impara ad attribuire un significato di disagio alle esperienze di disequilibrio e sofferenza attraverso relazioni e contesto culturale. Il vissuto di sofferenza deriva soprattutto dalla lettura soggettiva della situazione — e quella lettura è modificabile. Da una prospettiva pedagogica, il disagio è un momento di crisi nel percorso di vita, non una condizione fissa: ogni passaggio evolutivo emancipativo è preceduto da un momento di crisi che può diventare occasione di nuovi apprendimenti.
 
 **Cos'è la mediazione educativa?**
-La mediazione educativa è la capacità dell'operatore di porsi come intermediario tra la persona e il contesto, tra risorse e bisogni, tra linguaggi diversi. Non è una semplice traduzione — è una costruzione di ponti che rispetta l'autonomia e la prospettiva di ciascun attore. Il mediatore non si sostituisce a nessuno dei due poli: aiuta a creare uno spazio di dialogo e comprensione reciproca. Nel lavoro sociale si applica in molti contesti: mediazione linguistico-culturale, mediazione familiare, mediazione tra persone e istituzioni.
+La mediazione educativa (Palmieri, 2011) è la capacità dell'operatore di accompagnare le persone ad attribuire un **senso** a ciò che accade, andando oltre il piano della sensazione e della reattività immediata. Si fonda sulla distinzione fondamentale tra <span class="c-def">**vissuto**</span> — percezione diretta, intuitiva e naturale delle emozioni e sensazioni — ed <span class="c-def">**esperienza**</span> — la rielaborazione riflessiva del vissuto, il "dare senso" a ciò che si è vissuto. La mediazione promuove il "fare esperienza del proprio vissuto": aiuta la persona a non restare intrappolata nella reazione immediata ma a costruire significato da quanto accade, favorendo la formazione di una autoconsapevolezza del proprio modo di apprendere e di stare nel mondo.

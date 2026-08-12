@@ -34,7 +34,7 @@ TMIS · Sessione 10
 
 ## Struttura degli obiettivi
 
-- <span class="c-def">**Macrofinalità**</span> → autonomia, autodeterminazione, benessere, integrazione sociale, empowerment, autostima, autoefficacia
+- <span class="c-def">**Macrofinalità**</span> → autonomia, autodeterminazione, benessere, integrazione sociale, empowerment, autostima, autoefficacia, **progetto di vita**
   - ↓
 - <span class="c-def">**Obiettivo generale**</span> → orizzonte di senso; medio-lungo termine; formulato con verbo all'infinito; max 2-3 per progetto
   - ↓
@@ -87,6 +87,20 @@ TMIS · Sessione 10
 
 ---
 
+## Strategie di intervento
+
+- **Definizione** → modalità con cui si agisce per raggiungere gli obiettivi (*come* si fa, con quale logica)
+- **Scelta** → condivisa; dipende dalla natura dei comportamenti da sviluppare (cognitivi, relazionali, operativi…)
+- **Preferite negli approcci dialogici** → momenti dialogici: colloqui, incontri di rete, co-osservazione, ascolto quotidiano
+
+## Indicatori
+
+- **Definizione** → elementi osservabili che misurano se il cambiamento atteso avviene
+- **Tipi** → binari (sì/no) · frequenziali (sempre/mai) · numerici
+- <span class="c-warn">**Regola** → vanno definiti e condivisi prima dell'intervento</span>
+
+---
+
 ## Progetto scritto
 
 - <span class="c-tesi">**Firma di tutti** → atto simbolico di responsabilità condivisa</span>
@@ -118,4 +132,4 @@ TMIS · Sessione 10
 
 ### Parole chiave
 
-`capabilities` · `obiettivo generale` · `obiettivo specifico` · `SMART` · `zona di sviluppo prossimale` · `zona effettiva` · `zona potenziale` · `azioni progettuali` · `valutazione in itinere` · `verifica` · `corresponsabilità` · `macrofinalità` · `progettazione dialogica`
+`capabilities` · `obiettivo generale` · `obiettivo specifico` · `SMART` · `zona di sviluppo prossimale` · `zona effettiva` · `zona potenziale` · `azioni progettuali` · `strategie di intervento` · `indicatori` · `valutazione in itinere` · `verifica` · `corresponsabilità` · `macrofinalità` · `progetto di vita` · `progettazione dialogica`

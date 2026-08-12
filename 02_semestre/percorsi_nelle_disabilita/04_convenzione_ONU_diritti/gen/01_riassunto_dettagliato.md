@@ -2,12 +2,12 @@
 Percorsi nelle Disabilità · Sessione 04
 
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 
 > Questa lezione è una di quelle che ti rimangono. Non si parla solo di una legge internazionale — si parla di un cambio di rotta culturale profondo, delle lotte che lo hanno reso possibile, e degli strumenti pratici per farlo diventare realtà nel lavoro quotidiano. La CDPD è, come ripetono le docenti, **la bussola** per chi lavora nell'ambito della disabilità.

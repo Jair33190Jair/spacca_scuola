@@ -2,12 +2,12 @@
 Salute Mentale · Sessione 03 · 4 marzo 2026
 
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 
 > Questa lezione affronta uno dei concetti più abusati del nostro tempo: l'empatia.
@@ -202,6 +202,10 @@ Hoffman descrive uno sviluppo evolutivo: stadio 1 (distress empatico globale, ne
 **Quali sono i sei bias dell'empatia e qual è il loro significato per il lavoro con le persone?**
 
 Il primo bias è la familiarità: l'empatia si attiva di più verso chi ci somiglia. Il secondo è la colpa attribuita: se riteniamo l'altro responsabile della sua condizione (o lo troviamo esteticamente ripugnante), la risposta empatica si riduce. Il terzo riguarda inganno e invidia: verso chi ci ha tradito o chi invidiiamo, la risonanza emotiva cala. Il quarto è la non-sensibilità ai numeri: una storia singola mobilita, le statistiche no; rischio: favoritismi verso chi si conosce meglio (effetto Sheri Summers). Il quinto è il paradosso: empatia cognitiva elevata senza empatia emotiva è la struttura dello psicopata, che usa la lettura dell'altro per manipolarlo. Il sesto è la sovrattivazione: sentire troppo il dolore altrui può portare all'evitamento e al ritiro dalla relazione. Per il lavoro sociale, questi bias indicano che l'empatia da sola non è una garanzia: va coltivata consapevolmente ed integrata con la componente cognitiva.
+
+**Di cosa tratta l'esperimento del buon samaritano e quali riflessioni se ne possono trarre per l'empatia?**
+
+<span class="c-dato">Darley e Batson (1972)</span> ripresero la parabola evangelica del buon samaritano per testare quali variabili determinano la disponibilità ad aiutare una persona in difficoltà. Nell'esperimento, studenti di teologia a Princeton dovevano recarsi in un'aula per tenere una breve presentazione — alcuni sulla parabola stessa, altri su un tema neutro. Sul tragitto trovavano un attore che simulava chiaramente uno stato di bisogno. La variabile che risultò decisiva non fu la sensibilità morale, né il tema della presentazione, ma la <span class="c-tesi">**disponibilità di tempo**: chi era in ritardo passava oltre senza fermarsi — inclusi gli studenti che stava per parlare della parabola del buon samaritano.</span> <span class="c-es">Un caso emblematico: uno studente ha letteralmente scavalcato la vittima perché stava correndo a tenere il suo discorso sul buon samaritano.</span> La conclusione degli autori: "Pensare al buon samaritano non ha aumentato il comportamento di aiuto, ma essere di fretta lo ha diminuito." Per l'empatia nel lavoro di cura la lezione è diretta: <span class="c-impl">la pressione situazionale (tempo, agenda, carico di lavoro) può inibire la risposta empatica anche in chi ha valori autenticamente orientati all'aiuto. Non basta avere buone intenzioni — il contesto organizzativo in cui si lavora conta quanto le disposizioni personali.</span>
 
 **Qual è la differenza tra empatia, simpatia e compassione? Perché la compassione può essere più stabile nel lavoro di cura?**
 

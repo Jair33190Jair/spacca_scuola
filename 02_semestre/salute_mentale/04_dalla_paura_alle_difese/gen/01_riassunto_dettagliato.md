@@ -2,12 +2,12 @@
 Salute Mentale · Sessione 04 · 11.03.2026
 
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 
 > Questa lezione è una delle più dense del corso — e anche una delle più utili per il tuo futuro lavoro. Partiamo da un mito greco, atterriamo nella neurobiologia delle emozioni, e arriviamo a capire perché i tuoi utenti a volte si comportano in modo che sembra incomprensibile. Buckle up.
@@ -354,6 +354,56 @@ I meccanismi primitivi compaiono nella prima infanzia: sono semplici, molto effi
 **Cosa significa "identificazione proiettiva" e qual è il suo impatto nel lavoro sociale?**
 
 L'identificazione proiettiva è un meccanismo complesso: non basta proiettare un contenuto sull'altro, si agisce nella relazione in modo che l'altro provi davvero ciò che gli è stato proiettato. Non è ipocrisia consapevole — è inconscio. Nel lavoro sociale si manifesta quando un utente con vissuto di frustrazione e fallimento porta l'assistente sociale a costruire progetto dopo progetto che fallisce, finché l'operatore prova esattamente le stesse emozioni dell'utente all'inizio: frustrazione, senso di inadeguatezza, rabbia. Ha vissuto dall'interno il mondo interno dell'utente. Riconoscere questo meccanismo permette all'operatore di non confondere le proprie emozioni indotte con una valutazione obiettiva della situazione.
+
+**Qual è il criterio orizzontale e il criterio verticale nella classificazione dei meccanismi di difesa?**
+
+I meccanismi di difesa si organizzano lungo due assi. L'**asse orizzontale** (criterio temporale) riguarda la comparsa nel tempo dello sviluppo: i meccanismi primitivi compaiono per primi (prima infanzia), quelli maturi emergono più tardi. L'**asse verticale** (criterio qualitativo) riguarda il grado di distorsione della realtà e il livello di complessità: ai livelli bassi troviamo alta distorsione e bassa complessità (es. diniego, scissione); ai livelli alti troviamo bassa distorsione e alta complessità (es. razionalizzazione, umorismo). I due assi si combinano nella scala di maturità di Perrotta (adattata da Pezzoli), che va dal livello 0 (rottura psicotica con la realtà) al livello 7 (difese mature come altruismo, umorismo, sublimazione).
+
+**Cosa si intende per "scopo", "modalità d'uso" e "impatto" nei meccanismi di difesa?**
+
+Lo **scopo** dei MDD è sempre lo stesso: ridurre l'angoscia che preme sull'Io — non eliminare la minaccia che la genera. La **modalità d'uso** descrive come il meccanismo opera: i primitivi agiscono percettivamente (il diniego blocca la percezione stessa della realtà angosciante), i maturi agiscono a livello cognitivo-affettivo (la razionalizzazione riorganizza il significato di un'esperienza senza negarla). L'**impatto** misura le conseguenze: i meccanismi con alta distorsione della realtà (livelli bassi) proteggono efficacemente dall'angoscia a breve termine ma impediscono di affrontare il problema reale e limitano la funzionalità; i meccanismi maturi (livelli alti) mantengono il contatto con la realtà e permettono di elaborare l'angoscia senza negarla. La valutazione clinica considera tutti e tre gli elementi insieme ai tre criteri di Anna Freud (age adequateness, intensity, balance).
+
+**Come si distribuiscono i meccanismi di difesa nelle principali aree psicopatologiche?**
+
+I MDD non si distribuiscono casualmente nelle diverse psicopatologie: riflettono il tipo di angoscia dominante in ciascuna area. Nella **nevrosi** l'angoscia centrale è di castrazione (paura del limite, della prestazione, della perdita) — le difese prevalenti sono quelle nevrotiche di livello 5: rimozione, formazione reattiva, spostamento. Nella **psicosi** l'angoscia è di frammentazione (perdita dell'unità e coerenza del sé) — le difese sono le più primitive, di livello 0-3: negazione psicotica, distorsione, proiezione delirante. Nelle organizzazioni **borderline** (stato limite) l'angoscia dominante è di abbandono — le difese caratteristiche sono quelle di livello 2: scissione e identificazione proiettiva. Riconoscere queste distribuzioni permette all'operatore di orientarsi nel tipo di sofferenza sottostante a partire dal pattern difensivo osservato.
+
+**Come descrive Biondi la distinzione tra ansia normale e ansia patologica?**
+
+<span class="c-dato">Biondi (1996)</span> distingue ansia normale e patologica su sei criteri: intensità (lieve-moderata vs. moderata-intensa), durata (limitata nel tempo vs. lunga o con postumi prolungati), frequenza (episodi rari vs. frequenti o continui), reazione (proporzionata alla situazione vs. inappropriata o sproporzionata), sofferenza soggettiva (limitata e temporanea vs. evidente e frequente), conseguenze funzionali (compromissione minima vs. compromissione della libertà e della funzionalità quotidiana). Il punto discriminante non è la presenza o assenza di ansia — che è normale e adattiva — ma il fatto che diventi cronica, intensa e fuori proporzione rispetto alla situazione.
+
+---
+
+## Domande esame 04
+
+*(Estratte da `risorse/domande_esame_04.txt`)*
+
+**Definire la paura e le dimensioni che caratterizzano questa emozione.**
+
+Vedi risposta: "Qual è la differenza tra paura e ansia…" (per il confronto) e la sezione "Anatomia della paura". La paura ha: oggetto specifico (minaccia reale e presente), valutazione protocognitiva automatica, risposta comportamentale (fuga/attacco/mimetismo), funzione adattiva (protezione/salvezza), durata breve, sede neurologica nell'amigdala.
+
+**Reazioni a livello etologico alla paura.**
+
+Tre risposte biologiche alla minaccia: fuga (risposta tipica), attacco (quando la fuga è impossibile), mimetismo/immobilità (sparire dalla vista del predatore). Nel lavoro sociale: un utente che attacca durante un colloquio potrebbe essere un "gatto in un angolo" — la risposta etologica all'impossibilità percepita di fuga.
+
+**Aspetti che favoriscono o contengono la paura.**
+
+Vedi sezione "Il contesto conta" (schema a quattro quadranti). La paura è contenuta da: ambiente familiare/conosciuto, risorse disponibili, supporto relazionale. È amplificata da: ambiente non familiare, storia di esperienze negative con le figure di aiuto, minaccia presente e contesto ostile (area di massimo allarme). L'operatore può agire come "scudo di Atena" — mediare l'incontro con la paura abbassando l'attivazione.
+
+**Criterio orizzontale e criterio verticale dei MDD.**
+
+Vedi risposta sopra: "Qual è il criterio orizzontale e il criterio verticale…"
+
+**Cosa si intende per scopo, modalità d'uso e impatto nei MDD.**
+
+Vedi risposta sopra: "Cosa si intende per 'scopo', 'modalità d'uso' e 'impatto'…"
+
+**Gerarchia delle difese: differenziazione dei meccanismi di difesa in primari e secondari.**
+
+Vedi risposta: "Spiega la differenza tra meccanismi di difesa primitivi e maturi…" e la tabella della scala di maturità nella sezione "La scala di maturità".
+
+**Meccanismi di difesa e ambito psicopatologico.**
+
+Vedi risposta sopra: "Come si distribuiscono i meccanismi di difesa nelle principali aree psicopatologiche?"
 
 ---
 

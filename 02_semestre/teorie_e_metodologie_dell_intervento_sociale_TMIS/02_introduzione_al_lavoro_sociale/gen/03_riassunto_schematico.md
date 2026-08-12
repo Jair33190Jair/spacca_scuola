@@ -2,12 +2,12 @@
 TMIS · Sessione 02
 
 <!-- LEGENDA COLORI
-  🔵 #2980B9 — Definizione / concetto chiave
-  🟢 #27AE60 — Tesi centrale / affermazione fondamentale
-  🟠 #E67E22 — Esempio / caso concreto
-  🟣 #8E44AD — Dato / nome / data
-  🟡 #D4AC0D — Collegamento / implicazione
-  🔴 #CB4335 — Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 
 ---

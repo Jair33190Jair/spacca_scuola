@@ -37,7 +37,7 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 08
 
 - In vigore dal <span class="c-dato">1° luglio 2021</span> — legge LPTD
 - <span class="c-tesi">Obiettivo: evitare che i disoccupati anziani consumino il capitale del 2°/3° pilastro e finiscano all'aiuto sociale</span>
-- **Chi ne ha diritto:** perdita lavoro dopo i 58 anni + AD esaurita dopo i 60 anni + sostanza netta ≤ 50 000 fr (100 000 per coppie)
+- **Chi ne ha diritto:** perdita lavoro dopo i 58 anni + AD esaurita dopo i 60 anni + aver esercitato attività remunerata in Svizzera + sostanza netta ≤ 50 000 fr (100 000 per coppie)
   - <span class="c-warn">L'avere di previdenza professionale non conta come sostanza fino a 500 000 fr</span>
 - Modellate sulle Prestazioni Complementari (PC) all'AVS/AI
 - **Importi massimi annui:**

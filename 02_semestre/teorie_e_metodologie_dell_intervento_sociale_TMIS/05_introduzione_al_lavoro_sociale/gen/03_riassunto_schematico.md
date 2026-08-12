@@ -12,6 +12,14 @@ TMIS · Sessione 05
 
 ---
 
+## Circolarità comunicativa
+
+- <span class="c-def">**Circolarità** → ogni atto comunicativo genera feedback e contro-feedback</span>
+  - Elementi del sistema: contesto, emozioni, idee/intenzioni, comportamenti verbali/non verbali
+- <span class="c-warn">Non comunicare è impossibile → monitorare costantemente la qualità della propria comunicazione</span>
+
+---
+
 ## La relazione professionale
 
 - <span class="c-def">**Intenzionalità** → ogni azione orientata consapevolmente a una finalità (≠ spontaneità)</span>
@@ -92,6 +100,14 @@ TMIS · Sessione 05
 - <span class="c-warn">Pregiudizi → ineliminabili: si riconoscono, si monitorano</span>
 - <span class="c-tesi">Ascolto = atto politico ed educativo (dare voce e fiducia all'altro)</span>
 
+### Pregiudizio (<span class="c-dato">Tramma, 2018</span>)
+
+- <span class="c-def">**Pregiudizio** → giudizio anticipatorio, precondizione del nostro incontro con la realtà</span>
+- <span class="c-warn">Presunzione di neutralità = il più pericoloso dei pregiudizi</span>
+- Non si elimina → si rende **consapevole** e si monitora
+- Pregiudizio consapevole (con autoriflessività) → strumento ✓
+- Pregiudizio che fissa etichette → problema ✗
+
 ---
 
 ## Coinvolgimento emotivo
@@ -164,9 +180,10 @@ TMIS · Sessione 05
 | <span class="c-dato">Freire, P.</span> | Speranza come necessità ontologica | 2014 |
 | <span class="c-dato">Sicora</span> | Incidenti critici | 2010 |
 | <span class="c-dato">Bertotti, Fazzi, Rosignoli</span> | Competenze chiave del servizio sociale | 2021 |
+| <span class="c-dato">Gadamer, H.G.</span> | Pregiudizio come precondizione conoscitiva | 2000 |
 
 ---
 
 ### Parole chiave
 
-`intenzionalità` · `progettualità` · `meta-competenza` · `pratica riflessiva` · `riflessività` · `incidente critico` · `capacità critica` · `speranza` · `pathway` · `agency` · `ottimismo` · `empatia` · `danza relazionale` · `non sovrapponibilità` · `ascolto attivo` · `giusta vicinanza` · `fiducia` · `tolleranza` · `vissuto` · `esperienza` · `mediazione educativa` · `asimmetria` · `attenzione all'intero` · `pensiero divergente` · `creatività` · `pensiero complesso`
+`circolarità comunicativa` · `intenzionalità` · `progettualità` · `meta-competenza` · `pratica riflessiva` · `riflessività` · `incidente critico` · `capacità critica` · `pregiudizio consapevole` · `speranza` · `pathway` · `agency` · `ottimismo` · `empatia` · `danza relazionale` · `non sovrapponibilità` · `ascolto attivo` · `giusta vicinanza` · `fiducia` · `tolleranza` · `vissuto` · `esperienza` · `mediazione educativa` · `asimmetria` · `attenzione all'intero` · `pensiero divergente` · `creatività` · `pensiero complesso`

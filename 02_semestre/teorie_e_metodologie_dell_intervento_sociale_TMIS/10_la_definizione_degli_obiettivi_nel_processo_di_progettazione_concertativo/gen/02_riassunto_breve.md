@@ -83,6 +83,15 @@ TMIS · Sessione 10
 
 ---
 
+## Strategie di intervento e indicatori
+
+- <span class="c-def">**Strategie di intervento**</span> → *come* si agisce per raggiungere gli obiettivi; scelta condivisa basata sulla natura dei comportamenti da sviluppare
+- Negli approcci dialogici sono privilegiati i **momenti dialogici**: colloqui, incontri di rete, co-osservazione, ascolto nella relazione quotidiana
+- <span class="c-def">**Indicatori**</span> → elementi osservabili che misurano se il cambiamento atteso sta avvenendo (binari, frequenziali, numerici)
+- <span class="c-warn">Vanno definiti *prima* dell'intervento e condivisi con tutti gli attori</span>
+
+---
+
 ## Progetto scritto e firma condivisa
 
 - Tutto va scritto: garantisce continuità, chiarisce accordi, lascia traccia

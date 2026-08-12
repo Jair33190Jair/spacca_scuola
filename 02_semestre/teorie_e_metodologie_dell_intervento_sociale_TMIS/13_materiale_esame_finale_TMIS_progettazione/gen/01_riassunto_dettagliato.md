@@ -126,7 +126,7 @@ Prima di qualsiasi processo progettuale è necessario approfondire la conoscenza
 - Individuazione delle persone significative nella rete
 - Individuazione iniziale delle risorse e dei bisogni emancipativi
 
-Per <span class="c-def">**problema**</span> si intende la distanza tra una situazione esistente e una auspicata. Per <span class="c-def">**bisogni emancipativi**</span> si intendono le esigenze di crescita personale, autonomia e autodeterminazione.
+Per <span class="c-def">**problema**</span> si intende la distanza tra una situazione esistente e una auspicata. Per <span class="c-def">**bisogni emancipativi**</span> si intendono le esigenze di crescita personale, autonomia e autodeterminazione. Per <span class="c-def">**domanda**</span> si intende l'atto esplicito di richiesta di intervento e di aiuto che le persone rivolgono ai servizi socio-educativi: spesso la domanda esplicita contiene elementi impliciti da decodificare per cogliere i bisogni emancipativi reali sottostanti. <span class="c-warn">La connessione tra bisogno, problema e domanda non è sempre lineare: il protagonista del progetto può non essere consapevole di un bisogno rilevato da familiari o operatori.</span>
 
 **Analisi pedagogica dei problemi (<span class="c-dato">Brambilla, 2023</span>):** i problemi socio-educativi non sono mai determinati da un'unica causa ma da un intreccio di interpretazioni, difficoltà, vincoli e risorse. Va prestata particolare attenzione alla responsabilità interpretativa: evitare:
 - <span class="c-warn">interpretazioni diagnostiche deterministiche che ingabbiano le vite</span>
@@ -298,6 +298,7 @@ Distinzione fondamentale:
 | **Approccio euristico** | Problem solving cooperativo, obiettivi co-costruiti in corso d'opera |
 | <span class="c-def">**O'Sullivan A-D**</span> | Livelli di partecipazione: A (piena autodeterminazione) → D (solo informazione) |
 | <span class="c-def">**Progetto di vita (PdV)**</span> | Supera PSI/PEI: progetto co-costruito centrato sulla vita globale della persona |
+| <span class="c-def">**Domanda**</span> | Atto esplicito di richiesta di intervento ai servizi; può contenere elementi impliciti da decodificare per cogliere i bisogni emancipativi reali |
 | <span class="c-def">**Capabilities**</span> | Capacità/potenzialità delle persone da valorizzare (Sen) |
 | <span class="c-def">**Aspirare**</span> | Capacità di immaginare un futuro più favorevole (Appadurai); esercitata nel presente |
 | <span class="c-def">**ZSP**</span> | Zona di Sviluppo Prossimale (Vygotskij): distanza tra ciò che so fare da solo e con aiuto |

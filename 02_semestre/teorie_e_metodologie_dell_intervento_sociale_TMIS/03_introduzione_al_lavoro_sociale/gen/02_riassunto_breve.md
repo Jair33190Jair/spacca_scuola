@@ -25,7 +25,7 @@ TMIS · Sessione 03
 
 ## Qualità di Vita (QdV) — Schalock e Verdugo
 
-- <span class="c-def">Definizione <span class="c-dato">OMS (1995)</span>: percezione soggettiva della propria posizione nella vita rispetto a obiettivi, valori, contesto culturale</span>
+- Definizione <span class="c-dato">OMS (1995)</span>: <span class="c-def">percezione soggettiva della propria posizione nella vita rispetto a obiettivi, valori, contesto culturale</span>
 - **8 domini** in 3 aree:
   - *Indipendenza:* sviluppo personale, autodeterminazione
   - *Partecipazione sociale:* relazioni interpersonali, inclusione, diritti
@@ -38,7 +38,7 @@ TMIS · Sessione 03
 
 ## Salute e malattia
 
-- <span class="c-def"><span class="c-dato">OMS/Carta di Ottawa (1986)</span>: salute = stato di completo benessere fisico, sociale e mentale — **non** solo assenza di malattia</span>
+- <span class="c-dato">OMS/Carta di Ottawa (1986)</span>: <span class="c-def">salute = stato di completo benessere fisico, sociale e mentale — **non** solo assenza di malattia</span>
 - <span class="c-tesi">La salute è una **risorsa per la vita quotidiana**, non uno scopo in sé</span>
 - Pre-requisiti: pace, risorse economiche, cibo, abitazione, ecosistema stabile → è un **diritto sociale**
 
@@ -47,7 +47,7 @@ TMIS · Sessione 03
 - <span class="c-def">**Illness** → vissuto soggettivo del mal-stare</span>
 - <span class="c-def">**Sickness** → interpretazione sociale/culturale della malattia</span>
 
-<span class="c-def">**Benessere collettivo** (<span class="c-dato">Dal Pra Ponticelli</span>): sentirsi riconosciuti come collettività, partecipare attivamente, condividere solidarietà sociale</span>
+<span class="c-def">**Benessere collettivo**</span> (<span class="c-dato">Dal Pra Ponticelli</span>): sentirsi riconosciuti come collettività, partecipare attivamente, condividere solidarietà sociale
 
 ---
 

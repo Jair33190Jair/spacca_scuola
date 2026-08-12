@@ -78,6 +78,10 @@ TMIS · Lezione 12
 - Benessere: **emozionale, fisico, materiale**
 - 7 principi: multidimensionalità, olistica, temporalità, variabilità personale, unicità, empowerment, estendibile a tutti
 
+### Benessere collettivo (<span class="c-dato">Dal Pra Ponticelli, 2007</span>)
+- Sensazione positiva collettiva: sentirsi riconosciuti come collettività, partecipare attivamente, condividere solidarietà
+- <span class="c-impl">Non è la somma dei benesseri individuali — si genera nei legami sociali</span>
+
 ### Salute
 - <span class="c-dato">OMS</span>: completo benessere fisico, sociale e mentale (non solo assenza di malattia)
 - <span class="c-def">**Disease**</span> (vista medica) / <span class="c-def">**Illness**</span> (vista soggettiva) / <span class="c-def">**Sickness**</span> (vista sociale) — <span class="c-dato">Twaddle</span>

@@ -260,7 +260,32 @@ Fattori che deformano l'osservazione (da <span class="c-dato">Braga, 1994; Dovig
 - Motivazione, competenza ed esperienza
 - Tipo di contesto
 
+Tre principi aggiuntivi che le slide esplicitano (<span class="c-dato">Braga, 1994; Dovigo, 2014</span>):
+
+- <span class="c-tesi">**L'osservatore è osservato** (<span class="c-dato">Wragg</span>): chi osserva è a sua volta oggetto di sguardo
+  da parte delle persone con cui lavora. La relazione è bidirezionale.</span>
+- <span class="c-def">**L'osservatore partecipante appartiene al contesto**: non è mai un soggetto
+  esterno e neutro — è parte integrante del campo osservativo che contribuisce
+  a costruire con la sua presenza.</span>
+- <span class="c-warn">La mancata registrazione dei propri atteggiamenti e reazioni (auto-osservazione)
+  può produrre materiale distorto: gli interventi — o i non-interventi — dell'osservatore
+  provocano reazioni nel soggetto osservato, comprensibili solo in una prospettiva
+  interattiva.</span>
+
 > _"Non c'è osservazione senza auto-osservazione."_ (lezione 07)
+
+### Co-osservare per co-progettare
+
+Le slide introducono un concetto chiave che emerge dagli approcci dialogico-partecipativi
+(<span class="c-dato">Maida, Molteni, Nuzzo, 2022</span>, pp. 122-123):
+
+<span class="c-tesi">Nell'approccio dialogico-partecipato, **l'operatore sociale non è più l'esperto che da solo
+e in modo lineare definisce e verifica il progetto**. È invece l'**attivatore di un processo
+circolare di negoziazioni** con le diverse persone significative — professionali e non.</span>
+
+<span class="c-impl">Non si osserva mai solo per sé: si osserva per condividere, per costruire senso insieme alle
+persone coinvolte. Il dato osservativo diventa un punto di partenza del dialogo, non una
+conclusione.</span>
 
 ---
 

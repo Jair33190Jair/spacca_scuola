@@ -14,8 +14,10 @@ TMIS · Sessione 05
 
 ---
 
-## La relazione professionale
+## Circolarità comunicativa e relazione professionale
 
+- <span class="c-def">**Circolarità**: ogni atto comunicativo produce feedback e contro-feedback — non comunicare è impossibile</span>
+- La relazione avviene in un sistema dove contestualmente operano: contesto, emozioni, idee, intenzioni, comportamenti verbali e non verbali
 - <span class="c-def">**Intenzionalità**: ogni azione è consapevolmente orientata a una finalità — sai perché stai facendo quello che stai facendo</span>
 - <span class="c-def">**Progettualità**: la relazione prefigura un cambiamento futuro, non gestisce solo l'emergenza</span>
 - Non è spontanea né casuale: ha una *didattica relazionale* precisa (<span class="c-dato">Tramma, 2018</span>)
@@ -44,12 +46,13 @@ TMIS · Sessione 05
   - È una competenza che si apprende
 - <span class="c-tesi">Lavorare **con** le persone (non *per* gli altri): rispetta dignità e responsabilità dell'altro</span>
 
-## Ascolto e coinvolgimento emotivo
+## Ascolto, pregiudizio e coinvolgimento emotivo
 
 - <span class="c-def">**Ascolto**: ricevere con tutti i sensi, partendo dall'auto-osservazione — non cataloga, non giudica</span>
 - <span class="c-def">**Ascolto attivo**: atteggiamento partecipe, flessibile, consapevole dei propri pregiudizi e del contesto</span>
   - <span class="c-warn">I pregiudizi non si eliminano: si riconoscono e si monitorano</span>
   - È un atto politico: riconoscere l'altro, dargli voce e fiducia
+- <span class="c-def">**Pregiudizio** (<span class="c-dato">Tramma, 2018</span>): ineliminabile — pretendere di essere neutri è il pregiudizio più pericoloso. Va reso consapevole, non negato</span>
 - <span class="c-def">**Giusta vicinanza**: equilibrio tra troppo coinvolgimento (perdita di lucidità, iperprotezione) e troppo distacco (muro relazionale)</span>
 
 ## Fiducia e tolleranza

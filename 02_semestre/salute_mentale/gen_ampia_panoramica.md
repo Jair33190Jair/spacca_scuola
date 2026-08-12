@@ -3,6 +3,9 @@ Semestre 02 · 13 lezioni
 
 > Da cosa significa "stare bene" alle radici storiche della psichiatria, dai meccanismi con cui la mente si difende alle forme cliniche del disagio — nevrosi, psicosi, disturbi di personalità — fino al corpo come luogo della sofferenza (sessualità, alimentazione, emozioni, violenza). Il filo rosso è sempre lo stesso: la persona dietro la diagnosi, e la relazione come strumento di cura.
 
+<!-- Generata il 2026-06-15 da 13 riassunti schematici -->
+
+
 ---
 
 ## Mappa dei temi

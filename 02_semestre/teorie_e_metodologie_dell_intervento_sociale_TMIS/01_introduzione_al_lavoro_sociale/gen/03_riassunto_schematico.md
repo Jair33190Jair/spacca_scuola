@@ -1,11 +1,11 @@
 # Introduzione al Lavoro Sociale — Parte 1 · Schema
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 TMIS · Sessione 01
 
@@ -50,7 +50,8 @@ TMIS · Sessione 01
 ## Approccio anti-oppressivo (Allegri & Sanfelici, 2023)
 
 - <span class="c-def">**Oppressione**</span> → esclusione forzata da opportunità/risorse; esterna o interna (Freire)
-- **Discriminazione** → trattamento non paritario per appartenenza a un gruppo
+- <span class="c-def">**Discriminazione**</span> → trattamento non paritario per appartenenza a un gruppo (genere, etnia, disabilità, ecc.)
+- <span class="c-def">**Intersezionalità**</span> → discriminazioni multiple e sovrapposte; una persona subisce più oppressioni simultaneamente
 - **Coscientizzazione** (Freire) → presa di coscienza dei meccanismi di oppressione
 
 ### Il potere degli operatori
@@ -127,9 +128,10 @@ TMIS · Sessione 01
 | Gregory Bateson | Paradigma della complessità; causalità circolare | 1976 |
 | Gui | Ottica trifocale | 2004 |
 | Lipsky | Street-level bureaucrats (burocrati di strada) | 2010 |
+| Tramma, S. | Il lavoro educativo: valori, politica, prassi | 2024 |
 
 ---
 
 ### Parole chiave
 
-`modernità liquida` · `figura liquida` · `IFSW 2014` · `giustizia sociale` · `diritti umani` · `empowerment` · `saperi indigeni` · `oppressione` · `coscientizzazione` · `gatekeeper` · `discrezionalità` · `ottica trifocale` · `partecipazione sociale` · `causalità circolare` · `sistemi complessi` · `microsistema` · `mesosistema` · `esosistema` · `macrosistema` · `cronosistema` · `PPCT` · `reciprocità` · `globalità della persona`
+`modernità liquida` · `figura liquida` · `IFSW 2014` · `giustizia sociale` · `diritti umani` · `empowerment` · `saperi indigeni` · `oppressione` · `discriminazione` · `intersezionalità` · `coscientizzazione` · `gatekeeper` · `street-level bureaucrat` · `discrezionalità` · `ottica trifocale` · `partecipazione sociale` · `causalità circolare` · `sistemi complessi` · `microsistema` · `mesosistema` · `esosistema` · `macrosistema` · `cronosistema` · `PPCT` · `reciprocità` · `globalità della persona`

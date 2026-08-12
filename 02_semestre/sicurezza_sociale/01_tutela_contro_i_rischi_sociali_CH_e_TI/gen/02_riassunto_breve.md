@@ -21,6 +21,12 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 01
 - <span class="c-tesi">Non serve memorizzare tutto — serve **sapere dove cercare**</span>
 - Esame scritto finale; frequenza seminario **obbligatoria**; esercizio "**Storia di Isa**" da consegnare entro il 29 maggio
 
+**4 obiettivi di apprendimento formali:**
+1. Conoscere i diritti alle prestazioni per persone e famiglie confrontate agli imprevisti della vita
+2. Capire ruolo, organizzazione e funzionamento delle istituzioni erogatrici
+3. Comprendere e interpretare criticamente finalità, valori e principi della sicurezza sociale
+4. Saper contribuire al dibattito politico sullo Stato sociale
+
 ---
 
 ## Stato sociale e sicurezza sociale

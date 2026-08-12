@@ -23,7 +23,7 @@ TMIS · Sessione 03
 
 ## Qualità di Vita (QdV)
 
-- <span class="c-def">**Definizione OMS (<span class="c-dato">1995</span>)** → percezione soggettiva della propria posizione nella vita</span>
+- <span class="c-def">**Definizione OMS (1995)**</span> → percezione soggettiva della propria posizione nella vita
 - **Autori di riferimento** → <span class="c-dato">Schalock e Verdugo (2006/2008)</span>
 
 **8 Domini:**
@@ -52,7 +52,7 @@ TMIS · Sessione 03
 
 ## Salute e malattia
 
-- <span class="c-def">**OMS/Carta di Ottawa (<span class="c-dato">1986</span>)** → salute = completo benessere fisico, sociale, mentale</span>
+- <span class="c-def">**OMS/Carta di Ottawa (1986)**</span> → salute = completo benessere fisico, sociale, mentale
 - **Salute** → risorsa per la vita, non scopo in sé; diritto sociale
 - **Pre-requisiti** → pace, risorse economiche, cibo, abitazione, ecosistema stabile
 
@@ -96,9 +96,9 @@ TMIS · Sessione 03
 
 ## Autonomia
 
-- <span class="c-def">**Definizione** → governarsi con leggi proprie nella rete di dipendenze (<span class="c-dato">Tramma, 2018</span>)</span>
+- <span class="c-def">**Definizione**</span> → governarsi con leggi proprie nella rete di dipendenze (<span class="c-dato">Tramma, 2018</span>)
 - **Non è** → uno stato assoluto o assenza di dipendenza
-- <span class="c-def">**È** → un processo graduale (**autonomizzazione** — <span class="c-dato">Meirieu</span>)</span>
+- <span class="c-def">**È** → un processo graduale (**autonomizzazione**)</span> — <span class="c-dato">Meirieu</span>
 - **Compito operatore** → organizzare aiuti graduali → ridurli progressivamente
 - **Livello target** → superiore all'attuale, ma accessibile
 - <span class="c-warn">**Rischio** → confondere finta autonomia con abbandono (<span class="c-dato">Tramma</span>)</span>

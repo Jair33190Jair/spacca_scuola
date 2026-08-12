@@ -72,12 +72,21 @@ Teorie e Metodologie dell'Intervento Sociale (TMIS) · Sessione 04
 
 ---
 
-## Riflessività e pensiero critico (Profilo dell'educatore)
+## Riflessività e pensiero critico (Profilo dell'educatore — Oggionni)
 
 - <span class="c-def">**Riflessività** → capacità di riflettere sul proprio agire professionale e sui propri impliciti</span>
-- <span class="c-def">**Pensiero critico** → analisi profonda, messa in discussione degli assunti dati per scontati</span>
-- Testo di riferimento → <span class="c-dato">Oggionni F., *Il profilo dell'educatore*</span>
-- <span class="c-tesi">Entrambi = competenze professionali fondamentali, non accessori</span>
+  - Base teorica → <span class="c-dato">Dewey (1961)</span>: pensiero riflessivo = elaborazione intelligente sulla pratica ≠ routine/automatismo
+- <span class="c-def">**Pensiero critico e complesso** → articolazione osservazione/auto-osservazione (Morin, 1993)</span>
+  - Complessità = esplorabile (pensiero complesso) ≠ caotica (pensiero semplificante)
+- <span class="c-def">**Asimmetria della relazione educativa** → consapevolezza + intenzionalità + responsabilità</span>
+  - <span class="c-warn">NON implica superiorità/inferiorità fissa; relazione dinamica e bidirezionale</span>
+- L'educatore deve → confrontarsi con propria storia, pregiudizi, limiti personali
+- Spazi di riflessività:
+  - Formali → équipe, tavoli di rete
+  - Informali → confronto tra colleghi/utenti
+  - Meta-riflessivi → supervisione pedagogica, comunità di pratica
+- Testo di riferimento → <span class="c-dato">Oggionni F., *Il profilo dell'educatore*, Carocci Faber, 2019</span>
+- <span class="c-tesi">Riflessività + pensiero complesso = elementi costitutivi del lavoro educativo, non accessori</span>
 
 ---
 
@@ -91,9 +100,12 @@ Teorie e Metodologie dell'Intervento Sociale (TMIS) · Sessione 04
 | <span class="c-dato">Strategia di Lisbona / UNDESA</span> | Definizione inclusione come processo multidimensionale | 2000 / 2009 |
 | <span class="c-dato">Oggionni F.</span> | *Il profilo dell'educatore* — riflessività e competenze professionali | (lettura) |
 | <span class="c-dato">Angeloz Brügger et al.</span> | Autodeterminazione e disabilità intellettiva | 2022 |
+| <span class="c-dato">Cottini L.</span> | *L'autodeterminazione nelle persone con disabilità* | 2016 |
+| <span class="c-dato">Dewey J.</span> | Pensiero riflessivo come elaborazione intelligente sulla pratica | 1961 |
+| <span class="c-dato">Morin E.</span> | Pensiero complesso | 1993 |
 
 ---
 
 ### Parole chiave
 
-`autodeterminazione` · `agente causale` · `rischio misurato` · `integrazione` · `inclusione` · `segregazione` · `abilismo` · `macro finalità` · `riflessività` · `pensiero critico` · `deficit` · `barriere` · `multidimensionalità` · `contesto`
+`autodeterminazione` · `agente causale` · `rischio misurato` · `integrazione` · `inclusione` · `segregazione` · `abilismo` · `macro finalità` · `riflessività` · `pensiero critico` · `pensiero complesso` · `asimmetria educativa` · `deficit` · `barriere` · `multidimensionalità` · `contesto` · `supervisione pedagogica`

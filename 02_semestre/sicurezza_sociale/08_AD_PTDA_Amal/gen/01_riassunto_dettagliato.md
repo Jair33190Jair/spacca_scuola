@@ -85,9 +85,10 @@ Pensa alle PTDA come a un ponte tra la fine dell'AD e l'inizio della rendita di 
 
 1. Perdita del posto di lavoro **dopo i 58 anni**
 2. Esaurimento dell'indennità AD **dopo i 60 anni**
-3. Sostanza netta **non superiore a 50 000 franchi** (100 000 per coppie sposate)
+3. Aver esercitato un'**attività professionale remunerata in Svizzera**
+4. Sostanza netta **non superiore a 50 000 franchi** (100 000 per coppie sposate)
    - <span class="c-warn">L'avere di vecchiaia della previdenza professionale non è considerato sostanza fino a un importo di 500 000 franchi</span>
-4. Le spese riconosciute devono superare i redditi computabili
+5. Le spese riconosciute devono superare i redditi computabili
 
 ### Importi
 

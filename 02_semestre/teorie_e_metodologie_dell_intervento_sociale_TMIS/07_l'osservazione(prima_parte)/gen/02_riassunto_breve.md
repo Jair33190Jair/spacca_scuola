@@ -81,6 +81,11 @@ l'**interpretazione** emerge dal confronto collettivo e ha valore condiviso.</sp
   Come le mie reazioni influenzano le persone osservate?
 - Fattori che deformano l'osservazione: emotività, memoria, cultura,
   motivazione, esperienza, contesto.
+- <span class="c-def">**L'osservatore è osservato** (<span class="c-dato">Wragg</span>): la relazione è bidirezionale — chi osserva
+  è a sua volta oggetto di sguardo.</span>
+- L'osservatore partecipante **appartiene al contesto**: non è mai neutro né esterno.
+- <span class="c-tesi">Negli approcci dialogico-partecipativi l'operatore è **attivatore di un processo
+  circolare di negoziazioni**: co-osserva per co-progettare, non definisce il progetto da solo.</span>
 
 ### L'ampiezza del campo osservativo
 - Il campo è molto ampio: dinamiche di gruppo, velocità degli scambi

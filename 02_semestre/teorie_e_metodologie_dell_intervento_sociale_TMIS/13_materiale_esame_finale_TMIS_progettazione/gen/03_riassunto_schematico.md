@@ -63,6 +63,8 @@ TMIS · Sessione 13
 - Nascita idea → analisi idea → co-costruzione idea
   - <span class="c-def">**Problema**</span> → distanza tra situazione esistente e auspicata
   - <span class="c-def">**Bisogni emancipativi**</span> → esigenze di crescita, autonomia, autodeterminazione
+  - <span class="c-def">**Domanda**</span> → atto esplicito di richiesta di intervento ai servizi; contiene spesso elementi impliciti da decodificare
+  - <span class="c-warn">Nota: bisogno, problema e domanda non sempre coincidono → necessaria co-costruzione di lettura condivisa</span>
   - <span class="c-warn">**Analisi pedagogica** (<span class="c-dato">Brambilla</span>) → 5 trappole: letture deterministiche · oggettivizzazione · standardizzazione · ineducabilità preconcetta · custodia vs emancipazione</span>
 
 ### Desideri, Aspirazioni, Capabilities
@@ -161,4 +163,4 @@ TMIS · Sessione 13
 
 ### Parole chiave
 
-`progettazione` · `postura progettuale` · `sinottico-razionale` · `concertativo-partecipativo` · `euristico` · `dialogicità` · `O'Sullivan` · `livelli partecipazione` · `progetto di vita` · `PSI` · `PEI` · `ZSP` · `SMART` · `capabilities` · `aspirare` · `lettura condivisa` · `facilitatore` · `obiettivi generali` · `obiettivi specifici` · `azioni progettuali` · `verifica` · `esiti inattesi` · `osservazione partecipante` · `effetto Hawthorne` · `auto-osservazione` · `diario di bordo` · `griglia` · `check-list`
+`progettazione` · `postura progettuale` · `sinottico-razionale` · `concertativo-partecipativo` · `euristico` · `dialogicità` · `O'Sullivan` · `livelli partecipazione` · `progetto di vita` · `PSI` · `PEI` · `ZSP` · `SMART` · `capabilities` · `aspirare` · `domanda` · `bisogni emancipativi` · `lettura condivisa` · `facilitatore` · `obiettivi generali` · `obiettivi specifici` · `azioni progettuali` · `verifica` · `esiti inattesi` · `osservazione partecipante` · `effetto Hawthorne` · `auto-osservazione` · `diario di bordo` · `griglia` · `check-list`

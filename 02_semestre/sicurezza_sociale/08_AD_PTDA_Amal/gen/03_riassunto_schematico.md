@@ -51,6 +51,7 @@ Sicurezza Sociale e Forme di Solidarietà · Sessione 08
 |------------|-----------|
 | Perdita lavoro | Dopo i 58 anni |
 | AD esaurita | Dopo i 60 anni |
+| Attività in Svizzera | Aver esercitato attività professionale remunerata in Svizzera |
 | Sostanza netta | ≤ <span class="c-dato">50 000 fr</span> (persona sola) / <span class="c-dato">100 000 fr</span> (coppia) |
 | Previdenza prof. | <span class="c-warn">Non conta come sostanza fino a 500 000 fr</span> |
 

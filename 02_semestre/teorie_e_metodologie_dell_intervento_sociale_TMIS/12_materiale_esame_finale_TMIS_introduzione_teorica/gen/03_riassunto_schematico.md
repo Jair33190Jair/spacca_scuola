@@ -114,6 +114,11 @@ Principi: individuo attivo · reciprocità · strutture concentriche · visione 
 
 **7 principi**: multidimensionalità · olistica · temporalità · variabilità personale · unicità · empowerment · estendibilità a tutti
 
+### Benessere collettivo — <span class="c-dato">Dal Pra Ponticelli (2007)</span>
+
+- <span class="c-def">**Benessere collettivo**</span> → sentirsi riconosciuti come collettività · partecipare attivamente · condividere solidarietà sociale
+- <span class="c-impl">Qualcosa di diverso dalla somma dei benesseri individuali — si genera nei legami</span>
+
 ### Salute — <span class="c-dato">OMS</span>
 
 - Salute = completo benessere fisico, sociale e mentale (<span class="c-dato">1948</span>)

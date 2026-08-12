@@ -71,7 +71,7 @@ Obiettivi specifici
 Azioni / strategie di intervento
 ```
 
-Le <span class="c-def">**macrofinalità**</span> del lavoro sociale sono: autonomia, autodeterminazione, benessere individuale e collettivo, integrazione sociale, empowerment, autostima, autoefficacia.
+Le <span class="c-def">**macrofinalità**</span> del lavoro sociale sono: autonomia, autodeterminazione, benessere individuale e collettivo, integrazione sociale, empowerment, autostima, autoefficacia. A queste si aggiunge il <span class="c-def">**progetto di vita**</span> — aspirazione a lungo termine della persona, che può proiettarsi all'infinito e orienta l'intera direzione del lavoro sociale.
 
 <span class="c-es">Esempio: la macrofinalità è _autonomia_ → l'obiettivo generale è _aumentare l'autonomia negli spostamenti sul territorio_ → gli obiettivi specifici diventano azioni concrete e verificabili (vedi sezione SMART più avanti).</span>
 
@@ -188,6 +188,35 @@ Le azioni devono:
 
 ---
 
+## Le strategie di intervento
+
+Una volta definite le azioni, si scelgono le <span class="c-def">**strategie di intervento**</span>: le modalità con cui si intende agire per favorire il raggiungimento degli obiettivi.
+
+La scelta delle strategie avviene in modo condiviso con tutti gli attori e dipende dalla **natura dei comportamenti** che si vogliono consolidare, sviluppare o trasformare: cognitivi, metacognitivi, operativi, relazionali, comunicativi, di sviluppo globale della persona.
+
+<span class="c-tesi">Negli approcci dialogico-partecipativi, le strategie privilegiate sono i **momenti dialogici**: colloqui individuali, incontri di rete, co-osservazione, spazi di ascolto durante la relazione quotidiana.</span>
+
+<span class="c-impl">La strategia non è la stessa dell'azione. L'azione dice *cosa* si fa; la strategia dice *come* si fa e *con quale logica* — e deve essere coerente con gli obiettivi e con il contesto della persona.</span>
+
+---
+
+## Gli indicatori di valutazione
+
+Per poter monitorare e valutare il progetto, ogni obiettivo specifico deve avere dei <span class="c-def">**indicatori**</span>: elementi osservabili che permettono di capire se e quanto il cambiamento atteso sta avvenendo.
+
+Secondo <span class="c-dato">Traverso (2016)</span>, l'indicatore è "l'elemento quantitativo che aiuta a misurare gli obiettivi, esplicitando lo standard di riferimento: ciò che mi aspetto possa accadere e che sia realisticamente raggiungibile."
+
+Gli indicatori possono essere:
+- **Binari** (sì/no): la persona ha fatto X o no?
+- **Frequenziali**: sempre / qualche volta / mai
+- **Numerici**: quante volte a settimana, con quale percentuale di riuscita
+
+<span class="c-es">Esempio: per l'obiettivo "X si reca autonomamente al posto di lavoro", l'indicatore è "X raggiunge il posto di lavoro in autonomia per almeno 4 giorni su 5 nella settimana, senza l'accompagnamento dell'educatore."</span>
+
+<span class="c-warn">Attenzione: l'indicatore deve essere definito *prima* dell'intervento, non a posteriori. Condividerlo con tutti gli attori sin dall'inizio è già un atto di responsabilità condivisa.</span>
+
+---
+
 ## Il progetto scritto
 
 Tutti gli obiettivi e le azioni vanno messi **per iscritto**. Non è burocrazia:
@@ -243,6 +272,8 @@ Il monitoraggio serve a:
 | **Zona effettiva** | Ciò che la persona sa fare da sola oggi |
 | **Zona di sviluppo potenziale** | Ciò che per ora è fuori portata anche con accompagnamento |
 | <span class="c-def">**Azioni progettuali**</span> | Interventi concatenati che tutti gli attori coinvolti attuano per raggiungere ogni obiettivo specifico |
+| <span class="c-def">**Strategie di intervento**</span> | Modalità condivise con cui si agisce per raggiungere gli obiettivi; negli approcci dialogici privilegiano i momenti dialogici |
+| <span class="c-def">**Indicatori**</span> | Elementi osservabili che misurano se il cambiamento atteso sta avvenendo; definiti e condivisi prima dell'intervento |
 | <span class="c-def">**Valutazione in itinere**</span> | Valutazione continua durante il progetto, serve a modificarlo e orientarlo |
 | **Verifica** | Valutazione finale — scarto tra attese e risultati; include gli esiti inattesi |
 | <span class="c-def">**Corresponsabilità**</span> | Distribuzione delle azioni e delle responsabilità tra tutti gli attori della rete |

@@ -1,11 +1,11 @@
 # Introduzione al Lavoro Sociale — Parte 1 · Sintesi
 <!-- LEGENDA COLORI
-  🔵 Blu    #2980B9 → Definizione / concetto chiave
-  🟢 Verde  #27AE60 → Tesi / argomento centrale
-  🟠 Arancio #E67E22 → Esempio / caso concreto
-  🟣 Viola  #8E44AD → Dato / nome / data
-  🟡 Oro    #D4AC0D → Connessione / implicazione
-  🔴 Rosso  #CB4335 → Attenzione / eccezione
+  🔵 c-def  → Definizione / concetto chiave
+  🟢 c-tesi → Tesi / argomento centrale
+  🟠 c-es   → Esempio / caso concreto
+  🟣 c-dato → Dato / nome / data
+  🟡 c-impl → Connessione / implicazione
+  🔴 c-warn → Attenzione / eccezione
 -->
 TMIS · Sessione 01
 
@@ -41,7 +41,9 @@ TMIS · Sessione 01
 ## Approccio anti-oppressivo
 
 - L'<span class="c-def">**oppressione**</span> = esclusione forzata di persone/gruppi da opportunità e risorse; può essere esterna o interna (interiorizzata — Freire)
-- Gli operatori detengono **potere enorme** (gatekeeper, discrezionalità) e spesso non ne sono consapevoli
+- La <span class="c-def">**discriminazione**</span> = trattamento non paritario per appartenenza a un gruppo; si intreccia con l'oppressione
+- <span class="c-impl">**Intersezionalità**: le discriminazioni si sovrappongono — una persona può subire contemporaneamente discriminazione per genere, etnia, disabilità, ecc.</span>
+- Gli operatori detengono **potere enorme** (gatekeeper, discrezionalità — **Lipsky**: "street-level bureaucrats") e spesso non ne sono consapevoli
 - Etichettare le persone con diagnosi rigide contribuisce a co-costruire sistemi oppressivi
 - La pratica anti-oppressiva richiede: consapevolezza critica del potere, analisi a più livelli, **partecipazione autentica** delle persone
 - <span class="c-def">**Ottica trifocale**</span> (Gui): operare simultaneamente su micro (persona), meso (relazioni tra sistemi), macro (strutture sociali)
@@ -81,3 +83,5 @@ TMIS · Sessione 01
 - **Modernità liquida** → incertezza strutturale del mondo e della professione
 - **Definizione IFSW 2014** → giustizia sociale + diritti umani + empowerment + saperi indigeni
 - **Bronfenbrenner** → 5 sistemi concentrici (micro · meso · eso · macro · crono) + PPCT
+- **Intersezionalità** → le discriminazioni si intrecciano; l'oppressione è sempre multi-dimensionale
+- **Lipsky** → gli operatori sono "burocrati di strada": la loro discrezionalità è potere reale da riconoscere
