@@ -1,0 +1,1181 @@
+[FONTE: cap__1__L_approccio_sistemico_nelle_relazioni.pdf]
+
+Edmond Marc, Dominique Picard
+La scuola di Palo Alto
+
+La storia di un gruppo di scienziati che ha aperto
+nuove vie allo studio della comunicazione e della
+salute mentale.
+
+A Palo Alto, in California, nei primi anni Cinquan-
+ta si è raccolto un gruppo di studiosi di diversa
+formazione culturale con l’obiettivo di studiare gli
+aspetti psicologici della comunicazione umana.
+Gregory Bateson (autore di Verso un’ecologia
+della mente), una delle menti più fertili del gruppo,
+ha applicato alla psichiatria le sue conoscenze
+antropologiche e si è dedicato in particolare allo
+studio dei processi della comunicazione nei distur-
+bi mentali. Ma è stato Paul Watzlawick a giocare
+il ruolo più importante nella diffusione delle ricer-
+che di Palo Alto, grazie anche alle sue capacità di
+divulgatore. Si pensi solo al successo di libri come
+Istruzioni per rendersi infelici o Di bene in peggio,
+testi divertenti ma allo stesso tempo veicoli di
+diffusione di una nuova proposta di approccio ai
+problemi dei rapporti interpersonali.
+
+Come illustra questo libro, la metodologia del
+gruppo di Palo Alto si basa sul postulato che è
+impossibile non comunicare, e così lo stretto rap-
+porto che viene posto tra il comportamento di un
+individuo e la comunicazione che intercorre tra lui
+e gli altri diventa il perno di una visione intera-
+mente rinnovata della psicologia. Psicologia so-
+ciale e psicologia individuale cessano quindi di
+essere distinte.
+
+99 LÌ 051 I
+
+---
+
+Edmond Mare è psicologo e ricercatore presso il Centre de Sémiotique
+dell’Università di Parigi X. (
+Dominique Picard è assistente di Psicologia e ricercatrice presso il | L M A R
+laboratorio di Psicologia Sociale dell’Università di Parigi X. hà
+
+D. PICARD
+
+LA SCUOLA DI
+PALO ALTO
+
+red studio redazionale, via Volta 43, 22100 Como, © 1996 {
+Traduzione di Riccardo D'Este dall’originale francese L’Ecole de Palo
+Alto, Retz, Parigi, © 1984. |
+
+Redazione di Andrea Antonini. Coordinamento di Paolo Giomo. |
+ci. red
+I edizione 1996 edizioni
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+di comunicazioni che si rispondono e si implicano recipro-
+camente. Osservando la successione dei messaggi ricollo-
+cati nel loro contesto orizzontale (la sequenza dei mes-
+saggi che precedono e che seguono) e nel loro contesto ver-
+ticale (la relazione tra gli interagenti e il sistema in cui
+essa si inserisce), è possibile estrarre una logica della co-
+municazione, un insieme coerente di regole e di concetti
+(capitolo 2). Infine, la terza ipotesi è che i turbamenti psi-
+chici della personalità di cui si deve occupare lo psichia-
+tra o lo psicologo possono venir ricondotti a delle pertur-
+bazioni della comunicazione tra l'individuo portatore di
+sintomi e il suo ambiente circostante.
+
+Esiste, dunque, una patologia della comunicazione i cui
+meccanismi consentono di comprendere la maggioranza
+delle pretese ‘malattie mentali (capitolo 3).
+
+20
+
+1
+L'approccio sistemico
+alle relazioni umane
+
+La Scuola di Palo Alto non ha ‘inventato’ il procedimento
+sistemico. Il suo merito è di aver cercato di applicarlo in
+maniera metodica e rigorosa al terreno delle relazioni uma-
+ne e in particolare ai turbamenti psichici. È questo che.
+costituisce la vera innovazione rispetto ai precedenti pro-
+cedimenti della psicologia.
+
+L'approccio sistemico non è una nuova scienza e neppu-
+re una nuova disciplina; è un punto di vista originale sul-
+la realtà, un metodo per affrontare i fenomeni complessi.
+Consente una visione sintetica dei problemi, mentre per
+lungo tempo nelle scienze è prevalso un procedimento ana-
+litico.
+
+Laddove l’analisi scompone un fenomeno in molte parti
+elementari di cui studia le proprietà e va dal semplice al
+complesso, la sintesi cerca di pensare la totalità nella sua
+struttura e nella sua dinamica; invece di dissociare, ri-
+compone l'insieme delle relazioni significative che legano
+elementi in interazione, attitudine cui corrisponde per l’ap-
+punto la nozione di sistema; questa non rinvia tanto alla
+definizione di un oggetto particolare quanto piuttosto a
+una prospettiva specifica e feconda su settori molto diver-
+si della realtà psichica, biologica e umana.
+
+Ma forse un rapido excursus storico è necessario per
+chiarire queste nozioni un po’ teoriche e mostrare a quali
+preoccupazioni concrete abbia risposto l’approccio siste-
+mico e quale ne sia la portata operativa!.
+
+Il matrimonio fra l’elettronica e la biologia
+
+La nozione di sistema non è completamente nuova. Gli
+economisti del XIX secolo la utilizzavano senza saperlo,
+
+21
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+quando tentavano di costruire un modello generale del-
+l'economia che rendesse conto delle relazioni tra l’offerta,
+la domanda, la moneta, il capitale...; e anche Karl Marx
+quando si sforzava di mettere in rapporto, in una visione
+globale della società, le infrastrutture economiche e le so-
+vrastrutture politiche, sociali e ideologiche.
+
+Tuttavia, il modo di procedere sistemico ha conosciuto
+un nuovo slancio e una nuova portata negli Stati Uniti
+negli anni Quaranta, quando ha potuto utilizzare degli
+strumenti di grande efficacia come la cibernetica e, un po’
+più tardi, l'informatica e la robotica.
+
+Il padre della cibernetica è Norbert Wiener, matemati-
+co che, prima dell’ultima guerra, insegnava al MIT (Mas-
+sachusetts Institute of Technology). Nel 1940, lavora con
+un giovane ingegnere alla messa a punto di apparecchi di
+pilotaggio automatico per cannoni antiaerei. Scoprono
+allora che simili servomeccanismi presentano talune ana-
+logie sorprendenti con il funzionamento del sistema ner-
+voso; dimostrano in particolare che per controllare un’azio-
+ne orientata verso un fine (come la DCA), la circolazione
+delle informazioni necessarie deve formare un ‘ciclo’ chiuso
+in cui la macchina valuta gli effetti delle sue azioni e cor-
+regge il suo comportamento futuro utilizzando le presta-
+zioni passate: questo procedimento viene designato con
+la nozione di feedback (o retroazione). Da allora il proce-
+dimento cibernetico consiste sempre più nell’applicare a
+tutti i terreni di condotta e di gestione di organismi com-
+plessi i modelli nati dall'incontro tra la meccanica e la
+biologia. Viene fondato un seminario che riunisce mate-
+matici, neurofisiologi e ingegneri elettronici. Poco a poco
+si costituiscono le basi di un linguaggio comune (appren-
+dimento, memoria, regolazione, retroazione, omeostasi,
+eccetera).
+
+Nello stesso tempo, questo nuovo procedimento si esten-
+de ad altre discipline, come l’economia, ia gestione azien-
+dale, la sociologia o l'antropologia; in quest’ultimo settore
+Margaret Mead e Gregory Bateson si mostrano molto in-
+teressati alle ricerche di Wiener e si sforzano di applicar-
+le alla comprensione dei processi culturali. Negli anni
+Cinquanta, una nuova invenzione va a dare un impulso
+decisivo alle ricerche sull’intelligenza artificiale e i robot:
+
+22
+
+L’APPROCCIO SISTEMICO ALLE RELAZIONI UMANE
+
+il computer. Uno dei più efficaci per l’epoca viene costrui-
+to nel 1951 al MIT da un giovane elettronico che si occu-
+pava del laboratorio dei servomeccanismi, Jay Forrester:
+utilizza una memoria magnetica ultrarapida. Poco tempo
+dopo, Forrester viene incaricato dai servizi della Difesa
+di studiare un sistema di allerta per proteggere il territo-
+rio americano; mette a punto una rete che accoppia radar
+e computer e coglie, in questa circostanza, l’importanza
+dell'approccio sistemico per concepire e controllare degli
+insiemi molto complessi di interazioni che comportano l’in-
+tervento di uomini e di macchine.
+
+Una nuova tappa è segnata dalla creazione, nel 1954,
+da parte di un biologo, Ludwig von Bertalanffy, di un’équi-
+pe di ricerca che tenta di inglobare la cibernetica in una
+pratica più vasta: lo studio generale dei sistemi3.
+
+Ricordiamo che è nel 1952 che Gregory Bateson lancia,
+anche lui in una prospettiva sistemica, il suo progetto di
+ricerca sulla comunicazione a Palo Alto.
+
+Pertanto l’approccio sistemico discende da un incontro
+interdisciplinare e dalla reciproca fecondazione dell’elet-
+tronica e della biologia, in cui la macchina tenta di copia-
+re l'organismo vivente e dove la comprensione dei proces-
+si umani e sociali trova uno strumento e una convalida
+nella messa a punto dei servomeccanismi e di modelli sem-
+pre più complessi.
+
+1. Che cos’è un sistema?
+
+La nozione di sistema è una nozione assai generale che è
+stata l'oggetto di numerose definizioni. La più usuale è:
+«Insieme di elementi talmente in interazione che una qual-
+siasi modificazione di uno di essi comporta una modifica-
+zione di tutti gli altri». Si vede che si tratta di una defini-
+zione estremamente ampia, che può venir applicata pra-
+ticamente a ogni fenomeno.
+
+Portiamo subito un esempio: la cellula di un organismo
+vivente può venir considerata come un sistema; costitui-
+sce una totalità che obbedisce a delle regole precise, man-
+tiene la sua organizzazione interna nonostante il flusso
+di energia e di materiali che la attraversa. Per assicurare
+
+28
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+la permanenza della sua struttura e delle sue funzioni,
+ricorre a degli agenti di trasformazione, gli enzimi, che
+sono dei catalizzatori che controllano l’attività cellulare,
+e a degli acidi nucleici che contengono le informazioni ne-
+cessarie all’assemblaggio delle proteine e degli enzimi e
+alla riproduzione della cellula. È anche provvista di mo-
+lecole-segnali che permettono le comunicazioni. Una mem-
+brana assicura il filtro della comunicazione con l’esterno
+e controlla le entrate e le uscite di energia e di informa-
+zioni. Il controllo ultimo dell’attività cellulare passa per
+la sintesi degli enzimi realizzata a partire da modelli con-
+tenuti nel nucleo; questo meccanismo viene realizzato da
+dei ‘repressori’ che bloccano o sbloccano l'informazione
+che proviene dagli acidi nucleici. Così la cellula appare
+«come un sistema autoregolato, trasformatore di energia,
+capace in ogni momento di equilibrare la sua produzione
+in funzione del consumo interno e dell’energia di cui di-
+spone»?.
+
+Struttura, funzione e comunicazione
+
+A partire da questo esempio si possono ricavare le carat-
+teristiche essenziali di un sistema:
+
+— Anzitutto presenta una struttura composta da un limite
+che separa il sistema dal suo ambiente e da elementi che
+possiedono certe proprietà e che sono legati tra di loro da
+una rete di comunicazione che consente la circolazione di
+energia, di materie e di informazioni tra gli elementi.
+
+— Un sistema ha anche un aspetto funzionale. Il funziona-
+mento viene assicurato da alcuni flussi di energia, di in-
+formazioni o di elementi che percorrono il sistema e assi-
+curano la sua conservazione, la sua autoregolamentazio-
+ne. la sua riproduzione e il suo adattamento all'ambiente.
+La maggior parte di queste funzioni implica lo scambio di
+informazioni e in particolare un’informazione sullo stato
+del sistema stesso e del suo ambiente; questo ruolo viene
+svolto da cicli di retroazione (0 feedback) che, tenendo conto
+dei dati raccolti, assicurano la regolamentazione dei pro-
+cessi funzionali.
+
+24
+
+L’APPROCCIO SISTEMICO ALLE RELAZIONI UMANE
+
+— In gran parte, i sistemi sono in comunicazione con il
+loro ambiente; vi sono delle ‘entrate’ (input) che sono il
+risultato dell’azione dell'ambiente sul sistema e delle ‘usci-
+te’ (output) che corrispondono alle azioni del sistema sul-
+l’ambiente. I cicli di retroazione rinviano anche delle in-
+formazioni sui risultati di un’azione o di una trasforma-
+zione sotto forma di entrate che, a loro volta, provoche-
+ranno in uscita altre azioni o trasformazioni rivolte verso
+l'interno o l’esterno del sistema.
+
+Queste sono le caratteristiche di ogni sistema, sia che si
+tratti di una cellula, di una vettura, di un’azienda o di
+una città.
+
+L’applicazione ai sistemi umani
+
+La teoria generale dei sistemi non riguarda soltanto i si-
+stemi meccanici, biologici o economici. Può venir applica-
+ta anche alle relazioni umane. Questo non significa affat-
+to che si cerchi di fornire una visione meccanicista dei
+fenomeni umani; non è questione di trattare nello stesso
+modo il funzionamento di un computer e quello di un grup-
+po di persone, ma di estendere a campi diversi, con le li-
+mitazioni e le trasposizioni necessarie, un procedimento
+teorico comparabile.
+
+Se, quindi, ci si propone di elaborare un’analisi sistemi-
+ca delle relazioni umane, gli oggetti che costituiscono gli
+elementi del sistema saranno gli individui in interazione.
+Gli attributi che sono le proprietà di questi oggetti saran-
+no le loro azioni e le loro reazioni, le loro attitudini, i loro
+ruoli 0, in modo più generale, i loro comportamenti. E le
+relazioni tra gli oggetti saranno le interazioni che si svi-
+luppano tra gli individui presi in considerazione.
+
+La nozione di interazione è, dunque, una nozione cen-
+trale in un procedimento sistemico. Comporta, nella sua
+stessa etimologia, l’idea di una mutua relazione, di un’azio-
+ne reciproca; quindi suppone la compresenza (almeno in
+certi momenti) di individui che interagiscono; suggerisce
+meno l’idea di un vettore lineare del tipo stimolo-risposta
+(A agisce su B) che non quella di un ciclo in cui le reazioni
+di B influenzano a loro volta A e dove ciascun comporta-
+
+25
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+mento dei protagonisti svolge, a seconda del punto di vi-
+sta che si adotta, il ruolo di stimolo o di risposta (o di
+rinforzo) in rapporto al comportamento degli altri. L’inte-
+razione implica la comunicazione, ma quest’ultima va in-
+tesa in senso ampio: può essere verbale o non verbale; in
+una situazione di compresenza e di relazione, ogni com-
+portamento, sia esso vocale, gestuale o posturale, assume
+un valore comunicativo. In questa prospettiva, si può de-
+finire l'interazione come una sequenza di messaggi scam-
+biati da alcuni individui in relazione reciproca.
+
+Un sistema non si individua soltanto per le sue caratte-
+ristiche interne, ma anche per l’ambiente nel quale si si-
+tua, che si può designare con la nozione di contesto. Il con-
+testo è l’insieme degli elementi dell'ambiente i cui attri-
+buti colpiscono il sistema o da esso ne sono colpiti. Così,
+l'interazione all’interno di un gruppo di persone non sarà
+la stessa a seconda che queste persone si trovino in un
+contesto professionale, in casa di una di esse o in un loca-
+le notturno. Questo esempio non deve suggerire che il con-
+testo si riduce a un quadro materiale; è altresì un quadro
+simbolico, un insieme di norme culturali e sociali, un’isti-
+tuzione nel senso antropologico del termine (vale a dire,
+l'insieme delle regole che governano questa o quest'altra
+situazione d’interazione).
+
+I sistemi umani sono, in generale, dei sistemi aperti,
+che comunicano in modo costante con il loro ambiente.
+Pertanto l’insieme formato da un sistema e il suo conte-
+sto può venir considerato esso stesso come un sistema;
+per esempio, se si considerano come sistema le intera-
+zioni tra gli agenti di un servizio, risituando questo ser-
+vizio nel quadro dell’azienda esso diventa un sottosiste-
+ma in rapporto alla totalità inglobante. Vale a dire che
+abbiamo a che fare con un sistema gerarchizzato in cui
+ciascun livello serve da contesto per il livello inferiore (il
+servizio è il contesto in cui si inscrive, per esempio, la
+
+relazione tra due agenti) e da elemento per il livello su--
+
+periore (il sistema ‘azienda’ viene colto come un’intera-
+zione di servizi).
+
+La conclusione metodologica di queste osservazioni è che
+lo studio di un sistema di interazioni include l'assunzione
+del contesto in cui queste interazioni si inscrivono.
+
+26
+
+L'APPROCCIO SISTEMICO ALLE RELAZIONI UMANE
+
+2. Le proprietà dei sistemi aperti
+
+In che modo le caratteristiche generali dei sistemi si spe-
+cificano per i sistemi aperti di interazione?
+
+1. Il principio di totalità
+
+Poiché un sistema si definisce come un insieme di relazio-
+ni, non si può affrontarlo come un semplice aggregato di
+elementi indipendenti; un gruppo non è una raccolta di
+individui; se si vuole cogliere ‘la dinamica di gruppo’, bi-
+sogna situarsi al livello della totalità e non al livello degli
+individui; così, differenti gruppi possono presentare delle
+caratteristiche comuni che sono indipendenti dagli indi-
+vidui che li compongono. Il corollario di questa nozione di
+totalità è che un sistema non è riducibile alla somma dei
+suoi elementi. Per riprendere l’esempio precedente, un
+gruppo non è la somma degli attributi dei membri che lo
+compongono (l'osservazione classica dei fenomeni di folla
+mostra, per esempio, che gli esseri umani, quando sono riu-
+niti in gran numero, possono avere dei comportamenti che
+sono loro del tutto inabituali; così, dei pacifici cittadini pos-
+sono trasformarsi in un’orda scatenata avida di violenza: è
+dunque la totalità,.la folla, che consente di spiegare la con-
+dotta degli elementi, gli individui, e non l’inverso).
+
+Questo principio ha anch’esso delle conseguenze meto-
+dologiche molto importanti e assai spesso trascurate: per
+comprendere i processi di interazione, non si può partire
+da nozioni proprie all’individuo (come quelle di aspirazio-
+ni, di motivazione o di personalità), ma, al contrario, è
+l’analisi sistemica di questi processi (che si poggia su al-
+cuni concetti specifici che verranno esposti nel prossimo
+capitolo) che può chiarire le caratteristiche individuali.
+In questo caso si tratta, di fatto, di una vera rivoluzione
+nel modo di procedere delle scienze umane.
+
+Un altro corollario del principio di totalità è che non si
+può procedere a un approccio lineare e unilaterale dell’in-
+terazione (come azione di una persona su un’altra perso-
+na). Non soltanto non si può studiare, per esempio, il com-
+portamento del bambino come una realtà in sé, indi-
+pendentemente dalle sue relazioni con i genitori, ma non
+
+27
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+si può analizzare la relazione madre-bambino semplice-
+mente come la reazione e l'adattamento di quest’ultimo
+agli stimoli materni; il comportamento della madre è esso
+stesso una reazione al comportamento del bambino; è
+dunque l’interazione madre-bambino, ricollocata nel con-
+testo famigliare, che è l’unità pertinente per capire e ana-
+lizzare questa o quella condotta particolare (contrariamen-
+te al senso comune che tende a riferire tutto al ‘carattere’
+del bambino o al discorso della pediatria che pone unica-
+mente l’accento sulle attitudini educative dei genitori).
+
+2. Il principio di retroazione
+
+Il feedback o retroazione conduce a un superamento della
+concezione lineare della causalità. Se il comportamento
+del bambino non può ‘spiegare’ quello della madre, né l’op-
+posto, bisogna giungere alla visione di una causalità cir-
+colare in cui ciascuno dei comportamenti è dentro un gio-
+co complesso di implicazioni, di azioni e di retroazioni che
+li collega all’altro. Se, per esempio, il bambino non vuole
+mangiare, non è perché ha un cattivo carattere o perché
+vuol fare arrabbiare sua madre, eccetera. Forse è perché
+entrambi sono all’interno di una relazione di reciproca
+sfida che si è cristallizzata sul cibo e in cui si esprime
+l'inadeguatezza delle domande e delle risposte tra la ma-
+dre e il bambino; l'insistenza materna non fa che alimen-
+tare il rifiuto del bambino dentro una spirale che, in certi
+casi, può diventare drammatica.
+
+Sì distinguono due forme di retroazione, positiva e ne-
+gativa.
+
+La retroazione positiva è quella che porta ad accentua-
+re un fenomeno: è l’effetto ‘valanga’. La ‘scenata’ è un’ot-
+tima esemplificazione di ciò: la signora mostra dell’irrita-
+zione, il signore vi risponde aggressivamente, la signora
+s’innervosisce, il signore comincia ad urlare e ben presto
+volano le stoviglie.
+
+La retroazione negativa tende, al contrario, a smorzare
+un fenomeno: se, nell'esempio precedente, all’aggressivi-
+tà del marito la moglie risponde con un atteggiamento di
+sottomissione e di tranquillizzazione, la ‘scenata’ può ve-
+nir disinnescata e il rapporto può ritornare a un equili-
+
+28
+
+L'’APPROCCIO SISTEMICO ALLE RELAZIONI UMANE
+
+brio armonioso. La retroazione negativa costituisce dun-
+que un meccanismo di regolazione che tende a conservare
+il sistema in uno stato stabile; corregge gli effetti dei fat-
+tori interni o esterni che potrebbero modificare il suo equi-
+librio. Vogliamo sottolineare che la stabilità non è per for-
+za l'immobilità: come viene suggerito dall’immagine del-
+la bicicletta, può ben avere un carattere dinamico ed es-
+sere il risultato dell’equilibrio tra un gioco di forze in per-
+petuo movimento; si parla allora di stato quasi staziona-
+rio, cosa che è differente dallo stato statico.
+
+3. Il principio di omeostasi
+
+È il carattere di un sistema autoregolato; un simile siste-
+ma reagisce a ogni perturbazione di origine interna o che
+proviene dall'ambiente circostante con una serie di mec-
+canismi regolatori che riportano l’insieme al suo stato ini-
+ziale. E una delle caratteristiche più importanti dei siste-
+mi aperti complessi e che si ritrova specificatamente nei
+sistemi ecologici, biologici o sociali; gli organismi viventi,
+per esempio, sono dei sistemi omeostatici ed è ciò che con-
+sente loro di preservare il loro equilibrio e la sopravviven-
+za in un ambiente circostante che cambia. Lo stesso vale
+per le istituzioni sociali; e le norme, le regole, le usanze
+trasmesse in particolar modo dall’educazione giocano un
+ruolo simile a quello delle regolazioni biologiche.
+L'omeostasi è quindi una caratteristica necessaria dei
+sistemi aperti di interazione che assicura loro un’identità
+e una permanenza attraverso il tempo, ma è anche un
+meccanismo che si oppone al cambiamento e che può, dun-
+que, quando un sistema deve affrontare delle modifica-
+zioni interne o contestuali importanti, nuocere alle sue
+capacitò adattative. Un’omeostasi rigida può assumere in
+questi casi un significato negativo per il buon funziona-
+mento del sistema. Prendiamo l’esempio del sistema di
+insegnamento: svolge un ruolo centrale di regolazione al-
+l'interno del sistema, assicurando la trasmissione delle
+norme e dei valori culturali fondamentali, preparando la
+formazione professionale, contribuendo alla socializzazio-
+ne dei ragazzi, eccetera. Dopo la seconda guerra mondia-
+le, il sistema scolastico è stato sempre più colpito dalla
+
+29
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+crescita demografica, che, al di là di una certa soglia quan-
+titativa, ha assunto un significato qualitativo. I processi
+omeostatici spesso hanno frenato l'adattamento del siste-
+ma educativo rispetto a questo nuovo contesto demografi-
+co e sociale, ciò che conduce oggi a un non adattamento
+sempre più evidente tra la scuola e il suo contorno econo-
+mico, sociale e culturale.
+
+Uno dei grandi problemi dei sistemi umani è dunque di
+giungere a conciliare riproduzione ed evoluzione, perma-
+nenza e cambiamento.
+
+4. Il principio di equifinalità
+
+Questo principio pone l’accento sull'importanza della strut-
+tura in rapporto alla genesi. L'evoluzione dei sistemi fa sì
+che le loro caratteristiche attuali discendano più dalla
+struttura di interazione che è loro propria nel presente
+che dal loro stato iniziale passato.
+
+Come sottolinea L. von Bertalanffy: «La stabilità dei
+sistemi aperti si caratterizza attraverso il principio di
+equifinalità, cosa che vuol dire, in opposizione all’equili-
+brio dei sistemi chiusi, che, determinato dalle condizioni
+iniziali, un sistema aperto può giungere a uno stato tem-
+poralmente autonomo, indipendente dalle condizioni ini-
+ziali e determinato unicamente dai parametri del siste-
+ma”. Se, per esempio, si vuol cogliere il significato del
+sistema comunale in Francia, è più utile collocarlo all’in-
+terno del sistema politico attuale che non considerare le
+sue origini medioevali. Delle condizioni iniziali differenti
+possono sfociare nello stesso risultato o una stessa origi-
+ne può portare a effetti differenti nel presente.
+
+La conclusione metodologica di questo principio è che i/
+sistema è di per sé la sua migliore spiegazione. Questo
+significa che se si vuole capire quello che succede in un
+sistema, è più importante l’analisi delle interazioni con-
+temporanee che non la genesi del sistema e dei suoi ele-
+menti; per dirla in altro modo, l’analisi sistemica porta a
+privilegiare il punto di vista sincronico rispetto al punto
+di vista diacronico, o genetico.
+
+30
+
+L'APPROCCIO SISTEMICO ALLE RELAZIONI UMANE
+
+3. La famiglia come sistema
+
+Tra tutti i sistemi umani, alcuni presentano un interesse
+particolare, sia a livello pragmatico (per il loro ruolo so-
+ciale) sia a livello della comprensione dei processi di inte-
+razione: sono i sistemi stabili di interazione continua. Bi-
+sogna intendere con ciò degli insiemi umani che hanno
+una certa permanenza nel tempo e nei quali le relazioni
+trai membri sono relativamente durature. Questa defini-
+zione coincide praticamente con quella di istituzione e si
+possono citare come esempi la famiglia, le organizzazioni
+(e in particolar modo le organizzazioni di tipo professio-
+nale), le chiese, i club, eccetera.
+
+Dato il suo orientamento clinico, la Scuola di Palo Alto
+sì è indirizzata soprattutto verso la famiglia perché è il
+quadro più abituale in cui si situa e si svolge la vita priva-
+ta delle persone. In più, gioca un ruolo essenziale nella
+formazione della personalità e nella socializzazione degli
+individui ed è all’interno della famiglia che si producono
+gli apprendimenti fondamentali su cui si elabora l’insie-
+me delle relazioni sociali. In più, può sembrare come
+l‘agenzia’ della società’, incaricata di trasmettere i valo-
+ri, gli ideali, i modi di pensiero e le strutture di base che
+fondano la società.
+
+Se si considera la famiglia come un sistema, a essa va
+ricondotta l'applicazione dei principi che reggono i siste-
+mi aperti di interazione. Tutte le azioni dei suoi membri
+vi vengono considerate come degli ingressi (input) di in-
+formazioni che agiscono sul sistema e da esso vengono
+modificati.
+
+Il principio di totalità porta a considerare la famiglia
+come un insieme che obbedisce a delle regole di funziona-
+mento distinte da quelle alle quali obbediscono i suoi mem-
+bri presi isolatamente; non è una somma di individualità,
+ma un tutto dinamico in cui i/ comportamento di ciascuno
+dei membri è legato al comportamento di tutti gli altri e
+ne dipende.
+
+I comportamenti non possono venir compresi riferendo-
+li semplicemente ai ‘caratteri’ di colui che ne è l’autore;
+obbediscono a una causalità circolare e sono regolati dai
+modelli e dalle norme che reggono la famiglia.
+
+31
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+Ogni cultura propone un modello di famiglia, modello
+che comporta una certa strutturazione dei ruoli e delle
+funzioni, che assegna a ciascuno un posto in una gerar-
+chia predeterminata e che organizza le relazioni tra ma-
+rito e moglie, tra genitori e figli, tra fratelli e sorelle. Così,
+si può parlare di un modello patriarcale di famiglia: que-
+sto modello è fondato su di una stretta differenziazione
+dei sessi, dei ruoli e delle funzioni. Riassunta schemati-
+camente, la sua struttura dà un posto preminente e cen-
+trale al padre, che rappresenta l’autorità e assume una
+funzione strumentale (di adattamento all'ambiente e di
+realizzazione dei fini esterni); la donna è sottomessa al-
+l'autorità del marito e svolge una funzione espressiva (di
+regolazione dei rapporti affettivi) e una funzione di edu-
+cazione e di mantenimento dei figli e della casa; i figli
+sono sottomessi all’autorità degli adulti e legati ai loro
+genitori da rapporti di rispetto e di obbedienza. Il padre
+ha un potere incontestato sulle donne della famiglia ed è
+responsabile della loro condotta e veglia in modo partico-
+lare sulla loro ‘virtù’. I valori dominanti sono l’autorità, il
+rispetto, l'obbedienza, il senso dell’onore e della tradizio-
+ne.
+
+Aggiungiamo che in'una medesima società possono coe-
+sistere svariati modelli famigliari e che questi ultimi sono
+suscettibili di variazioni da una classe sociale all’altra (il
+modello patriarcale non ha la stessa configurazione nel
+mondo rurale e nell'ambiente borghese); si verifica qui che
+un sistema aperto non è isolabile dal suo contesto ed è so-
+vradeterminato dalla struttura sociale in cui si inscrive.
+
+La famiglia è un sistema omeostatico: un certo numero
+di retroazioni negative e di meccanismi regolativi mirano
+a mantenere la sua stabilità e ad impedire in particolar
+modo la sua dissoluzione. È importante, per esempio, che
+l'infedeltà coniugale comporti una certa riprovazione o
+addirittura delle sanzioni (che per lo più colpiscono la
+donna e questo è particolarmente vero nel modello pa-
+triarcale), perché minaccia l’unità e la continuità della
+famiglia.
+
+Ma il sistema famigliare deve poter anche tollerare o
+addirittura favorire certe trasformazioni che gli sono ine-
+renti: la nascita dei bambini, la loro crescita e il loro ac-
+
+32
+
+L'APPROCCIO SISTEMICO ALLE RELAZIONI UMANE
+
+cesso all'autonomia, l'invecchiamento dei genitori, ecce-
+tera. Dunque è anche la sede di retroazioni positive e di
+processi di crescita, di evoluzione e di cambiamenti.
+
+Vi è quindi all’interno della famiglia una complessa com-
+binazione di retroazioni positive e di retroazioni negati-
+ve. Si è notato che nelle famiglie perturbate 0 poste in un
+ambiente particolarmente stressante, le seconde tendono
+a imporsi contribuendo a inchiodare e a rendere rigido il
+sistema famigliare, cosa che spesso è una causa impor-
+tante di manifestazioni patologiche. Ma la famiglia non è
+sottomessa soltanto a dei modelli culturali e sociali; obbe-
+disce anche a regole psicologiche che sottendono le inte-
+razioni fra i suoi membri.
+
+Un sistema retto da regole implicite
+
+Quando due individui interagiscono, ciascuno di essi cer-
+ca di determinare e di definire il rapporto che li unisce
+secondo categorie socioaffettive (simpatia/antipatia, au-
+tonomia/dipendenza, uguaglianza/gerarchia, eccetera). Se
+i due protagonisti si intendono sulla definizione del loro
+rapporto, questo può stabilizzarsi e diventare un contesto
+relativamente solido e permanente che indica loro come
+comportarsi, che cosa aspettarsi dal loro partner, come
+interpretare i suoi messaggi e come anticipare le sue rea-
+zioni; definire un rapporto come amoroso, di amicizia, pro-
+fessionale, svolge un simile ruolo di stabilizzazione e di
+rassicurazione.
+
+Don D. Jackson ha definito questo processo come regola
+di relazione”. Se si considera l’insieme della famiglia, esi-
+stono così delle regole che reggono la molteplicità delle
+interazioni e che si possono analizzare sotto forma di dia-
+di (o relazioni tra due persone). Queste regole posso esse-
+re per lo più oggetto di un consenso collettivo, ma possono
+anche essere instabili o controverse. Si constata, per esem-
+pio, che in certe famiglie ‘patologiche’ le regole di intera-
+zione vengono continuamente rimesse in discussione; cia-
+scuno cerca di imporre all’altro la sua definizione del rap-
+porto e vi è discordanza tra le differenti definizioni propo-
+ste (la moglie vede suo marito come autoritario e lui la
+vede come ribelle; i genitori descrivono i bambini come
+
+33
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+cattivi e ibambini si lamentano della loro incomprensio-
+ne eccetera). Questi problemi di definizione alimentano
+una gran parte degli incessanti litigi che caratterizzano
+questo tipo di famiglia: «Tu sei completamente infantile»,
+«Mannò, sei tu che non la smetti di voler condizionare il
+mio comportamento», «Io ne sono obbligato, visto che tu
+sei totalmente irresponsabile», eccetera.
+
+Le regole costituiscono la matrice di base delle intera-
+zioni famigliari.
+
+Spiegare le relazioni stabilite tra membri di una fami-
+glia in termini di differenze individuali o sessuali o in ter-
+mini di storia personale di questo o quel membro della
+famiglia, significa rischiare di non cogliere l’essenziale.
+
+Ciò che mantiene i legami tra i membri e, quindi, ciò
+che fonda l’esistenza stessa della famiglia, è questo tes-
+suto di regole implicite ma tacitamente rispettate. Se se
+ne discosta un solo elemento, l’intero equilibrio famiglia-
+re rischia di sprofondare.
+
+La regola che regge una diade si fonda per lo più su ciò
+che Jackson ha chiamato il quid pro quo coniugale o fami-
+gliare8. Questa espressione (che significa letteralmente
+‘qualche cosa per un’altra cosa’ e che si potrebbe tradurre
+con do ut des) appartiene al terreno giuridico e designa
+un mercato, uno scambio, in cui ciascun partner si aspet-
+ta di ricevere qualche cosa come contropartita di ciò che
+lui porta. Quindi, in qualche modo definisce un sistema
+di diritti e doveri.
+
+Applicato a una coppia, o ai rapporti genitori-figli, que-
+sto concetto designa una relazione fondata su alcune dif-
+ferenze e in cui ciascuno si aspetterà di ricevere un van-
+taggio in cambio di ciò che ha apportato. Quando due per-
+sone si mettono insieme, cominciano con lo scambiarsi in-
+formazioni sul modo in cui considerano la natura della
+loro relazione e queste informazioni si evolvono in funzio-
+ne delle risposte dell’altro. Se un accordo viene concluso,
+si entra in una relazione stabile. Questo equilibrio può
+venir considerato come un quid pro quo che svolge per-
+tanto un ruolo di regolazione della relazione, dato che è in
+sua funzione che si adeguano le interazioni.
+
+Certi quid pro quo sono assai diffusi, come quello che
+stipula che il marito sarà intraprendente, logico e intel-
+
+s4
+
+L'’APPROCCIO SISTEMICO ALLE RELAZIONI UMANE
+
+lettuale mentre la moglie sarà sensibile, affettuosa e ca-
+pirà meglio le persone e le cose; da queste differenze di
+reazioni discende naturalmente una divisione dei compi-
+ti indispensabile per la sopravvivenza della coppia.
+
+Altri lo sono meno, come quello di una coppia trattata
+da Jackson che aveva deciso che bisognava essere perfet-
+ti per poter criticare l’altro e che dunque si asteneva scru-
+polosamente dall’emettere la minima osservazione sul
+comportamento del partner: non era più possibile alcuna
+comunicazione.
+
+Quale che sia il tipo di quid pro quo scelto, si osserva
+che non è necessariamente conforme a una divisione di
+ruoli in funzione di attributi sessuali predeterminati. Una
+relazione coniugale, o famigliare, può venir analizzata
+nello stesso modo che qualsiasi altra relazione continua
+(rapporto di amicizia, rapporto di affari, eccetera). In tut-
+ti i casi, ogni manchevolezza verso il quid pro quo, ogni
+incidente che renda caduco l’accordo, non può che provo-
+care una crisi, che può giungere sino alla dissoluzione del-
+l'associazione. Ma quello che è importante capire è che
+questa crisi non è mai provocata da un solo individuo.
+Così, non è l’alcolista che distrugge la sua coppia, è l’accor-
+do stabilito tra l’alcolista e il suo congiunto che condanna il
+rapporto al fallimento a termine più o meno lungo.
+
+Sin dall’inizio di un rapporto, si può sapere se questo è
+votato o meno all’insuccesso (alla patologia o al divorzio).
+Così succede per un accordo del tipo «rispettiamo total-
+mente la libertà dell’altro», che non resisterà all’arrivo di
+un bambino e al bisogno di cooperazione che la sua educa-
+zione esige; oppure di un accordo ‘papà-che-vizia/moglie-
+bambina’ poiché, a lungo termine, i desideri della moglie
+giungeranno a saziarsi e non sapranno più entrare in re-
+lazione oppure la donna ‘diventerà adulta’ e non sop-
+porterà più di essere trattata come una bambina.
+
+Il sintomo può servire a proteggere il rapporto
+
+Il contratto di scambio spesso si basa su degli elementi
+inconsci e in particolar modo su di una complementarietà
+o su una similitudine delle strutture nevrotiche dei part-
+
+ner; in quest'ottica, il sintomo diventa una sorta di rego-
+
+35
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+latore del rapporto. William Fry ha studiato su un gruppo
+di pazienti il contesto coniugale in cui presentavano una
+sindrome di angoscia’; ha scoperto che il congiunto non
+era mai esente da turbe e che c’era un sottile intrecciarsi
+dei sintomi e dei comportamenti dei due partner; così, una
+donna soffriva di claustrofobia e non poteva prendere
+l’ascensore; in seguito si venne a sapere che il marito ave-
+va paura dei luoghi alti, paura che non aveva mai bisogno
+di affrontare giacché, visto che sua moglie non sopporta-
+va l'ascensore, non andavano mai agli ultimi piani degli
+stabili. D’altra parte, si constata che un cambiamento nel
+rapporto può comportare l’apparizione o l’accentuazione
+di un sintomo. Un legale che sino ad allora aveva avuto
+una vita professionale piuttosto sgangherata, ottenne una
+situazione migliore in un’altra città. La famiglia traslocò
+e la coppia, nella nuova abitazione, si organizzò nella stes-
+sa camera, mentre precedentemente viveva in camere se-
+parate. Fu allora che la donna venne colpita da gravi ac-
+cessi di angoscia.
+
+Si osserva pure frequentemente che la scomparsa di un
+sintomo può comportare la rottura del rapporto: una cop-
+pia segue una terapia su richiesta della donna, che rim-
+provera essenzialmente al marito la sua immaturità e
+incultura. Illetterato, si appoggia interamente su sua
+moglie affinché si assuma il peso totale della coppia: è lei
+che si occupa della contabilità, è sempre lei che assicura
+il finanziamento dei progetti comuni, mentre la situazio-
+ne di suo. marito impedisce ogni avanzamento e ogni pro-
+gesso finanziario. Molto in fretta la terapia ‘funziona’: il
+marito impara, con l’aiuto di suo padre, dei rudimenti di
+lettura e ha dei progressi abbastanza rapidi. È allora che
+la moglie annuncia che interrompe la terapia e che ha
+avviato una causa di divorzio: facendo scomparire il sin-
+tomo del marito e con ciò stesso la ‘lamentela’ della mo-
+glie, la terapia non fa che annullare la complementarietà
+della coppia e rompere il rapporto!°,
+
+Questo esempio mostra che i sintomi di un paziente spes-
+so svolgono un ruolo protettivo nel suo rapporto con il con-
+giunto o con altri membri della famiglia.
+
+36
+
+L’APPROCCIO SISTEMICO ALLE RELAZIONI UMANE
+
+L'organizzazione delle interazioni
+all’interno della famiglia
+
+Le relazioni diadiche all’interno della famiglia possono as-
+sumere parecchie forme. In particolare, due meritano di
+attrarre l’attenzione poiché rivestono un’importanza certa
+nella dinamica famigliare: sono le alleanze e le coalizioni.
+
+L'alleanza è una relazione di affinità tra due persone
+motivata da un’attrazione, da una simpatia reciproca o
+da un interesse comune.
+
+La coalizione è una certa struttura di potere: implica la
+solidarietà di due o più persone contro una terza!!. Ora,
+dato che la famiglia è una struttura gerarchica e non egua-
+litaria (non foss’altro che per la differenza di statuto tra i
+genitori e i figli), essa favorisce i fenomeni di coalizione.
+Le coalizioni obbediscono a delle regole logiche nel senso
+che sono il risultato di rapporti di forza. Prendiamo una
+famiglia costituita dal padre (A), dalla madre (B) e da un
+figlio (C); fintanto che il ragazzo è piccolo si ha, per esem-
+pio, il rapporto di forza A> B,B> CeA>(B+ C); una
+coalizione unisce la madre e il figlio senza minacciare il
+dominio del padre. Ma quando il figlio cresce, le sue forze
+aumentano e in certo momento si avrà sempre A >B > C,
+ma anche A = (B + C). Il padre non può più dominare la
+triade e, per prendere delle decisioni, è obbligato a forma-
+re una coalizione con B o con C; di certo ci saranno alcune
+esperienze di alleanza A-C (padre e figlio esploreranno
+dei centri di interessi comuni, come la pesca o le partite di
+calcio). Ma sceglierà di preferenza la coalizione parentale
+A-B che gli consente contemporaneamente di dominare
+suo figlio e sua moglie. Quando C raggiunge l’adolescen-
+za, si può avere sempre A > B > C, ma con A <(B+ C); la
+madre ha dei vantaggi nel formare una coalizione con il
+figlio perché questa le permette di rovesciare il rapporto
+di potere con suo marito; nello stesso modo, il figlio ha
+interesse anch'egli a questa coalizione poiché essa favori-
+sce la sua influenza e su suo padre e su sua madre. Quan-
+do C raggiunge i vent’anni, si può avere A > B e B.= C; la
+madre vede venire il momento in cui sarà la più debole e
+allora può ritornare alla coalizione con il padre che le con-
+sente di dominare il figlio sinché resta in casa.
+
+37
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+Una nuova analisi del rapporto madre-padre-figlio
+
+Questo schema semplificato all’estremo mostra come la
+nozione di coalizione faciliti un’analisi delle interazioni
+famigliari in termini di potere: autorizza una nuova let-
+tura di certe strutture classiche come il triangolo edipico,
+ribattezzato «triangolo perverso»!? e comporta tre carat-
+teristiche essenziali:
+
+— le persone che si rispondono in un triangolo non sono
+della stessa ‘generazione’, vale a dire che esse occupano
+un rango differente nella gerarchia del potere;
+
+— una persona che appartiene a una generazione forma
+una coalizione con una delle altre due persone apparte-
+nenti a un’altra generazione contro il secondo membro di
+quest’ultima;
+
+— la coalizione, seppure evidente a livello comportamen-
+tale, viene negata a livello verbale e riformulata da un
+comportamento metacomunicazionale che la nega.
+
+Così la separazione fra generazioni viene rotta e il siste-
+ma diventa patologico quando la violazione di questa se-
+parazione diviene un modello ripetitivo.
+
+Visto sotto questo aspetto descrittivo, il ‘triangolo per-
+verso’ è un modello valido per analizzare altre interazioni
+sistemiche come quelle che si incontrano nelle organizza-
+zioni dove si possono ritrovare le sue tre caratteristiche:
+quando si dice di un capo che fa del favoritismo o di un
+impiegato che patteggia con la gerarchia, in entrambi i
+casi si ha a che fare con un membro di una generazione
+che forma una coalizione con un membro di un’altra ge-
+nerazione.
+
+Ma il contratto di scambio, o le alleanze e le coalizioni,
+non sono sufficienti per assicurare l’equilibrio e la stabili-
+tà di questa collettività fatta di individui interdipendenti
+che è la famiglia. Per sussistere, ha bisogno che si instau-
+rino delle norme di funzionamento che orientino i rappor-
+ti, favoriscano l’istituzione di rituali e permettano l’accor-
+do automatico su certi punti essenziali. Simili norme, che
+rinviano ai valori fondamentali condivisi da tutta la fa-
+
+38
+
+rr ef
+
+L’APPROCCIO SISTEMICO ALLE RELAZIONI UMANE
+
+miglia, devono essere potenti e interiorizzate a sufficien-
+za per evitare i conflitti, il procedere a tentoni, le discus-
+sioni interminabili; prendono il posto di un piano di azio-
+ne, dispensando la famiglia dal riflettere su ciascuna si-
+tuazione e consentendole di economizzare tempo, ango-
+scia ed energia.
+
+I miti famigliari costituiscono un sistema di difesa
+
+Queste norme esistono in tutte le famiglie. Si chiamano
+miti famigliari. Questa nozione «si rapporta a un certo
+numero di credenze abbastanza ben sistematizzate, con-
+divise da tutti i membri della famiglia, che concernono i
+loro ruoli vicendevoli nella famiglia e la natura della loro
+relazione. Questi miti famigliari contengono numerose
+regole mascherate della relazione, regole che restano dis-
+simulate sotto la ganga banale degli affari di tutti i giorni
+e dei cliché famigliari»!*. I miti sono così ben integrati nella
+vita quotidiana che non solo i membri della famiglia non
+pensano a rimetterli in discussione, ma li difendono come
+delle verità assolute se li si contesta... anche se, per un
+osservatore esterno, queste credenze possono sembrare
+dei palesi errori.
+
+Il mito spesso comporta una valutazione di uno dei mem-
+bri della famiglia, ma di fatto determina, per via di que-
+sta valutazione, il comportamento di tutti i membri. Si
+può citare così l'esempio di una famiglia in cui era stato
+accettato senza discussione che la madre «non aveva il pal-
+lino per la meccanica» e che perciò non aveva mai impara-
+to a guidare e neppure tentato di imparare a farlo. Questo
+fatto in sé non avrebbe avuto niente di notevole (e neppure
+di molto originale) se questa famiglia non avesse abitato in
+un luogo in cui praticamente si poteva circolare solo in
+macchina. Così, da sedici anni, data del loro matrimonio,
+il padre doveva funzionare da autista per sua moglie a
+detrimento delle sue attività private o professionali. La
+valutazione espressa sulla madre obbliga gli altri (in que-
+sto caso il padre, ma probabilmente altrettanto i figli quan-
+do giungeranno all’età di guidare) a situarsi in comple-
+mentarietà in rapporto a lei: a ciascun ruolo risponde così,
+spesso, un ‘contro-ruolo’ (o ruolo complementare) nella
+
+39
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+persona di uno o di vari membri della famiglia. Sei miti
+esistono in tutte le famiglie (e probabilmente un po’ di
+mito è indispensabile per il buon funzionamento dei rap-
+porti), spesso sono più evidenti, più radicati, più numero-
+si e più soffocanti nelle famiglie ‘patologiche’; queste dan-
+no spesso l'impressione di funzionare solo a causa di essi
+e per essi; esse sono oppresse dalla loro stessa mitologia:
+lasciano agli individui un così piccolo margine di azione
+che essi non si possono muovere se non nella ripetizione,
+tanto risultano incapaci di far fronte a una situazione
+nuova. Così, quando una famiglia identifica uno dei suoi
+membri come ‘malato’, ciò significa che gli altri vengono
+definiti, come ‘contro-ruoli’, come non-malati. È questo
+mito che spiega il fatto che una famiglia ha del disagio
+nell’ammettere la guarigione di uno dei suoi membri: poi-
+ché gli altri si situano in opposizione di fronte al malato,
+se quest’ultimo guarisce, il rapporto tende a continuare
+rovesciandosi. Allora, si vede spesso un altro membro del-
+la famiglia ammalarsi a sua volta (‘sacrificandosi’ così)
+per preservare la salute mentale degli altri.
+
+Spesso è quando i loro miti vengono minacciati (per
+esempio, per il semplice fatto che i ragazzi diventano gran-
+di) che le famiglie giungono a domandare un aiuto tera-
+peutico. Di fatto, vengono soprattutto a chiedere che si
+diano loro i mezzi per rafforzare i loro miti. M. Selvini
+Palazzoli riferisce così l'esempio di un mito famigliare che
+si estende lungo tre generazioni e che si può esprimere in
+questo modo: «Non c’è famiglia in tutta la regione che va
+d’accordo come i Casanti, una così grande famiglia dove
+tutti si vogliono bene, senza mai un litigio, uno screzio,
+un pettegolezzo»! anche i cugini sono dei veri fratelli che
+condividono il meglio ed il peggio. Questo mito impedisce
+qualsiasi espressione dei sentimenti reali tra i membri
+della famiglia. Così, rende impossibile il riconoscere la
+gelosia tra due cugine, Luciana e Nora, per quanto que-
+st’ultima si ammali nell’adolescenza, diventi anoressica e
+debba venir ricoverata in ospedale. Ci sarà bisogno di una
+difficile terapia famigliare perché i Casanti rinuncino al
+loro mito, liberando così Nora, prigioniera delle contrad-
+dizioni tra mito e realtà.
+
+Se i miti possono essere a tal punto distruttori e de-
+
+40
+
+|
+|
+
+L'APPROCCIO SISTEMICO ALLE RELAZIONI UMANE
+
+strutturanti, ci si può chiedere perché sono stati creati e
+porsi il problema della loro origine. Questa è difficile da
+cogliere, poiché spesso si perde in un passato lontano, che
+si è trasmesso di generazione in generazione. Invece è pro-
+babile che una certa somiglianza nella scelta e nell’orien-
+tamento dei miti svolga un ruolo determinante nella sele-
+zione del partner. i
+
+Come che sia, il mito viene vissuto come una sorta di
+ideologia famigliare. Per la famiglia è quello che un siste-
+ma di difesa è per l’individuo. i i i
+
+Da qui si può capire perché le famiglie patologiche sia-
+no rilevabili per i loro miti e per il fatto che tengano a loro
+sopra ad ogni cosa: come il pazzo tiene alla sua follia per-
+ché, foss’anche al prezzo di una rottura di comunicazione,
+essa gli consente di non cambiare la sua concezione del
+mondo che lo protegge dall’angoscia, così la famiglia pa-
+tologica tiene ai suoi miti folli nella misura in cui le per-
+mettono di non cambiare le relazioni intrafamigliari. Vi-
+sto così, il mito è indispensabile per l’equilibrio di una
+famiglia, come il delirio è indispensabile per la sopravvi-
+venza dello psicotico.
+
+NOTE
+1 Vedi in particolar modo J. de Rosnay Le Macroscope, Seuil, Parigi,
+1975 (trad. it. IZ macroscopio. Verso una visione globale, Dedalo, Bari,
+
+1978).
+
+? Vedi N. Wiener Cybernétique et société, UGE, Parigi.
+
+3 Vedi L. von Bertalanffy General Systems Theory, George Braziller, New
+York, 1968 (trad. it. Teoria generale dei sistemi, Istituto Librario Inter-
+nazionale, Milano, 1971).
+
+4J. de Rosnay op. cit., pag. 90.
+
+5 Teoria generale dei sistemi, cit.
+
+6 Secondo un’espressione di Wilhelm Reich.
+
+? Vedi in particolare Pragmatic of Human Communication, WW. Norton
+& Co., New York, 1967 (trad. it. Pragmatica della comunicazione uma-
+na, Astrolabio, Roma, 1971).
+
+8 Vedi Don D. Jackson Les règles familiales: le quid pro quo coniugal, in
+Sur l’interaction, Seuil, Parigi, 1981.
+
+° Citato in Pragmatica della comunicazione umana, cit., pag. 130.
+
+10 Si può notare qui come la cura psicanalitica individuale spesso com-
+porti la fine del rapporto di coppia nella forma in cui si presentava al-
+l’inizio della cura.
+
+41
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+"i Théodore Caplow, che ha particolarmente studiato questo fenomeno
+di coalizione, dimostra che ogni situazione di interazione può venir ri-
+condotta a una relazione triadica: Deux contre un, A. Colin, 1971.
+
+do J. Haley Pour une théorie des sistèmes pathologiques in Sur l’interac-
+tion, cit., pag. 73.
+
+a a J. Ferreira Les mythes familiaux in Sur l’interaction, cit., pagg. 85-
+
+‘ Paradosso e controparadosso, Feltrinelli, Milano, pag. 96.
+
+42
+
+2
+Una logica
+della comunicazione
+
+L'approccio della Scuola di Palo Alto si fonda su un postu-
+lato essenziale: è impossibile non comunicare, poiché è
+impossibile non avere un comportamento (l’immobilità o
+il mutismo assoluti sono anch’essi dei comportamenti) e
+ogni comportamento è comunicazione. A partire dal mo-.
+mento in cui gli individui sono presenti, vi sia brusio o
+silenzio, gesticolazione o immobilità, tra di loro si stabili-
+sce una certa forma di comunicazione e i loro rispettivi
+comportamenti dipendono almeno in parte da quelli degli
+altri, sia che gli attori siano coscienti o meno di questo
+fenomeno.
+
+1. E impossibile non comunicare
+
+Questo stretto rapporto che viene posto tra il comporta-
+mento di un individuo e la comunicazione che intercorre
+tra lui e gli altri è il perno di una visione interamente
+rinnovata della psicologia. In questa prospettiva, la di-
+stinzione tradizionale tra ‘psicologia sociale’ e ‘psicologia
+dell’individuo’ sfuma!: un individuo si esprime attraverso
+il suo comportamento, dunque per il rapporto che si sta-
+bilisce tra lui e gli altri; e lo studio della comunicazione
+tra gli individui consente di capire il funzionamento psi-
+chico di questi individui. L'insieme ‘comportamento-comu-
+nicazione-rapporto’ forma un tutt’uno che è il terreno pro-
+prio della psicologia e l’oggetto delle sue analisi.
+
+La prima incidenza di questa concezione è che lo studio
+dei processi che si svolgono all’interno della psiche passa
+in secondo piano e che la riflessione dello psicologo si con-
+centra sull’osservazione e sull’analisi dei comportamenti.
+
+43

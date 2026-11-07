@@ -1,0 +1,273 @@
+[FONTE: presupposti_teorici_1_sistema.pdf — pagine 1-7 di presupposti teorici pragmatica della comunicazione.pdf]
+
+1
+Presupposti teorici.
+Lo studio della comunicazione umana può essere suddiviso in tre sottosettori:
+1. sintassi
+2. semantica
+3. pragmatica.
+Mentre il primo comprende tutte le problematiche legate alla codiﬁca e de-
+codiﬁca dell’informazione, ai canali, alla ridondanza ed al rumore (problemi
+sintattici); mentre il secondo si occupa del signiﬁcato della comunicazione per
+i comunicanti (problemi semantici), il terzo sottosettore, quello pragmatico, si
+occupa degli eﬀetti della comunicazione sui parlanti, ovvero dell’inﬂuenza che
+questa esercita sul loro comportamento. Watzlawick e la scuola di Palo Alto si
+occupano di questo terzo aspetto della comunicazione: la pragmatica.
+Quindi la pragmatica studia gli eﬀetti della comunicazione sul com-
+portamento. In un certo senso, questa aﬀermazione è tautologica, poiché gli
+autori di Palo Alto considerano comunicazione e comportamento esattamente
+come sinonimi.
+1.1
+Funzione e relazione.
+Il concetto di relazione può essere rappresentato da quello matematico di fun-
+zione. Una funzione matematica viene deﬁnita come una relazione tra variabili:
+la sostanza delle nostre percezioni non è costituita da cose, ma da relazioni con
+le cose (funzioni), e quindi la consapevolezza che l’uomo ha di se stesso è so-
+stanzialmente una consapevolezza delle funzioni, delle relazioni in cui si trova
+implicato. Le relazioni sono quindi costruzioni reiﬁcate (Ashby), ed in questo si
+manifesta il costruttivismo di Watzlawick.
+1.2
+Informazione e retroazione.
+La tradizione psicoanalitica basa le proprie teorie sui principi di conservazione
+di materia ed energia negli scambi comunicativi. Ricordiamoci l’esempio del
+sasso e del cane. Dando un calcio al sasso, esso si muove in virtù di un’energia
+che noi passiamo dal nostro piede al sasso. Dando al contrario un calcio al cane,
+esso prenderà dal proprio metabolismo l’energia necessaria a muoversi, mentre
+il nostro calcio gli trasmetterà informazioni, che gli faranno decidere di allonta-
+narsi. Ecco che il centro della pragmatica diventa lo scambio di informazione, e
+non di energia, e questa è la diﬀerenza fondamentale tra la psicodinamica freu-
+diana e la teoria della comunicazione. Una volta messa al centro dell’attenzione
+l’informazione, entra in gioco anche il concetto di feedback, ovvero di retroa-
+zione, di ritorno verso l’emittente di un pacchetto di informazione relativo allo
+stato del ricevente dopo che ha ascoltato il messaggio dell’emittente: in questo
+modo possiamo costruire un sistema in grado di regolarsi da solo e di adattarsi
+2
+
+---
+
+al cambiamento, come la teoria cibernetica ha dimostrato. La retroazione può
+essere sia positiva che negativa: nel primo caso, essa causerà cambiamento, nel
+secondo caso, essa aiuterà il mantenimento dello status quo.
+I sistemi a retroazione posseggono un grado di complessità più elevato di
+altri sistemi non retroattivi, ed inoltre non sono assoggettabili alle leggi della
+meccanica classica, per cui è impossibile isolare una variabile e studiarla isola-
+tamente, poiché il sistema risulterebbe deformato in modo tale da non essere
+più lo stesso sistema.
+1.3
+Ridondanza.
+Il termine ridondanza si riferisce alla ripetizione negli schemi comportamentali
+che osserviamo durante l’interazione. La contrapposizione proposta da Watzla-
+wick tra interazione umana ed omeostato è esemplare: entrambi i sistemi sono
+sistemi in grado di raggiungere un equilibrio, ma se nel secondo caso, l’omeo-
+stato, esso è frutto di una ricerca casuale tra tutti gli stati possibili (ricerca che
+ad ogni cambiamento nel sistema riparte in maniera completamente random),
+nel sistema interazione l’equilibrio, una volta raggiunto, viene mantenuto con
+comportamenti ridondanti, comportamenti che in un certo senso costituiscono la
+memoria storica dell’interazione, e che non si annullano in occasione di modiﬁ-
+cazioni che possono occorrere: il sistema umano di interazione non riparte ogni
+volta da zero, ma mantiene le conquiste acquisite anche quando deve cercare
+altri equilibri.
+1.4
+Metacomunicazione.
+Quando i matematici smettono di usare la matematica come strumento di com-
+puto, e la usano come oggetto del loro studio, necessariamente adottano un lin-
+guaggio che è sulla matematica: tale linguaggio, seguendo le indicazioni del ma-
+tematico Hilbert, è stato chiamato meta-matematico. Allo stesso modo, quando
+noi parliamo sulla comunicazione, quando usiamo un linguaggio che ha come
+oggetto le ridondanze pragmatiche della interazione comunicativa, allora stiamo
+metacomunicando: comunichiamo sulla comunicazione.
+1.5
+Conclusioni
+La scatola nera.
+Per la scuola di Palo Alto, la mente deve essere considerata
+alla stregua di una scatola nera: essa non può essere esplorata, e forse, anche
+potendo, non sarebbe necessario. Ecco che possiamo interpretare il comporta-
+mento umano esclusivamente grazie all’osservazione dei suoi eﬀetti pragmati-
+ci, lasciando da parte ogni ipotesi intrapsichica (decisamente un presupposto
+comportamentista).
+Consapevolezza e non consapevolezza.
+In un contesto di teoria della co-
+municazione non ha molta importanza sapere se il comportamento di un emit-
+tente è intenzionale o meno. E quindi se l’emittente è consapevole o meno di
+3
+
+---
+
+aver emesso un messaggio. Ancora una volta, siamo in presenza di un aspetto
+fortemente costruttivista di Watzlawick: l’intenzionalità è indiﬀerente poiché in
+ogni caso sarà il ricevente ad interpretare il messaggio, e sarà quindi quest’ultimo
+a decidere come interpretare il messaggio.
+Presente e passato.
+Il metodo pragmatico ha l’obiettivo di determinare, rile-
+vare e possibilmente risolvere problemi comunicativi qui ed ora. Non si ricercano
+signiﬁcati simbolici, né cause nel passato o motivazioni, ma modelli per capire
+qui-ed-ora quello che sta succedendo nell’interazione, poichè la struttura di que-
+sta interazione è in grado di rivelarci tutto quello che può servire ad evidenziare
+le patologie comunicative (ecco che le sedute di terapia non coinvolgono mai
+solo il “paziente”, ma tutta la famiglia, poiché il problema è a livello sistemico,
+mentre il comportamento deviante di un membro della famiglia non è altro che
+l’unico esisto possibile di un contesto comunicativo non sano).
+Causa ed eﬀetto.
+Ecco che allora diventa essenziale analizzare gli eﬀetti,
+piuttosto che ricercare le cause di un comportamento. Diventa quindi centrale
+capire a quale scopo viene adottato un comportamento, piuttosto che chiederci
+il perché dello stesso comportamento.
+Determinati comportamenti possono
+infatti essere inspiegabili se analizziamo il soggetto come singolo, ma acquistano
+immediatamente senso se collocati all’interno di un contesto più ampio in cui il
+soggetto normalmente vive.
+Ovviamente il concetto di causalità che coinvolge i comunicanti è un concetto
+circolare, poiché in sistemi con circuiti di retroazione non esiste né un principio
+né una ﬁne, esattamente come in un cerchio.
+4
+
+---
+
+2
+L’interazione umana come sistema.
+2.1
+Deﬁnizione di sistema.
+Interazione.
+In ambito di teoria della comunicazione, Watzlawick deﬁnisce il
+concetto di modello come ridondanza di eventi: quando esiste una ridondanza
+nell’interazione, possiamo delineare la struttura di tale interazione, e quindi
+costruire un modello dinamico di quel contesto interattivo.
+L’interazione comunicativa è pensata come un sistema, e come tale ricade
+sotto il dominio della Teoria Generale dei Sistemi. Ovviamente un sistema ha
+un senso solo all’interno di una dimensione temporale dentro la quale possa
+svilupparsi.
+Deﬁnizione.
+Deﬁniamo un sistema come un insieme di oggetti e di re-
+lazioni tra gli oggetti e tra i loro attributi, in cui gli oggetti sono parti
+del sistema, gli attributi sono proprietà degli oggetti (che concorrono alla loro
+speciﬁcazione) e le relazioni tengono insieme il sistema, rappresentando il punto
+di vista che adottiamo sul sistema: le relazioni che dobbiamo considerare nel
+contesto di un dato insieme di oggetti dipendono dal problema in questione poi-
+ché vengono incluse le relazioni importanti o interessanti ed escluse quelle banali
+o irrilevanti.
+Un sistema interattivo è quindi costituito da due o più comunicanti
+impegnati nel processo di deﬁnire la natura della loro relazione.
+Ambiente.
+Quando deﬁniamo un sistema, dobbiamo anche deﬁnire il suo am-
+biente, ovvero il contesto nel quale il sistema si forma. L’ambiente è deﬁnito
+come tutti gli oggetti che possono modiﬁcare il sistema, e venire mo-
+diﬁcati dal sistema in un processo ricorsivo di interazione. Ovviamente
+non risulta possibile delineare un conﬁne netto tra sistema ed ambiente. Que-
+st’ultimo concetto acquista senso nei sistemi aperti, ovvero in quei sistemi che
+scambiano con l’ambiente materiali, energia e informazione.
+2.2
+Proprietà di un sistema aperto.
+Le proprietà di un sistema aperto sono tre:
+1. Totalità;
+2. Retroazione;
+3. Equiﬁnalità.
+Totalità.
+Questa proprietà implica che ogni parte del sistema sia in rapporto
+con il tutto: una modiﬁcazione del sistema inﬂuisce sulla parte, così come una
+modiﬁcazione della parte inﬂuisce sul tutto. Il sistema è un tutto inscindibile,
+non un semplice agglomerato di parti indipendenti. Il principio di totalità ha
+5
+
+---
+
+come corollario la non-sommatività: il risultato a livello di sistema dell’intera-
+zione delle parti non è semplicemente la somma del contributo parziale di ogni
+parte del sistema, ma è un qualcosa di più, qualcosa che implica l’emergenza
+di comportamenti a livello di sistema non predicibili dai comportamenti delle
+parti. Questa emergenza di proprietà inesistenti a livello delle parti è quello
+che fa di un sistema un sistema complesso. Nel contesto di analisi pragmatica
+della comunicazione, questo presupposto teorico implica, ancora una volta, che
+i comunicanti non devono essere considerati isolatamente l’uno dall’altro, pena
+non riuscire ad analizzare il sistema in tutta la sua complessità, ed in tutte le
+sue emergenze.
+In breve, le sequenze di comunicazione sono reciprocamente inscin-
+dibili, e l’interazione è non-sommativa.
+Retroazione.
+La retroazione è il fenomeno che lega insieme le parti e permet-
+te l’emergenza del sistema. Come abbiamo detto, l’avvento della teoria della
+comunicazione ha concentrato l’attenzione sullo scambio di informazioni, e quel-
+lo della cibernetica sul meccanismo di retroazione. In questo contesto teorico
+abbiamo inoltre la possibilità di adottare uno schema causale circolare, adatto
+a rappresentare le interazioni in un sistema aperto.
+Equiﬁnalità.
+I risultati a livello di sistema non sono predicibili conoscendo
+semplicemente le condizioni iniziali del sistema.
+Questo concetto è partico-
+larmente sfuggente alla comprensione. Quando parliamo di sistemi complessi,
+generalmente concordiamo sul fatto che le condizioni iniziali di tali sistemi siano
+di basilare importanza per i risultati a cui tali sistemi arriveranno nel tempo.
+Watzlawick inserisce un altro aspetto, quello dei parametri del sistema: egli sug-
+gerisce, seguendo Von Bertanlanﬀy, che siano i parametri del sistema a giocare
+un ruolo fondamentale nel deﬁnire lo stato di equilibrio del sistema, e non tanto
+le condizioni iniziali dello stesso. Per questo motivo, non soltanto dalle stesse
+condizioni iniziali possiamo ottenere risultati diversi, ma anche da condizioni
+iniziali identiche possiamo ottenere risultati diversi.
+La ricaduta di questo principio sulla pragmatica della comunicazione umana
+consiste nel considerare, in un contesto di analisi della comunicazione, l’orga-
+nizzazione in corso del processo interattivo molto più importante degli elementi
+speciﬁci costituiti dalla genesi e dal risultato.
+Il sistema è allora la migliore spiegazione di se stesso, e lo studio della sua
+organizzazione attuale è la metodologia più appropriata.
+2.3
+Sistemi aperti nel tempo: i sistemi interattivi.
+Analizziamo adesso i sistemi in stato stazionario, ovvero quei sistemi considerati
+stabili rispetto a certe variabili poiché queste tendono a rimanere, nel tempo,
+entro limiti deﬁniti.
+6
+
+---
+
+Relazioni in corso.
+I sistemi caratterizzati dalla stabilità sono quelli in cui
+le relazioni in corso sono:
+1. importanti per entrambe le parti;
+2. di lunga durata.
+Questi sistemi hanno una grande importanza dal punto di vista della pragma-
+tica della comunicazione. Quando sussistono le condizioni sopra elencate, si ha
+l’occasione (ma anche la necessità) di ripetere le sequenze di comunicazione in
+contesti stabili (famiglia, gruppo di pari, ecc...) e le ridondanze di questi sistemi
+sono molto più signiﬁcative di quelle che potremmo trovare analizzando incontri
+casuali tra estranei.
+Quando questi tipi di interazioni hanno delle evidenti risultanti patologiche,
+viene da chiedersi perché mai, nonostante tutto, l’interazione venga comunque
+portata avanti. è bene allora fermarsi a riﬂettere su un aspetto fondamentale di
+questo approccio di ricerca: non ci interessa il perché, ma il come un sistema
+interattivo opera. Quindi, come rilevato sopra, non cerchiamo cause scatenanti,
+ma ﬁni a cui il comportamento comunicativo assolve, cercando di comprenderne
+la struttura interattiva.
+Regole di relazione.
+In una sequenza comunicativa, ogni scambio di mes-
+saggi restringe il numero delle possibili mosse successive: i messaggi palesi che
+sono stati scambiati entrano a far parte del particolare contesto interpersonale e
+pongono le loro limitazioni all’interazione successiva, esattamente come in una
+partita a scacchi.
+Quando questo scambio ha raggiunto una stabilità, ovvero quando i parlanti
+si sono in qualche modo accordati nel tempo sulla natura della loro relazione,
+emerge quello che Jackson ha deﬁnito regola della relazione.
+Non dobbiamo pensare alle regole della relazione come a qualcosa di esterno
+alla relazione stessa e reiﬁcato dai parlanti, che la subiscono una volta generata:
+tutt’altro, il concetto di regola, come quello di legge per Mach, rappresenta uno
+strumento di ergonomia cognitiva per noi ricercatori, ma non esiste nessuna
+regola nel mondo, esistono solamente i casi.
+***
+A conclusione di questa sezione, dobbiamo ricordare un altro concetto pro-
+dotto dalla Scuola di Palo Alto, ovvero quello di omeostasi familiare. La
+genesi di questo concetto risiede nelle osservazioni cliniche di comportamenti
+ricorrenti in famiglie disturbate: ogni volta che il paziente migliorava, peggio-
+ravano i familiari. Da qui l’intuizione di Jackson di considerare questi compor-
+tamenti (sia dei familiari che del paziente) come meccanismi omeostatici che
+resistevano al cambiamento, in modo da permettere alla famiglia di mantenere
+un equilibrio, per quanto precario. Questi meccanismi sono così eﬃcaci che, in
+ogni caso, lavorano per mantenere lo status quo, anche quando questo è pa-
+tologico e il cambiamento porterebbe giovamento. Questo tipo di resistenza è
+prettamente negativo, e contrapposto al fenomeno della calibrazione (attraverso
+7
+
+---
+
+funzioni a gradino), ovvero a quel meccanismo che invece permette di aﬀron-
+tare il cambiamento attraverso una ricalibrazione, appunto, dei parametri del
+sistema (da ricordare l’esempio del termostato): in altre parole, ricalibrare il
+sistema signiﬁca rideﬁnire le regole della relazione, accordandosi su una nuova
+deﬁnizione della natura della relazione stessa.
+8

@@ -1,0 +1,1003 @@
+[FONTE: cap__2__una_logica_della_comunicazione.pdf]
+
+Edmond Marc, Dominique Picard
+La scuola di Palo Alto
+
+E MARC
+D. PICARD "a;
+
+La storia di un gruppo di scienziati che ha aperto
+nuove vie allo studio della comunicazione e della
+salute mentale.
+
+A Palo Alto, in California, nei primi anni Cinquan-
+ta si è raccolto un gruppo di studiosi di diversa
+formazione culturale con l’obiettivo di studiare gli
+aspetti psicologici della comunicazione umana.
+Gregory Bateson (autore di Verso un’ecologia
+della mente), una delle menti più fertili del gruppo,
+ha applicato alla psichiatria le sue conoscenze
+antropologiche e si è dedicato in particolare allo
+studio dei processi della comunicazione nei distur-
+bi mentali. Ma è stato Paul Watzlawick a giocare
+il ruolo più importante nella diffusione delle ricer-
+che di Palo Alto, grazie anche alle sue capacità di
+divulgatore. Si pensi solo al successo di libri come
+Istruzioni per rendersi infelici o Di bene in peggio,
+testi divertenti ma allo stesso tempo veicoli di
+diffusione di una nuova proposta di approccio ai
+problemi dei rapporti interpersonali.
+
+Come illustra questo libro, la metodologia del
+gruppo di Paio Alto si basa sul postuiato che è
+impossibile non comunicare, e così lo stretto rap-
+porto che viene posto tra il comportamento di un
+individuo e la comunicazione che intercorre tra lui
+e gli altri diventa il perno di una visione intera-
+mente rinnovata della psicologia. Psicologia so-
+ciale e psicologia individuale cessano quindi di
+essere distinte.
+
+nl
+i
+
+più
+
+TEIoti pati qutt
+
+periina: foto Steven Hunt / The rmagé bank ne
+
+LI 051 I
+
+---
+
+2
+Una logica
+della comunicazione
+
+L'approccio della Scuola di Palo Alto si fonda su un postu-
+lato essenziale: è impossibile non comunicare, poiché è
+impossibile non avere un comportamento (l’immobilità o
+il mutismo assoluti sono anch’essi dei comportamenti) e
+ogni comportamento è comunicazione. A partire dal mo-
+mento in cui gli individui sono presenti, vi sia brusio o
+silenzio, gesticolazione o immobilità, tra di loro si stabili-
+sce una certa forma di comunicazione e i loro rispettivi
+comportamenti dipendono almeno in parte da quelli degli
+altri, sia che gli attori siano coscienti o meno di questo
+fenomeno.
+
+1. E impossibile non comunicare
+
+Questo stretto rapporto che viene posto tra il comporta-
+mento di un individuo e la comunicazione che intercorre
+tra lui e gli altri è il perno di una visione interamente
+rinnovata della psicologia. In questa prospettiva, la di-
+stinzione tradizionale tra ‘psicologia sociale’ e ‘psicologia
+dell'individuo’ sfuma!: un individuo si esprime attraverso
+il suo comportamento, dunque per il rapporto che si sta-
+bilisce tra lui e gli altri; e lo studio della comunicazione
+tra gli individui consente di capire il funzionamento psi-
+chico di questi individui. L'insieme ‘comportamento-comu-
+nicazione-rapporto’ forma un tutt'uno che è il terreno pro-
+prio della psicologia e l’oggetto delle sue analisi.
+
+La prima incidenza di questa concezione è che lo studio
+dei processi che si svolgono all’interno della psiche passa
+in secondo piano e che la riflessione dello psicologo si con-
+centra sull’osservazione e sull’analisi dei comportamenti.
+
+43
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+In ciò si ritrova il postulato di base del behaviorismo, ma
+che prende qui un significato nuovo. Lo spirito umano vie-
+ne considerato un po’ come una ‘scatola nera’ di cui ci si
+limita a osservare le entrate e le uscite di informazioni
+costituite dai comportamenti (azioni, percezioni, attitudi-
+ni, opinioni, espressioni, eccetera). Così, in psichiatria, i
+sintomi di un paziente verranno presi meno in cosidera-
+zione come espressione di un conflitto psichico di cui biso-
+gna ritrovare la genesi che non entrate e uscite di infor-
+mazioni che hanno un certo effetto e una certa funzione
+nel sistema famigliare in cui si evolve questo paziente.
+
+In un simile modo di procedere, il problema di sapere se
+un comportamento è conscio 0 inconscio perde d’impor-
+tanza. Altresì, il ruolo che ha potuto svolgere il passato di
+qualcuno nel suo stato attuale (in altri termini, la ricerca
+della genesi del suo comportamento) non è più essenziale
+per la comprensione che se ne vuole avere. In modo più
+generale, la ricerca del ‘perché’ e delle cause smette di
+essere l'elemento determinante. Al contrario, gli effetti di
+questo comportamento nei rapporti che un individuo in-
+trattiene con il suo ambiente costituiscono il criterio prin-
+cipale dell’analisi. La regola ritorna allora a interrogare
+la finalità dei segmenti di comportamento e a cogliere i
+modelli di interazione dove si inscrivono, ‘qui ed ora’, nel-
+la realtà dello spazio e dell'istante in cui si producono.
+Ciascun comportamento viene considerato come un mes-
+saggio, che risponde ad altri messaggi e che provoca a sua
+volta delle nuove comunicazioni.
+
+La seconda conseguenza di una simile concezione è che
+gli psicologi non possono più appoggiarsi sulle teorie e sui
+modelli intrapsichici forgiati per lo studio dell’individuo,
+considerato come una monade. Cominciano ad aver biso-
+gno di ricorrere a strumenti e a concetti che appartengo-
+no ad altre scienze, i cui metodi sono vicini ai loro. È così
+che la Scuola di Palo Alto, come si è già fatto notare, ha
+fatto ricorso ai concetti della cibernetica.
+
+Ogni comportamento è comunicazione
+
+Queste riflessioni e queste premesse hanno quindi con-
+dotto il gruppo di Palo Alto a elaborare una pragmatica
+
+44
+
+UNA LOGICA DELLA COMUNICAZIONE
+
+della comunicazione. Perché questo termine? La comuni-
+cazione umana può rientrare nel campo di tre approcci: la
+sintassi, la semantica e la pragmatica. La prima ha per
+oggetto la trasmissione di informazioni: tratta dei proble-
+mi della codificazione, dei canali di trasmissione, della
+ricezione di un messaggio, eccetera. La seconda si inte-
+ressa al senso di un messaggio e al modo in cui questo
+senso viene prodotto e compreso. La terza si occupa del
+fatto che la comunicazione tocca il comportamento. Non
+s’incentra unicamente sul linguaggio verbale, la sua strut-
+tura e il suo significato; tiene in conto tutti i fatti espres-
+sivi che possono avere un valore comunicativo, come i ge-
+sti, le posizioni, le mimiche o, più in generale, i comporta-
+menti verbali e corporali. La pragmatica mette meno l’ac-
+cento sui rapporti che si allacciano tra il soggetto (emit-
+tente o ricevente) e il segno che sul «rapporto trasmettito-
+re-ricevitore in quanto mediato dalla comunicazione»?. La
+pragmatica non isola questa relazione ma la ricolloca nel
+suo ambiente poiché «un fenomeno resta inspiegabile fin-
+ché il campo di osservazione non è abbastanza ampio da
+includere il contesto in cui il fenomeno si verifica. Se l’os-
+servatore non si rende conto del viluppo di relazioni tra
+un evento e la matrice in cui esso si verifica, tra un orga-
+nismo e il suo ambiente, o è posto di fronte a qualcosa di
+‘misterioso’ oppure è indotto ad attribuire al suo oggetto
+di studio certe proprietà che l’oggetto può non avere» ?.
+Avendo definito così il rapporto di comunicazione tra gli
+individui, preso nel suo contesto, come l’oggetto della prag-
+matica e postulato che ogni comportamento in situazione
+di interazione ha valore di messaggio, la Scuola di Palo
+Alto comincia a tentare di tirar fuori la ‘logica’ propria a
+questo tipo di comunicazione. Perciò, si tratta, nel flusso
+incessante e proliferante degli scambi, delle discussioni,
+degli atteggiamenti quotidiani che legano gli individui gli
+uni agli altri, di individuare delle ridondanze, vale a dire
+la ripetizione di certe sequenze che suggeriscono la con-
+catenazione dei messaggi fra di loro: «Stiamo cercando le
+ridondanze pragmatiche; sappiamo che non saranno gran-
+dezze o qualità statiche e semplici ma modelli di intera-
+zione analoghi al concetto matematico di funzione; pos-
+siamo infine prevedere che tali modelli avranno le carat-
+
+45
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+teristiche tipiche dei sistemi [...]. Se una volta poste tali
+premesse esaminiamo con attenzione le catene di comu-
+nicazione tra due o più comunicanti, i risultati a cui giun-
+geremo non possono certo pretendere di costituire un si-
+stema formale, ma avranno senz'altro natura di assiomi
+e di teoremi di un calcolo»*. Un simile obiettivo proposto
+per una logica della comunicazione mostra nettamente
+che essa cerca di raggiungere un grado di astrazione ab-
+bastanza elevato.
+
+Questo progetto si basa sui concetti di ‘ridondanza prag-
+matica’ e di ‘funzione’ che è opportuno precisare.
+
+La ricerca di ripetizioni o ridondanze significative
+
+La comunicazione umana è costituita da segnali verbali,
+corporali e comportamentali. Ora, se si osserva ‘dall’ester-
+no’ un’interazione tra due o più persone, si può notare che
+certe sequenze si ripetono e che certi comportamenti si
+implicano vicendevolmente. Queste ripetizioni vengono
+chiamate ridondanze e la loro analisi consente di stabili-
+re delle ‘leggi’ di comportamento e di elaborare degli em-
+brioni di ‘sistemi’ di comunicazione. Per capire un simile
+modo di procedere, si può immaginare un osservatore che
+sta guardando dei giocatori di scacchi all'opera mentre
+lui non conosce la natura di questo gioco. Se è sufficiente-
+mente attento, potrà individuare delle ‘ridondanze’: per
+esempio, che quando un giocatore ha piazzato un pezzo,
+non collocherà quello successivo se non dopo che il suo
+avversario ha a sua volta sistemato un pezzo; ne dedurrà
+che una delle regole del gioco degli scacchi sta nel fatto
+che i giocatori devono spostare alternativamente ciascu-
+no un pezzo. Questo osservatore avrà dunque appreso così,
+in maniera pragmatica, una delle leggi del gioco degli scac-
+chi. Potrà allora passare alla tappa successiva: dare un
+nome a questa legge (nel caso in questione, chiamerà la
+regola scoperta ‘regola di alternanza”).
+
+Un simile modo di procedere, che consiste nel «costrui-
+re un simulacro verbale dell’universo fenomenico»9, è
+un'azione scientifica che si fonda su un esame preciso del-
+le regole di trasformazione e delle differenze di codifica-
+zione tra fenomeni naturali, fenomeni di messaggio e pa-
+
+46
+
+UNA LOGICA DELLA COMUNICAZIONE
+
+role. In questo senso, il concetto di ridondanza diviene,
+almeno in parte, sinonimo di ‘significato’, poiché la ridon-
+danza dei messaggi colti consente di indovinare gli ele-
+menti mancanti del messaggio e «se il ricevitore può risa-
+lire alle parti mancanti del messaggio, allora le parti rice-
+vute devono, di fatto, contenere un significato che si rife-
+risce alle porzioni mancanti ed è informazione su quel-
+le». In questo senso, il mondo esterno dei fenomeni natu-
+rali è caratterizzato anch’esso dalla ridondanza, dato che
+un osservatore che vede solo certe parti di una sequenza
+o di un fenomeno può intuire il resto. Riprendendo il no-
+stro esempio della partita di scacchi, potremmo dire che
+un osservatore abile, vedendo dalla finestra soltanto uno
+dei giocatori collocare i suoi pezzi, capirà, quando questi
+resta immobile, che il suo avversario sta spostando anche
+lui il suo pezzo. Nello stesso modo, un viaggiatore che vede
+un tetto nel paesaggio intuirà che lì c'è una casa.
+
+Questo modo di affrontare il problema presenta il van-
+taggio di obbligare l'analista a definire in ogni momento
+l’universo del discorso in cui il ‘significato’ (o la ‘ridondan-
+za’) si è presumibilmente prodotto e ad esaminare la ‘strut-
+turazione logica’ dell’insieme di ogni materiale portatore
+di messaggio.
+
+L'analisi dei legami o rapporti tra gli elementi
+della comunicazione
+
+Il concetto di funzione, in quanto a esso, è preso a prestito
+dalla teoria matematica per un’analogia storica facile da
+definirsi. I matematici nell’antichità non concepivano i
+numeri che come grandezze concrete e reali. Quando nel
+XVI secolo è stata introdotta la nozione di ‘variabile’, si è
+ammesso che un segno potesse non avere in se stesso nes-
+sun significato, dipendendo quest’ultima dalla relazione
+che unisce una variabile a un’altra o ad alcune altre.
+
+La relazione tra variabili si chiama ‘funzione’.
+
+In psicologia, alcuni hanno considerato per parecchio
+tempo la mente come un insieme concreto di attributi di
+cui l'individuo era più o meno dotato. Ora, in un'ottica
+sistemica, si considera che gli attributi non possiedono
+realtà se non in rapporto agli altri: un movimento non
+
+47
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+può venir colto che in rapporto con un riferimento fisso, la
+rugosità di una materia solo se le si sposta sopra il dito, il
+comportamento di un individuo attraverso quello dei suoi
+interlocutori...
+
+Tutto ciò mostra che «le percezioni implicano un proces-
+so di cambiamento, movimento o scansione».
+
+Per ottenere una visione netta di un fenomeno, bisogna
+stabilire delle relazioni tra gli elementi che lo definisco-
+no, relazioni che si possono considerare come identiche al
+concetto matematico di funzione; l'essenza delle nostre
+percezioni non è costituita da oggetti separati ma da ‘fun-
+zioni’ che non sono delle grandezze isolate, bensì «dei se-
+gni per esprimere una combinazione... un’infinità di si-
+tuazioni possibili dello stesso carattere». Così, la coscien-
+za che un individuo ha di se stesso (la sua identità) di-
+scende dalle relazioni nelle quali è impegnato, quale che
+sia la maniera con cui in seguito potrà reificare e sostan-
+zializzare questa coscienza. Come un bambino non si sen-
+te ‘figlio’ se non perché ha dei ‘genitori’, così non può sen-
+tirsi ‘figlio felice’ se non è stato gratificato in questo ruolo
+dai suoi genitori, ma solo se il rapporto che si è instaurato
+fra lui ed i suoi genitori è stato soddisfacente. Si può quindi
+definire l’identità o il carattere del ‘figlio felice’ come il
+risultato di una relazione gratificante e valorizzatrice tra
+genitori e bambino.
+
+Le cause di un comportamento preso isolatamente spes-
+so restano oscure per un osservatore, o anche per il suo
+autore, ma se in una comunicazione «si nota che il com-
+portamento a sollecita il comportamento b, c, d, oppure e
+nell’altro, mentre è evidente che esclude i comportamenti
+x, y e 2, allora si può postulare un teorema della metaco-
+municazione»*. L’interazione, in questo senso, può venir
+definita come un ‘gioco’, una ‘successione di colpi’ retta da
+‘regole’ rigorose. Il che vorrebbe dire che esiste una logica
+della comunicazione umana le cui regole sono osservate
+in una buona’ comunicazione mentre vengono rotte in una
+comunicazione perturbata.
+
+48
+
+UNA LOGICA DELLA COMUNICAZIONE
+
+2. Alcune nozioni chiave elaborate
+dalla Scuola di Palo Alto
+
+La pragmatica della comunicazione elaborata dalla Scuo-
+la di Palo Alto si fonda su alcune nozioni chiave che ora
+presenteremo.
+
+a) I livelli di senso di un messaggio
+
+Ogni messaggio comporta due sensi: da una parte, tra-
+smette un’informazione su dei fatti, delle opinioni, dei sen-
+timenti, delle esperienze di cui parla il locutore, ma, dal-
+l’altra, esprime anche, direttamente o indirettamente,
+qualcosa sulla relazione tra gli interlocutori. Se un uomo
+seduto in una sala da tè si china verso una sconosciuta
+seduta a un tavolino vicino e le chiede l’ora, questo mes-
+saggio contiene certamente una richiesta di informazio-
+ne, ma traduce forse anzitutto il desiderio dell’uomo di
+entrare in rapporto con la sconosciuta.
+
+Bateson chiama il primo livello indice e il secondo ordi-
+ne; più correntemente la Scuola di Palo Alto parla di con-
+tenuto del messaggio e di relazione. Spesso in molte co-
+municazioni, come nel nostro esempio, il contenuto è ano-
+dino o secondario e la funzione prima del messaggio si
+situa a livello della relazione.
+
+Questo livello può esprimersi in vari modi: verbalmen-
+te ed esplicitamente («Sei mio amico, devi farmi un favo-
+re»), ma spesso anche in maniera non verbale («Sei mio
+amico» può venir tradotto da un sorriso, un gesto della
+mano, uno sguardo implorante...) Può essere anche un
+effetto del contesto (se una persona dice a un’altra: «Mi
+vuole fare questo favore?» e se la prima è il capo della
+seconda e la scena avviene in un ufficio, è evidente che il
+messaggio trasmette l’indicazione: «Questo è un ordine»).
+
+Nel caso di sistemi di interazione continui, esistono,
+come si è visto, delle regole che definiscono il rapporto in
+maniera relativamente stabile; allora la comunicazione
+serve spesso a confermare o a sconfermare questa defini-
+zione; è una delle funzioni dei rituali sociali (come i salu-
+ti, le congratulazioni, l’invio di cartoline, i regali, eccete-
+ra): servono a rassicurare i protagonisti sul fatto che la
+
+49
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+loro relazione non è cambiata e che sono sempre d’accor-
+do sulla sua definizione. Ma un messaggio può anche ri-
+mettere in discussione questa definizione: se un amico non
+risponde al mio saluto questo può essere un messaggio
+che indica che qualche cosa è venuta a perturbare il ca-
+rattere amichevole dei nostri rapporti; allora io posso
+emettere un messaggio metacomunicativo il cui oggetto è
+verificare questa interpretazione («C’è qualcosa che non
+va fra di noi?») e precisare il livello relazionale del com-
+portamento del mio interlocutore.
+
+Tra i due livelli di senso, può esservi congruenza o di-
+scordanza. Si parlerà di congruenza? se il contesto di un
+messaggio è coerente con l'aspetto relazione: se qualcuno
+mi incontra e mi dice «Come sono contento di vederti» e
+nello stesso tempo il suo sorriso, il suo sguardo, i suoi ge-
+sti esprimono il piacere che ha per questo incontro, la co-
+municazione è congruente; al contrario, se il suo viso smen-
+tisce le sue affermazioni, se ha l’aria contrariata e distan-
+te, vi sarà discordanza nel messaggio tra il livello conte-
+nuto e il livello relazione. In questo secondo caso, la co-
+municazione sarà molto meno chiara che nel primo e il
+rischio di confusione è grande se vi è una ripetizione del
+processo.
+
+b) La dualità dei messaggi
+
+Per comunicare utilizziamo dei segnali che sono di ordini
+differenti (parole, gesti, posture, mimiche), ma affinché una
+comunicazione passi tra un emettitore e un ricettore biso-
+gna che i segnali utilizzati dal primo siano comprensibili
+dal secondo: detto in altre parole, devono appartenere a un
+‘codice’ comune all’emettitore e al ricettore.
+
+Noi utilizziamo due tipi di codici: l’uno è oggettivo, defi-
+nitorio, cerebrale, logico, analitico: è il linguaggio della
+scienza, della spiegazione, dell’interpretazione. L'altro è
+affettivo e immaginifico: utilizza delle figure, delle meta-
+fore, dei simboli. Il primo è sottomesso alle leggi della sin-
+tassi e della semantica. Si serve di segni ‘arbitrari’, che
+non hanno alcun altro rapporto se non quello convenzio-
+nale tra il significante e il significato. Il secondo è quello
+dei pensieri non diretti; si esprime con l’aiuto di una sim-
+
+50
+
+UNA LOGICA DELLA COMUNICAZIONE
+
+bologia in cui il significante mantiene un legame analogi-
+co con il significato. L'esempio più tipico è quello del lin-
+guaggio del sogno. La gestualità spesso è di quest'ordine:
+fare smorfie per rifiutare qualche cosa mima il disgusto
+che ispira una proposta, anche se questa non è ‘disgusto-
+sa’ in se stessa; battere un pugno sulla tavola serve a far
+entrare un’argomentazione nella testa dell’interlocutore,
+eccetera. i
+
+La Scuola di Palo Alto designa questi due modi di espres-
+sione ricorrendo al linguaggio dell’elettronica. In certi com-
+puter i dati sono tradotti da numeri o da nomi in codice
+attribuiti arbitrariamente e «la loro somiglianza con le
+grandezze reali è davvero minima, la stessa, per inten-
+derci, che i numeri di telefono hanno con gli abbonati a
+cui sono stati assegnati». Siccome lavorano essenzialmente
+con dei digit (termine che designa un’unità di informazio-
+ne nel sistema di calcolo binario) li si chiama ‘digitali’.
+Altri, «i calcolatori analogici (così definiti perché ciò che
+manipolano sono gli analoghi dei dati) operano [...] con
+grandezze positive, discrete»! (così come vi sono degli oro-
+logi digitali che mostrano delle cifre e degli orologi analo-
+gici in cui l’ora viene rappresentata dalla posizione delle
+lancette).
+
+Così le due modalità della comunicazione verranno defi-
+nite come digitali se la comunicazione si stabilisce grazie
+ad un segno il cui rapporto con il significato dato è di pura
+convenzione e come analogiche se la comunicazione si fon-
+da su dei segnali che hanno un rapporto immediato ed evi-
+dente con ciò che significano per il tramite di una somi-
+glianza o di una simbolizzazione. La comunicazione digita-
+le non può passare che tra individui che hanno imparato il
+significato del codice utilizzato, mentre la comunicazione
+analogica può stabilirsi senza apprendimento, per perce-
+zione immaginifica: se uno straniero di cui non conoscete
+la lingua vi telefona per chiedervi l’ora, sarete incapaci di
+capire la sua richiesta (utilizza un linguaggio digitale), ma
+se questo stesso straniero vi avvicina per strada picchiet-
+tando con l’indice della mano destra il suo polso sinistro
+con aria interrogativa capirete che vi chiede l’ora (ha uti-
+lizzato in questo caso un linguaggio analogico).
+
+Il linguaggio digitale è molto più preciso del linguaggio
+
+51
+
+---
+
+|
+|
+
+it
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+analogico, ma questa precisione gli è per l'appunto di di-
+sturbo per cogliere e descrivere le sfumature sottili, i sen-
+timenti, le emozioni. Al contrario, il linguaggio analogico
+concede una parte più grande all’interpretazione perso-
+nale nella trasmissione dei segnali, è più immaginifico
+ma è meno preciso e il suo significato resta spesso vago.
+Così dichiarare il proprio amore in linguaggio digitale
+porta a dire «ti amo»; questa espressione in se stessa non
+è in alcun caso sufficiente per convincere l’altro della no-
+stra sincerità; per farlo, bisognerà ricorrere a una comu-
+nicazione più analogica: tremito della voce o delle mani,
+lacrime agli occhi, sguardo intenso, eccetera. Ma anche
+questo linguaggio analogico senza dubbio non potrebbe
+bastare dato che le lacrime, i tremiti o l’intensità dello
+sguardo potrebbero altrettanto bene significare un altro
+sentimento e non l’amore.
+
+Di fatto, generalmente ricorriamo alla combinazione dei
+due linguaggi. Si constata allora che il contenuto di un
+messaggio viene spesso dato da un codice digitale, men-
+tre tutto ciò che riguarda la relazione viene trasmesso
+piuttosto dalla comunicazione analogica.
+
+c) La punteggiatura della comunicazione
+
+L’espressione ‘punteggiatura della sequenza dei fatti’ è
+stata creata dal linguista Benjamin Lee Whorf e ripresa
+da Bateson e Jackson. Designa due cose: il modo con cui i
+partner di un’interazione tagliano la loro comunicazione,
+che a un primo approccio potrebbe essere considerata come
+un susseguirsi ininterrotto di scambi, in un susseguirsi
+di segmenti; e designa altrettanto lo sguardo (punto di
+vista) con cui ciascun interagente vede il suo comporta-
+mento e quello del suo partner. Così, per dare un esempio
+umoristico, in un'esperienza di condizionamento di un topo
+in un laboratorio, il topo potrebbe punteggiare così la sua
+comunicazione con il ricercatore: «Ho addestrato bene il
+mio sperimentatore. Ogni volta che premo sulla leva, lui
+mi dà da mangiare».
+
+Il taglio della sequenza dei fatti diverge spesso da un
+interlocutore all’altro e molte liti possono venir spiegate
+in questo modo. Consideriamo una coppia in cui il marito
+
+52
+
+UNA LOGICA DELLA COMUNICAZIONE
+
+abbia una certa tendenza all’isolamento e all’introversio-
+ne e in cui la moglie sia facilmente aggressiva; i loro scambi
+si riducono a un lungo susseguirsi di «mi chiudo in me
+stesso» per l’uno e «sono astiosa» per l’altra. Tuttavia il
+loro modo di percepire il rapporto sarà differente: lui pen-
+serà di isolarsi per proteggersi dall’atteggiamento astioso
+di sua moglie; lei sarà convinta che il suo astio viene pro-
+vocato dall‘assenza’ di suo marito, che è un mezzo dispe-
+rato per mantenere un dialogo quando l’altro lo rifugge.
+Ciascuno di essi considera il suo atteggiamento come una
+‘risposta’ a quello dell’altro; detto in altri termini, non sono
+d’accordo sulla punteggiatura della loro relazione: il ma-
+rito fa iniziare la sequenza al primo scoppio d’ira di sua
+moglie («ero là tranquillo, sulla mia poltrona, che leggevo
+il mio giornale e lei si è messa a insultarmi»); la moglie
+situa questo inizio al momento in cui suo marito ha preso
+il giornale («si stava bene tutti e due ed ecco che lui mi
+molla e va a piazzarsi con il suo giornale come se ne aves-
+se abbastanza di vedermi»). Poiché tagliano in maniera
+differente le sequenze dei loro scambi, si vedono rispetti-
+vamente, e sinceramente, come la vittima dell’altro e non
+pensano di poter agire sulla relazione.
+
+Lo sguardo con cui i partner di un'interazione vedono i loro
+scambi, il punto di vista che hanno sul loro svolgimento, fa
+anch'esso parte della punteggiatura. Infatti un medesimo
+comportamento può venire connotato, interpretato in ma-
+niera diversa e ne può seguire, a seconda dei casi, una si-
+tuazione imbarazzante, ambigua o conflittuale. Così, du-
+rante l’ultima guerra, i soldati americani di stanza in Gran
+Bretagna e le ragazze che frequentavano sì accusarono a
+vicenda di villania e di mancanza di pudore nei rapporti
+amorosi, dato che ciascuna delle parti giudicava che l’altra
+bruciasse le tappe e non facesse una corte ‘rispettabile’.
+Nei fatti, tutti si comportavano normalmente, ma era la
+norma che differiva da una cultura all’altra: se nelle due
+culture si ammetteva il principio di un ordine nel compor-
+tamento di approccio, quest'ordine non era lo stesso. Per
+gli americani il bacio arrivava assai presto e non portava a
+delle conseguenze; per le inglesi costituiva una delle ulti-
+me tappe prima dell’atto sessuale. Le ragazze erano dun-
+
+53
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+que scioccate che i loro corteggiatori volessero baciarle così
+presto e i giovanotti non capivano perché le loro compagne
+se ne scappassero (come delle ‘isteriche’) se tentavano ‘sol-
+tanto’ di baciarle oppure passassero tanto in fretta (‘impu-
+dicamente”) all’ultima tappa quando si erano lasciate ba-
+ciare.
+
+Dei qui pro quo come questo non sono unicamente il frut-
+to di differenze culturali, è anche quello che succede nei
+rapporti quotidiani. Così, una madre si lagnava del suo
+ruolo di cerniera tra suo marito e i figli («se non ci fossi io
+a funzionare da legame, non si parlerebbero mai»), men-
+tre il padre rimproverava a sua moglie di fare da schermo
+tra i figli e lui («lei non sopporta che ci si parli diretta-
+mente senza passare attraverso di lei, bisogna sempre che
+lei sia presente»). E ognuno dei due incolpava l’altro di
+maldestrezza, d’incomprensione o di mala fede.
+
+La questione di sapere se uno dei punti di vista o uno
+dei tagli è giusto o falso ha una scarsa pertinenza. Quello
+che è importante è di capire che «la punteggiatura orga-
+nizza gli eventi comportamentali ed è quindi vitale per le
+interazioni in corso»! e che la natura di una relazione
+dipende in gran parte dal modo con cui i partner punteg-
+giano i loro scambi.
+
+d) La metacomunicazione
+
+Metacomunicare significa, per due o più persone in inte-
+razione, discutere intorno al loro comunicare!?. La meta-
+comunicazione può vertere sul contenuto o sulla relazio-
+ne. Se, per esempio, dico: «Ho appena parlato di intera-
+zione: per me interazione ha il seguente significato...», com-
+mento il mio messaggio al livello del senso che do al con-
+tenuto; se lancio al mio interlocutore: «Ti ho detto quelle
+cose perché ero arrabbiato con te...», commento il mio
+messaggio al livello del significato che esso riveste riguardo
+alla relazione che ho con il mio interlocutore.
+
+La metacomunicazione può essere esplicita e verbale
+come negli esempi che si sono appena dati. Può essere
+implicita ed esprimersi in maniera comportamentale o
+contestuale: se nel corso di un pranzo un convitato si met-
+
+54
+
+UNA LOGICA DELLA COMUNICAZIONE
+
+te in piedi e alza il suo calice, metàcomunica agli altri
+convitati che quello che sta dicendo è un ‘brindisi’; se un
+padre invita suo figlio ad andare a un incontro con lui nel
+suo ufficio, gli metacomunica, scegliendo questo quadro,
+che quello che deve dirgli è importante.
+
+Quello che si è appena visto della punteggiatura con-
+sente di capire che la metacomunicazione riveste una fun-
+zione essenziale di regolazione. Difatti, è grazie ad essa
+che gli interlocutori possono precisare il senso che danno
+al loro messaggio e rettificare in questo modo gli errori di
+ricezione, di interpretazione o di punteggiatura del loro
+partner. È quindi un elemento capitale per una ‘buona’ co-
+municazione. Quando, per una qualsiasi ragione, essa di-
+venta impossibile (a causa di una proibizione, di una ten-
+sione, di un sentimento di incomprensione...), questo com-
+porta per lo più delle gravi perturbazioni negli scambi.
+
+3.1 modelli di interazione
+
+Sin qui ci siamo posti al livello delle sequenze di intera-
+zione. Ma, assumendo un contesto più esteso e osservan-
+do le ridondanze da sequenze a sequenze, non si possono
+ricavare categorie più ampie, delle specie di modelli ge-
+nerali dei tipi di interazione?
+
+a) Ogni interazione è simmetrica o complementare
+
+I concetti di ‘simmetria’ e di ‘complementarietà’ nelle re-
+lazioni sono stati introdotti da G. Bateson dal 1986 in Na-
+ven. Osservando gli Iatmul della Nuova Guinea, Bateson
+provò il bisogno di elaborare un metodo e dei concetti per
+capire, analizzare e interpretare le condotte degli indivi-
+dui, la loro evoluzione e la formazione del carattere etnico
+della popolazione studiata. Lo studio sistematico delle in-
+terazioni gli parve l'approccio più appropriato: «Sono pro-
+penso a considerare lo studio delle reazioni di individui
+alle reazioni di altri individui un'utile definizione per quel-
+la disciplina che con termine vago viene definita psicolo-
+gia sociale, definizione che ci tiene lontani dal sospetto di
+misticismo. [...] Una volta che la nostra disciplina è defi-
+
+55
+
+---
+
+|
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+nita in termini di reazioni di un individuo alle reazioni di
+altri individui diventa subito evidente che dobbiamo te-
+ner conto del fatto che il rapporto tra due individui può di
+quando in quando alterarsi anche senza turbamenti dal-
+l'esterno e quindi considerare non soltanto le reazioni di
+A al comportamento di B ma andare oltre e considerare
+come queste reazioni influiscano poi sul comportamento
+di B e gli effetti che questo avrà su A»'5.
+
+Per dar conto di questo fenomeno di interazione, propo-
+ne il concetto di scismogenesi che definisce come «un pro-
+cesso di differenziazione nelle norme di comportamento
+individuale che è la risultante di interazioni cumulative
+tra gli individui».
+
+In questo quadro, distingue la scismogenesi complemen-
+tare che si caratterizza attraverso comportamenti dissi-
+mili ma articolati (per esempio, se A è autoritario, B, che
+ha delle relazioni continue con lui, può adattarsi al suo
+atteggiamento mostrandosi sottomesso; questa sottomis-
+sione di B favorirà l’autorità di A il cui comportamento
+chiederà una sempre maggiore sottomissione a B; così A
+diventerà sempre più autoritario e B sempre più sotto-
+messo) e la scismogenesi simmetrica, che si caratterizza
+attraverso dei comportamenti simili (per esempio, se la
+vanteria costituisce un comportamento sociale valorizza-
+to, può esservi un gioco al rilancio tra due individui, o due
+gruppi, e ciascuna vanteria dell’uno comporterà una mag-
+giore vanteria dell’altro; così, è il comportamento di B che
+incita A ad avere lo stesso esagerandolo, e via di seguito).
+
+Questi concetti sono stati ripresi nei lavori del Mental
+Research Institute abbandonando il termine un po’ com-
+plicato di scismogenesi. Jay Haley, per esempio, ha affi-
+nato la nozione di interazione complementare distinguen-
+dovi la posizione superiore (o posizione alta: quella del-
+l'individuo che dirige e detiene la responsabilità dell’inte-
+razione) e la posizione inferiore (o posizione bassa: quella
+dell’individuo che si adatta all’altro e risponde alla sua
+iniziativa). Questi concetti sono comodi a patto che non sì
+dimentichi che i partner di un’interazione sono solidali
+nella definizione delle loro relazioni e che si ammetta che
+le posizioni si richiamano reciprocamente senza che vi sia
+uno che imponga necessariamente all’altro il suo compor-
+
+5h
+
+UNA LOGICA DELLA COMUNICAZIONE
+
+tamento. Nel modello simmetrico l'accento viene posto
+sugli sforzi dispiegati per instaurare e mantenere l’egua-
+glianza tra i partner; questa eguaglianza si stabilisce con
+dei messaggi a ‘specchio’: ogni comportamento dell’uno
+provoca un comportamento identico nell’altro. Per esem-
+pio, in una coppia i cui partner definiscano la loro relazio-
+ne sotto il segno dell’eguaglianza, l’uomo si farà un punto
+di onore di lavare anche i piatti o di fare la spesa e la
+donna di riparare anche un interruttore difettoso o di cam-
+biare una ruota; eventualmente terranno anche mental-
+mente la contabilità dei ‘servizi’ che si ‘devono’ reciproca-
+mente. Si trova un altro esempio della relazione simme-
+trica nella regola di reciprocità che presiede ad assai nu-
+merosi rituali sociali (come l’obbligo di ‘contraccambiare
+un invito a cena’ a chi a sua volta vi ha già invitati o di
+fare un regalo alla persona che ve ne ha fatto uno).
+
+Nel modello complementare, la relazione è fondata sul
+riconoscimento e sull’accettazione della differenza: in essa
+i partner adottano dei comportamenti contrastati, adat-
+tandosi l’uno all’altro; ciascun messaggio risponde a quel-
+lo dell’interlocutore obbedendo alle ingiunzioni che esso
+comporta. In una coppia che vive su questo modello, la
+donna si dedicherà ad avere un comportamento ‘femmi-
+nile’ e a limitarsi ai compiti strettamente ‘domestici’ e l’uo-
+mo ad avere un comportamento ‘virile’ e a concedersi del-
+le maschili responsabilità (guadagnare denaro, sgridare i
+figli, fare lavoretti in casa...) Il modello di buona creanza
+tradizionale definisce così dei compiti e dei ruoli precisi
+che sono assegnati a ciascuno a seconda del suo sesso e
+del suo rango: la signora sceglie il menù ma il signore
+ordina i vini, i genitori decidono e i figli obbediscono, il
+superiore può restare seduto mentre l’inferiore deve sta-
+re in piedi, eccetera.
+
+L'analisi dei tipi di interazione consente
+la previsione dei comportamenti
+
+Ogni scambio di comunicazione rientra all’interno di uno
+di questi due modelli: è simmetrico o complementare a
+seconda che si fondi sull’eguaglianza o sulla differenza"“.
+Un comportamento ‘in sé’ non può venire interpretato, ma
+
+57
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+deve essere collegato con quelli che lo precedono o seguo-
+no nel partner: dare uno schiaffo o fare una carezza non è
+né l’uno né l’altro: è un atto che si inserisce in una catena
+di interazioni. Per determinare se una relazione è com-
+plementare o simmetrica, non bisogna prendere come
+unità di base il comportamento bensì la transazione. Si
+dirà quindi che una transazione è simmetrica se il secon-
+do messaggio è simile al primo e complementare se il se-
+condo messaggio è differente dal primo e vi risponde. Ogni
+analisi delle interazioni suppone dunque un taglio codifi-
+cato delle transazioni, dato che questa codificazione deve
+permettere di elaborare una tipologia generale di transa-
+zioni complementari e simmetriche. Ecco alcuni esempi?5:
+
+— dare/ricevere delle istruzioni: transazione complemen-
+tare (il dare è la posizione superiore e il ricevere la posi-
+zione inferiore);
+
+—interrogare/rispondere: transazione complementare (l’in-
+terrogare è la posizione superiore e il rispondere la posi-
+zione inferiore);
+
+— affermare/consentire: transazione complementare (l’af-
+fermare è la posizione superiore e il consentire la posizio-
+ne inferiore);
+
+— fare un’enunciazione referenziale/fare un’enunciazione
+referenziale: transazione simmetrica;
+
+— consentire/consentire: transazione simmetrica;
+
+— dare delle istruzioni/rispondere con altre istruzioni: tran-
+sazione simmetrica...
+
+L'analisi delle transazioni consente di definire tre tipi di
+posizioni in rapporto all’altro: superiore (7), inferiore ()
+e simmetrica (s). Ora, quando si effettua un censimento
+sistematico delle posizioni degli individui secondo le loro
+repliche nelle transazioni, ci si accorge che la loro distri-
+
+buzione non si dà per caso, ma risponde a una certa logica
+
+di comportamento. Così, se due individui intrattengono
+una relazione complementare e A termina una transazio-
+ne con una replica ("), la replica di B che ne seguirà non
+potrà che essere (‘) e viceversa; se A dà un ordine a B,B
+
+58
+
+UNA LOGICA DELLA COMUNICAZIONE
+
+l’eseguirà, se A interroga B, B gli risponderà, eccetera.
+Altrimenti c’è conflitto, rottura dello scambio o rimessa
+in discussione del modello interazionale.
+
+Un’analisi di questo tipo presenta il duplice vantaggio di
+rendere possibile una previsione dei comportamenti degli
+interagenti in funzione di un’osservazione parziale delle
+loro transazioni e di portare a delle tipologie coerenti delle
+forme di interazione; queste tipologie costituiscono uno stru-
+mento di analisi per le situazioni reali che consente di ca-
+ratterizzarle e di compararle (si può così comparare la na-
+tura di una relazione prima e dopo una terapia).
+
+I rituali e i giochi sono le due principali
+strategie della comunicazione
+
+I rituali sono dei modelli di interazione fatti di transazio-
+ni semplici che si richiamano secondo una concatenazio-
+ne fossilizzata; l'esempio più stereotipato è quello dei sa-
+luti («Toh! Buongiorno», «Buongiorno», «Come va?», «Va,
+va», «Bel tempo oggi», «Sì, bel tempo», «A presto», «Certo,
+a presto»...)
+
+I rituali hanno una portata simbolica; i messaggi che
+utilizzano non hanno praticamente alcun contenuto si-
+gnificativo, ma danno senso al livello della relazione. La
+loro funzione essenziale è di riconoscimento e di confer-
+ma della relazione; servono così a rafforzare la coesione
+tra gli interagenti: giocano quindi un ruolo di rassicura-
+zione e di mantenimento della relazione (la loro mancan-
+za equivale d’altronde a una rimessa in discussione della
+relazione o addirittura a un atto aggressivo che può con-
+durre al conflitto o alla rottura della comunicazione). Essi
+hanno pertanto un valore metacomunicativo.
+
+I giochi sono delle sequenze di transazioni nascoste (una
+serie di ‘mosse’ come negli scacchi), che progrediscono ver-
+so un risultato ben definito e da cui i protagonisti cercano
+di ricavare un certo ‘guadagno’ a spese gli uni degli altri
+(istituendo dei ‘vincitori’ e dei ‘perdenti’); queste sequen-
+ze tendono a ripetersi secondo un modello tipo che defini-
+sce la relazione tra i protagonisti. Pur riprendendo una
+parte del senso abituale del termine ‘gioco’, l’uso che ne
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+viene fatto qui non implica l’idea di divertimento, né l’idea
+di un calcolo cosciente; i giochi possono avere un caratte-
+re drammatico! e sfuggire alla presa di coscienza di colo-
+ro che vi partecipano a loro insaputa.
+
+È Eric Berne, il fondatore dell’analisi transazionale, che
+ha sviluppato maggiormente questa nozione per farne uno
+strumento di analisi delle interazioni!”. Propone tutta una
+tipologia di giochi, che costituiscono altrettanti modelli
+secondo i quali si organizzano le relazioni umane e socia-
+li. Portiamo alcuni esempi di questi modelli, caratterizza-
+ti ogni volta da una frase tipica:
+
+— «Guarda quello che mi hai fatto fare». Un padre di fami-
+glia si assorbe nel suo studio in un’attività che tende a
+proteggerlo dagli altri; sua moglie o uno dei suoi figli en-
+tra per chiedere qualche cosa: questa intrusione è ‘causa’
+di un gesto brusco del padre che rovescia il calamaio (o fa
+scivolare il suo pennello, eccetera) e si rivolge con rabbia
+contro l’intruso gridando: «Guarda quello che mi hai fatto
+fare»; nella misura in cui l'incidente si ripete, la famiglia
+tende sempre più a lasciare che il padre si rinchiuda nel
+suo isolamento e nell’idea che sono gli altri ad essere re-
+sponsabili della sua goffaggine.
+
+— «Vedi bene come ci ho provato.» Una coppia è sull’orlo
+della separazione; l’uomo desidera divorziare anche se so-
+stiene il contrario; la donna spera ancora di salvare il suo
+matrimonio e propone una terapia coniugale. Il marito
+accetta e di fronte al terapeuta manifesta un’apparente
+sottomissione improntata al risentimento; all’inizio fa
+degli ‘sforzi’ a casa per migliorare il suo comportamento,
+poi diventa sempre più odioso e alla fine interrompe la
+terapia. E allora la donna che deve chiedere il divorzio. Il
+marito è ormai bianco come la neve dato che ha «tentato
+tutto» per aggiustare le cose.
+
+Tutti questi giochi si possono ritrovare trasposti in mille
+situazioni differenti e con dei protagonisti intercambia-
+bili.
+
+Ma con questo tipo di interazione si affronta già il ter-
+reno della patologia della comunicazione.
+
+60
+
+UNA LOGICA DELLA COMUNICAZIONE
+
+NOTE
+
+! Non bisogna dimenticare che Freud stesso aveva aperto la strada in
+questo senso: «La contrapposizione tra psicologia individuale e psicolo-
+gia sociale o delle masse, contrapposizione che a prima vista può sem-
+brarci molto importante, perde, a una considerazione più attenta, gran
+parte della sua rigidità. La psicologia individuale verte sull’uomo singo-
+lo e mira a scoprire attraverso quali modalità egli persegua il soddisfa-
+cimento dei propri moti pulsionali; eppure, solo raramente, in determi-
+nate condizioni eccezionali, la psicologia individuale riesce a prescinde-
+re dalle relazioni di tale singolo con altri individui. Nella vita psichica
+del singolo l’altro è regolarmente presente come modello, come oggetto,
+come soccorritore, come nemico, e pertanto, in quest’accezione più am-
+pia ma indiscutibilmente legittima, la psicologia individuale è al tempo
+stesso, fin dall'inizio, psicologia sociale» (Massenpsychologie und Ich-
+Analyse, 1921, trad. it. Psicologia delle masse e analisi dell’Io, Borin-
+ghieri, Torino, 1979).
+
+? Pragmatica della comunicazione umana, cit., pag. 16.
+
+3 Ibid., pag. 14.
+
+‘ Ibid., pag. 34.
+
+° G. Bateson Verso un'ecologia della mente, cit., pag. 423.
+
+$ Ibid., pag. 425.
+
+* Pragmatica della comunicazione umana, cit., pag. 21.
+
+è Ibid., pag. 35. Metacomunicazione va intesa qui come discorso (scienti-
+fico) sulla comunicazione.
+
+* Questa nozione di congruenza è altrettanto essenziale nella psicologia
+di Carl Rogers.
+
+!° Pragmatica della comunicazione umana, cit., pag. 53.
+
+ll Ibid., pag. 49.
+
+!? Bisogna notare che la Scuola di Palo Alto usa questo termine anche
+nel senso di ‘discorso scientifico sulla comunicazione’ e dunque come
+sinonimo di teoria della comunicazione.
+
+!" G. Bateson Naven, Standford, 1958 (trad. it. Naven, Einaudi, Torino,
+1988).
+
+14 Se il rapporto tra due persone tende a strutturarsi secondo un model-
+lo simmetrico o complementare, può anche combinare i due modelli a
+seconda dei momenti o dei campi; così in una coppia la suddivisione dei
+compiti e dei ruoli educativi può avvenire secondo un modello comple-
+mentare, mentre la gestione del budget e la scelta degli amici verrano
+compiute secondo un modello simmetrico.
+
+! Estratti da C.E. Sluzki e J. Beavin Symétrie et complémentarité: une
+définition opérationelle et une typologie des dyades, in ‘Sur l’interaction’,
+cit., pag. 108.
+
+!* In Pragmatica della comunicazione umana, gli autori analizzano il
+gioco perverso che lega Georges e Martha nell'opera teatrale Chi ha
+paura di Virginia Woolf?
+
+61
+
+---
+
+UNA TEORIA DELLA COMUNICAZIONE
+
+!" Eric Berne non appartiene alla Scuola di Palo Alto; il suo modo di
+procedere è originale anche se è, anch'esso, di ispirazione sistemica e
+interazionale. Pure la Scuola di Palo Alto utilizza la nozione di gioco in
+un senso simile, seppure più impreciso.
+
+62

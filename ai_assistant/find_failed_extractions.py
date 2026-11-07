@@ -12,6 +12,9 @@ Usage:
 Output: failed_extractions.txt  (tab-separated: TYPE <tab> PATH)
 """
 
+# Lets `str | None` annotations work on the system Python 3.9.
+from __future__ import annotations
+
 import re
 import sys
 from pathlib import Path

@@ -1,0 +1,1271 @@
+[FONTE: Pragmatica_cap1_presupposti_teorici.pdf — pagine 1-14 di estratto da Pragmatica della comunicazione umana.pdf]
+
+Capitolo 1
+
+PRESUPPOSTI TEORICI
+
+dl
+
+Si considerino le seguenti situazioni:
+
+In una zona del Canada del Nord il numero delle volpi
+aumenta e diminuisce con una periodicità degna di atten-
+zione. La popolazione raggiunge la punta massima in un ci-
+clo di quattro anni, poi declina fino alla quasi estinzione, e
+infine comincia a risalire. Se il biologo si limitasse ad osser-
+vare le volpi, questi cicli resterebbero inspiegabili, perché
+non c'è nulla che spieghi tali cambiamenti né nella natura
+della volpe né in quella di tutta la specie. Tuttavia una vol-
+ta che ci siamo resi conto che le volpi cacciano esclusiva-
+mente i conigli selvatici e che questi conigli non hanno qua-
+si nessun altro nemico naturale, tale rapporto tra le due spe-
+cie ci dà una spiegazione soddisfacente per un fenomeno che
+altrimenti sarebbe misterioso. Si potrà allora osservare che il
+ciclo dei conigli è identico ma opposto, cioè che essi au-
+mentano di numero quando diminuiscono le volpi e vicever-
+sa: infatti, quanto più numerose sono le volpi tanto più nu-
+merosi sono i conigli che esse uccidono, finché il cibo di-
+venta assai scarso. Allora diminuiscono di numero e danno
+ai conigli sopravvissuti la possibilità di moltiplicarsi e di cre-
+scere con rinnovato vigore nell’assenza di fatto del loro ne-
+mico, le volpi. Tutti questi nuovi conigli creano una situa-
+zione favorevole per le volpi che possono sopravvivere e ri-
+prodursi, ecc.
+
+Un uomo è colto da un improvviso malore e viene pron-
+tamente trasportato in ospedale. Il medico che lo visita ri-
+scontra stato di incoscienza, pressione del sangue estrema-
+mente bassa, e in genere il quadro clinico di una intossica-
+zione acuta da alcol o stupefacenti. Ma le analisi non rive-
+
+---
+
+1.1 PRAGMATICA DELLA COMUNICAZIONE UMANA
+
+lano nessuna traccia di tali sostanze. La condizione del pa-
+ziente resta inspiegabile finché non riprende conoscenza e di-
+ce di essere un ingegnere minerario, di aver lavorato per due
+anni in una miniera di rame sulle Ande a quasi 4.000 me-
+tri di altezza, e di esserne appena ritornato. Ora è chiaro
+che la condizione del paziente non è una malattia nel senso
+che di solito diamo a questo termine, cioè l’insufficienza di
+un organo o di un tessuto, ma il problema di adattamento
+di un organismo clinicamente sano a un drastico cambia-
+mento d’ambiente. Se l’attenzione del medico si concentras-
+se soltanto sul malato, e se prendesse in considerazione sol-
+tanto l'ecologia del proprio ambiente, lo stato del malato re-
+sterebbe misterioso.
+
+Nel giardino di una casa di campagna, visibile dal mar-
+ciapiede esterno, un grosso signore con tanto di barba stri-
+scia accoccolato per il prato tracciando degli otto, mentre
+continua a guardarsi indietro e a fare ininterrottamente ‘qua
+qua qua.... È la descrizione che l’etologo Konrad Lorenz ci
+dà del proprio comportamento durante uno dei suoi memo-
+rabili esperimenti con gli anatroccoli (nella fattispecie, si era
+sostituito alla loro madre). “Ero molto compiaciuto”, scrive,
+“dei piccoli che ubbidienti e precisi seguivano trotterellando
+il mio ‘qua qua’, quando a un certo momento alzai gli oc-
+chi e vidi una fila di volti allibiti affacciata sopra la siepe
+del giardino: una intera comitiva di turisti mi guardava stu-
+pefatta”. L'erba alta nascondeva gli anatroccoli e quello che
+vedevano i turisti era qualcosa del tutto inspiegabile, un
+comportamento veramente folle. (96, p. 43)
+
+Questi esempi apparentemente così slegati hanno invece un deno-
+minatore comune: un fenomeno resta inspiegabile finché il campo di
+osservazione non è abbastanza ampio da includere il contesto in cui
+il fenomeno si verifica. Se l’osservatore non si rende conto del vi-
+luppo di relazioni tra un evento e la matrice in cui esso si verifica,
+tra un organismo e il suo ambiente, o è posto di fronte a qualcosa
+di ‘misterioso’ oppure è indotto ad attribuire al suo oggetto di stu-
+dio certe proprietà che l’oggetto può non avere. In biologia è un fat-
+to ormai accettato, mentre sembra che le scienze del comportamento
+continuino in larga misura a considerare l’individuo come una mona-
+de e a basarsi sul metodo venerando di isolare le variabili. Questo
+diventa particolarmente evidente quando l’oggetto di studio è il com-
+
+14
+
+PRESUPPOSTI TEORICI 1.1
+
+portamento disturbato. Se si studia una persona dal comportamento
+disturbato (psicopatologia) isolandola, allora l'indagine deve occuparsi
+della ratura di tale condizione e — in senso esteso — della natura del-
+la mente umana. Se invece si estende l’indagine fino ad includere gli
+effetti che tale comportamento ha sugli altri, le reazioni degli altri a
+questo comportamento, e il contesto in cui tutto ciò accade, il cen-
+tro dell’interesse si sposta dalla monade isolata artificialmente alla re-
+lazione tra le parti di un sistema più vasto. Chi studia il com Dorta-
+mento umano passa allora dall’analisi deduttiva della mente all'anali
+si delle manifestazioni osservabili nella relazione: ;/ veicolo di tali i.
+nifestazioni è la comunicazione. ST
+
+A nostro parere lo studio della comunicazione umana si può divi-
+dere in tre settori: quello della sintassi, quello della semantica e quel.
+lo della pragmatica secondo la terminologia di Morris (106) ripresa
+da Carnap (33, p. 9) per lo studio della semiotica (la teoria genera-
+le dei segni e dei linguaggi). Se si applica il primo di questi tre set-
+tori alla struttura della comunicazione umana, esso copre — si può
+ben dirlo — tutto quel gruppo di problemi relativi alla trasmissione
+dell’informazione. Va da sé che questo primo settore è di competen-
+za esclusiva del teorico dell’informazione, il quale appunto si interes-
+sa ai problemi della codificazione, dei canali, della capacità, del ru-
+more, della ridondanza, e di altre proprietà statistiche del linguaggio
+(cioè di problemi essenzialmente sirtattici), mentre non si interessa
+del significato dei simboli del messaggio. L'interesse primario della se-
+mantica è invece il significato. È senz’altro possibile trasmettere suc-
+cessioni di simboli con precisione sintattica, ma essi resterebbero pri-
+vi di significato a meno che il trasmettitore e il ricevitore non si sia-
+no accordati in precedenza sul loro significato. In tal senso, lo scam-
+bio effettivo di informazioni presuppone una convenzione semantica.
+C'è da aggiungere, infine, che la comunicazione influenza il compor-
+tamento, ed è questo l’aspetto che noi definiamo pragrzatico. Anche
+se una chiara divisione concettuale dei tre settori è dunque possibi-
+le, ciò nonostante essi sono interdipendenti. George (55, p. 41) fa
+notare che “sotto molti punti di vista è giusto dire che la sintassi è
+la logica matematica, la semantica è la filosofia o la filosofia della
+scienza, e la pragmatica è la psicologia, ma in realtà questi campi
+non sono affatto ben distinti”.
+
+Nel corso della nostra trattazione sfioreremo tutti e tre i settori so-
+pra indicati, ma ci occuperemo soprattutto della pragmatica, cioè de-
+gli effetti della comunicazione sul comportamento. A questo proposi-
+to vorremmo che fosse chiaro fin da ora che usiamo i termini co-
+Municazione e comportamento praticamente come sinonimi: perché i
+
+15
+
+---
+
+1.1 PRAGMATICA DELLA COMUNICAZIONE UMANA
+
+dati della pragmatica non sono soltanto le parole, le loro configura-
+zioni e i loro significati (che sono i dati della sintassi e della se-
+mantica), ma anche i fatti non verbali concomitanti come pure il lin-
+guaggio del corpo. Alle azioni del comportamento personale occorre
+inoltre aggiungere quei segni di comunicazione inerenti al contesto in
+cui ha luogo la comunicazione. È chiaro dunque che in questa pro-
+spettiva tutto il comportamento, e non soltanto il discorso, è comu-
+nicazione, e tutta la comunicazione — compresi i segni del contesto
+interpersonale — influenza il comportamento.
+
+Vogliamo poi precisare che non limitiamo il nostro interesse all’ef-
+fetto della comunicazione sul ricevitore (come generalmente si fa), ma
+ci occupiamo anche dell’effetto che la reazione del ricevitore ha sul
+trasmettitore, poiché riteniamo che i due effetti siano inscindibili.
+Non è dunque un caso se non ci soffermiamo sui rapporti trasmet-
+titore-segno 0 ricevitore-segno € preferiamo invece focalizzare il rap-
+porto trasmettitore-ricevitore in quanto mediato dalla comunicazione.
+
+Questo modo di accostarsi ai fenomeni del comportamento umano
+(normale o anormale che sia) si basa sulle manifestazioni che si pos-
+sono osservare in ogni relazione nel senso più esteso del termine, ed
+è quindi concettualmente più vicino alla matematica che alla psicolo-
+gia tradizionale, poiché è in una disciplina quale la matematica che i
+rapporti tra entità (e non la loro natura) costituiscono l'oggetto di in-
+teresse più immediato. Si sa d’altra parte che la psicologia tende tra-
+dizionalmente a una visione monadica dell’uomo e di conseguenza a
+una reificazione di quegli aspetti che ora si rivelano sempre più co-
+me modelli complessi di relazione e interazione.
+
+Faremo notare, ogni volta che è possibile, le affinità che hanno le
+nostre ipotesi con la matematica. Ma il nostro proposito non deve
+scoraggiare il lettore che ha una preparazione matematica limitata,
+perché non gli sottoporremo né formule né altro simbolismo specifi-
+co. Se è probabile che il comportamento umano trovi un giorno la
+sua espressione adeguata nel simbolismo matematico, non è certo no-
+stra intenzione tentare oggi una simile quantificazione. Ricorreremo
+piuttosto all’enorme mole di lavoro che è stato compiuto in certe
+branche della matematica ogni volta che quei risultati sembrano of-
+frirci un linguaggio capace di descrivere meglio i fenomeni della co-
+municazione umana.
+
+16
+
+PRESUPPOSTI TEORICI 1,2
+
+Tz
+
+La nozione di funzione e di relazione
+
+L'utilità che ha per noi un concetto matematico come quello di
+funzione spiega a sufficienza le ragioni che ci spingono a rice il
+la matematica come a un metodo esplicativo oppure a istituire ana
+logie con essa. Forse una breve digressione sulla teoria del n ui;
+può servire a spiegare meglio il nostro assunto. i nea
+
+Sembra che i filosofi della scienza concordino nel ritenere che il
+passo più significativo nella evoluzione del pensiero mafemmi ‘o mo
+derno, da Descartes ai nostri giorni, sia stato la GoimpAfSA. ceadiale
+di un concetto nuovo di numero. I matematici greci crede Che i
+numeri fossero grandezze concrete, reali, intuitive, proprietà di ‘ son
+ugualmente reali. Scopo della geometria era misurare e dell’aritraetica
+contare. Oswald Spengler, nel capitolo “Sul senso dei fiumert* (140)
+dimostra con gran lucidità non solo che la nozione di zero come fi i
+mero era impensabile, ma anche che le grandezze negative tion =
+vano posto nella realtà del mondo classico: “Le grandezze ne vative
+non esistono. La formula (-2) x (-3) = + 6 non è intuitiva né È ca
+rappresentazione di grandezze”.* Per duemila anni si è creduto che
+i numeri fossero l’espressione di grandezze; e Spengler ne ha tr:
+le conseguenze: i pato
+
+Finora non è esistita altra civiltà che abbia avuto tanta ve-
+nerazione per le creazioni di un’altra già da tempo estinta
+e che nel campo della scienza di essa abbia tanto subito l'in:
+fluenza, come ne è appunto il caso per la civiltà occidenta-
+le nei riguardi di quella antica. Occorse molto tempo prima
+che noi trovassimo il coraggio di pensare un pensiero nostro
+Nel fondo persisteva sempre il desiderio di emulare l’anti-
+chità. E tuttavia, a ogni passo fatto in tal senso, in realtà ci
+si allontanava dall’ideale sognato. La storia del sapere di
+dentale è quella di una progressiva emancipazione dal pensie-
+ro antico, di una liberazione che fu imposta dalle vrofondità
+dell’inconscio. nica
+
+© O. Spengler, I/ tramonto dell'Occidente, trad. it. di J. Evola, Milano, Longa
+3 ’ A do CERI
+
+nesi, 1957, p. 132.
+
+17
+
+---
+
+12 PRAGMATICA DELLA COMUNICAZIONE UMANA
+
+Così l'evoluzione della nuova matematica è stata ni lun-
+ga, segreta e, infine, vittoriosa lotta contro il concetto di gran-
+dezza.*
+
+Non occorre soffermarci su come fu vinta questa vittoria. Basti di-
+re che il fatto decisivo accadde nel 1591, quando Vieta introdusse la
+numerazione mediante le lettere dell’alfabeto. Fu una innovazione che
+relegò in secondo piano l’idea dei numeri come grandezze astratte:
+era sorto un concetto potente, quello di variabile, che per il mate-
+matico dell’antica Grecia sarebbe stato irreale come un allucinazione
+perché le variabili non hanno un valore indipendente, in antitesi col
+numero che rappresenta invece una grandezza intuitiva: una variabile
+ha valore solo in rapporto a un’altra variabile. Le variabili fornirono
+una dimensione nuova dell’informazione che contribuì a fondare la
+matematica nuova. Il concetto di funzione è costituito dal rapporto
+tra le variabili (espresso normalmente, ma non necessariamente, come
+una equazione). Le funzioni, per citare ancora Spengler,
+
+non sono numeri in senso plastico, bensì segni per un nes-
+so, cui mancano i caratteri della grandezza, della forma e
+della univocità — sono segni per una infinità di situazioni
+possibili di uno stesso tipo, che solo se comprese come unità
+sono numero. In una notazione che purtroppo usa molti se-
+gni atti a ingannare, ///4 l'equazione è effettivamente un nu-
+mero solo, mentre x, y e z lo sono tanto poco, quanto i se-
+gni + e =.**
+
+Così, ad es., l'equazione y? = 4ax, per il fatto che stabilisce un rap.
+porto specifico tra x e y, contiene tutte le proprietà di una curva.
+
+* Ibidem, p. 148.
+
+! J. David Stern (149) ha illustrato in un articolo recente quanto possa peste
+ingannevole il valore dei numeri intesi come grandezze anche quando l'as n-
+in primo luogo che rappresentino grandezze concrete, per es. in economia. Seri
+vendo del debito nazionale, Stern dimostra che, se lo si esamina isolatamente, cioè
+in termini di grandezza assoluta, occorre prendere atto che il debito nazionale ve
+gli Stati Uniti ha subito un aumento sbalorditivo: dai 257 miliardi di dollari de
+1947 ai 304 miliardi di dollari del 1962. Tuttavia se si collocano queste cifre nel
+contesto giusto, vale a dire se si esprimono in rapporto al reddito netto persona”
+le disponibile, risulta evidente una flessione dal 151 per cento all'80 pa cento du-
+rante questo periodo. I profani e gli uomini politici commettono facilmente que-
+
+18
+
+PRESUPPOSTI TEORICI 12
+
+È senza dubbio stimolante il parallelismo che si instaura tra l’af-
+fermazione in matematica del concetto di funzione e il riconoscimen-
+to in psicologia di quello di relazione. Per molto tempo — in un cer-
+to senso da Aristotele — si è concepita la mente come un apparato
+di proprietà o caratteristiche di cui un individuo era dotato in mag-
+gior o minor misura, così come poteva avere un corpo magro o gras-
+so, capelli rossi o biondi, ecc. Alla fine del secolo scorso si assistet-
+te in psicologia alla nascita di una età sperimentale: tra l’altro, fu in-
+trodotto un vocabolario di gran lunga più raffinato che non era però
+diverso dal vecchio in un punto sostanziale: era costituito di concet-
+ti più o meno irrelati e isolati. Questi venivano classificati come fun-
+zioni psichiche — sfortunatamente, dobbiamo dire, perché in realtà
+non avevano nulla a che fare con il concetto matematico di funzio-
+ne e nessuno aveva pensato a fare un riferimento del genere. Sap-
+piamo che sensazioni, percezioni, appercezioni, attenzione, memoria e
+diversi altri concetti sono stati definiti come ‘funzioni’; come del re-
+sto sappiamo dell'enorme mole di lavoro che è stato compiuto e che
+tuttora si compie per studiare tali ‘funzioni’ isolandole artificialmente.
+Ma Ashby, ad esempio, ha dimostrato come l’acquisizione di memo-
+ria sia in rapporto diretto con l’osservabilità di un sistema dato. Egli
+fa rilevare che un osservatore che sia in possesso di tutta l’informa-
+zione necessaria non ha bisogno di riferirsi al passato (e quindi
+all'esistenza di una memoria nel sistema): gli basta lo stato attuale del
+
+sistema per poterne spiegare il comportamento. Ashby fa questo
+esempio:
+
+Supponiamo che io mi trovi in casa di amici e che al pas-
+saggio di un’automobile lungo una strada, il cane di casa si
+rifugi in un angolo acquattandosi. Per me, questo comporta-
+mento è immotivato e inesplicabile. Il mio amico dice, a
+questo punto, che il cane è stato investito da un’automobi-
+le sei mesi prima. Il comportamento del cane può essere ora
+spiegato riferendosi a un avvenimento svoltosi sei mesi fa. Se
+noi diciamo che il cane mostra di possedere una ‘memoria’,
+ci riferiamo soprattutto al fatto che il suo comportamento
+non è spiegato dal suo stato attuale, ma dal suo stato di sei
+mesi prima. Se non si sta attenti, si dirà che il cane ‘ha’
+memoria: si vedrà cioè il cane come ‘avente qualche cosa’
+
+sto errore di valutazione, sebbene gli economisti da tempo ritengano attendibili sol-
+tanto i sistemi delle variabili economiche e non le unità assolute o isolate.
+
+19
+
+---
+
+1.2 PRAGMATICA DELLA COMUNICAZIONE UMANA
+
+proprio nel senso in cui può avere un ciuffo di pelo nero.
+Si può allora essere tentati di mettersi a cercare quella cosa
+e scoprire che essa ha certe proprietà molto curiose.
+Evidentemente la ‘memoria’ non è qualcosa di obiettivo
+che il sistema possiede o non possiede; è un concetto a cul
+l'osservatore ricorre per colmare la lacuna determinata dal
+fatto che il sistema è in parte inosservabile. Tanto minore è
+il numero delle variabili osservabili tanto più l'osservatore
+sarà costretto a considerare gli eventi passati come rilevanti
+per il comportamento del sistema. Dunque, la memoria, nel
+cervello, è solo in parte un fatto oggettivo. Nessuna meravi-
+glia che le sue proprietà siano apparse talvolta strane o ad-
+dirittura paradossali, dato che, evidentemente, tutto il pro-
+blema andrebbe ridiscusso fin dai fondamenti. (5, p. 117)"
+
+A nostro parere, queste osservazioni di Ashby non escludono af-
+fatto i progressi straordinari compiuti dalla ricerca neurofisiologica
+sull’immagazzinamento dell’informazione nel cervello. Non cè dubbio
+che dal momento dell'incidente lo stato dell’animale è diverso; qual-
+cosa deve esserci di nuovo (un cambiamento molecolare, l'istituzione
+di un nuovo circuito), insomma ‘qualcosa’ che ora il cane ‘ha’. Ma
+il punto su cui Ashby insiste è che si tratta di una costruzione e del-
+la sua reificazione. Una partita di scacchi è l'analogia a cui Bateson
+(17) ricorre per illustrare lo stesso concetto. In qualunque momento,
+si può capire la situazione del gioco esaminando esclusivamente la
+configurazione attuale dei pezzi sulla scacchiera (quello degli scacchi
+è un gioco con informazione completa), senza riferirci ad alcuna an-
+notazione o ‘memoria’ delle mosse passate. Anche se disponiamo i
+pezzi in modo che la loro configurazione sia la memoria del gioco,
+si tratta soltanto di una interpretazione, attuale e osservabile, del ter-
+mine ‘memoria’. i i i
+
+Quando finalmente si estese il vocabolario della psicologia speri.
+mentale a contesti interpersonali, il linguaggio della psicologia restò
+ancora quello monadico. Divennero oggetto di studi particolareggiati
+concetti come leadership, dipendenza, estroversione e Introversione,
+nurturance, e molti altri. Naturalmente, c’è il pericolo che questi ter-
+mini (solo a ripeterli o a rifletterci sopra abbastanza a lungo) assu-
+mano una pseudo-realtà autonoma e che alla fine ‘leadership’, una
+
+© W. R. Ashby, Introduzione alla cibernetica, trad. it. di M. Nasti, Torino, Ei-
+naudi, pp. 149-150.
+
+20
+
+PRESUPPOSTI TEORICI 1,2
+
+mera costruzione, diventi Leadership, una quantità misurabile della
+mente umana che viene concepita essa stessa come un fenomeno iso-
+lato. Una volta che si sia attuata tale reificazione, non si riconosce
+più che il termine non è che l’espressione stenografica di una forma
+particolare di relazione in corso.
+
+Ogni bambino impara a scuola che il movimento è qualcosa di re-
+lativo che si può percepire soltanto in rapporto a un punto di rife-
+rimento. Ma non tutti riescono a convincersi che questo principio va-
+le praticamente per ogni percezione e quindi per ogni rapporto
+dell'uomo con la realtà. Ricerche sul cervello e sugli organi sensori
+hanno dimostrato in modo decisivo che possiamo percepire soltanto
+le relazioni e i modelli delle relazioni in cui si sostanzia la nostra
+esperienza. Se con un espediente blocchiamo il movimento dell’occhio
+in modo che la stessa immagine continui ad essere percepita dalle
+stesse zone della retina non si può più avere una chiara percezione
+visiva. Analogamente, è difficile percepire un suono costante e rego-
+lare; è anzi probabile che il suono diventi del tutto impercettibile. Se
+vogliamo farci un’idea della durezza e della trama di una superficie
+non basta metterci sopra un dito ma bisogna farlo scorrere avanti e
+indietro, perché se non lo muoviamo non possiamo ricevere nessuna
+informazione utile, fuorché forse sulla temperatura che d’altronde di-
+penderebbe dalla differenza esistente tra la temperatura dell’oggetto e
+quella del dito. Possiamo fare molti altri esempi, ma tutti conferme-
+rebbero che in qualche modo le percezioni implicano un processo di
+cambiamento, movimento, o scansione (132, p. 173). In altre parole,
+sulla base di prove estremamente ampie, è stato possibile stabilire e
+astrarre una relazione che a nostro parere è identica al concetto ma-
+tematico di funzione. Ne consegue che la sostanza delle nostre per-
+cezioni non è costituita da ‘cose’ ma da funzioni; e come abbiamo
+visto le funzioni non sono grandezze isolate ma “segni per un nes-
+so... per una infinità di situazioni possibili di uno stesso tipo...”. Ma
+se le cose stanno così, non deve più sorprenderci neppure che la
+consapevolezza che l’uomo ha di se stesso è sostanzialmente una con-
+sapevolezza delle funzioni, delle relazioni in cui si trova implicato, e
+qui non ha importanza quanto egli possa successivamente reificare ta-
+le consapevolezza. A proposito, ricordiamo che questi fatti (dai di-
+sturbi degli organi sensori ai problemi dell’autoconsapevolezza) sono
+sà dalla letteratura, oggi così ampia, sulla privazione senso-
+riale.
+
+21
+
+---
+
+1.3 PRAGMATICA DELLA COMUNICAZIONE UMANA
+
+1,5
+
+Informazione e retroazione
+
+Freud si distaccò da molte reificazioni della psicologia tradizionale
+quando introdusse la teoria psicodinamica del comportamento umano.
+Non occorre qui sottolineare l’importanza delle sue scoperte. Ma non
+possiamo non soffermarci su un aspetto che ha un’attinenza partico-
+lare col nostro assunto.
+
+La teoria psicoanalitica si basa su di un modello che non è in con-
+trasto con l’epistemologia predominante al tempo in cui furono for-
+mulati i principi della psicoanalisi. Si parte dal postulato che il com-
+portamento sia in primo luogo la conseguenza di una ipotizzata azio-
+ne reciproca di forze intrapsichiche che si ritiene seguano strettamente
+le leggi della fisica sulla conservazione e sulla trasformazione dell’ener-
+gia. Norbert Wiener, riferendosi proprio a quel periodo, asserisce che
+“il materialismo aveva evidentemente messo a punto la propria gram-
+matica, ed era una grammatica dominata dal concetto di energia”
+(166, p. 199). In linea di massima, la psicoanalisi classica restava an-
+zitutto una teoria dei processi intrapsichici, che considerava di se-
+condaria importanza l’interazione con le forze esterne anche quando
+tale interazione era evidente (in questo senso è esemplare il concet-
+to di ‘guadagno secondario’). La ricerca psicoanalitica ha trascurato
+l’interdipendenza tra l'individuo e il suo ambiente, ed è proprio a
+questo: punto che diventa indispensabile il concetto di scambio di
+informazione, cioè di comunicazione. C'è una differenza sostanziale tra
+il modello psicodinamico (psicoanalitico) da una parte e ogni schema
+che elabori il concetto di interazione individuo-ambiente dall'altra. È
+una differenza che ci auguriamo di chiarire meglio con la seguente
+analogia (12). Se il piede di un uomo che sta camminando colpisce
+un sasso l'energia viene trasferita dal piede al sasso. Il sasso verrà
+messo in movimento e spostato finché non si fermerà in una posi-
+zione che è determinata esclusivamente da fattori come la quantità di
+energia trasmessa, la forma e il peso del sasso, la natura della su-
+perficie su cui è rotolato. Se l’uomo dà un calcio a un cane anziché
+a un sasso, il cane può saltare su a morderlo. In questo caso il rap-
+porto tra il calcio e il morso è di un ordine assai diverso. È chiaro
+che il cane prende l'energia per la sua reazione dal proprio metabo-
+
+2 Naturalmente, i cosiddetti neo-freudiani hanno sottolineato con molta mag-
+siore energia l'interazione individuo-ambiente.
+6 6
+
+22
+
+PRESUPPOSTI TEORICI 13
+
+lismo e non dal calcio. Non si ha dunque trasmissione di energia ma
+di informazione. In altre parole, il calcio è un comportamento che
+comunica qualcosa al cane, e a questa comunicazione il cane reagi-
+sce con un’altra comunicazione-comportamento. La differenza tra la
+psicodinamica freudiana e la teoria della comunicazione, in quanto
+principi esplicativi del comportamento umano, in sostanza è tutta qui.
+Come si vede, appartengono a ordini diversi di complessità; non si
+può estendere il primo al secondo né il secondo si può dedurre dal
+primo: nel loro rapporto non c’è continuità concettuale. Che l’attività
+di pensiero abbia spostato i suoi interessi dal concetto di energia a
+quello di informazione è stato di una importanza fondamentale per
+lo sviluppo quasi vertiginoso della filosofia della scienza dalla fine del-
+la seconda guerra mondiale e ha dato un impulso eccezionale alla no-
+stra conoscenza dell’uomo. Rendersi conto che l’informazione su un
+effetto, se correttamente trasmessa indietro (/ed back) all’effettore, ga-
+rantisce la stabilità di quest'ultimo e l'adattamento al cambiamento
+d’ambiente, non soltanto ha aperto la porta alla costruzione di mac-
+chine di ordine più elevato (cioè macchine perseguitrici di scopi e
+con controllo d’errore) e ha permesso di postulare la cibernetica co-
+me nuova epistemologia, ma ci ha anche dato la possibilità di osser-
+vare in un modo davvero nuovo e illuminante il funzionamento di si-
+stemi d’interazione assai complessi esistenti in biologia, psicologia, so-
+ciologia, economia e in altri campi. Anche se per il momento non
+possiamo valutare — neppure sperimentalmente — l’importanza della ci-
+bernetica, i principi fondamentali che implica sono assai più sempli-
+ci di quanto ci si aspetti. Li passiamo brevemente in rassegna qui di
+seguito.
+
+Finché la scienza si è interessata allo studio dei rapporti lineari,
+unidirezionali e progressivi di causa-effetto, molti fenomeni di estre-
+ma importanza sono stati esclusi dall'immenso territorio che la scien-
+za ha conquistato negli ultimi quattro secoli. Semplificando molto, si
+può asserire che tali fenomeni hanno il loro comune denominatore
+nei concetti affini di crescita e cambiamento. Per includere tali feno-
+meni in una visione unitaria del mondo, la scienza ha dovuto far ri-
+corso fin dal tempo degli antichi greci a concetti di cui ha dato va-
+rie definizioni ma che sono sempre rimasti nebulosi e tortuosi. Essi
+si basano sulla nozione che esista un fine che determina il corso de-
+gli eventi e che il risultato finale ‘in qualche modo’ condiziona i pas-
+si che ci conducono gradatamente a questo fine; oppure erano feno-
+meni caratterizzati da una certa forma di ‘vitalismo’ e quindi esclusi
+dal dominio della scienza. In tal modo circa 2.500 anni fa si pose la
+base per una delle maggiori polemiche epistemologiche, e la polemi-
+
+23
+
+---
+
+13 PRAGMATICA DELLA COMUNICAZIONE UMANA
+
+ca è continuata fino ai nostri giorni. Se volgiamo la nostra attenzio-
+ne a quelli che sono gli studi specifici sull'uomo, vediamo subito che
+la psicoanalisi è classificabile nella scuola deterministica mentre non
+lo è, ad esempio, la psicologia analitica di Jung che fa molto asse-
+gnamento sulla ipotesi di una ‘entelechia’ immanente all'uomo.
+
+L'avvento della cibernetica ha cambiato tutti questi schemi e ha di-
+mostrato che i due concetti possono unificarsi in una struttura più
+esauriente. La scoperta della retroazione ha reso possibile questo nuo-
+vo modo di vedere le cose. Una catena in cui l’evento 4 produce
+l'evento 6, e poi 6 produce c, e c a sua volta causa d, ecc., può
+sembrare che abbia le proprietà di un sistema lineare deterministico.
+Ma se d riconduce ad a, il sistema è circolare e funziona in un mo-
+do completamente diverso. Rivela un comportamento che è sostan-
+zialmente analogo a quello di quei fenomeni che non consentono di
+compiere l’analisi nei termini di un rigoroso determinismo lineare.
+
+La retroazione può essere positiva o negativa; nel corso della no-
+stra trattazione parleremo più spesso di retroazione negativa perché
+caratterizza l’omeostasi (stato stazionario) e gioca quindi un ruolo im-
+portante nel far raggiungere e mantenere la stabilità delle relazioni.
+La retroazione positiva provoca invece un cambiamento, cioè la per-
+dita di stabilità o di equilibrio. In entrambi i casi, parte dei dati di
+uscita sono reintrodotti nel sistema come informazione circa l'uscita
+stessa. In caso di retroazione negativa (e qui sta la differenza) si usa
+questa informazione per far diminuire la deviazione all’uscita rispetto
+a una norma prestabilita o previsione dell’insieme — di qui l’aggetti-
+vo ‘negativa’ — mentre in caso di retroazione positiva la stessa infor-
+mazione agisce come una misura per aumentare la deviazione all’usci-
+ta, ed è quindi positiva in rapporto alla tendenza già esistente verso
+l'arresto o la distruzione.
+
+Considereremo più dettagliatamente nella sez. 4.4 il concetto di
+omeostasi nei rapporti umani, ma sia chiaro fin d’ora che sarebbe
+prematuro e inesatto concludere che la retroazione negativa è desi-
+derabile e che quella positiva è distruttiva. Il punto su cui insistiamo
+è che i sistemi interpersonali — gruppi di estranei, coppie sposate, fa-
+miglie, relazioni psicoterapeutiche o addirittura internazionali, ecc. —
+possono essere considerati circuiti di retroazione, poiché il comporta-
+mento di ogni persona influenza ed è influenzato dal comportamen-
+to di ogni altra persona. In un sistema simile i dati di ingresso si
+possono amplificare fino a produrre un cambiamento oppure neutra-
+lizzare per mantenere la stabilità, a seconda che i meccanismi di re-
+troazione siano positivi o negativi. Da quanto risulta dagli studi sul-
+le famiglie con un membro schizofrenico, non c'è il minimo dubbio
+
+24
+
+PRESUPPOSTI TEORICI 1.3
+
+che l’esistenza del paziente è una condizione indispensabile per la sta-
+bilità del sistema familiare e che il sistema reagirà subito e con effi-
+cacia ad ogni tentativo interno o esterno che minacci di cambiare la
+sua organizzazione. Va da sé che tale tipo di stabilità non è certo
+desiderabile. Poiché sia la stabilità che il cambiamento contraddistin-
+guono le manifestazioni della vita, i meccanismi di retroazione nega-
+tiva o positiva agiscono in essa come forme specifiche di interdipen-
+denza o di complementarità. Pribram (117) ha dimostrato recente-
+mente che il raggiungimento della stabilità contribuisce a formare una
+nuova sensibilità e che scattano subito nuovi meccanismi per far fron-
+te alla situazione nuova. La stabilità non è dunque uno sterile punto
+finale anche in un ambiente relativamente costante, ma piuttosto, co-
+me ha detto Claude Bernard con semplicità ed efficacia, “la stabilità
+del medium interno è la condizione per l’esistenza della vita libera”.
+È senz’altro corretto essersi riferiti alla retroazione come al segreto
+dell’attività naturale. I sistemi a retroazione si differenziano non solo
+per un grado di complessità quantitativamente più elevato; essi sono
+anche qualitativamente diversi da qualsiasi fenomeno che rientri nel
+dominio della meccanica classica. Il loro studio richiede nuovi sche-
+mi concettuali; la loro logica ed epistemologia si sono distaccate da
+alcuni dogmi tradizionali dell’analisi scientifica come il concetto ‘si de-
+ve isolare una sola variabile’ o la convinzione di Laplace che la co-
+noscenza completa di tutti i fatti in un dato punto del tempo ci met-
+terà in grado di predire tutti gli stati futuri. I sistemi con autorego-
+lazione — i sistemi a retroazione — impongono una loro filosofia in
+cui i concetti di modello e di informazione sono fondamentali come
+lo erano quelli di materia e di energia all’inizio del secolo. Con que-
+sti sistemi la ricerca incontra forti ostacoli, almeno per ora, per la
+mancanza di un linguaggio scientifico abbastanza raffinato per veicola-
+re la loro spiegazione, e Wieser ad esempio (167, p. 33) ha suggeri-
+to che i sistemi stessi sono la più semplice spiegazione di se stessi.
+
+25
+
+---
+
+1.4 PRAGMATICA DELLA COMUNICAZIONE UMANA
+
+1.4
+
+Ridondanza
+
+Non si deve interpretare come una dichiarazione di sconforto l’in-
+sistenza con cui abbiamo messo in rilievo il distacco della teoria dei
+sistemi dalle teorie tradizionali monadiche e lineari. Abbiamo sottoli-
+neato le difficoltà concettuali per indicare la necessità di trovare r%0-
+ve strade per accostarci ai nuovi problemi, visto che gli schemi di ri-
+ferimento tradizionali sono del tutto inadeguati. La nostra ricerca ci
+fa scoprire che si sono compiuti dei progressi in campi che hanno
+un’attinenza diretta con lo studio della comunicazione umana; in que-
+sto capitolo concentreremo la nostra attenzione su tali forme di iso-
+morfismo. L’omeostato di Ashby (4, p. 93 sgg.) ne è un ottimo esem-
+pio e perciò ne parleremo, sia pure brevemente. Il congegno è co-
+stituito da quattro identici sottosistemi autoregolantesi e tutti inter-
+connessi in modo tale che una perturbazione provocata in uno qua-
+lunque di essi influenza gli altri e a sua volta ciascuno reagisce at-
+traverso gli altri. Nessun sottosistema può quindi ottenere il proprio
+equilibrio isolandosi dagli altri, e Ashby ha potuto mostrare che que-
+sta macchina ha delle caratteristiche ‘comportamentali’ davvero degne
+di attenzione. Sebbene il circuito dell’omeostato sia molto semplice,
+se lo confrontiamo con il cervello umano o con altri congegni co-
+struiti dall’uomo, è pur sempre capace di 390.625 combinazioni di
+valori parametrici, o per dire la stessa cosa in termini più antropo-
+morfici, ha tale numero di possibilità di adattamento a qualsiasi cam-
+biamento nel suo medium esterno e interno. L’omeostato ottiene la
+stabilità mediante una ricerca casuale delle sue combinazioni e conti-
+nua finché non raggiunge una configurazione interna adatta. E un
+comportamento identico alla ‘prova ed errore’ di molti organismi in
+stato di tensione. Nel caso dell’omeostato il tempo di ricerca può an-
+dare da alcuni secondi a delle ore. Ma evidentemente per un orga-
+nismo vivente questo ritardo sarebbe quasi sempre eccessivo e costi-
+tuirebbe un grave handicap per la sopravvivenza. Ashby porta questa
+considerazione alle estreme conseguenze logiche quando scrive:
+
+Se aspettassimo, come gli omeostati, che un ‘campo’ ci dia
+di colpo il nostro adattamento di adulti, aspetteremmo eter-
+namente. Ma il bambino non aspetta eternamente; anzi, la
+probabilità che egli raggiunga entro venti anni il suo pieno
+adattamento di adulto è vicina all'unità. (4, p. 136)
+
+26
+
+PRESUPPOSTI TEORICI 1.4
+
+Ashby prosegue osservando che i sistemi naturali conservano l’adat-
+tamento, almeno parzialmente. Vale a dire che i vecchi adattamenti
+non sono distrutti dal sopravvenire dei nuovi e che non occorre co-
+minciare da capo la ricerca come se prima non si fosse mai giunti a
+una soluzione.
+
+Forse è necessaria una considerazione per chiarire il rapporto tra
+quanto abbiamo appena esposto e la pragmatica della comunicazione
+Nell’omeostato, ognuna delle 390.625 configurazioni interne ha în
+qualunque momento una eguale possibilità di essere determinata
+dall'azione reciproca dei quattro sottosistemi. Il verificarsi quindi di
+una data configurazione non ha assolutamente alcun effetto sul veri-
+ficarsi della successiva configurazione o sequenza di configurazioni Si
+dice che una catena di eventi mostra di comportarsi a caso Gun
+domness) se ogni elemento ha una eguale probabilità di verificarsi in
+qualunque momento. Per cui non si può trarne alcuna conclusione
+come non si può predire nulla sulla sua sequenza futura. Che è un
+altro modo per dire che non reca informazione. Tuttavia, se un si-
+stema come l’omeostato ha la capacità di immagazzinare gli adatta-
+menti precedenti per usarli in futuro, la probabilità inerente alla se-
+quenza delle configurazioni interne subirà un drastico cambiamento
+nel senso che certi raggruppamenti di configurazioni diventeranno ri-
+petitivi e per tale ragione più probabili di altri. Si noti a questo pun-
+to che non occorre attribuire un significato a tali raggruppamenti: che
+esistano è il fatto che meglio li spiega. A una catena del tipo che
+abbiamo appena descritto si dà la definizione di processo stocastico
+un concetto fondamentale della teoria dell’informazione. Dunque, il
+processo stocastico si riferisce alla legittimità inerente a una catena di
+simboli o di eventi, sia che la sequenza si presenti semplice come i
+risultati ottenuti estraendo palline bianche e nere da un'urna, sia
+complessa come i modelli specifici di elementi timbrici e orchestrali
+adoprati da un certo compositore, o l’uso particolare del linguaggio
+che caratterizza lo stile di un autore, o lo schema grafico (che è as-
+sai importante ai fini diagnostici) tracciato da un elettroencefalogram-
+ma. Secondo la teoria dell’informazione i processi stocastici mostrano
+ridondanza o vincolo, due termini il cui uso è intercambiabile con
+quello di modello, un concetto che abbiamo adoprato liberamente nel-
+le pagine precedenti. A rischio di una eccessiva ridondanza, vogliamo
+ancora sottolineare che tali modelli non hanno alcun significato espli-
+cativo o simbolico (e in verità non ne hanno alcun bisogno). Il che
+non esclude, naturalmente, la possibilità di metterli in correlazione
+con altri accadimenti, come ad esempio nel caso dell’encefalogramma
+e in certe condizioni mediche. I
+
+Zi
+
+---
+
+1.4 PRAGMATICA DELLA COMUNICAZIONE UMANA
+
+La ridondanza è stata studiata ampiamente in due settori della co-
+municazione umana: in quello della sintassi e in quello della seman-
+tica; e a questo proposito dovremmo ricordare il lavoro pionieristico
+di Shannon, Carnap e Bar-Hillel. Una delle conclusioni che si pos-
+sono trarre da questi studi è che ognuno di noi ha moltissime co-
+gnizioni sulla legittimità e sulla probabilità statistica inerente sia alla
+sintassi che alla semantica della comunicazione umana. Da un punto
+di vista psicologico queste cognizioni sono di un genere molto inte-
+ressante, perché sono cognizioni di cui non abbiamo quasi nessuna
+consapevolezza. Forse solo un esperto dell’informazione può stabilire
+con esattezza la probabilità di ricorrenza e i livelli di frequenza del-
+le lettere e delle parole di una data lingua, tuttavia tutti siamo in
+grado di individuare e correggere un refuso, di sostituire una parola
+mancante, e di esasperare un balbuziente finendo una frase per lui.
+Ma è assai diverso sapere una lingua e sapere qualcosa sv una lin-
+gua. Una persona può essere in grado di usare la propria lingua ma-
+dre correttamente e fluentemente senza tuttavia conoscere la gram-
+matica e la sintassi, cioè le regole che egli osserva nel parlare la lin-
+gua. Se costui dovesse imparare un’altra lingua — ma non nello stes-
+so modo empirico in cui ha acquisito la lingua madre — dovrebbe
+anche imparare certe regole su/ linguaggio.’
+
+Passando ora al problema della ridondanza e del vincolo nella
+pragmatica della comunicazione umana, un esame della letteratura ci
+rivela che finora è stato pubblicato molto poco su tale argomento,
+soprattutto sulla pragmatica in quanto fenomeno di interazione. Vo-
+gliamo dire che la maggior parte degli studi esistenti sembra che si
+limiti a considerare gli effetti della persona A sulla persona B, senza
+prendere in considerazione in eguale misura che qualunque cosa fac-
+cia B influenza la mossa successiva di A, e che essi sono soprattut-
+
+} Il grande linguista Benjamin Whorf ha fatto rilevare più volte questo feno-
+meno, ad es. nel capitolo ‘Scienza e linguistica’:
+
+I linguisti scientifici hanno da tempo capito che la capacità di parla-
+re correntemente una lingua non conferisce necessariamente una cono-
+scenza linguistica, cioè una comprensione dei suoi fenomeni di sfondo,
+dei suoi processi sistematici e della sua struttura, più di quanto la ca-
+pacità di giocare una buona partita a biliardo non richieda la conoscenza
+delle leggi della meccanica che agiscono sul tavolo da biliardo. (165, p.
+215)*
+
+* B. L. Whorf, Linguaggio, pensiero e realtà, trad. it. di F. Ciafaloni, Torino,
+Boringhieri, 1970, p. 168.
+
+28
+
+PRESUPPOSTI TEORICI 1.4
+
+to influenzati dal contesto in cui ha luogo la loro interazione (e a
+loro volta influenzano il contesto).
+
+È chiaro che la ridondanza pragmatica è sostanzialmente simile al-
+la ridondanza sintattica e semantica. Anche di essa abbiamo moltissi-
+me cognizioni che ci danno la possibilità di valutare, di influenzare
+e di predire il comportamento. In realtà, in questo settore possiamo
+facilmente incorrere in molte incoerenze: i comportamenti ‘diversi’
+(fuori del contesto), ‘casuali’, o non ‘vincolati’ ci colpiscono subito
+come se fossero molto più incompatibili di errori di comunicazione
+puramente semantici o sintattici. E tuttavia è proprio in questo set-
+tore che siamo più sprovveduti fino al punto di ignorare le regole
+che vengono osservate nella comunicazione efficace o violate in quel-
+la disturbata. Siamo continuamente influenzati dalla comunicazione:
+come abbiamo accennato sopra, anche la nostra autoconsapevolezza
+dipende dalla comunicazione. Hora è assai esplicito e convincente su
+questo punto: “Per capire se stesso l’uomo ha bisogno di essere ca-
+pito dall'altro. Per essere capito dall'altro, ha bisogno di capire l’al-
+tro” (85, p. 237). Ma se la comprensione di una lingua si basa sul-
+le regole delia grammatica, della sintassi, della semantica, ecc. su qua-
+li regole si basa la comprensione di cui parla Hora? Ancora una vol-
+ta sembra che le sappiamo senza sapere di saperle. Siamo in costan-
+te comunicazione e tuttavia non riusciamo quasi mai a comunicare sul-
+la comunicazione. Questo problema è uno dei temi più importanti del
+nostro libro.
+
+La ricerca di un modello è la base di ogni indagine scientifica. Do-
+ve c'è un modello c'è un senso — questa massima epistemologica va-
+le anche per lo studio della interazione umana. Questo studio sareb-
+be relativamente facile se ci limitassimo a interrogare coloro che si
+trovano in un rapporto di interazione e ad apprendere direttamente
+i modelli che essi di solito seguono o, in altre parole, le regole di
+comportamento che hanno stabilito tra di loro. Un’applicazione d’uso
+comune di questa idea è il questionario tecnico. ‘Tuttavia, una volta
+che ci si sia resi conto che il valore nominale delle dichiarazioni è
+spesso dubbio, soprattutto in psicopatologia — i soggetti possono be-
+nissimo dire qualcosa e voler dire qualcos'altro — e che, come abbia-
+mo appena visto, ci sono domande che ricevono risposte del tutto
+prive di consapevolezza, allora è chiaro che occorrono altri metodi di
+indagine. Grosso modo, possiamo dire che i gradi di consapevolezza
+che abbiamo delle regole di comportamento e di interazione sono gli
+stessi che Freud ha postulato per i lapsus e gli errori: (1) se ne può
+avere piena consapevolezza, e in questo caso si possono usare il que-
+stionario e altre tecniche semplici di domanda-risposta; (2) possiamo
+sa
+
+pa)
+
+---
+
+1.4 PRAGMATICA DELLA COMUNICAZIONE UMANA
+
+non rendercene conto, ma essere capaci di riconoscerli quando ci
+vengono fatti notare; oppure (3) è possibile non averne alcuna con-
+sapevolezza fino al punto che se anche venissero delineati con chia-
+rezza per attirarvi la nostra attenzione, non saremmo ancora In gra-
+do di vederli. Bateson ha reso più sottile e penetrante questa analo-
+gia con i livelli di consapevolezza enunciando il problema secondo i
+nostri schemi concettuali presenti:
+
+.. quando saliamo la scala degli ordini di apprendimento,
+entriamo in regioni di modellazione sempre più astratte, che
+sono sempre meno soggette a un'analisi consapevole. Più so-
+no astratte — più sono generali e formali le premesse che
+rendono possibile il montaggio dei nostri modelli — più esse
+sono profondamente inabissate ai livelli neurologici e psico-
+logici e tanto meno esse sono accessibili a un controllo con-
+sapevole. c
+
+L’abitudine di dipendenza è molto meno percettibile per
+l'individuo di quanto lo sia l’aver ottenuto aiuto in una da-
+ta circostanza. Può essere in grado di riconoscere questo mo-
+dello, ma riconoscere quello successivo, più complesso — che,
+cioè, dopo aver cercato aiuto, in genere morde la mano che
+lo nutre — è una cosa che forse trova troppo difficile da esa-
+minare con piena consapevolezza. (16)
+
+Fortunatamente per noi (che vogliamo capire l'interazione umana),
+il quadro appare diverso a un osservatore esterno, il quale si trova in
+un certo senso nella posizione di chi, vedendo giocare una partita a
+scacchi, non capisce quali siano le regole e l’obiettivo del gioco. As-
+sumiamo il gioco degli scacchi come un modello concettuale e sup-
+poniamo di rappresentare la mancanza di consapevolezza che i ‘gio-
+catori' manifestano nella vita reale con una ipotesi assai semplice, e
+cioè che l'osservatore non parli né capisca la lingua dei giocatori e
+non sia quindi in grado di chiedere spiegazioni. L'osservatore noterà
+presto che il comportamento dei giocatori mostra diversi gradi di ri-
+petizione, di ridondanza, da cui si possono trarre conclusioni abba-
+stanza indicative: per esempio, che quasi sempre la “mossa di un gio-
+catore è seguita dalla mossa di un altro giocatore. Si può quindi de-
+durre subito da questo comportamento che i giocatori stanno seguen-
+do la regola di alternare le mosse. Non altrettanto facilmente si pos-
+sono dedurre le regole :da seguire per muovere i pezzi, in parte per
+la complessità delle mosse e in parte per l'irregolarità della frequenza
+con cui si spostano i pezzi singoli. Ad esempio, è senz altro più faci-
+
+30
+
+PRESUPPOSTI TEORICI 1.4
+
+le dedurre la regola da seguire per muovere gli alfieri piuttosto che
+per arroccare, che è certo una mossa più insolita e meno frequente,
+tanto che accade che non vi si ricorra affatto nel corso di una par-
+ticolare partita. L’osservatore noterà anche che l’arroccare comporta
+due mosse consecutive da parte dello stesso giocatore e quindi la re-
+gola di alternare le mosse ne risulta invalidata. Ma l’alternare le mos-
+se ha una ridondanza di gran lunga maggiore dell’arroccare per cui si
+impone come regola generale nella teoria che l’osservatore sta elabo-
+rando. Che si debbano alternare le mosse è un'ipotesi che resta vali-
+da per lui, anche se l’arroccare è una contraddizione palese che rima-
+ne irrisolta. E dunque probabile che, dopo aver assistito a una serie
+di partite, l'osservatore sia in grado di stabilire con molta esattezza
+quali sono le regole e qual è l’obiettivo del gioco (cioè dare scacco
+matto). Ci preme sottolineare che potrebbe giungere a formulare que-
+ste regole senza avere la possibilità di chiedere alcuna informazione.
+
+Un risultato simile significa che l’osservatore ha ‘spiegato’ il com-
+portamento dei giocatori? Noi diremmo che ha identificato un mo-
+dello complesso di ridondanze.* È chiaro che se volesse potrebbe at-
+tribuire un significato ad ogni singolo pezzo e ad ogni regola. Nulla
+gli vieta di creare anche una mitologia complessa del gioco e del suo
+significato ‘più profondo’ o ‘reale’ che includa anche una narrazione
+fantastica dell’origine del gioco, come in realtà è stato fatto. Ma so-
+no tutte cose che non servono a capire il gioco; una spiegazione del
+genere o una mitologia avrebbe col gioco. degli scacchi lo stesso rap-
+porto che ha l’astrologia con l’astronomia.
+
+ Scheflen (139) ha studiato esaurientemente modelli di tale complessità, e mo-
+delli all'interno di modelli, a livello interpersonale (in una serie di interviste psi-
+coterapeutiche). Il suo lavoro pionieristico dimostra non soltanto che questi mo-
+delli esistono ma che hanno anche una natura incredibilmente ripetitiva e strut-
+turata. ”
+
+? Che non ci sia alcun rapporto necessario tra fatto e spiegazione è stato di-
+mostrato da Bavelas (20) in un esperimento recente: ad ogni soggetto è stato det-
+to che stava partecipando a una ricerca sperimentale sulla ‘formazione del con-
+cetto' e a ciascuno è stato consegnato lo stesso cartoncino grigio zigrinato che
+era appunto l'oggetto su cui doveva ‘formulare i concetti’. I soggetti furono di-
+visi in gruppi di due e visti separatamente ma simultaneamente; ad uno dei due
+si disse otto volte su dieci, del tutto a caso, che le sue osservazioni sul carton-
+cino erano esatte; all’altro soggetto si disse cinque volte su dieci, sempre a ca-
+saccio, che le sue osservazioni sul cartoncino erano esatte. Le idee del soggetto
+che era stato ‘ricompensato’ con una frequenza dell’80 per cento restarono a un
+livello semplice, mentre il soggetto che era stato ‘ricompensato’ con una frequenza
+del 50 per cento elaborò teorie sul cartoncino’ complesse, sottili, astruse, senza
+trascurare il minimo dettaglio di fattura. Quando i due soggetti furono messi in
+
+31
+
+---
+
+1.5 PRAGMATICA DELLA COMUNICAZIONE UMANA
+
+Ci auguriamo che l’esempio che segue renda più unitaria la nostra
+trattazione della ridondanza della pragmatica della comunicazione
+umana. Come il lettore forse sa, per programmare un calcolatore oc-
+corre immettervi in un dato ordine un certo numero di regole spe-
+cifiche (il programma); tali regole poi guidano il calcolatore in un
+gran numero di operazioni abbastanza flessibili eseguite sulla base di
+un modello. Abbiamo già accennato che si ha proprio la situazione
+opposta quando si considera la ridondanza della interazione umana.
+Dall’osservazione del particolare sistema in attività si cerca poi di fis-
+sare le regole che sono alla base del suo funzionamento, del suo ‘pro-
+gramma’, per restare fedeli all’analogia col calcolatore.
+
+1.5
+
+Metacomunicazione e concetto di calcolo
+
+Il nostro ipotetico osservatore, studiando la ridondanza pragmatica
+di quel fenomeno comportamentale che è il ‘giocare a scacchi’, ha
+acquisito delle cognizioni che hanno una stimolante analogia con il
+concetto matematico di calcolo. Un calcolo, secondo Boole (31, p. 4),
+è “un metodo che si basa sull'impiego di simboli, le cui leggi di
+combinazione sono note e generali, e i cui risultati consentono una
+interpretazione coerente”. Riteniamo che sia implicito in quanto ab-
+biamo già detto che è senz’altro possibile concepire una rappresenta
+zione formale di questo tipo nella comunicazione umana, come del
+resto abbiamo già evidenziato che esistono alcune difficoltà di ‘di-
+scorso’ su questo calcolo. Quando i matematici non usano più la ma-
+tematica come uno strumento di computo, ma fanno di tale stru-
+mento l'oggetto del loro studio — ad esempio, quando mettono in for-
+se la coerenza dell’aritmetica in quanto sistema — usano un linguag-
+gio che è sulla matematica anziché farne parte. Seguendo il suggeri-
+mento di David Hilbert (64) tale linguaggio è stato chiamato: meta-
+matematica. La struttura formale della matematica è un calcolo; de-
+scrivere tale calcolo è metamatematica. Nagel e Newman hanno defi-
+nito la differenza tra i due concetti con chiarezza ammirevole:
+
+contatto e si disse loro di discutere le loro scoperte, il soggetto con le idee più
+semplici soccombette subito alla ‘brillantezza’ dei concetti dell'altro e riconobbe
+che era stato l’altro quello che aveva analizzato il cartoncino con vera precisione.
+
+32
+
+PRESUPPOSTI TEORICI 13
+
+L'importanza, nel nostro campo, di comprendere a fondo
+la distinzione fra matematica e metamatematica non sarà mai
+abbastanza sottolineata. Quando essa non è stata rispettata
+sono sorte delle confusioni e dei paradossi. Quando il suo si.
+gnificato è stato rettamente inteso, è stato possibile mettere
+in chiara evidenza la struttura logica del ragionamento Il me-
+rito di questa distinzione è di implicare una precisa codifi-
+cazione dei vari segni che intervengono nella costruzione di
+un calcolo formale, libero da ipotesi nascoste e da associa-
+zioni di significati non pertinenti. Inoltre, essa esige le defi-
+nizioni esatte delle operazioni e delle regole logiche della co-
+struzione e della deduzione matematica, le quali, spesso, so-
+no state applicate dai matematici senza una esplicita coscienza
+della loro natura. (108, p. 32; corsivi nostri)*
+
+Quando non usiamo più la comunicazione per comunicare ma per
+comunicare su/la comunicazione, come dobbiamo inevitabilmente fare
+studiando la comunicazione, gli schemi concettuali che adopriamo non
+fan parte della comunicazione ma vertono su di essa. Definiamo quin-
+di metacomunicazione, per analogia con la metamatematica, la comu-
+nicazione sulla comunicazione. Rispetto alla metamatematica, il lavoro
+di ricerca della metacomunicazione incontra due grossi inconvenienti.
+Il primo svantaggio è che nel campo della comunicazione umana non
+ci sia finora nulla di confrontabile al sistema formale del calcolo. Co-
+me vedremo tra poco, questa difficoltà non esclude però l’utilità del
+concetto. Il secondo svantaggio è strettamente collegato al primo:
+mentre i matematici hanno due linguaggi (numeri e segni algebrici
+per esprimere fatti matematici e il linguaggio naturale per la meta-
+matematica), noi dobbiamo limitarci ad usare il linguaggio naturale
+che resta per noi il veicolo sia della comunicazione che della meta-
+comunicazione. E un problema che dovremo affrontare più volte nel
+corso della nostra trattazione.
+
+Qual è dunque l'utilità della nozione di calcolo della comunicazio-
+ne umana, se si ammette che gli elementi specifici di tale calcolo ap-
+partengono al futuro? A nostro parere è una nozione che ci offre (e
+qui sta la sua utilità immediata) un modello potente della natura e
+del grado di astrazione dei fenomeni che vogliamo identificare. Rica-
+pitoliamo, dunque: stiamo cercando le ridondanze pragmatiche; sap-
+
+* E. Nagel e J. R. Newman, La prova di Godel, trad. it. di L. Bianchi i-
+no, Boringhieri, 1961, pp. 36-37. i 1 IA RA
+
+33
+
+---
+
+15 PRAGMATICA DELLA COMUNICAZIONE UMANA
+
+piamo che non saranno grandezze o qualità statiche e semplici ma
+modelli di interazione analoghi al concetto matematico di funzione;
+possiamo infine prevedere che tali modelli avranno le caratteristiche
+tipiche dei sistemi con controllo d’errore e che perseguono scopi. Se
+una volta poste tali premesse esaminiamo con attenzione le catene di
+comunicazione tra due o più comunicanti, | risultati a cui giungere
+mo non possono certo pretendere di costituire un sistema formale,
+ma avranno senz'altro natura di assiomi e di teoremi di un calcolo.
+
+Nel lavoro sopra citato, Nagel e Newman descrivono l'analogia tra
+un gioco come quello degli scacchi e un calcolo matematico forma-
+
+lizzato. Spiegano come
+
+I pezzi e i quadrati della scacchiera corrispondono ai se-
+gni elementari del calcolo; le posizioni permesse dei pezzi
+sulla scacchiera, alle formule del calcolo; le posizioni iniziali
+dei pezzi, agli assiomi o alle formule iniziali del calcolo; le
+posizioni successive dei pezzi, alle formule dedotte dagli as-
+siomi (cioè, ai teoremi); e le regole del gioco, alla regola di
+inferenza (o deduzione) del calcolo. (108, p. 35)*
+
+Nagel e Newman proseguono mostrando che le configurazioni dei
+pezzi sulla scacchiera come tali sono ‘prive di significato’, mentre le
+asserzioni su tali configurazioni sono perfettamente dotate di signifi-
+cato. Gli autori descrivono anche asserzioni che presentano questo ti-
+po di astrazione:
+
+teoremi generali dei ‘metascacchi’ possono venire dimo-
+strati con ragionamenti che implicano solo un numero finito
+di configurazioni possibili sulla scacchiera. Il teorema dei
+‘metascacchi’ sul numero di mosse iniziali del bianco può es-
+sere provato secondo questa linea; e così pure il teorema
+che, se il bianco ha solo due cavalli e il re, e il nero solo
+il re, è impossibile che il bianco dia scacco matto al nero.
+(108; p. 35)**
+
+PRESUPPOSTI TEORICI 1.6
+
+gioco astratto ma piuttosto sequenze d’interazione umana che sono ri-
+gidamente governate da un complesso corpo di regole. L’unica diffe-
+renza sta nel fatto che noi preferiamo adoprare il termine ‘formal-
+mente indecidibile’ invece che ‘privo di significato’ quando ci riferia-
+mo a un singolo comportamento (ad una ‘mossa’, per mantenere
+l'analogia col gioco degli scacchi). Un tale comportamento, 4, può es-
+sere dovuto a un aumento di stipendio, al conflitto edipico, all’alcol,
+o a una grandinata, ma ogni discussione sulla ragione che ‘realmen-
+te’ lo ha determinato sarà inevitabilmente una sorta di disputa acca-
+demica sul sesso degli angeli. A meno che (o finché) non si riesca a
+scoperchiare la scatola cranica per osservare la mente dall'esterno, tut-
+to il materiale di cui possiamo disporre ci proviene dalle nostre in-
+ferenze e dai resoconti personali, ma è noto quanto siano entrambi
+inattendibili. Tuttavia, se si nota che il comportamento 4 sollecita il
+comportamento è, c, d, oppure e nell’altro, mentre è evidente che
+esclude i comportamenti x, y e 2, allora si può postulare un teore-
+ma della metacomunicazione. Riteniamo che si possa definire l’intera-
+zione, ricorrendo ancora all’analogia col gioco degli scacchi, come. se-
+quenze di ‘mosse’ rigidamente governate da regole, ma è irrilevante
+che i comunicanti siano perfettamente consapevoli delle regole oppu-
+re non ne abbiano alcuna consapevolezza; è invece estremamente im-
+portante che su tali regole sia possibile fare delle asserzioni di wzeta-
+comunicazione dotate tutte di significato. Il che significa, come del re-
+sto abbiamo accennato alla sez. 1.4, che esiste un calcolo (finora pri-
+vo di interpretazione) della pragmatica della comunicazione umana le
+cui regole vengono osservate nella comunicazione efficace e violate
+nella comunicazione disturbata. Per le cognizioni che abbiamo ora,
+questo calcolo si può paragonare a una stella la cui esistenza e po-
+sizione sono state postulate dall’astronomia teorica ma che ancora gli
+osservatori non sono riusciti a scoprire.
+
+1.6
+
+Abbiamo citato per esteso perché si tratta di una analogia che il- i ne
+lustra il concetto di calcolo che interessa non soltanto la metamate- Conclusioni
+matica ma anche la metacomunicazione. Perché se estendiamo l’ana- I i n i a
+logia fino a includervi i due giocatori non stiamo più studiando un Se per studiare la comunicazione umana si adottano i criteri che
+abbiamo appena esposto, va da sé che occorrerà assumere nuovi sche-
+è Ibidem, p. 39 mi concettuali che ora passeremo in rassegna brevemente in un con-
+** Ibidem, p. 39. testo specifico: quello della psicopatologia. Questo ovviamente non
+
+34 35
+
+---
+
+1.61 PRAGMATICA DELLA COMUNICAZIONE UMANA
+
+comporta che la validità di quei concetti sia limitata alla psicopato-
+logia, ma soltanto che ci sembra particolarmente evidente la loro per-
+tinenza in tale settore.
+
+1.61 — IL CONCETTO DI SCATOLA NERA
+
+Solo pensatori molto radicali sono del parere che la mente umana
+non esista, ma tutti coloro che studiano i fenomeni mentali purtrop-
+po sanno bene quali tremende difficoltà incontra la loro ricerca per
+l'assenza di un punto archimedeo fuori della mente. Più di ogni altra
+disciplina la psicologia e la psichiatria riflettono se stesse: soggetto e
+oggetto sono identici, la mente umana studia se stessa, e ogni ipote-
+si tende inevitabilmente ad autoconvalidarsi. L’impossibilità di vedere
+la mente ‘al lavoro’ ha fatto adottare negli ultimi anni un concetto
+elaborato nel settore delle telecomunicazioni, cioè quello di ‘scatola ne-
+ra. La sua prima applicazione è stata militare: si è deciso che non si
+potevano aprire, per esaminarle, certe apparecchiature elettroniche cat-
+turate al nemico perché era molto probabile che contenessero cariche
+distruttive. In seguito il concetto è stato generalizzato e si è giunti al-
+la conclusione che l'hardware elettronico è così complesso che talvol-
+ta conviene trascurare la struttura interna di un dispositivo e studiare
+esclusivamente i suoi rapporti specifici di ingresso-uscita. Anche se è
+vero che questi rapporti non escludono interferenze con quanto si ve-
+rifica ‘realmente’ all’interno della scatola, le cognizioni che se ne pos-
+sono trarre non sono indispensabili per studiare /a funzione del di-
+spositivo nel sistema più grande di cui fa parte. Se applichiamo il con-
+cetto a problemi psicologici e psichiatrici, si vede subito il vantaggio
+euristico che presenta: non abbiamo bisogno di ricorrere ad alcuna ipo-
+tesi intrapsichica (che è fondamentalmente inverificabile) e possiamo li-
+mitarci ad osservare i rapporti di ingresso-uscita, cioè la comunicazio-
+ne. Riteniamo che questo modo di accostarsi ai problemi psicologici ca-
+ratterizzi in questi ultimi anni tutta una tendenza importante della psi-
+chiatria che considera i sintomi una sorta di ingresso nel sistema fa-
+miliare piuttosto che l’espressione di un conflitto intrapsichico.
+
+1.62 — CONSAPEVOLEZZA E NON CONSAPEVOLEZZA
+
+Lo studio del comportamento umano, sulla base del concetto di ‘sca-
+tola nera’, ci porta a considerare l'uscita di una ‘scatola’ come l’in-
+gresso di un’altra. Ma stabilire se tale scambio di informazione sia con-
+
+36
+
+PRESUPPOSTI TEORICI 1.63
+
+sapevole oppure no è un quesito che non ha più quella importanza
+che invece conserva in una struttura psicodinamica. Il che non signifi-
+ca certo che non sia importante stabilire (per quanto riguarda le rea-
+zioni a un comportamento specifico) se tale comportamento sia consa-
+pevole o inconsapevole, volontario, involontario o sintomatico. Se a
+qualcuno viene pestato un piede, per lui è molto importante sapere se
+il comportamento dell’altro è stato intenzionale o involontario. Ma
+l'opinione che si fa in proposito si basa necessariamente sulla sua va-
+lutazione dei motivi dell'altro e quindi su una ipotesi di ciò che pas-
+sa dentro la testa dell’altro. E se anche chiedesse all’altro i motivi di
+quel gesto non potrebbe certo fidarsi della risposta che riceverebbe
+perché l’altro può dire che il suo comportamento è stato inconsape-
+vole, quando invece sa bene che è stato intenzionale, o magari può di-
+chiarare che è stato intenzionale quando in realtà è stato del tutto ac-
+cidentale. Questo ripropone il problema di come attribuire il ‘signifi-
+cato’, che è senz’altro una nozione indispensabile per l’esperienza sog-
+gettiva della comunicazione con gli altri, ma abbiamo appreso dalle no-
+stre ricerche che è una nozione oggettivamente indecidibile e quindi
+esula dai fini che si prefigge lo studio della comunicazione umana.
+
+1.63 — PRESENTE E PASSATO
+
+Non c'è dubbio che il comportamento sia determinato almeno in
+parte dall'esperienza precedente, ma si sa quanto sia inattendibile ri-
+cercarne le cause nel passato. Abbiamo già posto nel dovuto rilievo
+(sez. 1.2) le osservazioni di Ashby sulle peculiarità della ‘memoria’ in
+quanto costruzione. Non soltanto le prove soggettive su cui princi-
+palmente si basa la memoria hanno la tendenza a distorcere i fatti
+(tendenza che si suppone di eliminare con una ricerca accurata), ma
+bisogna anche tener presente che qualunque persona A che parli del
+suo passato alla persona B è strettamente legata alla relazione in cor-
+so tra queste due persone (e ne è determinata). Se si ricorre invece
+all'osservazione diretta della comunicazione tra l’individuo e le perso-
+ne che contano nella sua vita — metodo che abbiamo illustrato con
+il gioco degli scacchi e che viene applicato nella psicoterapia con-
+giunta delle coppie o di intere famiglie — si possono alla fine iden-
+tificare modelli di comunicazione che sono importanti dal punto di
+vista diagnostico e che consentono di progettare la strategia più ap-
+propriata d’intervento terapeutico. Con questo metodo non si ricer-
+cano dunque significati simbolici, cause nel passato, o motivazioni, ma
+modelli qui-e-ora.
+
+37
+
+---
+
+1.64 PRAGMATICA DELLA COMUNICAZIONE UMANA
+
+1.64 — CAUSA ED EFFETTO
+
+Se le si considera da questa particolare angolazione, le cause pos-
+sibili o ipotizzabili del comportamento assumono un'importanza se-
+condaria, mentre s'impone l’effetto del comportamento come criterio
+estremamente rilevante nell'interazione di individui che sono in stret-
+ti rapporti di parentela. Per esempio, accade spesso che un sintomo,
+rimasto refrattario alla psicoterapia malgrado l’analisi intensiva della
+sua genesi, riveli d'improvviso la sua importanza se lo si considera
+nel contesto di una interazione coniugale in corso tra un individuo e
+sua moglie (o suo marito). Il sintomo può allora assumere l'aspetto
+di un vincolo, di una regola del loro particolare ‘gioco’° di intera-
+zione, anziché essere la conseguenza di un conflitto irrisolto tra for-
+ze intrapsichiche puramente ipotizzate. In genere, riteniamo che il sin-
+tomo sia un comportamento i cui effetti influenzano profondamente
+l’ambiente del malato. A questo proposito si può enunciare una re-
+gola empirica: dove resta oscuro il perché? di un comportamento, la
+domanda 4 quale scopo? è possibile che dia una risposta valida.
+
+1.65 — LA CIRCOLARITÀ DEI MODELLI DI COMUNICAZIONE
+
+Tutte le parti dell’organismo formano un cer-
+chio. Perciò ogni parte è sia il principio che la
+fine. — Ippocrate
+
+Mentre nelle catene causali, che sono lineari e progressive, ha sen-
+so parlare del principio e della fine di una catena, tali termini sono
+privi di significato in sistemi con circuiti di retroazione. Non c'è fi-
+ne né principio in un cerchio. La logica di tali sistemi ci costringe
+ad abbandonare la nozione che l’evento 4, per es., viene per primo
+e che l'evento £ è determinato dal verificarsi di a, poiché commet-
+tendo lo stesso errore di ragionamento si potrebbe dire che l’evento
+b precede l’evento a, a seconda di dove si scelga — sempre arbitra-
+riamente — di interrompere la continuità del cerchio. Ma vedremo nel
+prossimo capitolo che un simile errore viene fatto costantemente dai
+singoli partecipanti a una interazione umana, quando sia la persona
+
+6 Non si sottolinerà mai abbastanza che in questo libro il termine ‘gioco’ non
+ha mai una connotazione ludica, in quanto lo abbiamo derivato dalla Teoria dei
+Giochi, una trattazione matematica che si riferisce a sequenze di comportamento
+governate da regole.
+
+38
+
+PRESUPPOSTI TEORICI 1.66
+
+A che la persona B dichiarano soltanto di star reagendo al compor-
+tamento del partner, senza rendersi conto che esse a loro volta in-
+fluenzano il partner con la loro reazione. Si fa lo stesso tipo di ra-
+gionamento anche per un problema senza soluzione come il seguen-
+te: è patologica la comunicazione di una data famiglia perché uno dei
+suoi membri è psicotico, o uno dei suoi membri è psicotico perché
+la comunicazione è patologica?
+
+1.66 — LA RELATIVITÀ DELLE NOZIONI DI ‘NORMALITÀ’ E
+‘ANORMALITÀ”’
+
+Le prime ricerche psichiatriche furono compiute nei manicomi con
+l'intento di classificare i pazienti. Fu un modo di accostarsi alle ma-
+lattie mentali che ebbe diversi valori pratici, non ultimo, la scoperta
+di certe condizioni organiche, come la paresi generale. Il passo suc-
+cessivo fu compiuto quando nel linguaggio legale furono incorporati il
+concetto che differenzia la normalità dall'anormalità e i termini ‘sanità’
+e ‘insania’. Tuttavia, una volta che si sia accettato il principio di co-
+municazione secondo cui un comportamento si può studiare soltanto
+nel contesto in cui si attua, i termini ‘sanità’ e ‘insania’ perdono pra-
+ticamente il loro significato in quanto attributi di individui. Analoga-
+mente la nozione di ‘anormalità’ diventa molto discutibile, perché ora
+generalmente si è concordi nel ritenere che la condizione del pazien-
+te non sia statica ma vari al variare della situazione interpersonale e
+dell'ottica preconcetta dell'osservatore. Inoltre, quando si considerano
+i sintomi psichiatrici come un comportamento che si adegua a una in-
+terazione in corso, emerge uno schema di riferimento che è diame-
+tralmente opposto alle teorie psichiatriche classiche. Che si sia sposta-
+to l’interesse in questa direzione ha un'importanza che non sarà mai
+troppo sottolineata. Ne consegue che la ‘schizofrenia’ considerata co-
+me una malattia incurabile e progressiva della mente di un individuo
+e la ‘schizofrenia’ considerata come l’uzica reazione possibile a un con-
+testo di comunicazione assurdo e insostenibile (una reazione che se-
+gue, e perciò perpetua, le regole di tale contesto) sono due cose del
+tutto diverse, che differiscono profondamente per l’incompatibilità del-
+le due strutture concettuali, anche se il quadro clinico a cui esse si
+riferiscono è lo stesso in tutti e due i casi. Da modi così diversi di
+affrontare il medesimo problema derivano implicazioni pure assai di-
+verse sia per l’eziologia che per la terapia; non ci sembra quindi dav-
+vero un puro esercizio da tavolino esaminare e mettere nel dovuto ri-
+lievo l'ottica che è propria della comunicazione.
+
+39

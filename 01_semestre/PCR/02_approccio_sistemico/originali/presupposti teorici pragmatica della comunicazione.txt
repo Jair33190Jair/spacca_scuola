@@ -1,0 +1,579 @@
+[FONTE: presupposti teorici pragmatica della comunicazione.pdf]
+
+1
+Presupposti teorici.
+Lo studio della comunicazione umana può essere suddiviso in tre sottosettori:
+1. sintassi
+2. semantica
+3. pragmatica.
+Mentre il primo comprende tutte le problematiche legate alla codiﬁca e de-
+codiﬁca dell’informazione, ai canali, alla ridondanza ed al rumore (problemi
+sintattici); mentre il secondo si occupa del signiﬁcato della comunicazione per
+i comunicanti (problemi semantici), il terzo sottosettore, quello pragmatico, si
+occupa degli eﬀetti della comunicazione sui parlanti, ovvero dell’inﬂuenza che
+questa esercita sul loro comportamento. Watzlawick e la scuola di Palo Alto si
+occupano di questo terzo aspetto della comunicazione: la pragmatica.
+Quindi la pragmatica studia gli eﬀetti della comunicazione sul com-
+portamento. In un certo senso, questa aﬀermazione è tautologica, poiché gli
+autori di Palo Alto considerano comunicazione e comportamento esattamente
+come sinonimi.
+1.1
+Funzione e relazione.
+Il concetto di relazione può essere rappresentato da quello matematico di fun-
+zione. Una funzione matematica viene deﬁnita come una relazione tra variabili:
+la sostanza delle nostre percezioni non è costituita da cose, ma da relazioni con
+le cose (funzioni), e quindi la consapevolezza che l’uomo ha di se stesso è so-
+stanzialmente una consapevolezza delle funzioni, delle relazioni in cui si trova
+implicato. Le relazioni sono quindi costruzioni reiﬁcate (Ashby), ed in questo si
+manifesta il costruttivismo di Watzlawick.
+1.2
+Informazione e retroazione.
+La tradizione psicoanalitica basa le proprie teorie sui principi di conservazione
+di materia ed energia negli scambi comunicativi. Ricordiamoci l’esempio del
+sasso e del cane. Dando un calcio al sasso, esso si muove in virtù di un’energia
+che noi passiamo dal nostro piede al sasso. Dando al contrario un calcio al cane,
+esso prenderà dal proprio metabolismo l’energia necessaria a muoversi, mentre
+il nostro calcio gli trasmetterà informazioni, che gli faranno decidere di allonta-
+narsi. Ecco che il centro della pragmatica diventa lo scambio di informazione, e
+non di energia, e questa è la diﬀerenza fondamentale tra la psicodinamica freu-
+diana e la teoria della comunicazione. Una volta messa al centro dell’attenzione
+l’informazione, entra in gioco anche il concetto di feedback, ovvero di retroa-
+zione, di ritorno verso l’emittente di un pacchetto di informazione relativo allo
+stato del ricevente dopo che ha ascoltato il messaggio dell’emittente: in questo
+modo possiamo costruire un sistema in grado di regolarsi da solo e di adattarsi
+2
+
+---
+
+al cambiamento, come la teoria cibernetica ha dimostrato. La retroazione può
+essere sia positiva che negativa: nel primo caso, essa causerà cambiamento, nel
+secondo caso, essa aiuterà il mantenimento dello status quo.
+I sistemi a retroazione posseggono un grado di complessità più elevato di
+altri sistemi non retroattivi, ed inoltre non sono assoggettabili alle leggi della
+meccanica classica, per cui è impossibile isolare una variabile e studiarla isola-
+tamente, poiché il sistema risulterebbe deformato in modo tale da non essere
+più lo stesso sistema.
+1.3
+Ridondanza.
+Il termine ridondanza si riferisce alla ripetizione negli schemi comportamentali
+che osserviamo durante l’interazione. La contrapposizione proposta da Watzla-
+wick tra interazione umana ed omeostato è esemplare: entrambi i sistemi sono
+sistemi in grado di raggiungere un equilibrio, ma se nel secondo caso, l’omeo-
+stato, esso è frutto di una ricerca casuale tra tutti gli stati possibili (ricerca che
+ad ogni cambiamento nel sistema riparte in maniera completamente random),
+nel sistema interazione l’equilibrio, una volta raggiunto, viene mantenuto con
+comportamenti ridondanti, comportamenti che in un certo senso costituiscono la
+memoria storica dell’interazione, e che non si annullano in occasione di modiﬁ-
+cazioni che possono occorrere: il sistema umano di interazione non riparte ogni
+volta da zero, ma mantiene le conquiste acquisite anche quando deve cercare
+altri equilibri.
+1.4
+Metacomunicazione.
+Quando i matematici smettono di usare la matematica come strumento di com-
+puto, e la usano come oggetto del loro studio, necessariamente adottano un lin-
+guaggio che è sulla matematica: tale linguaggio, seguendo le indicazioni del ma-
+tematico Hilbert, è stato chiamato meta-matematico. Allo stesso modo, quando
+noi parliamo sulla comunicazione, quando usiamo un linguaggio che ha come
+oggetto le ridondanze pragmatiche della interazione comunicativa, allora stiamo
+metacomunicando: comunichiamo sulla comunicazione.
+1.5
+Conclusioni
+La scatola nera.
+Per la scuola di Palo Alto, la mente deve essere considerata
+alla stregua di una scatola nera: essa non può essere esplorata, e forse, anche
+potendo, non sarebbe necessario. Ecco che possiamo interpretare il comporta-
+mento umano esclusivamente grazie all’osservazione dei suoi eﬀetti pragmati-
+ci, lasciando da parte ogni ipotesi intrapsichica (decisamente un presupposto
+comportamentista).
+Consapevolezza e non consapevolezza.
+In un contesto di teoria della co-
+municazione non ha molta importanza sapere se il comportamento di un emit-
+tente è intenzionale o meno. E quindi se l’emittente è consapevole o meno di
+3
+
+---
+
+aver emesso un messaggio. Ancora una volta, siamo in presenza di un aspetto
+fortemente costruttivista di Watzlawick: l’intenzionalità è indiﬀerente poiché in
+ogni caso sarà il ricevente ad interpretare il messaggio, e sarà quindi quest’ultimo
+a decidere come interpretare il messaggio.
+Presente e passato.
+Il metodo pragmatico ha l’obiettivo di determinare, rile-
+vare e possibilmente risolvere problemi comunicativi qui ed ora. Non si ricercano
+signiﬁcati simbolici, né cause nel passato o motivazioni, ma modelli per capire
+qui-ed-ora quello che sta succedendo nell’interazione, poichè la struttura di que-
+sta interazione è in grado di rivelarci tutto quello che può servire ad evidenziare
+le patologie comunicative (ecco che le sedute di terapia non coinvolgono mai
+solo il “paziente”, ma tutta la famiglia, poiché il problema è a livello sistemico,
+mentre il comportamento deviante di un membro della famiglia non è altro che
+l’unico esisto possibile di un contesto comunicativo non sano).
+Causa ed eﬀetto.
+Ecco che allora diventa essenziale analizzare gli eﬀetti,
+piuttosto che ricercare le cause di un comportamento. Diventa quindi centrale
+capire a quale scopo viene adottato un comportamento, piuttosto che chiederci
+il perché dello stesso comportamento.
+Determinati comportamenti possono
+infatti essere inspiegabili se analizziamo il soggetto come singolo, ma acquistano
+immediatamente senso se collocati all’interno di un contesto più ampio in cui il
+soggetto normalmente vive.
+Ovviamente il concetto di causalità che coinvolge i comunicanti è un concetto
+circolare, poiché in sistemi con circuiti di retroazione non esiste né un principio
+né una ﬁne, esattamente come in un cerchio.
+4
+
+---
+
+2
+L’interazione umana come sistema.
+2.1
+Deﬁnizione di sistema.
+Interazione.
+In ambito di teoria della comunicazione, Watzlawick deﬁnisce il
+concetto di modello come ridondanza di eventi: quando esiste una ridondanza
+nell’interazione, possiamo delineare la struttura di tale interazione, e quindi
+costruire un modello dinamico di quel contesto interattivo.
+L’interazione comunicativa è pensata come un sistema, e come tale ricade
+sotto il dominio della Teoria Generale dei Sistemi. Ovviamente un sistema ha
+un senso solo all’interno di una dimensione temporale dentro la quale possa
+svilupparsi.
+Deﬁnizione.
+Deﬁniamo un sistema come un insieme di oggetti e di re-
+lazioni tra gli oggetti e tra i loro attributi, in cui gli oggetti sono parti
+del sistema, gli attributi sono proprietà degli oggetti (che concorrono alla loro
+speciﬁcazione) e le relazioni tengono insieme il sistema, rappresentando il punto
+di vista che adottiamo sul sistema: le relazioni che dobbiamo considerare nel
+contesto di un dato insieme di oggetti dipendono dal problema in questione poi-
+ché vengono incluse le relazioni importanti o interessanti ed escluse quelle banali
+o irrilevanti.
+Un sistema interattivo è quindi costituito da due o più comunicanti
+impegnati nel processo di deﬁnire la natura della loro relazione.
+Ambiente.
+Quando deﬁniamo un sistema, dobbiamo anche deﬁnire il suo am-
+biente, ovvero il contesto nel quale il sistema si forma. L’ambiente è deﬁnito
+come tutti gli oggetti che possono modiﬁcare il sistema, e venire mo-
+diﬁcati dal sistema in un processo ricorsivo di interazione. Ovviamente
+non risulta possibile delineare un conﬁne netto tra sistema ed ambiente. Que-
+st’ultimo concetto acquista senso nei sistemi aperti, ovvero in quei sistemi che
+scambiano con l’ambiente materiali, energia e informazione.
+2.2
+Proprietà di un sistema aperto.
+Le proprietà di un sistema aperto sono tre:
+1. Totalità;
+2. Retroazione;
+3. Equiﬁnalità.
+Totalità.
+Questa proprietà implica che ogni parte del sistema sia in rapporto
+con il tutto: una modiﬁcazione del sistema inﬂuisce sulla parte, così come una
+modiﬁcazione della parte inﬂuisce sul tutto. Il sistema è un tutto inscindibile,
+non un semplice agglomerato di parti indipendenti. Il principio di totalità ha
+5
+
+---
+
+come corollario la non-sommatività: il risultato a livello di sistema dell’intera-
+zione delle parti non è semplicemente la somma del contributo parziale di ogni
+parte del sistema, ma è un qualcosa di più, qualcosa che implica l’emergenza
+di comportamenti a livello di sistema non predicibili dai comportamenti delle
+parti. Questa emergenza di proprietà inesistenti a livello delle parti è quello
+che fa di un sistema un sistema complesso. Nel contesto di analisi pragmatica
+della comunicazione, questo presupposto teorico implica, ancora una volta, che
+i comunicanti non devono essere considerati isolatamente l’uno dall’altro, pena
+non riuscire ad analizzare il sistema in tutta la sua complessità, ed in tutte le
+sue emergenze.
+In breve, le sequenze di comunicazione sono reciprocamente inscin-
+dibili, e l’interazione è non-sommativa.
+Retroazione.
+La retroazione è il fenomeno che lega insieme le parti e permet-
+te l’emergenza del sistema. Come abbiamo detto, l’avvento della teoria della
+comunicazione ha concentrato l’attenzione sullo scambio di informazioni, e quel-
+lo della cibernetica sul meccanismo di retroazione. In questo contesto teorico
+abbiamo inoltre la possibilità di adottare uno schema causale circolare, adatto
+a rappresentare le interazioni in un sistema aperto.
+Equiﬁnalità.
+I risultati a livello di sistema non sono predicibili conoscendo
+semplicemente le condizioni iniziali del sistema.
+Questo concetto è partico-
+larmente sfuggente alla comprensione. Quando parliamo di sistemi complessi,
+generalmente concordiamo sul fatto che le condizioni iniziali di tali sistemi siano
+di basilare importanza per i risultati a cui tali sistemi arriveranno nel tempo.
+Watzlawick inserisce un altro aspetto, quello dei parametri del sistema: egli sug-
+gerisce, seguendo Von Bertanlanﬀy, che siano i parametri del sistema a giocare
+un ruolo fondamentale nel deﬁnire lo stato di equilibrio del sistema, e non tanto
+le condizioni iniziali dello stesso. Per questo motivo, non soltanto dalle stesse
+condizioni iniziali possiamo ottenere risultati diversi, ma anche da condizioni
+iniziali identiche possiamo ottenere risultati diversi.
+La ricaduta di questo principio sulla pragmatica della comunicazione umana
+consiste nel considerare, in un contesto di analisi della comunicazione, l’orga-
+nizzazione in corso del processo interattivo molto più importante degli elementi
+speciﬁci costituiti dalla genesi e dal risultato.
+Il sistema è allora la migliore spiegazione di se stesso, e lo studio della sua
+organizzazione attuale è la metodologia più appropriata.
+2.3
+Sistemi aperti nel tempo: i sistemi interattivi.
+Analizziamo adesso i sistemi in stato stazionario, ovvero quei sistemi considerati
+stabili rispetto a certe variabili poiché queste tendono a rimanere, nel tempo,
+entro limiti deﬁniti.
+6
+
+---
+
+Relazioni in corso.
+I sistemi caratterizzati dalla stabilità sono quelli in cui
+le relazioni in corso sono:
+1. importanti per entrambe le parti;
+2. di lunga durata.
+Questi sistemi hanno una grande importanza dal punto di vista della pragma-
+tica della comunicazione. Quando sussistono le condizioni sopra elencate, si ha
+l’occasione (ma anche la necessità) di ripetere le sequenze di comunicazione in
+contesti stabili (famiglia, gruppo di pari, ecc...) e le ridondanze di questi sistemi
+sono molto più signiﬁcative di quelle che potremmo trovare analizzando incontri
+casuali tra estranei.
+Quando questi tipi di interazioni hanno delle evidenti risultanti patologiche,
+viene da chiedersi perché mai, nonostante tutto, l’interazione venga comunque
+portata avanti. è bene allora fermarsi a riﬂettere su un aspetto fondamentale di
+questo approccio di ricerca: non ci interessa il perché, ma il come un sistema
+interattivo opera. Quindi, come rilevato sopra, non cerchiamo cause scatenanti,
+ma ﬁni a cui il comportamento comunicativo assolve, cercando di comprenderne
+la struttura interattiva.
+Regole di relazione.
+In una sequenza comunicativa, ogni scambio di mes-
+saggi restringe il numero delle possibili mosse successive: i messaggi palesi che
+sono stati scambiati entrano a far parte del particolare contesto interpersonale e
+pongono le loro limitazioni all’interazione successiva, esattamente come in una
+partita a scacchi.
+Quando questo scambio ha raggiunto una stabilità, ovvero quando i parlanti
+si sono in qualche modo accordati nel tempo sulla natura della loro relazione,
+emerge quello che Jackson ha deﬁnito regola della relazione.
+Non dobbiamo pensare alle regole della relazione come a qualcosa di esterno
+alla relazione stessa e reiﬁcato dai parlanti, che la subiscono una volta generata:
+tutt’altro, il concetto di regola, come quello di legge per Mach, rappresenta uno
+strumento di ergonomia cognitiva per noi ricercatori, ma non esiste nessuna
+regola nel mondo, esistono solamente i casi.
+***
+A conclusione di questa sezione, dobbiamo ricordare un altro concetto pro-
+dotto dalla Scuola di Palo Alto, ovvero quello di omeostasi familiare. La
+genesi di questo concetto risiede nelle osservazioni cliniche di comportamenti
+ricorrenti in famiglie disturbate: ogni volta che il paziente migliorava, peggio-
+ravano i familiari. Da qui l’intuizione di Jackson di considerare questi compor-
+tamenti (sia dei familiari che del paziente) come meccanismi omeostatici che
+resistevano al cambiamento, in modo da permettere alla famiglia di mantenere
+un equilibrio, per quanto precario. Questi meccanismi sono così eﬃcaci che, in
+ogni caso, lavorano per mantenere lo status quo, anche quando questo è pa-
+tologico e il cambiamento porterebbe giovamento. Questo tipo di resistenza è
+prettamente negativo, e contrapposto al fenomeno della calibrazione (attraverso
+7
+
+---
+
+funzioni a gradino), ovvero a quel meccanismo che invece permette di aﬀron-
+tare il cambiamento attraverso una ricalibrazione, appunto, dei parametri del
+sistema (da ricordare l’esempio del termostato): in altre parole, ricalibrare il
+sistema signiﬁca rideﬁnire le regole della relazione, accordandosi su una nuova
+deﬁnizione della natura della relazione stessa.
+8
+
+---
+
+3
+Gli assiomi della comunicazione.
+3.1
+Primo assioma: l’impossibilità di non comunicare.
+Il comportamento non ha un suo opposto: non possiamo non comportarci. In
+ogni caso, abbiamo sempre un comportamento.
+Se concordiamo nel deﬁnire
+come messaggio l’intero comportamento di una situazione di interazione, allora
+ne consegue che è impossibile non comunicare. Non possiamo sottrarci alla
+comunicazione.
+Una unità di comunicazione (comportamento compreso) è chiamata mes-
+saggio, una serie di messaggi scambiati fra persone è una interazione.
+Le
+interazioni possono essere sussunte in modelli di interazione.
+Il centro dell’interesse del nostro approccio è quello di analizzare le conse-
+guenze pragmatiche delle interazioni comunicative.
+3.2
+Secondo assioma: livello di contenuto e livello di rela-
+zione.
+Una comunicazione non soltanto trasmette informazione, ma al tempo stesso
+impone un comportamento. Dentro un messaggio esiste quindi sia una compo-
+nente di informazione (l’aspetto di notizia), sia una componente di comando.
+L’aspetto di notizia di un messaggio trasmette informazione ed è quindi sino-
+nimo nella comunicazione umana del contenuto del messaggio. L’aspetto di
+comando si riferisce invece alla relazione tra i comunicanti.
+L’aspetto di comando non viene quasi mai negoziato apertamente. Sem-
+bra anzi che, quanto più una relazione è spontanea e sana, tanto più l’aspetto
+relazionale della comunicazione recede sullo sfondo.
+Il problema consiste allora nel deﬁnire la relazione che intercorre tra l’aspet-
+to di comando e quello di notizia del messaggio. Watzlawick utilizza l’analogia
+del calcolatore: per operare, la macchina ha bisogno non solo di dati (infor-
+mazione), ma anche di dati sui dati, ovvero di codice che dica alla macchina
+come trattare i dati (metainformazione). Portando l’analogia nel mondo della
+comunicazione umana, possiamo identiﬁcare l’aspetto di notizia del messaggio
+come comunicazione, e l’aspetto di comando come metacomunicazione (secondo
+la deﬁnizione precedentemente data per questo concetto).
+Quindi, ogni comunicazione ha un aspetto di contenuto e un aspetto
+di relazione, di modo che il secondo classiﬁca il pimo ed è quindi
+metacomunicazione.
+3.3
+Terzo assioma: la punteggiatura della sequenza di even-
+ti.
+L’osservatore esterno considera una serie di comunicazioni come una sequenza
+ininterrotta di scambi. Tuttavia chi partecipa all’interazione, ed è quindi cala-
+to nella comunicazione, legge lo scambio e reagisce ad esso secondo quella che
+Bateson e Jackson hanno deﬁnito punteggiatura della sequenza di eventi
+9
+
+---
+
+(ricordarsi l’esempio dello sperimentatore e del topolino). Noi non discutere-
+mo se la punteggiatura della sequenza di comunicazione sia buona o cattiva (è
+evidente che essa organizza gli eventi comportamentali ed è quindi essenziale
+per l’interazione). Quello che a noi interessa è rilevare come spesso i conﬂitti
+relazionali siano semplicemente basati su una punteggiatura conﬂittuale della
+suddetta sequenza degli scambi. Ogni parlante interpreta lo scambio in modo
+tale da vedere il proprio comportamento come causato dal comportamento del-
+l’altro, e mai come causa della reazione dell’altro, e viceversa: in breve, ogni
+parlante accusa l’altro di essere la causa del proprio comportamento. è evidente
+che il problema della punteggiatura è risolvibile solo a livello di metacomunica-
+zione, cioè ad un livello in cui si parla della relazione, e non dei contenuti degli
+scambi comunicativi.
+La natura di una relazione dipende dalla punteggiatura delle se-
+quenze di comunicazione tra i comunicanti.
+3.4
+Quarto assioma: comunicazione numerica ed analogi-
+ca.
+Nella comunicazione umana si hanno due possibilità di far riferimento agli og-
+getti: in modo analogico, attraverso una rappresentazione; in modo numerico,
+attraverso un’assegnazione simbolica. Come hanno osseravato Bateson e Jack-
+son, non c’è nulla di speciﬁcamente simile ad un tavolo nella parola ’tavolo’.
+Nella comunicazione analogica invece c’è qualcosa di speciﬁcamente ’simile alla
+cosa’ rappresentata. Come possiamo facilmente riscontrare nell’esperienza, ca-
+pire una lingua straniera ascoltandola alla radio risulta molto più diﬃcile del
+capirla osservando un parlante: in quest’ultimo caso, possiamo inferire il signiﬁ-
+cato delle parole attraverso l’uso sia del linguaggio dei segni che dei ’movimenti
+di intenzione’ che il parlante usa.
+Cos’è allora la comunicazione analogica? Praticamente è ogni comu-
+nicazione non verbale (intesa nel senso esteso proprio di Watzlawick, che
+quindi include posizioni del corpo, gesti, espressioni del viso, inﬂessioni della
+voce, sequenza e ritmo delle parole, il contesto in cui avviene la comunicazione).
+L’uomo è l’unico essere vivente ad usare sia il modulo analogico che quello
+numerico per comunicare con i suoi simili. Il linguaggio numerico serve a scam-
+biare informazione sugli oggetti e a trasmettere la conoscenza nel tempo. Gli
+animali usano il modulo analogico per comunicare tra loro e con l’uomo, ma
+la natura della loro comunicazione, come dimostrato da Bateson, ha caratte-
+re relazionale e non assertivo: vale a dire che la comunicazione animale non è
+una comunicazione che fa asserzioni denotative sugli oggetti, ma è una comu-
+nicazione legata alla deﬁnizione della natura delle proprie relazioni con gli altri
+soggetti. Gli animali, quando parliamo loro, non capiscono il signiﬁcato delle
+nostre frasi, ma al contrario capiscono benissimo la ricchezza analogica con cui
+comunichiamo loro queste frasi.
+Da queste considerazioni si ricava una importante nozione: ogni volta che la
+relazione è il problema dei comunicanti, il modulo numerico è privo di forza, ed
+10
+
+---
+
+in realtà risulta solo strumentale ad una lotta che ha come obiettivo ristabilire
+una regola, ovvero una deﬁnizione condivisa della relazione in crisi.
+Da sottolineare inoltre che, se in ogni comunicazione coesistono sia un aspet-
+to di relazione che uno di contenuto, sembra logico aspettarsi che il modulo nu-
+merico sia quello più adatto a veicolare il contenuto, l’aspetto di notizia, mentre
+il modulo analogico sia quello più idoneo a veicolare la deﬁnizione della relazione,
+l’aspetto di comando della comunicazione. Questo a causa delle limitazioni ﬁsio-
+logiche incontrate dal modulo analogico nella comunicazione di concetti astratti,
+oppure nell’aﬀrontare connettivi logici come la negazione, o l’esclusione, oppure
+ancora nella gestione della temporalità (mancando indicatori che consentano di
+distinguere tra presente, passato e futuro).
+L’uomo ha quindi la necessità di combinare i due moduli, compiendo continue
+traduzioni dall’uno all’altro: ecco che parlare sulla relazione è diﬃcile, a causa
+dello sforzo di traduzione dal modulo analogico a quello numerico necessario
+a negoziare la relazione stessa (in sostanza, prima di parlare sulla relazione, è
+necessario che i parlanti portino per così dire in chiaro, e reciprocamente, i
+comportamenti dell’altro).
+Allora, gli esseri umani comunicano sia con il modulo numerico che
+con quello analogico.
+Il linguaggio numerico ha una sintassi logica
+assai complessa e di estrema eﬃcacia ma manca di una semantica
+adeguata nel settore della relazione, mentre il linguaggio analogico
+ha la semantica ma non ha nessuna sintassi adeguata per deﬁnire in
+un modo che non sia ambiguo la natura delle relazioni.
+3.5
+Quinto assioma: interazione simmetrica e complemen-
+tare.
+Tutti gli scambi di comunicazione sono simmetrici o complementari,
+a seconda che siano basati sull’uguaglianza o sulla diﬀerenza. Nel pri-
+mo caso, un parlante tende a rispecchiare il comportamento dell’altro, creando
+un’interazione simmetrica. Nel secondo caso, il comportamento di un parlante
+completa quello dell’altro e costituisce un tipo diverso di Gestalt comportamen-
+tale, creando un’interazione complementare. In quest’ultimo caso, un partner
+assume una posizione primaria, detta one-up, superiore; mentre l’altro partner
+completa per così dire la conﬁgurazione assumendo una posizione one-down,
+ovvero inferiore. Non dobbiamo tuttavia attribuire giudizi di valore come “buo-
+no” e “cattivo” o “forte” e “debole” alla precedente distinzione: l’assunzione di
+una posizione o l’altra potrebbe essere determinata semplicemente da contesti
+culturali o sociali (es. madre/ﬁglio, medico/paziente, insegnante/allievo).
+11
+
+---
+
+4
+Le patologie legate agli assiomi.
+Ogni assioma precedentemente illustrato implica, come corollario, precise pato-
+logie comunicative. Le conseguenze pragmatiche di queste patologie corrispon-
+dono a varie psicopatologie individuali.
+4.1
+Patologie legate al primo assioma.
+Abbiamo visto che non comunicare è impossibile, poiché è impossibile non as-
+sumere un comportamento. è lecito supporre tuttavia che si avranno tentativi
+di non comunicare ogni volta in cui si cercherà di evitare l’impegno inerente ad
+una comunicazione. Prendiamo ad esempio due soggetti che siedono in posti
+adiacenti su un aereo. Non possono andarsene e non possono non-comunicare.
+Quali sono allora i possibili risvolti pragmatici di questa condizione?
+1. ’Riﬁuto’ della comunicazione: un passeggero fa capire all’altro che non
+vuole conversare, comportamento che certo richiede coraggio ed un certo
+disprezzo delle ’buone maniere’;
+2. ’Accettazione’ della comunicazione: un passeggero cede alla conversazione
+dell’altro e cominciano a comunicare;
+3. ’Squaliﬁcazione’ della comunicazione: il passeggero che non voleva comu-
+nicare si abbandona ad una sorta di comunicazione inconcludente, cam-
+biando argomento, contraddicendosi e fraintendendo l’altro nel tentativo
+di invalidare la comunicazione tra loro (la cosiddetta ’arte gentile di non
+dire nulla dicendo qualcosa’);
+4. Usare un sintomo come comunicazione: un passeggero manifesta un sinto-
+mo, dietro il quale nasconde la propria volontà di non impegnarsi in una
+comunicazione, che fa capire all’altro che non è possibile conversare con
+lui (far ﬁnta di dormire, ad esempio, in modo da ’dare la colpa’ al sonno,
+e non a se stessi, del non poter parlare con l’altro).
+4.2
+Patologie legate al secondo assioma.
+Spesso accade che il motivo scatenante di una discussione consista in un disac-
+cordo a livello di relazione (metacomunicazione), mentre la discussione rimane
+centrata a livello di contenuto. Questa confusione tra l’aspetto di contenuto e
+quello di relazione scaturisce dalla diﬃcoltà di parlare sulla relazione, e lascia
+i parlanti a litigare su aspetti su cui spesso sono già d’accordo (il contenuto,
+appunto), mentre l’aspetto relazionale resta fuori portata.
+Il disaccordo è la scintilla che illumina questi livelli: i due livelli sono stretta-
+mente legati, e non si può toccarne uno senza inﬂuire anche sull’altro, in maniera
+più o meno incisiva. Spesso risolvere un problema di contenuto implica creare
+un problema di relazione: una volta che il disaccordo sul contenuto è chiarito,
+restano due persone di cui una aveva ragione e l’altra torto. Evidentemente, a
+12
+
+---
+
+questo punto le due persone devono lasciare il contenuto, su cui si sono accorda-
+te, e cominciare a parlare della loro relazione, e di cosa comporti avere ragione
+o torto a quel livello. E quindi devono deﬁnire, dopo il disaccordo, se la loro
+relazione è simmetrica o complementare.
+Per la pragmatica della comunicazione, il disaccordo a livello di metacomuni-
+cazione è più importante, per le sue implicazioni, di quello a livello di contenuto.
+A livello della relazione, i parlanti deﬁniscono la relazione stessa e implicitamen-
+te se stessi. In questa ottica, sono possibili tre reazioni a questa deﬁnizione di
+se stessi:
+1. Conferma: il rispondente conferma all’emittente la versione che questo ha
+dato di sé. C’è riconoscimento e conferma per l’emittente, che quindi può
+consolidare l’immagine di se stesso che costruisce dentro di sé;
+2. Riﬁuto: il rispondente riﬁuta l’immagine proposta dall’emittente. Questo
+riﬁuto presuppone riconoscimento, e quindi, sebbene sia in disaccordo con
+l’emittente, ne conferma la realtà come emittente;
+3. Disconferma: in questo caso l’emittente non viene preso in considerazione
+dal ricevente. Il problema non è più confermare o riﬁutare una deﬁnizione,
+ma negare che una deﬁnizione, giusta o sbagliata che sia, sia mai stata
+prodotta dall’emittente, negando altresì la realtà dell’emittente. Questa
+ultima possibilità comporta per l’emittente il fenomeno della ’perdità del
+Sé’, ovvero all’alienazione.
+La disconferma dell’altro è spesso prodotta dal fenomeno dell’impenetrabilità,
+ovvero dall’incapacità di acquisire consapevolezza delle percezioni interpersonali
+degli altri: ogni parte non si accorge del punto di vista dell’altra, creando una
+catena patologica di reciproci ’non prendersi in considerazione’, poiché nessuno
+considera l’altro come valido emittente.
+4.3
+Patologie legate al terzo assioma.
+La sequenza di eventi viene punteggiata dai parlanti secondo il loro punto di
+vista, come abbiamo precedentemente osservato. Generalmente si suppone che
+l’altro abbia le stesse informazioni che abbiamo noi, e che da queste trarrà le
+nostre stesse conclusioni. Anche nel caso di punteggiature diﬀerenti, non sarà
+possibile risolvere i conﬂitti comunicativi ﬁno a che la comunicazione stessa, e
+quindi la deﬁnizione della relazione tra i comunicanti, non diventerà l’oggetto
+della loro comunicazione, ossia ﬁno a che non cominceranno a metacomunicare.
+L’aspetto patologico di confusione nella punteggiatura della sequenza di
+eventi consiste nel fenomeno delle ’profezie che si autodeterminano’, ovvero
+in quegli atteggiamenti che il soggetto crede di subire dagli altri, comportan-
+dosi di conseguenza, ma che in realtà è lui stesso a provocare: i comporta-
+menti che osserva negli altri li imputa (immotivatamente) a cause del proprio
+comportamento, mentre questi sono in realtà reazioni al comportamento del
+soggetto.
+13
+
+---
+
+4.4
+Patologie legate al quarto assioma.
+Possiamo commettere errori nel processo di traduzione dal modulo analogico a
+quello numerico (e viceversa). Ricordiamo ancora una volta che tutti i messaggi
+analogici sono invocazioni di relazione, ovvero proposte che riguardano le regole
+future della relazione (Bateson): spetta poi a noi attribuire il corretto signiﬁca-
+to (ovvero il signiﬁcato inteso dall’emittente) positivo o negativo alle suddette
+proposte.
+Il linguaggio numerico ha una sintassi particolarmente adatta a comunicare
+a livello di contenuto. Usare questo linguaggio per metacomunicare è quindi
+conveniente, sebbene sia necessaria una fase di inferenza per tradurre il linguag-
+gio analogico in quello numerico, mancando nel primo quei connettivi logici che
+invece possiamo usare nel secondo. Nel linguaggio analogico la negazione ad
+esempio viene segnalata mostrando un comportamento che non viene portato a
+conclusione. Sta quindi a noi tradurre questo comportamento in una negazione
+nel linguaggio numerico, per discutere della relazione a livello metacomunicativo.
+Concludendo, Watzlawick sottolinea come la prima conseguenza di un guasto
+nella comunicazione sia di solito la perdita parziale della capacità di metaco-
+municare con un metodo numerico sulle circostanze particolari della relazione
+(ricordiamo infatti che, sebbene il modulo numerico risulti più adatto a veico-
+lare il contenuto, mentre il modulo analogico la relazione, ciò non signiﬁca che
+si possa metacomunicare solo col modulo analogico: anzi, il modulo numerico
+risulta essere il più adatto a risolvere incomprensioni in questo senso, sebbene
+attraversi i problemi di traduzione esaminati sopra).
+4.5
+Patologie legate al quinto assioma.
+Partendo dalla considerazione che in una relazione sana sono presenti, alternati-
+vamente, sia situazioni simmetriche che situazioni complementari, e che entram-
+be indiﬀerentemente concorrono a confermare il Sè dei comunicanti, andiamo
+ad esaminarne le derive patologiche.
+Per quanto riguarda l’interazione simmetrica, è sempre presente il perico-
+lo della competitività. Questo rischio porta la relazione verso una escalation
+(simmetrica) all’interno della quale i due comunicanti non arretrano mai di fron-
+te all’altro, ma tentano di avere ’l’ultima parola’ sul contenuto (che ovviamente
+rispecchia la volontà di arrogarsi il diritto di deﬁnire la relazione). Quando sia-
+mo di fronte ad una esclation simmetrica, siamo spesso di fronte a due partner
+che riﬁutano reciprocamente le deﬁnizioni del Sé dell’altro.
+Quando siamo di fronte invece a patologie dell’interazione complementare,
+osserviamo disconferme del Sé dell’altro: si assiste quindi ad una negazione
+dell’altro come emittente, mancandone del tutto il riconoscimento. La com-
+plementarietà patologica si deﬁnisce rigida: i comunicanti permangono nelle
+posizioni one-up e one-down in modo statico, senza possibilità di alternarsi.
+In questo contesto, solo e sempre uno dei due avrà diritto di parlare dell’altro
+(la madre del ﬁglio, ad esempio), mentre quest’ultimo non avrà diritto di fare
+commenti (o meglio, li farà, ma non verranno presi in considerazione) - evi-
+14
+
+---
+
+dentemente un altro esempio di come l’attenzione del ricercatore debba sempre
+monitorare la relazione nella, e non il contenuto della, comunicazione.
+Le interviste esaminate in aula propongono esempi tratti dall’esperienza cli-
+nica della Scuola di Palo Alto, ed illustrano escalation simmetrica, complemen-
+tarietà rigida, ed inﬁne una comunicazione giudicata sana. Per esprimere giudizi
+su di esse, Watzlawick ci ha dimostrato come sia necessario concentrarci sullo
+schema relazionale che i comunicanti tratteggiano comunicando, e non sui con-
+tenuti che vengono scambiati. In questa ottica, nessuna asserzione, isolata dalla
+altre, può essere simmetrica, complementare, o altro. La risposta del partner è
+conditio sine qua non per classiﬁcare il messaggio. E le relazioni tra i messaggi
+(interazioni) sono quelle che determinano l’emergere della struttura relazionale,
+oggetto della nostra ricerca, e conseguentemente ciò su cui dobbiamo concentrare
+la nostra attenzione di ricercatori.
+15
+
+---
+
+Riferimenti bibliograﬁci
+[Watzlavick et al., 1997] Watzlawick, P., Beavin, J.H., Jackson, D.D., Pragma-
+tica della comunicazione umana, Astrolabio Editore,
+Roma, 1997.
+16

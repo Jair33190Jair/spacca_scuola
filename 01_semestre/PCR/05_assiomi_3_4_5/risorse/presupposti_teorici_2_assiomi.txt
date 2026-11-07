@@ -1,0 +1,140 @@
+[FONTE: presupposti_teorici_2_assiomi.pdf — pagine 8-10 di presupposti teorici pragmatica della comunicazione.pdf]
+
+3
+Gli assiomi della comunicazione.
+3.1
+Primo assioma: l’impossibilità di non comunicare.
+Il comportamento non ha un suo opposto: non possiamo non comportarci. In
+ogni caso, abbiamo sempre un comportamento.
+Se concordiamo nel deﬁnire
+come messaggio l’intero comportamento di una situazione di interazione, allora
+ne consegue che è impossibile non comunicare. Non possiamo sottrarci alla
+comunicazione.
+Una unità di comunicazione (comportamento compreso) è chiamata mes-
+saggio, una serie di messaggi scambiati fra persone è una interazione.
+Le
+interazioni possono essere sussunte in modelli di interazione.
+Il centro dell’interesse del nostro approccio è quello di analizzare le conse-
+guenze pragmatiche delle interazioni comunicative.
+3.2
+Secondo assioma: livello di contenuto e livello di rela-
+zione.
+Una comunicazione non soltanto trasmette informazione, ma al tempo stesso
+impone un comportamento. Dentro un messaggio esiste quindi sia una compo-
+nente di informazione (l’aspetto di notizia), sia una componente di comando.
+L’aspetto di notizia di un messaggio trasmette informazione ed è quindi sino-
+nimo nella comunicazione umana del contenuto del messaggio. L’aspetto di
+comando si riferisce invece alla relazione tra i comunicanti.
+L’aspetto di comando non viene quasi mai negoziato apertamente. Sem-
+bra anzi che, quanto più una relazione è spontanea e sana, tanto più l’aspetto
+relazionale della comunicazione recede sullo sfondo.
+Il problema consiste allora nel deﬁnire la relazione che intercorre tra l’aspet-
+to di comando e quello di notizia del messaggio. Watzlawick utilizza l’analogia
+del calcolatore: per operare, la macchina ha bisogno non solo di dati (infor-
+mazione), ma anche di dati sui dati, ovvero di codice che dica alla macchina
+come trattare i dati (metainformazione). Portando l’analogia nel mondo della
+comunicazione umana, possiamo identiﬁcare l’aspetto di notizia del messaggio
+come comunicazione, e l’aspetto di comando come metacomunicazione (secondo
+la deﬁnizione precedentemente data per questo concetto).
+Quindi, ogni comunicazione ha un aspetto di contenuto e un aspetto
+di relazione, di modo che il secondo classiﬁca il pimo ed è quindi
+metacomunicazione.
+3.3
+Terzo assioma: la punteggiatura della sequenza di even-
+ti.
+L’osservatore esterno considera una serie di comunicazioni come una sequenza
+ininterrotta di scambi. Tuttavia chi partecipa all’interazione, ed è quindi cala-
+to nella comunicazione, legge lo scambio e reagisce ad esso secondo quella che
+Bateson e Jackson hanno deﬁnito punteggiatura della sequenza di eventi
+9
+
+---
+
+(ricordarsi l’esempio dello sperimentatore e del topolino). Noi non discutere-
+mo se la punteggiatura della sequenza di comunicazione sia buona o cattiva (è
+evidente che essa organizza gli eventi comportamentali ed è quindi essenziale
+per l’interazione). Quello che a noi interessa è rilevare come spesso i conﬂitti
+relazionali siano semplicemente basati su una punteggiatura conﬂittuale della
+suddetta sequenza degli scambi. Ogni parlante interpreta lo scambio in modo
+tale da vedere il proprio comportamento come causato dal comportamento del-
+l’altro, e mai come causa della reazione dell’altro, e viceversa: in breve, ogni
+parlante accusa l’altro di essere la causa del proprio comportamento. è evidente
+che il problema della punteggiatura è risolvibile solo a livello di metacomunica-
+zione, cioè ad un livello in cui si parla della relazione, e non dei contenuti degli
+scambi comunicativi.
+La natura di una relazione dipende dalla punteggiatura delle se-
+quenze di comunicazione tra i comunicanti.
+3.4
+Quarto assioma: comunicazione numerica ed analogi-
+ca.
+Nella comunicazione umana si hanno due possibilità di far riferimento agli og-
+getti: in modo analogico, attraverso una rappresentazione; in modo numerico,
+attraverso un’assegnazione simbolica. Come hanno osseravato Bateson e Jack-
+son, non c’è nulla di speciﬁcamente simile ad un tavolo nella parola ’tavolo’.
+Nella comunicazione analogica invece c’è qualcosa di speciﬁcamente ’simile alla
+cosa’ rappresentata. Come possiamo facilmente riscontrare nell’esperienza, ca-
+pire una lingua straniera ascoltandola alla radio risulta molto più diﬃcile del
+capirla osservando un parlante: in quest’ultimo caso, possiamo inferire il signiﬁ-
+cato delle parole attraverso l’uso sia del linguaggio dei segni che dei ’movimenti
+di intenzione’ che il parlante usa.
+Cos’è allora la comunicazione analogica? Praticamente è ogni comu-
+nicazione non verbale (intesa nel senso esteso proprio di Watzlawick, che
+quindi include posizioni del corpo, gesti, espressioni del viso, inﬂessioni della
+voce, sequenza e ritmo delle parole, il contesto in cui avviene la comunicazione).
+L’uomo è l’unico essere vivente ad usare sia il modulo analogico che quello
+numerico per comunicare con i suoi simili. Il linguaggio numerico serve a scam-
+biare informazione sugli oggetti e a trasmettere la conoscenza nel tempo. Gli
+animali usano il modulo analogico per comunicare tra loro e con l’uomo, ma
+la natura della loro comunicazione, come dimostrato da Bateson, ha caratte-
+re relazionale e non assertivo: vale a dire che la comunicazione animale non è
+una comunicazione che fa asserzioni denotative sugli oggetti, ma è una comu-
+nicazione legata alla deﬁnizione della natura delle proprie relazioni con gli altri
+soggetti. Gli animali, quando parliamo loro, non capiscono il signiﬁcato delle
+nostre frasi, ma al contrario capiscono benissimo la ricchezza analogica con cui
+comunichiamo loro queste frasi.
+Da queste considerazioni si ricava una importante nozione: ogni volta che la
+relazione è il problema dei comunicanti, il modulo numerico è privo di forza, ed
+10
+
+---
+
+in realtà risulta solo strumentale ad una lotta che ha come obiettivo ristabilire
+una regola, ovvero una deﬁnizione condivisa della relazione in crisi.
+Da sottolineare inoltre che, se in ogni comunicazione coesistono sia un aspet-
+to di relazione che uno di contenuto, sembra logico aspettarsi che il modulo nu-
+merico sia quello più adatto a veicolare il contenuto, l’aspetto di notizia, mentre
+il modulo analogico sia quello più idoneo a veicolare la deﬁnizione della relazione,
+l’aspetto di comando della comunicazione. Questo a causa delle limitazioni ﬁsio-
+logiche incontrate dal modulo analogico nella comunicazione di concetti astratti,
+oppure nell’aﬀrontare connettivi logici come la negazione, o l’esclusione, oppure
+ancora nella gestione della temporalità (mancando indicatori che consentano di
+distinguere tra presente, passato e futuro).
+L’uomo ha quindi la necessità di combinare i due moduli, compiendo continue
+traduzioni dall’uno all’altro: ecco che parlare sulla relazione è diﬃcile, a causa
+dello sforzo di traduzione dal modulo analogico a quello numerico necessario
+a negoziare la relazione stessa (in sostanza, prima di parlare sulla relazione, è
+necessario che i parlanti portino per così dire in chiaro, e reciprocamente, i
+comportamenti dell’altro).
+Allora, gli esseri umani comunicano sia con il modulo numerico che
+con quello analogico.
+Il linguaggio numerico ha una sintassi logica
+assai complessa e di estrema eﬃcacia ma manca di una semantica
+adeguata nel settore della relazione, mentre il linguaggio analogico
+ha la semantica ma non ha nessuna sintassi adeguata per deﬁnire in
+un modo che non sia ambiguo la natura delle relazioni.
+3.5
+Quinto assioma: interazione simmetrica e complemen-
+tare.
+Tutti gli scambi di comunicazione sono simmetrici o complementari,
+a seconda che siano basati sull’uguaglianza o sulla diﬀerenza. Nel pri-
+mo caso, un parlante tende a rispecchiare il comportamento dell’altro, creando
+un’interazione simmetrica. Nel secondo caso, il comportamento di un parlante
+completa quello dell’altro e costituisce un tipo diverso di Gestalt comportamen-
+tale, creando un’interazione complementare. In quest’ultimo caso, un partner
+assume una posizione primaria, detta one-up, superiore; mentre l’altro partner
+completa per così dire la conﬁgurazione assumendo una posizione one-down,
+ovvero inferiore. Non dobbiamo tuttavia attribuire giudizi di valore come “buo-
+no” e “cattivo” o “forte” e “debole” alla precedente distinzione: l’assunzione di
+una posizione o l’altra potrebbe essere determinata semplicemente da contesti
+culturali o sociali (es. madre/ﬁglio, medico/paziente, insegnante/allievo).
+11
