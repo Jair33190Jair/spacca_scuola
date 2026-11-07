@@ -8,7 +8,7 @@
 ## OCR (PDF e documenti scansionati)
 
 Decisione documentata in
-`02_architettura/decisioni/01_ocr.md`.
+`architettura/decisioni/01_ocr.md`.
 
 | Campo | Valore | Stato |
 | --- | --- | --- |

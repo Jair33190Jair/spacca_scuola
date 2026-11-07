@@ -67,8 +67,8 @@ Metti tutto nella cartella `risorse/` della lezione:
   convertiti automaticamente in `.txt` via OCR quando
   lanci `/genera-riassunti`.
 
-Per una nuova materia, copia `02_semestre/template_materia/`
-come punto di partenza.
+Per una nuova materia, copia `strumenti/00_template_materia/`
+in `02_semestre/` come punto di partenza.
 
 ### 2. Genera i riassunti con Claude Code o Codex
 
@@ -132,7 +132,9 @@ spacca_scuola/
 │   │   └── <NN>_<lezione>/
 │   │       ├── risorse/   ← input: PDF, slide, scansioni, .txt
 │   │       └── gen/       ← output generati dall'AI
-│   └── template_materia/
+│
+├── strumenti/
+│   └── 00_template_materia/  ← template da copiare
 │
 ├── ai_assistant/          ← istruzioni per l'AI
 │   ├── ai_context.md

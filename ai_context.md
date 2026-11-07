@@ -31,7 +31,10 @@ spacca_scuola/
 │   │   │   │   └── 03_riassunto_schematico.md
 │   │   │   └── risorse/       ← input: trascrizione_NN.txt + PDF/slide/scansioni
 │   │   └── ...
-│   └── template_materia/       ← template vuoto da copiare
+│
+├── strumenti/
+│   └── 00_template_materia/    ← template vuoto da copiare (14 lezioni numerate)
+├── progetto/idee.md            ← idee e backlog
 │
 ├── ai_assistant/               ← configurazione assistente AI
 │   ├── ai_context.md           ← personalità e regole dell'AI
@@ -42,7 +45,7 @@ spacca_scuola/
 │       ├── 03_riassunto_schematico.md
 │       └── gen_ampia_panoramica.md
 │
-├── 02_architettura/decisioni/  ← decisioni architetturali (ADR)
+├── architettura/decisioni/     ← decisioni architetturali (ADR)
 ├── aiuto/comandi.md            ← cheatsheet comandi CLI/git
 ├── src/                        ← script di pre-processing ed export PDF
 ├── Makefile                    ← comandi `preprocess` / `export_pdf`
@@ -90,7 +93,7 @@ riesecuzione isolata dell'OCR.
 | Percorso                                | Contenuto                             |
 | --------------------------------------- | ------------------------------------- |
 | `README.md`                           | Setup, installazione, uso quotidiano  |
-| `02_architettura/decisioni/01_ocr.md` | Confronto soluzioni OCR e decisione   |
+| `architettura/decisioni/01_ocr.md`    | Confronto soluzioni OCR e decisione   |
 | `ai_assistant/ai_guide/*.md`          | Istruzioni per ogni formato di output |
-| `02_semestre/template_materia/`       | Template da copiare per nuove materie |
+| `strumenti/00_template_materia/`      | Template da copiare per nuove materie |
 | `aiuto/comandi.md`                    | Riferimento comandi CLI e git         |
